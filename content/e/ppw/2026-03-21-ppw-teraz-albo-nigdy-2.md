@@ -28,6 +28,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 * The next day [Johnny Blade](@/w/johnny-blade.md) [chose the stipulation][kolczasta-stypulacja] for his match with [Olgierd](@/w/olgierd.md): a Barbed Wire Mayhem Match, in which any and all weapons must be wrapped in barbed wire.
 * The next Battle Royal contender, unveiled an hour later, was [Tony Sheen](@/w/riverman.md).
 * The match between Johnny Blade and Olgierd was officially confirmed on 10.03.2026.
+* [Leon Lato](@/w/leon-lato.md), who debuted for PpW [a month prior](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), was announced for the Battle Royal on 16.03.2026. 
 
 ## Predicted card
 
@@ -56,7 +57,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
   - '[Filip Fux](@/w/filip-fux.md)'
   - '[Mutant](@/w/mutant.md)'
   - '[Tony Sheen](@/w/riverman.md)'
-  - '???'
+  - '[Leon Lato](@/w/leon-lato.md)'
   - '???'
   - '???'
   - '???'
