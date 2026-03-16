@@ -21,6 +21,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 * The next match, revealed on 27.02.2026, was [Disco Pablo](@/w/disco-pablo.md) vs [Mister Z](@/w/mister-z.md).
 * On 2.03.2025 MZW unveiled the main event: [Matt Buckna](@/w/matt-buckna.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) for the [MZW Championship](@/c/mzw-championship.md).
 * The next announcement came on 12.03.2025, and was for a Three-Way Match between [Tony Sheen](@/w/riverman.md), [Boro](@/w/boro.md) and [Sambor](@/w/sambor.md).
+* On 16.03.2026 [Oskar Alexander](@/w/oskar-alexander.md) issued an open challenge "to show all the fans his pride and greatness".
 
 ## Predicted card
 
@@ -40,6 +41,10 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
   - '[Boro](@/w/boro.md)'
   - '[Sambor](@/w/sambor.md)'
   - s: Triple Threat Match
+    nc: upcoming
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '???'
+  - s: Open Challenge
     nc: upcoming
 - - '[Matt Buckna](@/w/matt-buckna.md)(c)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
