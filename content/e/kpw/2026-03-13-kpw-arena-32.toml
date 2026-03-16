@@ -30,7 +30,26 @@
 3006 = { path = "srrruuu.webp", caption = "Tomczak throws Michał Fux into the ring, as [Greg](@/w/greg.md) gathers his wits in the background.", source = "M3n747" }
 3007 = { path = "ten-pan-wygral.webp", caption = "[Greg](@/w/greg.md) wins, as declared by Referee Alan.", source = "M3n747" }
 
-4001 = { path = ".webp", caption = ".", source = "M3n747" }
+4001 = { path = "kurka-blaszka-ale-przystojny.webp", caption = "[Advocate Fux](@/w/filip-fux.md).", source = "M3n747" }
+4002 = { path = "piekna-i-lysy.webp", caption = "[Assistant Kinga](@/w/kinga-miotke.md) and [prosecutor Chemik](@/w/chemik.md).", source = "M3n747" }
+4003 = { path = "piekna-i-brodaty.webp", caption = "[Assistant Kinga](@/w/kinga-miotke.md) and [judge Malinowski](@/w/krystian-malinowski.md).", source = "Ville Paananen" }
+4004 = { path = "ej-a-jak-on-w-sumie-myje-zeby.webp", caption = "Advocate Fux and [defendant Zefir](@/w/zefir.md).", source = "M3n747" }
+4005 = { path = "chcialby-wrestlingowy-debiut-pewnie.webp", caption = "The man with the &quot;police licence&quot; keeps an eye on defendant Zefir.", source = "M3n747" }
+4006 = { path = "byl-taki-film-z-johnem-travolta-i-nicolasem-cageem.webp", caption = "[Defendant Zefir](@/w/zefir.md) states his name for the record.", source = "M3n747" }
+4007 = { path = "carthago-delenda-est.webp", caption = "[Prosecutor Chemik](@/w/chemik.md) presents his case to [judge Malinowski](@/w/krystian-malinowski.md). [Assistant Kinga](@/w/kinga-miotke.md) does not appear to share Chemik's enthusiasm.", source = "Ville Paananen" }
+4008 = { path = "pamietam-jak-w-jednym-filmie-ksiadz-krzywoprzysiagl-na-swoj-egzemplarz-moby-dicka.webp", caption = "[Rookie Two](@/w/rookie-two.md) swears to the truthfulness of his testimoty on the Bible held by [assistant Kinga](@/w/kinga-miotke.md). In the foreground sits prosecutor Chemik.", source = "Ville Paananen" }
+
+4009 = { path = ".webp", caption = ".", source = "M3n747" }
+
+4010 = { path = ".webp", caption = ".", source = "M3n747" }
+4011 = { path = ".webp", caption = ".", source = "M3n747" }
+4012 = { path = ".webp", caption = ".", source = "M3n747" }
+4013 = { path = ".webp", caption = ".", source = "M3n747" }
+4014 = { path = ".webp", caption = ".", source = "M3n747" }
+4015 = { path = ".webp", caption = ".", source = "M3n747" }
+4016 = { path = ".webp", caption = ".", source = "M3n747" }
+4017 = { path = ".webp", caption = ".", source = "M3n747" }
+4018 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 
