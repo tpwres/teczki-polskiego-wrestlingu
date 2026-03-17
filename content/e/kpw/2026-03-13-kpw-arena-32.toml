@@ -38,27 +38,25 @@
 4006 = { path = "byl-taki-film-z-johnem-travolta-i-nicolasem-cageem.webp", caption = "[Defendant Zefir](@/w/zefir.md) states his name for the record.", source = "M3n747" }
 4007 = { path = "carthago-delenda-est.webp", caption = "[Prosecutor Chemik](@/w/chemik.md) presents his case to [judge Malinowski](@/w/krystian-malinowski.md). [Assistant Kinga](@/w/kinga-miotke.md) does not appear to share Chemik's enthusiasm.", source = "Ville Paananen" }
 4008 = { path = "pamietam-jak-w-jednym-filmie-ksiadz-krzywoprzysiagl-na-swoj-egzemplarz-moby-dicka.webp", caption = "[Rookie Two](@/w/rookie-two.md) swears to the truthfulness of his testimoty on the Bible held by [assistant Kinga](@/w/kinga-miotke.md). In the foreground sits prosecutor Chemik.", source = "Ville Paananen" }
-
-4009 = { path = ".webp", caption = ".", source = "M3n747" }
-
-4010 = { path = ".webp", caption = ".", source = "M3n747" }
-4011 = { path = ".webp", caption = ".", source = "M3n747" }
-4012 = { path = ".webp", caption = ".", source = "M3n747" }
-4013 = { path = ".webp", caption = ".", source = "M3n747" }
-4014 = { path = ".webp", caption = ".", source = "M3n747" }
-4015 = { path = ".webp", caption = ".", source = "M3n747" }
-4016 = { path = ".webp", caption = ".", source = "M3n747" }
-4017 = { path = ".webp", caption = ".", source = "M3n747" }
-4018 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-
-
+4009 = { path = "teczka-jak-u-tyminskiego.webp", caption = "[Advocate Fux](@/w/filip-fux.md) resorts to presenting evidence from this briefcase, resting on the table in front of [defendant Zefir](@/w/zefir.md). The shady man in a police uniform stands at his post, and [assistant Kinga](@/w/kinga-miotke.md) observes the proceedings.", source = "M3n747" }
+4010 = { path = "zakladaj-maske-i-gramy-w-butelke.webp", caption = "Advocate Fux presents the glass bottle and ski mask found in Michał Fux's suitcase.", source = "M3n747" }
+4011 = { path = "dobra-to-ja-krece-pierwszy.webp", caption = "[Prosecutor Chemik](@/w/chemik.md) tries on the ski mask.", source = "M3n747" }
+4012 = { path = "czy-cosplayerzy-policjantow-licza-sie-jako-furasy.webp", caption = "Michał Fux brought in by the man of questionable legal standing.", source = "M. Gołębiewski" }
+4013 = { path = "masz-tu-pan-mikrofon-i-wszystko-nam-pan-teraz-wyspiewasz.webp", caption = "[Judge Malinowski](@/w/krystian-malinowski.md) questions [witness Fux](@/w/michal-fux.md), while prosecutor Chemik reaches for some documents and [assistant Kinga](@/w/kinga-miotke.md) is at the ready to assist.", source = "M3n747" }
+4014 = { path = "no-co-wiecie-jak-on-falszowal.webp", caption = "The fauxliceman cuffs [witness Fux](@/w/michal-fux.md), much to [prosecutor Chemik's](@/w/chemik.md) poorly-hidden glee.", source = "M3n747" }
+4015 = { path = "sad-filip-in-the-ring.webp", caption = "Filip Fux sits crestfallen, under the silent accusatory stare of [his brother](@/w/michal-fux.md).", source = "Ville Paananen" }
+4016 = { path = "fingerem-cie-pokene-i-bede-doomny.webp", caption = "[Zefir](@/w/zefir.md) makes a silent promise to prosecutor Chemik, while [advocate Fux](@/w/filip-fux.md) looks glum.", source = "M3n747" }
 
 5001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+
+
+
 6001 = { path = ".webp", caption = ".", source = "M3n747" }
 7001 = { path = ".webp", caption = ".", source = "M3n747" }
 8001 = { path = ".webp", caption = ".", source = "M3n747" }
