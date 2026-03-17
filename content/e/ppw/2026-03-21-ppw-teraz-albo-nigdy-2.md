@@ -29,6 +29,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 * The next Battle Royal contender, unveiled an hour later, was [Tony Sheen](@/w/riverman.md).
 * The match between Johnny Blade and Olgierd was officially confirmed on 10.03.2026.
 * [Leon Lato](@/w/leon-lato.md), who debuted for PpW [a month prior](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), was announced for the Battle Royal on 16.03.2026. 
+* The winner of the 20 Typa 20 Broni Battle Royal at the [first Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), [Goblin](@/w/goblin.md), was announced on 17.03.2026.
 
 ## Predicted card
 
@@ -58,7 +59,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
   - '[Mutant](@/w/mutant.md)'
   - '[Tony Sheen](@/w/riverman.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
-  - '???'
+  - '[Goblin](@/w/goblin.md)'
   - '???'
   - '???'
   - '???'
