@@ -78,7 +78,7 @@ _Listed in alphabetical order:_
 * [Taras](@/w/taras.md)
 * [TAXI Złotówa](@/w/taxi-zlotowa.md)
 * [Vincent Caravaggio](@/w/vincent-caravaggio.md)
-* [Whiteblade](@/w/whiteblade.md)
+* [Dropper/Whiteblade](@/w/whiteblade.md)
 * [Wiktor Longman](@/w/wiktor-longman.md)
 
 ## History
