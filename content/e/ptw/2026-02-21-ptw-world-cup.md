@@ -45,7 +45,7 @@ has_video = false
   - s: World Cup Quarter Finals Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Whiteblade](@/w/dropper.md)'
-  - g: Lambert reveals himself
+  - g: Lambert reveals himself as the Prophet, Dropper debuts as Whiteblade
 - - '[Damian Lambert](@/w/damian-lambert.md)'
   - 'Bart Petro'
 - - '[Spartan](@/w/spartan.md)(c)'
