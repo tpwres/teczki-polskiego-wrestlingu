@@ -47,16 +47,26 @@
 4015 = { path = "sad-filip-in-the-ring.webp", caption = "Filip Fux sits crestfallen, under the silent accusatory stare of [his brother](@/w/michal-fux.md).", source = "Ville Paananen" }
 4016 = { path = "fingerem-cie-pokene-i-bede-doomny.webp", caption = "[Zefir](@/w/zefir.md) makes a silent promise to prosecutor Chemik, while [advocate Fux](@/w/filip-fux.md) looks glum.", source = "M3n747" }
 
-5001 = { path = ".webp", caption = ".", source = "M3n747" }
+5001 = { path = "mikolaj-kwiatkowski.webp", caption = "Nico Narciso.", source = "M3n747" }
+5002 = { path = "leon-lato-wszedl.webp", caption = "[Leon Lato's](@/w/leon-lato.md) entrance.", source = "M3n747" }
+5003 = { path = "leon-lato-pozamiatal.webp", caption = "Leon Lato kicks Nico Narciso between the ropes.", source = "M3n747" }
+5004 = { path = "leon-lato-wyszedl.webp", caption = "[Leon Lato](@/w/leon-lato.md) wins.", source = "Ville Paananen" }
+
+6001 = { path = "z-liny-wloskiej-do-polski.webp", caption = "Guido Buriani.", source = "M3n747" }
+6002 = { path = "adept-1.webp", caption = "[Rookie One](@/w/oskar-haller.md).", source = "M3n747" }
+6003 = { path = "adepcie-chytajze-linem-ino-raz.webp", caption = "[Rookie One](@/w/oskar-haller.md) makes for a rope break.", source = "M3n747" }
+6004 = { path = "il-corpo-schiacciato.webp", caption = "[Rookie One](@/w/oskar-haller.md) body slams Guido Buriani.", source = "M3n747" }
+6005 = { path = "mieszkam-blisko-ulicy-imienia-tego-pana-nie-nie-przy-ul-adepta-1.webp", caption = "Rookie One intruduces himself to [Krystian Malinowski](@/w/krystian-malinowski.md) and the fans as [Oskar Haller](@/w/oskar-haller.md).", source = "Ville Paananen" }
 
 
-
-
-
-
-
-
-
-6001 = { path = ".webp", caption = ".", source = "M3n747" }
 7001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+
+
+
 8001 = { path = ".webp", caption = ".", source = "M3n747" }
