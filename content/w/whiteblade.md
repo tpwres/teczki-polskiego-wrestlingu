@@ -6,6 +6,9 @@ authors = ["M3n747"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "whiteblade_bez_maski.webp", caption = "Dropper, unmasked.", source = "whiteblade_ptw @ Instagram" }
+2 = { path = "whiteblade_w_masce.webp", caption = "Whiteblade, masked.", source = "Whiteblade PTW @ Facebook" }
 +++
 
 Whiteblade is a wrestler working for [Prime Time Wrestling](@/o/ptw.md).
