@@ -1,7 +1,7 @@
 +++
 title = "PTW: Odrodzenie"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -69,8 +69,8 @@ This event marked a change in PTW's policy. The live stream was available to You
 ### Highlights
 
 * Despite being announced, [Remo](@/w/remo.md) did not appear at the show.
-* After winning a Four way match, [Damian Lambert](@/w/damian-lambert.md) debuted a new gimmick, preaching that the mysterious "Prophet" who knows all the answers will come to PTW.
-* Later on the show, Lambert interfered in a post-match altercation between Bumper & Dropper. Driving Bumper off, he offered Dropper a lucha mask. Not accepting Dropper's rejection, Lambert laid him out with a _German suplex_ and put the mask onto his face forcibly, carrying prone Dropper away from the arena.
+* After winning the Four Way Match, [Damian Lambert](@/w/damian-lambert.md) debuted his new gimmick, preaching that the mysterious "Prophet" who knows all the answers will come to PTW.
+* Later at the show, Lambert interfered in a post-match altercation between Bumper and Dropper. Driving Bumper away, he offered Dropper a lucha mask. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
 
 ## References
 
