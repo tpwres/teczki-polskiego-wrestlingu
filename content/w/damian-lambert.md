@@ -1,7 +1,7 @@
 +++
 title = "Damian Lambert"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski"]
 aliases = ["/w/damien-rothschild"]
 [extra]
 toclevel = 2
@@ -17,6 +17,7 @@ Damian Lambert - also known as Damien Rothschild - is a Polish wrestler currentl
 * Gimmicks/nicknames:
   - Damian Lambert {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }}
   - Damien Rotschild {{ org_badge(orgs=['mzw']) }}
+  - Prophet {{ org_badge(orgs=['ptw']) }} (2026-)
 * Trained by:
   - [DDW Academy](@/o/ddw-academy.md) (201?-2015)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2016)
@@ -46,7 +47,13 @@ Following his defeat, Rotschild retired from professional wrestling.
 
 ### Prime Time Wrestling (2025-)
 
-On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md), making it his return to professional wrestling after a hiatus which lasted for nearly six years. He continued to appear for the promotion over the following months, earning a shot for the [PTW Championship](@/c/ptw-championship.md), which he wasted by being defeated by the reigning champion, [Puncher](@/w/puncher.md).
+On 26.06.2025 [Prime Time Wrestling](@/o/ptw.md) announced Damian Lambert as the second entrant in Gold Rush Rumble 2 at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md), making it his return to professional wrestling after a hiatus which lasted for nearly six years. He continued to appear for the promotion over the following months, earning a shot at the [PTW Championship](@/c/ptw-championship.md), which he wasted by losing to the reigning Champion, [Puncher](@/w/puncher.md). After the loss, Lambert, visibly shaken, promised a change. Delivering on the promise, he established a brief winning streak over the next shows. 
+
+#### Prophet (2026-)
+
+At [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he debuted a new gimmick, preaching that a mysterious "Prophet" who knows all the answers would come to PTW. Later at the show, Lambert interfered in a post-match altercation between Bumper and Dropper. Driving Bumper away, he offered Dropper a lucha mask. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
+
+At [PTW: World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert debuted a new theme and gave a rambling promo before his match against Bart Petro. He talked about "multiple voices", the uncertainty of today's world and the need to have a guiding figure. It was met with "idź się leczyć" (roughly _get your head checked_) chants from the crowd, to which Lambert replied that the fans were the ones that need professional help. He announced the Prophet who would guide everyone, and revealed that it was himself. He prophesied the end of the world and promised to save us - just like he'd saved a person so lost that even his name was Dropper. Dropper - now renamed [Whiteblade](@/w/whiteblade.md) - made a full entrance wearing a lucha mask gifted by Lambert, complete with new ring gear. Whiteblade made a quiet exit from the ring and Lambert defeated Petro in the scheduled match.
 
 ## International wrestling appearances
 
@@ -57,16 +64,21 @@ During his British excursion Lambert made appearances in two matches for Coventr
 * Finishers:
   - _Lambert Lock_ (Armbar) (2015-2019)
 * Entrance music:
-  - "Shut Your Mouth" by Pain
-    {{ org_badge(orgs=['kpw', 'ptw']) }} (2015-2016; 2025-) <br>
-    {{ music(yt='067YF8KHdTM')}}
-    {{ music(spot='5sLRiOznZn6SglsszMDP1w')}}
-    {{ music(apple='1779479116?i=1779479216')}}
   - "NieWolnOść" by Hunter
     {{ org_badge(orgs=['mzw']) }} (2017-2019) <br>
     {{ music(yt='jIB6E1gSoMM')}}
     {{ music(spot='3ojITUjoFxaqYASKOcOgH0')}}
     {{ music(apple='1491000606?i=1491000607')}}
+  - "Shut Your Mouth" by Pain
+    {{ org_badge(orgs=['kpw', 'ptw']) }} (2015-2016; 2025-2026) <br>
+    {{ music(yt='067YF8KHdTM')}}
+    {{ music(spot='5sLRiOznZn6SglsszMDP1w')}}
+    {{ music(apple='1779479116?i=1779479216')}}
+  - "WIERSZALIN II" by PATRIARKH
+    {{ org_badge(orgs=['ptw']) }} (2026-) <br>
+    {{ music(yt='7a31Quup_Qc')}}
+    {{ music(spot='1YEuEDn3n8jN2TDB20xOfR')}}
+    {{ music(apple='1770363131?i=1770363131')}}
 
 ## Championships and accomplishments
 

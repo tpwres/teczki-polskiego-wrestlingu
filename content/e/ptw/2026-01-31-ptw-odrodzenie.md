@@ -1,7 +1,7 @@
 +++
 title = "PTW: Odrodzenie"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -41,6 +41,8 @@ This event marked a change in PTW's policy. The live stream was available to You
   - '[Boguś](@/w/bogus.md)'
   - 'Fashion Gabriel'
   - s: Four-Way Match
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - g: 'Damian Lambert announces the coming of "The Prophet"'
 - - 'Damian Adler'
   - '[CJ Klakson](@/w/cj-klakson.md)'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
@@ -51,8 +53,12 @@ This event marked a change in PTW's policy. The live stream was available to You
   - 'Bart Petro'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
-  - 'Drop and Bump: [Bumper](@/w/bumper.md) & [Dropper](@/w/dropper.md)'
+  - 'Drop & Bump: [Bumper](@/w/bumper.md) & [Dropper](@/w/whiteblade.md)'
   - s: Tag Team Match
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Bumper](@/w/bumper.md)'
+  - '[Dropper](@/w/whiteblade.md)'
+  - Bumper attacks Dropper after their loss. Damian Lambert makes a save and kidnaps Dropper, forcing a mask on his face.
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
@@ -63,6 +69,8 @@ This event marked a change in PTW's policy. The live stream was available to You
 ### Highlights
 
 * Despite being announced, [Remo](@/w/remo.md) did not appear at the show.
+* After winning the Four Way Match, [Damian Lambert](@/w/damian-lambert.md) debuted his new gimmick, preaching that the mysterious "Prophet" who knows all the answers will come to PTW.
+* Later at the show, Lambert interfered in a post-match altercation between Bumper and Dropper. Driving Bumper away, he offered Dropper a lucha mask. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
 
 ## References
 
