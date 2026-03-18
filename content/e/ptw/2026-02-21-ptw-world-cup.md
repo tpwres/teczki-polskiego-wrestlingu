@@ -44,6 +44,9 @@ has_video = false
   - '_🇦🇹_ Andi ZickZack'
   - s: World Cup Quarter Finals Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Whiteblade](@/w/dropper.md)'
+  - g: Lambert reveals himself
+- - '[Damian Lambert](@/w/damian-lambert.md)'
   - 'Bart Petro'
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Renegade](@/w/renegade.md)'
@@ -80,7 +83,8 @@ has_video = false
 
 ### Highlights
 
-* Damian Adler, despite being Polish, represented Germany in the tournament.
+* As a part of his gimmick, Damian Adler, despite being Polish, represented Germany in the tournament.
+* Damian Lambert made an entrance to a new theme, with a rambling promo before his match. He starts talking about "multiple voices", uncertainty of today's world and a need to have a guiding figure, met with _Idź się leczyć_ (roughly _go to a psychiatrist_) chants from the crowd. He affirms that the fans are the ones who need their mental health checked. He announces the Prophet who will guide everyone and reveals it is himself. He prophesizes the end of the world and promises to save us - just like he saved a person so lost that even his name was [Dropper](@/w/dropper.md). Now renamed [Whiteblade](@/w/dropper.md), he makes a full entrance wearing a lucha mask gifted by Lambert complete with a new gear. Seemingly, Lambert is starting a cult.
 
 ## References
 
