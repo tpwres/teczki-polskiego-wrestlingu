@@ -42,7 +42,7 @@ This event marked a change in PTW's policy. The live stream was available to You
   - 'Fashion Gabriel'
   - s: Four-Way Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - g: 'Damian Lambert announces coming of "The Prophet"'
+  - g: 'Damian Lambert announces the coming of "The Prophet"'
 - - 'Damian Adler'
   - '[CJ Klakson](@/w/cj-klakson.md)'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
@@ -58,7 +58,7 @@ This event marked a change in PTW's policy. The live stream was available to You
 - - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Bumper](@/w/bumper.md)'
   - '[Dropper](@/w/whiteblade.md)'
-  - Bumper attacks Dropper after their loss. Damian Lambert makes the save and kidnaps Dropper, forcing a mask on his faace.
+  - Bumper attacks Dropper after their loss. Damian Lambert makes a save and kidnaps Dropper, forcing a mask on his face.
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
