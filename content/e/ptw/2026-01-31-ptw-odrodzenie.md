@@ -41,6 +41,8 @@ This event marked a change in PTW's policy. The live stream was available to You
   - '[Boguś](@/w/bogus.md)'
   - 'Fashion Gabriel'
   - s: Four-Way Match
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - g: 'Damian Lambert announces coming of "The Prophet"'
 - - 'Damian Adler'
   - '[CJ Klakson](@/w/cj-klakson.md)'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
@@ -53,6 +55,10 @@ This event marked a change in PTW's policy. The live stream was available to You
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
   - 'Drop and Bump: [Bumper](@/w/bumper.md) & [Dropper](@/w/dropper.md)'
   - s: Tag Team Match
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Bumper](@/w/bumper.md)'
+  - '[Dropper](@/w/dropper.md)'
+  - Bumper attacks Dropper after their loss. Damian Lambert makes the save and kidnaps Dropper, forcing a mask on his faace.
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
@@ -63,6 +69,8 @@ This event marked a change in PTW's policy. The live stream was available to You
 ### Highlights
 
 * Despite being announced, [Remo](@/w/remo.md) did not appear at the show.
+* After winning a Four way match, [Damian Lambert](@/w/damian-lambert.md) debuted a new gimmick, preaching that the mysterious "Prophet" who knows all the answers will come to PTW.
+* Later on the show, Lambert interfered in a post-match altercation between Bumper & Dropper. Driving Bumper off, he offered Dropper a lucha mask. Not accepting Dropper's rejection, Lambert laid him out with a _German suplex_ and put the mask onto his face forcibly, carrying prone Dropper away from the arena.
 
 ## References
 
