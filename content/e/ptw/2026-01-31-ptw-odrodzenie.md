@@ -53,11 +53,11 @@ This event marked a change in PTW's policy. The live stream was available to You
   - 'Bart Petro'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
-  - 'Drop and Bump: [Bumper](@/w/bumper.md) & [Dropper](@/w/dropper.md)'
+  - 'Drop and Bump: [Bumper](@/w/bumper.md) & [Dropper](@/w/whiteblade.md)'
   - s: Tag Team Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Bumper](@/w/bumper.md)'
-  - '[Dropper](@/w/dropper.md)'
+  - '[Dropper](@/w/whiteblade.md)'
   - Bumper attacks Dropper after their loss. Damian Lambert makes the save and kidnaps Dropper, forcing a mask on his faace.
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'

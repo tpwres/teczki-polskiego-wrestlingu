@@ -55,7 +55,6 @@ _Listed in alphabetical order:_
 * Bart Petro
 * [Boguś](@/w/bogus.md)
 * [Bumper](@/w/bumper.md)
-* [Dropper](@/w/dropper.md)
 * [CJ Klakson](@/w/cj-klakson.md)
 * [Daniel Razor](@/w/daniel-razor.md)
 * Damian Adler
@@ -79,6 +78,7 @@ _Listed in alphabetical order:_
 * [Taras](@/w/taras.md)
 * [TAXI Złotówa](@/w/taxi-zlotowa.md)
 * [Vincent Caravaggio](@/w/vincent-caravaggio.md)
+* [Whiteblade](@/w/whiteblade.md)
 * [Wiktor Longman](@/w/wiktor-longman.md)
 
 ## History
