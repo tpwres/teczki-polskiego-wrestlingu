@@ -84,7 +84,7 @@ has_video = false
 ### Highlights
 
 * As a part of his gimmick, Damian Adler, despite being Polish, represented Germany in the tournament.
-* Damian Lambert made an entrance to a new theme, with a rambling promo before his match. He starts talking about "multiple voices", uncertainty of today's world and a need to have a guiding figure, met with _Idź się leczyć_ (roughly _go to a psychiatrist_) chants from the crowd. He affirms that the fans are the ones who need their mental health checked. He announces the Prophet who will guide everyone and reveals it is himself. He prophesizes the end of the world and promises to save us - just like he saved a person so lost that even his name was [Dropper](@/w/whiteblade.md). Now renamed [Whiteblade](@/w/whiteblade.md), he makes a full entrance wearing a lucha mask gifted by Lambert complete with a new gear. Seemingly, Lambert is starting a cult.
+* Damian Lambert made an entrance to a new theme song, with a rambling promo before his match. He started talking about "multiple voices", the uncertainty of today's world and the need to have a guiding figure. It was met with "idź się leczyć" (roughly _get your head checked_) chants from the crowd, to which Lambert replied that the fans were the ones that need professional help. He announced the Prophet who would guide everyone, and revealed that it was himself. He prophesied the end of the world and promised to save us - just like he'd saved a person so lost that even his name was [Dropper](@/w/whiteblade.md). Dropper - now renamed [Whiteblade](@/w/whiteblade.md) - made a full entrance wearing a lucha mask gifted by Lambert, complete with new ring gear. Seemingly, Lambert was starting a cult.
 
 ## References
 
