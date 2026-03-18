@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Dropper is a wrestler working for [Prime Time Wrestling](@/o/ptw.md).
+Whiteblade is a wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
