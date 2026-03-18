@@ -30,7 +30,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 * The match between Johnny Blade and Olgierd was officially confirmed on 10.03.2026.
 * [Leon Lato](@/w/leon-lato.md), who debuted for PpW [a month prior](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), was announced for the Battle Royal on 16.03.2026. 
 * The winner of the 20 Typa 20 Broni Battle Royal at the [first Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), [Goblin](@/w/goblin.md), was announced on 17.03.2026.
-* He was followed the next day by [Gabriel Queen](@/w/gabriel-queen.md).
+* He was followed the next day by the addition of [Gabriel Queen](@/w/gabriel-queen.md).
 
 ## Predicted card
 
