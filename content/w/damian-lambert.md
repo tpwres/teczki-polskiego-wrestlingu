@@ -64,21 +64,21 @@ During his British excursion Lambert made appearances in two matches for Coventr
 * Finishers:
   - _Lambert Lock_ (Armbar) (2015-2019)
 * Entrance music:
-  - "WIERSZALIN II" by PATRIARKH
-    {{ org_badge(orgs=['ptw']) }} (2026-) <br>
-    {{ music(yt='7a31Quup_Qc')}}
-    {{ music(spot='1YEuEDn3n8jN2TDB20xOfR')}}
-    {{ music(apple='1770363131?i=1770363131')}}
-  - "Shut Your Mouth" by Pain
-    {{ org_badge(orgs=['kpw', 'ptw']) }} (2015-2016; 2025-2026) <br>
-    {{ music(yt='067YF8KHdTM')}}
-    {{ music(spot='5sLRiOznZn6SglsszMDP1w')}}
-    {{ music(apple='1779479116?i=1779479216')}}
   - "NieWolnOść" by Hunter
     {{ org_badge(orgs=['mzw']) }} (2017-2019) <br>
     {{ music(yt='jIB6E1gSoMM')}}
     {{ music(spot='3ojITUjoFxaqYASKOcOgH0')}}
     {{ music(apple='1491000606?i=1491000607')}}
+  - "Shut Your Mouth" by Pain
+    {{ org_badge(orgs=['kpw', 'ptw']) }} (2015-2016; 2025-2026) <br>
+    {{ music(yt='067YF8KHdTM')}}
+    {{ music(spot='5sLRiOznZn6SglsszMDP1w')}}
+    {{ music(apple='1779479116?i=1779479216')}}
+  - "WIERSZALIN II" by PATRIARKH
+    {{ org_badge(orgs=['ptw']) }} (2026-) <br>
+    {{ music(yt='7a31Quup_Qc')}}
+    {{ music(spot='1YEuEDn3n8jN2TDB20xOfR')}}
+    {{ music(apple='1770363131?i=1770363131')}}
 
 ## Championships and accomplishments
 
