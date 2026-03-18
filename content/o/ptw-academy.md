@@ -55,7 +55,7 @@ _Listed in alphabetical order:_
 * Bart Petro
 * [Boguś](@/w/bogus.md)
 * [Bumper](@/w/bumper.md)
-* [Dropper](@/w/dropper.md)
+* [Dropper/Whiteblade](@/w/dropper.md)
 * [CJ Klakson](@/w/cj-klakson.md)
 * [Daniel Razor](@/w/daniel-razor.md)
 * Damian Adler
