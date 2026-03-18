@@ -325,6 +325,15 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 2. [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md) - 80 votes
 3. [Adam Goldschmidt](@/w/adam-goldschmidt.md) - 29 votes
 
+##### Feud of the Year
+1. [Nietykalni](@/tt/nietykalni.md) vs Team Okoński - 32 votes
+2. [Puncher](@/w/puncher.md) vs [Spartan](@/w/spartan.md) - 16 votes
+3. [Royal Rebels](@/tt/royal-rebels.md) vs Śląskie Zebry - 15 votes
+4. [Miyagi Shida](@/w/miyagi-shida.md) vs [Serg Sullivan](@/w/serg-sullivan.md) - 10 votes
+   tied with
+4. [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) vs [Łukasz Okoński](@/w/lukasz-okonski.md) - 10 votes
+5. [Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md) 9 - votes
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)

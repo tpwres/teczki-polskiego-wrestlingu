@@ -79,6 +79,8 @@ In January 2024 Alex Brave (then named S. Rafał) made his international debut a
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Vincent Caravaggio](@/w/vincent-caravaggio.md); current)
+  - [PTW Awards](@/a/ptw-awards.md) (1 time1):
+    * Feud of the Year (2025) - as part of [Nietykalni](@/tt/nietykalni.md)
 
 ## Internet presence
 

@@ -44,7 +44,7 @@ At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by maki
 ### Current
 
 * [Dawid "Puncher" Seńko](@/w/puncher.md) - stable's prizefighter
-* [Royal Rebels](@/tt/royal-rebels.md) - a Tag Team of [Alex Brave](@/w/alex-brave.md) [Vincent Caravaggio](@/w/vincent-caravaggio.md)
+* [Royal Rebels](@/tt/royal-rebels.md) - a Tag Team of [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)
 * ["Starboy" Nano Lopez](@/w/nano-lopez.md) - turncoat
 
 ### Former
@@ -63,9 +63,10 @@ At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by maki
   - BestYa Slam Championship - Dawid "Puncher" Seńko (1 time)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) - Royal Rebels (1 time; current)
   - PTW World Cup (2026) - Vincent Caravaggio
-  - [PTW Awards](@/a/ptw-awards.md) (2 times):
+  - [PTW Awards](@/a/ptw-awards.md) (3 times):
     * Speaker of the year - Pan Pawłowski (2024)
     * Newcomer of the Year - Vincent Caravaggio (2024)
+    * Feud of the Year - as a group (2025)
 
 ## References 
 
