@@ -62,7 +62,7 @@ At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by maki
   - PTW WWA Championship - Dawid "Puncher" Seńko (1 time)
   - BestYa Slam Championship - Dawid "Puncher" Seńko (1 time)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) - Royal Rebels (1 time; current)
-  - PTW World Cup (2026) - Vincent Caravaggio
+  - [PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (2026) - Vincent Caravaggio
   - [PTW Awards](@/a/ptw-awards.md) (3 times):
     * Speaker of the year - Pan Pawłowski (2024)
     * Newcomer of the Year - Vincent Caravaggio (2024)
