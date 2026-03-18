@@ -329,9 +329,7 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 1. [Nietykalni](@/tt/nietykalni.md) vs Team Okoński - 32 votes
 2. [Puncher](@/w/puncher.md) vs [Spartan](@/w/spartan.md) - 16 votes
 3. [Royal Rebels](@/tt/royal-rebels.md) vs Śląskie Zebry - 15 votes
-4. [Miyagi Shida](@/w/miyagi-shida.md) vs [Serg Sullivan](@/w/serg-sullivan.md) - 10 votes
-   tied with
-4. [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) vs [Łukasz Okoński](@/w/lukasz-okonski.md) - 10 votes
+4. [Miyagi Shida](@/w/miyagi-shida.md) vs [Serg Sullivan](@/w/serg-sullivan.md) / [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) vs [Łukasz Okoński](@/w/lukasz-okonski.md) - 10 votes (tie)
 5. [Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md) 9 - votes
 
 ## References
