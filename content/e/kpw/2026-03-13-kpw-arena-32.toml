@@ -58,15 +58,19 @@
 6004 = { path = "il-corpo-schiacciato.webp", caption = "[Rookie One](@/w/oskar-haller.md) body slams Guido Buriani.", source = "M3n747" }
 6005 = { path = "mieszkam-blisko-ulicy-imienia-tego-pana-nie-nie-przy-ul-adepta-1.webp", caption = "Rookie One intruduces himself to [Krystian Malinowski](@/w/krystian-malinowski.md) and the fans as [Oskar Haller](@/w/oskar-haller.md).", source = "Ville Paananen" }
 
+7001 = { path = "nie-masz-szans-hans.webp", caption = "[Hans Schulte](@/w/hans-schulte.md), with referee [Krystian Czekaj](@/w/krystian-czekaj.md) in the background.", source = "M3n747" }
+7002 = { path = "czekam-na-wiatr-co-rozgoni.webp", caption = "[Zefir](@/w/zefir.md).", source = "M3n747" }
+7003 = { path = "und-jetzt-auf-dem-ring-ihn-przywahlen.webp", caption = "Zefir about to hit [Hans Schulte](@/w/hans-schulte.md) with a Power Bomb.", source = "M. Gołębiewski" }
+7004 = { path = "z-ta-lina-to-on-troche-tu-wyglada-jak-skoczek-o-tyczce", caption = "[Zefir](@/w/zefir.md) gathers positive energy from the crowd, as Hans Schulte writhes in pain and Krystian Czekaj monitors the situation.", source = "M. Gołębiewski" }
+7005 = { path = "geograficznie-nawet-sie-zgadza-ze-niemiec-po-lewej-a-polak-po-prawej.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) trapped in Zefir's hold.", source = "M3n747" }
+7006 = { path = "metafora-konfliktu-przygranicznego.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) chokes Zefir against the ropes, as Krystian Czekaj counts him out.", source = "M3n747" }
+7007 = { path = "literal-lifeline.webp", caption = "Zefir goes for a rope break to escape [Hans Schulte's](@/w/hans-schulte.md) clutches.", source = "M3n747" }
+7008 = { path = "lot-hansa-przez-luft.webp", caption = "Hans Schulte reverses Zefir's attempt into a throw of his own. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) appears nonplussed.", source = "M3n747" }
+7009 = { path = "scheiss-got-wirklich.webp", caption = "[Zefir](@/w/zefir.md) and [Hans Schulte](@/w/hans-schulte.md) visibly angry, while [Krystian Czekaj](@/w/krystian-czekaj.md) retains his composure.", source = "M3n747" }
+7010 = { path = "i-ever-tell-you-the-definition-of-insanity", caption = "Hans Schulte tries the same trick on [Zefir](@/w/zefir.md) once more.", source = "M3n747" }
+7011 = { path = "die-kraftbombe.webp", caption = "Hans Schulte attempts a Power Bomb on [Zefir](@/w/zefir.md).", source = "M3n747" }
+7012 = { path = "bomba-tony-labedzi.webp", caption = "Zefir hits Hans Schulte with a Swanton Bomb.", source = "M3n747" }
+7013 = { path = "i-tak-wlasnie-sie-robi-z-niemcami.webp.webp", caption = "[Zefir](@/w/zefir.md) wins the match.", source = "M3n747" }
 
-7001 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-
-
-
-
-8001 = { path = ".webp", caption = ".", source = "M3n747" }
+8001 = { path = "i-to-juz-wszystko.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) closes the show, when suddenly…", source = "M3n747" }
+8002 = { path = "a-wild-lesak-appears.webp", caption = "…[Eryk Lesak](@/w/eryk-lesak.md) comes back to announce [the next show](@/e/kpw/2026-04-24-kpw-arena-33.md).", source = "M3n747" }
