@@ -63,6 +63,12 @@ This led to a Spartan vs Puncher match being not only for the [PTW Championship]
     {{ music(spot='76gbXfMpFoZJGkPgxgzvFt')}}
     {{ music(apple='1667458717?i=1667458879')}}
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Feud of the Year (2025) - as part of Team Okoński
+
 ## Internet presence
 
 * [Okoński's Facebook profile](https://www.facebook.com/okon.luk)

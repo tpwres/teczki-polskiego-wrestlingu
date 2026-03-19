@@ -102,7 +102,8 @@ From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promot
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Championship](@/c/ptw-championship.md) (1 time; inaugural)
   - [Gold Rush Rumble](@/a/ptw-gold-rush-rumble.md) (2023)
-  - [PTW Awards](@/a/ptw-awards.md) (3 times):
+  - [PTW Awards](@/a/ptw-awards.md) (4 times):
     * Wrestler of the Year (2022)
     * Speaker of the Year (2022)
     * Finisher of the Year (2022)
+    * Feud of the Year (2025) - as part of [Nietykalni](@/tt/nietykalni.md)

@@ -94,6 +94,8 @@ From 2021 onwards Nano started making occasional appearances in independent fede
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Underground Championship](@/c/ptw-underground-championship.md) (1 time; current)
   - Gold Rush Rumble (2025)
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Feud of the Year (2025) - as part of [Nietykalni](@/tt/nietykalni.md)/Team Okoński
 
 ## Internet presence
 
