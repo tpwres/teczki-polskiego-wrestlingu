@@ -30,5 +30,6 @@ At [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) Pawłowski expresse
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current)
   - [PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (2026) - Vincent Caravaggio
-  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+  - [PTW Awards](@/a/ptw-awards.md) (2 times):
     * Feud of the Year (2025) - as part of [Nietykalni](@/tt/nietykalni.md)
+    * Tag Team of the Year (2025)

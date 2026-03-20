@@ -73,95 +73,95 @@ Later it turned out that the entire thing was orchestrated as a prank by Szymon 
 
 ##### Villain of the Year
 
-1. [Sinister](@/w/sinister.md) - 165
-2. [Bad Bones](@/w/bad-bones.md) - 60
-3. [Syriusz Dziedzic](@/w/dziedzic.md) - 43
-4. [Puncher](@/w/puncher.md) - 36
-5. [Gabriel Queen](@/w/gabriel-queen.md) - 14
+1. [Sinister](@/w/sinister.md) - 165 votes
+2. [Bad Bones](@/w/bad-bones.md) - 60 votes
+3. [Syriusz Dziedzic](@/w/dziedzic.md) - 43 votes
+4. [Puncher](@/w/puncher.md) - 36 votes
+5. [Gabriel Queen](@/w/gabriel-queen.md) - 14 votes
 
 ##### Newcomer of the Year
 
-1. [Vic Golden](@/w/vic-golden.md) - 130
-2. [Wiktor Longman](@/w/wiktor-longman.md) - 93
-3. [Samson](@/w/samson.md) - 65
-4. [Spartan](@/w/spartan.md) - 33
-5. [Aron Wake](@/w/aron-wake.md) - 11
+1. [Vic Golden](@/w/vic-golden.md) - 130 votes
+2. [Wiktor Longman](@/w/wiktor-longman.md) - 93 votes
+3. [Samson](@/w/samson.md) - 65 votes
+4. [Spartan](@/w/spartan.md) - 33 votes
+5. [Aron Wake](@/w/aron-wake.md) - 11 votes
 
 ##### Speaker of the Year
 
-1. [Puncher](@/w/puncher.md) - 219
-2. [TAXI Złotówa](@/w/taxi-zlotowa.md) - 83
-3. [Syriusz Dziedzic](@/w/dziedzic.md) - 49
-4. [Sinister](@/w/sinister.md) - 24
-5. [Axel Fox](@/w/jakub.md) - 19
+1. [Puncher](@/w/puncher.md) - 219 votes
+2. [TAXI Złotówa](@/w/taxi-zlotowa.md) - 83 votes
+3. [Syriusz Dziedzic](@/w/dziedzic.md) - 49 votes
+4. [Sinister](@/w/sinister.md) - 24 votes
+5. [Axel Fox](@/w/jakub.md) - 19 votes
 
 ##### Tag Team of the Year
 
-1. [Pure Gold](@/tt/pure-gold.md) ([Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)) - 172
-2. [PAKA](@/tt/paka.md) ([Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md) & [Boro](@/w/boro.md)) - 124
-3. Bright Lights ([Marcelito](@/w/marcelito.md) & [Karol "Iskra" Górski](@/w/iskra.md)) - 25
+1. [Pure Gold](@/tt/pure-gold.md) ([Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md)) - 172 votes
+2. [PAKA](@/tt/paka.md) ([Disco Pablo](@/w/disco-pablo.md), [Taras](@/w/taras.md) & [Boro](@/w/boro.md)) - 124 votes
+3. Bright Lights ([Marcelito](@/w/marcelito.md) & [Karol "Iskra" Górski](@/w/iskra.md)) - 25 votes
 
 ##### Commentator of the Year
 
-1. [Arek Paterek](@/w/arek-paterek.md) - 171
-2. [Łukasz Baliński](@/w/lukasz-balinski.md) - 75
-3. [Piotr Małecki](@/w/piotr-malecki.md) - 56
-4. [Santino](@/w/santino.md) - 35
-5. [Lewis Costello](@/w/lewis-costello.md) - 12
+1. [Arek Paterek](@/w/arek-paterek.md) - 171 votes
+2. [Łukasz Baliński](@/w/lukasz-balinski.md) - 75 votes
+3. [Piotr Małecki](@/w/piotr-malecki.md) - 56 votes
+4. [Santino](@/w/santino.md) - 35 votes
+5. [Lewis Costello](@/w/lewis-costello.md) - 12 votes
 
 ##### Female Wrestler of the Year
 
-1. [Diana Strong](@/w/diana-strong.md) - 135
-2. [Myla Grace](@/w/myla-grace.md) - 86
-3. Xia Brookside - 11
-4. Helena Sixt - 3
-5. Gaya Glass - 0
+1. [Diana Strong](@/w/diana-strong.md) - 135 votes
+2. [Myla Grace](@/w/myla-grace.md) - 86 votes
+3. Xia Brookside - 11 votes
+4. Helena Sixt - 3 votes
+5. Gaya Glass - 0 votes
 
 ##### Show of the Year
 
-1. [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 170
-2. [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 13
-3. [PTW #2: BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 11
-4. [PTW X Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 4
-5. [PTW Underground 8](@/e/ptw/2022-09-25-ptw-underground-8.md) - 2
+1. [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 170 votes
+2. [PTW #1: REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 13 votes
+3. [PTW #2: BlackOut](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 11 votes
+4. [PTW X Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 4 votes
+5. [PTW Underground 8](@/e/ptw/2022-09-25-ptw-underground-8.md) - 2 votes
 
 ##### Match of the Year
 
-1. [Justin Joy](@/w/justin-joy.md) vs [Axel Fox](@/w/jakub.md) - [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 165
-2. Matt Sydal vs Samuray Del Sol - Legends - 25
-3. [Disco Pablo](@/w/disco-pablo.md) vs [Diana Strong](@/w/diana-strong.md) vs [Pure](@/w/gabriel-queen.md) [Gold](@/w/vic-golden.md) - [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 16
-4. [Jonny Storm](@/w/jonny-storm.md) vs Jody Fleisch - [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 7
-5. Axel Tischer vs [Bad Bones](@/w/bad-bones.md) - [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 7
+1. [Justin Joy](@/w/justin-joy.md) vs [Axel Fox](@/w/jakub.md) - [Legends](@/e/ptw/2022-11-26-ptw-3-legends.md) - 165 votes
+2. Matt Sydal vs Samuray Del Sol - Legends - 25 votes
+3. [Disco Pablo](@/w/disco-pablo.md) vs [Diana Strong](@/w/diana-strong.md) vs [Pure](@/w/gabriel-queen.md) [Gold](@/w/vic-golden.md) - [Ryucon](@/e/ptw/2022-07-31-ptw-x-ryucon.md) - 16 votes
+4. [Jonny Storm](@/w/jonny-storm.md) vs Jody Fleisch - [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md) - 7 votes
+5. Axel Tischer vs [Bad Bones](@/w/bad-bones.md) - [Blackout](@/e/ptw/2022-02-19-ptw-2-blackout.md) - 7 votes
 
 ##### Finisher of the Year
 
-1. [Puncher](@/w/puncher.md) - Wylew - 174
-2. [Robert Star](@/w/robert-star.md) - Stallion Cutter - 137
-3. [PAKA](@/tt/paka.md) - Blok 3D - 31
-4. [Spartan](@/w/spartan.md) - Spartan Bomb - 28
-5. [Nano Lopez](@/w/nano-lopez.md) - Last Plane to Spain - 14
+1. [Puncher](@/w/puncher.md) - Wylew - 174 votes
+2. [Robert Star](@/w/robert-star.md) - Stallion Cutter - 137 votes
+3. [PAKA](@/tt/paka.md) - Blok 3D - 31 votes
+4. [Spartan](@/w/spartan.md) - Spartan Bomb - 28 votes
+5. [Nano Lopez](@/w/nano-lopez.md) - Last Plane to Spain - 14 votes
 
 ##### Moment of the Year
 
-1. [Justin Joy](@/w/justin-joy.md) & [Axel Fox's](@/w/jakub.md) reunion - 93
-2. [Joy](@/w/justin-joy.md) dropped on a table - 58
-3. [Krampus](@/w/krampus.md) chokeslamming [Nano](@/w/nano-lopez.md) through a table - 15
-4. [PAKA's](@/tt/paka.md) 6-man suplex - 9
-5. [Santino's](@/w/santino.md) Cobra - 9
+1. [Justin Joy](@/w/justin-joy.md) & [Axel Fox's](@/w/jakub.md) reunion - 93 votes
+2. [Joy](@/w/justin-joy.md) dropped on a table - 58 votes
+3. [Krampus](@/w/krampus.md) chokeslamming [Nano](@/w/nano-lopez.md) through a table - 15 votes
+4. [PAKA's](@/tt/paka.md) 6-man suplex - 9 votes
+5. [Santino's](@/w/santino.md) Cobra - 9 votes
 
 ##### Referee of the Year
 
-1. [Sędzia Seweryn](@/w/sedzia-seweryn.md) - 174
-2. [Sędzia Matek](@/w/sedzia-matek.md) - 149
-3. [Sędzia Rafał](@/w/alex-brave.md) - 234 pre-disqualification (36 excluding paid bot votes)
+1. [Sędzia Seweryn](@/w/sedzia-seweryn.md) - 174 votes
+2. [Sędzia Matek](@/w/sedzia-matek.md) - 149 votes
+3. [Sędzia Rafał](@/w/alex-brave.md) - 234 votes pre-disqualification (36 excluding paid bot votes)
 
 ##### Feud of the Year
 
-1. [Axel Fox](@/w/jakub.md) vs [Justin Joy](@/w/justin-joy.md) - 88
-2. [Nano Lopez](@/w/nano-lopez.md) vs [Sinister](@/w/sinister.md) - 60
-3. [TAXI Złotówa](@/w/taxi-zlotowa.md) vs Employers - 24
-4. [Puncher](@/w/puncher.md) vs Influencers - 12
-5. [Bad Bones](@/w/bad-bones.md) vs PTW - 9
+1. [Axel Fox](@/w/jakub.md) vs [Justin Joy](@/w/justin-joy.md) - 88 votes
+2. [Nano Lopez](@/w/nano-lopez.md) vs [Sinister](@/w/sinister.md) - 60 votes
+3. [TAXI Złotówa](@/w/taxi-zlotowa.md) vs Employers - 24 votes
+4. [Puncher](@/w/puncher.md) vs Influencers - 12 votes
+5. [Bad Bones](@/w/bad-bones.md) vs PTW - 9 votes
 
 ### PTW Awards 2024
 
@@ -331,6 +331,12 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 3. [Royal Rebels](@/tt/royal-rebels.md) vs Śląskie Zebry - 15 votes
 4. [Miyagi Shida](@/w/miyagi-shida.md) vs [Serg Sullivan](@/w/serg-sullivan.md) / [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) vs [Łukasz Okoński](@/w/lukasz-okonski.md) - 10 votes (tie)
 5. [Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md) 9 - votes
+
+##### Tag Team of the Year
+1. [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) - 37 votes
+2. Miyagi Sigma ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) - 29 votes
+3. [L'Orda](@/tt/l-orda.md) ([Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)) - 10 votes
+
 
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
