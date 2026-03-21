@@ -47,9 +47,9 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
   - '[Johnny "Bullson" Blade](@/w/johnny-blade.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Barbed Wire Mayhem Match
-- - '[Olgierd](@/w/olgierd.md)(c)'
+- - '[Olgierd](@/w/olgierd.md)'
   - '[Max Speed](@/w/max-speed.md)'
-  - g: Max challenges Olgierd for the championship
+  - g: Max challenges Olgierd for the Championship
 - - '[Michael HT](@/w/michael-ht.md)'
   - g: Auction of a [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md) commemorative signed T-shirt
 - - '[Goblin](@/w/goblin.md)'
@@ -74,7 +74,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '["The Riverman" Tony Sheen](@/w/riverman.md)'
   - '[Mister Z](@/w/mister-z.md)'
-  - '[Jakub](@/w/jakub.md)'
+  - '["Fox" Jakub](@/w/jakub.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Sambor](@/w/sambor.md)'
@@ -84,21 +84,19 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
   - '["Real OG" Michael HT](@/w/michael-ht.md)'
   - s: '25 Typa, 25 Broni Battle Royal for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne 6'
 - credits:
-    Host, Ring announcer: '[Michael HT](@/w/michael-ht.md)'
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
  {% end %}
 
 ### Highlights
 
-* For his match with Goblin, Jakub entered wearing a black [Goblis](@/tt/goblis.md) tanktop, and initially  hyping himself up just like he did when he portrayed a babyface teaming with Goblin. Very quickly however, he flipped to his serious, heelish Jakub persona, spat on and threw away the shirt.
-* Upon seeing what Goblin brought to the ring, which was a table with extra thumbtacks on top, Jakub grabbed the mic and shouted _I've Had Enough_ several times. This did not however save him from getting bumped through it directly after the match.
-* The painting sold for 1700PLN (approx. 400 EUR or 457 USD at the time).
-* Ladykiller's weapon of choice was his signature bouquet of roses, with a wrench hidden inside. Seeing that, Robert Star brought in a Playboy magazine, first taunting and then handing it over to Boro who was extremely interested. While he was busy browsing, Robert found the wrench and landed a surprise attack with it on Boro.
-* Number 5 entrant was a surprised Martynka, in crew overalls, her weapon of choice being the Instax camera she uses for fan photos with wrestlers. Robert, Marco and Boro posed for photos, but the last one was brutally decked with the camera.
-
-
-Elimination order:
-
+* For his match with Goblin, Jakub entered wearing a black [Goblis](@/tt/goblis.md) tanktop, and initially hyping himself up just like he had when he portrayed a babyface teaming with Goblin. Very quickly however, he flipped back to his serious, heelish Jakub persona, spat on and threw away the shirt.
+* Upon seeing what Goblin brought to the ring, which was a table with extra thumbtacks on top, Jakub grabbed the mic and shouted _I've had enough_ several times. This did not however save him from getting bumped through the table directly after the match.
+* The painting sold for 1700&nbsp;PLN (approx. 400&nbsp;EUR, 345&nbsp;GBP or 460&nbsp;USD at the time).
+* Ladykiller's weapon of choice was his signature bouquet of roses, with a wrench hidden inside. Seeing that, Robert Star brought in a Playboy magazine, first taunting and then handing it over to Boro who was extremely interested. While he was busy browsing the magazine, Robert found the wrench and landed a surprise attack with it on Boro.
+* Number 5 entrant was a surprised Martynka, wearing crew overalls, her weapon of choice being the Instax camera she uses for taking photos of fans with wrestlers. Robert, Marco and Boro posed for pictures, but the latter was brutally decked with the camera.
+* Entrant number 25 was Biesiad Strong, who had previously been suspended by Mister Z for deliberately attacking Olgierd despite his injury.
+* Battle Royal elimination order:
 1. Queen eliminates Ocean
 2. Agatka eliminates Martynka
 3. Mutant eliminates Ladykiller

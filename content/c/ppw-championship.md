@@ -286,7 +286,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md)'
     ed: 2026-03-13
 - - 'Olgierd (c)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Johnny "Bullson" Blade](@/w/johnny-blade.md)'
   - s: Barbed Wire Mayhem Match
     en: '[PpW Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md)'
     ed: 2026-03-21
