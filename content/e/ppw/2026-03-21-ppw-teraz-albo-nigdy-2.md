@@ -96,6 +96,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
 * Ladykiller's weapon of choice was his signature bouquet of roses, with a wrench hidden inside. Seeing that, Robert Star brought in a Playboy magazine, first taunting and then handing it over to Boro who was extremely interested. While he was busy browsing, Robert found the wrench and landed a surprise attack with it on Boro.
 * Number 5 entrant was a surprised Martynka, in crew overalls, her weapon of choice being the Instax camera she uses for fan photos with wrestlers. Robert, Marco and Boro posed for photos, but the last one was brutally decked with the camera.
 
+
 Elimination order:
 
 1. Queen eliminates Ocean
@@ -120,8 +121,6 @@ Elimination order:
 20. Biesiad eliminates Jakub
 21. Mister Z eliminates Crane
 22. Biesiad eliminates Mister Z
-
-
 
 ## References
 
