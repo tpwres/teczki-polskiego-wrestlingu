@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in the Pillar Hall at [Mińska&nbsp;65](@/v/minska-65.md), and billed as a sequel to [a show](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) from a year prior.
+Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md), held in the Pillar Hall at [Mińska&nbsp;65](@/v/minska-65.md), and billed as a sequel to [a show](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) from a year prior.
 
 ## Build-up
 
@@ -32,60 +32,93 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) is an upcoming show by [PpW Ewenement Wres
 * The winner of the 20 Typa 20 Broni Battle Royal at the [first Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), [Goblin](@/w/goblin.md), was announced on 17.03.2026.
 * He was followed the next day by the addition of [Gabriel Queen](@/w/gabriel-queen.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Sentinel](@/w/sentinel.md)'
+{% card() %}
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Sentinel](@/w/sentinel.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
-  - '[Max Speed](@/w/max-speed.md)'
   - s: Triple Threat Match
-    nc: upcoming
-- - '[Goblin](@/w/goblin.md)'
-  - '[Jakub](@/w/jakub.md)'
-  - s: Mam Dość Match
-    nc: upcoming
 - - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Mister Z](@/w/mister-z.md)(c)'
   - '[Rodzina](@/tt/rodzina.md): [Gabriel Queen](@/w/gabriel-queen.md) & [Agentka Agatka](@/w/agentka-agatka.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
-    nc: upcoming
-- - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Olgierd](@/w/olgierd.md)(c)'
+- - '[Olgierd](@/w/olgierd.md)(c)'
+  - '[Johnny "Bullson" Blade](@/w/johnny-blade.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Barbed Wire Mayhem Match
-    nc: upcoming
-- - '[Robert Star](@/w/robert-star.md)'
-  - '[Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Filip Fux](@/w/filip-fux.md)'
-  - '[Mutant](@/w/mutant.md)'
-  - '[Tony Sheen](@/w/riverman.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Goblin](@/w/goblin.md)'
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - g: Max challenges Olgierd for the Championship
+- - '[Michael HT](@/w/michael-ht.md)'
+  - g: Auction of a [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md) commemorative signed T-shirt
+- - '[Goblin](@/w/goblin.md)'
+  - '[Jakub](@/w/jakub.md)'
+  - s: Mam Dość Match
+- - '[Michael HT](@/w/michael-ht.md)'
+  - g: Auction of [Agatka's](@/w/agentka-agatka.md) painting of a PpW wrestling scene.
+- - '["Polski Cieśla" Biesiad](@/w/biesiad.md)'
+  - '[Robert Star](@/w/robert-star.md)'
+  - '[Ladykiller](@/w/boro.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Marco Hardy](@/w/marco-hammers.md)'
+  - '[Martynka](@/w/istotna-martynka.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Mutant](@/w/mutant.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Sentinel](@/w/sentinel.md)'
+  - '[Bill Feager](@/w/feager.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '["The Riverman" Tony Sheen](@/w/riverman.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - '["Fox" Jakub](@/w/jakub.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - '[Sambor](@/w/sambor.md)'
+  - '[Isnorr](@/w/isnorr.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+  - '["Real OG" Michael HT](@/w/michael-ht.md)'
   - s: '25 Typa, 25 Broni Battle Royal for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne 6'
-    nc: upcoming
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
  {% end %}
 
-### Recap
+### Highlights
 
-* TBD
+* For his match with Goblin, Jakub entered wearing a black [Goblis](@/tt/goblis.md) tanktop, and initially hyping himself up just like he had when he portrayed a babyface teaming with Goblin. Very quickly however, he flipped back to his serious, heelish Jakub persona, spat on and threw away the shirt.
+* Upon seeing what Goblin brought to the ring, which was a table with extra thumbtacks on top, Jakub grabbed the mic and shouted _I've had enough_ several times. This did not however save him from getting bumped through the table directly after the match.
+* The painting sold for 1700&nbsp;PLN (approx. 400&nbsp;EUR, 345&nbsp;GBP or 460&nbsp;USD at the time).
+* Ladykiller's weapon of choice was his signature bouquet of roses, with a wrench hidden inside. Seeing that, Robert Star brought in a Playboy magazine, first taunting and then handing it over to Boro who was extremely interested. While he was busy browsing the magazine, Robert found the wrench and landed a surprise attack with it on Boro.
+* Number 5 entrant was a surprised Martynka, wearing crew overalls, her weapon of choice being the Instax camera she uses for taking photos of fans with wrestlers. Robert, Marco and Boro posed for pictures, but the latter was brutally decked with the camera.
+* Entrant number 25 was Biesiad Strong, who had previously been suspended by Mister Z for deliberately attacking Olgierd despite his injury.
+* Battle Royal elimination order:
+1. Queen eliminates Ocean
+2. Agatka eliminates Martynka
+3. Mutant eliminates Ladykiller
+4. Crane eliminates Marco Hammers
+5. Crane eliminates Robert Star
+6. Goblin & Crane eliminate Mutant
+7. Mister Z eliminates Feager
+8. Filip & Oskar eliminate Sentinel
+9. Agatka & Queen eliminate Filip & Oskar
+10. Jakub & Mister Z eliminate Agatka
+11. Jakub & Mister Z eliminate Goblin
+12. Leon Lato eliminates Marcelito
+13. Isnorr eliminates Tony Sheen
+14. Isnorr eliminates Sambor
+15. Mister Z eliminates Michael HT
+16. Mister Z eliminates Seweryn
+17. Biesiad eliminates Plata & Lato
+18. Mister Z & Jakub eliminate Isnorr
+19. Mister Z & Jakub eliminate Queen
+20. Biesiad eliminates Jakub
+21. Mister Z eliminates Crane
+22. Biesiad eliminates Mister Z
 
 ## References
 
