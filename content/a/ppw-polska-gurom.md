@@ -76,6 +76,7 @@ Attendance: ca. 35
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=448778)
 * [Video: Full show on YouTube](https://www.youtube.com/watch?v=xhOHCd6oXw8)
 * [PpW Global announcing the event on Instagram](https://www.instagram.com/ppw_global/p/DUiIFZsEio3/)
 * [BJW website announcing the event](https://bjw.co.jp/schedule/s2026-03-11_1/)
