@@ -50,7 +50,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - '???'
   - s: Submission Match
     nc: upcoming
-- - 'First Class: [El G](@/w/el-g.md) & Conte)'
+- - 'First Class: [El G](@/w/el-g.md) & Conte'
   - '???'
   - s: Tag Team Match
     nc: upcoming
