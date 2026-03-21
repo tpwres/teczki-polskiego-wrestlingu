@@ -8,7 +8,7 @@ venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -123,6 +123,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=447067)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-teraz-albo-nigdy-2-03-21-2026-21-22-50) (requires paid subscription)
 * [Facebook post announcing the event][teraziej-albo-nigdywiej]
 
 [teraziej-albo-nigdywiej]: https://www.facebook.com/photo/?fbid=1476502237813497&set=a.499910772139320
