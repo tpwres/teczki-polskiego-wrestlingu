@@ -1,6 +1,7 @@
 +++
 title = "PpW Turbo OG"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
@@ -8,20 +9,7 @@ venue=["2kola"]
 city = "Warszawa"
 toclevel = 2
 has_video = false
-[extra.gallery.1]
-path = "2023-12-08-ppw-turbo-og-plakat_.jpg"
-caption = """\
-Official poster, imitating the character selection grid from fighting games.
-The selectable characters are: [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md);
-[Goblin](@/w/goblin.md), [Ricardo Diesel](@/w/ricardo-diesel.md), [Gustav Gryffin](@/w/gustav-gryffin.md);
-[Adam Wong](@/w/adam-wong.md), [Isnorr](@/w/isnorr.md), [Bill Feager](@/w/feager.md);
-[Asara](@/w/asara.md), [Chris X](@/w/chris-x.md), [Rafi](@/w/rafi.md); and finally Jack Harrop.
-"""
-source = "Official PpW Facebook"
-[extra.gallery.2]
-path = "2023-12-08-ppw-turbo-og-bilety.jpg"
-caption = "Tickets on sale announcement (notice the similarity to the official poster of [KPW Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md))."
-source = "Official PpW Facebook"
+[extra.gallery]
 +++
 
 Turbo OG was a wrestling event organized by [PpW Ewenement](@/o/ppw.md), on December 8th 2023, in the [2KOŁA](@/v/2kola.md) club.
@@ -59,6 +47,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 
 ### Aftermath
 
+* Despite being announced for the show, Jack Harrop did not appear due to an injury. Instead, [Chris X](@/w/chris-x.md) was moved to the main event, and [Jacob Crane](@/w/jacob-crane.md) was added to the card as [Bill Feager's](@/w/feager.md) opponent.
 * [Feager](@/w/feager.md) won the right to face [Steve Kuningas](@/w/steve-kuningas.md) for the [PpW Championship](@/o/ppw.md#championships).
 * [Goblin](@/w/goblin.md) won by using Green Mist on Gustav, while [Osamu](@/w/osamu.md) unsuccessfully tried to interfere in their match. After the bell, the angry Gustav accosted referee Borys. Once again [Osamu](@/w/osamu.md) interfered, this time defending the referee, but that ended his alliance with Gustav, and he received a beatdown for it. [Jakob Sigmarsson](@/w/jakub-linde.md) appeared, revealing himself as Gustav's trainer and new ally.
 * [Mister Z](@/w/mister-z.md) defeated [Asara](@/w/asara.md) with a kick to his privates and some well-placed chairs.
@@ -69,4 +58,9 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383977)
 * [Facebook event page](https://www.facebook.com/events/1375270156727790)
+* [Animated announcement: Johnny Blade vs Jack Harrop](https://www.facebook.com/watch/?v=1683420352150557)
+* [Animated announcement: Bill Feager vs Chris X](https://www.facebook.com/watch/?v=686423450216691)
+* [Animated announcement: Mister Z vs Asara](https://www.facebook.com/watch/?v=709490567392830)
+* [Animated announcement: Goblin vs Gustav Gryffin](https://www.facebook.com/watch/?v=181650251609534)
+* [Animated announcement: Biesiad vs Isnorr](https://www.facebook.com/watch/?v=710375027642309)
 * [PpW's Facebook summary](https://www.facebook.com/OficjalnePPW/posts/pfbid0yBtcocDLLf2mU2ox3FyYjXK7Qem9hws3rW58juZudTEEXjyJG2vCDrQTrWKkywKZl)

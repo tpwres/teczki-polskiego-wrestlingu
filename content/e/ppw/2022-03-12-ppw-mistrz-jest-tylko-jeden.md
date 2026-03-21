@@ -8,10 +8,7 @@ venue=["2kola"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
-[extra.gallery.1]
-path = "2022-03-12-ppw-mistrz-jest-tylko-jeden-plakat.jpg"
-caption = "Official poster, showing joined faces of a masked [Mister Z](@/w/mister-z.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md) and [Rob Scaffold](@/w/rob-scaffold.md)."
-source = "Official PpW Facebook"
+[extra.gallery]
 +++
 
 Mistrz Jest Tylko Jeden (_There Is Only One Champion_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md).
@@ -47,5 +44,8 @@ Mistrz Jest Tylko Jeden (_There Is Only One Champion_) was a show by [PpW Ewenem
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383440)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:1/videos/mistrz-jest-tylko-jeden-22-full-show) (requires paid subscription)
 * [Full show on YouTube](https://www.youtube.com/watch?v=tN_R7MRMeys)
+* [Animated announcement: Tony Sk1n vs Bill Feager](https://www.facebook.com/watch/?v=1329342540919847)
+* [Animated announcement: Adam Wong vs Ricardo Diesel](https://www.facebook.com/watch/?v=1300917673736064)
+* [Animated announcement: Isnorr vs Direk](https://www.facebook.com/watch/?v=682676449528528)
 * [Facebook event page](https://www.facebook.com/events/469423497960404)
 * [WrestleMap's article, in English](https://www.wrestlemap.com/news/1drguugh9ebvne7mytbnm3sez4nga9)

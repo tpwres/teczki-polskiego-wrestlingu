@@ -8,14 +8,7 @@ venue=["2kola"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
-[extra.gallery.1]
-path = "2023-02-04-ppw-back-to-the-og-plakat.jpg"
-caption = "Official banner, showing a scene from [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md), with Rob Scaffold (left) and Biesiad (right) perched on turnbuckles, ready to jump onto Mister Z and Johnny Blade laid out on tables."
-source = "Official PpW Facebook"
-[extra.gallery.2]
-path = "2023-02-04-ppw-back-to-the-og-plakat-blade.jpg"
-caption = "Official poster, depicting [Johnny Blade](@/w/johnny-blade.md)."
-source = "Official PpW Facebook"
+[extra.gallery]
 +++
 
 Back to the OG was a show by [PpW Ewenement Wrestling](@/o/ppw.md). The name references the return to [2KOŁA Motorcycle Club](@/v/2kola.md), which was PpW's original venue upon going pro.
