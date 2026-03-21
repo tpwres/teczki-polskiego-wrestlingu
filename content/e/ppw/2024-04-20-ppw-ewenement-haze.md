@@ -15,7 +15,7 @@ has_video = true
 Ewenement Haze was an event by [PpW Ewenement](@/o/ppw.md), taking place on Saturday April 20, 2024.
 The original venue was to be [Waldorffa 25](@/v/waldorffa25.md), but due to miscommunication, it turned out that it's already booked for the night, and PpW had to find a replacement.
 The new venue was Praga Centrum, a music and event venue with a large outdoor garden, located in Warsaw's Praga district.
-According to Facebook posts, the ring was to be set outdoors (for the first time since [Dark Show](@/e/ppw/2019-09-27-ppw-dark-show)), but only two days before the event the plans had to be changed due to the weather conditions and the show was held indoors after all.
+According to Facebook posts, the ring was to be set outdoors (for the first time since [Dark Show](@/e/ppw/2019-09-27-ppw-dark-show.md)), but only two days before the event the plans had to be changed due to the weather conditions and the show was held indoors after all.
 The set featured a full stage and elevated ramp leading to the ring, with full size titan-tron display playing videos for wrestler's entrances.
 The event's name refers to cannabis, whose many strains are often named "Something + Haze".
 This in turn, is a reference to the date, which, together with the number 420 are often associated with cannabis culture.
