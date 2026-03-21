@@ -107,7 +107,6 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
   - 'Rodzina: [Gabriel Queen](@/w/gabriel-queen.md) & [Agentka Agatka](@/w/agentka-agatka.md)'
   - s: Tag Team Match
     en: '[PpW Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md)'
-    nc: upcoming
     ed: 2026-03-21
 {% end %}
 

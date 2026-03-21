@@ -58,6 +58,12 @@ As part of the new working relationship between PTW and the Austrian promotion R
     {{ music(spot='23UBSdCPcsloNVmQZ508Zv')}}
     {{ music(apple='769211908?i=1769212251')}}
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Feud of the Year (2025) - as part of Team Okoński
+
 ## Internet presence
 
 * [Instagram](https://www.instagram.com/sigmaboy_ptw/)

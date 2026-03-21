@@ -8,7 +8,7 @@ orgs = ["ptw"]
 1 = { path = "nietykalni.webp", caption = "Nietykalni at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). Left to right: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Puncher](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md). At their feet lies Spartan.", source = "Official PTW Facebook" }
 +++
 
-Nietykalni (_The Untouchables_) is a villainous faction, active in [Prime Time Wrestling](@/o/ptw.md). It consists of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [PTW Champion](@/c/ptw-championship.md) [Dawid "Puncher" Seńko](@/w/puncher.md) and [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Royal Rebels](@/tt/royal-rebels.md), [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).
+Nietykalni (_The Untouchables_) is a villainous faction, active in [Prime Time Wrestling](@/o/ptw.md). It consists of [PTW Champion](@/c/ptw-championship.md) [Dawid "Puncher" Seńko](@/w/puncher.md) and [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Royal Rebels](@/tt/royal-rebels.md), [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md) and, formerly, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 
 ## History
 
@@ -44,7 +44,7 @@ At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by maki
 ### Current
 
 * [Dawid "Puncher" Seńko](@/w/puncher.md) - stable's prizefighter
-* [Royal Rebels](@/tt/royal-rebels.md) - a Tag Team of [Alex Brave](@/w/alex-brave.md) [Vincent Caravaggio](@/w/vincent-caravaggio.md)
+* [Royal Rebels](@/tt/royal-rebels.md) - a Tag Team of [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)
 * ["Starboy" Nano Lopez](@/w/nano-lopez.md) - turncoat
 
 ### Former
@@ -62,10 +62,11 @@ At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by maki
   - PTW WWA Championship - Dawid "Puncher" Seńko (1 time)
   - BestYa Slam Championship - Dawid "Puncher" Seńko (1 time)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) - Royal Rebels (1 time; current)
-  - PTW World Cup (2026) - Vincent Caravaggio
-  - [PTW Awards](@/a/ptw-awards.md) (2 times):
+  - [PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (2026) - Vincent Caravaggio
+  - [PTW Awards](@/a/ptw-awards.md) (3 times):
     * Speaker of the year - Pan Pawłowski (2024)
     * Newcomer of the Year - Vincent Caravaggio (2024)
+    * Feud of the Year - as a group (2025)
 
 ## References 
 

@@ -39,7 +39,7 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
   - '[Z-さん](@/w/mister-z.md) (Mister Z)'
   - '神谷英慶  (Hideyoshi Kamitani)'
   - '[ゴブリン](@/w/goblin.md) (Goblin)'
-  - 'アブドーラ・小林 (Abdullah Kobayashi)'
+  - '[アブドーラ・小林](@/w/abdullah-kobayashi.md) (Abdullah Kobayashi)'
   - '[グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
   - '[ジョニー・ブレード](@/w/johnny-blade.md) (Johnny Blade)'
   - '[スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak)'
@@ -76,6 +76,7 @@ Attendance: ca. 35
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=448778)
 * [Video: Full show on YouTube](https://www.youtube.com/watch?v=xhOHCd6oXw8)
 * [PpW Global announcing the event on Instagram](https://www.instagram.com/ppw_global/p/DUiIFZsEio3/)
 * [BJW website announcing the event](https://bjw.co.jp/schedule/s2026-03-11_1/)

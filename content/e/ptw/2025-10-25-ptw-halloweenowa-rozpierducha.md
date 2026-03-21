@@ -51,7 +51,7 @@ has_video = true
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: Lambert promises changes after his recent loss. Pawłowski gives him a match.
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - '[Dropper](@/w/dropper.md)'
+  - '[Dropper](@/w/whiteblade.md)'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '4 on 4 Tag Team Elimination Match'
