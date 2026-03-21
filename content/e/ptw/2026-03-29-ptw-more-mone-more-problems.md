@@ -27,6 +27,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 * On 16.03.2026 PTW announced a Submission Match between [Daniel Razor](@/w/daniel-razor.md) and an unknown opponent, to be chosen by [Nano Lopez](@/w/nano-lopez.md). Lopez picked the stipulation as a test for Razor, due to his lack of experience in this style of fights.
 * The next day saw the announcement of a match for the [PTW Championship](@/c/ptw-championship.md) between [Spartan](@/w/spartan.md) and [Nano Lopez](@/w/nano-lopez.md).
 * The day after that, on 18.03.2026, PTW announced a new tag team consisting of [CJ Klakson](@/w/cj-klakson.md) & Bart Petro, to take on [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek.
+* On 19.03.2026 PTW announced the tag team of [El G](@/w/el-g.md) and Conte.
 
 ## Predicted card
 
@@ -50,6 +51,9 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - '???'
   - s: Submission Match
     nc: upcoming
+- - 'First Class: [El G](@/w/el-g.md) & Conte'
+  - '???'
+  - nc: upcoming
 - - 'The Polish Stand: [CJ Klakson](@/w/cj-klakson.md) & Bart Petro'
   - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
   - s: Tag Team Match
