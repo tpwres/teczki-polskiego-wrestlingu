@@ -3,8 +3,8 @@ path = "obraz-front.webp"
 caption = """\
 Agentka Agatka's painting showing wrestlers tumbling on the floor after a risky maneouver. The fans surrounding them remain almost out of focus, in muted gray colors, but wrestlers are painted with great attention to detail.
 
-Goblin is the most recognizable character, in the right-center of the canvas.
-Left of him is Axel Fox, and above him Jakob Linde.
+[Goblin](@/w/goblin.md) is the most recognizable character, in the right-center of the canvas.
+Left of him is Axel Fox, and above him [Jakub Linde](@/w/jakub-linde.md).
 Fox's leg obscures Gustav Gryffin's face.
 Below Gustav is Biesiad, and on his legs we can see the bald head of Marco Hammers.
 """
@@ -13,10 +13,10 @@ source = "Krzysztof Zych"
 [02-tryptyk]
 path = "tryptyk2.webp"
 caption = """\
-Tryptyk Biesiadny (_Triptych of the Feast_, wordplay on Biesiad's name). Three portraits of Biesiad, painted on fragments of broken tables.
+Tryptyk Biesiadny (_Triptych of the Feast_, wordplay on Biesiad's name). Three portraits of [Biesiad Strong](@/w/biesiad.md), painted on fragments of broken tables.
 
 On the right, we see Biesiad during his entrance routine, standing high on a ladder and drinking beer.
-The left shows a penitent, sad, handcuffed Biesiad from when he was imprisoned by [PM Shooter](@/a/pm-shooter-saga.md).
+The left shows a penitent, sad, handcuffed Biesiad from when he was imprisoned by [PM&nbsp;Shooter](@/a/pm-shooter-saga.md).
 The central portrait depicts a dominant, possibly victorious Biesiad with his attribute - the red wooden ladder in hands.
 It's also decorated with a barbed wire crown.
 """
@@ -46,27 +46,27 @@ source = "Krzysztof Zych"
 [06-goblin-lovers]
 path = "goblin-lovers.webp"
 caption="""\
-Gustav Gryffin and Goblin. Gustav's head is busted open, he's exhausted and unaware of what's happening. Meanwhile Goblin manages to find the camera and blow a kiss.
+[Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md). Gustav's head is busted open, he's exhausted and unaware of what's happening. Meanwhile Goblin manages to find the camera and blow a kiss.
 """
 source = "Krzysztof Zych"
 
 [07-zet-crane]
 path = "zet-crane.webp"
 caption="""\
-"Real Deal" Mister Z with his characteristic back tattoo, and a bloodied Jacob Crane.
+"Real Deal" Mister Z with his characteristic back tattoo, and a bloodied [Jacob Crane](@/w/jacob-crane.md).
 """
 source = "Krzysztof Zych"
 
 [08-ekrany]
 path = "3ekrany.webp"
 caption="""\
-Three CRT TVs showing the wrestling documentary film by Natalia Kwasowiec. Currently shown on screens is Mister Z.
+Three CRT TVs showing the wrestling documentary film by Natalia Kwasowiec. Currently shown on screens is [Mister Z](@/w/mister-z.md).
 """
 source = "Szymon Iwulski"
 
 [09-oskar-w-tv]
 path = "oskar-w-tv.webp"
-caption="Oskar Alexander in the wrestling documentary."
+caption="[Oskar Alexander](@/w/oskar-alexander.md) in the wrestling documentary."
 source = "Krzysztof Zych"
 
 [10-championship-undisputed]
