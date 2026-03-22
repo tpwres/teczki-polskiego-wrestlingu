@@ -6,3 +6,71 @@
 0005 = { path = "rozprawa.webp", caption = "Image announcing the court trial, featuring [Chemik](@/w/chemik.md), [Krystian Malinowski](@/w/krystian-malinowski.md) and [Filip Fux](@/w/filip-fux.md).", source = "Official KPW Facebook" }
 0006 = { path = "michal-fux-vs-greg-vs-tomczak.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Greg](@/w/greg.md) vs [Tomczak](@/w/tomczak.md).", source = "Official KPW Facebook" }
 0007 = { path = "leon-lato-vs-nico-narciso.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs Nico Narciso.", source = "Official KPW Facebook" }
+
+1001 = { path = "kinga-otwiera-show.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "Ville Paananen" }
+1002 = { path = "dalej-nie-wiemy-gdzie-to-jest.webp", caption = "[Chemik](@/w/chemik.md) with his scarf saying _Wejherowo - the pride of the world_.", source = "Ville Paananen" }
+1003 = { path = "lemik-i-chesak.webp", caption = "[Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
+1004 = { path = "gest-aleksandrowicza.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) shows Lesak and Chemik what he thinks of them. To the right stands Referee Alan.", source = "M3n747" }
+1005 = { path = "ill-be-careful.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) doesn't like Markus Paskal.", source = "M3n747" }
+1006 = { path = "youll-be-dead.webp", caption = "[Chemik](@/w/chemik.md) doesn't like [Markus Paskal](@/w/markus-paskal.md) either.", source = "M3n747" }
+1007 = { path = "lesakarrana.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) hits Eryk Lesak with a Hurricanrana from the top rope.", source = "M3n747" }
+1008 = { path = "619-no-1-saw-coming.webp", caption = "Chemik and Eryk Lesak find themselves in a rather embarassing situation, much to Markus Paskal and Kamil Aleksander's amusement.", source = "M3n747" }
+1009 = { path = "lesak-na-trzeciej-linie-jak-eryk-na-kolvirze.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) jumps from the top rope onto Markus Paskal.", source = "M3n747" }
+1010 = { path = "trafilo-sie-fartem-zwyciestwo.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) victorious.", source = "Ville Paananen" }
+1011 = { path = "szalik-godny-janusza-gajosa.webp", caption = "[Chemik](@/w/chemik.md), equally victorious.", source = "Ville Paananen" }
+
+2001 = { path = "tajemne-masonskie-znaki.webp", caption = "Erik Asmus exchanges a knowing look with Hans Schulte.", source = "Ville Paananen" }
+2002 = { path = "twarza-w-gesicht.webp", caption = "Filip Fux face to face with Hans Schulte. Behind them in the ring stand Erik Asmus and Referee Alan.", source = "Ville Paananen" }
+
+3001 = { path = "nie-badzcie-jak-ten-pan.webp", caption = "[Michał Fux](@/w/michal-fux.md) poses for the fans. In the opposite corner, a fan makes the mistake of nagging [Tomczak](@/w/tomczak.md).", source = "M3n747" }
+3002 = { path = "grzesiu.webp", caption = "[Greg's](@/w/greg.md) entrance.", source = "M3n747" }
+3003 = { path = "od-samego-patrzenia-boli.webp", caption = "[Greg](@/w/greg.md) performs his signature Nipple Twist on [Michał Fux](@/w/michal-fux.md).", source = "M3n747" }
+3004 = { path = "czolem-panowie.webp", caption = "Tomczak about to smash [Michał Fux](@/w/michal-fux.md) and Greg's faces together.", source = "M3n747" }
+3005 = { path = "we-shall-double-our-efforts.webp", caption = "Greg and Michał Fux join forces to slam Tomczak. In the background is Referee Alan.", source = "M3n747" }
+3006 = { path = "srrruuu.webp", caption = "Tomczak throws Michał Fux into the ring, as [Greg](@/w/greg.md) gathers his wits in the background.", source = "M3n747" }
+3007 = { path = "ten-pan-wygral.webp", caption = "[Greg](@/w/greg.md) wins, as declared by Referee Alan.", source = "M3n747" }
+
+4001 = { path = "kurka-blaszka-ale-przystojny.webp", caption = "[Advocate Fux](@/w/filip-fux.md).", source = "M3n747" }
+4002 = { path = "piekna-i-lysy.webp", caption = "[Assistant Kinga](@/w/kinga-miotke.md) and [prosecutor Chemik](@/w/chemik.md).", source = "M3n747" }
+4003 = { path = "piekna-i-brodaty.webp", caption = "[Assistant Kinga](@/w/kinga-miotke.md) and [judge Malinowski](@/w/krystian-malinowski.md).", source = "Ville Paananen" }
+4004 = { path = "ej-a-jak-on-w-sumie-myje-zeby.webp", caption = "Advocate Fux and [defendant Zefir](@/w/zefir.md).", source = "M3n747" }
+4005 = { path = "chcialby-wrestlingowy-debiut-pewnie.webp", caption = "The man with the &quot;police licence&quot; keeps an eye on defendant Zefir.", source = "M3n747" }
+4006 = { path = "byl-taki-film-z-johnem-travolta-i-nicolasem-cageem.webp", caption = "[Defendant Zefir](@/w/zefir.md) states his name for the record.", source = "M3n747" }
+4007 = { path = "carthago-delenda-est.webp", caption = "[Prosecutor Chemik](@/w/chemik.md) presents his case to [judge Malinowski](@/w/krystian-malinowski.md). [Assistant Kinga](@/w/kinga-miotke.md) does not appear to share Chemik's enthusiasm.", source = "Ville Paananen" }
+4008 = { path = "pamietam-jak-w-jednym-filmie-ksiadz-krzywoprzysiagl-na-swoj-egzemplarz-moby-dicka.webp", caption = "[Rookie Two](@/w/rookie-two.md) swears to the truthfulness of his testimoty on the Bible held by [assistant Kinga](@/w/kinga-miotke.md). In the foreground sits prosecutor Chemik.", source = "Ville Paananen" }
+4009 = { path = "teczka-jak-u-tyminskiego.webp", caption = "[Advocate Fux](@/w/filip-fux.md) resorts to presenting evidence from this briefcase, resting on the table in front of [defendant Zefir](@/w/zefir.md). The shady man in a police uniform stands at his post, and [assistant Kinga](@/w/kinga-miotke.md) observes the proceedings.", source = "M3n747" }
+4010 = { path = "zakladaj-maske-i-gramy-w-butelke.webp", caption = "Advocate Fux presents the glass bottle and ski mask found in Michał Fux's suitcase.", source = "M3n747" }
+4011 = { path = "dobra-to-ja-krece-pierwszy.webp", caption = "[Prosecutor Chemik](@/w/chemik.md) tries on the ski mask.", source = "M3n747" }
+4012 = { path = "czy-cosplayerzy-policjantow-licza-sie-jako-furasy.webp", caption = "Michał Fux brought in by the man of questionable legal standing.", source = "M. Gołębiewski" }
+4013 = { path = "masz-tu-pan-mikrofon-i-wszystko-nam-pan-teraz-wyspiewasz.webp", caption = "[Judge Malinowski](@/w/krystian-malinowski.md) questions [witness Fux](@/w/michal-fux.md), while prosecutor Chemik reaches for some documents and [assistant Kinga](@/w/kinga-miotke.md) is at the ready to assist.", source = "M3n747" }
+4014 = { path = "no-co-wiecie-jak-on-falszowal.webp", caption = "The fauxliceman cuffs [witness Fux](@/w/michal-fux.md), much to [prosecutor Chemik's](@/w/chemik.md) poorly-hidden glee.", source = "M3n747" }
+4015 = { path = "sad-filip-in-the-ring.webp", caption = "Filip Fux sits crestfallen, under the silent accusatory stare of [his brother](@/w/michal-fux.md).", source = "Ville Paananen" }
+4016 = { path = "fingerem-cie-pokene-i-bede-doomny.webp", caption = "[Zefir](@/w/zefir.md) makes a silent promise to prosecutor Chemik, while [advocate Fux](@/w/filip-fux.md) looks glum.", source = "M3n747" }
+
+5001 = { path = "mikolaj-kwiatkowski.webp", caption = "Nico Narciso.", source = "M3n747" }
+5002 = { path = "leon-lato-wszedl.webp", caption = "[Leon Lato's](@/w/leon-lato.md) entrance.", source = "M3n747" }
+5003 = { path = "leon-lato-pozamiatal.webp", caption = "Leon Lato kicks Nico Narciso between the ropes.", source = "M3n747" }
+5004 = { path = "leon-lato-wyszedl.webp", caption = "[Leon Lato](@/w/leon-lato.md) wins.", source = "Ville Paananen" }
+
+6001 = { path = "z-liny-wloskiej-do-polski.webp", caption = "Guido Buriani.", source = "M3n747" }
+6002 = { path = "adept-1.webp", caption = "[Rookie One](@/w/oskar-haller.md).", source = "M3n747" }
+6003 = { path = "adepcie-chytajze-linem-ino-raz.webp", caption = "[Rookie One](@/w/oskar-haller.md) makes for a rope break.", source = "M3n747" }
+6004 = { path = "il-corpo-schiacciato.webp", caption = "[Rookie One](@/w/oskar-haller.md) body slams Guido Buriani.", source = "M3n747" }
+6005 = { path = "mieszkam-blisko-ulicy-imienia-tego-pana-nie-nie-przy-ul-adepta-1.webp", caption = "Rookie One intruduces himself to [Krystian Malinowski](@/w/krystian-malinowski.md) and the fans as [Oskar Haller](@/w/oskar-haller.md).", source = "Ville Paananen" }
+
+7001 = { path = "nie-masz-szans-hans.webp", caption = "[Hans Schulte](@/w/hans-schulte.md), with referee [Krystian Czekaj](@/w/krystian-czekaj.md) in the background.", source = "M3n747" }
+7002 = { path = "czekam-na-wiatr-co-rozgoni.webp", caption = "[Zefir](@/w/zefir.md).", source = "M3n747" }
+7003 = { path = "und-jetzt-auf-dem-ring-ihn-przywahlen.webp", caption = "Zefir about to hit [Hans Schulte](@/w/hans-schulte.md) with a Power Bomb.", source = "M. Gołębiewski" }
+7004 = { path = "z-ta-lina-to-on-troche-tu-wyglada-jak-skoczek-o-tyczce.webp", caption = "[Zefir](@/w/zefir.md) gathers positive energy from the crowd, as Hans Schulte writhes in pain and Krystian Czekaj monitors the situation.", source = "M. Gołębiewski" }
+7005 = { path = "geograficznie-nawet-sie-zgadza-ze-niemiec-po-lewej-a-polak-po-prawej.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) trapped in Zefir's hold.", source = "M3n747" }
+7006 = { path = "metafora-konfliktu-przygranicznego.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) chokes Zefir against the ropes, as Krystian Czekaj counts him out.", source = "M3n747" }
+7007 = { path = "literal-lifeline.webp", caption = "Zefir goes for a rope break to escape [Hans Schulte's](@/w/hans-schulte.md) clutches.", source = "M3n747" }
+7008 = { path = "lot-hansa-przez-luft.webp", caption = "Hans Schulte reverses Zefir's attempt into a throw of his own. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) appears nonplussed.", source = "M3n747" }
+7009 = { path = "scheiss-got-wirklich.webp", caption = "[Zefir](@/w/zefir.md) and [Hans Schulte](@/w/hans-schulte.md) visibly angry, while [Krystian Czekaj](@/w/krystian-czekaj.md) retains his composure.", source = "M3n747" }
+7010 = { path = "i-ever-tell-you-the-definition-of-insanity.webp", caption = "Hans Schulte tries the same trick on [Zefir](@/w/zefir.md) once more.", source = "M3n747" }
+7011 = { path = "die-kraftbombe.webp", caption = "Hans Schulte attempts a Power Bomb on [Zefir](@/w/zefir.md).", source = "M3n747" }
+7012 = { path = "bomba-tony-labedzi.webp", caption = "Zefir hits Hans Schulte with a Swanton Bomb.", source = "M3n747" }
+7013 = { path = "i-tak-wlasnie-sie-robi-z-niemcami.webp", caption = "[Zefir](@/w/zefir.md) wins the match.", source = "M3n747" }
+
+8001 = { path = "i-to-juz-wszystko.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) closes the show, when suddenly…", source = "M3n747" }
+8002 = { path = "a-wild-lesak-appears.webp", caption = "…[Eryk Lesak](@/w/eryk-lesak.md) comes back to announce [the next show](@/e/kpw/2026-04-24-kpw-arena-33.md).", source = "M3n747" }
