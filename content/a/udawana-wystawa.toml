@@ -1,0 +1,89 @@
+[01-obraz]
+path = "obraz-front.webp"
+caption = """\
+Agentka Agatka's painting showing wrestlers tumbling on the floor after a risky maneouver. The fans surrounding them remain almost out of focus, in muted gray colors, but wrestlers are painted with great attention to detail.
+
+[Goblin](@/w/goblin.md) is the most recognizable character, in the right-center of the canvas.
+Left of him is Axel Fox, and above him [Jakub Linde](@/w/jakub-linde.md).
+Fox's leg obscures Gustav Gryffin's face.
+Below Gustav is Biesiad, and on his legs we can see the bald head of Marco Hammers.
+"""
+source = "Krzysztof Zych"
+
+[02-tryptyk]
+path = "tryptyk2.webp"
+caption = """\
+Tryptyk Biesiadny (_Triptych of the Feast_, wordplay on Biesiad's name). Three portraits of [Biesiad Strong](@/w/biesiad.md), painted on fragments of broken tables.
+
+On the right, we see Biesiad during his entrance routine, standing high on a ladder and drinking beer.
+The left shows a penitent, sad, handcuffed Biesiad from when he was imprisoned by [PM&nbsp;Shooter](@/a/pm-shooter-saga.md).
+The central portrait depicts a dominant, possibly victorious Biesiad with his attribute - the red wooden ladder in hands.
+It's also decorated with a barbed wire crown.
+"""
+source = "Krzysztof Zych"
+
+[03-plata]
+path = "uwa-to-bartosz-furata.webp"
+caption = """\
+A portrait of [Bartosz Plata](@/w/plata.md) on a plastic chair seat. The Japanese text reads "うわっ！ バルトシユ フラタ だ！" （_Wow! It's Bartosz Plata!_, slightly misspelled).
+"""
+source = "Krzysztof Zych"
+
+[04-fox]
+path = "fox.webp"
+caption = """\
+[Axel Fox](@/w/jakub.md), painted on a plastic chair seat.
+"""
+source = "Krzysztof Zych"
+
+[05-jakub]
+path = "jakub.webp"
+caption = """\
+On the reverse side of Fox, we can find [Jakub](@/w/jakub.md), his other, villainous persona.
+"""
+source = "Krzysztof Zych"
+
+[06-goblin-lovers]
+path = "goblin-lovers.webp"
+caption="""\
+[Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md). Gustav's head is busted open, he's exhausted and unaware of what's happening. Meanwhile Goblin manages to find the camera and blow a kiss.
+"""
+source = "Krzysztof Zych"
+
+[07-zet-crane]
+path = "zet-crane.webp"
+caption="""\
+"Real Deal" Mister Z with his characteristic back tattoo, and a bloodied [Jacob Crane](@/w/jacob-crane.md).
+"""
+source = "Krzysztof Zych"
+
+[08-ekrany]
+path = "3ekrany.webp"
+caption="""\
+Three CRT TVs showing the wrestling documentary film by Natalia Kwasowiec. Currently shown on screens is [Mister Z](@/w/mister-z.md).
+"""
+source = "Szymon Iwulski"
+
+[09-oskar-w-tv]
+path = "oskar-w-tv.webp"
+caption="[Oskar Alexander](@/w/oskar-alexander.md) in the wrestling documentary."
+source = "Krzysztof Zych"
+
+[10-championship-undisputed]
+path = "championship-undisputed.webp"
+caption="Backyard-era, hand-drawn and hand-made PpW belts: the first [PpW Championship](//ppw-fandom.tpwres.pl/pas-ppw), and Mister Z's [Undisputed Championship](//ppw-fandom.tpwres.pl/ppw-undisputed-championship)"
+source = "Krzysztof Zych"
+
+[11-light-heavyweight]
+path = "light-heavyweight.webp"
+caption="Backyard-era [PpW Light Heavyweight Championship](//ppw-fandom.tpwres.pl/ppw-light-heavyweight-championship)"
+source = "Krzysztof Zych"
+
+[12-sciana-artefaktow]
+path = "sciana-artefaktow-ppw.webp"
+caption="""\
+A wall display of various pieces of ring gear. The checkered red-brown shirt is one of Johnny Blade's iconic outfits. The three masks are: ?, Hirinus De Exsantus, Hades. Below them we have balaclavas of Extreme Floorfiller and Red Floorfiller, and the black mask of Ultimo Combo.
+
+The green weed-themed shorts belong to Biesiad. Next to the right is Axel Fox's signature fox-themed ring gear, then Gustav Gryffin's singlet, Goblin's mask, fur jacket and shorts. Last are Olgierd's bat, Legia Łysych scarf and shorts.
+"""
+source = "Krzysztof Zych"

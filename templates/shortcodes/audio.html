@@ -1,0 +1,6 @@
+{# params:
+   src=path to file, resolved from asset root
+#}
+{% set root = config.extra.gallery_root ~ page.path %}
+<audio controls src="{{ root ~ src }}"></audio>
+
