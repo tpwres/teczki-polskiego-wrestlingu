@@ -93,7 +93,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
 
 * For his match with Goblin, Jakub entered wearing a black [Goblis](@/tt/goblis.md) tanktop, and initially hyping himself up just like he had when he portrayed a babyface teaming with Goblin. Very quickly however, he flipped back to his serious, heelish Jakub persona, spat on and threw away the shirt.
 * Upon seeing what Goblin brought to the ring, which was a table with extra thumbtacks on top, Jakub grabbed the mic and shouted _I've had enough_ several times. This did not however save him from getting bumped through the table directly after the match.
-* The painting sold for 1700&nbsp;PLN (approx. 400&nbsp;EUR, 345&nbsp;GBP or 460&nbsp;USD at the time).
+* The painting, previously only shown at [Udawana Wystawa](@/a/udawana-wystawa.md) sold for 1700&nbsp;PLN (approx. 400&nbsp;EUR, 345&nbsp;GBP or 460&nbsp;USD at the time).
 * Ladykiller's weapon of choice was his signature bouquet of roses, with a wrench hidden inside. Seeing that, Robert Star brought in a Playboy magazine, first taunting and then handing it over to Boro who was extremely interested. While he was busy browsing the magazine, Robert found the wrench and landed a surprise attack with it on Boro.
 * Number 5 entrant was a surprised Martynka, wearing crew overalls, her weapon of choice being the Instax camera she uses for taking photos of fans with wrestlers. Robert, Marco and Boro posed for pictures, but the latter was brutally decked with the camera.
 * Entrant number 25 was Biesiad Strong, who had previously been suspended by Mister Z for deliberately attacking Olgierd despite his injury.
