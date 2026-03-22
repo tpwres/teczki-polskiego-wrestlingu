@@ -17,7 +17,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
 ## Build-up
 
 * The [announcement post][teraziej-albo-nigdywiej] recalled the "20 typa, 20 broni" (_20 dudes, 20 weapons_) match from Teraz Albo Nigdy and, this being a sequel, promised "even more dudes, even more weapons".
-* The first match, announced on 10.02.2026, was a "25 typa, 25 broni" (_25 dudes, 25 weapons_). Like previously, the winner gets a title shot for the [PpW Championship](@/c/ppw-championship.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6).
+* The first match, announced on 10.02.2026, was a "25 typa, 25 broni" (_25 dudes, 25 weapons_). Like previously, the winner gets a title shot for the [PpW Championship](@/c/ppw-championship.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
 * Next came the Triple Threat Match between [Sentinel](@/w/sentinel.md), [Antoni Ocean](@/w/antoni-ocean.md) and [Max Speed](@/w/max-speed.md), announced on 23.02.2026.
 * On 24.02.2026 PpW published a [video promo][goblin-ma-dosc] of [Goblin](@/w/goblin.md) challenging [Jakub](@/w/jakub.md) to a Mam Dość (_I've Had Enough_) Match. Goblin, angry with the way [Axel Fox](@/w/jakub.md) sneakily one-upped him at [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), called his former tag team partner to a fight intended to prove who can take more punishment and "whose vision is true". The match was confirmed on the next day.
 * The first worker confirmed for the Battle Royal was [Robert Star](@/w/robert-star.md), announced on 26.02.2026.
@@ -82,7 +82,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
   - '[Bartosz Plata](@/w/plata.md)'
   - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
   - '["Real OG" Michael HT](@/w/michael-ht.md)'
-  - s: '25 Typa, 25 Broni Battle Royal for the [PpW Championship](@/c/ppw-championship.md) opportunity at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6)'
+  - s: '25 Typa, 25 Broni Battle Royal for the [PpW Championship](@/c/ppw-championship.md) opportunity at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'

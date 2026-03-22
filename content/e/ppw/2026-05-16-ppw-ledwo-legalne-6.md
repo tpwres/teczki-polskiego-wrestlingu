@@ -8,7 +8,7 @@ venue=["hala-labo"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-has_video = falso
+has_video = false
 [extra.gallery]
 +++
 
