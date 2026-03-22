@@ -98,28 +98,28 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
 * Number 5 entrant was a surprised Martynka, wearing crew overalls, her weapon of choice being the Instax camera she uses for taking photos of fans with wrestlers. Robert, Marco and Boro posed for pictures, but the latter was brutally decked with the camera.
 * Entrant number 25 was Biesiad Strong, who had previously been suspended by Mister Z for deliberately attacking Olgierd despite his injury.
 * Battle Royal elimination order:
-1. Queen eliminates Ocean
-2. Agatka eliminates Martynka
-3. Mutant eliminates Ladykiller
-4. Crane eliminates Marco Hammers
-5. Crane eliminates Robert Star
-6. Goblin & Crane eliminate Mutant
-7. Mister Z eliminates Feager
-8. Filip & Oskar eliminate Sentinel
-9. Agatka & Queen eliminate Filip & Oskar
-10. Jakub & Mister Z eliminate Agatka
-11. Jakub & Mister Z eliminate Goblin
-12. Leon Lato eliminates Marcelito
-13. Isnorr eliminates Tony Sheen
-14. Isnorr eliminates Sambor
-15. Mister Z eliminates Michael HT
-16. Mister Z eliminates Seweryn
-17. Biesiad eliminates Plata & Lato
-18. Mister Z & Jakub eliminate Isnorr
-19. Mister Z & Jakub eliminate Queen
-20. Biesiad eliminates Jakub
-21. Mister Z eliminates Crane
-22. Biesiad eliminates Mister Z
+  1. Queen eliminates Ocean
+  2. Agatka eliminates Martynka
+  3. Mutant eliminates Ladykiller
+  4. Crane eliminates Marco Hammers
+  5. Crane eliminates Robert Star
+  6. Goblin & Crane eliminate Mutant
+  7. Mister Z eliminates Feager
+  8. Filip & Oskar eliminate Sentinel
+  9. Agatka & Queen eliminate Filip & Oskar
+  10. Jakub & Mister Z eliminate Agatka
+  11. Jakub & Mister Z eliminate Goblin
+  12. Leon Lato eliminates Marcelito
+  13. Isnorr eliminates Tony Sheen
+  14. Isnorr eliminates Sambor
+  15. Mister Z eliminates Michael HT
+  16. Mister Z eliminates Seweryn
+  17. Biesiad eliminates Plata & Lato
+  18. Mister Z & Jakub eliminate Isnorr
+  19. Mister Z & Jakub eliminate Queen
+  20. Biesiad eliminates Jakub
+  21. Mister Z eliminates Crane
+  22. Biesiad eliminates Mister Z
 
 ## References
 
