@@ -52,6 +52,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Emil Völler'
   - s: International Hardcore Match
+    r: submission
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - g: Johnny demands Olgierd give him a Championship match
@@ -76,6 +77,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
   - First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping and one-handed push-ups for extra flair.
   - The second round was a bodybuilding competition, with scores given by three "impartial judges", two of which were picked from the audience, and the third was Michael HT. Both contestants needed oiling up for that, with Boro doing so on his own, and Marco receiving a very professional oiling from Referee Karol. Unfortunately, the judges rated Boro higher, which led to Marco arguing with them, turning his back to the opponent. Boro then proceeded to oil up a rubber glove and performed a surprise Oil Check on Marco, briefly putting him out of action.
   - Lastly, the final round was a Bodyslam competition, contested like a match that could only be won by bodyslamming the opponent.
+* Emil Völler tapped out as Johnny Blade was about to hit him with his trademark road sign.
 * After his match, Johnny took the microphone and demanded Olgierd came out and let him sign a contract for a [PpW Championship](@/c/ppw-championship.md) match. Olgierd obliged, referenced their last exchange and shared past, and let Johnny know how he was misled and used by Zmowa, seemingly ready to abandon them. Olgierd then gave the contract to Johnny, who immediately signed it. This was met with mockery, with Olgierd stating that the contract needed two signatures and he was unwilling to give his. Dejected but unfazed, Johnny managed to handcuff the champion to the ring ropes, and shoving a pen into the cuffed palm, forced Olgierd's hand to obtain his signature.
 * In the main event, despite Zmowa and Rodzina initially working together, a misplaced guitar smash by Oskar caused them to become hostile towards each other.
 * Goblin and Gustav saved each other from certain defeat twice in the match: first Gustav bodied Goblin to deflect him out of the way towards a table, and later Goblin pushed away another table to prevent a Flapjack on Gustav through it.
