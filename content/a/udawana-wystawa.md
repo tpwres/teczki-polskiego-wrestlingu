@@ -18,13 +18,14 @@ The event was organized by [Agentka Agatka](@/w/agentka-agatka.md), advertised t
 
 The artwork and items presented included (see gallery):
 
-- a triptych painted on broken tables, portraying [Biesiad](@/w/biesiad.md)
-- an oil painting depicting a scene with wrestlers on the floor, including [Axel Fox](@/w/jakub.md), [Jakub Linde](@/w/jakub-linde.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md), [Biesiad](@/w/biesiad.md) and [Marco Hammers](@/w/marco-hammers.md)
-- several wrestler portraits, most painted on plastic chair seats removed from chairs broken during matches
-- a gallery of postcard-sized versions of PpW's show posters, since 2020
-- wall display with various pieces of PpW wrestlers' ring gear, from the backyard era up to present day
+- A triptych painted on broken tables, portraying [Biesiad](@/w/biesiad.md)
+- An oil painting depicting a scene from [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) with wrestlers on the floor, including [Axel Fox](@/w/jakub.md), [Jakub Linde](@/w/jakub-linde.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md), [Biesiad](@/w/biesiad.md) and [Marco Hammers](@/w/marco-hammers.md).
+  - the scene happens approximately at 2:10:30 (PpW VOD video) in the Biesiad vs Gustav match, after a dive by Biesiad onto his opponent and the rest of [Zmowa](@/tt/zmowa.md).
+- Several wrestler portraits, most painted on plastic chair seats removed from chairs broken during matches
+- A gallery of postcard-sized versions of PpW's show posters, dating back to 2014
+- A full wall display with various pieces of PpW wrestlers' ring gear, from the backyard era up to present day
 - PpW's current and former championship belts, also dating back to the backyard era
-- and a video documentary by Natalia Kwasowiec, showing bits of PpW shows and wrestler interviews. The documentary was played on vintage CRT TVs. The documentary's author is PpW's ringside photographer.
+- And a video documentary by Natalia Kwasowiec, showing bits of PpW shows and wrestler interviews. The documentary was played on vintage CRT TVs. The documentary's author is PpW's ringside photographer.
 
 Agatka and Johnny Blade did an introduction to the items displayed, captured here (in Polish) as an audio file.
 
