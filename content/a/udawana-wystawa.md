@@ -26,5 +26,9 @@ The artwork and items presented included (see gallery):
 - PpW's current and former championship belts, also dating back to the backyard era
 - and a video documentary by Natalia Kwasowiec, showing bits of PpW shows and wrestler interviews. The documentary was played on vintage CRT TVs. The documentary's author is PpW's ringside photographer.
 
+Agatka and Johnny Blade did an introduction to the items displayed, captured here (in Polish) as an audio file.
+
+{{ audio(src="agatka-johnny-o-wystawie.mp3") }}
+
 [agatka-reel]: https://www.instagram.com/p/DT75ECFikU4/
 [fb-event]: https://www.facebook.com/events/1272289558289265
