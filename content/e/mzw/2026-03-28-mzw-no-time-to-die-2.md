@@ -22,6 +22,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 * On 2.03.2025 MZW unveiled the main event: [Matt Buckna](@/w/matt-buckna.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) for the [MZW Championship](@/c/mzw-championship.md).
 * The next announcement came on 12.03.2025, and was for a Three-Way Match between [Tony Sheen](@/w/riverman.md), [Boro](@/w/boro.md) and [Sambor](@/w/sambor.md).
 * On 16.03.2026 [Oskar Alexander](@/w/oskar-alexander.md) issued an open challenge "to show all the fans his pride and greatness".
+* In a [video][matta-nie-bedzie] posted on 23.03.2026 Matt Buckna explained that he won't be able to attend the show after all due to a recent shoulder injury.
 
 ## Predicted card
 
@@ -46,10 +47,9 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
   - '???'
   - s: Open Challenge
     nc: upcoming
-- - '[Matt Buckna](@/w/matt-buckna.md)(c)'
+- - '???'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - c: '[MZW Championship](@/c/mzw-championship.md)'
-    nc: upcoming
+  - nc: upcoming
 - credits:
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
     Ring announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
@@ -63,3 +63,5 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=447069)
 * [Announcement post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0tqijabZm9aLC5x9JuvpEMHa4e7rUjPFKJKMRph6NnTJ3k3xw9XSwR1bfVv4ERPv7l) on MZW's official Facebook page.
+
+[matta-nie-bedzie]: https://www.facebook.com/reel/1632369077910218
