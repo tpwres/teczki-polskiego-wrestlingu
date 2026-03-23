@@ -290,12 +290,6 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Barbed Wire Mayhem Match
     en: '[PpW Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md)'
     ed: 2026-03-21
-- - 'Olgierd (c)'
-  - '[Max Speed](@/w/max-speed.md)'
-  - s: Singles Match
-    en: [PpW Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md)
-    ed: 2026-04-25
-    nc: upcoming
 {% end %}
 
 Olgierd also defended the title at a [show in Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md), against Dale Patricks.

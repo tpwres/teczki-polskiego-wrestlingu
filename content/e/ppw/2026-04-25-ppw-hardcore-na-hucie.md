@@ -18,16 +18,8 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 
 * On 9.03.2026 PpW [announced][hardkorowa-zapowiedz] the next show on their social media - this time, PpW will be making their debut in Katowice. Previously, PpW talent worked in Katowice at [Legacy of Wrestling](@/o/low.md) shows.
 * Tickets went on sale along with the announcement. No card was revealed at the time.
-* At [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) [Olgierd](@/w/olgierd.md) was challenged for his [PpW Championship](@/c/ppw-championship.md) by [Max Speed](@/w/max-speed.md). This match was officially confirmed on 23.03.2026.
 
-## Card
-
-{% card() %}
-- - '[Olgierd](@/w/olgierd.md)(c)'
-  - '[Max Speed](@/w/max-speed.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
-{% end %}
+{{ skip_card() }}
 
 ### Recap
 
