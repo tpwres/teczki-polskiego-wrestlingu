@@ -1,1 +1,2 @@
-001 = { path = "hardcore-na-hucie-plakat.webp", caption = 'Official poster. Texts at the top read "Ewenement takes over Silesia" and "South Side Extreme"', source = "Official PpW Facebook" }
+001 = { path = "hardcore-na-hucie-plakat.webp", caption = 'Official poster. Texts at the top read "Ewenement takes over Silesia" and "South Side Extreme".', source = "Official PpW Facebook" }
+002 = { path = "olgierd-dorzuci-maksymalnie-do-pieca.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Max Speed](@/w/max-speed.md).", source = "Official PpW Facebook" }
