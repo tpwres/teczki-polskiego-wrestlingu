@@ -16,9 +16,15 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 
 ## Build-up
 
-* TBD
+* On 23.03.2026 PpW published a [video][jeszcze-talarki] in which [Oskar Alexander](@/w/oskar-alexander.md), looking for [Goblin](@/w/goblin.md) who'd taken his phone, bumps into [Jacob Crane](@/w/jacob-crane.md) and causes him to spill a bag of snacks on the floor. This leads to an altercation resulting in Crane challenging Oskar to a match, to pay him back for the lost snacks. The match was officially confirmed the next day.
 
-{{ skip_card() }}
+## Predicted card 
+
+{% card(predicted=true) %}
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - nc: upcoming
+{% end %}
 
 ### Recap
 
@@ -30,3 +36,4 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * [Facebook post announcing the event][jeszcze-link]
 
 [jeszcze-link]: https://www.facebook.com/OficjalnePPW/posts/pfbid0Ke9dA9hfxSZi5x8sACzFTjXz5xH9dfy6vBqdbe1MizdAR41DxS5qkFXKkdAoNb9Rl
+[jeszcze-talarki]: https://www.facebook.com/reel/942794378122433
