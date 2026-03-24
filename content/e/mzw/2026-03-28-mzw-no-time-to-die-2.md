@@ -22,7 +22,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 * On 2.03.2025 MZW unveiled the main event: [Matt Buckna](@/w/matt-buckna.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) for the [MZW Championship](@/c/mzw-championship.md).
 * The next announcement came on 12.03.2025, and was for a Three-Way Match between [Tony Sheen](@/w/riverman.md), [Boro](@/w/boro.md) and [Sambor](@/w/sambor.md).
 * On 16.03.2026 [Oskar Alexander](@/w/oskar-alexander.md) issued an open challenge "to show all the fans his pride and greatness".
-* In a [video][matta-nie-bedzie] posted on 23.03.2026 Matt Buckna explained that he won't be able to attend the show after all due to a recent shoulder injury.
+* In a [video][matta-nie-bedzie] posted on 23.03.2026 Matt Buckna explained that he won't be able to attend the show after all due to a recent shoulder injury. [Tony Sheen](@/w/riverman.md), in his [response][tony-poplynal] posted the next day, berated Buckna for not putting in the effort and addressed the federation's management to give him the match against Gustav Gryffin for the MZW Championship instead.
 
 ## Predicted card
 
@@ -65,3 +65,4 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 * [Announcement post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0tqijabZm9aLC5x9JuvpEMHa4e7rUjPFKJKMRph6NnTJ3k3xw9XSwR1bfVv4ERPv7l) on MZW's official Facebook page.
 
 [matta-nie-bedzie]: https://www.facebook.com/reel/1632369077910218
+[tony-poplynal]: https://www.facebook.com/reel/2145688749550712
