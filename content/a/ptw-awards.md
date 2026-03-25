@@ -337,6 +337,13 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 2. Miyagi Sigma ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) - 29 votes
 3. [L'Orda](@/tt/l-orda.md) ([Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)) - 10 votes
 
+##### Shock of the Year
+1. [Nano Lopez](@/w/nano-lopez.md) joins [Nietykalni](@/tt/nietykalni.md) - 28 votes
+2. [Sigma Boy xD](@/w/sigma-boy.md) is the son of [Łukasz Okoński](@/w/lukasz-okonski.md) - 14 votes
+3. [Serg Sullivan](@/w/serg-sullivan.md) knocks out [Miyagi Shida](@/w/miyagi-shida.md) by jumping from a ladder - 10 votes
+4. [Mercedes Moné](@/w/mercedes-mone.md) becomes the inaugural [PTW Women's Champion](@/c/ptw-womens-championship.md) - 8 votes
+5. [Spartan](@/w/spartan.md) becomes a double Champion - 5 votes
+6. [Łukasz Okoński](@/w/lukasz-okonski.md) picks up [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - 3 votes
 
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
