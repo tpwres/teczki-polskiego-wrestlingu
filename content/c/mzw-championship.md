@@ -2,7 +2,7 @@
 title = "MZW Championship"
 weight = 5
 template = "article.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel=2
 [extra.gallery.1]
@@ -221,7 +221,7 @@ Asmund vacated the title immediately after winning it, due to his retirement fro
     ed: 2021-08-14
 {% end %}
 
-Title was later vacated due to Rafael Kid leaving the organization. This was announced at [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), and resulted in a vacancy of over 502 days. Rafael Kid's reign is recognized as lasting 574 days.
+The title was later vacated due to Rafael Kid leaving the organization. This was announced at [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), and resulted in a vacancy of over 502 days. Rafael Kid's reign is recognized as lasting 574 days.
 
 **TOTAL:** 574 days
 
@@ -250,4 +250,19 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
   - s: Singles Match
     en: '[MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md)'
     ed: 2025-09-27
+{% end %}
+
+The title was vacated by the management's decision on 25.03.2026 when [Matt Buckna](@/w/matt-buckna.md) was unable to attend [MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) following an injury.
+
+**TOTAL:** 528 days
+
+### Champion #8: ???
+
+{% free_card() %}
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '???'
+  - s: Singles Match
+    en: '[MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
+    ed: 2026-03-28
+    nc: upcoming
 {% end %}
