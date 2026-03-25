@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["DE"]
 [extra.gallery]
-1 = { path = "matt-buckna.jpg", caption = "Matt Buckna with ring announcer Adi, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
+1 = { path = "matt-buckna.jpg", caption = "Matt Buckna with ring announcer [Adi](@/w/adrian-zgorski.md), [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 +++
 
 Matt Buckna is a German wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
