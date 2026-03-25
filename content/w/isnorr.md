@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "isnorr.jpg", caption = "Isnorr towering over [Goblin](@/w/goblin.md) and Benny Bacchus at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "Official PpW Facebook" }
 +++
 
-Isnorr, previously known as Norris, is a retired Polish wrestler and active commentator best known for his appearances at [PpW Ewenement](@/o/ppw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Isnorr, previously known as Norris, is a Polish wrestler and occasional commentator best known for his appearances at [PpW Ewenement](@/o/ppw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -57,11 +57,15 @@ After his victory over Biesiad the rivalry has not ended. During the said match 
 
 At [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md) Isnorr confirmed himself as a valid runner-up for the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), where he inserted himself into the Born To Be Wired Four Way Elimination Match against Johnny Blade, [Alex Arthur](@/w/alex-arthur.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). He was unsucessful in scoring a win, but he earned a opportunity to a 1vs1 rematch at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), where he was again defeated by Blade. This however didn't meant that he would be off out of the title pitcure, as he continued to haunt Johnny vowing to destroy all of the "backyarders" on Polish wrestling scene. Around that time he also joined ["Zmowa"](@/tt/zmowa.md) - a villainous stable led by [Mister Z](@/w/mister-z.md) as their "Ultraviolent Specialist". At [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) he emerged victorious from Insane Wheel of Fortune Gauntlet Invitational Match which was held by Johnny Blade. At [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md) he alligned himself with [Gustav Gryffin](@/w/gustav-gryffin.md) to defeat Johnny and [Samson](@/w/samson.md) - Gustav's rival. Two victories in a row over Johnny allowed Isnorr to face him in a another ultraviolent variation: Blood God Ritual - Trial by Metal and Glass Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) in October 2024, where he finally defeated Johnny and became PpW Ultraviolent Champion.
 
-#### PpW Ultraviolent Champion and retirement
+#### PpW Ultraviolent Champion and injury
 
 After his victory over Johnny Blade Isnorr made his first defences on non-canon shows at [Splat!FilmFest](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md) in Palace of Culture and Science and [PpW Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) in Poznań. At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) he held a Open Challenge which was anwsered by his Zmowa ally [Marco Hammers](@/w/marco-hammers.md). Next one took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) where Isnorr faced former Ultraviolent Champion Stanisław Van Dobroniak in a Donky Kong Weaponmaster Match. At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) he again alligned himself with Gustav Gryffin to fight off Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)) in a Tornado Tag Team Match. Unfortunately for Isnorr, he was the one to be pinned by victorious Pure Gold, which resulted in Gustav's first defeat as a PpW Champion.
 
 At [Teraz Albo Nigdy](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Isnorr entered the 20 Typa, 20 Broni Battle Royale for the PpW Championship opportunity at [Ledwo Legalne V](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), but he was unable to win it due to suffering a serious injury during the match. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Isnorr came out and cut a promo discussing his future in the business, explaining that although he may heal his arm, he was also made aware of a serious cardiac condition preventing him from further competing in the ring. He vacated his championship, seemingly retiring from in-ring competition.
+
+#### Return
+
+Isnorr made a surprise return at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), where he participated in the 25 Typa 25 Broni Battle Royal but was eliminated towards the end of the bout. He then promptly followed up by facing [Filip Fux](@/w/filip-fux.md) and [Antoni Ocean](@/w/antoni-ocean.md) in a Three Way Match at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), vying for a spot in the Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
 
 #### Commentary team
 
@@ -79,7 +83,7 @@ From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md
   - [Nathan Cross](@/w/gabriel-queen.md) (2021)
 * Entrance music:
   - "Eunomia" by Carrion
-    {{ org_badge(orgs=['dfw', 'ppw']) }} (2018-2025) <br>
+    {{ org_badge(orgs=['dfw', 'ppw']) }} (2018-) <br>
     {{ music(yt='p1AAVsoDnVo')}}
     {{ music(spot='4Y7FW4KF1L8SdPorm3rFBQ')}}
     {{ music(apple='1410929179?i=1410938192')}}
