@@ -17,6 +17,7 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 ## Build-up
 
 * On 23.03.2026 PpW published a [video][jeszcze-talarki] in which [Oskar Alexander](@/w/oskar-alexander.md), looking for [Goblin](@/w/goblin.md) who'd taken his phone, bumps into [Jacob Crane](@/w/jacob-crane.md) and causes him to spill a bag of snacks on the floor. This leads to an altercation resulting in Crane challenging Oskar to a match, to pay him back for the lost snacks. The match was officially confirmed the next day.
+* On 25.03.2026 announced a Three Way Match between [Filip Fux](@/w/filip-fux.md), [Isnorr](@/w/isnorr.md) (who'd returned to in-ring competition at the [previous show](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) and [Antoni Ocean](@/w/antoni-ocean.md). The winner will qualify for the Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
 
 ## Predicted card 
 
@@ -24,6 +25,12 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - nc: upcoming
+- - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Isnorr](@/w/isnorr.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - s: Three Way Match
+    n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
+    nc: upcoming
 {% end %}
 
 ### Recap
