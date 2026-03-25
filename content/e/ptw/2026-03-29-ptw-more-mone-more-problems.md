@@ -29,6 +29,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 * The day after that, on 18.03.2026, PTW announced a new tag team consisting of [CJ Klakson](@/w/cj-klakson.md) & Bart Petro, to take on [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek.
 * On 19.03.2026 PTW announced the tag team of [El G](@/w/el-g.md) and Conte.
 * On 23.03.2025 [Alex Brave](@/w/alex-brave.md) was announced to face [Sawicki](@/w/sawicki.md).
+* Two days later PTW announced another Brave Show, hosted by [Alex Brave](@/w/alex-brave.md), in which [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) will sign a contract for the [PTW Championship](@/c/ptw-championship.md) match.
 
 ## Predicted card
 
@@ -41,7 +42,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - '[Boguś](@/w/bogus.md)'
   - nc: upcoming
 - - '[Sigma Boy xD](@/w/sigma-boy.md)'
-  - ???'
+  - '???'
   - nc: upcoming
 - - 'Jordan Wolff'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
@@ -62,6 +63,11 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
+    nc: upcoming
+- - '[Spartan](@/w/spartan.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: The Brave Show
     nc: upcoming
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Sawicki](@/w/sawicki.md)'
