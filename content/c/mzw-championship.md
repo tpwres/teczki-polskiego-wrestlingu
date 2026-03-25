@@ -264,4 +264,5 @@ The title was vacated by the management's decision on 25.03.2026 when [Matt Buck
   - s: Singles Match
     en: '[MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
     ed: 2026-03-28
+    nc: upcoming
 {% end %}
