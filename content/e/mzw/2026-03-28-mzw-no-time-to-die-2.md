@@ -49,7 +49,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
   - '???'
   - s: Open Challenge
     nc: upcoming
-- - '[Febus 'The Wolf'](@/w/apollo-anderson.md)'
+- - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
   - nc: upcoming
 - - '???'
