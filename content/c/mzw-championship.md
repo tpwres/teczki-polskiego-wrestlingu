@@ -254,7 +254,7 @@ The title was later vacated due to Rafael Kid leaving the organization. This was
 
 The title was vacated by the management's decision on 25.03.2026 when [Matt Buckna](@/w/matt-buckna.md) was unable to attend [MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) following an injury.
 
-**TOTAL:** 528 days
+**TOTAL:** 529 days
 
 ### Champion #8: ???
 
