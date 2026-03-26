@@ -24,6 +24,7 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
 * On 16.03.2026 [Oskar Alexander](@/w/oskar-alexander.md) issued an open challenge "to show all the fans his pride and greatness".
 * In a [video][matta-nie-bedzie] posted on 23.03.2026 Matt Buckna explained that he won't be able to attend the show after all due to a recent shoulder injury. [Tony Sheen](@/w/riverman.md), in his [response][tony-poplynal] posted the next day, berated Buckna for not putting in the effort and addressed the federation's management to give him the match against Gustav Gryffin for the MZW Championship instead.
 * On 25.03.2026 MZW [announced][matt-bez-pasa] that since Matt Buckna won't defend his title at the show, the MZW Championship is hereby vacated and Gustav will face another opponent in a match to determine the new Champion.
+* The next day MZW announced [Febus 'The Wolf'](@/w/apollo-anderson.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).
 
 ## Predicted card
 
@@ -48,6 +49,9 @@ No Time to Die 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and
   - '???'
   - s: Open Challenge
     nc: upcoming
+- - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+  - nc: upcoming
 - - '???'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
