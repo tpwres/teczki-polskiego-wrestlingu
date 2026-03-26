@@ -54,7 +54,7 @@ _Listed in alphabetical order:_
 * Arczi Czajka
 * Bart Petro
 * [Boguś](@/w/bogus.md)
-* [Bumper](@/w/bumper.md)
+* [Bumper](@/w/fabian.md)
 * [CJ Klakson](@/w/cj-klakson.md)
 * [Daniel Razor](@/w/daniel-razor.md)
 * Damian Adler

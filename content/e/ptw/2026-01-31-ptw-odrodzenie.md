@@ -53,10 +53,10 @@ This event marked a change in PTW's policy. The live stream was available to You
   - 'Bart Petro'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
-  - 'Drop & Bump: [Bumper](@/w/bumper.md) & [Dropper](@/w/whiteblade.md)'
+  - 'Drop & Bump: [Bumper](@/w/fabian.md) & [Dropper](@/w/whiteblade.md)'
   - s: Tag Team Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - '[Bumper](@/w/bumper.md)'
+  - '[Bumper](@/w/fabian.md)'
   - '[Dropper](@/w/whiteblade.md)'
   - Bumper attacks Dropper after their loss. Damian Lambert makes a save and kidnaps Dropper, forcing a mask on his face.
 - - '[Spartan](@/w/spartan.md)(c)'
@@ -70,7 +70,7 @@ This event marked a change in PTW's policy. The live stream was available to You
 
 * Despite being announced, [Remo](@/w/remo.md) did not appear at the show.
 * After winning the Four Way Match, [Damian Lambert](@/w/damian-lambert.md) debuted his new gimmick, preaching that the mysterious "Prophet" who knows all the answers will come to PTW.
-* Later at the show, Lambert interfered in a post-match altercation between Bumper and Dropper. Driving Bumper away, he offered Dropper a lucha mask. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
+* Later at the show, Lambert interfered in a post-match altercation between Bumper and Dropper. Driving Bumper away, he offered Dropper a lucha mask but was refused. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
 
 ## References
 

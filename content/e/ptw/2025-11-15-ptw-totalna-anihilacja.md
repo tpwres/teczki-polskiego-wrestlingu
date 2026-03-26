@@ -44,7 +44,7 @@ has_video = false
   - '[Alex Brave](@/w/alex-brave.md)'
   - c: XWP Championship
 - - '[Diana Strong](@/w/diana-strong.md)'
-  - '[Bumper](@/w/bumper.md)'
+  - '[Bumper](@/w/fabian.md)'
 - - '[Puncher](@/w/puncher.md)'
   - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
   - s: Three Stages of Hell - Boxing Match
