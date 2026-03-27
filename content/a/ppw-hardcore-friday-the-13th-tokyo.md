@@ -63,6 +63,7 @@ Attendance: ca. 120
 
 * Unlike at the [previous show](@/a/ppw-polska-gurom.md), this time [Referee Martynka](@/w/istotna-martynka.md) counted pins in English.
 * Robert Star appeared to have sustained an injury early in his match after a dive outside the ring, as he was out of the action for the best part of the fight.
+* A failed spot from Olgierd vs Dale Patricks, in which a table doesn't break under Dale falling from the top turnbuckle, was featured in [Botchamania 529][botch-529], at 3:26 mark.
 
 ## References
 
@@ -86,3 +87,4 @@ Attendance: ca. 120
 [are-wa-tokyo-square-desu]: https://www.google.co.jp/maps/place/6-ch%C5%8Dme-8-10+Maenoch%C5%8D,+Itabashi+City,+Tokyo+174-0063,+Japonia/@35.7654889,139.6860555,20z
 [orugieedo]: https://www.facebook.com/reel/1416639646528567
 [crane-frekwencja]: https://www.facebook.com/groups/whatiswrestling/posts/3116634121857143/?comment_id=3116644148522807&__cft__[0]=AZYOoC3_UOjtN3df6Kv1-tddwitOsdRYAyli3RStFlqq33JYLxQ42Y_8JtIQ7tNKl0Bkn3T9lyPcwWqpN12ruHVG3KqtFNbwvp2xUFob0oD5jLAmpWkobZexIG0L7nzbW8yIr1xme5JfvMPH_ZAEVtfMFPcWVJwBYKDL2cM8Qd8z8diYJW1d4Cpr7x8bE9VbKuEPiyGJlOxJlxUSziX9brXt&__tn__=R-R
+[botch-529](https://youtu.be/u2Sj5ZjXan4&t=206)

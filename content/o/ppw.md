@@ -81,19 +81,23 @@ In March 2024 it has been restored from a backup, in a text-only form, and can b
 
 ### Biesiad vs Osamu
 
-During a match at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
+During a match at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455][botch-455], at the 8:05 mark.
 
 ### Goblin vs MBM
 
 The second botch to make it was the table spot from [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), from the El Paso Outlaw Match between [Goblin](@/w/goblin.md) and Belgian wrestler MBM.
 With Goblin lying on a table, MBM climbed the second turnbuckle, put on a pink cowboy hat, straddled a toy hobby horse and jumped onto the table, which failed to break.
 After the fight, both agreed to redo the spot, to the audience's great applause.
-This failed spot, and the second attempt were featured in [Botchamania 489](https://youtu.be/lGThcHUL5g0?t=516), at the 8:36 mark.
+This failed spot, and the second attempt were featured in [Botchamania 489][botch-489], at the 8:36 mark.
 
 ### Critical 420 Ladder Match
 
 PpW's third Botchamania entry was from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md). In the four-man ladder match, just after the opening sequence, Benny Bachhus accidentally grabs the trophy as he falls to the ground when his ladder was knocked. The faces then signal the referee to hang it up again and the match is restarted.
-This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwafo&t=730s), at the 12:10 mark. In another botch, this time on Botchamania's end, this clip was labeled as "[Total Blast Wrestling](@/o/tbw.md)", with Maffew probably confusing it with PTW's [similarly-named event](@/e/ptw/2024-05-11-ptw-6.md).
+This was featured in [Botchamania 493][botch-493], at the 12:10 mark. In another botch, this time on Botchamania's end, this clip was labeled as "[Total Blast Wrestling](@/o/tbw.md)", with Maffew probably confusing it with PTW's [similarly-named event](@/e/ptw/2024-05-11-ptw-6.md).
+
+### Olgierd vs Dale Patricks
+
+Two years later a snippet from PpW's [second Tokyo show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) was featured in [Botchamania 529][botch-529]. At 3:26 mark there's a failed spot from the Dog Collar Match between Olgierd and Dale Patricks, in which a table doesn't break under Dale falling from the top turnbuckle.
 
 ## Foreign relations
 
@@ -189,3 +193,7 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [ewenement-logo]: https://www.facebook.com/photo/?fbid=2150678838439647&set=a.158941800946704
 [ppw-globalnie]: https://www.instagram.com/ppw_global/
 [ppw-ma-talent]: https://www.facebook.com/reel/865556049810905
+[botch-455](https://youtu.be/eurthT-CbUg?t=485)
+[botch-489](https://youtu.be/lGThcHUL5g0?t=516)
+[botch-493](https://youtu.be/2azqxchwafo&t=730s)
+[botch-529](https://youtu.be/u2Sj5ZjXan4&t=206)
