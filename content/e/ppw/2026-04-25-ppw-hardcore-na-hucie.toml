@@ -1,2 +1,3 @@
 001 = { path = "hardcore-na-hucie-plakat.webp", caption = 'Official poster. Texts at the top read "Ewenement takes over Silesia" and "South Side Extreme".', source = "Official PpW Facebook" }
 002 = { path = "olgierd-dorzuci-maksymalnie-do-pieca.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Max Speed](@/w/max-speed.md) in a [PpW Championship](@/c/ppw-championship.md) match.", source = "Official PpW Facebook" }
+003 = { path = "boro-vs-mutant.webp", caption = "Image announcing [Boro](@/w/boro.md) vs [Mutant](@/w/mutant.md). The pink text says &quot;If Boro wins, Mutant becomes his bodyguard&quot;.", source = "Official PpW Facebook" }
