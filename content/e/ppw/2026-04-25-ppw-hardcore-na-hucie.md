@@ -30,7 +30,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
     nc: upcoming
 - - '["Ladykiller" Boro](@/w/boro.md)'
   - '[Mutant](@/w/mutant.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Recap
