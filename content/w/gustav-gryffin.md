@@ -132,6 +132,8 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
     - Wrestler of the Year (2025)
     - Match of the Year - vs [Goblin](@/w/goblin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)
     - Moment of the Year (2025)
+* Maniac Zone Wrestling:
+  - [MZW Championship](@/c/mzw-championship.md) (1 time)
 
 ## Internet presence
 

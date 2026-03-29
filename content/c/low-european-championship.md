@@ -85,8 +85,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - '[David Oliwa](@/w/david-oliwa.md)'
   - s: Six-Way Elimination Match
     en: '[Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md)'
-    ed: 2015-12-20
-    nc: upcoming
+    ed: 2025-12-20
 {% end %}
 
 ### Champion #1: Axel Fox
@@ -106,7 +105,6 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - s: Singles Match
     en: '[No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
     ed: 2026-03-28
-    nc: upcoming
 {% end %}
 
 [qna-legacy]: https://www.youtube.com/watch?v=4urhjLJHEtA
