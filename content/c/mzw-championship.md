@@ -182,7 +182,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 
 **TOTAL**: 195 days
 
-### Champion #6: Asmund
+### Champion #6: Asmund (2nd reign)
 
 {% free_card() %}
 - - '[Asmund](@/w/asmund.md)'
@@ -264,7 +264,7 @@ The title was later vacated due to Rafael Kid leaving the organization. This was
     ed: 2025-09-27
 {% end %}
 
-The title was vacated by the management's decision on 25.03.2026 when [Matt Buckna](@/w/matt-buckna.md) was unable to attend [MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) following an injury.
+The reign was cut short by the management's decision on 25.03.2026 when [Matt Buckna](@/w/matt-buckna.md) was unable to defend the title at [MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) following an injury, vacating the title.
 
 **TOTAL:** 529 days
 
@@ -280,7 +280,7 @@ The title was vacated by the management's decision on 25.03.2026 when [Matt Buck
 
 **TOTAL:** 5 minutes
 
-[Marco Hammers](@/w/marco-hammers.md) used the championship contract won by [Mister Z](@/w/mister-z.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) and challenged Gustav Gryffin minutes after his victory.
+[Marco Hammers](@/w/marco-hammers.md) cashed in the championship contract won by [Mister Z](@/w/mister-z.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) and challenged Gustav Gryffin minutes after his victory.
 
 ### Champion #10: Marco Hammers
 
