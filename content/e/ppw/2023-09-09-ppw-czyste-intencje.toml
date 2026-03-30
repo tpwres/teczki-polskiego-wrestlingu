@@ -6,3 +6,4 @@
 06 = { path = "adam-wong.webp", caption = "Image announcing [Adam Wong](@/w/adam-wong.md).", source = "Official PpW Facebook" }
 07 = { path = "triple-threat-match.webp", caption = "Image announcing [Bill Feager](@/w/feager.md) vs [Isnorr](@/w/isnorr.md) vs TJ Charles.", source = "Official PpW Facebook" }
 08 = { path = "asia-z-bhp.webp", caption = "Image announcing a special guest, Asia from the band [.bHP](https://www.facebook.com/bHPnumetal/).", source = "Official PpW Facebook" }
+09 = { path = "w-tv-bedzie.webp", caption = "Post announcing a live stream on YouTube and a live transmission on television.", source = "Official PpW Facebook" }
