@@ -285,8 +285,8 @@ The title was vacated by the management's decision on 25.03.2026 when [Matt Buck
 ### Champion #10: Marco Hammers
 
 {% free_card() %}
-- - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
-  - '[Marco Hammers](@/w/marco-hammers.md) w/ [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md)'
+- - '[Marco Hammers](@/w/marco-hammers.md) w/ [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - s: Singles Match
     en: '[MZW No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
     ed: 2026-03-28
