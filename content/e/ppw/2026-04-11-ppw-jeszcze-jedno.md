@@ -19,6 +19,7 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * On 23.03.2026 PpW published a [video][jeszcze-talarki] in which [Oskar Alexander](@/w/oskar-alexander.md), looking for [Goblin](@/w/goblin.md) who'd taken his phone, bumps into [Jacob Crane](@/w/jacob-crane.md) and causes him to spill a bag of snacks on the floor. This leads to an altercation resulting in Crane challenging Oskar to a match, to pay him back for the lost snacks. The match was officially confirmed the next day.
 * On 25.03.2026 PpW announced a Three Way Match between [Filip Fux](@/w/filip-fux.md), [Isnorr](@/w/isnorr.md) (who'd returned to in-ring competition at the [previous show](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) and [Antoni Ocean](@/w/antoni-ocean.md). The winner will qualify for the Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
 * On 29.03.2026 came the announcement of an Anarchy Cyclone Tag Team Match between members of [Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md), [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md), and Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) with [Biesiad Strong](@/w/biesiad.md), who won the 25 Typa 25 Broni Battle Royal at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md).
+* The second Qualifier Match for Ledwo Legalne 6 was announced on 30.03.2026: [Leon Lato](@/w/leon-lato.md) vs [Johnny Blade](@/w/johnny-blade.md) vs [Bartosz Plata](@/w/plata.md).
 
 ## Predicted card 
 
@@ -35,6 +36,12 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 - - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md)'
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Biesiad Strong](@/w/biesiad.md)'
   - s: Anarchy Cyclone Tag Team Match
+    nc: upcoming
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - s: Three Way Match
+    n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
     nc: upcoming
 {% end %}
 
