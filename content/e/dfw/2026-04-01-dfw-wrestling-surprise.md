@@ -32,7 +32,7 @@ Wrestling Surprise is an upcoming show by [Dream Factory Wrestling](@/o/dfw.md),
     nc: upcoming
 - - '[Black Orion](@/w/johnny-blade.md)'
   - '[Malmo Buruto](@/w/malmo-buruto.md)'
-  - c: [DFW Championship](@/c/dfw-championship.md)
+  - c: '[DFW Championship](@/c/dfw-championship.md)'
     s: 20 Minute No-DQ Iron Man Match
     nc: upcoming
 - credits:
