@@ -345,6 +345,12 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 5. [Spartan](@/w/spartan.md) becomes a double Champion - 5 votes
 6. [Łukasz Okoński](@/w/lukasz-okonski.md) picks up [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - 3 votes
 
+##### Speaker of the Year
+1. [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - 57 votes
+2. ["The Voice" Daniel Razor](@/w/daniel-razor.md) - 16 votes
+3. [Dawid "Puncher" Seńko](@/w/puncher.md) / [Vincent Caravaggio](@/w/vincent-caravaggio.md) - 9 votes (tie)
+4. [Alex Brave](@/w/alex-brave.md) - 6 votes
+
 ## References
 * [Video: Okoński hands Caravaggio his award at Nowe Porządki](https://www.youtube.com/watch?v=JXaHVjd4WNQ&t=3470) (requires paid subscription)
 * [Video: Pawłowski hands Max Speed his awards at Wrestlingowe Walentynki](https://www.youtube.com/watch?v=Til3tBdaKvs&t=1330) (requires paid subscription)
