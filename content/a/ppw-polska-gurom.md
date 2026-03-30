@@ -46,7 +46,7 @@ Although the show in Ueno Park falls on an earlier date, it was announced nearly
   - s: Bring Your Weapons Falls Count Anywhere Rumble Match
 - credits:
     Referee: '[審判 マルティナ](@/w/istotna-martynka.md) (Referee Martyna)'
-    Ring announcer: '？？？ (???)'
+    Ring announcer: 'ヤクブ・セヌシ (Jakub Senusi)'
 {% end %}
 
 Attendance: ca. 35
