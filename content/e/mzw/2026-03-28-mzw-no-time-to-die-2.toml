@@ -8,3 +8,19 @@
 0007 = { path = "oskar-sie-otworzyl.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official MZW Facebook" }
 0008 = { path = "matt-buckna-jest-cieniem-samego-siebie.webp", caption = "Image announcing a new, unknown opponent for [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official MZW Facebook" }
 0009 = { path = "ten-z-czerwonego-kapturka-vs-dziedzic-pruski.webp", caption = "Image announcing [Febus 'The Wolf'](@/w/apollo-anderson.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official MZW Facebook" }
+
+0101 = { path = "o-kurcze-to-anonimowy-ochroniarz.webp", caption = "The ring before the show, guarded diligently by an [anonymous security guy](@/w/plata.md).", source = "M3n747" }
+0102 = { path = "czy-sie-stoi-czy-sie-siedzi-kibicowac-sie-nalezy.webp", caption = "The other end of the room.", source = "M3n747" }
+0103 = { path = "nie-wstane-tak-bede-lezal.webp", caption = "Adrian Zgórski making a ring angel.", source = "M3n747" }
+0104 = { path = "no-juz-dobrze-niech-bedzie-ze-wstane.webp", caption = "Adrian Zgórski gets up with style.", source = "M3n747" }
+0105 = { path = "ask-and-you-shall-receive-sort-of.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) gives the people what they wanted - or at least the next best thing.", source = "M3n747" }
+0106 = { path = "aquaman-po-20-latach-komunizmu.webp", caption = "Arek Paterek presents: [Tony Sheen](@/w/riverman.md).", source = "M3n747" }
+
+
+1001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+2001 = { path = ".webp", caption = ".", source = "M3n747" }
+3001 = { path = ".webp", caption = ".", source = "M3n747" }
+4001 = { path = ".webp", caption = ".", source = "M3n747" }
