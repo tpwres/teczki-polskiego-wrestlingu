@@ -41,6 +41,8 @@ Czyste Intencje (_Pure Intentions_) was a show by [PpW Ewenement Wrestling](@/o/
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
+The show was aired live on television, on Sportowa.tv channel.
+
 ## References
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=382968)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:2/videos/czyste-intencje-23-full-show-hd-definitive) (requires paid subscription)

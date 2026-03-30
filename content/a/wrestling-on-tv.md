@@ -64,7 +64,7 @@ In March 2022, Warner TV (previously known in Poland as TNT) started airing AEW 
 ## 2023
 
 In September, PpW's social media announced that [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) would be available not only on their YouTube channel, but [also on TV][czysteintencje-fb].
-The channel was sportowa.tv, a general sports-oriented channel available in several smaller cable networks in Poland and over the Internet.
+The channel was Sportowa.tv, a general sports-oriented channel available in several smaller cable networks in Poland and over the Internet.
 Social media graphics for that event show the channel's logo among other partners and sponsors. This cooperation appears to have been short-lived, as the channel was not mentioned on any of the later shows, and there is no video of the event on their YouTube channel.
 
 During the opening moments of [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md), [chairman Malinowski](@/w/krystian-malinowski.md) announced that from this moment on, KPW's events would be broadcast on FightBox. The first show to air was indeed Arena 23, which was shown without the usual commentary by [Krystian Czekaj](@/w/krystian-czekaj.md). The following shows were recorded with the intention of airing them later, after recording a commentary.
