@@ -34,10 +34,6 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 ## Card
 
 {% card() %}
-- - '[Spartan](@/w/spartan.md)'
-  - '[Alex Brave](@/w/alex-brave.md)'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - g: The Brave Show
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
@@ -60,6 +56,10 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
   - 'The Polish Stand: [CJ Klakson](@/w/cj-klakson.md) & Bart Petro'
   - s: Tag Team Match
+- - '[Spartan](@/w/spartan.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: The Brave Show
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '[Mercedes Moné](@/w/mercedes-mone.md)(c)'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
