@@ -16,11 +16,28 @@
 0105 = { path = "ask-and-you-shall-receive-sort-of.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) gives the people what they wanted - or at least the next best thing.", source = "M3n747" }
 0106 = { path = "aquaman-po-20-latach-komunizmu.webp", caption = "Arek Paterek presents: [Tony Sheen](@/w/riverman.md).", source = "M3n747" }
 
+1001 = { path = "mister-z-teczka.webp", caption = "Mister Z with his contract briefcase.", source = "M3n747" }
+1002 = { path = "sedzia-michal.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md).", source = "M3n747" }
+1003 = { path = "ja-w-klubie-disco-moge-robic-wszystko.webp", caption = "[Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
 
-1001 = { path = ".webp", caption = ".", source = "M3n747" }
+2001 = { path = "lysy-i-lysszy.webp", caption = "[Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md).", source = "M3n747" }
+2002 = { path = "matriksa-sie-naogladal.webp", caption = "[Marcelito](@/w/marcelito.md), wearing a leather coat similar to Shadow's.", source = "M3n747" }
+2003 = { path = "szedo.webp", caption = "[Shadow](@/w/shadow.md), with [Marco Hammers](@/w/marco-hammers.md) in the background.", source = "M3n747" }
+2004 = { path = "po-lysinach-do-zwyciestwa.webp", caption = "Marco Hammers about to jump from Olgierd's back onto Marcelito. To the right stands Sędzia Seweryn.", source = "M3n747" }
+2005 = { path = "dwa-supleksy-w-cenie-jednego.webp", caption = "Sędzia Seweryn observes Marco Hammers and Olgierd performing a double Suplex on Marcelito.", source = "Kawczun" }
+2006 = { path = "marceli-flip.webp", caption = "Shadow monkey flips Marcelito onto Marco Hammers.", source = "Kawczun" }
+2007 = { path = "moonsaultyzm-stosowany.webp", caption = "Shadow hits a Moonsault on Marco Hammers. In the background stands Marcelito, [Sędzia Seweryn](@/w/sedzia-seweryn.md) to the right.", source = "Kawczun" }
+2008 = { path = "co-ja-nie-zrobie-potrzymaj-mi-marcelita.webp", caption = "Marco Hammers holds Marcelito in a Delayed Vertical Suplex.", source = "M3n747" }
+2009 = { path = "marcelito-zawsze-ma-zielone.webp", caption = "A strip of Marcelito's LED lights.", source = "M3n747" }
 
 
 
-2001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
 3001 = { path = ".webp", caption = ".", source = "M3n747" }
 4001 = { path = ".webp", caption = ".", source = "M3n747" }
+5001 = { path = ".webp", caption = ".", source = "M3n747" }
+6001 = { path = ".webp", caption = ".", source = "M3n747" }
+7001 = { path = ".webp", caption = ".", source = "M3n747" }
+8001 = { path = ".webp", caption = ".", source = "M3n747" }
+9001 = { path = ".webp", caption = ".", source = "M3n747" }
