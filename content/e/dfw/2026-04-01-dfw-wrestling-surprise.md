@@ -12,7 +12,7 @@ has_video = false
 
 Wrestling Surprise is an upcoming show by [Dream Factory Wrestling](@/o/dfw.md), set to take place in [2KOŁA](@/v/2kola.md). It will be the first DFW show since [Crosswords City 2](@/e/dfw/2018-06-09-dfw-crosswords-city-2.md) in 2018. The show was announced with very little heads-up, hence the name of the event.
 
-## Predicted dard
+## Predicted card
 
 {% card(predicted=true) %}
 - - '[Direk](@/w/direk.md)'
