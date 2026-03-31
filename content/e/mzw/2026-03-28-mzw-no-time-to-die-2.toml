@@ -30,13 +30,23 @@
 2008 = { path = "co-ja-nie-zrobie-potrzymaj-mi-marcelita.webp", caption = "Marco Hammers holds Marcelito in a Delayed Vertical Suplex.", source = "M3n747" }
 2009 = { path = "marcelito-zawsze-ma-zielone.webp", caption = "A strip of Marcelito's LED lights.", source = "M3n747" }
 
+3001 = { path = "dziedzic-na-silownie-i-do-fryzjera.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md).", source = "M3n747" }
+3002 = { path = "the-furas.webp", caption = "[Febus 'The Wolf'](@/w/apollo-anderson.md), with [Sędzia Michał](@/w/sedzia-michal.md) in the far corner.", source = "M3n747" }
 
+4001 = { path = "sewi.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+4002 = { path = "whoop-whoop.webp", caption = "[Max Speed](@/w/max-speed.md).", source = "M3n747" }
+4003 = { path = "drugi-najrudszy-zawodnik-w-polsce.webp", caption = "[Jakub](@/w/jakub.md) with his [Legacy of Wrestling European Championship](@/c/low-european-championship.md), and a fan's opinion.", source = "M3n747" }
+4004 = { path = "a-teraz-cos-z-zupelnie-innej-beczki-czlowiek-z-dwoma-pasami.webp", caption = [Jakub](@/w/jakub.md) holds his [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) and [Legacy of Wrestling European Championship](@/c/low-european-championship.md), as Adrian Zgórski introduces him.", source = "M3n747" }
+4005 = { path = "zupelnie-jak-ja-kiedy-nie-chcialem-isc-do-przedszkola.webp", caption = "[Max Speed](@/w/max-speed.md) prevents [Jakub](@/w/jakub.md) from using an Irish Whip on him.", source = "Kawczun" }
+4006 = { path = "jakub-ma-dwie-rece.webp", caption = "Jakub flexes his muscles, Max Speed lies on the ring dazed, and [Sędzia Seweryn](@/w/sedzia-seweryn.md) checks if he managed to catch that mosquito.", source = "Kawczun" }
+4007 = { path = "zaraz-poleci-lotem-parabolicznym.webp", caption = "[Max Speed](@/w/max-speed.md) on top rope, about to jump onto Jakub. [Sędzia Seweryn](@/w/sedzia-seweryn.md) doesn't seem terribly thrilled about this idea.", source = "Kawczun" }
+4008 = { path = "no-i-wygral-rudy-skubaniec.webp", caption = "[Jakub](@/w/jakub.md) triumphs, as Max Speed struggles to get up. [Adrian Zgórski](@/w/adrian-zgorski.md) stands in the corner, looking morose.", source = "M3n747" }
 
-
-
-3001 = { path = ".webp", caption = ".", source = "M3n747" }
-4001 = { path = ".webp", caption = ".", source = "M3n747" }
 5001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
 6001 = { path = ".webp", caption = ".", source = "M3n747" }
 7001 = { path = ".webp", caption = ".", source = "M3n747" }
 8001 = { path = ".webp", caption = ".", source = "M3n747" }
