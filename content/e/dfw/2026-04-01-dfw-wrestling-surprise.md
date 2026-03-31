@@ -18,9 +18,10 @@ Wrestling Surprise is an upcoming show by [Dream Factory Wrestling](@/o/dfw.md),
 - - '[Direk](@/w/direk.md)'
   - '[Norris](@/w/isnorr.md)'
   - nc: upcoming
-- - '[Chris Hunter](@/w/chris-hunter.md)'
+- - '[Chris Hunter](@/w/chris-hunter.md) & [Pain Killer](@/w/pain-killer.md)'
   - '[Cade Bruce](@/w/mister-z.md)'
-  - nc: upcoming
+  - s: Handicap Match
+    nc: upcoming
 - - '[PJ Blake](@/w/pj-blake.md) w/ [Revage](@/w/rafael-kid.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
   - '[Krueger](@/w/olgierd.md)'
