@@ -159,7 +159,6 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
     ed: 2026-03-29
-    nc: upcoming
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

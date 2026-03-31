@@ -258,8 +258,8 @@ One noteworthy deal between PTW and a bigger promotion was an agreement with Imp
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Defeated [Daniel Razor](@/w/daniel-razor.md) at [PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).'
 - - "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-  - '[Mercedes Moné](@/w/mercedes-mone.md)'
-  - Defeated [Diana Strong](@/w/diana-strong.md) at [PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) to become inagural champion.
+  - '[Diana Strong](@/w/diana-strong.md)'
+  - Defeated [Mercedes Moné](@/w/mercedes-mone.md) at [PTW More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md).
 {% end %}
 
 ## Other media
