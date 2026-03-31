@@ -10,3 +10,7 @@
 10 = { path = "el-g-widziany-contem-oka.webp", caption = "Image announcing [El G](@?w/el-g.md) & Conte.", source = "Official PTW Facebook" }
 11 = { path = "alex-brave-vs-sawicki.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md) vs [Sawicki](@/w/sawicki.md).", source = "Official PTW Facebook" }
 12 = { path = "a-spartan-a-wannabe-podcaster-and-a-failed-youtuber-walk-into-a-bar.webp", caption = "Image announcing The Brave Show, featuring [Spartan](@/w/spartan.md), [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook" }
+
+21 = { path = "widok-ringu.webp", caption = "View of the ring before the show.", source = "Ville Paananen" }
+22 = { path = "pozycja-na-goryla.webp", caption = "The Gorilla position.", source = "Ville Paananen" }
+23 = { path = "grunt-to-trafic-dobre-miejsca.webp", caption = "Dancers.", source = "Ville Paananen" }
