@@ -40,8 +40,8 @@ Wrestling Surprise is an upcoming show by [Dream Factory Wrestling](@/o/dfw.md),
 
 ### Recap
 
-* [Video announcing the show](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* TBD
 
 ## References
 
-* TBD
+* [Video announcing the show](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
