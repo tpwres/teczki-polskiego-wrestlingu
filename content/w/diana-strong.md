@@ -69,6 +69,7 @@ In November 2025 [Pro Wrestling Illustrated][pwi-250] ranked Diana #205 on their
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Women's Championship](@/c/ptw-womens-championship.md) (1 time; current)
   - [PTW Awards](@/a/ptw-awards.md) (1 time):
     * Female Wrestler of the Year (2022)
 * Pro Wrestling Illustrated:

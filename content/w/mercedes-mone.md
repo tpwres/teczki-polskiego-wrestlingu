@@ -44,7 +44,7 @@ In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md)
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - BestYa Women's Championship (1 time)
-  - [PTW Women's Championship](@/c/ptw-womens-championship.md) (1 time, current)
+  - [PTW Women's Championship](@/c/ptw-womens-championship.md) (1 time)
 
 ## Internet presence
 

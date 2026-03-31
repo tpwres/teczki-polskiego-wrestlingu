@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"More Moné, More Problems" is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"More Moné, More Problems" was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) booked for 14.03.2026, but the event was scrapped in favour of this one.
 
@@ -31,47 +31,38 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 * On 23.03.2025 [Alex Brave](@/w/alex-brave.md) was announced to face [Sawicki](@/w/sawicki.md).
 * Two days later PTW announced another Brave Show, hosted by [Alex Brave](@/w/alex-brave.md), in which [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) will sign a contract for the [PTW Championship](@/c/ptw-championship.md) match.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Mercedes Moné](@/w/mercedes-mone.md)(c)'
-  - '[Diana Strong](@/w/diana-strong.md)'
-  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    nc: upcoming
-- - 'Baron Wolfgang Storm'
-  - '[Boguś](@/w/bogus.md)'
-  - nc: upcoming
-- - '[Sigma Boy xD](@/w/sigma-boy.md)'
-  - '???'
-  - nc: upcoming
-- - 'Jordan Wolff'
-  - '[Miyagi Shida](@/w/miyagi-shida.md)'
-  - 'Damian Adler'
-  - s: Triple Threat Match
-    nc: upcoming
-- - '[Daniel Razor](@/w/daniel-razor.md)'
-  - '???'
-  - s: Submission Match
-    nc: upcoming
-- - 'First Class: [El G](@/w/el-g.md) & Conte'
-  - '???'
-  - nc: upcoming
-- - 'The Polish Stand: [CJ Klakson](@/w/cj-klakson.md) & Bart Petro'
-  - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[Spartan](@/w/spartan.md)(c)'
-  - '[Nano Lopez](@/w/nano-lopez.md)'
-  - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
+{% card() %}
 - - '[Spartan](@/w/spartan.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: The Brave Show
-    nc: upcoming
+- - '[Spartan](@/w/spartan.md)(c)'
+  - '[Nano Lopez](@/w/nano-lopez.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+- - 'Baron Wolfgang Storm'
+  - '[Boguś](@/w/bogus.md)'
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Sawicki](@/w/sawicki.md)'
-  - nc: upcoming
+- - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Fabian](@/w/fabian.md)'
+- - 'First Class: [El G](@/w/el-g.md) & Conte'
+  - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Damian Lambert](@/w/damian-lambert.md)'
+  - s: Tag Team Match
+- - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - 'Jordan Wolff'
+  - 'Damian Adler'
+  - s: Triple Threat Match
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - 'Gabriel Grip'
+  - s: Submission Match
+- - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
+  - 'The Polish Stand: [CJ Klakson](@/w/cj-klakson.md) & Bart Petro'
+  - s: Tag Team Match
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - '[Mercedes Moné](@/w/mercedes-mone.md)(c)'
+  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
