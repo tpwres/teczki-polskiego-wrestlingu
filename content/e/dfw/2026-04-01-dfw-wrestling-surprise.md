@@ -35,10 +35,6 @@ Wrestling Surprise is an upcoming show by [Dream Factory Wrestling](@/o/dfw.md),
   - c: '[DFW Championship](@/c/dfw-championship.md)'
     s: 20 Minute No-DQ Iron Man Match
     nc: upcoming
-- credits:
-    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Rob Scaffold](@/w/rob-scaffold.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-    Commentary: '[Joker](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Recap
