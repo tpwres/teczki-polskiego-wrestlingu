@@ -71,7 +71,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 
 ### Recap
 
-* TBD
+* Two international wrestlers made their PTW debuts at this show: "Psycho Killer" Gabriel Grip from Milan, Italy; and Jordan Wolff, from Scotland.
 
 ## References
 
