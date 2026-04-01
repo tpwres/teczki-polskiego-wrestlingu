@@ -1,9 +1,121 @@
 @import "gruvbox_colors"
 
+@mixin dark-theme
+  --bg: #{$gb-dm-bg0}
+  --fg: #{$gb-dm-fg0}
+  --accent-bg: #{$gb-dm-bg1}
+  --text-light: #{$gb-dm-fg1}
+  --disabled: #{$gb-dm-bg0-hard}
+  --light-gray: #{$gb-dm-light-gray}
+  --dark-gray: #{$gb-dm-dark-gray}
+
+  --dark-red: #{$gb-dm-dark-red}
+  --dark-green: #{$gb-dm-dark-green}
+  --dark-yellow: #{$gb-dm-dark-yellow}
+  --dark-blue: #{$gb-dm-dark-blue}
+  --dark-purple: #{$gb-dm-dark-purple}
+  --dark-aqua: #{$gb-dm-dark-aqua}
+  --dark-orange: #{$gb-dm-dark-orange}
+
+  --text: var(--fg)
+  --border: var(--dark-gray)
+  --accent: var(--dark-blue)
+  --code: var(--fg)
+  --preformatted: var(--light-gray)
+  --logo-url: url(/ring-indexed.png)
+  --close-button: var(--dark-red)
+  --close-button-fg: var(--text-light)
+  --lightbox-nav-button: var(--dark-blue)
+  --lightbox-nav-fg: var(--text-light)
+  --maximize-button-fg: var(--text-light)
+
+@mixin light-theme
+  --bg: #{$gb-lm-bg0}
+  --fg: #{$gb-lm-fg0}
+  --accent-bg: #{$gb-lm-bg1}
+  --text-light: #{$gb-lm-fg1}
+  --disabled: #{$gb-lm-bg0-hard}
+  --light-gray: #{$gb-lm-light-gray}
+  --dark-gray: #{$gb-lm-dark-gray}
+
+  --dark-red: #{$gb-lm-dark-red}
+  --dark-green: #{$gb-lm-dark-green}
+  --dark-yellow: #{$gb-lm-dark-yellow}
+  --dark-blue: #{$gb-lm-dark-blue}
+  --dark-purple: #{$gb-lm-dark-purple}
+  --dark-aqua: #{$gb-lm-dark-aqua}
+  --dark-orange: #{$gb-lm-dark-orange}
+
+  --text: var(--fg)
+  --border: var(--dark-gray)
+  --accent: var(--dark-blue)
+  --code: var(--fg)
+  --preformatted: var(--light-gray)
+  --logo-url: url(/ring-indexed.png)
+  --close-button: var(--dark-red)
+  --close-button-fg: #fff
+  --lightbox-nav-button: var(--dark-blue)
+  --lightbox-nav-fg: #fff
+  --maximize-button-fg: #fff
+
 .light-theme-icon, .dark-theme-icon
   display: none
 
+// New: using modern light-dark
+:root
+  // Level 1: Fallback to the light theme
+  @include light-theme
+  .dark-theme-icon
+    display: inline
+
+  // Level 2: Media query supported but not light-dark
+  @media (prefers-color-scheme: dark)
+    &:not([data-theme="light"])
+      @include dark-theme
+
+      .dark-theme-icon
+        display: none
+      .light-theme-icon
+        display: inline
+
+  @supports (color: light-dark(white, black))
+    color-scheme: light dark
+    --bg: #{light-dark($gb-lm-bg0, $gb-dm-bg0)}
+    --fg: #{light-dark($gb-lm-fg0, $gb-dm-fg0)}
+    --accent-bg: #{light-dark($gb-lm-bg1, $gb-dm-bg1)}
+    --text-light: #{light-dark($gb-lm-fg1, $gb-dm-fg1)}
+    --disabled: #{light-dark($gb-lm-bg0-hard, $gb-dm-bg0-hard)}
+    --light-gray: #{light-dark($gb-lm-light-gray, $gb-dm-light-gray)}
+    --dark-gray: #{light-dark($gb-lm-dark-gray, $gb-dm-dark-gray)}
+
+    --dark-red: #{light-dark($gb-lm-dark-red, $gb-dm-dark-red)}
+    --dark-green: #{light-dark($gb-lm-dark-green, $gb-dm-dark-green)}
+    --dark-yellow: #{light-dark($gb-lm-dark-yellow, $gb-dm-dark-yellow)}
+    --dark-blue: #{light-dark($gb-lm-dark-blue, $gb-dm-dark-blue)}
+    --dark-purple: #{light-dark($gb-lm-dark-purple, $gb-dm-dark-purple)}
+    --dark-aqua: #{light-dark($gb-lm-dark-aqua, $gb-dm-dark-aqua)}
+    --dark-orange: #{light-dark($gb-lm-dark-orange, $gb-dm-dark-orange)}
+
+    --text: var(--fg)
+    --border: var(--dark-gray)
+    --accent: var(--dark-blue)
+    --code: var(--fg)
+    --preformatted: var(--light-gray)
+    --close-button: var(--dark-red)
+    --close-button-fg: light-dark(#fff, var(--text-light))
+    --lightbox-nav-button: var(--dark-blue)
+    --lightbox-nav-fg: light-dark(#fff, var(--text-light))
+    --maximize-button-fg: light-dark(#fff, var(--text-light))
+
+    --logo-url: url(/ring-indexed.png)
+
+  a.nu
+    text-decoration: none
+    :hover
+      text-decoration: underline
+
 html[data-theme="dark"]
+  @include dark-theme
   color-scheme: dark
 
   .light-theme-icon
@@ -27,6 +139,7 @@ html[data-theme="light"]
 
   figure a
     filter: none !important
+
 
 html[data-theme="og"]
   color-scheme: light
@@ -67,40 +180,3 @@ html[data-theme="og"]
     &:after
       font-size: 1rem
       content: "🍺"
-
-// New: using modern light-dark
-:root
-  color-scheme: light dark
-  --bg: #{light-dark($gb-lm-bg0, $gb-dm-bg0)}
-  --fg: #{light-dark($gb-lm-fg0, $gb-dm-fg0)}
-  --accent-bg: #{light-dark($gb-lm-bg1, $gb-dm-bg1)}
-  --text-light: #{light-dark($gb-lm-fg1, $gb-dm-fg1)}
-  --disabled: #{light-dark($gb-lm-bg0-hard, $gb-dm-bg0-hard)}
-  --light-gray: #{light-dark($gb-lm-light-gray, $gb-dm-light-gray)}
-  --dark-gray: #{light-dark($gb-lm-dark-gray, $gb-dm-dark-gray)}
-
-  --dark-red: #{light-dark($gb-lm-dark-red, $gb-dm-dark-red)}
-  --dark-green: #{light-dark($gb-lm-dark-green, $gb-dm-dark-green)}
-  --dark-yellow: #{light-dark($gb-lm-dark-yellow, $gb-dm-dark-yellow)}
-  --dark-blue: #{light-dark($gb-lm-dark-blue, $gb-dm-dark-blue)}
-  --dark-purple: #{light-dark($gb-lm-dark-purple, $gb-dm-dark-purple)}
-  --dark-aqua: #{light-dark($gb-lm-dark-aqua, $gb-dm-dark-aqua)}
-  --dark-orange: #{light-dark($gb-lm-dark-orange, $gb-dm-dark-orange)}
-
-  --text: var(--fg)
-  --border: var(--dark-gray)
-  --accent: var(--dark-blue)
-  --code: var(--fg)
-  --preformatted: var(--light-gray)
-  --close-button: var(--dark-red)
-  --close-button-fg: light-dark(#fff, var(--text-light))
-  --lightbox-nav-button: var(--dark-blue)
-  --lightbox-nav-fg: light-dark(#fff, var(--text-light))
-  --maximize-button-fg: light-dark(#fff, var(--text-light))
-
-  --logo-url: url(/ring-indexed.png)
-
-  a.nu
-    text-decoration: none
-    :hover
-      text-decoration: underline
