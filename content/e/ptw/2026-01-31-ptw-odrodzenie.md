@@ -58,7 +58,7 @@ This event marked a change in PTW's policy. The live stream was available to You
 - - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Bumper](@/w/fabian.md)'
   - '[Dropper](@/w/whiteblade.md)'
-  - g: Bumper attacks Dropper after their loss. Damian Lambert makes a save and kidnaps Dropper, forcing a mask on his face.
+  - g: 'Bumper attacks Dropper after their loss. Damian Lambert makes a save and kidnaps Dropper, forcing a mask on his face.'
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
