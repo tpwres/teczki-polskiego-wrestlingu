@@ -20,6 +20,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 * Tickets went on sale along with the announcement. No card was revealed at the time.
 * At [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) [Olgierd](@/w/olgierd.md) was challenged for his [PpW Championship](@/c/ppw-championship.md) by [Max Speed](@/w/max-speed.md). This match was officially confirmed on 23.03.2026.
 * On 28.03.2026 PpW announced ["Ladykiller" Boro](@/w/boro.md) vs [Mutant](@/w/mutant.md). If Boro wins the match, Mutant will have to become his bodyguard.
+* On 3.04.2026 PpW announced the Mystery X-Way Match - a fight between an unknown number of unspecified opponents.
 
 ## Card
 
@@ -31,6 +32,11 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 - - '["Ladykiller" Boro](@/w/boro.md)'
   - '[Mutant](@/w/mutant.md)'
   - nc: upcoming
+- - '???'
+  - '???'
+  - '???'
+  - s: Mystery X-Way Match
+    nc: upcoming
 {% end %}
 
 ### Recap
