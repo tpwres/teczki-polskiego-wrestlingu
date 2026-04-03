@@ -10,7 +10,6 @@ city = "Warszawa"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "2024-09-20-ppw-hardcore-friday-2.jpg", caption = "Official poster, featuring [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook"}
 +++
 
 ## Card
@@ -30,7 +29,7 @@ has_video = true
   - '[Bill Feager](@/w/feager.md)'
   - s: Dostawczak Match (_Delivery Van Match_)
     nc: '?'
-    n: Michael HT declared Biesiad the winner, but an [official Facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid0GvoYdEwBwUSNJ3H5WPmwUcP7sFXjA5ECQ84eXkWXbKwpHfPGzcxzE9MhWkEPSRJAl) later called the fight a no contest.
+    n: Michael HT declared Biesiad the winner, but an [official Facebook post][licho-wi] later called the fight a no contest.
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Isnorr](@/w/isnorr.md)'
@@ -119,3 +118,5 @@ has_video = true
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=403099)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-2-full-show-20-09-24) (requires paid subscription)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid08d4V76rPAC5izL61xJRK9jjKYZNjTEawzJjtzKZTtZgiS5PAeA8EquL6FGQteEayl)
+
+[licho-wi]: (https://www.facebook.com/OficjalnePPW/posts/pfbid0GvoYdEwBwUSNJ3H5WPmwUcP7sFXjA5ECQ84eXkWXbKwpHfPGzcxzE9MhWkEPSRJAl)
