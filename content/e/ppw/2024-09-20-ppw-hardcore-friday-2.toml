@@ -1,15 +1,6 @@
 01 = { path = "2024-09-20-ppw-hardcore-friday-2.jpg", caption = "Official poster, featuring [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook"}
-
-
-
 02 = { path = ".webp", caption = "Image announcing .", source = "Official PpW Facebook" }
-02 = { path = ".webp", caption = "Image announcing .", source = "Official PpW Facebook" }
-02 = { path = ".webp", caption = "Image announcing .", source = "Official PpW Facebook" }
-02 = { path = ".webp", caption = "Image announcing .", source = "Official PpW Facebook" }
-
-02 = { path = ".webp", caption = "Image announcing .", source = "Official PpW Facebook" }
-
-02 = { path = "isnorr-gustav-gryffin-vs-johnny-blade-samson.webp", caption = "Image announcing [Isnorr](@/w/isnorr.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Johnny Blade](@/w/johnny-blade.md) & [Samson](@/w/samson.md).", source = "Official PpW Facebook" }
-02 = { path = ".dostawczak-matchwebp", caption = "Image announcing the Dostawczak Match.", source = "Official PpW Facebook" }
-02 = { path = "axel-fox.webp", caption = "Image announcing [Axel Fox](@/w/jakub.md).", source = "Official PpW Facebook" }
-02 = { path = "gabriel-queen.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook" }
+03 = { path = "isnorr-gustav-gryffin-vs-johnny-blade-samson.webp", caption = "Image announcing [Isnorr](@/w/isnorr.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Johnny Blade](@/w/johnny-blade.md) & [Samson](@/w/samson.md).", source = "Official PpW Facebook" }
+04 = { path = ".dostawczak-matchwebp", caption = "Image announcing the Dostawczak Match.", source = "Official PpW Facebook" }
+05 = { path = "axel-fox.webp", caption = "Image announcing [Axel Fox](@/w/jakub.md).", source = "Official PpW Facebook" }
+06 = { path = "gabriel-queen.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook" }
