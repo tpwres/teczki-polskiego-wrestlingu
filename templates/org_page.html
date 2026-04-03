@@ -1,6 +1,9 @@
 {% extends "base.html" %}
 {%- import "macros/career.html" as macros %}
 
+{% block theme_color %}{% include "orgs/theme_color.html" %}{% endblock -%}
+{% set brand_color = config.extra.org_styles | get(key=org, default=false) %}
+
 {% block content %}
 {# NOTE: must be in block content #}
 {% if page.extra.gallery is defined -%}{% set has_gallery = true %}{% endif %}
