@@ -8,3 +8,64 @@
 0007 = { path = "oskar-sie-otworzyl.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official MZW Facebook" }
 0008 = { path = "matt-buckna-jest-cieniem-samego-siebie.webp", caption = "Image announcing a new, unknown opponent for [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official MZW Facebook" }
 0009 = { path = "ten-z-czerwonego-kapturka-vs-dziedzic-pruski.webp", caption = "Image announcing [Febus 'The Wolf'](@/w/apollo-anderson.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official MZW Facebook" }
+
+0101 = { path = "o-kurcze-to-anonimowy-ochroniarz.webp", caption = "The ring before the show, guarded diligently by an [anonymous security guy](@/w/plata.md).", source = "M3n747" }
+0102 = { path = "czy-sie-stoi-czy-sie-siedzi-kibicowac-sie-nalezy.webp", caption = "The other end of the room.", source = "M3n747" }
+0103 = { path = "nie-wstane-tak-bede-lezal.webp", caption = "Adrian Zgórski making a ring angel.", source = "M3n747" }
+0104 = { path = "no-juz-dobrze-niech-bedzie-ze-wstane.webp", caption = "Adrian Zgórski gets up with style.", source = "M3n747" }
+0105 = { path = "ask-and-you-shall-receive-sort-of.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) gives the people what they wanted - or at least the next best thing.", source = "M3n747" }
+0106 = { path = "aquaman-po-20-latach-komunizmu.webp", caption = "Arek Paterek presents: [Tony Sheen](@/w/riverman.md).", source = "M3n747" }
+
+1001 = { path = "mister-z-teczka.webp", caption = "Mister Z with his contract briefcase.", source = "M3n747" }
+1002 = { path = "sedzia-michal.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md).", source = "M3n747" }
+1003 = { path = "ja-w-klubie-disco-moge-robic-wszystko.webp", caption = "[Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
+
+2001 = { path = "lysy-i-lysszy.webp", caption = "[Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md).", source = "M3n747" }
+2002 = { path = "matriksa-sie-naogladal.webp", caption = "[Marcelito](@/w/marcelito.md), wearing a leather coat similar to Shadow's.", source = "M3n747" }
+2003 = { path = "szedo.webp", caption = "[Shadow](@/w/shadow.md), with [Marco Hammers](@/w/marco-hammers.md) in the background.", source = "M3n747" }
+2004 = { path = "po-lysinach-do-zwyciestwa.webp", caption = "Marco Hammers about to jump from Olgierd's back onto Marcelito. To the right stands Sędzia Seweryn.", source = "M3n747" }
+2005 = { path = "dwa-supleksy-w-cenie-jednego.webp", caption = "Sędzia Seweryn observes Marco Hammers and Olgierd performing a double Suplex on Marcelito.", source = "Kawczun" }
+2006 = { path = "marceli-flip.webp", caption = "Shadow monkey flips Marcelito onto Marco Hammers.", source = "Kawczun" }
+2007 = { path = "moonsaultyzm-stosowany.webp", caption = "Shadow hits a Moonsault on Marco Hammers. In the background stands Marcelito, [Sędzia Seweryn](@/w/sedzia-seweryn.md) to the right.", source = "Kawczun" }
+2008 = { path = "co-ja-nie-zrobie-potrzymaj-mi-marcelita.webp", caption = "Marco Hammers holds Marcelito in a Delayed Vertical Suplex.", source = "M3n747" }
+2009 = { path = "marcelito-zawsze-ma-zielone.webp", caption = "A strip of Marcelito's LED lights.", source = "M3n747" }
+
+3001 = { path = "dziedzic-na-silownie-i-do-fryzjera.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md).", source = "M3n747" }
+3002 = { path = "the-furas.webp", caption = "[Febus 'The Wolf'](@/w/apollo-anderson.md), with [Sędzia Michał](@/w/sedzia-michal.md) in the far corner.", source = "M3n747" }
+
+4001 = { path = "sewi.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+4002 = { path = "whoop-whoop.webp", caption = "[Max Speed](@/w/max-speed.md).", source = "M3n747" }
+4003 = { path = "drugi-najrudszy-zawodnik-w-polsce.webp", caption = "[Jakub](@/w/jakub.md) with his [Legacy of Wrestling European Championship](@/c/low-european-championship.md), and a fan's opinion.", source = "M3n747" }
+4004 = { path = "a-teraz-cos-z-zupelnie-innej-beczki-czlowiek-z-dwoma-pasami.webp", caption = "[Jakub](@/w/jakub.md) holds his [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) and [Legacy of Wrestling European Championship](@/c/low-european-championship.md), as Adrian Zgórski introduces him.", source = "M3n747" }
+4005 = { path = "zupelnie-jak-ja-kiedy-nie-chcialem-isc-do-przedszkola.webp", caption = "[Max Speed](@/w/max-speed.md) prevents [Jakub](@/w/jakub.md) from using an Irish Whip on him.", source = "Kawczun" }
+4006 = { path = "jakub-ma-dwie-rece.webp", caption = "Jakub flexes his muscles, Max Speed lies on the ring dazed, and [Sędzia Seweryn](@/w/sedzia-seweryn.md) checks if he managed to catch that mosquito.", source = "Kawczun" }
+4007 = { path = "zaraz-poleci-lotem-parabolicznym.webp", caption = "[Max Speed](@/w/max-speed.md) on top rope, about to jump onto Jakub. [Sędzia Seweryn](@/w/sedzia-seweryn.md) doesn't seem terribly thrilled about this idea.", source = "Kawczun" }
+4008 = { path = "no-i-wygral-rudy-skubaniec.webp", caption = "[Jakub](@/w/jakub.md) triumphs, as Max Speed struggles to get up. [Adrian Zgórski](@/w/adrian-zgorski.md) stands in the corner, looking morose.", source = "M3n747" }
+
+5001 = { path = "plata-przybyl.webp", caption = "[Bartosz Plata](@/w/plata.md) answers [Oskar Alexander's](@/w/oskar-alexander.md) challenge.", source = "M3n747" }
+5002 = { path = "plata-oberwal.webp", caption = "Oskar Alexander hits Bartosz Plata with an uppercut.", source = "M3n747" }
+5003 = { path = "plata-poszedl.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) declares [Oskar Alexander](@/w/oskar-alexander.md) the winner.", source = "M3n747" }
+
+6001 = { path = "idz-gadaj-z-adim.webp", caption = "[Sambor](@/w/sambor.md) catches Ladykiller pink-handed.", source = "M3n747" }
+6002 = { path = "gest-samborowicza.webp", caption = "[Sambor](@/w/sambor.md) disrespects his opponent.", source = "M3n747" }
+6003 = { path = "pelnia-slowianskosci.webp", caption = "[Sambor](@/w/sambor.md) victorious.", source = "M3n747" }
+
+7001 = { path = "czlowiek-o-skomplikowanym-stosunku-do-ryb.webp", caption = "[Tony Sheen](@/w/riverman.md).", source = "M3n747" }
+7002 = { path = "wielki-czlowiek-posrod-ludu.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) among the people.", source = "M3n747" }
+7003 = { path = "w-pasiaku-i-z-pasem-ale-nie-w-pasie-bo-nie-pasuje.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) presents the [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+7004 = { path = "plaska-podeszwa-w-sam-raz-do-ogluszania-jesiotrow.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) after landing on top of Tony Sheen.", source = "Kawczun" }
+7005 = { path = "nie-spac-sedziowac.webp", caption = "Sędzia Seweryn half-conscious outside the ring.", source = "M3n747" }
+7006 = { path = "jak-palpatine-i-anakin-gdyby-anaking-byl-halibutem.webp", caption = "[Arek Paterek](@/w/arek-paterek.md) hands Tony Sheen a steel chair.", source = "M3n747" }
+7007 = { path = "czy-jak-walnie-siedziskiem-na-plask-to-mniej-boli.webp", caption = "Tony Sheen about to hit [Gustav Gryffin](@/w/gustav-gryffin.md) with the chair.", source = "Kawczun" }
+7008 = { path = "solidarnosc.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) kicks out at two.", source = "Kawczun" }
+7009 = { path = "zaraz-poleci-jak-filet-na-patelnie.webp", caption = "Gustav Gryffin hits [Tony Sheen](@/w/riverman.md) with a Double-Underhook Piledriver.", source = "Kawczun" }
+7010 = { path = "100-punktow-dla-gustava-gryffindora.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) wins the [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+
+8001 = { path = "jaki-kraj-takie-pulp-fiction.webp", caption = "Mister Z surprises the brand-new Champion [Gustav Gryffin](@/w/gustav-gryffin.md) by cashing in his contract briefcase.", source = "M3n747" }
+8002 = { path = "i-co-gryffin-tera-juz-nie-masz-takiego-hardego-dzioba.webp", caption = "Jakub, Olgierd and Marco Hammers administer a precautionary beating to Gustav Gryffin.", source = "M3n747" }
+8003 = { path = "a-nasze-teczki-nigdy-nie-sa-az-takie-puste.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) discovers the briefcase is empty.", source = "M3n747" }
+8004 = { path = "jeste-restlere-i-mam-na-to-papierek.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) presents the contract he'd surreptitiously nicked from the briefcase.", source = "M3n747" }
+8005 = { path = "w-linach-znajdujemy-oparcie.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) barely standing after the previous match.", source = "M3n747" }
+8006 = { path = "marco-radosny.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) presents his newly-won [MZW Championship](@/c/mzw-championship.md). In the ring with him stand Jakub with the [Legacy of Wrestling European Championship](@/c/low-european-championship.md), [Mister Z](@/w/mister-z.md) with the [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md) and [Olgierd](@/w/olgierd.md) with the [PpW Championship](@/c/ppw-championship.md).", source = "M3n747" }
+8007 = { path = "pasy.webp", caption = "The [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), [Legacy of Wrestling European Championship](@/c/low-european-championship.md), [MZW Championship](@/c/mzw-championship.md) and the championship contract.", source = "M3n747" }
+8008 = { path = "kontrakt.webp", caption = "Close-up of the contract.", source = "M3n747" }
