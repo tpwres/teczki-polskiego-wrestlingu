@@ -1,0 +1,5 @@
+{% set org = page.slug %}
+{% set brand_color = config.extra.org_styles | get(key=org, default=false) %}
+{% if brand_color %}
+    <meta name="theme-color" content="{{ brand_color.bg }}">
+{% endif -%}
