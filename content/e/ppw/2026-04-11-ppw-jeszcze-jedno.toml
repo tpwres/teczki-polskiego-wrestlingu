@@ -4,3 +4,4 @@
 004 = { path = "jeszcze-main-event.webp", caption = "Image announcing [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) vs [Biesiad Strong](@/w/biesiad.md) & [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official PpW Facebook" }
 005 = { path = "blady-leon-plato.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Johnny Blade](@/w/johnny-blade.md) vs [Bartosz Plata](@/w/plata.md).", source = "Official PpW Facebook" }
 006 = { path = "jeszcze-mleko.webp", caption = "Image announcing [Vic Golden](@/w/vic-golden.md). The text says _Father comes back with milk to straighten out family problems_.", source = "Official PpW Facebook" }
+007 = { path = "max-killer.webp", caption = "Image announcing [Max Speed](@/w/max-speed.md) vs [&quot;Ladykiller&quot; Boro](@/w/boro.md).", source = "Official PpW Facebook" }
