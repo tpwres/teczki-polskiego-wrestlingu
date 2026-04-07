@@ -1,3 +1,4 @@
 0000 = { path = "arena-33-plakat.webp", caption = "Official poster, featuring [Eryk Lesak](@/w/eryk-lesak.md).", source = "kpwrestling.pl / Official KPW Facebook" }
 0001 = { path = "lesaki-nie-placza.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
 0002 = { path = "czlowiek-legenda-vs-czlowiek-niemiec.webp", caption = "Image announcing [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Veit Müller](@/w/veit-mueller.md).", source = "Official KPW Facebook" }
+0003 = { path = "chemichal.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Chemik](@/w/chemik.md).", source = "Official KPW Facebook" }
