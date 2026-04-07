@@ -70,7 +70,7 @@
 
   // Level 2: Media query supported but not light-dark
   @media (prefers-color-scheme: dark)
-    &:not([data-theme="light"])
+    &:not([data-theme=light]):not([data-theme=og])
       @include dark-theme
 
       .dark-theme-icon
@@ -120,6 +120,9 @@ html[data-theme="dark"]
 
   .light-theme-icon
     display: inline
+
+  .dark-theme-icon
+    display: none
 
   section a:not(.org-badge)
     filter: brightness(120%)
