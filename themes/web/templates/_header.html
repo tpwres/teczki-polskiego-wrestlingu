@@ -58,26 +58,34 @@
     <div class="nav-right">
       <ul class="nav-right-list">
         {% for link in config.extra.header_links -%}
-        <li class="nav-right-item">
-          {% set link_class = link | get(key='class', default='') -%}
-          {% set link_icon = '' %}
-          {% if link.icon -%}
-            {% set link_icon = '<svg class="feather-nav" viewBox="0 0 24 24"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
-          {% endif -%}
+          {# Detect toplevel section by path prefix. Only relevant for main site. #}
           {% if link.path -%}
-            <a href="{{ get_url(path=link.path) }}"
-              class="{{ link_class }}"
-              title="{{ link.name }}">
-              {{ link_icon | safe }}
-              <span class="t">{{ link.name }}</span>
-            </a>
-          {% elif link.url -%}
-            <a href="{{link.url}}" class="{{ link_class }}" title="{{ link.name }}">
-              {{ link_icon | safe }}
-              <span class="t">{{ link.name }}</span>
-            </a>
+            {% set dest = get_url(path=link.path) -%}
+            {% if section and section.permalink is starting_with(dest) -%}
+              {% set item_class = "current" -%}
+            {% elif page and page.permalink is starting_with(dest) -%}
+              {% set item_class = "current" -%}
+            {% endif -%}
           {% endif -%}
-        </li>
+          {% set li_class = link | get(key='class', default='') -%}
+        <li class="nav-right-item {{ li_class }} {{ item_class|default(value='') }}">
+          {% set link_icon = '' %}
+            {% if link.icon -%}
+              {% set link_icon = '<svg class="feather-nav" viewBox="0 0 24 24"><use href="' ~ sprite ~ '#' ~ link.icon ~ '"/></svg>' %}
+            {% endif -%}
+            {% if link.path -%}
+              <a href="{{ dest }}"
+                title="{{ link.name }}">
+                {{ link_icon | safe }}
+                <span class="t">{{ link.name }}</span>
+              </a>
+            {% elif link.url -%}
+              <a href="{{link.url}}" title="{{ link.name }}">
+                {{ link_icon | safe }}
+                <span class="t">{{ link.name }}</span>
+              </a>
+            {% endif -%}
+          </li>
         {% endfor -%}
       </ul>
   </nav>
