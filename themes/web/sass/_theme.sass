@@ -8,7 +8,7 @@
   --disabled: #{$gb-dm-bg0-hard}
   --light-gray: #{$gb-dm-light-gray}
   --dark-gray: #{$gb-dm-dark-gray}
-  
+
   --dark-red: #{$gb-dm-dark-red}
   --dark-green: #{$gb-dm-dark-green}
   --dark-yellow: #{$gb-dm-dark-yellow}
@@ -28,11 +28,6 @@
   --lightbox-nav-button: var(--dark-blue)
   --lightbox-nav-fg: var(--text-light)
   --maximize-button-fg: var(--text-light)
-
-  a.nu
-    text-decoration: none
-    :hover
-      text-decoration: underline
 
 @mixin light-theme
   --bg: #{$gb-lm-bg0}
@@ -63,32 +58,71 @@
   --lightbox-nav-fg: #fff
   --maximize-button-fg: #fff
 
+.light-theme-icon, .dark-theme-icon
+  display: none
+
+// New: using modern light-dark
+:root
+  // Level 1: Fallback to the light theme
+  @include light-theme
+  .dark-theme-icon
+    display: inline
+
+  // Level 2: Media query supported but not light-dark
+  @media (prefers-color-scheme: dark)
+    &:not([data-theme=light]):not([data-theme=og])
+      @include dark-theme
+
+      .dark-theme-icon
+        display: none
+      .light-theme-icon
+        display: inline
+
+  @supports (color: light-dark(white, black))
+    color-scheme: light dark
+    --bg: #{light-dark($gb-lm-bg0, $gb-dm-bg0)}
+    --fg: #{light-dark($gb-lm-fg0, $gb-dm-fg0)}
+    --accent-bg: #{light-dark($gb-lm-bg1, $gb-dm-bg1)}
+    --text-light: #{light-dark($gb-lm-fg1, $gb-dm-fg1)}
+    --disabled: #{light-dark($gb-lm-bg0-hard, $gb-dm-bg0-hard)}
+    --light-gray: #{light-dark($gb-lm-light-gray, $gb-dm-light-gray)}
+    --dark-gray: #{light-dark($gb-lm-dark-gray, $gb-dm-dark-gray)}
+
+    --dark-red: #{light-dark($gb-lm-dark-red, $gb-dm-dark-red)}
+    --dark-green: #{light-dark($gb-lm-dark-green, $gb-dm-dark-green)}
+    --dark-yellow: #{light-dark($gb-lm-dark-yellow, $gb-dm-dark-yellow)}
+    --dark-blue: #{light-dark($gb-lm-dark-blue, $gb-dm-dark-blue)}
+    --dark-purple: #{light-dark($gb-lm-dark-purple, $gb-dm-dark-purple)}
+    --dark-aqua: #{light-dark($gb-lm-dark-aqua, $gb-dm-dark-aqua)}
+    --dark-orange: #{light-dark($gb-lm-dark-orange, $gb-dm-dark-orange)}
+
+    --text: var(--fg)
+    --border: var(--dark-gray)
+    --accent: var(--dark-blue)
+    --code: var(--fg)
+    --preformatted: var(--light-gray)
+    --close-button: var(--dark-red)
+    --close-button-fg: light-dark(#fff, var(--text-light))
+    --lightbox-nav-button: var(--dark-blue)
+    --lightbox-nav-fg: light-dark(#fff, var(--text-light))
+    --maximize-button-fg: light-dark(#fff, var(--text-light))
+
+    --logo-url: url(/ring-indexed.png)
+
   a.nu
     text-decoration: none
     :hover
       text-decoration: underline
 
-@mixin og-theme
-  --accent-bg: #ebebeb
-  --logo-url: url(/og.png)
-  --close-button: #000
-  --close-button-fg: #fff
-  --lightbox-nav-fg: #fff
-  --nav-button: #000
-  --lightbox-nav-button: #000
-  --lightbox-nav-fg: #fff
-  --maximize-button-fg: #000
-  --maximize-button-border: 0.5px solid #000
-  --fg: #000
-
-.light-theme-icon, .dark-theme-icon
-  display: none
-
-[data-theme="dark"]
+html[data-theme="dark"]
   @include dark-theme
+  color-scheme: dark
 
   .light-theme-icon
     display: inline
+
+  .dark-theme-icon
+    display: none
 
   section a:not(.org-badge)
     filter: brightness(120%)
@@ -97,8 +131,8 @@
     filter: none !important
 
 // Light mode colors
-[data-theme="light"]
-  @include light-theme
+html[data-theme="light"]
+  color-scheme: light
 
   .dark-theme-icon
     display: inline
@@ -109,11 +143,34 @@
   figure a
     filter: none !important
 
-[data-theme="og"]
-  @include og-theme
+
+html[data-theme="og"]
+  color-scheme: light
+  --bg: white
+  --accent-bg: #ebebeb
+  --fg: #000
+  --accent: var(--fg)
+
+  /* Override all theme colors
+  --dark-red: var(--fg)
+  --dark-green: var(--fg)
+  --dark-yellow: var(--fg)
+  --dark-blue: var(--fg)
+  --dark-purple: var(--fg)
+  --dark-aqua: var(--fg)
+  --dark-orange: var(--fg)
 
   --timeline-border: black
-  --bg: white
+
+  --close-button: #000
+  --close-button-fg: #fff
+  --lightbox-nav-fg: #fff
+  --nav-button: #000
+  --lightbox-nav-button: #000
+  --lightbox-nav-fg: #fff
+  --maximize-button-fg: #000
+  --maximize-button-border: 0.5px solid #000
+  --logo-url: url(/og.png)
 
   .dark-theme-icon
     display: inline
@@ -126,7 +183,3 @@
     &:after
       font-size: 1rem
       content: "🍺"
-
-html:not([data-theme])
-  .dark-theme-icon
-    display: inline

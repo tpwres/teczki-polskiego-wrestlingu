@@ -45,8 +45,10 @@ mf_link_format = "//mf.tpwres.pl?q=%s"
 # Venues that have embedded geography info will link to this
 carto_link_format = "//carto.tpwres.pl#%s"
 
+# For cookie-based theme selector
+prod_domain = 'tpwres.pl'
+
 list_pages = false
-default_theme = "dark"
 header_links = [
   { path = "@/e/_index.md", name = "Events", icon = "calendar-1" },
   { path = "@/o/_index.md", name = "Orgs", icon = "handshake" },
