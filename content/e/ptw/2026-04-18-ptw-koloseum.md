@@ -20,7 +20,7 @@ has_video = false
 
 ## Predicted card
 
-{% card(predicted = true) %}
+{% card(predicted=true) %}
 - - '[Diana Strong](@/w/diana-strong.md)'
   - g: Crowning ceremony
     nc: upcoming
