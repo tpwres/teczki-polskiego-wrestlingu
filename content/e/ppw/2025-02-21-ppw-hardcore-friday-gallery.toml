@@ -1,11 +1,16 @@
 0001 = { path = "2025-02-21-ppw-hardcore-friday-plakat.webp", caption = "Official poster, featuring [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook" }
-0002 = { path = "blady-jasko-akcyjniak.jpg", caption = "Graphic announcing [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
-0003 = { path = "vodka-match.jpg", caption = "Graphic announcing [Johnny Blade](@/w/johnny-blade.md) vs [Marco Hammers](@/w/marco-hammers.md). Distorted view further emphasizes that alcohol will be involved.", source = "Official PpW Facebook" }
-0004 = { path = "tornado-tag-team.jpg", caption = "Graphic announcing [Isnorr](@/w/isnorr.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
-0005 = { path = "biesiad-special-challenge.jpg", caption = "Graphic announcing [Biesiad Strong](@/w/biesiad.md) facing Mister Z's special challenge.", source = "Official PpW Facebook" }
-0006 = { path = "el-goblino-muy-carramba-senoras-y-senores.jpg", caption = "Graphic announcing [Goblin](@/w/goblin.md) in Mister Z's &quot;lucha surprise&quot;.", source = "Official PpW Facebook" }
-0007 = { path = "vulpes-vulpes.jpg", caption = "Graphic announcing [Axel Fox](@/w/jakub.md).", source = "Official PpW Facebook" }
+0002 = { path = "ma-wlosy-wiec-to-nie-rozmaryn.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook" }
+0003 = { path = "ma-wlosy-wiec-to-nie-rozmaryn.webp", caption = "Image announcing [Sędzia Karol Górski](@/w/madman-charlie.md).", source = "Official PpW Facebook" }
+0004 = { path = "blady-jasko-akcyjniak.jpg", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
+0005 = { path = "vodka-match.jpg", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md) vs [Marco Hammers](@/w/marco-hammers.md). Distorted view further emphasizes that alcohol will be involved.", source = "Official PpW Facebook" }
+0006 = { path = "tornado-tag-team.jpg", caption = "Image announcing [Isnorr](@/w/isnorr.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
+0007 = { path = "biesiad-special-challenge.jpg", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md) facing Mister Z's special challenge.", source = "Official PpW Facebook" }
+0008 = { path = "el-goblino-muy-carramba-senoras-y-senores.jpg", caption = "Image announcing [Goblin](@/w/goblin.md) in Mister Z's &quot;lucha surprise&quot;.", source = "Official PpW Facebook" }
+0009 = { path = "vulpes-vulpes.jpg", caption = "Image announcing [Axel Fox](@/w/jakub.md).", source = "Official PpW Facebook" }
+
 0101 = { path = "pawlowski-przegryzl-kable.webp", caption = "The live stream stops streaming during Goblin vs Sentinel.", source = "Official PpW VOD" }
-0701 = { path = "antek-na-wysokosci-a-wrestling-na-ringu.jpg", caption = "Antek Istociarz watches the action from above.", source = "Krzysztof Zych" }
+0701 = { path = "antek-na-wysokosci-a-wrestling-na-ringu.jpg", caption = "[Antek Istociarz](@/w/istociarz.md) watches the action from above.", source = "Krzysztof Zych" }
+
 0901 = { path = "low-represent.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) represents [Legacy of Wrestling](@/o/low.md), while [Olgierd](@/w/olgierd.md) chills in a corner.", source = "Official PpW VOD" }
+
 1001 = { path = "kielbasa-byla-rozdana-szybko.jpg", caption = "Fans and wrestlers after the show. Visible in the crowd are [Sędzia Kornel](@/w/sedzia-kornel.md) and [Isnorr](@/w/isnorr.md).", source = "Krzysztof Zych" }
