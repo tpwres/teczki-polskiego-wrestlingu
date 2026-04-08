@@ -1,5 +1,5 @@
 000 = { path = "ostatnia-prosta-plakat.webp", caption = "Official poster featuring [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official PpW Facebook" }
-001 = { path = "ppw-ostatnia-prosta-announced.jpg", caption = "Image announcing the show.", source = "Official PpW Facebook" }
+001 = { path = "ppw-ostatnia-prosta-announced.jpg", caption = "Image announcing the show.", source = "Official PpW Facebook",skip_art = true }
 002 = { path = "lisy-vs-lysole.jpg", caption = "Image announcing [Goblin](@/w/goblin.md) & [Axel Fox](@/w/jakub.md) vs [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook" }
 003 = { path = "enigma.jpg", caption = "Image announcing the &quot;Enigma Scramble ?-Man Match&quot;.", source = "Official PpW Facebook", skip_art = true }
 004 = { path = "oskar-aleksander-vs-gabriel-queen.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official PpW Facebook" }
