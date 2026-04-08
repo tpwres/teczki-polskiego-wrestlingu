@@ -34,7 +34,6 @@ class ThemeController {
             return cookie ? cookie.value : null
         }
         // Fallback to document.cookie
-        const name = 'theme='
         return document.cookie
             .split('; ')
             .find(row => row.startsWith('theme='))
@@ -43,14 +42,29 @@ class ThemeController {
 
     async save(theme) {
         const maxAge = 365 * 86400
+        const domain = this.domain()
         if (window.cookieStore) {
             return await window.cookieStore.set({
                 name: 'theme',
                 value: theme,
-                maxAge
+                maxAge,
+                ...(domain && { domain })
             })
         }
-        document.cookie = `theme=${theme};max-age=${maxAge};path=/`
+        let cookie= `theme=${theme};max-age=${maxAge};path=/`
+        if (domain) cookie += `; domain=${domain}`
+        document.cookie = cookie
+    }
+
+    domain() {
+        const host = window.location.hostname
+        const prod_domain = window.PROD_DOMAIN // may be undefined in dev/staging
+        const suffix = `${prod_domain}`
+
+        if (prod_domain && (host === prod_domain || host.endsWith(suffix)))
+            return suffix
+
+        return null
     }
 
     switchTheme() {

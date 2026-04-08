@@ -1,2 +1,5 @@
+{% if config.extra.prod_domain -%}
+<script>window.PROD_DOMAIN = {{ config.extra.prod_domain | json_encode | safe }};</script>
+{% endif -%}
 <script type="module" src="/theme.js"></script>
 <script type="module" src="/search.js"></script>
