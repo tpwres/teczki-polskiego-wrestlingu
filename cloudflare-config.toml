@@ -46,7 +46,7 @@ mf_link_format = "//mf.tpwres.pl?q=%s"
 carto_link_format = "//carto.tpwres.pl#%s"
 
 # For cookie-based theme selector
-prod_domain = 'tpw-org.pages.dev' # TODO: This is staging, change to prod domain
+prod_domain = 'tpwres.pl'
 
 list_pages = false
 header_links = [
