@@ -16,9 +16,15 @@ has_video = false
 
 ## Build-up
 
-* TBD
+* On 7.04.2026 PTW announced that [Diana Strong](@/w/diana-strong.md), who won the [PTW Women's Championship](@/c/ptw-womens-championship.md) from [Mercedes Moné](@/w/mercedes-mone.md) at [the last show](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), would be crowned the Champion.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - g: Crowning ceremony
+    nc: upcoming
+{% end %}
 
 ### Recap
 
