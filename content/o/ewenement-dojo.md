@@ -6,7 +6,6 @@ authors = ["Sewi The Referee"]
 [extra]
 toclevel = 3
 hide_roster = true
-hide_events = true
 [extra.gallery]
 1 = { path = "ewenement-dojo-logo.png", caption = "The Dojo's logo, depicting a folding chair wrapped in barbed wire.", source = "Facebook Ewenement Dojo" }
 2 = { path = "ewenement-dojo-post.webp", caption = "Facebook post announcing training with [Jacob Crane](@/w/jacob-crane.md), and mentioning the alumni.", source = "Facebook Ewenement Dojo" }
