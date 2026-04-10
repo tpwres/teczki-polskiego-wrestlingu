@@ -30,7 +30,9 @@
     {% include "badges/twf.html" %}
   {% elif code == "splat" %}
     {% include "badges/splat.html" %}
-  {% else %}
+  {% elif code == "ewenement-dojo" %}
+    {% include "badges/edojo.html" %}
+{% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge">
       <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
@@ -78,6 +80,8 @@
     {% include "badges/twf.html" %}
   {% elif code == "splat" %}
     {% include "badges/splat.html" %}
+  {% elif code == "ewenement-dojo" %}
+    {% include "badges/edojo.html" %}
   {% else %}
     {% set org_slug = slug | default(value=code) %}
     {% set org_path = "@/o/" ~ org_slug ~ ".md" -%}
