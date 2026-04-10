@@ -45,7 +45,7 @@ At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself
     {{ music(spot='7jm63qwHLmemNcMzORjwfi')}}
     {{ music(apple='1629105882?i=1629105882')}}
 
-### References
+## Internet presence
 
-* [Whiteblade's Facebook profile](https://www.facebook.com/profile.php?id=61588512065392#)
+* [Whiteblade's Facebook profile](https://www.facebook.com/profile.php?id=61588512065392)
 * [Whiteblade's Instagram profile](https://www.instagram.com/whiteblade_ptw/)

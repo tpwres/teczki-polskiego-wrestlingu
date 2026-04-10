@@ -17,12 +17,32 @@ has_video = false
 ## Build-up
 
 * On 7.04.2026 PTW announced that [Diana Strong](@/w/diana-strong.md), who won the [PTW Women's Championship](@/c/ptw-womens-championship.md) from [Mercedes Moné](@/w/mercedes-mone.md) at [the last show](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), would be crowned the Champion.
+* On 10.04.2026 PTW announced a match between the reigning Champion [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) for the [main title](@/c/ptw-championship.md).
+* The next day [Damian Adler](@/w/damian-adler.md) was announced without a match-up.
+* A [video][jasiek-sztorm] published later that day announced [Jonny Storm](@/w/jonny-storm.md) vs [Nano Lopez](@/w/nano-lopez.md). Storm was last seen at [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
+* Also the same day, [Daniel Razor](@/w/daniel-razor.md) was announced for a Gauntlet Match against three mystery opponents.
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[Diana Strong](@/w/diana-strong.md)'
   - g: Crowning ceremony
+    nc: upcoming
+- - '[Spartan](@/w/spartan.md)(c)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+    nc: upcoming
+- - '[Damian Adler](@/w/damian-adler.md)'
+  - '???'
+  - nc: upcoming
+- - '[Jonny Storm](@/w/jonny-storm.md)'
+  - '[Nano Lopez](@/w/nano-lopez.md)'
+  - nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '???'
+  - '???'
+  - '???'
+  - s: Gauntlet Match
     nc: upcoming
 {% end %}
 
@@ -35,3 +55,4 @@ has_video = false
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=449975)
 
 [pierwsza-zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0iAChh2eeoG7LgnwMuj9v3JC2WY91tGUECMx8QEckGFzjnnAKqP3X32bB3rJaFdbNl
+[jasiek-sztorm]: https://www.facebook.com/reel/2806367053047678
