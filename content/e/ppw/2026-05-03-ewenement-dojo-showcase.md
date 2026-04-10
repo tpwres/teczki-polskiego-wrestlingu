@@ -6,6 +6,7 @@ authors = ["Krzysztof Zych"]
 chronology = ["ewenement-dojo"]
 venue = ["2kola"]
 [extra]
+orgs = ["ewenement-dojo"]
 city = "Warszawa"
 hide_pagination = true
 hide_results = true
