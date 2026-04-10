@@ -38,7 +38,7 @@ has_video = false
   - '_🇺🇦_ Baron Wolfgang Storm'
   - s: World Cup Quarter Finals Match
 - - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
-  - '_🇩🇪_ [Damian Adler](@/w/damian-adler.md)'
+  - '[_🇩🇪_ Damian Adler](@/w/damian-adler.md)'
   - s: World Cup Quarter Finals Match
 - - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
   - '_🇦🇹_ Andi ZickZack'
