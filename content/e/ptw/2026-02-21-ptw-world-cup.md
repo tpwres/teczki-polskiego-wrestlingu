@@ -21,12 +21,12 @@ has_video = false
 * The second wrestler to take part in the tournament, unveiled on 13.02.2026, was Andi ZickZack.
 * On 15.02.2026, [El G](@/w/el-g.md) was added to the tournament.
 * The next day PTW announced a Battle Royal between [Daniel Razor](@/w/daniel-razor.md), [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md), [Boguś](@/w/bogus.md), [Alex Brave](@/w/alex-brave.md) and [CJ Klakson](@/w/cj-klakson.md). Should Razor win, he'll get a title shot for the [PTW Underground Championship](@/c/ptw-underground-championship.md), whereas whoever manages to eliminate him, will receive a hefty bonus of 10,000&nbsp;PLN (approx. 2375&nbsp;EUR, 2065&nbsp;GBP or 2815&nbsp;USD).
-* [Blaze](@/w/blaze.md) and Damian Adler were both announced on 17.02.2026.
+* [Blaze](@/w/blaze.md) and [Damian Adler](@/w/damian-adler.md) were both announced on 17.02.2026.
 * The next day, Baron Wolfgang Storm and Ben Rodgers were added to the card.
 * The final entrant to the tournament was [Nano Lopez](@/w/nano-lopez.md), announced on 18.02.2026.
 * On the 19th, the tag team of Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was announced.
 * The first World Cup Match, announced on 20.02.2026, was Baron Wolfgang Storm vs [El G](@/w/el-g.md).
-* On the day of the show, PTW announced referees [Klaudiusz](@/w/sedzia-klaudiusz.md) & [Herno](@/w/sedzia-herno.md), and the commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) & [Krystian "Resivny" Smoleń](@/w/resivny.md), as well as the match-ups of [Nano Lopez](@/w/nano-lopez.md) vs Andi ZickZack, Damian Adler vs Ben Rodgers and [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Blaze](@/w/blaze.md).
+* On the day of the show, PTW announced referees [Klaudiusz](@/w/sedzia-klaudiusz.md) & [Herno](@/w/sedzia-herno.md), and the commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) & [Krystian "Resivny" Smoleń](@/w/resivny.md), as well as the match-ups of [Nano Lopez](@/w/nano-lopez.md) vs Andi ZickZack, [Damian Adler](@/w/damian-adler.md) vs Ben Rodgers and [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Blaze](@/w/blaze.md).
 
 ## Card
 
@@ -38,7 +38,7 @@ has_video = false
   - '_🇺🇦_ Baron Wolfgang Storm'
   - s: World Cup Quarter Finals Match
 - - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
-  - '_🇩🇪_ Damian Adler'
+  - '_🇩🇪_ [Damian Adler](@/w/damian-adler.md)'
   - s: World Cup Quarter Finals Match
 - - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
   - '_🇦🇹_ Andi ZickZack'
@@ -83,7 +83,7 @@ has_video = false
 
 ### Highlights
 
-* As a part of his gimmick, Damian Adler, despite being Polish, represented Germany in the tournament.
+* As a part of his gimmick, [Damian Adler](@/w/damian-adler.md), despite being Polish, represented Germany in the tournament.
 * Damian Lambert made an entrance to a new theme song, with a rambling promo before his match. He started talking about "multiple voices", the uncertainty of today's world and the need to have a guiding figure. It was met with "idź się leczyć" (roughly _get your head checked_) chants from the crowd, to which Lambert replied that the fans were the ones that need professional help. He announced the Prophet who would guide everyone, and revealed that it was himself. He prophesied the end of the world and promised to save us - just like he'd saved a person so lost that even his name was [Dropper](@/w/whiteblade.md). Dropper - now renamed [Whiteblade](@/w/whiteblade.md) - made a full entrance wearing a lucha mask gifted by Lambert, complete with new ring gear. Seemingly, Lambert was starting a cult.
 
 ## References

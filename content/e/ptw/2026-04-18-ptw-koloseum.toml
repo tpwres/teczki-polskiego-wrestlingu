@@ -1,2 +1,5 @@
 01 = { path = "ptw-koloseum-plakat.webp", caption = "Official poster featuring, top: [Łukasz Okoński](@/w/lukasz-okonski.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md); bottom: [Alex Brave](@/w/alex-brave.md), [Nano Lopez](@/w/nano-lopez.md), [Daniel Razor](@/w/daniel-razor.md).", source = "Official PTW Facebook" }
 02 = { path = "diana-strong.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md).", source = "Official PTW Facebook" }
+03 = { path = "spartan-vs-caravaggio.webp", caption = "Image announcing [Spartan](@/w/spartan.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook" }
+04 = { path = "damian-adler.webp", caption = "Image announcing [Damian Adler](@/w/damian-adler.md).", source = "Official PTW Facebook" }
+05 = { path = "daniel-razor-na-tle-trzech-czarnych-mezczyzn-i-tylko-kanapy-brak.webp", caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs mystery opponents.", source = "Official PTW Facebook" }
