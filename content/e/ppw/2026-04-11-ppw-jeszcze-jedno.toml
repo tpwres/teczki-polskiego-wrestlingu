@@ -6,3 +6,12 @@
 005 = { path = "blady-leon-plato.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Johnny Blade](@/w/johnny-blade.md) vs [Bartosz Plata](@/w/plata.md).", source = "Official PpW Facebook" }
 006 = { path = "jeszcze-mleko.webp", caption = "Image announcing [Vic Golden](@/w/vic-golden.md). The text says _Father comes back with milk to straighten out family problems_.", source = "Official PpW Facebook" }
 007 = { path = "max-killer.webp", caption = "Image announcing [Max Speed](@/w/max-speed.md) vs [&quot;Ladykiller&quot; Boro](@/w/boro.md).", source = "Official PpW Facebook" }
+
+011 = { path = "ci-dwaj-panowie-wyraznie-maja-sie-ku-sobie.webp", caption = "Gabriel Queen about to turn on Vic Golden.", source = "Official PpW VOD" }
+011 = { path = "ale-polamancy.webp", caption = "Oskar Alexander and [Filip Fux](@/w/filip-fux.md) share a pair of crutches.", source = "Official PpW VOD" }
+011 = { path = "nie-mozna-dwom-panom-sluzyc-ale-na-dwoch-panach-surfowac-juz-tak.webp", caption = "Antoni Ocean surfs on Tony Sheen and Isnorr.", source = "Official PpW VOD" }
+011 = { path = "pracownik-poczty-polskiej-na-etacie-naklejacza-znaczkow.webp", caption = "[Olgierd](@/w/olgierd.md).", source = "Official PpW VOD" }
+011 = { path = "przepraszam-ja-sluzbowo.webp", caption = "[Biesiad Strong](@/w/biesiad.md) squeezes through the crowd with a ladder.", source = "Official PpW VOD" }
+011 = { path = "papier-kamien-fakolec.webp", caption = "[Biesiad Strong](@/w/biesiad.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) engage in a game of rock-paper-finger.", source = "Official PpW VOD" }
+011 = { path = "zakaz-wrestlowania.webp", caption = "Mister Z with an oversized [B-1 road sign plate](https://en.wikipedia.org/wiki/Road_signs_in_Poland#Prohibitory_signs) _no movement in both directions_.", source = "Official PpW VOD" }
+011 = { path = "nieokreslony-kawaler.webp", caption = "A &quot;Piekny Kawaler&quot; in the chat.", source = "Official PpW VOD" }
