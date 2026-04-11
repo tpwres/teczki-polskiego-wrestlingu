@@ -45,6 +45,11 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
   - '[Isnorr](@/w/isnorr.md)'
   - s: Three Way Match
     n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
+- - '[Max Speed](@/w/max-speed.md)'
+  - '["Ladykiller" Boro](@/w/boro.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - '["Ladykiller" Boro](@/w/boro.md)'
+
 
 
 
@@ -52,9 +57,9 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Biesiad Strong](@/w/biesiad.md)'
   - s: Anarchy Cyclone Tag Team Match
     nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '["Ladykiller" Boro](@/w/boro.md)'
-  - nc: upcoming
+
+
+
 - credits:
     Host, Ring Announcer: '["Real OG" Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
@@ -67,6 +72,7 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * [Oskar Alexander](@/w/oskar-alexander.md) was booked to fight [Jacob Crane](@/w/jacob-crane.md) but was replaced by [Filip Fux](@/w/filip-fux.md), owing to Oskar's apparent injury.
 * Oskar Alexander attemted to help Filip Fux by handing him his crutch, but he was stopped by Gabriel Queen and Agentka Agatka, despite being seemingly on the same side.
 * [Oskar Alexander](@/w/oskar-alexander.md) and [Filip Fux](@/w/filip-fux.md) swore loyalty to [Vic Golden](@/w/vic-golden.md) and [Rodzina](@/tt/rodzina.md), as did [Robert Star](@/w/robert-star.md) via a pre-recorded voice message. [Agentka Agatka](@/w/agentka-agatka.md) refused, stating that being there for the family is more important than any oaths, and Vic wasn't there when needed. When it came to Queen, Vic demanded he knelt - which Queen did, only to insult and attack him. Moments later, Agatka attacked Filip - thus her and Queen broke off from Rodzina.
+* [Max Speed](@/w/max-speed.md) pinned [Boro](@/w/boro.md) at the first attempt, after only a few seconds into the match. Boro then asked for "one more" match, claiming that he hadn't been ready. Max agreed, and won again.
 * 
 
 ## References
