@@ -31,14 +31,12 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Three Way Match
     n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Filip Fux](@/w/filip-fux.md) w/ [Oskar Alexander](@/w/oskar-alexander.md), [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md).'
+  - r: Submission
 
 
 
-
-- - '[Oskar Alexander](@/w/oskar-alexander.md)'
-  - '[Jacob Crane](@/w/jacob-crane.md)'
-  - nc: upcoming
-- - '[Filip Fux](@/w/filip-fux.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - s: Three Way Match
@@ -56,13 +54,16 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
   - nc: upcoming
 - credits:
     Host, Ring Announcer: '["Real OG" Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Recap
 
-* TBD
+* Present in the chat during the live stream was somebody with the screen name "Piekny Kawaler". Whether or not this was the actual [Piękny Kawaler](@/w/piekny-kawaler.md), is unknown.
+* [Oskar Alexander](@/w/oskar-alexander.md) was booked to fight [Jacob Crane](@/w/jacob-crane.md) but was replaced by [Filip Fux](@/w/filip-fux.md), owing to Oskar's apparent injury.
+* Oskar Alexander attemted to help Filip Fux by handing him his crutch, but he was stopped by Gabriel Queen and Agentka Agatka, despite being seemingly on the same side.
+* 
 
 ## References
 
