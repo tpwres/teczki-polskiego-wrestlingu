@@ -67,8 +67,7 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * [Max Speed](@/w/max-speed.md) pinned [Boro](@/w/boro.md) at the first attempt, after only a few seconds into the match. Boro then asked for "one more" match, claiming that he hadn't been ready. Max agreed, and won again.
 * During the main event [Gustav Gryffin](@/w/gustav-gryffin.md) and [Biesiad Strong](@/w/biesiad.md) argued about the use of tables. They decided to resolve the situation with a quick game of rock-paper-scissors, only for both of them to throw middle fingers.
 * According to the commentary, some of the wrestlers continued to fight backstage.
-* 
-* 
+* Following the main event, Michael HT mentioned "one more" thing - a video of MBM, last seen at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), saying he's going to appear at Ledwo Legalne 6.
 
 ## References
 
