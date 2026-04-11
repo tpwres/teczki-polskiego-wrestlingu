@@ -23,9 +23,9 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * On 4.04.2026 PpW announced [Vic Golden](@/w/vic-golden.md) coming back to straighten out the problems within [Rodzina](@/tt/rodzina.md).
 * Two days later, [Max Speed](@/w/max-speed.md) vs ["Ladykiller" Boro](@/w/boro.md) was announced, pitting the young blood on his way towards a championship against the veteran.
 
-## Predicted card 
+## Card 
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - nc: upcoming
