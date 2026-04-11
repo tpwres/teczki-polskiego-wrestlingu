@@ -49,17 +49,9 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
   - '["Ladykiller" Boro](@/w/boro.md)'
 - - '[Max Speed](@/w/max-speed.md)'
   - '["Ladykiller" Boro](@/w/boro.md)'
-
-
-
-
-- - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md)'
-  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Biesiad Strong](@/w/biesiad.md)'
+- - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Biesiad Strong](@/w/biesiad.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md)'
   - s: Anarchy Cyclone Tag Team Match
-    nc: upcoming
-
-
-
 - credits:
     Host, Ring Announcer: '["Real OG" Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
@@ -73,6 +65,9 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * Oskar Alexander attemted to help Filip Fux by handing him his crutch, but he was stopped by Gabriel Queen and Agentka Agatka, despite being seemingly on the same side.
 * [Oskar Alexander](@/w/oskar-alexander.md) and [Filip Fux](@/w/filip-fux.md) swore loyalty to [Vic Golden](@/w/vic-golden.md) and [Rodzina](@/tt/rodzina.md), as did [Robert Star](@/w/robert-star.md) via a pre-recorded voice message. [Agentka Agatka](@/w/agentka-agatka.md) refused, stating that being there for the family is more important than any oaths, and Vic wasn't there when needed. When it came to Queen, Vic demanded he knelt - which Queen did, only to insult and attack him. Moments later, Agatka attacked Filip - thus her and Queen broke off from Rodzina.
 * [Max Speed](@/w/max-speed.md) pinned [Boro](@/w/boro.md) at the first attempt, after only a few seconds into the match. Boro then asked for "one more" match, claiming that he hadn't been ready. Max agreed, and won again.
+* During the main event [Gustav Gryffin](@/w/gustav-gryffin.md) and [Biesiad Strong](@/w/biesiad.md) argued about the use of tables. They decided to resolve the situation with a quick game of rock-paper-scissors, only for both of them to throw middle fingers.
+* According to the commentary, some of the wrestlers continued to fight backstage.
+* 
 * 
 
 ## References
