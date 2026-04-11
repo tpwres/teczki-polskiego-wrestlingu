@@ -26,6 +26,15 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 ## Card 
 
 {% card() %}
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - s: Three Way Match
+    n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
+
+
+
+
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - nc: upcoming
@@ -39,18 +48,16 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Biesiad Strong](@/w/biesiad.md)'
   - s: Anarchy Cyclone Tag Team Match
     nc: upcoming
-- - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Johnny Blade](@/w/johnny-blade.md)'
-  - '[Bartosz Plata](@/w/plata.md)'
-  - s: Three Way Match
-    n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
-    nc: upcoming
 - - '[Vic Golden](@/w/vic-golden.md)'
   - '???'
   - nc: upcoming
 - - '[Max Speed](@/w/max-speed.md)'
   - '["Ladykiller" Boro](@/w/boro.md)'
   - nc: upcoming
+- credits:
+    Host, Ring Announcer: '["Real OG" Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Recap
