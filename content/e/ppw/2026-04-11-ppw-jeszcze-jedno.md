@@ -32,9 +32,15 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
   - s: Three Way Match
     n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '[Filip Fux](@/w/filip-fux.md) w/ [Oskar Alexander](@/w/oskar-alexander.md), [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md).'
+  - '[Filip Fux](@/w/filip-fux.md) w/ [Oskar Alexander](@/w/oskar-alexander.md), [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - r: Submission
 
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - g: Vic Golden berates other members of [Rodzina](@/tt/rodzina.md), demands oath of fealty.
 
 
   - '[Isnorr](@/w/isnorr.md)'
@@ -46,9 +52,6 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Biesiad Strong](@/w/biesiad.md)'
   - s: Anarchy Cyclone Tag Team Match
     nc: upcoming
-- - '[Vic Golden](@/w/vic-golden.md)'
-  - '???'
-  - nc: upcoming
 - - '[Max Speed](@/w/max-speed.md)'
   - '["Ladykiller" Boro](@/w/boro.md)'
   - nc: upcoming
@@ -63,6 +66,7 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * Present in the chat during the live stream was somebody with the screen name "Piekny Kawaler". Whether or not this was the actual [Piękny Kawaler](@/w/piekny-kawaler.md), is unknown.
 * [Oskar Alexander](@/w/oskar-alexander.md) was booked to fight [Jacob Crane](@/w/jacob-crane.md) but was replaced by [Filip Fux](@/w/filip-fux.md), owing to Oskar's apparent injury.
 * Oskar Alexander attemted to help Filip Fux by handing him his crutch, but he was stopped by Gabriel Queen and Agentka Agatka, despite being seemingly on the same side.
+* [Oskar Alexander](@/w/oskar-alexander.md) and [Filip Fux](@/w/filip-fux.md) swore loyalty to [Vic Golden](@/w/vic-golden.md) and [Rodzina](@/tt/rodzina.md), as did [Robert Star](@/w/robert-star.md) via a pre-recorded voice message. [Agentka Agatka](@/w/agentka-agatka.md) refused, stating that being there for the family is more important than any oaths, and Vic wasn't there when needed. When it came to Queen, Vic demanded he knelt - which Queen did, only to insult and attack him. Moments later, Agatka attacked Filip - thus her and Queen broke off from Rodzina.
 * 
 
 ## References

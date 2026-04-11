@@ -36,11 +36,13 @@ Rodzina managed to secure their spot in the tournament finals for the [PpW Tag T
 ## Members
 
 * [Vic Golden](@/w/vic-golden.md) - the Patriarch ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
-* [Agentka Agatka](@/w/agentka-agatka.md) - the Mother ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
 * [Oskar Alexander](@/w/oskar-alexander.md) - the Protégé ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
 * [Robert Star](@/w/robert-star.md) - the Son ([Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) - present)
-* [Gabriel Queen](@/w/gabriel-queen.md) - the Dog ([Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) - present)
 * [Filip Fux](@/w/filip-fux.md) - the Import ([Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) - present)
+
+## Former member
+* [Agentka Agatka](@/w/agentka-agatka.md) - the Mother ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md))
+* [Gabriel Queen](@/w/gabriel-queen.md) - the Dog ([Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) - [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md))
 
 [kabanosy]: https://en.wikipedia.org/wiki/Kabanos
 [rodzina-kolejny]: https://www.instagram.com/p/DTs_vmZignE/
