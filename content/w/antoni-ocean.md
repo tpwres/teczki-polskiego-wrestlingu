@@ -38,10 +38,15 @@ Along with his new ringname, Antoni Ocean adopted a babyface persona of a high-f
 
 * Entrance music:
   - "Cake by the Ocean" by DNCE
-    {{ org_badge(orgs=['ppw']) }} (2025-) <br>
+    {{ org_badge(orgs=['ppw']) }} (2025) <br>
     {{ music(yt='vWaRiD5ym74')}}
     {{ music(spot='76hfruVvmfQbw0eYn1nmeC')}}
     {{ music(apple='1440867688?i=1440867865')}}
+  - "Rockafeller Skank" by Fatboy Slim
+    {{ org_badge(orgs=['ppw']) }} (2026-) <br>
+    {{ music(yt='FMrIy9zm7QY')}}
+    {{ music(spot='5AgCO3dc2kuSicCsw09YCA')}}
+    {{ music(apple='1439718666?i=1439718668')}}
 
 ## Internet presence
 

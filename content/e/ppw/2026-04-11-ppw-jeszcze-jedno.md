@@ -34,20 +34,20 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Filip Fux](@/w/filip-fux.md) w/ [Oskar Alexander](@/w/oskar-alexander.md), [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - r: Submission
-
 - - '[Vic Golden](@/w/vic-golden.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - g: Vic Golden berates other members of [Rodzina](@/tt/rodzina.md), demands oath of fealty.
-
-
+  - g: 'Vic Golden berates other members of [Rodzina](@/tt/rodzina.md), demands oath of fealty.'
+- - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Tony Sheen](@/w/riverman.md)'
   - '[Isnorr](@/w/isnorr.md)'
-  - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - s: Three Way Match
     n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
-    nc: upcoming
+
+
+
 - - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md)'
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Biesiad Strong](@/w/biesiad.md)'
   - s: Anarchy Cyclone Tag Team Match
