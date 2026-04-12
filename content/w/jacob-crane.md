@@ -84,6 +84,8 @@ In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], jo
     {{ music(yt='3oFTHxkOzjE')}}
     {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
     {{ music(apple='1064406932?i=1064406939')}}
+  - "Over the Top" by Cracked Prism Studios
+    {{ org_badge(orgs=['ppw']) }} (2024-) <br>
 
 ## Internet presence
 

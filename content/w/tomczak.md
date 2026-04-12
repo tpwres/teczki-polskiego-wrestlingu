@@ -40,6 +40,11 @@ In November 2025 Finnish federation SLAM Wrestling Entertainment [announced][suo
   - "Violence Machine" by Jacob Lizotte
     {{ org_badge(org='kpw') }} (2025-present) <br>
     {{ music(yt='f5feuBEyDHw')}}
+  - "Left Behind" by Slipknot
+    {{ org_badge(org='ppw') }} (2026-present) <br>
+    {{ music(yt='D1jQKpse7Yw')}}
+    {{ music(spot='4l3Vmsw0KO8HJqFtnbqaqu')}}
+    {{ music(apple='927744704?i=927744788')}}
 
 ## Internet presence
 
