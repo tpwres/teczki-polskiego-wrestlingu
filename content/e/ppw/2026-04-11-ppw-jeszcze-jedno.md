@@ -75,6 +75,7 @@ Jeszcze Jedno (roughly _Just One More Thing_) was an event by [PpW Ewenement Wre
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=448803)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-jeszcze-jedno-04-11-2026-20-03-07) (requires paid subscription)
 * [Facebook post announcing the event][jeszcze-link]
 
 [jeszcze-link]: https://www.facebook.com/OficjalnePPW/posts/pfbid0Ke9dA9hfxSZi5x8sACzFTjXz5xH9dfy6vBqdbe1MizdAR41DxS5qkFXKkdAoNb9Rl
