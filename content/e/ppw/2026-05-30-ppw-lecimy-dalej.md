@@ -16,7 +16,7 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 
 ## Build-up
 
-* The event was first made known through the ticketing website [Stage24][bilety-puscily-farbe], prior to any official post from the promotion.
+* The event was first made known through the ticketing website Stage24 prior to any official post from the promotion, which came a few hours later.
 
 {{ skip_card() }}
 
@@ -26,7 +26,4 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 
 ## References
 
-* [Info on Stage24][bilety-puscily-farbe]
-
-
-[bilety-puscily-farbe]: https://stage24.pl/wydarzenia/ppw-ewenement-zaklete-rewiry-7819
+* [Facebook post announcing the event]: https://www.facebook.com/OficjalnePPW/posts/pfbid0hSvkWwxMU43BSzJv9Ui8rVBxmfeJiZfVsfvCgaDPxvLhkjssB3FSndrUFCEdz1fHl
