@@ -1,6 +1,7 @@
 +++
 title = "Zaklęte Rewiry"
 template = "venue_page.html"
+authors = ["M3n747"]
 [extra.geo]
 coordinates = '51.090521/17.065718'
 orgs = ['mzw']
