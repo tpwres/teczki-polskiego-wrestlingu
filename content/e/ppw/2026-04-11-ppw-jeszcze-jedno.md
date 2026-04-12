@@ -26,6 +26,9 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 ## Card 
 
 {% card() %}
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Sambor](@/w/sambor.md)
+  - s: Pre-show match
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bartosz Plata](@/w/plata.md)'
@@ -63,11 +66,11 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * Present in the chat during the live stream was somebody with the screen name "Piekny Kawaler". Whether or not this was the actual [Piękny Kawaler](@/w/piekny-kawaler.md), is unknown.
 * [Oskar Alexander](@/w/oskar-alexander.md) was booked to fight [Jacob Crane](@/w/jacob-crane.md) but was replaced by [Filip Fux](@/w/filip-fux.md), owing to Oskar's apparent injury.
 * Oskar Alexander attemted to help Filip Fux by handing him his crutch, but he was stopped by Gabriel Queen and Agentka Agatka, despite being seemingly on the same side.
-* [Oskar Alexander](@/w/oskar-alexander.md) and [Filip Fux](@/w/filip-fux.md) swore loyalty to [Vic Golden](@/w/vic-golden.md) and [Rodzina](@/tt/rodzina.md), as did [Robert Star](@/w/robert-star.md) via a pre-recorded voice message. [Agentka Agatka](@/w/agentka-agatka.md) refused, stating that being there for the family is more important than any oaths, and Vic wasn't there when needed. When it came to Queen, Vic demanded he knelt - which Queen did, only to insult and attack him. Moments later, Agatka attacked Filip - thus her and Queen broke off from Rodzina.
+* [Oskar Alexander](@/w/oskar-alexander.md) and [Filip Fux](@/w/filip-fux.md) swore loyalty to [Vic Golden](@/w/vic-golden.md) and [Rodzina](@/tt/rodzina.md), as did [Robert Star](@/w/robert-star.md) via a pre-recorded voice message. [Agentka Agatka](@/w/agentka-agatka.md) refused, stating that being there for the family is more important than any oaths, and Vic wasn't there when needed. When it came to Queen, Vic demanded he knelt - which Queen did, only to insult and attack him. Moments later, Agatka attacked Filip - thus her and Queen broke off from Rodzina, to a monstrous pop from the audience.
 * [Max Speed](@/w/max-speed.md) pinned [Boro](@/w/boro.md) at the first attempt, after only a few seconds into the match. Boro then asked for "one more" match, claiming that he hadn't been ready. Max agreed, and won again.
 * During the main event [Gustav Gryffin](@/w/gustav-gryffin.md) and [Biesiad Strong](@/w/biesiad.md) argued about the use of tables. They decided to resolve the situation with a quick game of rock-paper-scissors, only for both of them to throw middle fingers.
 * According to the commentary, some of the wrestlers continued to fight backstage.
-* Following the main event, Michael HT mentioned "one more" thing - a video of MBM, last seen at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), saying he's going to appear at Ledwo Legalne 6.
+* Following the main event, Michael HT mentioned "one more" thing - a video of Belgian wrestler MBM, last seen at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), announcing his appearance at Ledwo Legalne 6.
 
 ## References
 
