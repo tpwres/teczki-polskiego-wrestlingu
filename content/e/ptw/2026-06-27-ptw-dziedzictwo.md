@@ -26,6 +26,7 @@ has_video = false
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=450401)
 * [Facebook post announcing the show][zapowiedz]
 
 [zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1218460120359712:1218460120359712
