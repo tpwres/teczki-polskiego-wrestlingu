@@ -58,6 +58,11 @@ In 2024 Leon made his first handful of appearances outside of Poland. He worked 
   - "Jody Summer" by INTL.CMD
     {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
     {{ music(yt='7pvqp9VFxhM')}}
+  - "Espresso" by Sabrina Carpenter
+    {{ org_badge(orgs=['ppw']) }} (2026-present) <br>
+    {{ music(yt='eVli-tstM5E')}}
+    {{ music(spot='1vLqigPHwiFnXsfrLMehV1')}}
+    {{ music(apple='1744253545?i=1744253558')}}
 
 ## Championships and accomplishments
 
