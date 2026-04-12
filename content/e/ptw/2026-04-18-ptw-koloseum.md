@@ -17,10 +17,11 @@ has_video = false
 ## Build-up
 
 * On 7.04.2026 PTW announced that [Diana Strong](@/w/diana-strong.md), who won the [PTW Women's Championship](@/c/ptw-womens-championship.md) from [Mercedes Moné](@/w/mercedes-mone.md) at [the last show](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), would be crowned the Champion.
-* On 10.04.2026 PTW announced a match between the reigning Champion [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) for the [main title](@/c/ptw-championship.md).
+* On 9.04.2026 PTW announced a match between the reigning Champion [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) for the [main title](@/c/ptw-championship.md).
 * The next day [Damian Adler](@/w/damian-adler.md) was announced without a match-up.
 * A [video][jasiek-sztorm] published later that day announced [Jonny Storm](@/w/jonny-storm.md) vs [Nano Lopez](@/w/nano-lopez.md). Storm was last seen at [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 * Also the same day, [Daniel Razor](@/w/daniel-razor.md) was announced for a Gauntlet Match against three mystery opponents.
+* On 11.04.2026 [Sawicki](@/w/sawicki.md) was announced, also without an opponent.
 
 ## Predicted card
 
@@ -44,6 +45,9 @@ has_video = false
   - '???'
   - s: Gauntlet Match
     nc: upcoming
+- - '[Sawicki](@/w/sawicki.md)'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ### Recap
