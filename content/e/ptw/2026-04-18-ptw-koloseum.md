@@ -22,6 +22,7 @@ has_video = false
 * A [video][jasiek-sztorm] published later that day announced [Jonny Storm](@/w/jonny-storm.md) vs [Nano Lopez](@/w/nano-lopez.md). Storm was last seen at [PTW #6: Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 * Also the same day, [Daniel Razor](@/w/daniel-razor.md) was announced for a Gauntlet Match against three mystery opponents.
 * On 11.04.2026 [Sawicki](@/w/sawicki.md) was announced, also without an opponent.
+* On 12.04.2026 Bart Petro was announced to face [Boguś](@/w/bogus.md).
 
 ## Predicted card
 
@@ -47,6 +48,9 @@ has_video = false
     nc: upcoming
 - - '[Sawicki](@/w/sawicki.md)'
   - '???'
+  - nc: upcoming
+- - 'Bart Petro'
+  - '[Boguś](@/w/bogus.md)'
   - nc: upcoming
 {% end %}
 
