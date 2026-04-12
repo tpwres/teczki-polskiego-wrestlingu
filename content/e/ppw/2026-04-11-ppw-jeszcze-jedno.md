@@ -27,7 +27,7 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 
 {% card() %}
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Sambor](@/w/sambor.md)
+  - '[Sambor](@/w/sambor.md)'
   - s: Pre-show match
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
