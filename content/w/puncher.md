@@ -91,11 +91,11 @@ From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promot
 * Tag Teams and stables:
   - [Nietykalni](@/tt/nietykalni.md) (2025-)
 * Entrance music:
-  - "Eye of the Tiger" by Survivor
+  - "Eye of the Tiger (Metal Cover)" by Leo feat. Rob Lundgren
     {{ org_badge(orgs=['ptw']) }} (2021-) <br>
-    {{ music(yt='btPJPFnesV4')}}
-    {{ music(spot='2KH16WveTQWT6KOG9Rg6e2')}}
-    {{ music(apple='1692216002?i=1692216321')}}
+    {{ music(yt='G6r1dAire0Y')}}
+    {{ music(spot='5bAeRAV1eGSOmEhjtm8Wnf')}}
+    {{ music(apple='1099245277?i=1099245311')}}
 
 ## Championships and accomplishments
 
