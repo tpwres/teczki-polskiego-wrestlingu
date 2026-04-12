@@ -37,6 +37,7 @@ template = "index.html"
 * [Czasoprzestrzeń](@/v/czasoprzestrzen.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
 * [GOSIR Głuchołazy](@/v/gosir-glucholazy.md) {{ org_badge(org='mzw') }}
 * [Ostrowskiego](@/v/ostrowskiego-wroclaw.md) {{ org_badge(org='mzw') }}
+* [Zaklęte Rewiry](@/v/zaklete-rewiry.md) {{ org_badge(org='ppw') }}
 
 ### Others
 
