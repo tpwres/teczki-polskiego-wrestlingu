@@ -1,6 +1,7 @@
 +++
 title = "Bakara"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra.geo]
 coordinates = '51.096312/16.994242'
 orgs = ['mzw']
