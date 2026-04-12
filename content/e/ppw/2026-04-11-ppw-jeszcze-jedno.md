@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wrestling](@/o/ppw.md), set to take return to [Teatr Komuna](@/v/teatr-komuna.md). The event will act as a prelude to [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
+Jeszcze Jedno (roughly _Just One More Thing_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), returning to [Teatr Komuna](@/v/teatr-komuna.md) once more. The event served as a prelude show for [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) about one month later.
 
 ## Build-up
 
@@ -22,8 +22,10 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 * The second Qualifier Match for Ledwo Legalne 6 was announced on 30.03.2026: [Leon Lato](@/w/leon-lato.md) vs [Johnny Blade](@/w/johnny-blade.md) vs [Bartosz Plata](@/w/plata.md).
 * On 4.04.2026 PpW announced [Vic Golden](@/w/vic-golden.md) coming back to straighten out the problems within [Rodzina](@/tt/rodzina.md).
 * Two days later, [Max Speed](@/w/max-speed.md) vs ["Ladykiller" Boro](@/w/boro.md) was announced, pitting the young blood on his way towards a championship against the veteran.
+* On Thursday before the show, PpW posted a short [phone call][stary-dzwoni] from Vic Golden to Filip Fux, who was just heading into a Leroy Merlin (home improvement/gardening/DIY store), about to check on some ladders. The Patriarch forced Filip to abandon his Ladder Qualifier match, and take on Jacob Crane instead, replacing Oskar Alexander.
+  * Oskar suffered a foot injury at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md), just days after the three-way match announcement, forcing a change of plans.
 
-## Card 
+## Card
 
 {% card() %}
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
@@ -32,8 +34,7 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-  - s: Three Way Match
-    n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
+  - s: Three Way Qualifier for a Ladder Match at Ledwo Legalne 6
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Filip Fux](@/w/filip-fux.md) w/ [Oskar Alexander](@/w/oskar-alexander.md), [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - r: Submission
@@ -46,8 +47,7 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 - - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Tony Sheen](@/w/riverman.md)'
   - '[Isnorr](@/w/isnorr.md)'
-  - s: Three Way Match
-    n: 'Qualifier for Ladder Match at Ledwo Legalne 6'
+  - s: Three Way Qualifier for a Ladder Match at Ledwo Legalne 6
 - - '[Max Speed](@/w/max-speed.md)'
   - '["Ladykiller" Boro](@/w/boro.md)'
 - - '[Max Speed](@/w/max-speed.md)'
@@ -64,13 +64,12 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 ### Recap
 
 * Present in the chat during the live stream was somebody with the screen name "Piekny Kawaler". Whether or not this was the actual [Piękny Kawaler](@/w/piekny-kawaler.md), is unknown.
-* [Oskar Alexander](@/w/oskar-alexander.md) was booked to fight [Jacob Crane](@/w/jacob-crane.md) but was replaced by [Filip Fux](@/w/filip-fux.md), owing to Oskar's apparent injury.
-* Oskar Alexander attemted to help Filip Fux by handing him his crutch, but he was stopped by Gabriel Queen and Agentka Agatka, despite being seemingly on the same side.
-* [Oskar Alexander](@/w/oskar-alexander.md) and [Filip Fux](@/w/filip-fux.md) swore loyalty to [Vic Golden](@/w/vic-golden.md) and [Rodzina](@/tt/rodzina.md), as did [Robert Star](@/w/robert-star.md) via a pre-recorded voice message. [Agentka Agatka](@/w/agentka-agatka.md) refused, stating that being there for the family is more important than any oaths, and Vic wasn't there when needed. When it came to Queen, Vic demanded he knelt - which Queen did, only to insult and attack him. Moments later, Agatka attacked Filip - thus her and Queen broke off from Rodzina, to a monstrous pop from the audience.
-* [Max Speed](@/w/max-speed.md) pinned [Boro](@/w/boro.md) at the first attempt, after only a few seconds into the match. Boro then asked for "one more" match, claiming that he hadn't been ready. Max agreed, and won again.
+* Oskar Alexander attempted to help Filip Fux by handing him his crutch, but he was stopped by Gabriel Queen and Agentka Agatka, despite being seemingly on the same side.
+* [Oskar Alexander](@/w/oskar-alexander.md) and [Filip Fux](@/w/filip-fux.md) eagerly swore loyalty to [Vic Golden](@/w/vic-golden.md) and [Rodzina](@/tt/rodzina.md), as did [Robert Star](@/w/robert-star.md) via a pre-recorded voice message. [Agentka Agatka](@/w/agentka-agatka.md) refused, stating that being there for the family is more important than any oaths, and Vic was mostly an absentee father. When it came to Queen, Vic demanded he knelt - which Queen did, only to insult and attack him. Moments later, Agatka attacked Filip - thus her and Queen broke off from Rodzina, to a monstrous pop from the audience.
+* [Max Speed](@/w/max-speed.md) pinned [Boro](@/w/boro.md) at the first attempt, just a few seconds into the match. Boro then asked for "one more" match, claiming that he hadn't been ready. Max agreed, and won again.
 * During the main event [Gustav Gryffin](@/w/gustav-gryffin.md) and [Biesiad Strong](@/w/biesiad.md) argued about the use of tables. They decided to resolve the situation with a quick game of rock-paper-scissors, only for both of them to throw middle fingers.
 * According to the commentary, some of the wrestlers continued to fight backstage.
-* Following the main event, Michael HT mentioned "one more" thing - a video of Belgian wrestler MBM, last seen at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), announcing his appearance at Ledwo Legalne 6.
+* Following the main event, Michael HT mentioned "one more" thing - and played a video of Belgian wrestler MBM, last seen at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), announcing his return at Ledwo Legalne 6.
 
 ## References
 
@@ -79,3 +78,4 @@ Jeszcze Jedno (roughly _Just One More_) is an upcoming show by [PpW Ewenement Wr
 
 [jeszcze-link]: https://www.facebook.com/OficjalnePPW/posts/pfbid0Ke9dA9hfxSZi5x8sACzFTjXz5xH9dfy6vBqdbe1MizdAR41DxS5qkFXKkdAoNb9Rl
 [jeszcze-talarki]: https://www.facebook.com/reel/942794378122433
+[stary-dzwoni]: https://www.instagram.com/reel/DW68sMnij6k
