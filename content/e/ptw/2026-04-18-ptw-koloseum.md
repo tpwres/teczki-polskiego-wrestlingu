@@ -60,7 +60,7 @@ has_video = false
 - - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    s: #1 Contenders Tag Team Match
+    s: '#1 Contenders Tag Team Match'
     nc: upcoming
 {% end %}
 
