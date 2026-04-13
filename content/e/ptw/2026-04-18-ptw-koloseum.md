@@ -23,6 +23,7 @@ has_video = false
 * Also the same day, [Daniel Razor](@/w/daniel-razor.md) was announced for a Gauntlet Match against three mystery opponents.
 * On 11.04.2026 [Sawicki](@/w/sawicki.md) was announced, also without an opponent.
 * On 12.04.2026 Bart Petro was announced to face [Boguś](@/w/bogus.md).
+* On 13.04.2026 came the announcement of [Whiteblade](@/w/whiteblade.md) vs [CJ Klakson](@/w/cj-klakson.md).
 
 ## Predicted card
 
@@ -52,6 +53,9 @@ has_video = false
 - - 'Bart Petro'
   - '[Boguś](@/w/bogus.md)'
   - nc: upcoming
+- - '[Whiteblade](@/w/whiteblade.md)'
+  - [CJ Klakson](@/w/cj-klakson.md)'
+  - nc: upcoming  
 {% end %}
 
 ### Recap
