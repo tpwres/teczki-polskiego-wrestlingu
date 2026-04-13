@@ -12,7 +12,7 @@ has_video = true
 [extra.gallery]
 +++
 
-Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held in {{ map_pin(v="Zaklęte Rewiry") }}Zaklęte Rewiry event space in Wrocław.
+Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), held in [Zaklęte Rewiry](@/v/zaklete-rewiry.md) event space in Wrocław.
 
 ## Build-up
 
