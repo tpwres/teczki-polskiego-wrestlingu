@@ -54,7 +54,7 @@ has_video = false
   - '[Boguś](@/w/bogus.md)'
   - nc: upcoming
 - - '[Whiteblade](@/w/whiteblade.md)'
-  - [CJ Klakson](@/w/cj-klakson.md)'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
   - nc: upcoming  
 {% end %}
 
