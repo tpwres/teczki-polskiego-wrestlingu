@@ -23,6 +23,8 @@ has_video = false
 * Also the same day, [Daniel Razor](@/w/daniel-razor.md) was announced for a Gauntlet Match against three mystery opponents.
 * On 11.04.2026 [Sawicki](@/w/sawicki.md) was announced, also without an opponent.
 * On 12.04.2026 Bart Petro was announced to face [Boguś](@/w/bogus.md).
+* On 13.04.2026 came the announcement of [Whiteblade](@/w/whiteblade.md) vs [CJ Klakson](@/w/cj-klakson.md).
+* Later the same day [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md) were announced to fight [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek for the [Tag Team title](@/c/ptw-tag-team-championship.md) #1 Contendership.
 
 ## Predicted card
 
@@ -52,6 +54,14 @@ has_video = false
 - - 'Bart Petro'
   - '[Boguś](@/w/bogus.md)'
   - nc: upcoming
+- - '[Whiteblade](@/w/whiteblade.md)'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
+  - nc: upcoming
+- - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: '#1 Contenders Tag Team Match'
+    nc: upcoming
 {% end %}
 
 ### Recap
