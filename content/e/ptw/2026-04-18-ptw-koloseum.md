@@ -61,7 +61,7 @@ has_video = false
   - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
   - s: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     c: #1 Contenders Tag Team Match
-    nc: upcoming
+    nc: upcoming 
 {% end %}
 
 ### Recap
