@@ -43,7 +43,7 @@ In 2024 Leon made his first handful of appearances outside of Poland. He worked 
 * Finishers:
   - Lungblower (2022-)
 * Tag Teams and stables:
-  - with [Zefir](@/w/zefir.md) (2023-)
+  - with [Zefir](@/w/zefir.md) (2023)
 * Entrance music:
   - "Out of Touch" by Daryl Hall & John Oates
     {{ org_badge(orgs=['kpw']) }} (2022-2023) <br>
