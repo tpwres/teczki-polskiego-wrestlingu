@@ -25,6 +25,7 @@ has_video = false
 * On 12.04.2026 Bart Petro was announced to face [Boguś](@/w/bogus.md).
 * On 13.04.2026 came the announcement of [Whiteblade](@/w/whiteblade.md) vs [CJ Klakson](@/w/cj-klakson.md).
 * Later the same day [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md) were announced to fight [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek for the [Tag Team title](@/c/ptw-tag-team-championship.md) #1 Contendership.
+* [Fabian](@/w/fabian.md) was announced on 14.04.2026.
 
 ## Predicted card
 
@@ -62,6 +63,9 @@ has_video = false
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: '#1 Contenders Tag Team Match'
     nc: upcoming
+- - '[Fabian](@/w/fabian.md)'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ### Recap
