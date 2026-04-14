@@ -22,6 +22,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 * On 28.03.2026 PpW announced ["Ladykiller" Boro](@/w/boro.md) vs [Mutant](@/w/mutant.md). If Boro wins the match, Mutant will have to become his bodyguard.
 * On 3.04.2026 PpW announced the Mystery X-Way Match - a fight between an unknown number of unspecified opponents.
 * Ten days later, on 13.04.2026, came the announcement of Emil Völler vs [Leon Lato](@/w/leon-lato.md).
+* On 14.04.2026 PpW announced a No Holds Barred 3-Way Tag Team Match between [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md), [Jacob Crane](@/w/jacob-crane.md) & [Biesiad Strong](@/w/biesiad.md), and [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).
 
 ## Card
 
@@ -41,6 +42,11 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 - - '[Leon Lato](@/w/leon-lato.md)'
   - 'Emil Völler'
   - nc: upcoming
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md) & [Biesiad Strong](@/w/biesiad.md)'
+  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - s: No Holds Barred 3-Way Tag Team Match
+    nc: upcoming
 {% end %}
 
 ### Recap
