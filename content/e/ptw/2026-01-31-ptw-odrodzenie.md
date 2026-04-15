@@ -50,7 +50,7 @@ This event marked a change in PTW's policy. The live stream was available to You
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - 'Bart Petro'
+  - '[Bart Petro](@/w/bart-petro.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
   - 'Drop & Bump: [Bumper](@/w/fabian.md) & [Dropper](@/w/whiteblade.md)'

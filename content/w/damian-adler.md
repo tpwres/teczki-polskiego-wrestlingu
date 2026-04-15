@@ -14,7 +14,7 @@ Damian Adler is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md)
 
 * Years active: 2025-present
 * Gimmicks/nicknames:
-  - Damian Adler{{ org_badge(orgs=['ptw']) }} (2025-2026)
+  - Damian Adler{{ org_badge(orgs=['ptw']) }} (2025-)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-202?)
   - [PTW Academy](@/o/ptw-academy.md) (202?-)

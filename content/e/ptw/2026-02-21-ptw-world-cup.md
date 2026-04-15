@@ -47,7 +47,7 @@ has_video = false
   - '[Whiteblade](@/w/whiteblade.md)'
   - g: Lambert reveals himself as the Prophet, Dropper debuts as Whiteblade
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - 'Bart Petro'
+  - '[Bart Petro](@/w/bart-petro.md)'
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Renegade](@/w/renegade.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
