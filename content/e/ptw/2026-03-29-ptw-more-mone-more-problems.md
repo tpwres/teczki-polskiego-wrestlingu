@@ -26,7 +26,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 * On 14.03.2026 PTW announced a Triple Threat Match between Jordan Wolff, [Miyagi Shida](@/w/miyagi-shida.md) and [Damian Adler](@/w/damian-adler.md). Wolff took part in the Battle Royal at the [previous show](@/e/ptw/2026-02-21-ptw-world-cup.md), but was eliminated quickly and failed to make a proper first impression.
 * On 16.03.2026 PTW announced a Submission Match between [Daniel Razor](@/w/daniel-razor.md) and an unknown opponent, to be chosen by [Nano Lopez](@/w/nano-lopez.md). Lopez picked the stipulation as a test for Razor, due to his lack of experience in this style of fights.
 * The next day saw the announcement of a match for the [PTW Championship](@/c/ptw-championship.md) between [Spartan](@/w/spartan.md) and [Nano Lopez](@/w/nano-lopez.md).
-* The day after that, on 18.03.2026, PTW announced a new tag team consisting of [CJ Klakson](@/w/cj-klakson.md) & Bart Petro, to take on [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek.
+* The day after that, on 18.03.2026, PTW announced a new tag team consisting of [CJ Klakson](@/w/cj-klakson.md) & [Bart Petro](@/w/bart-petro.md), to take on [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek.
 * On 19.03.2026 PTW announced the tag team of [El G](@/w/el-g.md) and Conte.
 * On 23.03.2025 [Alex Brave](@/w/alex-brave.md) was announced to face [Sawicki](@/w/sawicki.md).
 * Two days later PTW announced another Brave Show, hosted by [Alex Brave](@/w/alex-brave.md), in which [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) will sign a contract for the [PTW Championship](@/c/ptw-championship.md) match.
@@ -54,7 +54,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - 'Gabriel Grip'
   - s: Submission Match
 - - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
-  - 'The Polish Stand: [CJ Klakson](@/w/cj-klakson.md) & Bart Petro'
+  - 'The Polish Stand: [CJ Klakson](@/w/cj-klakson.md) & [Bart Petro](@/w/bart-petro.md)'
   - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
