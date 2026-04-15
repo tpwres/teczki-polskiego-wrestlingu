@@ -27,6 +27,7 @@ has_video = false
 * Later the same day [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md) were announced to fight [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek for the [Tag Team title](@/c/ptw-tag-team-championship.md) #1 Contendership.
 * [Fabian](@/w/fabian.md) was announced on 14.04.2026.
 * The next day [Nano Lopez](@/w/nano-lopez.md) was announced to face [Jonny Storm](@/w/jonny-storm.md) for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
+* Later the same day Baron Wolfgang Storm was announced as well, without an opponent.
 
 ## Predicted card
 
@@ -71,6 +72,9 @@ has_video = false
   - '[Jonny Storm](@/w/jonny-storm.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     nc: upcoming
+- - 'Baron Wolfgang Storm'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ### Recap
