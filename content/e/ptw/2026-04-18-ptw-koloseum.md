@@ -26,6 +26,7 @@ has_video = false
 * On 13.04.2026 came the announcement of [Whiteblade](@/w/whiteblade.md) vs [CJ Klakson](@/w/cj-klakson.md).
 * Later the same day [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md) were announced to fight [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek for the [Tag Team title](@/c/ptw-tag-team-championship.md) #1 Contendership.
 * [Fabian](@/w/fabian.md) was announced on 14.04.2026.
+* The next day [Nano Lopez](@/w/nano-lopez.md) was announced to face [Jonny Storm](@/w/jonny-storm.md) for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 
 ## Predicted card
 
@@ -66,6 +67,10 @@ has_video = false
 - - '[Fabian](@/w/fabian.md)'
   - '???'
   - nc: upcoming
+- - '[Nano Lopez](@/w/nano-lopez.md)(c)'
+  - '[Jonny Storm](@/w/jonny-storm.md)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    nc: upcoming
 {% end %}
 
 ### Recap
