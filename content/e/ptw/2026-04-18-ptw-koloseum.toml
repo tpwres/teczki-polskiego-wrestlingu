@@ -10,5 +10,5 @@
 10 = { path = "fabian.webp", caption = "Image announcing [Fabian](@/w/fabian.md).", source = "Official PTW Facebook" }
 11 = { path = "nano-lopez-vs-jonny-storm.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [Jonny Storm](@/w/jonny-storm.md).", source = "Official PTW Facebook" }
 12 = { path = "wolfgang-storm.webp", caption = "Image announcing Baron Wolfgang Storm.", source = "Official PTW Facebook" }
-13 = { path = "ekipa.webp", caption = "Image announcing the crew. Left to right, top: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md). Bottom: [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md), [Krystian "Resivny" Smoleń](@/w/resivny.md), [Adam Goldschmidt](@/w/adam-goldschmidt.md).", source = "Official PTW Facebook" }
+13 = { path = "ekipa.webp", caption = "Image announcing the crew. Left to right, top: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md). Bottom: [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md), [Resivny](@/w/resivny.md), [Adam Goldschmidt](@/w/adam-goldschmidt.md).", source = "Official PTW Facebook" }
 14 = { path = "alex-brave.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md).", source = "Official PTW Facebook" }
