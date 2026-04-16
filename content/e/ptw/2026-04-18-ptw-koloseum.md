@@ -83,7 +83,7 @@ has_video = false
 
 ### Recap
 
-* TBD
+* TBD 
 
 ## References
 
