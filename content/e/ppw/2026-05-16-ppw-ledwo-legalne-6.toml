@@ -1,1 +1,5 @@
 002 = { path = "ll6-zapowiedz.webp", caption = 'Image announcing the event.', source = "Official PpW Facebook" }
+003 = { path = "leon-lato.webp", caption = 'Image announcing [Leon Lato](@/w/leon-lato.md).', source = "Official PpW Facebook" }
+004 = { path = "antoni-ocean.webp", caption = 'Image announcing [Antoni Ocean](@/w/antoni-ocean.md).', source = "Official PpW Facebook" }
+005 = { path = "vic-golden.webp", caption = 'Image announcing [Vic Golden](@/w/vic-golden.md).', source = "Official PpW Facebook" }
+006 = { path = "mbm.webp", caption = 'Image announcing MBM.', source = "Official PpW Facebook" }

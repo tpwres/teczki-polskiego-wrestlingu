@@ -22,8 +22,8 @@ Jeszcze Jedno (roughly _Just One More Thing_) was an event by [PpW Ewenement Wre
 * The second Qualifier Match for Ledwo Legalne 6 was announced on 30.03.2026: [Leon Lato](@/w/leon-lato.md) vs [Johnny Blade](@/w/johnny-blade.md) vs [Bartosz Plata](@/w/plata.md).
 * On 4.04.2026 PpW announced [Vic Golden](@/w/vic-golden.md) coming back to straighten out the problems within [Rodzina](@/tt/rodzina.md).
 * Two days later, [Max Speed](@/w/max-speed.md) vs ["Ladykiller" Boro](@/w/boro.md) was announced, pitting the young blood on his way towards a championship against the veteran.
-* On Thursday before the show, PpW posted a short [phone call][stary-dzwoni] from Vic Golden to Filip Fux, who was just heading into a Leroy Merlin (home improvement/gardening/DIY store), about to check on some ladders. The Patriarch forced Filip to abandon his Ladder Qualifier match, and take on Jacob Crane instead, replacing Oskar Alexander.
-  * Oskar suffered a foot injury at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md), just days after the three-way match announcement, forcing a change of plans.
+* On Thursday before the show, PpW posted a short [phone call][stary-dzwoni] from Vic Golden to Filip Fux, who was just heading into a Leroy Merlin (home improvement/gardening/DIY store), about to check out some ladders. The Patriarch forced Filip to abandon his Ladder Qualifier match, and take on Jacob Crane instead, replacing Oskar Alexander.
+  - Oskar suffered a foot injury at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md), just days after the three-way match announcement, forcing a change of plans.
 
 ## Card
 
