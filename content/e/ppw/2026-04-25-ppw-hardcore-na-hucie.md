@@ -48,7 +48,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: No Holds Barred 3-Way Tag Team Match
     nc: upcoming
-- - '[Isnorr](@/w/isnorr.md) & [Gabriel Queen](@/w/gabriel-queen.md)"
+- - '[Isnorr](@/w/isnorr.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Vic Golden](@/w/vic-golden.md) & [Marco Hammers](@/w/marco-hammers.md)'
   - s: Tag Team Match
     nc: upcoming
