@@ -23,6 +23,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 * On 3.04.2026 PpW announced the Mystery X-Way Match - a fight between an unknown number of unspecified opponents.
 * Ten days later, on 13.04.2026, came the announcement of Emil Völler vs [Leon Lato](@/w/leon-lato.md).
 * On 14.04.2026 PpW announced a No Holds Barred 3-Way Tag Team Match between [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md), [Jacob Crane](@/w/jacob-crane.md) & [Biesiad Strong](@/w/biesiad.md), and [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).
+* On 17.04.2026 PpW announced [Isnorr](@/w/isnorr.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md) & [Marco Hammers](@/w/marco-hammers.md). Queen left [Rodzina](@/tt/rodzina.md) at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), earning him Vic's ire. Golden then decided to explain matters with the help of a [Zmowa](@/tt/zmowa.md) friend, Marco, while Queen asked the help of Isnorr, a fellow citizen of Poznań.
 
 ## Card
 
@@ -46,6 +47,10 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
   - '[Jacob Crane](@/w/jacob-crane.md) & [Biesiad Strong](@/w/biesiad.md)'
   - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: No Holds Barred 3-Way Tag Team Match
+    nc: upcoming
+- - '[Isnorr](@/w/isnorr.md) & [Gabriel Queen](@/w/gabriel-queen.md)"
+  - '[Vic Golden](@/w/vic-golden.md) & [Marco Hammers](@/w/marco-hammers.md)'
+  - s: Tag Team Match
     nc: upcoming
 {% end %}
 
