@@ -1,7 +1,10 @@
-from typing import Sequence
+from typing import Sequence, List, Tuple, Optional
 from pathlib import Path
 from urllib.parse import urlparse, ParseResult
 from misty.dsl import Rule, SingleMatch, Token, Message, Level, Fixable
+
+# Import championship validation rules
+from .championship_rules import ChampionshipSynchronization, OrganizationChampionshipValidator
 
 def link_target_startswith_content(_tok, _pos, args):
     return args[0].startswith('content')
@@ -22,7 +25,7 @@ class ValidInternalLink(Rule):
 
         return None # No changes
 
-    def describe(self, token) -> Optional[List[Message]]:
+    def describe(self, token: Token) -> Optional[List[Message]]:
         _, (row, col), rest = token
         target, text, dest_type, label = self.unpack_link(rest)
         full_link = self.render_link(target, text, dest_type, label)
@@ -68,4 +71,6 @@ class ValidInternalLink(Rule):
 
 default_rules = (
     ValidInternalLink,
+    ChampionshipSynchronization,
+    OrganizationChampionshipValidator,
 )
