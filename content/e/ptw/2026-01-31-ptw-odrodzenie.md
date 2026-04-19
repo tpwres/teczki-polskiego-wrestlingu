@@ -28,14 +28,14 @@ This event marked a change in PTW's policy. The live stream was available to You
 * 22.01.2026 saw the announcement of a new debutant: [Boguś](@/w/bogus.md), who previously wrestled a few matches as a rookie and also worked as a referee at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md).
 * The final match-up to be announced (on 23.01.2026) was a [PTW Championship](@/c/ptw-championship.md) match between the reigning champion [Spartan](@/w/spartan.md) and Italian wrestler Bittersweet Josh, last seen at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md).
 * [Remo](@/w/remo.md), who returned at the [previous show](e/ptw/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) after a long recovery period following an injury, was announced to return to in-ring action on 25.01.2026.
-* On 28.01.2026 PTW announced [Daniel Razor](@/w/daniel-razor.md) vs Ukrainian wrestler Baron Wolfgang Storm, who debuted in Poland at the [previous show](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
+* On 28.01.2026 PTW announced [Daniel Razor](@/w/daniel-razor.md) vs Ukrainian wrestler [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md), who debuted in Poland at the [previous show](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
 * 29.01.2026 saw the announcement of [Damian Lambert](@/w/damian-lambert.md) vs [Blaze](@/w/blaze.md) in a Singles Match.
 
 ## Card
 
 {% card() %}
 - - '[Daniel Razor](@/w/daniel-razor.md)'
-  - 'Baron Wolfgang Storm'
+  - '[Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
 - - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Blaze](@/w/blaze.md)'
   - '[Boguś](@/w/bogus.md)'
