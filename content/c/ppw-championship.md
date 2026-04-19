@@ -292,7 +292,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     ed: 2026-03-21
 - - 'Olgierd (c)'
   - '[Max Speed](@/w/max-speed.md)'
-  - s: Singles Match
+  - s: Dog Collar Match
     en: '[PpW Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md)'
     ed: 2026-04-25
     nc: upcoming

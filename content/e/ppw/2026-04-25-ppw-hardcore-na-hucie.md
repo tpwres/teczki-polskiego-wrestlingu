@@ -24,6 +24,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 * Ten days later, on 13.04.2026, came the announcement of Emil Völler vs [Leon Lato](@/w/leon-lato.md).
 * On 14.04.2026 PpW announced a No Holds Barred 3-Way Tag Team Match between [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md), [Jacob Crane](@/w/jacob-crane.md) & [Biesiad Strong](@/w/biesiad.md), and [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).
 * On 17.04.2026 PpW announced [Isnorr](@/w/isnorr.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md) & [Marco Hammers](@/w/marco-hammers.md). Queen left [Rodzina](@/tt/rodzina.md) at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), earning him Vic's ire. Golden then decided to explain matters with the help of a [Zmowa](@/tt/zmowa.md) friend, Marco, while Queen asked the help of Isnorr, a fellow citizen of Poznań.
+* On 18.04.2026 the match between Olgierd and Max Speed was updated to a Dog Collar Match. This announcement followed a [video][piesomecz] of the bald hooligan attacking Speed backstage with a steel chain, aggressively questioning his validity as an [unspecified Champion](@/c/ptw-underground-championship.md).
 
 ## Card
 
@@ -31,6 +32,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 - - '[Olgierd](@/w/olgierd.md)(c)'
   - '[Max Speed](@/w/max-speed.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: Dog Collar Match 
     nc: upcoming
 - - '["Ladykiller" Boro](@/w/boro.md)'
   - '[Mutant](@/w/mutant.md)'
@@ -68,3 +70,4 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) i
 [venue-bio]: https://goingapp.pl/miejsce/p23 
 [venue-fb]: https://www.facebook.com/scenap23/
 [hardkorowa-zapowiedz]: https://www.facebook.com/photo/?fbid=1509488814514839&set=a.499910772139320
+[piesomecz]: https://www.facebook.com/reel/996935399429424
