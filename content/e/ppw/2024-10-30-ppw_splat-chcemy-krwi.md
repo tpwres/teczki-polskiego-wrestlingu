@@ -10,7 +10,6 @@ city = "Warszawa"
 toclevel = 2
 has_video = true
 [extra.gallery]
-1 = { path = "ppw-chcemy-krwi-plakat.jpg", caption = "Official poster.", source = "SplatFilmFest.com"}
 +++
 
 "Chcemy Krwi!" (_We Want Blood!_) was a PpW event held in collaboration with horror film festival [Splat!FilmFest](@/o/splat.md), on October 30th, 2024.

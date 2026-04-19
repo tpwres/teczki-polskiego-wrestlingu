@@ -4,6 +4,7 @@
 0004 = { path = "fox-vs-vic.webp", caption = "Image announcing [Axel Fox](@/w/jakub.md) vs [Vic Golden](@/w/vic-golden.md) in a Chairs Match.", source = "Official PpW Facebook" }
 0005 = { path = "gobliniak.webp", caption = "Image announcing [Goblin](@/w/goblin.md) vs [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Official PpW Facebook" }
 0006 = { path = "luchadoresz.webp", caption = "Image announcing the return of [Wonder Haze](@/w/wonder-haze.md) and [Sentinel](@/w/sentinel.md).", source = "Official PpW Facebook" }
+0007 = { path = "test-wielokrotnego-wyboru-platy.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md).", source = "Official PpW Facebook" }
 [9999]
 path = "alt-poster.webp"
 caption = """\

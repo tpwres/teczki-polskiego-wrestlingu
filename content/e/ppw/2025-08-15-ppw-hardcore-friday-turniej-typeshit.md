@@ -23,6 +23,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 * On 19.07.2025 PpW announced [Axel Fox](@/w/jakub.md) vs [Vic Golden](@/w/vic-golden.md) in a Chairs Match.
 * On 22.07.2025 PpW [announced](https://www.facebook.com/share/p/1ZQiQT5gcz/) that [Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md) would be Goblin's opponent of choice for the non-title match.
 * On 29.07.2025 PpW announced the return of [Sentinel](@/w/sentinel.md) and [Wonder Haze](@/w/wonder-haze.md), last seen at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md).
+* Lastly, on 1.08.2025 came the announcement of the second challenge in [Plata's](@/w/plata.md) Grand Trial.
 
 ## Card
 

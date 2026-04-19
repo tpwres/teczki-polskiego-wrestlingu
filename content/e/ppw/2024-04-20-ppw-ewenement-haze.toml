@@ -1,0 +1,9 @@
+01 = { path = "ppw_420_plakat.jpg", caption = "Show poster, released on March 27, 2024 on Facebook.", source = "Official PpW Facebook"}
+02 = { path = "bill-feager-vs-mister-z.webp", caption = "Image announcing [Bill Feager](@/w/feager.md) vs [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
+03 = { path = "goblin-vs-benny-bacchus-vs-rafi-vs-isnorr.webp", caption = "Image announcing [Goblin](@/w/goblin.md) vs Benny Bacchus vs [Rafi](@/w/rafi.md) vs [Isnorr](@/w/isnorr.md).", source = "Official PpW Facebook"}
+04 = { path = "alex-arthur-vs-stanislav-van-dobroniak.webp", caption = "Image announcing [Alex Arthur](@/w/alex-arthur.md) vs [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source = "Official PpW Facebook"}
+05 = { path = "pure-gold-vs-baklava-club.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden](@/w/vic-golden.md) vs Aytac Bahar & Joshua Amaru.", source = "Official PpW Facebook"}
+06 = { path = "nick-schreier-vs-samson-vs-gustav-gryffin.webp", caption = "Image announcing Nick Schreier vs [Samson](@/w/samson.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official PpW Facebook"}
+07 = { path = "biesiad-strong-vs-rambo.webp", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md) vs Rambo.", source = "Official PpW Facebook"}
+10 = { path = "ewenement-haze-420-match.jpg", caption = "Critical 4/20 Ladder Match - [Goblin](@/w/goblin.md) elbow drops onto [Rafi](@/w/rafi.md), held on a table by Benny Bacchus.", source = "Ville Paananen"}
+11 = { path = "ewenement-haze-mister-z.jpg", caption = "[Mister Z](@/w/mister-z.md) posing on a turnbuckle, with [Referee Kornel](@/w/sedzia-kornel.md) and [Michael HT](@/w/michael-ht.md) standing to the side.", source = "Ville Paananen"}

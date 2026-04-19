@@ -1,4 +1,10 @@
 0001 = { path = "turniej-typeshit.webp", caption = "Official poster, featuring [Goblin](@/w/goblin.md) (left), [Mister Z](@/w/mister-z.md) (right) and [Michael HT](@/w/michael-ht.md) (bottom-right).", source = "Official PpW Facebook"}
 0002 = { path = "biesiad-gryffin.webp", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official PpW Facebook"}
-0003 = { path = "lyso-i-ostro.webp", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md) vs [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook"}
-0004 = { path = "jakis-debiutant.webp", caption = "Image announcing the debut of a new [Ewenement Dojo](@/o/ewenement-dojo.md) trainee.", source = "Official PpW Facebook"}
+0003 = { path = "johnny-blade.webp", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook"}
+0004 = { path = "lyso-i-ostro.webp", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md) vs [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook"}
+0005 = { path = "jakis-debiutant.webp", caption = "Image announcing the debut of a new [Ewenement Dojo](@/o/ewenement-dojo.md) trainee.", source = "Official PpW Facebook"}
+0006 = { path = "oskar-alexander-agentka-agatka.webp", caption = "Image announcing [Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official PpW Facebook"}
+0007 = { path = "marco-hammers.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md).", source = "Official PpW Facebook"}
+0008 = { path = "mister-z.webp", caption = "Image announcing [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
+0009 = { path = "goblin.webp", caption = "Image announcing [Goblin](@/w/goblin.md).", source = "Official PpW Facebook"}
+0010 = { path = "bartosz-plata.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md).", source = "Official PpW Facebook"}

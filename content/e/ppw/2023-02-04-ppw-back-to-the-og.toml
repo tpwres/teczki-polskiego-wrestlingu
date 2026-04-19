@@ -1,0 +1,6 @@
+01 = { path = "2023-02-04-ppw-back-to-the-og-plakat.jpg", caption = "Official banner, showing a scene from [Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md), with Rob Scaffold (left) and Biesiad (right) perched on turnbuckles, ready to jump onto Mister Z and Johnny Blade laid out on tables.", source = "Official PpW Facebook" }
+02 = { path = "2023-02-04-ppw-back-to-the-og-plakat-blade.jpg", caption = "Official poster, depicting [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
+03 = { path = "mister-z-vs-jacob-crane.webp", caption = "Image announcing [Mister Z](@/w/mister-z.md) vs [Jacob Crane](@/w/jacob-crane.md).", source = "Official PpW Facebook" }
+04 = { path = "bill-feager-ms-xxx-vs-ricardo-diesel.webp", caption = "Image announcing [Bill Feager](@/w/feager.md) w/ Ms. XXX vs [Ricardo Diesel](@/w/ricardo-diesel.md).", source = "Official PpW Facebook" }
+05 = { path = "biesiad-vs-isnorr.webp", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md) vs [Isnorr](@/w/isnorr.md).", source = "Official PpW Facebook" }
+06 = { path = "kapitan-bazooka-vs-royal-striker.webp", caption = "Image announcing [Kapitan Bazooka](@/w/kapitan-bazooka.md) vs [Royal Striker](@/w/royal-striker.md).", source = "Official PpW Facebook" }

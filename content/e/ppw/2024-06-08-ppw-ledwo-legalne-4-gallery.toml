@@ -1,11 +1,17 @@
 01 = { path = "plakat_ll4.jpg", caption = "Show poster, released on Apr 28, 2024 on Facebook. Pictured in the first row are: [Johnny Blade](@/w/johnny-blade.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) with the [Ultraviolent championship](@/c/ppw-european-ultraviolent-championship.md) belt, [Alex Arthur](@/w/alex-arthur.md). In the second row: [Goblin](@/w/goblin.md), [Biesiad Strong](@/w/biesiad.md), [Bill Feager](@/w/feager.md) with the [PpW Championship](@/c/ppw-championship.md), [Mister Z](@/w/mister-z.md) and [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official PpW Facebook"}
-02 = { path = "robert_star_is_ewenement.jpg", caption = "Graphics announcing [Robert Star](@/w/robert-star.md), released on May 11, 2024 on Facebook.", source="Official PpW Facebook"}
-03 = { path = "legia-entrance.jpg", caption = "[Legia](@/w/marco-hammers.md) [Łysych](@/w/olgierd.md) make a surprise appearance. The Titantron display shows a scene from [PTW Underground 17](@/e/ptw/2023-09-03-ptw-underground-17.md).", source = "Krzysztof Zych" }
-04 = { path = "robert-star-mic.jpg", caption = "[Robert Star](@/w/robert-star.md) with his UEWA belt.", source = "Krzysztof Zych" }
-05 = { path = "mef-the-death.jpg", caption = "Sigmarson's opponent Mef the Death.", source = "Krzysztof Zych" }
-06 = { path = "biesiad-ladder.jpg", caption = "[Biesiad Strong](@/w/biesiad.md) with a ladder.", source = "Krzysztof Zych"}
-07 = { path = "gustav-goblin.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) putting a barbed wire crown on [Goblin](@/w/goblin.md).", source = "Krzysztof Zych"}
-08 = { path = "biesiad-619-gustav.jpg", caption = "[Biesiad](@/w/biesiad.md) landing a 619 on [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Krzysztof Zych"}
-09 = { path = "kornel-ppw-uv.jpg", caption = "[Referee Kornel](@/w/sedzia-kornel.md) holding the PpW European Ultraviolent Championship upside-down.", source = "Krzysztof Zych"}
-10 = { path = "johnny-blade.jpg", caption = "[Johnny Blade](@/w/johnny-blade.md), with Dobroniak behind him.", source = "Krzysztof Zych" }
-11 = { path = "alex-arthur.jpg", caption = "[Alex Arthur](@/w/alex-arthur.md) inserting himself into the main event.", source = "Krzysztof Zych"}
+02 = { path = "gustav-gryffin-vs-goblin.webp", caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Goblin](@/w/goblin.md).", source="Official PpW Facebook"}
+03 = { path = "biesiad-vs-feager-vs-mister-z.webp", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md) vs [Bill Feager](@/w/feager.md) vs [Mister Z](@/w/mister-z.md).", source="Official PpW Facebook"}
+04 = { path = "robert_star_is_ewenement.jpg", caption = "Image announcing [Robert Star](@/w/robert-star.md).", source="Official PpW Facebook"}
+05 = { path = "robert-star-vs-samson.webp", caption = "Image announcing [Robert Star](@/w/robert-star.md) vs [Samson](@/w/samson.md).", source="Official PpW Facebook"}
+06 = { path = "pure-gold.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) & [Vic Golden's](@/w/vic-golden.md).", source="Official PpW Facebook"}
+07 = { path = "johnny-blade-vs-stanislaw-van-dobroniak.webp", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md) vs [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).", source="Official PpW Facebook"}
+08 = { path = "jakub-sigmarsson.webp", caption = "Image announcing [Jakub Sigmarsson](@/w/jakub-linde.md).", source="Official PpW Facebook"}
+11 = { path = "legia-entrance.jpg", caption = "[Legia](@/w/marco-hammers.md) [Łysych](@/w/olgierd.md) make a surprise appearance. The Titantron display shows a scene from [PTW Underground 17](@/e/ptw/2023-09-03-ptw-underground-17.md).", source = "Krzysztof Zych" }
+12 = { path = "robert-star-mic.jpg", caption = "[Robert Star](@/w/robert-star.md) with his UEWA belt.", source = "Krzysztof Zych" }
+13 = { path = "mef-the-death.jpg", caption = "Sigmarson's opponent Mef the Death.", source = "Krzysztof Zych" }
+14 = { path = "biesiad-ladder.jpg", caption = "[Biesiad Strong](@/w/biesiad.md) with a ladder.", source = "Krzysztof Zych"}
+15 = { path = "gustav-goblin.jpg", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) putting a barbed wire crown on [Goblin](@/w/goblin.md).", source = "Krzysztof Zych"}
+16 = { path = "biesiad-619-gustav.jpg", caption = "[Biesiad](@/w/biesiad.md) landing a 619 on [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Krzysztof Zych"}
+17 = { path = "kornel-ppw-uv.jpg", caption = "[Referee Kornel](@/w/sedzia-kornel.md) holding the PpW European Ultraviolent Championship upside-down.", source = "Krzysztof Zych"}
+18 = { path = "johnny-blade.jpg", caption = "[Johnny Blade](@/w/johnny-blade.md), with Dobroniak behind him.", source = "Krzysztof Zych" }
+19 = { path = "alex-arthur.jpg", caption = "[Alex Arthur](@/w/alex-arthur.md) inserting himself into the main event.", source = "Krzysztof Zych"}

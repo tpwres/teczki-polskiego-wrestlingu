@@ -9,6 +9,7 @@ venue=["2kola"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
+[extra.gallery]
 +++
 
 "Hardcore Friday: Barszcz z Krzesłami" (_Borscht with Chairs_) was an event in [PpW's](@/o/ppw.md) revived Hardcore Friday series, held on December 6th 2024, in PpW's original venue, motorcycle club [2KOŁA](@/v/2kola.md).
