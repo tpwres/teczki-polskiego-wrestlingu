@@ -35,7 +35,7 @@ has_video = false
   - '[_🇭🇺_ Blaze](@/w/blaze.md)'
   - s: World Cup Quarter Finals Match
 - - '[_🇮🇹_ El G](@/w/el-g.md)'
-  - '_🇺🇦_ [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
+  - '[_🇺🇦_ Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
   - s: World Cup Quarter Finals Match
 - - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
   - '[_🇩🇪_ Damian Adler](@/w/damian-adler.md)'
