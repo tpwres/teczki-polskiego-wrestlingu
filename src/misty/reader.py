@@ -78,6 +78,8 @@ class Reader:
                     yield nodename, self.bol, (Frontmatter.parse_frontmatter(content),)
                 case DataBlock(head='card', content=card):
                     yield 'Card', self.bol, (card,)
+                case DataBlock(head='championship', content=card):
+                    yield 'Championship', self.bol, (card,)
                 case LiquidContentBlock(head=head):
                     yield from self.handle_liquid_content(subnode, head, depth)
                 case LiquidExpr(content=content, head=head):

@@ -102,7 +102,7 @@ class DataBlock(LiquidBlock):
     Block zola/liquid function/macro call {% macro() %}...content...{% end %}, where head and end
     are on standalone lines. Cannot be used in a paragraph. Content is NOT parsed.
     """
-    allowed_heads = ('card',)
+    allowed_heads = ('card', 'championship')
 
     def __init__(self, matched_lines):
         super().__init__(matched_lines)
