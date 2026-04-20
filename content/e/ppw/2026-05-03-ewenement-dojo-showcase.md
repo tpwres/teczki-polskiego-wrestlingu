@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych"]
 chronology = ["ppw", "ewenement-dojo"]
 venue = ["2kola"]
 [extra]
-orgs = ["ewenement-dojo"]
+orgs = ["ppw", "ewenement-dojo"]
 city = "Warszawa"
 toclevel = 2
 has_video = false
