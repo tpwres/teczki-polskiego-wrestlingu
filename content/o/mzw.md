@@ -50,7 +50,7 @@ MZW frequently cooperated with German organizations, especially with Dresden-bas
 ## Polish wrestling scene
 
 Prior to 2021, MZW did not interact with other organizations in Poland.
-This changed with [PpW Poznań Supershow](@/e/ppw/2021-07-30-ppw-poznan-supershow.md), where talent from [PpW Ewenement](@/o/ppw.md) faced against MZW regulars [Aron Wake](@/w/aron-wake.md), [Isnorr](@/w/isnorr.md) and [Madman Charlie](@/w/madman-charlie.md). It was later revealed that this appearance wasn't fully allowed by MZW, and was one of the reasons for the "Green Revolution" in October 2021, which caused a mass exodus of MZW's talent group called [Zieloni](@/tt/zieloni.md).
+This changed with [PpW Poznań Supershow](@/e/ppw/2021-07-30-ppw-poznan-supershow.md), where talent from [PpW Ewenement](@/o/ppw.md) faced against MZW regulars [Aron Wake](@/w/aron-wake.md), [Isnorr](@/w/isnorr.md) and [Madman Charlie](@/w/sedzia-karol-gorski.md). It was later revealed that this appearance wasn't fully allowed by MZW, and was one of the reasons for the "Green Revolution" in October 2021, which caused a mass exodus of MZW's talent group called [Zieloni](@/tt/zieloni.md).
 
 In 2022, after quitting PTW, former MZW wrestler [Jacob Crane](@/w/jacob-crane.md) appeared at [PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md).
 In September 2023 the two organizations ran a [co-branded event](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), and 2024 saw MZW's founder [Shadow](@/w/shadow.md) compete at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).

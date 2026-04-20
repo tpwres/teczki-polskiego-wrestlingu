@@ -19,7 +19,7 @@ has_video = false
 - - '[Axel Fox](@/w/jakub.md)'
   - '[Ronny Kessler](@/w/ronny-kessler.md)'
 - - '[Justin Joy](@/w/justin-joy.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
 - - '[Asmund](@/w/asmund.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - s: 'Tables Match'

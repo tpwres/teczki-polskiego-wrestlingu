@@ -10,7 +10,7 @@
 00010 = { path = "niech-mu-gwiazda-gulasznosci-fuksem-nie-zagasnie.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) vs [Gulyás Öcsi](@/w/gulyas-ocsi.md) vs [Robert Star](@/w/robert-star.md).", source = "Official Legacy Facebook" }
 00100 = { path = "adi.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) opens the show.", source = "M3n747" }
 00102 = { path = "marco-nie-dostanie-kielbasy.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) argues with a fan.", source = "M3n747" }
-00103 = { path = "czarno-to-widze.webp", caption = "Curtis Black enters the ring. To the right stands [Sędzia Karol Górski](@/w/madman-charlie.md), [Marco Hammers](@/w/marco-hammers.md) peeks from the bottom.", source = "M3n747" }
+00103 = { path = "czarno-to-widze.webp", caption = "Curtis Black enters the ring. To the right stands [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Marco Hammers](@/w/marco-hammers.md) peeks from the bottom.", source = "M3n747" }
 00201 = { path = "wy-macie-mikolaja-my-mamy-sewiego.webp", caption = "Sędzia Seweryn puts hardcore gift bags in the ring while [Adrian Zgórski](@/w/adrian-zgorski.md) announces the match. In the background sits [Istotna Martynka](@/w/istotna-martynka.md).", source = "M3n747" }
 00202 = { path = "patrzcie-kto-przyplynal.webp", caption = "[Tony Sheen](@/w/riverman.md), arriving straight from the Bering Strait.", source = "M3n747" }
 00203 = { path = "paging-doctor-freud.webp", caption = "Tony Sheen and [Disco Pablo](@/w/disco-pablo.md) with their gifts.", source = "M3n747" }
@@ -26,7 +26,7 @@
 00301 = { path = "bardziej-jurek-niz-kiler-ale-co-tam.webp", caption = "[Boro's](@/w/boro.md) entrance.", source = "M3n747" }
 00302 = { path = "digitus-primus-in-rectum.webp", caption = "[Boro](@/w/boro.md) telegraphs his intentions…", source = "M3n747" }
 00303 = { path = "digitus-medius-ad-spectatores.webp", caption = "…only to change his mind.", source = "M3n747" }
-00304 = { path = "digitus-approbationis.webp", caption = "Unlike his opponent, [Marcelito](@/w/marcelito.md) approves of the audience. Next to him stands [Sędzia Karol Górski](@/w/madman-charlie.md).", source = "M3n747" }
+00304 = { path = "digitus-approbationis.webp", caption = "Unlike his opponent, [Marcelito](@/w/marcelito.md) approves of the audience. Next to him stands [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md).", source = "M3n747" }
 00401 = { path = "w-sumie-dawno-nie-jadlem-gulaszu.webp", caption = "[Gulyás Öcsi](@/w/gulyas-ocsi.md) makes his entrance. In the ring stand Sędzia Seweryn and Adrian Zgórski.", source = "M3n747" }
 00402 = { path = "rosetti-niechetny-filipowi.webp", caption = "[Rosetti](@/w/rosetti.md) directs some disapproving words at Filip Fux. Next to Rosetti stands Mister Chairman, while [Adrian Zgórski](@/w/adrian-zgorski.md) can be seen at the bottom.", source = "M3n747" }
 00403 = { path = "zmowa-przeciwko-gulaszowi.webp", caption = "Robert Star shakes the hand of Filip Fux.", source = "M3n747" }
@@ -34,7 +34,7 @@
 00405 = { path = "swoja-mother-to-ty-sobie-mozesz-cutter.webp", caption = "Gulyás Öcsi blocks Filip's Mother Cutter.", source = "M3n747" }
 00406 = { path = "filip-zwycieski.webp", caption = "[Filip Fux](@/w/filip-fux.md) declared the winner by [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
 00501 = { path = "szalik-niewygodny-ale-modny.webp", caption = "Olgierd's entrance.", source = "M3n747" }
-00502 = { path = "mam-pewne-domysly-co-olgierd-mogl-zobaczyc.webp", caption = "[Olgierd](@/w/olgierd.md) hit by Shadow with a Spinning Hurricanrana. To the right stands [Sędzia Karol Górski](@/w/madman-charlie.md).", source = "M3n747" }
+00502 = { path = "mam-pewne-domysly-co-olgierd-mogl-zobaczyc.webp", caption = "[Olgierd](@/w/olgierd.md) hit by Shadow with a Spinning Hurricanrana. To the right stands [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md).", source = "M3n747" }
 00503 = { path = "tyle-w-glowie-ile-na-glowie.webp", caption = "Maco Hammers distracts referee Karol Górski, [Shadow](@/w/shadow.md) catches his breath, Olgierd gets slapped by Shadow's girlfriend.", source = "M3n747" }
 00504 = { path = "legia-szalikowcow.webp", caption = "A fan brandishing his [Legia Łysych](@/tt/legia-lysych.md) scarf.", source = "M3n747" }
 00601 = { path = "prezes-krzeslinski.webp", caption = "Literal Mister Chairman.", source = "M3n747" }

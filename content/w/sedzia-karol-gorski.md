@@ -1,5 +1,5 @@
 +++
-title = "Madman Charlie"
+title = "Sędzia Karol Górski"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [extra]

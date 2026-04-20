@@ -65,7 +65,7 @@ The tube was signed by the following people:
 - [Rusałka](@/w/rusalka.md)
 - [Sambor](@/w/sambor.md)
 - [Samson](@/w/samson.md)
-- [Sędzia Karol Górski](@/w/madman-charlie.md)
+- [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)
 - [Sędzia Kornel](@/w/sedzia-kornel.md)
 - [Sędzia Seweryn](@/w/sedzia-seweryn.md)
 - [Shadow](@/w/shadow.md)

@@ -28,7 +28,7 @@ Aron Wake is a Polish wrestler known for his appearances in [Maniac Zone Wrestli
 Aron Wake started his pro-wrestling training in [Polska Akademia Wrestlingu](@/o/paw.md) during their 2018 Summer Camp held in Wrocław.
 His main coaches were [Shadow](@/w/shadow.md), [Justin Joy](@/w/justin-joy.md) and [Asmund](@/w/asmund.md).
 After a year of training he made his debut in a rookie battle royal at [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), which he won, with [Nathan Cross](@/w/gabriel-queen.md) as runner-up.
-Later on, he made his singles debut against [Madman Charlie](@/w/madman-charlie.md) at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), where he lost.
+Later on, he made his singles debut against [Madman Charlie](@/w/sedzia-karol-gorski.md) at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), where he lost.
 In 2018/2019 he became one of the founding members of ["The Greens"](@/tt/zieloni.md).
 
 During the COVID-19 pandemic he become one of the regularly-appearing workers in an MZW taped show called MZW Project Basement.

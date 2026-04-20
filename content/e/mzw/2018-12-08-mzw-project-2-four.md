@@ -32,7 +32,7 @@ has_video = true
   - 'Gabriel Magic'
 - - '[Shadow](@/w/shadow.md)'
   - '[Damien Rothschild](@/w/damian-lambert.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: 'Tournament Final Four Way Match'

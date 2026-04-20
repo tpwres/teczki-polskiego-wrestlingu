@@ -62,10 +62,10 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
   - >
     [Sędzia Seweryn](@/w/sedzia-seweryn.md) &
     [Sędzia Kornel](@/w/sedzia-kornel.md) &
-    [Sędzia Karol Górski](@/w/madman-charlie.md)
+    [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)
   - s: Referee Gauntlet Match
 - credits:
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Special Guest Referee: '[Marco Hammers](@/w/marco-hammers.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), [Istociarz](@/w/istociarz.md)'

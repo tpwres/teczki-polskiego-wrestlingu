@@ -23,7 +23,7 @@ The event name, which translates to "The Best Show in Town", is a reference to t
 - - 'Feyyaz Aguila'
   - 'Joshua Amaru'
 - - '[Mister Z](@/w/mister-z.md) & [Ricardo Diesel](@/w/ricardo-diesel.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md) & [Tony Sk1n](@/w/tony-sk1n.md) w/ [Osamu](@/w/osamu.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md) & [Tony Sk1n](@/w/tony-sk1n.md) w/ [Osamu](@/w/osamu.md)'
   - s: 'Tag Team Match'
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)(c)'
   - '[Johnny Blade](@/w/johnny-blade.md)'

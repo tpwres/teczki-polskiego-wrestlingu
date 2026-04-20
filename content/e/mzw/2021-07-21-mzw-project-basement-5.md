@@ -16,7 +16,7 @@ Project Basement 5 is the fifth episode of [MZW's](@/o/mzw.md) taped wrestling s
 
 {% card() %}
 - - '[Aron Wake](@/w/aron-wake.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - nc: 'Double Count-out'
 - - '[Krueger](@/w/olgierd.md)'
   - '[Isnorr](@/w/isnorr.md)'

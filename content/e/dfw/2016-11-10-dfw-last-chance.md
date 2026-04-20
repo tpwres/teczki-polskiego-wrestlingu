@@ -15,7 +15,7 @@ This event took place on Thursday, November 10th, 2016, in yet another school in
 ## Card
 
 {% card() %}
-- - '[Charlie](@/w/madman-charlie.md)'
+- - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - 'Faust XIII'
 - - '[PJ Blake](@/w/pj-blake.md)'
   - '[Malmo Buruto](@/w/malmo-buruto.md)'

@@ -16,7 +16,7 @@ has_video = false
 {% card() %}
 - - '[Asmund](@/w/asmund.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - s: 'Three Way Match'
 - - '[Lady Killer](@/w/boro.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'

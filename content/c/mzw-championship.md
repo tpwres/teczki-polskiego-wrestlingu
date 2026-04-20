@@ -142,7 +142,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 - - Shadow (c)
   - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - s: Fatal Four Way Match
     en: '[MZW Project 2: Four](@/e/mzw/2018-12-08-mzw-project-2-four.md)'
     ed: 2018-12-08

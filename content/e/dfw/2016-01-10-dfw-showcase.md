@@ -16,7 +16,7 @@ has_video = true
 {% card() %}
 - - '[PJ Blake](@/w/pj-blake.md)'
   - '[Joey Riddic](@/w/vic-golden.md)'
-- - '[Charlie Grayson](@/w/madman-charlie.md)'
+- - '[Charlie Grayson](@/w/sedzia-karol-gorski.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
 - - '[Malmo Buruto](@/w/malmo-buruto.md) & [Pain Killer](@/w/pain-killer.md)'
   - '[Chris Hunter](@/w/chris-hunter.md) & [Revage](@/w/rafael-kid.md)'

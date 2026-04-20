@@ -21,7 +21,7 @@ Norris made his DFW debut at this event. Since then, he appeared at every show t
 ## Card
 
 {% card() %}
-- - '[Charlie](@/w/madman-charlie.md)'
+- - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Norris](@/w/isnorr.md)'
   - s: Tournament Quarter Final Match
 - - '[PJ Blake](@/w/pj-blake.md)'

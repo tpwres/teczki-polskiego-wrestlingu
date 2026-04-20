@@ -17,7 +17,7 @@ Project Basement 2 is the second episode of [MZW's](@/o/mzw.md) taped wrestling 
 {% card() %}
 - - '[Krueger](@/w/olgierd.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
-- - '[Madman Charlie](@/w/madman-charlie.md)'
+- - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
 - - '[Shadow](@/w/shadow.md)'
   - '[Nathan Cross](@/w/gabriel-queen.md) w/ [Isnorr](@/w/isnorr.md)'

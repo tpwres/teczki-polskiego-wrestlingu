@@ -64,7 +64,7 @@ Polska Akademia Wrestlingu:
 * [Jacob Crane](@/w/jacob-crane.md)
 * [Konrad Von Koch](@/w/konrad-von-koch.md)
 * Leo Zayde
-* [Madman Charlie](@/w/madman-charlie.md)
+* [Madman Charlie](@/w/sedzia-karol-gorski.md)
 * [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
 * Michael Payne
 * [Olgierd](@/w/olgierd.md)

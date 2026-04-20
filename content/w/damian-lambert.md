@@ -37,7 +37,7 @@ After DDW's tranformation into [Kombat Pro Wrestling](@/o/kpw.md) Damian remaine
 
 Damian won his debut match for [Maniac Zone Wrestling](@/o/mzw.md), which was a Ten Man Battle Royal at [Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md).
 Following this event, he started appearing as Damien Rothschild. Right from the start he had a strong position in the roster, becoming one of the top villains.
-At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) he defeated [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a Tournament Semi Final Match for the [MZW Championship](@/c/mzw-championship.md), which allowed him to take part in the Tournament Final against [Madman Charlie](@/w/madman-charlie.md), [Rafael Kid](@/w/rafael-kid.md) and the champion Shadow at [Project 2](@/e/mzw/2018-12-08-mzw-project-2-four.md).
+At [Project 1](@/e/mzw/2018-10-13-mzw-project-1-new-beginning.md) he defeated [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a Tournament Semi Final Match for the [MZW Championship](@/c/mzw-championship.md), which allowed him to take part in the Tournament Final against [Madman Charlie](@/w/sedzia-karol-gorski.md), [Rafael Kid](@/w/rafael-kid.md) and the champion Shadow at [Project 2](@/e/mzw/2018-12-08-mzw-project-2-four.md).
 During the match Shadow pinned Charlie, and Rothschild put an armbar on Kid who tapped out immediately, before the referee counted the pin.
 However, the referee did not see the tap-out, and awarded the win to Shadow. The angry Rothschild hit Shadow with a steel chair, which led to their match at [Project 3](@/e/mzw/2019-02-09-mzw-project-3-black-white.md).
 

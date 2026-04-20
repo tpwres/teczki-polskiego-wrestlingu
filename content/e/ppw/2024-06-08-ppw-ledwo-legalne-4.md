@@ -83,7 +83,7 @@ Shortly before the show, they were trading insults and challeneges online with L
     n: Originally a 1-on-1 match; the other two opponents added themselves.
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Interviewer: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
 {% end %}
 

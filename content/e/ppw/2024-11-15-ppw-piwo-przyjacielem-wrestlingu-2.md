@@ -37,7 +37,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - s: Hardcore Match
     c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
 - - '[Isnorr](@/w/isnorr.md)'
-  - '[Karol Górski (2)](@/w/madman-charlie.md)'
+  - '[Karol Górski (2)](@/w/sedzia-karol-gorski.md)'
   - s: Non-title Match
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
@@ -126,7 +126,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
     n: Bonus CBD unmasked mid-match to reveal he was Gabriel Queen all along
 - credits:
     Ring Announcer, Host: '[Michael HT](@/w/michael-ht.md), [Rysiu Benzynka](@/w/joker.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
 ## References

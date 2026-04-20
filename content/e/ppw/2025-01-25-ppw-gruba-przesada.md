@@ -81,7 +81,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
     r: Time-Out
     n: 15 minute time limit
 - credits:
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Guest Ring Announcer: '[Joker](@/w/joker.md)'
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Guest Commentary: '[Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'

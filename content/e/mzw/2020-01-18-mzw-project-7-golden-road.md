@@ -14,7 +14,7 @@ has_video = false
 ## Card
 
 {% card() %}
-- - '[Madman Charlie](@/w/madman-charlie.md)'
+- - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
 - - '[Matt Buckna](@/w/matt-buckna.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'

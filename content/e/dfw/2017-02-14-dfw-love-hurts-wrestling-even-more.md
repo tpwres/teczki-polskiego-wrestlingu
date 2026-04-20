@@ -31,7 +31,7 @@ Also, in his only appearance for the organization, fans saw [PpW's](@/o/ppw.md) 
   - '[Rob Scaffold](@/w/rob-scaffold.md) & [Norris](@/w/isnorr.md)'
   - s: Tag Team Match
 - - '[Chris Hunter](@/w/chris-hunter.md)(c)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - c: '[DFW Championship](@/c/dfw-championship.md)'
 {% end %}
 

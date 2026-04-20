@@ -50,7 +50,7 @@ MZW Project 8 was announced on 29.02.2020, set to take place on 25.04.2020. A fe
 
 ### Highlights
 
-* [Konrad von Koch](@/w/konrad-von-koch.md), who hosted the Project Basement series, intervened in the tournament. He ejected [Madman Charlie](@/w/madman-charlie.md) from the second match and replaced him with Aron Wake, the winner of Project Basement. As a result, the planned Four Way Match (Wake vs Krueger vs Isnorr vs Black) became a Three Way Match.
+* [Konrad von Koch](@/w/konrad-von-koch.md), who hosted the Project Basement series, intervened in the tournament. He ejected [Madman Charlie](@/w/sedzia-karol-gorski.md) from the second match and replaced him with Aron Wake, the winner of Project Basement. As a result, the planned Four Way Match (Wake vs Krueger vs Isnorr vs Black) became a Three Way Match.
 
 ## References
 
