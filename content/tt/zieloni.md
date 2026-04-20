@@ -30,7 +30,7 @@ During the COVID-19 pandemic break the Greens remained strongly bonded, but due 
 
 #### Zieloni in Prime Time Wrestling
 
-After officially leaving MZW, most of active Zieloni members (excluding [Isnorr](@/w/isnorr.md), Rafael Kid and [Madman Charlie](@/w/madman-charlie.md), who joined PpW) joined Prime Time Wrestling in late 2021/early 2022. That was when they have become widely known as "Zieloni" - a name that came from their previous promotion's color scheme. Due to their solidarity and strong bond they became one of the main factions in PTW's locker room. The other factions were "the Originals" (who started in PTW, or joined PTW very early in its development) and "the Blues" (ex-[KPW](@/o/kpw.md)).
+After officially leaving MZW, most of active Zieloni members (excluding [Isnorr](@/w/isnorr.md), Rafael Kid and [Madman Charlie](@/w/sedzia-karol-gorski.md), who joined PpW) joined Prime Time Wrestling in late 2021/early 2022. That was when they have become widely known as "Zieloni" - a name that came from their previous promotion's color scheme. Due to their solidarity and strong bond they became one of the main factions in PTW's locker room. The other factions were "the Originals" (who started in PTW, or joined PTW very early in its development) and "the Blues" (ex-[KPW](@/o/kpw.md)).
 
 After the honeymoon period had ended, the internal tensions in the organization began. They were caused mostly by disagreements between these groups, and the management that often favoured loyalty of the Originals over the other groups. The first Zielony to leave PTW was Jacob Crane, who was offically released by the promotion due to alleged "lack of professialism and acting to the detriment of the federation" in August 2022. According to Zieloni, it was mostly due to tensions between Crane, the Originals and the management. These tensions stemmed from personal conflicts as well as Jacob's desire to focus on his career outside of Poland, as well as his willingness to coach his collegues in PpW Dojo. This was against the rules set by Pawłowski, who banned PTW talent from interacting with other Polish federations.
 
@@ -60,7 +60,7 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
 * [Jacob Crane](@/w/jacob-crane.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
-* [Madman Charlie](@/w/madman-charlie.md) {{ org_badge(orgs=['mzw', 'ppw', 'low']) }}
+* [Madman Charlie](@/w/sedzia-karol-gorski.md) {{ org_badge(orgs=['mzw', 'ppw', 'low']) }}
 * [Olgierd](@/w/olgierd.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Rafael Kid](@/w/rafael-kid.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
 * [Sewi](@/w/sedzia-seweryn.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}

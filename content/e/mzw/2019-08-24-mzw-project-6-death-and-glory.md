@@ -15,7 +15,7 @@ has_video = false
 
 {% card() %}
 - - '[Rafael Kid](@/w/rafael-kid.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Open Challenge Four Way Match'

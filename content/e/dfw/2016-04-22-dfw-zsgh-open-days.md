@@ -16,7 +16,7 @@ On Friday, April 22nd 20216 [DFW](@/o/dfw.md) held a showcase in {{ map_pin(v="Z
 
 {% card() %}
 - - '[Malmo Buruto](@/w/malmo-buruto.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
   - s: Triple Threat Match
 - - '[PJ Blake](@/w/pj-blake.md)'

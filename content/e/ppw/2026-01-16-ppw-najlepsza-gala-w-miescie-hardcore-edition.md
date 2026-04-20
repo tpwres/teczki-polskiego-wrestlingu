@@ -66,7 +66,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
     nc: Double Count-Out
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Karol](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Karol](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Commentary: '[Istociarz](@/w/istociarz.md), [Isnorr](@/w/isnorr.md)'
 {% end %}
 

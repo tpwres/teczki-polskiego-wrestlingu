@@ -18,7 +18,7 @@ Unlike the previous Tournament of Dreams, massive by DFW's standards, this event
 
 {% card() %}
 - - '[Revage](@/w/rafael-kid.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - r: 'Submission'
 - - '[Corin Mear](@/w/corin-mear.md)'
   - '[Norris](@/w/isnorr.md)'

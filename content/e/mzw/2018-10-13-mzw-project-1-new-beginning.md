@@ -29,7 +29,7 @@ has_video = true
   - '[Asmund](@/w/asmund.md)'
   - '[Axel Fox](@/w/jakub.md)'
   - s: Triple Threat Match
-- - '[Madman Charlie](@/w/madman-charlie.md)'
+- - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - r: 'DQ'
     c: '[MZW Championship](@/c/mzw-championship.md)'

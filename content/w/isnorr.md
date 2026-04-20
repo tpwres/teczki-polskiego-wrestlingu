@@ -27,7 +27,7 @@ Isnorr, previously known as Norris, is a Polish wrestler and occasional commenta
 ### Dream Factory Wrestling (2016-2018)
 
 Norris started his career in [Dream Factory Wrestling](@/o/dfw.md), a backyard federation based in Toruń.
-His first match took place in June 2016, where he was one of the contenders in the [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md), losing in the quarter finals to [Charlie](@/w/madman-charlie.md).
+His first match took place in June 2016, where he was one of the contenders in the [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md), losing in the quarter finals to [Charlie](@/w/sedzia-karol-gorski.md).
 He was portrayed as a babyface persona, and since his debut, he appeared at most of DFW's shows.
 The highlight of his career in DFW came at [Charity Gauntlet](@/e/dfw/2018-03-08-dfw-charity-gauntlet-match.md) in March 2018, where he defeated [Chris Hunter](@/w/chris-hunter.md) in a Gauntlet Match for the vacated [DFW Championship](@/c/dfw-championship.md).
 As the champion, he managed to score a successful title defense against [Rob Scaffold](@/w/rob-scaffold.md) at [Crosswords City 2](@/e/dfw/2018-06-09-dfw-crosswords-city-2.md) - the final show ever produced by Dream Factory Wrestling.

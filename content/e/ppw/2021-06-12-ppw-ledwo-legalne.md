@@ -18,7 +18,7 @@ Ledwo Legalne (_Barely Legal_) was a show by [PpW Ewenement Wrestling](@/o/ppw.m
 {% card() %}
 - - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
-- - '[Madman Charlie](@/w/madman-charlie.md)'
+- - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Isnorr](@/w/isnorr.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Adam Wong](@/w/adam-wong.md)'

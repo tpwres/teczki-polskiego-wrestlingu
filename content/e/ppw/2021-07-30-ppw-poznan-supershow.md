@@ -68,7 +68,7 @@ Some matches featured wrestlers poorly disguised with masks, fighting as another
   - '[Tony Sk1n](@/w/tony-sk1n.md)'
   - nc: '?'
 - - '[Cade Bruce](@/w/mister-z.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - nc: '?'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Adam Wong](@/w/adam-wong.md)'

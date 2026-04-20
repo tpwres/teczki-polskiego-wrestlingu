@@ -20,7 +20,7 @@ Project Basement 3 is the third episode of [MZW's](@/o/mzw.md) taped wrestling s
   - '[Shadow](@/w/shadow.md)'
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
-- - '[Madman Charlie](@/w/madman-charlie.md)'
+- - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - s: 'Loser Leaves MZW Best Two Out Of Three Falls'
 - credits:

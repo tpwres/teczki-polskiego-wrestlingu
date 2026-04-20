@@ -24,7 +24,7 @@ Chris Hunter did double duty, as Malmo Buruto who was supposed to face Corin Mea
   - s: Triple Threat Match
 - - '[Revage](@/w/rafael-kid.md)'
   - '[Chris Hunter](@/w/chris-hunter.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - s: Triple Threat Match
 {% end %}
 

@@ -55,7 +55,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
   - s: OG PpW Hardcore Dark Match
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 

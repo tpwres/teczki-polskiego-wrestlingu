@@ -18,7 +18,7 @@ Project Basement 6 is the sixth and final episode of [MZW's](@/o/mzw.md) taped w
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - '[Krueger](@/w/olgierd.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Shadow](@/w/shadow.md)'

@@ -63,7 +63,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Pre-show Host: '[Joker](@/w/joker.md)'
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Istociarz](@/w/istociarz.md), [Joker](@/w/joker.md)'
     Guest commentary: '[Isnorr](@/w/isnorr.md)'
 {% end %}

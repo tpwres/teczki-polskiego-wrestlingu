@@ -47,7 +47,7 @@ The show was quickly sold out, so the attendance can be approximated at about 22
   - '[Axel Fox](@/w/jakub.md)'
   - s: 'Christmas Street Fight'
 - credits:
-    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Host: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
@@ -62,7 +62,7 @@ Timestamps refer to the Istota Wrestlingu YouTube videos linked in the [Referenc
 * Timestamp: `0:00:22`
 * [Michael HT](@/w/michael-ht.md) enters the ring and greets the audience. The crowd chants "OG!"
 * HT hypes up the crowd into screaming "Wesołych Świąt!" (_Merry Christmas!_) and generally warms up the crowd.
-* [Sędzia Karol Górski](@/w/madman-charlie.md) enters the ring as HT introduces him, and crowd is chants his name.
+* [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md) enters the ring as HT introduces him, and crowd is chants his name.
 * After a while Michael HT announces the first fight - a Fatal Four Way Match - and remarks that the winner would be given a special gift from Santa.
 
 #### Fatal Four Way Match: Olgierd vs Oskar Alexander vs Gabriel Queen vs Goblin 

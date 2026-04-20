@@ -61,7 +61,7 @@ Ledwo Legalne 5 (_Barely Legal 5_) was [PpW Ewenement's](@/o/ppw.md) major show 
     s: Three Stages Of Hell
 - credits:
     Hosts, Ring Announcers: '[Michael HT](@/w/michael-ht.md), [Joker](@/w/joker.md)'
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
     Commentary: '[Joker](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
 {% end %}
 

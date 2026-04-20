@@ -20,7 +20,7 @@ The same festival and location would host [Tournament of Dreams](@/e/dfw/2016-06
 - - '[Jay Revolt](@/w/jay-revolt.md)'
   - '[PJ Blake](@/w/pj-blake.md)'
 - - '[Corin Mear](@/w/corin-mear.md) & [Malmo Buruto](@/w/malmo-buruto.md)'
-  - '[Pain Killer](@/w/pain-killer.md) & [Charlie Grayson](@/w/madman-charlie.md)'
+  - '[Pain Killer](@/w/pain-killer.md) & [Charlie Grayson](@/w/sedzia-karol-gorski.md)'
   - s: Tag Team Match
 - - '[Chris Hunter](@/w/chris-hunter.md)'
   - '[Revage](@/w/rafael-kid.md)'

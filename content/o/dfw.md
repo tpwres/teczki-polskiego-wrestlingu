@@ -13,7 +13,7 @@ manifest = "@/o/dfw-gallery.toml"
 
 Dream Factory Wrestling was a short-lived wrestling organization from Toruń, established in 2015 and founded by [Chris Hunter](@/w/chris-hunter.md), [Revage](@/w/rafael-kid.md), [PJ Blake](@/w/pj-blake.md), [Corin Mear](@/w/corin-mear.md) and [Pain Killer](@/w/pain-killer.md).
 Widely considered to be just another backyard, they nevertheless managed to hold multiple showcases and events in 2016, before fizzling out at the end of 2017.
-DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them, such as [Amisz](@/w/jakub.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/madman-charlie.md), later received proper training in places like [PAW](@/o/paw.md), but only after DFW dissolved.
+DFW wrestlers were not trained by an experienced pro wrestler directly, nor by someone who received such training. Some of them, such as [Amisz](@/w/jakub.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/sedzia-karol-gorski.md), later received proper training in places like [PAW](@/o/paw.md), but only after DFW dissolved.
 Dream Factory, unlike other backyards, did not do any sort of ultraviolent matches. They did dabble in hardcore wrestling, as several Street Fight-style matches were held, with kendo sticks, chairs, ladders and Legos.
 
 ## History
@@ -36,7 +36,7 @@ An interesting event was [Lesson of Respect](@/e/dfw/2016-10-29-dfw-lesson-of-re
 
 The next year only saw six DFW shows, some with as many as five matches on the card (whereas in the previous years three matches were typical). DFW gained its first female wrestler, who debuted in the ring on their [Valentine's day show](@/e/dfw/2017-02-14-dfw-love-hurts-wrestling-even-more.md). More characters from the Polish scene appeared: PpW's [Steven Strong](@/w/biesiad.md) at that same show, later joined by [Cade Bruce](@/w/mister-z.md).
 
-However, later in the year, two important characters left to subsequently appear in [MZW](@/o/mzw.md): [Charlie](@/w/madman-charlie.md) and [Revage](@/w/rafael-kid.md), the DFW Champion at the time. On October 29th, Hunter posted about the organization suspending its activity.
+However, later in the year, two important characters left to subsequently appear in [MZW](@/o/mzw.md): [Charlie](@/w/sedzia-karol-gorski.md) and [Revage](@/w/rafael-kid.md), the DFW Champion at the time. On October 29th, Hunter posted about the organization suspending its activity.
 
 ### 2018: Final shows, on-line activity
 
@@ -58,7 +58,7 @@ On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating 
 DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. 
 DFW had an amicable relationship with _What is Wrestling_ portal. Mikita "Seth Donner" Varanovich introduced [Amisz](@/w/jakub.md) to the promotion, as well as provided commentary for various shows, alongside WiW's Marcel Koniecki. At [Recent Dreams](@/e/dfw/2017-04-23-dfw-recent-dreams.md) PJ Blake had a comedy match against [Amisz](@/w/jakub.md), at that time merely an Internet personality (also from _What is Wrestling_) still to make his [debut for MZW](@/e/mzw/2017-12-02-mzw-freak-show.md) later that year. Direk and Charlie also returned to the new, more professional PpW after 2019.
 
-After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the [Polish Wrestling Academy](@/o/paw.md) (PAW), which is MZW's wrestling school; it later became known that they included [Amisz](@/w/jakub.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/madman-charlie.md). All four then joined MZW, and later PpW. While Revage and Norris have since retired, Amisz and Charlie are still active - the former wrestles for PpW and [Legacy of Wrestling](@/o/low.md), while the latter is one of PpW's referees (and recently, also Legacy's).
+After the organization dissolved in 2018, some unspecified wrestlers were announced to have joined the [Polish Wrestling Academy](@/o/paw.md) (PAW), which is MZW's wrestling school; it later became known that they included [Amisz](@/w/jakub.md), [Norris](@/w/isnorr.md), [Revage](@/w/rafael-kid.md) and [Charlie](@/w/sedzia-karol-gorski.md). All four then joined MZW, and later PpW. While Revage and Norris have since retired, Amisz and Charlie are still active - the former wrestles for PpW and [Legacy of Wrestling](@/o/low.md), while the latter is one of PpW's referees (and recently, also Legacy's).
 
 According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), multiple people from PpW and DFW trained with MZW. Under one condition: MZW insisted that wrestlers who wanted to work for them could not perform in backyards, but were not stopped from appearing in other pro federations. 
 

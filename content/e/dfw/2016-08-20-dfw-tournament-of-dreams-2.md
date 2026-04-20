@@ -23,7 +23,7 @@ This event saw the DFW debuts of [Rob Scaffold](@/w/rob-scaffold.md) and [Direk]
 ## Card
 
 {% card() %}
-- - '[Charlie](@/w/madman-charlie.md)'
+- - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[PJ Blake](@/w/pj-blake.md)'
   - s: Tournament Semifinal Match
 - - '[Chris Hunter](@/w/chris-hunter.md)'
@@ -35,7 +35,7 @@ This event saw the DFW debuts of [Rob Scaffold](@/w/rob-scaffold.md) and [Direk]
 - - '[Direk](@/w/direk.md)'
   - '[Revage](@/w/rafael-kid.md)'
 - - '[Chris Hunter](@/w/chris-hunter.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - c: '[DFW Championship](@/c/dfw-championship.md)'
     s: Tournament Final Match
 - credits:

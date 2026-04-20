@@ -23,7 +23,7 @@ Christmas Brawl was held on December 6th, 2016, which was a Tuesday. December 6t
   - '[Pain Killer](@/w/pain-killer.md)'
   - c: '[DFW Championship](@/c/dfw-championship.md)'
     s: Open Challenge
-- - '[Charlie](@/w/madman-charlie.md)'
+- - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Direk](@/w/direk.md)'
   - s: '[DFW Championship](@/c/dfw-championship.md) #1 Contender Match'
 {% end %}

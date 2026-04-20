@@ -10,7 +10,7 @@ toclevel = 2
 has_video = true
 [extra.gallery.poster]
 path = "dfw-anniversary-poster.webp"
-caption = "Official poster, featuring [Charlie](@/w/madman-charlie.md), [Revage](@/w/rafael-kid.md), [Chris Hunter](@/w/chris-hunter.md), [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), Faust XIII, [Prince Victor](@/w/vic-golden.md), [Rob Scaffold](@/w/rob-scaffold.md)."
+caption = "Official poster, featuring [Charlie](@/w/sedzia-karol-gorski.md), [Revage](@/w/rafael-kid.md), [Chris Hunter](@/w/chris-hunter.md), [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), Faust XIII, [Prince Victor](@/w/vic-golden.md), [Rob Scaffold](@/w/rob-scaffold.md)."
 source = "Facebook @DreamFactoryWrestling"
 +++
 
@@ -29,11 +29,11 @@ Featuring a battle royale match to select the next contender for Revage's DFW ch
   - '[Chris Hunter](@/w/chris-hunter.md)'
 - - 'Faust XIII'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
 - - '[Prince Victor](@/w/vic-golden.md)'
   - '[Malmo Buruto](@/w/malmo-buruto.md)'
   - '[Cade Bruce](@/w/mister-z.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Black Orion](@/w/johnny-blade.md)'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - 'Matuch'

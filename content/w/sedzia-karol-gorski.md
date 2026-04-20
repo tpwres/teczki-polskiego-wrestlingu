@@ -1,5 +1,5 @@
 +++
-title = "Madman Charlie"
+title = "Sędzia Karol Górski"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [extra]
@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Madman Charlie, also known as Charlie Grayson, and as of 2024, as Sędzia Karol Górski, is a Polish wrestler and referee currently working for [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). He was also one of the original roster members of [Dream Factory Wrestling](@/o/dfw.md), later moving to [Maniac Zone Wrestling](@/o/mzw.md) when the Toruń-based backyard folded.
+Sędzia Karol Górski, also known as Charlie Grayson and Madman Charlie, is a Polish wrestler and referee currently working for [PpW Ewenement](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). He was also one of the original roster members of [Dream Factory Wrestling](@/o/dfw.md), later moving to [Maniac Zone Wrestling](@/o/mzw.md) when the Toruń-based backyard folded.
 
 ## Basic info
 
@@ -44,7 +44,7 @@ At [MZW Project 1: New Beggining](@/e/mzw/2018-10-13-mzw-project-1-new-beginning
 
 After the COVID-19 pandemic lockdown, Madman Charlie starred in a pre-taped MZW show called [MZW Project Basement](@/e/project-basement.md), where he broke up his alliance with Crane and defeated him in a Two Out Of Three Falls Loser Leaves MZW Match. His participation in the [sixth episode](@/e/mzw/2021-07-21-mzw-project-basement-6.md) of Project Basement marked the last time he officially worked for Maniac Zone Wrestling, as he, along with numerous other members of "Zieloni", left MZW.
 
-### Return to PpW Ewenement (2021-present)
+### Return to PpW Ewenement Wrestling (2021-present)
 
 #### Irregular appearances
 
@@ -52,7 +52,7 @@ Madman Charlie returned to PpW during their first show after the pandemic - [Led
 
 #### Becoming a referee & part-time wrestling
 
-Charlie, now again working under his "real-life" name Karol Górski, resumed his regular appearances in PpW by debuting as a referee at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February 2024. Since then, he made numerous regular appearances, working alongside [Referee Kornel](@/w/sedzia-kornel.md) and later also [Referee Sewi](@/w/sedzia-seweryn.md).
+Charlie, now again working under the name Karol Górski, resumed his regular appearances in PpW by debuting as a referee at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February 2024. Since then, he made numerous regular appearances, working alongside [Referee Kornel](@/w/sedzia-kornel.md) and later also [Referee Sewi](@/w/sedzia-seweryn.md).
 
 At [Hardcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) Karol Górski unexpectedly took part in the Insane Wheel of Fortune Gauntlet Invitational Match, hosted by [Johnny Blade](@/w/johnny-blade.md). Later on, he also worked a match against Isnorr at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md), a non-canon show in Poznań.
 

@@ -28,7 +28,7 @@ With five matches on the card, this was a big event by DFW's standards. In the m
 - - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
 - - '[Direk](@/w/direk.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - s: No Holds Barred Match
 - - '[Norris](@/w/isnorr.md) & [Corin Mear](@/w/corin-mear.md)'
   - '[Malmo Buruto](@/w/malmo-buruto.md) & Hekate'

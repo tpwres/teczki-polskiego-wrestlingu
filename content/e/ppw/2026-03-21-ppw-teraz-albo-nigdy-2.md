@@ -85,7 +85,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
   - s: '25 Typa, 25 Broni Battle Royal for the [PpW Championship](@/c/ppw-championship.md) opportunity at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
     Commentary: '[Istociarz](@/w/istociarz.md)'
  {% end %}
 
