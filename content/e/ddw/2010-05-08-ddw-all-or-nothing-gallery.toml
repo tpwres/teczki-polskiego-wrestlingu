@@ -41,11 +41,11 @@
 304 = { path = "gm-klarys-vs-rob-cage.webp", caption = "Gauntlet Match<br />Klarys vs Rob Cage.", source = "Jędruś Bułecka's private archives" }
 305 = { path = "gm-the-greatest.webp", caption = "Gauntlet Match<br />The Greatest.", source = "Jędruś Bułecka's private archives" }
 306 = { path = "gm-rob-cage-vs-the-greatest.webp", caption = "Gauntlet Match<br />Rob Cage vs The Greatest.", source = "Jędruś Bułecka's private archives" }
+307 = { path = "gm-edyta-closeup.webp", caption = "Gauntlet Match<br />A rare close-up of Edyta Świerczyńska.", source = "Jędruś Bułecka's private archives" }
+308 = { path = "gm-john-hammer.webp", caption = "Gauntlet Match<br />John Hammer.", source = "Jędruś Bułecka's private archives" }
+309 = { path = "gm-the-greatest-vs-john-hammer.webp", caption = "Gauntlet Match<br />The Greatest vs John Hammer.", source = "Jędruś Bułecka's private archives" }
 
 
-307 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
-308 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
-309 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
 310 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
 311 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
 312 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
