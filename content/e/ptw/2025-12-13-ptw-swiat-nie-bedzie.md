@@ -54,7 +54,7 @@ has_video = false
   - s: Tag Team Match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - 'Baron Wolfgang Storm'
+  - '[Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
 - - '[Spartan](@/w/spartan.md)'
   - '[Puncher](@/w/puncher.md)(c) w/ [Arkadiusz Pan Pawłowski](@/w/pan-pawlowski.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md) & PTW:WWA Championship'
@@ -79,7 +79,7 @@ has_video = false
 * [Remo](@/w/remo.md) - one of PTW Originals, whose career was halted by numerous injuries - makes his official return to PTW after teasing it on social media. He cuts a promo where he expresses his grudge against PTW fans who forgot about him when he was out. He vows to eliminate each of the fan favourites, starting with another "usurper from Bydgoszcz" - CJ Klakson.
 * Before their Tag Team match, [Royal Rebels](@/tt/royal-rebels.md) come to the ring with a neatly-wrapped gift box addressed to PTW fans. Alex Brave opens it to show a literal nothing to the public: a white sheet of paper with "NIC" (_NOTHING_) printed on it.
 * Vincent Caravaggio secures a victory for Royal Rebels by submission, after putting Davide Adami in an STF - a signature move of John Cena.
-* Polski Niedźwiedź finally manages to break his losing streak after defeating Baron Wolfgang Storm. In a post-match promo he announces that following the New Year, he will come back with a companion, possibly teasing the debut of a new Tag Team partner or manager.
+* Polski Niedźwiedź finally manages to break his losing streak after defeating [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md). In a post-match promo he announces that following the New Year, he will come back with a companion, possibly teasing the debut of a new Tag Team partner or manager.
 * Spartan makes a special entrance with his "Spartan Army" - a group of loyal supporters and allies accompanying him to the ring.
 * Much of the main event falls to shenanigans of Pan Pawłowski, who at some point grabs a microphone to distract Spartan. After [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) accidentaly gets knocked out, [Referee Herno](@/w/sedzia-herno.md) is stopped from entering the ring by Pawłowski who deems Herno "too fat, slow, and biased". Instead, he calls out Sędzia Rafał - Alex Brave's old persona before his in-ring debut - who then tries to sabotage Spartan's match. Shortly after, furious Herno comes to the ring and throws S.Rafał out, regaining his position. Pawłowski enters the ring to angrily berate Herno once again, but the referee tells his boss to "shut his mouth" and orders him out of the arena. The intimidation check ultimately fails, as Herno gets knocked out with a single slap from Pawłowski.
 * Spartan meets another obstacle on his path, as Nano also intervenes by hitting him with a chair, but the scales are evened as Daniel Razor comes out to avenge Spartan and draw Nano away from the title contender.

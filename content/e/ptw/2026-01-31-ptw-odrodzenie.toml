@@ -7,5 +7,5 @@
 06 = { path = "bogus.webp", caption = 'Image announcing [Boguś](@/w/bogus.md).', source = "Official PTW Facebook" }
 07 = { path = "gorzko.webp", caption = 'Image announcing [Spartan](@/w/spartan.md) vs Bittersweet Josh.', source = "Official PTW Facebook" }
 08 = { path = "czlowiek-w-czapce.webp", caption = 'Image announcing [Remo](@/w/remo.md).', source = "Official PTW Facebook" }
-09 = { path = "razor-vs-storm.webp", caption = 'Image announcing [Daniel Razor](@/w/daniel-razor.md) vs Baron Wolfgang Storm.', source = "Official PTW Facebook" }
+09 = { path = "razor-vs-storm.webp", caption = 'Image announcing [Daniel Razor](@/w/daniel-razor.md) vs [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md).', source = "Official PTW Facebook" }
 10 = { path = "lamblazert.webp", caption = 'Image announcing [Damian Lambert](@/w/damian-lambert.md) vs [Blaze](@/w/blaze.md).', source = "Official PTW Facebook" }

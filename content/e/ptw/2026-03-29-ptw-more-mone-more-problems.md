@@ -21,7 +21,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 
 * The show was announced in a [Facebook post][mone-wraca] that also said that Moné would defend her [PTW Women's Championship](@/c/ptw-womens-championship.md), although no opponent was mentioned.
 * The main event - [Mercedes Moné](@/w/mercedes-mone.md) vs [Diana Strong](@/w/diana-strong.md) for the [PTW Women's Championship](@/c/ptw-womens-championship.md) - was officially confirmed on 10.03.2026.
-* Later the same day came the announcement of Baron Wolfgang Storm vs [Boguś](@/w/bogus.md).
+* Later the same day came the announcement of [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md) vs [Boguś](@/w/bogus.md).
 * The next worker to be announced, on 13.03.2026, was [Sigma Boy xD](@/w/sigma-boy.md).
 * On 14.03.2026 PTW announced a Triple Threat Match between Jordan Wolff, [Miyagi Shida](@/w/miyagi-shida.md) and [Damian Adler](@/w/damian-adler.md). Wolff took part in the Battle Royal at the [previous show](@/e/ptw/2026-02-21-ptw-world-cup.md), but was eliminated quickly and failed to make a proper first impression.
 * On 16.03.2026 PTW announced a Submission Match between [Daniel Razor](@/w/daniel-razor.md) and an unknown opponent, to be chosen by [Nano Lopez](@/w/nano-lopez.md). Lopez picked the stipulation as a test for Razor, due to his lack of experience in this style of fights.
@@ -37,7 +37,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-- - 'Baron Wolfgang Storm'
+- - '[Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
   - '[Boguś](@/w/bogus.md)'
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Sawicki](@/w/sawicki.md)'

@@ -22,7 +22,7 @@ has_video = false
 * On 15.02.2026, [El G](@/w/el-g.md) was added to the tournament.
 * The next day PTW announced a Battle Royal between [Daniel Razor](@/w/daniel-razor.md), [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md), [Boguś](@/w/bogus.md), [Alex Brave](@/w/alex-brave.md) and [CJ Klakson](@/w/cj-klakson.md). Should Razor win, he'll get a title shot for the [PTW Underground Championship](@/c/ptw-underground-championship.md), whereas whoever manages to eliminate him, will receive a hefty bonus of 10,000&nbsp;PLN (approx. 2375&nbsp;EUR, 2065&nbsp;GBP or 2815&nbsp;USD).
 * [Blaze](@/w/blaze.md) and [Damian Adler](@/w/damian-adler.md) were both announced on 17.02.2026.
-* The next day, Baron Wolfgang Storm and Ben Rodgers were added to the card.
+* The next day, [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md) and Ben Rodgers were added to the card.
 * The final entrant to the tournament was [Nano Lopez](@/w/nano-lopez.md), announced on 18.02.2026.
 * On the 19th, the tag team of Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was announced.
 * The first World Cup Match, announced on 20.02.2026, was Baron Wolfgang Storm vs [El G](@/w/el-g.md).
@@ -35,7 +35,7 @@ has_video = false
   - '[_🇭🇺_ Blaze](@/w/blaze.md)'
   - s: World Cup Quarter Finals Match
 - - '[_🇮🇹_ El G](@/w/el-g.md)'
-  - '_🇺🇦_ Baron Wolfgang Storm'
+  - '[_🇺🇦_ Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
   - s: World Cup Quarter Finals Match
 - - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
   - '[_🇩🇪_ Damian Adler](@/w/damian-adler.md)'
