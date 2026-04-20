@@ -1,14 +1,14 @@
 +++
 title = "Baron Wolfgang Storm"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["UA"]
 +++
 
-Baron Wolfgang Petro is a Ukrainian wrestler working for [Prime Time Wrestling](@/o/ptw.md).
+Baron Wolfgang Storm is a Ukrainian wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -23,11 +23,11 @@ Baron Wolfgang Petro is a Ukrainian wrestler working for [Prime Time Wrestling](
 
 ### Before Prime Time Wrestling
 
-Prior to debuting in Poland for Prime Time Wrestling, Wolfgang Storm wrestled for Kiyv-based [UWZ][uwz-insta] between 2017 and 2021, when the federation went into hiatus. In 2024, Wolfgang took part in events held by a new organization: [Varia][varia-insta].
+Prior to debuting in Poland for Prime Time Wrestling, Wolfgang Storm wrestled for Kiyv-based [UWZ][uwz-insta] between 2017 and 2021, when the federation went into hiatus. In 2024, Wolfgang wrestled at events held by a new organization: [Varia][varia-insta].
 
 ### Training in Poland
 
-Wolfgang Storm took part in [PAW](@/o/paw.md)'s [summer course][paw-lato-2019-fb] in September 2019, but that did not result in any appearances for MZW.
+Wolfgang Storm took part in [PAW's](@/o/paw.md) [summer course][paw-lato-2019-fb] in September 2019, but that did not result in any appearances for [MZW](@/o/mzw.md).
 
 ### Prime Time Wrestling (2025-)
 
@@ -36,7 +36,6 @@ As Baron Wolfgang Storm, with a new look and character, he debuted for Prime Tim
 ## Internet presence
 
 * [wolfgang_storm on Instagram](https://www.instagram.com/wolfgang_storm/)
-
 
 [uwz-insta]: https://www.instagram.com/ukrainianwrestling/
 [varia-insta]: https://www.instagram.com/varia_wrestling/
