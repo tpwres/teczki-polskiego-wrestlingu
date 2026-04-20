@@ -30,7 +30,7 @@ Charlie Grayson made his debut in [Dream Factory Wrestling](@/o/dfw.md) - of whi
 
 Charlie made his final appearance for DFW at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md) in September 2017. After that he left DFW to focus on other endeavours.
 
-### PpW (2016)
+### PpW Ewenement Wrestling (2016)
 
 In 2016 Charlie made a one-time guest appearance in backyard-era [PpW](@/o/ppw.md), where he fought against PpW star [Rob Scaffold](@/w/rob-scaffold.md) in a Singles Match at [Backyard Total War](@/e/ppw/2016-07-18-ppw-backyard-total-war.md). Later on, he also was involved in a [raid on a PpW facility][szkoda] at [Winogronowa 17](@/v/winogronowa-17.md), where he and Direk jumped Rob Scaffold and [Cade Bruce](@/w/mister-z.md), who were mourning the loss of their ring. This angle didn't lead to any further storylines.
 
