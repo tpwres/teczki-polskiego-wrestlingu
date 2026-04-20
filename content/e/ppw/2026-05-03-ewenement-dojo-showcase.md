@@ -16,9 +16,9 @@ has_video = false
 The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase will be held on the last day of their May seminar, on Sunday May 3rd in [2KOŁA](@/v/2kola.md). The dojo plans to showcase both rookies and "more or less-well known" faces.
 For this show, PpW extended an offer to all active wrestlers from the Polish scene, encouraging them to sign up for the event.
 
-## Card
+## Predicted card
 
-{% card() %}
+{% card(predicted=true) %}
 - - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '???'
   - nc: upcoming
