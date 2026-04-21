@@ -1,7 +1,7 @@
 +++
 title = "PpW Inicjatywa Wrestling"
 template = "event_page.html"
-authors = ["M3n747", "Krzysztof Zych"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["rozbrat"]
