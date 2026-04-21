@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -69,4 +69,5 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=431153)
+* [Open access video: Krampus vs Nano Lopez](https://www.youtube.com/watch?v=meKOojic_3c)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)
