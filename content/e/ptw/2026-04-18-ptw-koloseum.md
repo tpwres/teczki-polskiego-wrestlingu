@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"Koloseum" (_The Colosseum_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Koloseum" (_The Colosseum_) was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build-up
 
@@ -29,52 +29,43 @@ has_video = false
 * The next day [Nano Lopez](@/w/nano-lopez.md) was announced to face [Jonny Storm](@/w/jonny-storm.md) for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * Later the same day [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md) was announced as well, without an opponent.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Diana Strong](@/w/diana-strong.md)'
-  - g: Crowning ceremony
-    nc: upcoming
-- - '[Spartan](@/w/spartan.md)(c)'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
-- - '[Damian Adler](@/w/damian-adler.md)'
-  - '???'
-  - nc: upcoming
-- - '[Jonny Storm](@/w/jonny-storm.md)'
-  - '[Nano Lopez](@/w/nano-lopez.md)'
-  - nc: upcoming
-- - '[Daniel Razor](@/w/daniel-razor.md)'
-  - '???'
-  - '???'
-  - '???'
-  - s: Gauntlet Match
-    nc: upcoming
-- - '[Sawicki](@/w/sawicki.md)'
-  - '???'
-  - nc: upcoming
+{% card() %}
+- - '[Nano Lopez](@/w/nano-lopez.md)(c)'
+  - '[Jonny Storm](@/w/jonny-storm.md)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Bart Petro](@/w/bart-petro.md)'
   - '[Boguś](@/w/bogus.md)'
-  - nc: upcoming
+- - '[Damian Adler](@/w/damian-adler.md)'
+  - 'Piotrek z publiczności'
+  - n: 'Piotrek was a "random" fan from the audience.'
 - - '[Whiteblade](@/w/whiteblade.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
-  - nc: upcoming
 - - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: '#1 Contenders Tag Team Match'
-    nc: upcoming
-- - '[Fabian](@/w/fabian.md)'
-  - '???'
-  - nc: upcoming
-- - '[Nano Lopez](@/w/nano-lopez.md)(c)'
-  - '[Jonny Storm](@/w/jonny-storm.md)'
-  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
-- - '[Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
-  - '???'
-  - nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Fabian](@/w/fabian.md)'
+  - s: Gauntlet Match
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
+  - s: Gauntlet Match
+    r: Submission
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - s: Gauntlet Match
+    r: DQ
+- - '[Sawicki](@/w/sawicki.md)'
+  - 'El Clavo'
+- - '[Spartan](@/w/spartan.md)(c)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+- - '[Diana Strong](@/w/diana-strong.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
+  - g: Crowning ceremony
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
