@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [16.918307, 52.417619]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Rozbrat",
+        "description": "Rozbrat complex, where [PpW Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md) was held.",
+        "orgs": ["ppw"]
+    }
+}
