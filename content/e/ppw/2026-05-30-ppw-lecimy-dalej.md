@@ -26,4 +26,4 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 
 ## References
 
-* [Facebook post announcing the event]: https://www.facebook.com/OficjalnePPW/posts/pfbid0hSvkWwxMU43BSzJv9Ui8rVBxmfeJiZfVsfvCgaDPxvLhkjssB3FSndrUFCEdz1fHl
+* [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid0hSvkWwxMU43BSzJv9Ui8rVBxmfeJiZfVsfvCgaDPxvLhkjssB3FSndrUFCEdz1fHl)
