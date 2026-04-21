@@ -2,6 +2,7 @@
 title = "Ewenement Dojo Showcase"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
+aliases = ["/e/ppw/2026-05-03-ewenement-dojo-showcase"]
 [taxonomies]
 chronology = ["ppw", "ewenement-dojo"]
 venue = ["2kola"]
