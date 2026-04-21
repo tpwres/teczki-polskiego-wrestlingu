@@ -3,6 +3,8 @@ title = "Ewenement Dojo"
 weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
+[taxonomies]
+chrono_root = ["ewenement-dojo"]
 [extra]
 toclevel = 3
 hide_roster = true
