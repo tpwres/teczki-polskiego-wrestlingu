@@ -12,11 +12,12 @@ has_video = false
 [extra.gallery]
 +++
 
-Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to take place in the {{ map_pin(v="Rozbrat") }}Rozbrat complex in Poznań, an alternative culture and squatting centre. It will be the first PpW event in the city, outside of shows attached to the beer festival at the [Poznań International Fair](@/v/targi-poznan.md).
+Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to take place in the {{ map_pin(v="Rozbrat") }}Rozbrat complex in Poznań, an alternative culture and squatting centre. It will be the first proper PpW event in the city.
+Though PpW already held showcases at the beer festival at the [Poznań International Fair](@/v/targi-poznan.md), they were non-canon to PpW's product, serving as a place for experimentation with new gimmicks and personalities.
 
 ## Build-up
 
-* TBD
+* The event was announced via PpW's social media on 21.04.2026
 
 {{ skip_card() }}
 
