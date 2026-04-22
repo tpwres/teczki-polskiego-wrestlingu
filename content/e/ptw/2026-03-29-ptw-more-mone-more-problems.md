@@ -9,7 +9,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -76,6 +76,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=443639)
+* [Full match: Diana Strong vs Mercedes Moné](https://www.youtube.com/watch?v=a-YXEgtR9vU)
 
 [nowe-gale]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1440651250960393:1440651250960393
 [mone-wraca]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02R8GWE8GnPixSNJNvAFya2UtitTJu6iFfc2coUBqCX1QPhZyKedkCrZQo2CF8uEMDl
