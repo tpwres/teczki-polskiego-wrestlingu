@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -75,6 +75,7 @@ This event marked a change in PTW's policy. The live stream was available to You
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=441843)
+* [Open access video: Daniel Razor vs Baron Wolfgang Storm, Four-Way Match](https://www.youtube.com/watch?v=KkGwVrbT4s0)
 * [Video: interview with Arek Pawłowski][smutny-arek]
 
 [smutny-arek]: https://www.youtube.com/watch?v=zQyUTKm4Uvg

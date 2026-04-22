@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -91,6 +91,7 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=439757)
+* [Open access video: Nano Lopez vs CJ Klakson](https://www.youtube.com/watch?v=ciADVSOS2Q0)
 
 [rolka]: https://www.facebook.com/reel/1180952684015552
 [nie-rolka]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0UAhp9HYNCaGixbArmjm7TQjTm81bLQV5WTx6bKj16nDGATCHJycisQtyftUJc24ol

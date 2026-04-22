@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -90,6 +90,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=426947)
+* [Open access video: Vincent Caravaggio vs Sigma Boy xD](https://www.youtube.com/watch?v=WTeEGa2mWhg)
 * [Facebook post hyping the show](https://www.facebook.com/PrimeTimeWrestlingPL/videos/1237806764590970)
 
 [zloto]: https://en.wikipedia.org/wiki/Kelly%27s_Heroes

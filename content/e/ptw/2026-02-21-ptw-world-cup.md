@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -89,5 +89,6 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=443638)
+* [Open access video: Vincent Caravaggio vs Blaze](https://www.youtube.com/watch?v=5vNl9-Cb7Is)
 
 [nowe-gale]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1440651250960393:1440651250960393

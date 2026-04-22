@@ -9,7 +9,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -60,12 +60,12 @@ Initially set to take place on 27.09.2025, it was later pushed to 28.09.
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Host, Ring Announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
-   
 {% end %}
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=433783)
+* [Open access video: Spartan vs Nano Lopez](https://www.youtube.com/watch?v=ChLmcZ7l60I)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)
 * [Facebook post announcing the new date](https://www.facebook.com/PrimeTimeWrestlingPL/videos/1396361291461288)
 * [Vangör Ragnarök Instagram](https://www.instagram.com/vangor_ragnarok/)

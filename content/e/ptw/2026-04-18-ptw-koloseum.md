@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -79,6 +79,7 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=449975)
+* [Open access video: Nano Lopez vs Jonny Storm](https://www.youtube.com/watch?v=V8cZ5U5kcik)
 
 [pierwsza-zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0iAChh2eeoG7LgnwMuj9v3JC2WY91tGUECMx8QEckGFzjnnAKqP3X32bB3rJaFdbNl
 [jasiek-sztorm]: https://www.facebook.com/reel/2806367053047678

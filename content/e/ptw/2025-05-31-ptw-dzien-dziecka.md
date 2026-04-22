@@ -101,6 +101,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=423576)
 * [Full show on YouTube](https://www.youtube.com/watch?v=G0_KsMe6aQc) (requires paid subscription)
+* [Open access video: Spartan vs Conte](https://www.youtube.com/watch?v=hKI25Wx1Q5M)
 * [Event page on Facebook](https://www.facebook.com/events/1864407861025971/)
 * [Nano Lopez returns - Facebook post](https://www.facebook.com/photo?fbid=737172635302048&set=a.136592408693410)
 * [Klaudiusz and Herno stand up to Pawłowski](https://www.facebook.com/PrimeTimeWrestlingPL/videos/1015170060231221)
