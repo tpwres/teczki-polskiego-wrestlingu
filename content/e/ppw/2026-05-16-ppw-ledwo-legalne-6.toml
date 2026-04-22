@@ -3,3 +3,4 @@
 004 = { path = "antoni-ocean.webp", caption = 'Image announcing [Antoni Ocean](@/w/antoni-ocean.md).', source = "Official PpW Facebook" }
 005 = { path = "vic-golden.webp", caption = 'Image announcing [Vic Golden](@/w/vic-golden.md).', source = "Official PpW Facebook" }
 006 = { path = "mbm.webp", caption = 'Image announcing MBM.', source = "Official PpW Facebook" }
+007 = { path = "gusutav-i-gobolin-zawalacza.webp", caption = 'Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md)& [Goblin](@/w/goblin.md). Note the typo: _zawalaczą_ instead of _zawalczą_.', source = "Official PpW Facebook" }

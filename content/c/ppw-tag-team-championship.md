@@ -108,6 +108,12 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
   - s: Tag Team Match
     en: '[PpW Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md)'
     ed: 2026-03-21
+- - 'Bad Trip: Goblin & Gustav Gryffin'
+  - 'Zmowa: ??? & ???(c)'
+  - s: Tag Team Match
+    en: '[Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    ed: 2026-05-16
+    nc: upcoming
 {% end %}
 
 ## References
