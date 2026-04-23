@@ -109,7 +109,7 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
     {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-2025) <br>
     {{ music(yt='LHTdgdTwons')}}
   - "Nigdy nie ulegnę" by Kuba Jurzyk, Accantus Live Band
-    {{ org_badge(orgs=['ppw']) }} (2025-) <br>
+    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
     {{ music(yt='hXksAsBNeaA')}}
     {{ music(spot='6rlkPZLlQHcVyGfPjtOfIC')}}
     {{ music(apple='1498895749?i=1498895750')}}
