@@ -273,15 +273,14 @@ Both defenses took place during events held by Bologna Wrestling Team. He was al
 
 At Arena XXX, [Krystian Malinowski](@/w/krystian-malinowski.md) stripped [Zefir](@/w/zefir.md) of his title and fired him from KPW for the alleged attack on his person at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md).
 
-### Champion #9: ???
+### Champion #9: Iestyn Rees
 
 {% free_card() %}
-- - '[Zefir](@/w/zefir.md)'
-  - '???'
+- - '[Iestyn Rees](@/w/iestyn-rees.md)'
+  - '[Zefir](@/w/zefir.md)'
   - s: Singles Match
     en: '[KPW Arena 33: Mężczyźni Nie Płaczą](@/e/kpw/2026-04-24-kpw-arena-33.md)'
     ed: 2026-04-24
-    nc: upcoming
 {% end %}
 
 ## References
