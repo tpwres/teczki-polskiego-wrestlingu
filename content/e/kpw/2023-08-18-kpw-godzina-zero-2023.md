@@ -15,7 +15,7 @@ has_video = true
 
 Godzina Zero (_Zero Hour_) 2023 was KPW's sixth annual supershow, held since 2016. It also returned the show to its usual date in the middle of August, rather than September like the 2022 edition. The event took place in [Klub Nowy Harem](@/v/atlantic-nh-gdynia.md), like all recent KPW shows.
 
-The event had two new foreign guests: Welsh powerhouse Iestyn Rees, and German wrestler Ludy Lohan. Returning were: Italian masked wrestler Red Scorpion, the regular Fynn Freyhart, and KPW Tag Team Champions Die Ordnung: Veit Müller and Hans Schulte, all from Germany.
+The event had two new foreign guests: Welsh powerhouse [Iestyn Rees](@/w/iestyn-rees.md), and German wrestler Ludy Lohan. Returning were: Italian masked wrestler Red Scorpion, the regular Fynn Freyhart, and KPW Tag Team Champions Die Ordnung: Veit Müller and Hans Schulte, all from Germany.
 
 All three championships were defended and two changed hands. The Magnificent Seven Ladder Match was replaced by a Championship Contract Battle Royal, same as on the [2022 event](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md).
 
@@ -41,14 +41,14 @@ All three championships were defended and two changed hands. The Magnificent Sev
 - - '[Bracia Fux](@/tt/bracia-fux.md): [Michał Fux](@/w/michal-fux.md) & [Filip Fux](@/w/filip-fux.md)'
   - '[Die Ordnung](@/tt/die-ordnung.md): [Veit Müller](@/w/veit-mueller.md) & [Hans Schulte](@/w/hans-schulte.md)(c)'
   - s: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
-- - 'Iestyn Rees'
+- - '[Iestyn Rees](@/w/iestyn-rees.md)'
   - '[David Oliwa](@/w/david-oliwa.md)'
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Chemik](@/w/chemik.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - '[Fynn Freyhart](@/w/fynn-freyhart.md)'
   - '[Hans Schulte](@/w/hans-schulte.md)'
-  - 'Iestyn Rees'
+  - '[Iestyn Rees](@/w/iestyn-rees.md)'
   - 'Ludy Lohan'
   - '[Michał Fux](@/w/michal-fux.md)'
   - '[Rosetti](@/w/rosetti.md)'
