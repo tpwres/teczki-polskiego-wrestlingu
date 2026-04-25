@@ -15,19 +15,24 @@
 0106 = { path = "lesak-obudz-sie-przegrales.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) on the club floor, after being thrown out of the ring.", source = "M3n747" }
 0107 = { path = "dzien-dobry-zbieram-podpisy-pod-petycja.webp", caption = "[Leon Lato](@/w/leon-lato.md) poses for the audience with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) and Eryk Lesak's championship contract.", source = "M3n747" }
 
-0201 = { path = ".webp", caption = ".", source = "M3n747" }
-0202 = { path = ".webp", caption = ".", source = "M3n747" }
-0203 = { path = ".webp", caption = ".", source = "M3n747" }
-0204 = { path = ".webp", caption = ".", source = "M3n747" }
-0205 = { path = ".webp", caption = ".", source = "M3n747" }
-0206 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
+0201 = { path = "kail-eknder.webp", caption = "[Kamil Aleksander's](@/w/kamil-aleksander.md) entrance.", source = "M3n747" }
+0202 = { path = "old-school-is-best-school.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) channels the Undertaker as he's about to attack Veit Müller from the top rope.", source = "M3n747" }
+0203 = { path = "muellerplex.webp", caption = "Literal German Suplex.", source = "M3n747" }
+0204 = { path = "dzierzyj-linu.webp", caption = "Veit Müller puts a Chokehold on [Kamil Aleksander](@/w/kamil-aleksander.md), who holds onto the rope.", source = "M3n747" }
+0205 = { path = "jak-sie-przyjrzec-to-jest-w-tym-zakamuflowana-metafora-polityczna.webp", caption = "[Veit Müller](@/w/veit-mueller.md) stalked by angry [Kamil Aleksander](@/w/kamil-aleksander.md).", source = "M3n747" }
+0206 = { path = "o-ta-reka-go-pokonalem.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) wins.", source = "M3n747" }
 
 0301 = { path = ".webp", caption = ".", source = "M3n747" }
+0302 = { path = ".webp", caption = ".", source = "M3n747" }
+0303 = { path = ".webp", caption = ".", source = "M3n747" }
+0304 = { path = ".webp", caption = ".", source = "M3n747" }
+0305 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
 0401 = { path = ".webp", caption = ".", source = "M3n747" }
 0501 = { path = ".webp", caption = ".", source = "M3n747" }
 0601 = { path = ".webp", caption = ".", source = "M3n747" }
