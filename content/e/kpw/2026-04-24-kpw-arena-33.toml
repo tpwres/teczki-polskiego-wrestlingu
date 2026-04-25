@@ -6,3 +6,35 @@
 0005 = { path = "markus-paskal-vs-callum-beck.webp", caption = "Image announcing [Markus Paskal](@/w/markus-paskal.md) vs [Callum Beck](@/w/callum-beck.md).", source = "Official KPW Facebook" }
 0006 = { path = "zefir-vs-riddler.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs ???.", source = "Official KPW Facebook" }
 0007 = { path = "hans-sie-zaschultal-w-grega.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md) vs [Greg](@/w/greg.md).", source = "Official KPW Facebook" }
+
+0101 = { path = "kinga-otwiera-gale.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
+0102 = { path = "patrzcie-mam-papierek.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) with his championship contract.", source = "M3n747" }
+0103 = { path = "on-po-prostu-chcialby-pluszowego-leona.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) cho.", source = "M3n747" }
+0104 = { path = "anton-la-vey-obserwuje-z-cienia.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) apologises to Sędzia Alan for allowing his emotions to get the better of him. [Olgierd](@/w/olgierd.md) can be seen in the bottom-left corner, above Leon Lato's left foot", source = "M3n747" }
+0105 = { path = "uwaga-na-nisko-przelatujace-lesaki.webp", caption = "Eryk Lesak attacks [Leon Lato](@/w/leon-lato.md) from the middle rope.", source = "M3n747" }
+
+0106 = { path = ".webp", caption = ".", source = "M3n747" }
+0107 = { path = ".webp", caption = ".", source = "M3n747" }
+0108 = { path = ".webp", caption = ".", source = "M3n747" }
+0109 = { path = ".webp", caption = ".", source = "M3n747" }
+0110 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+0201 = { path = ".webp", caption = ".", source = "M3n747" }
+0301 = { path = ".webp", caption = ".", source = "M3n747" }
+0401 = { path = ".webp", caption = ".", source = "M3n747" }
+0501 = { path = ".webp", caption = ".", source = "M3n747" }
+0601 = { path = ".webp", caption = ".", source = "M3n747" }
+0701 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0901 = { path = ".webp", caption = ".", source = "M3n747" }
+1001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+1099 = { path = "usmiechnieta-kinga.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) closes the show.", source = "M3n747" }
+
+9901 = { path = "mama-paskala-3-16.webp", caption = "_Paskal's Mum 3:16_ T-shirt at the merch stand.", source = "M3n747" }
