@@ -22,11 +22,16 @@
 0205 = { path = "jak-sie-przyjrzec-to-jest-w-tym-zakamuflowana-metafora-polityczna.webp", caption = "[Veit Müller](@/w/veit-mueller.md) stalked by angry [Kamil Aleksander](@/w/kamil-aleksander.md).", source = "M3n747" }
 0206 = { path = "o-ta-reka-go-pokonalem.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) wins.", source = "M3n747" }
 
-0301 = { path = ".webp", caption = ".", source = "M3n747" }
-0302 = { path = ".webp", caption = ".", source = "M3n747" }
-0303 = { path = ".webp", caption = ".", source = "M3n747" }
-0304 = { path = ".webp", caption = ".", source = "M3n747" }
-0305 = { path = ".webp", caption = ".", source = "M3n747" }
+0301 = { path = "w-sumie-moglby-w-koncu-te-ciuchy-wyprac.webp", caption = "[Tomczak](@/w/tomczak.md).", source = "M3n747" }
+0302 = { path = "oskar-haller.webp", caption = "[Oskar Haller's](@/w/oskar-haller.md) entrance.", source = "M3n747" }
+0303 = { path = "stary-ale-ci-spod-pach-capi.webp", caption = "Oskar Haller escapes Tomczak's iron grip.", source = "M3n747" }
+0304 = { path = "tomczakoglowy.webp", caption = "Oskar Haller about to hit a Powerbomb on Tomczak.", source = "M3n747" }
+0305 = { path = "usmiechnij-sie-zaraz-wyleci-ptaszek.webp", caption = "Sędzia Alan declares [Tomczak](@/w/tomczak.md) the winner.", source = "M3n747" }
+
+0306 = { path = ".webp", caption = ".", source = "M3n747" }
+0307 = { path = ".webp", caption = ".", source = "M3n747" }
+0308 = { path = ".webp", caption = ".", source = "M3n747" }
+0309 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 
