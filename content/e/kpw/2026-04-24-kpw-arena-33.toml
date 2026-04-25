@@ -28,18 +28,21 @@
 0304 = { path = "tomczakoglowy.webp", caption = "Oskar Haller about to hit a Powerbomb on Tomczak.", source = "M3n747" }
 0305 = { path = "usmiechnij-sie-zaraz-wyleci-ptaszek.webp", caption = "Sędzia Alan declares [Tomczak](@/w/tomczak.md) the winner.", source = "M3n747" }
 
-0306 = { path = ".webp", caption = ".", source = "M3n747" }
-0307 = { path = ".webp", caption = ".", source = "M3n747" }
-0308 = { path = ".webp", caption = ".", source = "M3n747" }
-0309 = { path = ".webp", caption = ".", source = "M3n747" }
+0401 = { path = "wyprany-w-pollenie.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "M3n747" }
+0402 = { path = "pod-ring-raz.webp", caption = "Chemik dives under the ring…", source = "M3n747" }
+0403 = { path = "pod-ring-dwa.webp", caption = "…followed by Michał Fux…", source = "M3n747" }
+0404 = { path = "pod-ring-trzy.webp", caption = "…and the cameraman.", source = "M3n747" }
+0405 = { path = "chemik-fux-1.webp", caption = "Chemik strikes Filip Fux's pose at the ropes…", source = "M3n747" }
+0406 = { path = "chemik-fux-2.webp", caption = "…and in the ring.", source = "M3n747" }
+
+0501 = { path = "poswiec-tutaj-gdzies-tu-schowalem-flaszke.webp", caption = "Olgierd and Piękny Kawaler in an unexpected form of cooperation between PpW and KPW.", source = "M3n747" }
+0502 = { path = "psy-i-koty-pod-jednym-dachem-masowa-histeria.webp", caption = "[Olgierd's](@/w/olgierd.md) debut in the KPW ring (sort of).", source = "M3n747" }
+0503 = { path = "a-teraz-wystep-wokalny.webp", caption = ".", source = "M3n747" }
 
 
 
 
 
-
-0401 = { path = ".webp", caption = ".", source = "M3n747" }
-0501 = { path = ".webp", caption = ".", source = "M3n747" }
 0601 = { path = ".webp", caption = ".", source = "M3n747" }
 0701 = { path = ".webp", caption = ".", source = "M3n747" }
 0801 = { path = ".webp", caption = ".", source = "M3n747" }
