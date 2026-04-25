@@ -9,22 +9,24 @@
 
 0101 = { path = "kinga-otwiera-gale.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
 0102 = { path = "patrzcie-mam-papierek.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) with his championship contract.", source = "M3n747" }
-0103 = { path = "on-po-prostu-chcialby-pluszowego-leona.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) cho.", source = "M3n747" }
-0104 = { path = "anton-la-vey-obserwuje-z-cienia.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) apologises to Sędzia Alan for allowing his emotions to get the better of him. [Olgierd](@/w/olgierd.md) can be seen in the bottom-left corner, above Leon Lato's left foot", source = "M3n747" }
+0103 = { path = "on-po-prostu-chcialby-pluszowego-leona.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) chokes [Leon Lato](@/w/leon-lato.md).", source = "M3n747" }
+0104 = { path = "anton-lavey-obserwuje-z-cienia.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) apologises to Sędzia Alan for allowing his emotions to get the better of him. [Olgierd](@/w/olgierd.md) can be seen in the bottom-left corner, above Leon Lato's left foot", source = "M3n747" }
 0105 = { path = "uwaga-na-nisko-przelatujace-lesaki.webp", caption = "Eryk Lesak attacks [Leon Lato](@/w/leon-lato.md) from the middle rope.", source = "M3n747" }
 0106 = { path = "lesak-obudz-sie-przegrales.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) on the club floor, after being thrown out of the ring.", source = "M3n747" }
 0107 = { path = "dzien-dobry-zbieram-podpisy-pod-petycja.webp", caption = "[Leon Lato](@/w/leon-lato.md) poses for the audience with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) and Eryk Lesak's championship contract.", source = "M3n747" }
 
-0108 = { path = ".webp", caption = ".", source = "M3n747" }
-0109 = { path = ".webp", caption = ".", source = "M3n747" }
-0110 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-
 0201 = { path = ".webp", caption = ".", source = "M3n747" }
+0202 = { path = ".webp", caption = ".", source = "M3n747" }
+0203 = { path = ".webp", caption = ".", source = "M3n747" }
+0204 = { path = ".webp", caption = ".", source = "M3n747" }
+0205 = { path = ".webp", caption = ".", source = "M3n747" }
+0206 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
 0301 = { path = ".webp", caption = ".", source = "M3n747" }
 0401 = { path = ".webp", caption = ".", source = "M3n747" }
 0501 = { path = ".webp", caption = ".", source = "M3n747" }
