@@ -41,18 +41,19 @@
 
 0601 = { path = "callum-is-beck.webp", caption = "[Callum Beck](@/w/callum-beck.md) is back.", source = "M3n747" }
 0602 = { path = "markus-paskal.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) wearing a _Paskal's Mum 3:16_ T-shirt.", source = "M3n747" }
-0603 = { path = "mama-paskala.webp", caption = "Markus Paskal's Mum wearing a _Paskal's Mum 3:16_ T-shirt.", source = "M3n747" }
+0603 = { path = "mama-paskala.webp", caption = "Markus Paskal's Mum, also wearing a _Paskal's Mum 3:16_ T-shirt.", source = "M3n747" }
 0604 = { path = "nawet-sobie-spokojnie-posiedziec-nie-mozna.webp", caption = "Markus Paskal thrown at the seats by Callum Beck.", source = "M3n747" }
 0605 = { path = "a-teraz-na-druga-nozke.webp", caption = "Markus Paskal holds [Callum Beck](@/w/callum-beck.md) in a leg lock.", source = "M3n747" }
 0606 = { path = "szczyt-amplitudy-skoku.webp", caption = "Callum Beck mid-Swanton Bomb, about to hit Markus Paskal. To the left stands Sędzia Alan.", source = "M3n747" }
 0607 = { path = "cztery-piwa-prosze.webp", caption = "Sędzia Alan raises [Callum Beck's](@/w/callum-beck.md) hand in victory.", source = "M3n747" }
 0608 = { path = "spoko-nastepnym-razem-sie-uda.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) with Markus Paskal after the fight.", source = "M3n747" }
 
-0701 = { path = ".webp", caption = ".", source = "M3n747" }
-0702 = { path = ".webp", caption = ".", source = "M3n747" }
-0703 = { path = ".webp", caption = ".", source = "M3n747" }
-0704 = { path = ".webp", caption = ".", source = "M3n747" }
-0705 = { path = ".webp", caption = ".", source = "M3n747" }
+0701 = { path = "koles-kogos-klepnie.webp", caption = "[Greg](@/w/greg.md).", source = "M3n747" }
+0702 = { path = "hallo-ich-bin-hans-wie-gehts.webp.webp", caption = "[Hans Schulte](@/w/hans-schulte.md), with [Krystian Czekaj](@/w/krystian-czekaj.md) in the background.", source = "M3n747" }
+0703 = { path = "slone-paluszki-mniam.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) chokes [Greg](@/w/greg.md).", source = "M3n747" }
+0704 = { path = "no-i-jak-tu-nie-widziec-podtekstow.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) suffers from Greg's Nipple Twist. [Krystian Czekaj](@/w/krystian-czekaj.md) seems to want to have a go as well.", source = "M3n747" }
+0705 = { path = "z-ktorej-strony-nie-spojrzec-to-jest-to-zwyciestwo.webp", caption = "Greg triumphs over Hans Schulte, as witnessed by Krystian Czekaj.", source = "M3n747" }
+
 0706 = { path = ".webp", caption = ".", source = "M3n747" }
 0707 = { path = ".webp", caption = ".", source = "M3n747" }
 0708 = { path = ".webp", caption = ".", source = "M3n747" }
