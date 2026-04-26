@@ -18,7 +18,6 @@ Oskar Haller is a rookie wrestler training in the [KPW School](@/o/szkola-kpw.md
   - Rookie One {{ org_badge(orgs=['kpw']) }}
   - Oskar Fux {{ org_badge(orgs=['kpw']) }}
   - Oskar Haller {{ org_badge(orgs=['kpw']) }}
-
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
 
