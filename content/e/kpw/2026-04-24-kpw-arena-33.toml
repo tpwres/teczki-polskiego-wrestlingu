@@ -49,23 +49,17 @@
 0608 = { path = "spoko-nastepnym-razem-sie-uda.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) with Markus Paskal after the fight.", source = "M3n747" }
 
 0701 = { path = "koles-kogos-klepnie.webp", caption = "[Greg](@/w/greg.md).", source = "M3n747" }
-0702 = { path = "hallo-ich-bin-hans-wie-gehts.webp.webp", caption = "[Hans Schulte](@/w/hans-schulte.md), with [Krystian Czekaj](@/w/krystian-czekaj.md) in the background.", source = "M3n747" }
+0702 = { path = "hallo-ich-bin-hans-wie-gehts.webp", caption = "[Hans Schulte](@/w/hans-schulte.md), with [Krystian Czekaj](@/w/krystian-czekaj.md) in the background.", source = "M3n747" }
 0703 = { path = "slone-paluszki-mniam.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) chokes [Greg](@/w/greg.md).", source = "M3n747" }
 0704 = { path = "no-i-jak-tu-nie-widziec-podtekstow.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) suffers from Greg's Nipple Twist. [Krystian Czekaj](@/w/krystian-czekaj.md) seems to want to have a go as well.", source = "M3n747" }
 0705 = { path = "z-ktorej-strony-nie-spojrzec-to-jest-to-zwyciestwo.webp", caption = "Greg triumphs over Hans Schulte, as witnessed by Krystian Czekaj.", source = "M3n747" }
 
-0706 = { path = ".webp", caption = ".", source = "M3n747" }
-0707 = { path = ".webp", caption = ".", source = "M3n747" }
-0708 = { path = ".webp", caption = ".", source = "M3n747" }
-0709 = { path = ".webp", caption = ".", source = "M3n747" }
-0710 = { path = ".webp", caption = ".", source = "M3n747" }
-0711 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = "zefir-na-sygnale.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "M3n747" }
+0802 = { path = "ma-mikrofon-ale-rownie-dobrze-moglby-miec-noz.webp", caption = "Krystian Malinowski hugs Zefir.", source = "M3n747" }
+0803 = { path = "mama-nie-mowila-ze-to-nieuprzejmie-pokazywac-palcem.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) lies to Zefir's mask.", source = "M3n747" }
 
-
-
-
-0801 = { path = ".webp", caption = ".", source = "M3n747" }
 0901 = { path = ".webp", caption = ".", source = "M3n747" }
+
 1001 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
