@@ -244,11 +244,6 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: Open Challenge
     en: '[KPW Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md)'
     ed: 2026-03-13
-- - 'Leon Lato(c)'
-  - '[Eryk Lesak](@/w/eryk-lesak.md)'
-  - s: Singles Match
-    en: '[KPW Arena 33: Mężczyźni Nie Płaczą](@/e/kpw/2026-04-24-kpw-arena-33.md)'
-    ed: 2026-04-24
 {% end %}
 
 ## References
