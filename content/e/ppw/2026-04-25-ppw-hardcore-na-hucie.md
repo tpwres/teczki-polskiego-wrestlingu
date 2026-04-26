@@ -52,6 +52,10 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
   - '[Max Speed](@/w/max-speed.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Dog Collar Match
+- credits:
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)'
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Highlights
