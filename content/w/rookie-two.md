@@ -28,4 +28,4 @@ Although he didn't have an official debut yet, Rookie Two had a few fights at KP
 
 ### PpW Ewenemenet Wrestling (2026-)
 
-Rookie Two was seen in the crowd at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), attending the show as a regular fan. Two months later he was announced to appear at [Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md), making his PpW debut in a match against [Jakub](@/w/jakub.md).
+Rookie Two was seen in the crowd at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), attending the show as a regular fan. Two months later he was announced to appear at [Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md) (as Szymon Kurczab), making his PpW debut in a match against [Jakub](@/w/jakub.md).
