@@ -1,3 +1,6 @@
+000 = { path = "plakat.webp", caption = "Official poster, featuring [Max Speed](@/w/max-speed.md), Antoni Ocean and Oskar Alexander.", source = "Official Ewenement Dojo Instagram" }
 001 = { path = "dojo-showcase.webp", caption = "Image announcing the showcase.", source = "Official Ewenement Dojo Facebook" }
 002 = { path = "antoni-ocean.webp", caption = "Image announcing [Antoni Ocean](@/w/antoni-ocean.md).", source = "Official Ewenement Dojo Facebook" }
 003 = { path = "olgierd-vs-unknown.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs ???.", source = "Official Ewenement Dojo Facebook" }
+004 = { path = "bad-trip.webp", caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md).", source = "Official Ewenement Dojo Instagram" }
+005 = { path = "fox-vs-2.webp", caption = "Image announcing [Jakub](@/w/jakub.md) vs [Szymon Kurczab](@/w/rookie-two.md).", source = "Official Ewenement Dojo Instagram" }
