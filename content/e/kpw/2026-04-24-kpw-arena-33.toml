@@ -39,17 +39,30 @@
 0502 = { path = "psy-i-koty-pod-jednym-dachem-masowa-histeria.webp", caption = "[Olgierd's](@/w/olgierd.md) debut in the KPW ring (sort of).", source = "M3n747" }
 0503 = { path = "a-teraz-wystep-wokalny.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) resumes the show after the break.", source = "M3n747" }
 
-0601 = { path = ".webp", caption = ".", source = "M3n747" }
-0602 = { path = ".webp", caption = ".", source = "M3n747" }
-0603 = { path = ".webp", caption = ".", source = "M3n747" }
-0604 = { path = ".webp", caption = ".", source = "M3n747" }
-0605 = { path = ".webp", caption = ".", source = "M3n747" }
-0606 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
+0601 = { path = "callum-is-beck.webp", caption = "[Callum Beck](@/w/callum-beck.md) is back.", source = "M3n747" }
+0602 = { path = "markus-paskal.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) wearing a _Paskal's Mum 3:16_ T-shirt.", source = "M3n747" }
+0603 = { path = "mama-paskala.webp", caption = "Markus Paskal's Mum wearing a _Paskal's Mum 3:16_ T-shirt.", source = "M3n747" }
+0604 = { path = "nawet-sobie-spokojnie-posiedziec-nie-mozna.webp", caption = "Markus Paskal thrown at the seats by Callum Beck.", source = "M3n747" }
+0605 = { path = "a-teraz-na-druga-nozke.webp", caption = "Markus Paskal holds [Callum Beck](@/w/callum-beck.md) in a leg lock.", source = "M3n747" }
+0606 = { path = "szczyt-amplitudy-skoku.webp", caption = "Callum Beck mid-Swanton Bomb, about to hit Markus Paskal. To the left stands Sędzia Alan.", source = "M3n747" }
+0607 = { path = "cztery-piwa-prosze.webp", caption = "Sędzia Alan raises [Callum Beck's](@/w/callum-beck.md) hand in victory.", source = "M3n747" }
+0608 = { path = "spoko-nastepnym-razem-sie-uda.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) with Markus Paskal after the fight.", source = "M3n747" }
 
 0701 = { path = ".webp", caption = ".", source = "M3n747" }
+0702 = { path = ".webp", caption = ".", source = "M3n747" }
+0703 = { path = ".webp", caption = ".", source = "M3n747" }
+0704 = { path = ".webp", caption = ".", source = "M3n747" }
+0705 = { path = ".webp", caption = ".", source = "M3n747" }
+0706 = { path = ".webp", caption = ".", source = "M3n747" }
+0707 = { path = ".webp", caption = ".", source = "M3n747" }
+0708 = { path = ".webp", caption = ".", source = "M3n747" }
+0709 = { path = ".webp", caption = ".", source = "M3n747" }
+0710 = { path = ".webp", caption = ".", source = "M3n747" }
+0711 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
 0801 = { path = ".webp", caption = ".", source = "M3n747" }
 0901 = { path = ".webp", caption = ".", source = "M3n747" }
 1001 = { path = ".webp", caption = ".", source = "M3n747" }
