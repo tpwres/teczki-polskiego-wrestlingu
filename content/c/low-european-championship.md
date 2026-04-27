@@ -88,7 +88,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
     ed: 2025-12-20
 {% end %}
 
-### Champion #1: Axel Fox
+### Champion #1: Axel Fox / Jakub
 
 {% free_card() %}
 - - '[Axel Fox](@/w/jakub.md)'
@@ -105,6 +105,12 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - s: Singles Match
     en: '[No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
     ed: 2026-03-28
+- - 'Jakub(c)'
+  - '[Filip Fux](@/w/filip-fux.md)'
+  - c: Singles Match
+    en: '[Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md)'
+    ed: 2026-05-24
+    nc: upcoming
 {% end %}
 
 [qna-legacy]: https://www.youtube.com/watch?v=4urhjLJHEtA
