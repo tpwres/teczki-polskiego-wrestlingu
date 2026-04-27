@@ -62,7 +62,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
 
 * This was the PpW debut of Hungarian wrestler Maverick, who'd previously made two appearances for [PTW](@/o/ptw.md) in 2024, including at [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md).
 * Also debuting was young German wrestler Jon Parker from Leipzig. Parker worked matches mainly for Catch Factory in Leipzig, and several smaller German organizations.
-* Present at the show was [Samson](@/w/ppw.md), invited as a guest but also helping staff at the entrance gates.
+* Present at the show was [Samson](@/w/samson.md), invited as a guest but also helping staff at the entrance gates.
 * Bartosz Plata scored his first decisive victory here (not counting the non-canon [Mystic Festival show](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md)), breaking his losing streak.
 * Boro prepared for his signature Oil Check by pulling a glove out of his singlet as usual, but it turned out to be damaged. Undeterred, he decided to perform the move without it.  Mutant however, proved immune.
 * Biesiad's usual entrance routine, setting up a ladder and downing a beer on top of it, was brutally interrupted by Gustav, who climbed the ladder, grabbed Biesiad's beer can and drank it, then spat Beer Mist into his opponent's face to start the match.
