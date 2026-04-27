@@ -49,7 +49,7 @@ The tube was signed by the following people:
 - [Leon Lato](@/w/leon-lato.md)
 - [Marco Hammers](@/w/marco-hammers.md)
 - [Marcelito](@/w/marcelito.md)
-- Markus Paskal
+- [Markus Paskal](@/w/markus-paskal.md)
 - [Max Speed](@/w/max-speed.md)
 - [Michał Fux](@/w/michal-fux.md)
 - [Mister Z](@/w/mister-z.md)
@@ -88,7 +88,10 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Joker](@/w/joker.md)
 - [Kamil Aleksander](@/w/kamil-aleksander.md)
 - [Marcelito](@/w/marcelito.md)
+- [Markus Paskal](@/w/markus-paskal.md)
 - [Max Speed](@/w/max-speed.md)
+- [Mutant](@/w/mutant.md)
+- [Oskar Haller](@/w/oskar-haller.md)
 - [ShowOff](@/w/piotr-malecki.md)
 - Sędzia Alan Bieńkowski
 - [Taras](@/w/taras.md)
