@@ -296,7 +296,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     en: '[PpW Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md)'
     ed: 2026-04-25
 - - '"Chain God" Olgierd (c)'
-  - '"Polski Cieśla" Biesiad Strong"
+  - '"Polski Cieśla" Biesiad Strong'
   - s: Singles Match
     en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16
