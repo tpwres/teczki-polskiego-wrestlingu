@@ -58,11 +58,13 @@
 0802 = { path = "ma-mikrofon-ale-rownie-dobrze-moglby-miec-noz.webp", caption = "Krystian Malinowski hugs Zefir.", source = "M3n747" }
 0803 = { path = "mama-nie-mowila-ze-to-nieuprzejmie-pokazywac-palcem.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) lies to Zefir's mask.", source = "M3n747" }
 
-0901 = { path = ".webp", caption = ".", source = "M3n747" }
+0901 = { path = "to-iest-jestyn.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) and Zefir's leg.", source = "M3n747" }
+0902 = { path = "pas-pasiak-i-pasek-tylko-brakuje-paskala.webp", caption = "Sędzia Alan presents the [KPW Championship](@/c/kpw-championship.md). In the background Krystian Malinowski exchanges pleasantries with Iestyn Rees.", source = "M3n747" }
+0903 = { path = "ideal-siegnal-parkietu.webp", caption = "[Zefir](@/w/zefir.md) on the floor.", source = "M3n747" }
+0904 = { path = "na-misia.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) crushes Zefir in a Bear Hug.", source = "M3n747" }
+0905 = { path = "papier-vs-nozyczki.webp", caption = "Shock, disbelief and despair on [Zefir's](@/w/zefir.md) mask as Sędzia Alan confirms a two-count.", source = "M3n747" }
+0906 = { path = "ej-stary-ale-ci-puls-podskoczyl.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) wins the [KPW Championship](@/c/kpw-championship.md), much to [Krystian Malinowski's](@/w/krystian-malinowski.md) delight.", source = "M3n747" }
+0907 = { path = "broken-beat-and-scarred.webp.webp", caption = "Sedzia Alan and the medical staff worker check on Zefir, as [Iestyn Rees](@/w/iestyn-rees.md) poses with the Championship.", source = "M3n747" }
 
-1001 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-1099 = { path = "usmiechnieta-kinga.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) closes the show.", source = "M3n747" }
-
-9901 = { path = "mama-paskala-3-16.webp", caption = "_Paskal's Mum 3:16_ T-shirt at the merch stand.", source = "M3n747" }
+1001 = { path = "usmiechnieta-kinga.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) closes the show.", source = "M3n747" }
+1002 = { path = "mama-paskala-3-16.webp", caption = "_Paskal's Mum 3:16_ T-shirt at the merch stand.", source = "M3n747" }
