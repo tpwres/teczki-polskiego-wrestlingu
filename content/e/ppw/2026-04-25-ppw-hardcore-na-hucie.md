@@ -1,7 +1,7 @@
 +++
 title = "PpW Hardcore na Hucie"
 template = "event_page.html"
-authors = ["Szymon Iwulski"]
+authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue = ["P23"]
@@ -60,15 +60,15 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
 
 ### Highlights
 
-* This was the PpW debut of Hungarian wrestler Maverick, who previously appeared twice for [PTW](@/o/ptw.md) in 2024, including at [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md).
+* This was the PpW debut of Hungarian wrestler Maverick, who'd previously made two appearances for [PTW](@/o/ptw.md) in 2024, including at [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md).
 * Also debuting was young German wrestler Jon Parker from Leipzig. Parker worked matches mainly for Catch Factory in Leipzig, and several smaller German organizations.
 * Present at the show was [Samson](@/w/ppw.md), invited as a guest but also helping staff at the entrance gates.
 * Bartosz Plata scored his first decisive victory here (not counting the non-canon [Mystic Festival show](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md)), breaking his losing streak.
 * Boro prepared for his signature Oil Check by pulling a glove out of his singlet as usual, but it turned out to be damaged. Undeterred, he decided to perform the move without it.  Mutant however, proved immune.
-* Biesiad's usual entrance routine, setting up a ladder and downing a beer on top, was brutally interrupted by Gustav, who climbed the ladder, grabbed Biesiad's beer can and drank it, then spit Beer Mist into his opponent's face to start the match.
+* Biesiad's usual entrance routine, setting up a ladder and downing a beer on top of it, was brutally interrupted by Gustav, who climbed the ladder, grabbed Biesiad's beer can and drank it, then spat Beer Mist into his opponent's face to start the match.
 * In the six-man fight, the action quickly spilled outside the ring, and even to the club's mezzanine level, where Mister Z and Jacob Crane were trying to throw each other down to the floor.
-* After their match, Vic Golden took off his [Rodzina](@/tt/rodzina.md) armband, and offered it to Isnorr, suggesting he wants him to join the stable. Isnorr was hesitant and did not reply either way. But when Vic stuffed the armband in Isnorr's pocket, he kept it while exiting the ring.
-* Max was portrayed as a hometown hero in Katowice, and garnered huge support from the audience. This also included chants of "Katowice, my wiemy gdzie to jest" and conversely "[Łazienkowska][lazienkowska], gdzie to kurwa jest" (both variants of the [Bartoszyce chant](@/a/polish-wrestling-chants.md)) targeted at Olgierd. Towards the end, fans started chanting in Silesian: "Ciulaj go!".
+* After their match, Vic Golden took off his [Rodzina](@/tt/rodzina.md) armband and offered it to Isnorr, suggesting he wants him to join the stable. Isnorr was hesitant and did not reply either way. When Vic stuffed the armband in Isnorr's pocket, however, he kept it while exiting the ring.
+* Max was portrayed as a hometown hero in Katowice, and garnered huge support from the audience. This also included chants of "Katowice, my wiemy gdzie to jest" and conversely "[Łazienkowska][lazienkowska], gdzie to kurwa jest" (both variants of the [Bartoszyce chant](@/a/polish-wrestling-chants.md)) targeted at Olgierd. Towards the end, fans started chanting "Ciulaj go!", in [Silesian][slunska-godka].
 
 ## References
 
@@ -83,3 +83,4 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
 [hardkorowa-zapowiedz]: https://www.facebook.com/photo/?fbid=1509488814514839&set=a.499910772139320
 [piesomecz]: https://www.facebook.com/reel/996935399429424
 [lazienkowska]: https://legia.com/stadion/
+[slunska-godka]: https://en.wikipedia.org/wiki/Silesian_language
