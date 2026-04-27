@@ -15,7 +15,10 @@ has_video = false
 +++
 
 The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase will be held on the last day of their May seminar, on Sunday May 3rd in [2KOŁA](@/v/2kola.md). The dojo plans to showcase both rookies and "more or less-well known" faces.
-For this show, PpW extended an offer to all active wrestlers from the Polish scene, encouraging them to sign up for the event.
+
+## Build-up
+
+* For this show, PpW extended an offer to all active wrestlers from the Polish scene, encouraging them to sign up for the event. The first non-PpW worker to respond was [Szymon Kurczab](@/w/rookie-two.md) from [Kombat Pro Wrestling](@/o/kpw.md), known in his parent promotion as Rookie Two - on 26.04.2026 he was announced to face [Jakub](@/w/jakub.md). Szymon had previously attended [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) as a regular audience member.
 
 ## Predicted card
 
@@ -25,6 +28,12 @@ For this show, PpW extended an offer to all active wrestlers from the Polish sce
   - nc: upcoming
 - - '[Olgierd](@/w/olgierd.md)'
   - '???'
+  - nc: upcoming
+- - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '???'
+  - nc: upcoming
+- - '[Jakub](@/w/jakub.md)'
+  - '[Szymon Kurczab](@/w/rookie-two.md)'
   - nc: upcoming
 {% end %}
 
