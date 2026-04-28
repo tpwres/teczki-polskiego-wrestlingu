@@ -1,14 +1,14 @@
 +++
 title = "Istotna Martynka"
 template = "talent_page.html"
-authors = ["M3n747", "Sewi The Referee"]
+authors = ["M3n747", "Sewi The Referee", "Szymon Iwulski"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
 
-Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [PpW's](@/o/ppw.md) Director of Staff, a trainee of [Ewenement Dojo](@/o/ewenement-dojo.md) and the wife of [Istociarz](@/w/istociarz.md). She makes occasional in-ring appearances as wrestler and referee.
+Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [PpW's](@/o/ppw.md) Director of Staff, a trainee of [Ewenement Dojo](@/o/ewenement-dojo.md) and the wife of [Istociarz](@/w/istociarz.md). She makes occasional in-ring appearances as a wrestler and a referee.
 
 ## Basic info
 * Years active: N/A
@@ -35,11 +35,11 @@ Istotna Martynka joined [Ewenement Dojo](@/o/ewenement-dojo.md) at some point in
 
 Besides that, Martynka also hold a position of PpW's Director of Staff, managing all of the staff workers during PpW events.
 
-On February 14th, 2026, it was announced that Istotna Martynka (as Referee Martyna) would make a one-off referee appearance during PpW's Japanese excursion in March.
+On February 14th, 2026, it was announced that Istotna Martynka would make a one-off referee appearance during PpW's [Japanese excursion in March](@/a/ppw-hardcore-friday-the-13th-tokyo.md) (as Referee Martyna). This turned out to be a two-off, however, as [another date](@/a/ppw-polska-gurom.md) was later added. 
 
-At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka made her first in-ring appearance in PpW's main programming, joining _25 typa 25 broni_ Rumble match, in a losing effort.
+At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka made her first in-ring appearance in PpW's main programming, joining the _25 Typa 25 Broni_ Rumble Match, in a losing effort.
 
-On May 27th, the women's match for [Ewenement Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md) was announced. Martynka, now with added "Szeku" nickname, would make her singles debut against Agentka Agatka. This would mark the first women's match between two Polish performers in around 6 years - last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md).
+On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md) was announced. Martynka, now with an added "Szeku" nickname, would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
 
 ## Championships and accomplishments
 
