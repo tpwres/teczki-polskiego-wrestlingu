@@ -19,8 +19,8 @@ The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase will be held on 
 ## Build-up
 
 * For this show, PpW extended an offer to all active wrestlers from the Polish scene, encouraging them to sign up for the event. The first non-PpW worker to respond was [Szymon Kurczab](@/w/rookie-two.md) from [Kombat Pro Wrestling](@/o/kpw.md), known in his parent promotion as Rookie Two - on 26.04.2026 he was announced to face [Jakub](@/w/jakub.md). Szymon had previously attended [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) as a regular audience member.
-* On May 27th, the women's match was announced. Martynka, now with added "Szeku" nickname, is going to make her singles debut against Agentka Agatka. This marks the first women's match between two Polish performers in around 6 years - last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md).
-* On May 28th, next match was announced. After [PpW Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), [Mutant](@/w/mutant.md) has been obliged to serve as [Boro](@/w/boro.md)'s bodyguard. The duo is going to test their alliance against the team of [Bartosz Plata](@/w/plata.md) & [Max Speed](@/w/max-speed.md).
+* On April 27th, the women's match was announced. Martynka, now with added "Szeku" nickname, is going to make her singles debut against Agentka Agatka. This marks the first women's match between two Polish performers in around 6 years - last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md).
+* On April 28th, next match was announced. After [PpW Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), [Mutant](@/w/mutant.md) has been obliged to serve as [Boro](@/w/boro.md)'s bodyguard. The duo is going to test their alliance against the team of [Bartosz Plata](@/w/plata.md) & [Max Speed](@/w/max-speed.md).
 
 ## Predicted card
 
