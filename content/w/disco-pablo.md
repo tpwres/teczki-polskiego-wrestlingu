@@ -82,3 +82,4 @@ At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo fac
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=26752)
+* [Pablo's Instagram](https://www.instagram.com/disco.pablo/)
