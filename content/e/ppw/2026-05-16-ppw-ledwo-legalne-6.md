@@ -43,7 +43,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
     nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mister Z](@/w/mister-z.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Highlights
