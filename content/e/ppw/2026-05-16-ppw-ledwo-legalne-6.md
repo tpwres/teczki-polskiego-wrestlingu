@@ -53,3 +53,5 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=450053)
+
+[jakub-kranowski]: https://www.facebook.com/reel/833590592602373
