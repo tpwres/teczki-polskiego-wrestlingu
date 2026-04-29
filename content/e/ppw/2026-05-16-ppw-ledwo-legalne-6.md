@@ -20,7 +20,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
 * On 16.04.2026 PpW announced the #1 Contender Ladder Match between [Leon Lato](@/w/leon-lato.md), [Antoni Ocean](@/w/antoni-ocean.md), [Vic Golden](@/w/vic-golden.md) and Belgian wrestler MBM "Sweetboy". MBM was last seen at [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February 2024.
 * On 22.04.2026 PpW announced that Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) will fight [Zmowa](@/tt/zmowa.md) for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), however neither Zmowa's exact line-up, nor the stipulation of the match, were given.
 * On 26.04.2026 came the announcement of [Olgierd](@/w/olgierd.md) vs [Biesiad Strong](@/w/biesiad.md) for the [PpW Championship](@/c/ppw-championship.md). Biesiad had previously won the Championship opportunity at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) by coming up on top in the 25 Typa, 25 Broni Battle Royal.
-* Two days later the promotion announced [Jacob Crane](@/w/jacob-crane.md) vs [Mister Z](@/w/mister-z.md).
+* Two days later the promotion announced [Jacob Crane](@/w/jacob-crane.md) vs [Mister Z](@/w/mister-z.md). This match follows a minor storyline that started with a [video][jakub-kranowski] released shortly after [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), in which Crane - angered by being eliminated by Zet from the Battle Royal at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) - challenged him for a match at Ledwo Legalne 6, but was told by Real Deal to "impress him" first - which he did by winning at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md).
 
 ## Predicted card
 
