@@ -86,6 +86,8 @@
     {% include "badges/edojo.html" %}
   {% elif code == "ryucon" %}
     {% include "badges/ryu.html" %}
+  {% elif code == "pyrkon" %}
+    {% include "badges/pyrkon.html" %}
   {% else %}
     {% set org_slug = slug | default(value=code) %}
     {% set org_path = "@/o/" ~ org_slug ~ ".md" -%}

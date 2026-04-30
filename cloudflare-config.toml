@@ -78,7 +78,7 @@ tts_root = "//unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&sl=pl&ttsMode=se
 
 # These orgs are excluded from the talentlists
 special_orgs = [
-  "splat", "ewenement-dojo", "ryucon"
+  "splat", "ewenement-dojo", "ryucon", "pyrkon"
 ]
 
 fold_matchlist = "auto"
@@ -134,6 +134,6 @@ ledwo-legalne = "Ledwo Legalne"
 oldtown = "OldTown Festival"
 poznan-fair = "Poznań International Fair"
 project-basement = "Project Basement"
-pyrkon = "Pyrkon"
+# pyrkon = "Pyrkon"
 stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"
