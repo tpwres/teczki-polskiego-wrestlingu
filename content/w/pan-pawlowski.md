@@ -119,4 +119,4 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 
 [yt-iw]: https://www.youtube.com/@IstotaWrestlingu
 [rings-of-pawel]: https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl
-[mw-pawel]: https://www.youtube.com/watch?v=D4kwKCFbY9c
+[mw-pawel]: https://www.youtube.com/live/D4kwKCFbY9c?si=XxJ7CL7-1kn863hd&t=5868
