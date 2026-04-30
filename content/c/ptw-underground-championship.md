@@ -79,7 +79,7 @@ The strap itself is black and octagonal, which indicates that it was repurposed 
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - s: Ladder match
-    en: '[PTW Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md)'
+    en: '[PTW: Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md)'
     ed: 2025-03-15
 {% end %}
 
@@ -89,12 +89,12 @@ The strap itself is black and octagonal, which indicates that it was repurposed 
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - s: Ladder match
-    en: '[PTW Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md)'
+    en: '[PTW: Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md)'
     ed: 2025-03-15
 - - 'Max Speed(c)'
   - 'Conte'
   - s: Singles Match
-    en: '[PTW Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md)'
+    en: '[PTW: Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md)'
     ed: 2025-04-12
 - - 'Max Speed(c)'
   - 'Gulyás Öcsi'
@@ -104,12 +104,12 @@ The strap itself is black and octagonal, which indicates that it was repurposed 
 - - 'Max Speed(c)'
   - 'Ben Rodgers'
   - s: Singles Match
-    en: '[PTW Charity Picnic](@/e/ptw/2025-06-01-ptw-charity-picnic.md)'
+    en: '[PTW: Charity Picnic](@/e/ptw/2025-06-01-ptw-charity-picnic.md)'
     ed: 2025-06-01
 - - 'Max Speed(c)'
   - '[El G](@/w/el-g.md)'
   - s: Singles Match
-    en: '[PTW Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
+    en: '[PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
     ed: 2025-06-28
 {% end %}
 
@@ -123,28 +123,28 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - s: Singles Match
-    en: '[PTW Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md)'
+    en: '[PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md)'
     ed: 2025-07-19
 - - 'Daniel Razor(c)'
   - '"Starboy" Nano Lopez'
   - '[Serg Sullivan](@/w/serg-sullivan.md) w/ Bat Lesya Sullivan'
   - s: 'Triple Threat Match'
-    en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+    en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-07-27
 - - 'Daniel Razor(c)'
   - 'Duxx'
   - s: 'Open Challenge'
-    en: '[PTW Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
+    en: '[PTW: Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
 - - '"The Voice" Daniel Razor(c)'
   - 'Davide Adami'
   - s: 'Open Challenge'
-    en: '[PTW Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
+    en: '[PTW: Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Daniel Razor(c)'
   - s: Singles Match
-    en: '[PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md)'
+    en: '[PTW: Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md)'
     ed: 2025-11-15
 {% end %}
 
@@ -156,23 +156,29 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)(c)'
   - s: Singles Match
-    en: '[PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md)'
+    en: '[PTW: Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md)'
     ed: 2025-11-15
 - - '"Starboy" Nano Lopez(c)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - s: Singles Match
-    en: '[PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    en: '[PTW: Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
 - - '"Starboy" Nano Lopez(c)'
   - 'Bart Petro'
   - s: Singles Match
-    en: '[PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
+    en: '[PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
     ed: 2026-01-31
 - - '"Starboy" Nano Lopez(c)'
   - '[Jonny Storm](@/w/jonny-storm.md)'
   - s: Singles Match
-    en: '[PTW Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md)'
+    en: '[PTW: Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md)'
     ed: 2026-04-18
+- - '"Starboy" Nano Lopez(c)'
+  - '"The Voice" Daniel Razor'
+  - s: Last Man Standing Match
+    en: '[PTW: Krew Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+    ed: 2026-05-23
+    nc: upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
