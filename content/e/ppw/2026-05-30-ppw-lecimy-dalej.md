@@ -17,8 +17,15 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 ## Build-up
 
 * The event was first made known through the ticketing website Stage24 prior to any official post from the promotion, which came a few hours later.
+* The first match, announced on 29.04.2026, was [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md). At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Queen turned on Vic and left [Rodzina](@/tt/rodzina.md).
 
-{{ skip_card() }}
+## Card
+
+{% card() %}
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+  - nc: upcoming
+{% end %}
 
 ### Highlights
 
