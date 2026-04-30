@@ -34,8 +34,7 @@ In DDW he served as both, and adopted a persona of a heelish, self-important man
 
 ### Kombat Pro Wrestling (2015-2019)
 
-After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties as ring announcer.
-This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md), after which he parted ways with the promotion. In 2024, KPW owner and booker [Piękny Kawaler](@/w/piekny-kawaler.md) revealed that it was him who fired Pawłowski from the organization, over creative and personal differences.
+After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties as ring announcer. This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md), after which he parted ways with the promotion, the details of which differ between accounts. According to an [interview with Pawłowski][mw-pawel], [Piękny Kawaler](@/w/piekny-kawaler.md) fired him over the phone the day before [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md), saying it was a group decision. In a private conversation, Kawaler countered by saying that the idea was to keep Pawłowski for Arena 14 and only fire him after the show, but [Boski Ostrowski](@/w/ostrowski.md) was very strongly opposed to the idea and demanded that Pawłowski be fired immediately.
 
 ### Prime Time Wrestling (2021-present)
 
@@ -118,5 +117,6 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6523)
 
-[yt-iw]:https://www.youtube.com/@IstotaWrestlingu
-[rings-of-pawel]:https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl
+[yt-iw]: https://www.youtube.com/@IstotaWrestlingu
+[rings-of-pawel]: https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl
+[mw-pawel]: https://www.youtube.com/watch?v=D4kwKCFbY9c
