@@ -18,9 +18,9 @@ has_video = false
 
 * The first match, announced on 30.04.2026, was a Last Man Standing Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) between [Nano Lopez](@/w/nano-lopez.md) and [Daniel Razor](@/w/daniel-razor.md).
 
-## Card
+## Predicted card
 
-{% card() %}
+{% card(predicted=true) %}
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)(c)'
   - '["The Voice" Daniel Razor](@/w/daniel-razor.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
