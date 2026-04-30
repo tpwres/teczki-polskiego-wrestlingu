@@ -34,7 +34,9 @@
     {% include "badges/edojo.html" %}
   {% elif code == "ryucon" %}
     {% include "badges/ryu.html" %}
-{% else %}
+  {% elif code == "pyrkon" %}
+    {% include "badges/pyrkon.html" %}
+  {% else %}
     {% set org_path = "@/o/" ~ code ~ ".md" -%}
     <div title="{{ hint_text }}" class="badge">
       <a href="{{ get_url(path=org_path) }}" class="nu org-badge"
