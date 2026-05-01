@@ -20,10 +20,9 @@ The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase will be held on 
 
 * For this show, PpW extended an offer to all active wrestlers from the Polish scene, encouraging them to sign up for the event. The first non-PpW worker to respond was [Szymon Kurczab](@/w/rookie-two.md) from [Kombat Pro Wrestling](@/o/kpw.md), known in his parent promotion as Rookie Two - on 26.04.2026 he was announced to face [Jakub](@/w/jakub.md). Szymon had previously attended [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) as a regular audience member.
 * On 27.04.2026, a women's match was announced. [Martynka](@/w/istotna-martynka.md) - now billed with an added "Szeku" nickname - is going to make her singles debut against [Agentka Agatka](@/w/agentka-agatka.md). This marks the first women's match between two Polish performers in over six years - last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
-* Also on 27.04, PpW personality [Joker](@/w/joker.md) announced his return to ring-announcing role. Previously, he announced matches in PpW pre-shows.
+* Also on that day, PpW personality [Joker](@/w/joker.md) stated he would return to the ring announcing role. Previously, he announced matches in PpW pre-shows.
 * The next day another match was announced. After [PpW Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), [Mutant](@/w/mutant.md) has been obliged to serve as [Boro's](@/w/boro.md) bodyguard. The duo is going to test their alliance against the team of [Bartosz Plata](@/w/plata.md) & [Max Speed](@/w/max-speed.md).
-* On 29.04.2026, the _Next Big Thing Battle Royale_ was announced. Confirmed names from KPW included [Oskar Haller](@/w/oskar-haller.md), [Markus Paskal](@/w/markus-paskal.md) and [TOMCZAK](@/w/tomczak.md). The other spots would be open to "all the wrestlers who have not yet appeared in PpW", as well as stand-out rookies from weekend course.
-
+* On 29.04.2026, the Next Big Thing Battle Royale was announced. Confirmed names from KPW included [Oskar Haller](@/w/oskar-haller.md), [Markus Paskal](@/w/markus-paskal.md) and [TOMCZAK](@/w/tomczak.md). The other spots will be open to "all the wrestlers who have not yet appeared in PpW", as well as stand-out rookies from the weekend course.
 
 ## Predicted card
 
