@@ -15,10 +15,14 @@ Prime Time Wrestling is a Polish wrestling organisation founded in 2021 in Siles
 
 ## History
 
+### Pre-launch (2019-2021)
+
+After leaving [Kombat Pro Wrestling](@/o/kpw.md) in disgrace, [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md), an experienced, yet polarizing figure on the Polish scene, started to make moves toward creation of his new project. At some time between 2019 and 2021, he poached the roster of MZW and MCW and enlisted a handful of PpW performers. During KPW's 2020-21 hiatus, a wave of performers made their exits from the organization public. Some fans suspected Pawłowski's potential new project being a part of this, but he denied any involvement. This was however not the case. Poached talent, along with some micro-influencers and freshly trained rookies, became a core of PTW's roster.
+
 ### The 2021 launch
 
-On June 28, 2021, [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md), an experienced, yet polarizing figure on the Polish scene, announced the launch of his own wrestling promotion, promising "a new quality of entertainment".
-He posted a [trailer][trailer-1-ptw] featuring himself and glimpses of various wrestlers.
+On June 28, 2021, [Pawłowski](@/w/pan-pawlowski.md), announced the launch of his own wrestling promotion, promising "a new quality of entertainment". 
+He soon posted a [trailer][trailer-1-ptw] featuring himself and glimpses of various wrestlers.
 Over the course of the summer, training events have been held and social media promotion continued.
 Eventually, the organization announced it was going to hold their first official event in October (preceded by a smaller show closed to the public), and revealed the booked wrestlers.
 These were both veterans of the Polish scene, as well as debuting Polish wrestlers and foreign guests.

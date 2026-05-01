@@ -143,6 +143,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2021
 
+* During KPW's hiatus, many wrestlers declare leaving while others publicly state their loyalty to KPW. Pawłowski denies any involvement in this wave of exits.
 * Still under COVID restrictions, MZW records a [six-episode wrestling series](@/e/project-basement.md) and releases it on YouTube. The series is a tournament for their [vacant championship](@/c/mzw-championship.md).
 * With the restrictions lifted, PpW is invited to Poznań to perform as part of a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md).
 * KPW holds their [comeback show](@/e/kpw/2021-08-21-kpw-arena-17.md) after an 18-month long hiatus.
@@ -158,9 +159,9 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2023
 
-* In June, PTW holds their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md) in Wrocław, in [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to the rather minimal and utilitarian MZW, is stark.
-* In September, [PpW Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) airs live on television, on Sportowa.tv channel.
-* Two weeks later, MZW and PpW hold a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) in Wrocław, in the exact same venue, making history as the first such act of collaboration in Poland.
+* In June, PTW hold their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md), in Wrocław's [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to the rather minimal and utilitarian MZW, is stark.
+* In September, [PpW Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) airs live on television, on Sportowa.tv channel. This TV deal is short-lived and PpW goes back to streaming online.
+* Two weeks later, MZW and PpW hold a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) in Wrocław, making history as the first such act of collaboration in Poland.
 
 #### 2024
 
@@ -187,6 +188,6 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 * PpW and KPW hold [their](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) [shows](@/e/kpw/2026-01-16-kpw-arena-31.md) on the same day, in the same city (700&nbsp;m from each other), and at partly conflicting times (KPW at 6&nbsp;PM and PpW at 8&nbsp;PM) - both to capitalise on the upcoming WWE event.
 * [WWE](@/o/wwe.md) hold their first [show](@/e/wwe/2026-01-17-wwe-road-to-royal-rumble.md) in Poland since [2015](@/e/wwe/2015-04-15-wwe-live.md).
-* [Filip Fux](@/w/filip-fux.md) debuts for PpW at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), marking the first time an active KPW wrestler was allowed to work for the Warsaw-based promotion. He is soon followed by [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
-* PpW holds [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo, in cooperation with Big Japan Pro Wrestling and other local promotions. [Abdullah Kobayashi](@/w/abdullah-kobayashi.md) wins the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), marking the first time a Polish title changed hands outside of Poland.
+* [Filip Fux](@/w/filip-fux.md) debuts for PpW at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), marking the first time an active KPW wrestler was allowed to work for the Warsaw-based promotion. He is soon followed by [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md). Fux and Lato continue their PpW runs while still working for KPW.
+* PpW holds [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo, in cooperation with Big Japan Pro Wrestling and other local promotions. [Abdullah Kobayashi](@/w/abdullah-kobayashi.md) wins the vacant [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), marking the first time a Polish title changed hands outside of Poland.
 {% end %}
