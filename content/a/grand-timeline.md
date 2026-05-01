@@ -143,7 +143,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2021
 
-* During KPW's hiatus, many wrestlers declare leaving, while others publicly state their loyalty to KPW. Pawłowski denies any involvement in this wave of exits.
+* During KPW's hiatus, many wrestlers declare leaving while others publicly state their loyalty to KPW. Pawłowski denies any involvement in this wave of exits.
 * Still under COVID restrictions, MZW records a [six-episode wrestling series](@/e/project-basement.md) and releases it on YouTube. The series is a tournament for their [vacant championship](@/c/mzw-championship.md).
 * With the restrictions lifted, PpW is invited to Poznań to perform as part of a [craft beer festival](@/e/ppw/2021-07-30-ppw-poznan-supershow.md).
 * KPW holds their [comeback show](@/e/kpw/2021-08-21-kpw-arena-17.md) after an 18-month long hiatus.
@@ -159,9 +159,9 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 2023
 
-* In June, PTW holds their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md) in Wrocław, in [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to the rather minimal and utilitarian MZW, is stark.
+* In June, PTW hold their [fourth major show](@/e/ptw/2023-06-25-ptw-4-mystery.md), in Wrocław's [Czasoprzestrzeń](@/v/czasoprzestrzen.md) - the same venue as MZW. The difference in budget and production value, as compared to the rather minimal and utilitarian MZW, is stark.
 * In September, [PpW Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md) airs live on television, on Sportowa.tv channel. This TV deal is short-lived and PpW goes back to streaming online.
-* Two weeks later, MZW and PpW hold a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) in Wrocław, in the exact same venue, making history as the first such act of collaboration in Poland.
+* Two weeks later, MZW and PpW hold a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) in Wrocław, making history as the first such act of collaboration in Poland.
 
 #### 2024
 
