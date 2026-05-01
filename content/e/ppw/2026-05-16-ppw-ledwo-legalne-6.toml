@@ -7,3 +7,4 @@
 007 = { path = "gusutav-i-gobolin-zawalacza.webp", caption = 'Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md)& [Goblin](@/w/goblin.md). Note the typo: _zawalaczą_ instead of _zawalczą_.', source = "Official PpW Facebook" }
 008 = { path = "anton-lavey-vs-jezus.webp", caption = 'Image announcing [Olgierd](@/w/olgierd.md) vs [Biesiad Strong](@/w/biesiad.md).', source = "Official PpW Facebook" }
 009 = { path = "jacob-crane-vs-mister-z.webp", caption = 'Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Mister Z](@/w/mister-z.md).', source = "Official PpW Facebook" }
+010 = { path = "nawalanie-z-jedna-niewiadoma.webp", caption = 'Image announcing MBM vs [Vic Golden](@/w/vic-golden.md) vs [Leon Lato](@/w/leon-lato.md) vs [Antoni Ocean](@/w/antoni-ocean.md) vs [Mutant](@/w/mutant.md) vs ???.', source = "Official PpW Facebook" }
