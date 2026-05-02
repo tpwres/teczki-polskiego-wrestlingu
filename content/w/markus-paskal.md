@@ -26,7 +26,7 @@ Markus Paskal made his debut at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzi
 
 ### PpW Ewenemenet Wrestling (2026-)
 
-In late April, Oskar was announced to appear at [Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Oskar Alexander](@/w/oskar-alexander.md) and [Tomczak](@/w/tomczak.md).
+In late April, Markus was announced to appear at [Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Oskar Haller](@/w/oskar-haller.md) and [Tomczak](@/w/tomczak.md).
 
 ## In wrestling
 
