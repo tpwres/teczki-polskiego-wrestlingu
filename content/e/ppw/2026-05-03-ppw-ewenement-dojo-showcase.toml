@@ -6,3 +6,6 @@
 005 = { path = "fox-vs-2.webp", caption = "Image announcing [Jakub](@/w/jakub.md) vs [Szymon Kurczab](@/w/rookie-two.md).", source = "Official Ewenement Dojo Instagram" }
 006 = { path = "agatka-vs-martynka.webp", caption = "Image announcing [Agentka Agatka](@/w/agentka-agatka.md) vs [Martynka](@/w/istotna-martynka.md).", source = "Official Ewenement Dojo Instagram" }
 007 = { path = "speed-plata-vs-mutant-boro.webp", caption = "Image announcing [Max Speed](@/w/max-speed.md) & [Bartosz Plata](@/w/plata.md) vs [Mutant](@/w/mutant.md) & [Boro](@/w/boro.md).", source = "Official Ewenement Dojo Instagram" }
+008 = { path = "tomczak.webp", caption = "Image announcing [Tomczak](@/w/tomczak.md).", source = "Official Ewenement Dojo Instagram" }
+009 = { path = "markus-paskal.webp", caption = "Image announcing [Markus Paskal](@/w/markus-paskal.md).", source = "Official Ewenement Dojo Instagram" }
+010 = { path = "oskar-haller.webp", caption = "Image announcing [Oskar Haller](@/w/oskar-haller.md).", source = "Official Ewenement Dojo Instagram" }

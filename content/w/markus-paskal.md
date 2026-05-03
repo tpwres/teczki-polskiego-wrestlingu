@@ -14,7 +14,7 @@ Markus Paskal is a Polish wrestler working for [Kombat Pro Wrestling](@/o/kpw.md
 
 * Years active: 2025-
 * Gimmicks/nicknames:
-  - Markus Paskal {{ org_badge(orgs=['kpw']) }}
+  - Markus Paskal {{ org_badge(orgs=['kpw', 'ppw']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
 
@@ -23,6 +23,10 @@ Markus Paskal is a Polish wrestler working for [Kombat Pro Wrestling](@/o/kpw.md
 ### Kombat Pro Wrestling (2025-)
 
 Markus Paskal made his debut at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) in a match against the former [KPW Tag Team Champion](@/c/kpw-tag-team-championship.md), [Veit Müller](@/w/veit-mueller.md), a fight he lost. Later at the same show he took part in a 13-Man Championship Battle Royal, where he very nearly emerged victorious. He was, however, sneakily one-upped by [Eryk Lesak](@/w/eryk-lesak.md), which gave rise to a conflict between the two. Lesak and Paskal faced off one-on-one at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md); the newcomer lost again, but he then employed the help of a former [KPW Champion](@/c/kpw-championship.md) [Kamil Aleksander](@/w/kamil-aleksander.md), who agreed to become his mentor and teamed up with Markus against Lesak and [Chemik](@/w/chemik.md) at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
+
+### PpW Ewenemenet Wrestling (2026-)
+
+In late April, Markus was announced to appear at [Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Oskar Haller](@/w/oskar-haller.md) and [Tomczak](@/w/tomczak.md).
 
 ## In wrestling
 

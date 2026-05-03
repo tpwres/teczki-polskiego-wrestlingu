@@ -17,6 +17,7 @@ Michał "Mutant" Świątkowski is a Polish wrestler currently working for [PpW E
   - Daniel Boza {{ org_badge(org='kpw') }}
   - Michał "Mutant" Świątkowski {{ org_badge(org='ptw')}}
   - Mutant {{ org_badge(org='ppw')}}
+  - Muti {{ org_badge(org='ppw') }}, when teaming with ["Ladykiller" Boro](@/w/boro.md)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
