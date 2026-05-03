@@ -48,7 +48,7 @@ The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase was held on the 
   - 'Mikołaj "SKS"'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Biesiad](@/w/biesiad.md)'
-  - s: Olgierd cuts a promo about Zmowa, Biesiad cuts in and a brawl ensues
+  - g: Olgierd cuts a promo about Zmowa, Biesiad cuts in and a brawl ensues
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '["Szeku" Martynka](@/w/istotna-martynka.md)'
 - - '[Mister Z](@/w/mister-z.md)'
