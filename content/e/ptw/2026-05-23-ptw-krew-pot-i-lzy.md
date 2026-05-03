@@ -17,7 +17,7 @@ has_video = false
 ## Build-up
 
 * The first match, announced on 30.04.2026, was a Last Man Standing Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) between [Nano Lopez](@/w/nano-lopez.md) and [Daniel Razor](@/w/daniel-razor.md).
-* On 3.03.2026 PTW announced the British tag-team The Lancadores (M.R.D., Tori Fox & Kenny B.), last seen at [Hallowenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha).
+* On 3.03.2026 PTW announced the British tag-team The Lancadores (M.R.D., Tori Fox & Kenny B.), last seen at [Hallowenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md).
 
 ## Predicted card
 
