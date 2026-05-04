@@ -60,7 +60,7 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
 ## References
 
 * Cagematch event pages: [day 1](https://www.cagematch.net/?id=1&nr=348387), [day 2](https://www.cagematch.net/?id=1&nr=348388)
-* [Facebook announcement](https://www.facebook.com/TattooKonwent/posts/pfbid02gSGuoY1rmy3iHyzg9CDVLakhqShm8T4iH3Ys9sDzBxEqNjcubNKuQu2pnq29mY1Tl) on the event's page, lists timeslots.
+* [Facebook announcement](https://www.facebook.com/TattooKonwent/posts/pfbid02gSGuoY1rmy3iHyzg9CDVLakhqShm8T4iH3Ys9sDzBxEqNjcubNKuQu2pnq29mY1Tl) on the event's page, lists timeslots
 * [KPW's event page](https://kpwrestling.pl/events/gdansk-tattoo-konwent-2023/) for both days
-* [Coverage by local newspaper Dziennik Bałtycki](https://dziennikbaltycki.pl/gdansk-tattoo-konwent-2022-entuzjasci-sztuki-malowania-i-ozdabiana-cial-zapelnili-amber-expo-zdjecia/ar/c13-16537255), includes photo gallery showing Greg vs Filip.
+* [Coverage by local newspaper Dziennik Bałtycki](https://dziennikbaltycki.pl/gdansk-tattoo-konwent-2022-entuzjasci-sztuki-malowania-i-ozdabiana-cial-zapelnili-amber-expo-zdjecia/ar/c13-16537255), includes photo gallery showing Greg vs Filip
 * [Facebook photo album by Bartek Modrzejewski](https://www.facebook.com/media/set?vanity=TattooKonwent&set=a.5229672220484164), includes several photos of the Battle Royal and other matches
