@@ -22,6 +22,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
 * On 26.04.2026 came the announcement of [Olgierd](@/w/olgierd.md) vs [Biesiad Strong](@/w/biesiad.md) for the [PpW Championship](@/c/ppw-championship.md). Biesiad had previously won the Championship opportunity at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) by coming up on top in the 25 Typa, 25 Broni Battle Royal.
 * Two days later the promotion announced [Jacob Crane](@/w/jacob-crane.md) vs [Mister Z](@/w/mister-z.md). This match follows a minor storyline that started with a [video][jakub-kranowski] released shortly after [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), in which Crane - angered by being eliminated by Zet from the Battle Royal at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) - challenged him for a match at Ledwo Legalne 6, but was told by Real Deal to "impress him" first - which he did by winning at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md).
 * On 1.05.2026 the Ladder Match was expanded to also include [Mutant](@/w/mutant.md) and a mysterious sixth opponent.
+* The next day PpW announced, via a [video]][mareczek], the Zmowa members to face Bad Trip: [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md).
 
 ## Predicted card
 
@@ -36,7 +37,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
     s: '#1 Contender Ladder Match'
     nc: upcoming
 - - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - '[Zmowa](@/tt/zmowa.md): ??? & ???'
+  - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md)(c)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
@@ -58,3 +59,4 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=450053)
 
 [jakub-kranowski]: https://www.facebook.com/reel/833590592602373
+[mareczek]: https://www.instagram.com/p/DX13s_NKLTx/

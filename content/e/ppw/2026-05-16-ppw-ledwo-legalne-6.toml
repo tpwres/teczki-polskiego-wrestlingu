@@ -8,3 +8,4 @@
 008 = { path = "anton-lavey-vs-jezus.webp", caption = 'Image announcing [Olgierd](@/w/olgierd.md) vs [Biesiad Strong](@/w/biesiad.md).', source = "Official PpW Facebook" }
 009 = { path = "jacob-crane-vs-mister-z.webp", caption = 'Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Mister Z](@/w/mister-z.md).', source = "Official PpW Facebook" }
 010 = { path = "nawalanie-z-jedna-niewiadoma.webp", caption = 'Image announcing MBM vs [Vic Golden](@/w/vic-golden.md) vs [Leon Lato](@/w/leon-lato.md) vs [Antoni Ocean](@/w/antoni-ocean.md) vs [Mutant](@/w/mutant.md) vs ???.', source = "Official PpW Facebook" }
+011 = { path = "zmowa-vs-bad-trip.webp", caption = 'Image announcing [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md) vs [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).', source = "Official PpW Facebook" }
