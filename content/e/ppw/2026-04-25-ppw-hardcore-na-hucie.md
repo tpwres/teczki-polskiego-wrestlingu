@@ -73,6 +73,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=448710)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-hardcore-na-hucie-04-25-2026-20-23-19) (requires paid subscription)
 * [Facebook post announcing the event][hardkorowa-zapowiedz]
 * [Facebook profile of the venue][venue-fb]
 * [P23 info at Going][venue-bio]

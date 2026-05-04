@@ -93,6 +93,7 @@ There were a significant number of foreign talent at this event, including some 
 * [Facebook event page](https://www.facebook.com/events/1031987541820081/)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2024/)
 * [Facebook post announcing The 87](https://www.facebook.com/kpwrestling/posts/pfbid033YGbDVKzLTZneghCm8eWyJXLbcV651TKT4qaKUu8fhaMDKv9X56zXZ4zDmhTVqkAl)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=HxHgFDjdpy4)
 
 [malinowski-video]: https://www.youtube.com/watch?v=dZ1HmSC_iqs
 [chemik-video]: https://www.youtube.com/watch?v=nJ23NvOAGCM

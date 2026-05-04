@@ -54,6 +54,7 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=438549)
 * [Announcement at SplatFilmFest.com](https://splatfilmfest.com/wydarzenia_specjalne/wrestling-ppw-x-splatfilmfest-clash-of-the-creeps/)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=cLtQzDqpE2M)
 
 [pkin-wikipedia]: https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science
 [michalek]: https://en.wikipedia.org/wiki/Michael_Myers_(Halloween)
