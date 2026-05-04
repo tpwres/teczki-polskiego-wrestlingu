@@ -73,6 +73,6 @@ The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase was held on the 
 * [Facebook event page](https://www.facebook.com/events/870211932713857) for the seminar, also announces the showcase
 * [Facebook event page of the showcase itself](https://fb.me/e/7vSnXqETn)
 * [Instagram post](https://www.instagram.com/p/DW7bljdDL4y/) with the announcement
-* [Istota Wrestlingu's fancam video](https://www.youtube.com/watch?v=EZCHbdh4Tvs)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=EZCHbdh4Tvs)
 
 [cuck]: https://www.instagram.com/p/DXw-qM8qlvn/

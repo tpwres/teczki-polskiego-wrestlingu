@@ -8,7 +8,7 @@ venue=["kinoteka"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 1 = { path = "ppw-clash-of-the-creeps-plakat.webp", caption = "Official poster featuring [Johnny Blade](@/w/johnny-blade.md) and [Gremlin](@/w/goblin.md).", source = "Official PpW Facebook"}
 2 = { path = "masowy-kwesjasz.webp", caption = "Image announcing [Goblin](@/w/goblin.md).", source = "Official PpW Facebook"}
@@ -54,6 +54,7 @@ Clash of the Creeps was an Halloween-themed PpW event. It was the second show in
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=438549)
 * [Announcement at SplatFilmFest.com](https://splatfilmfest.com/wydarzenia_specjalne/wrestling-ppw-x-splatfilmfest-clash-of-the-creeps/)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=cLtQzDqpE2M)
 
 [pkin-wikipedia]: https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science
 [michalek]: https://en.wikipedia.org/wiki/Michael_Myers_(Halloween)

@@ -8,7 +8,7 @@ venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -48,7 +48,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 * Pawłowski started with a short introduction, announcing the show, and briefly explaining what the audience can expect.
 * Nano Lopez came out, and proceeded to cut a short promo in English before switching to Polish, declaring his next match is going to be the start of his road to the [PTW Championship](@/c/ptw-championship.md).
 * While Nano was still on the stage, out came Erik Ŝlotir. In his promo, he prompted Nano to get physical, but Pawłowski separated them. Both sign their contracts and the match is on.
-* Spartan was the only one present to sign for his match. He mentions that there were [300 Spartans at Thermopylae][wiki-thermopylae], but there's only one of him... so he needs fans to be his army. He got the fans to pop and bark for him.
+* Spartan was the only one present to sign for his match. He mentions that there were [300 Spartans at Thermopylae][wiki-thermopylae], but there's only one of him… so he needs fans to be his army. He got the fans to pop and bark for him.
 * Next was Caravaggio, again as the only competitor for his match. In his rambling promo, he focused on insulting the fans.
 * The Fatal Four Way for PTW Contract match competitors entered. Blaze, [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md) were present, but it was confirmed that Maverick will also compete.
   Bjorn and Rust are a heel tag team, and they put down Blaze on the mic, but also confirmed that it's every man for himself.
@@ -101,8 +101,9 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 * [Facebook post announcing Gulyas Bros vs Svedberg & Caravaggio](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02ofPdwpvzFjqsHvesqrHvLoac8iQuCk5eu25SAoHEg6N7MAB6RCNKWmSCtJ7NVDC4l)
 * [Gulyas Bros on Cagematch](https://www.cagematch.net/?id=28&nr=9957)
 * [PTW's Facebook video of Alex interrupting Speed's training](https://www.facebook.com/PrimeTimeWrestlingPL/videos/442203918694225/)
-* [Mywrestling's recap and results](https://mywrestling.com.pl/ptw-ryucon-3-wyniki/)
+* [MyWrestling's recap and results](https://mywrestling.com.pl/ptw-ryucon-3-wyniki/)
 * [Ryucon's info page](https://ryucon.pl/ptw-x-ryucon/)
 * [Facebook post recapping the signing ceremony](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02gUSXkoTnSfkkfiZ9WvgUy76aE17vVo6epmiVV3vUUybXM8XH27NJabWkSJbLWoDel)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=bQ7p7_47wT8)
 
 [wiki-thermopylae]: https://en.wikipedia.org/wiki/Battle_of_Thermopylae

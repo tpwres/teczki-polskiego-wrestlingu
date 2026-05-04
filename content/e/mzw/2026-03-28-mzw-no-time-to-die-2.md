@@ -8,7 +8,7 @@ venue = ["stacja-miedzyrzecka"]
 [extra]
 city = "Wrocław"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -69,7 +69,7 @@ No Time to Die 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow
 * After [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md) entered the ring, the lights suddenly went out. When they came back on, [Shadow](@/w/shadow.md) and [Marcelito](@/w/marcelito.md) were waiting perched on the turnbuckles.
 * [Syriusz Dziedzic](@/w/dziedzic.md) cut a promo in which he talked about him discovering wrestling, what it meant to him, how he decided to become a wrestler and the Champion. He ended by saying "Dajcie mi tego jebanego wilka, dajcie mi całą watahę!" (_Give me that fucking wolf, give me the entire wolfpack!_), referencing [Febus 'The Wolf'](@/w/apollo-anderson.md) and his old tag team [Wataha](@/tt/wataha.md).
 * The promo was mocked by the audience, who saw it as meandering and boring. One of the fans countered "Dajcie mi wilka!" (_Give me the wolf!_) with "Nie dam ci BLIKa!" (_I'm not giving you any BLIK!_), playing on certain similarity between "wilk" (_wolf_) and ["BLIK"][blik]. BLIK is a popular Polish mobile payment system allowing for direct money transfers between two users via a one-time code.
-* Adrian Zgórski introduced [Jakub](@/w/jakub.md) as _Jakub "Fox"_, promting the [Legacy Champion](@/c/low-european-championship.md) to stare him down and whisper something into his ear for quite a while. Adrian then re-did the introduction, this time referring to him as _The man nicknamed "Fox" - Jakub!... ... ... "Fox"!_. Angered, Jakub went after Adrian, who quickly remvoed himself from the ring.
+* Adrian Zgórski introduced [Jakub](@/w/jakub.md) as _Jakub "Fox"_, promting the [Legacy Champion](@/c/low-european-championship.md) to stare him down and whisper something into his ear for quite a while. Adrian then re-did the introduction, this time referring to him as _The man nicknamed "Fox" - Jakub!… … … "Fox"!_. Angered, Jakub went after Adrian, who quickly removed himself from the ring.
 * [Oskar Alexander](@/w/oskar-alexander.md) cut a heel promo, calling for an opponent to answer his open challenge (quietly hoping for [Jędruś Bułecka](@/w/jedrus-bulecka.md)). Behind his back, [Bartosz Plata](@/w/plata.md), who until this moment had been present at ringside, as a member of the security team, removed his uniform to reveal wrestling gear underneath, and stepped into the ring to face Oskar.
 * As [Tony Sheen](@/w/riverman.md) forced his way into the main event, the announced Triple Threat match became a regular Singles Match between [Ladykiller](@/w/boro.md) and [Sambor](@/w/sambor.md).
 * During the main event, [Arek Paterek](@/w/arek-paterek.md) helped [Tony Sheen](@/w/riverman.md) by pulling [Sędzia Seweryn](@/w/sedzia-seweryn.md) out of the ring to stop a three-count, and later by handing Sheen a chair to attack Gustav with.
@@ -79,6 +79,7 @@ No Time to Die 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=447069)
+* Fancam by Istota Wrestlingu: [part 1](https://www.youtube.com/watch?v=U53rS92yfAg), [part 2](https://www.youtube.com/watch?v=-rerPp5jf4Q)
 * [Announcement post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0tqijabZm9aLC5x9JuvpEMHa4e7rUjPFKJKMRph6NnTJ3k3xw9XSwR1bfVv4ERPv7l) on MZW's official Facebook page.
 
 [matta-nie-bedzie]: https://www.facebook.com/reel/1632369077910218
