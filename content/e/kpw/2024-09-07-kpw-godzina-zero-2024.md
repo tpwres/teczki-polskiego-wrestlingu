@@ -8,7 +8,7 @@ venue = ["okrzei-6-gdynia"]
 [extra]
 city = "Gdynia"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 

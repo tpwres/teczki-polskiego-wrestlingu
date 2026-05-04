@@ -8,7 +8,7 @@ venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
