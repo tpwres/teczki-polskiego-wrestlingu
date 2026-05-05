@@ -26,4 +26,4 @@ MZW Forever 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a 
 
 ## References
 
-* TBD
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=452449)
