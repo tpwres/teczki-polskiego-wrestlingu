@@ -31,7 +31,7 @@ The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase was held on the 
   - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
 - - '[_rookie_ Gringo](@/w/jakub.md)'
   - '_rookie_ Młody'
-  - Monster High Zuza
+  - _rookie_ Monster High Zuza
   - _rookie_ Maciej
   - _rookie_ Maria
   - '[Oskar Haller](@/w/oskar-haller.md)'
