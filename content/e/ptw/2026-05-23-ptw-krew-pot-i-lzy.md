@@ -18,6 +18,7 @@ has_video = false
 
 * The first match, announced on 30.04.2026, was a Last Man Standing Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) between [Nano Lopez](@/w/nano-lopez.md) and [Daniel Razor](@/w/daniel-razor.md).
 * On 3.03.2026 PTW announced the British tag-team The Lancadores (M.R.D., Tori Fox & Kenny B.), last seen at [Hallowenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md).
+* On 6.05.2026 PTW announced a Trios Match between Team Polska ([CJ Klakson](@/w/cj-klakson.md), [Bart Petro](@/w/bart-petro.md) & [Boguś](@/w/bogus.md)) and Team International ([Damian Adler](@/w/damian-adler.md), [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md) & Halfdan).
 
 ## Predicted card
 
@@ -30,6 +31,10 @@ has_video = false
 - - 'The Lancadores: M.R.D. & Tori Fox & Kenny B.'
   - '??? & ???'
   - s: Tag Team Match
+    nc: upcoming
+- - 'Team Polska: [CJ Klakson](@/w/cj-klakson.md) & [Bart Petro](@/w/bart-petro.md) & [Boguś](@/w/bogus.md)'
+  - 'Team International: [Damian Adler](@/w/damian-adler.md) & [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md) & Halfdan'
+  - s: Trios Match
     nc: upcoming
 {% end %}
 
