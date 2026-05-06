@@ -23,6 +23,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
 * Two days later the promotion announced [Jacob Crane](@/w/jacob-crane.md) vs [Mister Z](@/w/mister-z.md). This match follows a minor storyline that started with a [video][jakub-kranowski] released shortly after [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), in which Crane - angered by being eliminated by Zet from the Battle Royal at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) - challenged him for a match at Ledwo Legalne 6, but was told by Real Deal to "impress him" first - which he did by winning at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md).
 * On 1.05.2026 the Ladder Match was expanded to also include [Mutant](@/w/mutant.md) and a mysterious sixth opponent.
 * The next day PpW announced, via a [video]][mareczek], the Zmowa members to face Bad Trip: [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md).
+* On 6.05.2026 [Max Speed](@/w/max-speed.md) vs [Sentinel](@/w/sentinel.md) was announced. 
 
 ## Predicted card
 
@@ -47,6 +48,9 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
     nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mister Z](@/w/mister-z.md)'
+  - nc: upcoming
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Sentinel](@/w/sentinel.md)'
   - nc: upcoming
 {% end %}
 
