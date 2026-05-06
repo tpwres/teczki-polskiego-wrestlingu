@@ -1,3 +1,4 @@
 01 = { path = "kpil-plakat.webp", caption = "Official poster featuring, top: [Spartan](@/w/spartan.md), [Daniel Razor](@/w/daniel-razor.md); bottom: [Sawicki](@/w/sawicki.md), [Nano Lopez](@/w/nano-lopez.md), [CJ Klakson](@/w/cj-klakson.md).", source = "Official PTW Facebook" }
 02 = { path = "nano-lopez-vs-daniel-razor.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [Daniel Razor](@/w/daniel-razor.md).", source = "Official PTW Facebook" }
 03 = { path = "the-lancadores.webp", caption = "Image announcing M.R.D., Tori Fox & Kenny B.", source = "Official PTW Facebook" }
+04 = { path = "3-v-3.webp", caption = "Image announcing [CJ Klakson](@/w/cj-klakson.md), [Boguś](@/w/bogus.md) & [Bart Petro](@/w/bart-petro.md) vs [Damian Adler](@/w/damian-adler.md), Halfdan & [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md).", source = "Official PTW Facebook" }
