@@ -39,6 +39,7 @@
     {% endfor %}
     {% if config.extra.special_orgs is containing(o) %}{% set_global valid_org = false %}{% endif %}
     {% if not valid_org %}{% continue %}{% endif %}
+    {% if not valid_org %}</span>{% continue %}{% endif -%}
     {{ macros::promolink_color_span(code=o, styles=org_styles) }}
     {% if display_match_links and all_appearances|length < 5 %}
       {% for match in all_appearances|sort(attribute='d') %}
