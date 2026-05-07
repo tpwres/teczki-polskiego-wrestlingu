@@ -43,7 +43,7 @@ After that Lesak focused on a solo career. He lost to [Filip Fux](@/w/filip-fux.
 
 At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) Lesak got into a rivalry with the up-and-coming [Markus Paskal](@/w/markus-paskal.md). Eryk's old partner Chemik joined him in a bullying session, unaware of the fact that Markus already got himself backup in the form of the returning [Kamil Aleksander](@/w/kamil-aleksander.md). The former [DDW International Champion](@/c/ddw-international-championship.md) came back to KPW after more than six years, with the intention of facing Lesak and Chemik in a Tag Team Match at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
 
-## Legacy of Wrestling (2026-present)
+### Legacy of Wrestling (2026-present)
 
 Lesak debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Syriusz Dziedzic](@/w/dziedzic.md).
 
