@@ -18,7 +18,7 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 
 * The event was first made known through the ticketing website Stage24 prior to any official post from the promotion, which came a few hours later.
 * The first match, announced on 29.04.2026, was [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md). At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Queen turned on Vic and left [Rodzina](@/tt/rodzina.md).
-* On 7.05.2026 PpW announced [Bartosz Plata](@/w/plata.md) vs Danil Mamedov.
+* On 7.05.2026 PpW announced [Bartosz Plata](@/w/plata.md) vs German-Kazakh wrestler Danil Mamedov.
 
 ## Predicted card
 
@@ -39,3 +39,4 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=450781)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid0hSvkWwxMU43BSzJv9Ui8rVBxmfeJiZfVsfvCgaDPxvLhkjssB3FSndrUFCEdz1fHl)
+* [Mamedov's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=27858)
