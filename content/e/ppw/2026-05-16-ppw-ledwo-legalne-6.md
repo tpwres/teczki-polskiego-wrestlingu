@@ -24,7 +24,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
 * On 1.05.2026 the Ladder Match was expanded to also include [Mutant](@/w/mutant.md) and a mysterious sixth opponent.
 * The next day PpW announced, via a [video][mareczek], the Zmowa members to face Bad Trip: [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md).
 * On 6.05.2026 [Max Speed](@/w/max-speed.md) vs [Sentinel](@/w/sentinel.md) was announced. 
-* On 8.05.2026 PpW announced that [Gabriel Queen](@/w/gabriel-queen.md) "will have something to do" at the show.
+* On 8.05.2026 PpW assured that [Gabriel Queen](@/w/gabriel-queen.md) "will have something to do" at the show.
 
 ## Predicted card
 
