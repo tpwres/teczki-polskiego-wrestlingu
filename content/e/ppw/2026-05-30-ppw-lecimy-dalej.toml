@@ -1,2 +1,3 @@
 001 = { path = "ppw-lecimy-dalej-plakat.webp", caption = 'Official poster, featuring Gabriel Queen.', source = "Stage24.pl / Official PpW Facebook" }
-002 = { path = "vicbriel-queendel.webp", caption = 'Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md)', source = "Official PpW Facebook" }
+002 = { path = "vicbriel-queendel.webp", caption = 'Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md).', source = "Official PpW Facebook" }
+003 = { path = "ten-to-musi-wydawac-fortune-na-szczoteczki", caption = 'Image announcing [Bartosz Plata](@/w/plata.md) vs Danil Mamedov.', source = "Official PpW Facebook" }
