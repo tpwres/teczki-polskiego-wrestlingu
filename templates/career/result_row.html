@@ -1,70 +1,67 @@
-{% set final = row | last %}
-{% set winner = row | first %}
-{% if final is object %}
-  {% set others = row | slice(start=1, end=-1) %}
-  {% set title = final.c | default(value="") %}
-  {% set stip = final.s | default(value="") %}
-  {% set segment = final | get(key="g", default=false) %}
-{% else %}
-  {% set others = row | slice(start=1) %}
-  {% set segment = false %}
-  {% set final = [] | group_by(key=0) %}
-{% endif %}
-{% set bodies = others | length %}
-{% if title %}
-  {% set default_stip = "Match" %}
-{% else %}
-  {% set default_stip = "Singles Match" %}
-{% endif %}
-{% if segment %}
-  {% set default_stip = "" %}
-{% endif %}
-{% if final.nc %}
-    {% set sep = "vs" %}
-{% else %}
-    {% set sep = "defeated" %}
-{% endif %}
-{% if not stip %}{% set stip = default_stip %}{% endif %}
-{% set positions = positions | default(value=[]) %}
+{% set final = row | last -%}
+{% set winner = row | first -%}
+{% if final is object -%}
+  {% set talent = row | slice(end=-1) -%}
+  {% set others = row | slice(start=1, end=-1) -%}
+  {% set title = final.c | default(value="") -%}
+  {% set stip = final.s | default(value="") -%}
+  {% set segment = final | get(key="g", default=false) -%}
+{% else -%}
+  {% set talent = row -%}
+  {% set others = row | slice(start=1) -%}
+  {% set segment = false -%}
+  {% set final = [] | group_by(key=0) -%}
+{% endif -%}
+{% set bodies = others | length -%}
+{% if title -%}
+  {% set default_stip = "Match" -%}
+{% else -%}
+  {% set default_stip = "Singles Match" -%}
+{% endif -%}
+{% if segment -%}
+  {% set default_stip = "" -%}
+{% endif -%}
+{% if final.nc -%}
+    {% set sep = "vs" -%}
+{% else -%}
+    {% set sep = "defeated" -%}
+{% endif -%}
+{% if final.nc and final.nc == "upcoming" -%}
+  {% set upcoming = true -%}
+{% endif -%}
+{% if not stip %}{% set stip = default_stip %}{% endif -%}
+{% set positions = positions | default(value=[]) -%}
 
-{% if segment %}
-  <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others %}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
-{% else %}
-  {% if final.nc and final.nc == "upcoming" %}
-    <strong>Upcoming:</strong>
-  {% elif bodies == 0 and not final.nc %}
-    Winner:
-  {% endif %}
-  {% if 0 in positions %}
+{% if segment -%}
+  {% include "career/segment_row.html" -%}
+{% elif bodies == 0 and not final.nc -%}
+  {% include "career/only_winner_row.html" -%}
+{% else -%}
+  {% if upcoming %}<strong>Upcoming:</strong>{% endif %}
+  {% set highlight = 0 in positions %}
+  {% if highlight -%}
     <strong>{{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}</strong>
-  {% else %}
+  {% else -%}
     {{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
-  {% endif %}
-  {% if bodies > 0 %}
-    {{ sep }}
-    {% for opponent in others %}
-      {% if loop.index in positions %}
-        <strong>{{ opponent | replace(from=";", to=" w/") | markdown(inline=true) | safe }}</strong>
-      {% else %}
-        {{ opponent | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
-      {% endif %}
-      {% if not loop.last %}
-        and
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-  {% if final.r %}
+  {% endif -%}
+  {{ sep }}
+  {% for opponent in others -%}
+    {% set highlight = loop.index in positions %}
+    {% if highlight -%}
+      <strong>{{ opponent | replace(from=";", to=" w/") | markdown(inline=true) | safe }}</strong>
+    {% else -%}
+      {{ opponent | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
+    {% endif -%}
+    {% if not loop.last %} and {% endif -%}
+  {% endfor -%}
+  {% if final.r -%}
       via {{ final.r | markdown(inline=true) | safe }}
-  {% elif final.nc and final.nc != "upcoming" %}
+  {% elif final.nc and not upcoming -%}
       - {{ final.nc | markdown(inline=true) | safe }}
-  {% endif %}
-  <strong>
-{% endif %}
-<br/>
-{% if segment and segment is string %}
-  {{ segment | markdown(inline=true) | safe }}
+  {% endif -%}
+{% endif -%}
+<strong>
   <br/>
-{% endif %}
-{{ title | default(value="") | markdown(inline=true) | safe }}
-{{ stip | default(value=default_stip) | markdown(inline=true) | safe }}
+  {{ title | default(value="") | markdown(inline=true) | safe }}
+  {{ stip | default(value=default_stip) | markdown(inline=true) | safe }}
 </strong>

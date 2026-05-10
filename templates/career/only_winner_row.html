@@ -1,0 +1,12 @@
+Winner:
+{% if 0 in positions -%}
+  <strong>{{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}</strong>
+{% else -%}
+  {{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
+{% endif -%}
+
+{% if final.r -%}
+  via {{ final.r | markdown(inline=true) | safe }}
+{% elif final.nc and final.nc != "upcoming" -%}
+  - {{ final.nc | markdown(inline=true) | safe }}
+{% endif -%}
