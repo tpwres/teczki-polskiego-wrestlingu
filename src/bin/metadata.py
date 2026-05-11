@@ -4,7 +4,7 @@ from pathlib import Path
 from collections import Counter
 from articles import load_names_with_aliases
 import json
-from typing import cast, NewType, Callable
+from typing import cast, NewType, Callable, TypeVar
 from utils import RichEncoder, accepted_name
 from card import CardParseError, names_in_match, teams_in_match
 from page import EventPage
@@ -159,7 +159,9 @@ def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
         year.update(right[key])
     return result
 
-def merge_aliases(career: dict[str, T], merge: Callable[[T, T], T]):
+T = TypeVar('T')
+MergeOp = Callable[[T, T], T]
+def merge_aliases(career: dict[str, T], merge: MergeOp):
     """
     Mutate the career dict passed, by removing entries which are only ever
     listed as a career_aliases entry in some page. Merge them to their primary name.
