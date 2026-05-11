@@ -25,6 +25,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
 * The next day PpW announced, via a [video][mareczek], the Zmowa members to face Bad Trip: [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md).
 * On 6.05.2026 [Max Speed](@/w/max-speed.md) vs [Sentinel](@/w/sentinel.md) was announced. 
 * On 8.05.2026 PpW assured that [Gabriel Queen](@/w/gabriel-queen.md) "will have something to do" at the show.
+* On 9.05.2026 PpW announced a The Hardcors Hardcore Tag Team Gauntlet Invitational Match. Invented by The Hardcors ([Johnny Blade](@/w/johnny-blade.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)), it will feature tag teams invited by them according to their fancy: [Robert Star](@/w/robert-star.md) & [Filip Fux](@/w/filip-fux.md) (representing [Rodzina](@/tt/rodzina.md)), [Agentka Agatka](@/w/agentka-agatka.md) & [Isnorr](@/w/isnorr.md), [Bartosz Plata](@/w/plata.md) & [Markus Paskal](@/w/markus-paskal.md) and [Sambor](@/w/sambor.md) & [Tony Sheen](@/w/riverman.md).
 
 ## Predicted card
 
@@ -56,6 +57,26 @@ Ledwo Legalne 6 (_Barely Legal 6_) is an upcoming [PpW Ewenement's](@/o/ppw.md) 
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '???'
   - nc: upcoming
+- - 'The Hardcors: [Johnny Blade](@/w/johnny-blade.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '??? & ???'
+  - s: The Hardcors Hardcore Tag Team Gauntlet Invitational Match
+    nc: upcoming
+- - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Filip Fux](@/w/filip-fux.md)'
+  - '??? & ???'
+  - s: The Hardcors Hardcore Tag Team Gauntlet Invitational Match
+    nc: upcoming
+- - '[Agentka Agatka](@/w/agentka-agatka.md) & [Isnorr](@/w/isnorr.md)'
+  - '??? & ???'
+  - s: The Hardcors Hardcore Tag Team Gauntlet Invitational Match
+    nc: upcoming
+- - '[Bartosz Plata](@/w/plata.md) & [Markus Paskal](@/w/markus-paskal.md)'
+  - '??? & ???'
+  - s: The Hardcors Hardcore Tag Team Gauntlet Invitational Match
+    nc: upcoming
+- - '[Sambor](@/w/sambor.md) & [Tony Sheen](@/w/riverman.md)'
+  - '??? & ???'
+  - s: The Hardcors Hardcore Tag Team Gauntlet Invitational Match
+    nc: upcoming
 {% end %}
 
 ### Highlights
