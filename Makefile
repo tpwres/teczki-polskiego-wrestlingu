@@ -11,6 +11,7 @@ METADATA=data/all_matches.json \
          data/crew_appearances.json \
          data/career.json \
 				 data/career_v2.json \
+         data/career_v3.json \
          data/team_careers.json \
          data/all_photos.json \
          data/photo_taggings.json \
@@ -40,7 +41,7 @@ clean:
 data/all_matches.json data/appearances.json data/crew_appearances.json data/appearances_v2.json &: content/e/**/*.md
 	bin/build-matches
 
-data/career.json data/career_v2.json data/team_careers.json &: content/e/**/*.md
+data/career.json data/career_v2.json data/career_v3.json data/team_careers.json &: content/e/**/*.md
 	bin/build-metadata
 
 data/aliases.json: content/w/*.md
