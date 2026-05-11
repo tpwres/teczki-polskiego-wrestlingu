@@ -33,7 +33,7 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
 
 At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Zefir defeated [Hans Schulte](@/w/hans-schulte.md), becoming the new [KPW Champion](@/c/kpw-championship.md). After his victory he took a microphone and spoke for the very first time, declaring simply "I did it!" Later, at [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md), Zefir cut a couple of lengthy promos.
 
-During the closing segment of Arena XXX - the celebration of KPW's 10th anniversary - [Krystian Malinowski](@/w/krystian-malinowski.md), who'd made himself sure that it was the masked luchador who'd attacked him at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), fired Zefir from KPW and stripped him of his title.
+During the closing segment of Arena XXX - the celebration of KPW's 10th anniversary - [Krystian Malinowski](@/w/krystian-malinowski.md), who'd convinced himself that it was the masked luchador who'd attacked him at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), fired Zefir from KPW and stripped him of his title. Zefir was therefore absent at the following show, but at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) a court trial was held to determine his guilt or lack thereof, which ended with Zefir being cleared of the assault charges. By [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) the masked luchador was fully reinstated and given a match against [Iestyn Rees](@/w/iestyn-rees.md).
 
 ### Legacy of Wrestling (2026-present)
 
