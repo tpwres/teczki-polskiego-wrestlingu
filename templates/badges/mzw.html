@@ -4,5 +4,5 @@
      style="background: url({{ get_url(path='mzw-badge.svg') }}) no-repeat 0 0/cover, #208315; background-position: center;">
     <span>MZW</span>
   </a>
-  <small style="color: {{ text_fg }}">{{ cnt|default(value="") }}</small>
+  <small style="color: {{ text_fg }}">{{ displayed_count|default(value="") }}</small>
 </div>
