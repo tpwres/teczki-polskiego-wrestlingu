@@ -1,0 +1,6 @@
+<strong>Segment:</strong>
+{{ talent | join(sep=", ") | markdown(inline=true) | safe }}
+<br/>
+{% if segment and segment is string -%}
+  {{ segment | markdown(inline=true) | safe }}
+{% endif -%}

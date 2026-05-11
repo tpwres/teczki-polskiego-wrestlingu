@@ -1,44 +1,44 @@
 {%- import "macros/career.html" as macros %}
-{% set org_styles = config.extra.org_styles %}
-{% set alias_map = load_data(path="data/aliases.json") %}
-{% set all_my_names = [] %}
-{% if team_career_keys %}
-  {% set all_my_names = [team_career_keys] %}
-{% else %}
-  {% set all_my_names = [page.relative_path, page.title] %}
-{% endif %}
-{% for alias, path in alias_map %}
-  {% if path == page.relative_path %}{% set_global all_my_names = all_my_names | concat(with=alias) %}{% endif %}
-{% endfor %}
-{% set all_matches = load_data(path="data/all_matches.json") %}
-{% set appearances = load_data(path="data/appearances_v2.json") %}
-{% set my_appearances = [] %}
-{% for name in all_my_names %}
-  {% set napps = appearances | get(key=name, default=[]) %}
-  {% set_global my_appearances = my_appearances | concat(with=napps) %}
-{% endfor %}
+{% set org_styles = config.extra.org_styles -%}
+{% set alias_map = load_data(path="data/aliases.json") -%}
+{% set all_my_names = [] -%}
+{% if team_career_keys -%}
+  {% set all_my_names = [team_career_keys] -%}
+{% else -%}
+  {% set all_my_names = [page.relative_path, page.title] -%}
+{% endif -%}
+{% for alias, path in alias_map -%}
+  {% if path == page.relative_path %}{% set_global all_my_names = all_my_names | concat(with=alias) %}{% endif -%}
+{% endfor -%}
+{% set all_matches = load_data(path="data/all_matches.json") -%}
+{% set appearances = load_data(path="data/appearances_v2.json") -%}
+{% set my_appearances = [] -%}
+{% for name in all_my_names -%}
+  {% set napps = appearances | get(key=name, default=[]) -%}
+  {% set_global my_appearances = my_appearances | concat(with=napps) -%}
+{% endfor -%}
 {% set_global my_matches = [] -%}
-{% for entry in my_appearances %}
-  {% set index = entry[0] %}
-  {% set_global my_matches = my_matches | concat(with=all_matches[index]) %}
-{% endfor %}
-{% set careers = [] %}
-{% set all_matches = [] %}
-{% set appearances = [] %}
-{% set matches_by_date = my_matches | sort(attribute='d') | unique(attribute='i') %}
-{% set my_match_pos = my_appearances | group_by(attribute='0') %}
+{% for entry in my_appearances -%}
+  {% set index = entry[0] -%}
+  {% set_global my_matches = my_matches | concat(with=all_matches[index]) -%}
+{% endfor -%}
+{% set careers = [] -%}
+{% set all_matches = [] -%}
+{% set appearances = [] -%}
+{% set matches_by_date = my_matches | sort(attribute='d') | unique(attribute='i') -%}
+{% set my_match_pos = my_appearances | group_by(attribute='0') -%}
 
-{% if my_matches %}
+{% if my_matches -%}
   {% set mml = matches_by_date | length %}
 
-  {% if fold_matchlist == "always" or (fold_matchlist == "auto" and mml > fold_matchlist_at) %}
-    {% set enable_year_headers = true %}
+  {% if fold_matchlist == "always" or (fold_matchlist == "auto" and mml > fold_matchlist_at) -%}
+    {% set enable_year_headers = true -%}
     <details>
       <summary class="header h3-like">Matches and segments</summary>
-      {% include "career/match_table.html" %}
+      {% include "career/match_table.html" -%}
     </details>
-  {% else %}
+  {% else -%}
     <h3>Matches and segments</h3>
-    {% include "career/match_table.html" %}
-  {% endif %}
-{% endif %}
+    {% include "career/match_table.html" -%}
+  {% endif -%}
+{% endif -%}
