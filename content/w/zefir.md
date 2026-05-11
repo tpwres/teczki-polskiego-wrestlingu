@@ -16,7 +16,7 @@ Zefir is a high-flying masked luchador, working for [Kombat Pro Wrestling](@/o/k
 
 * Years active: 2021-present
 * Gimmicks/nicknames:
-  - Zefir {{ org_badge(orgs=['kpw']) }}
+  - Zefir {{ org_badge(orgs=['kpw', 'low']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-present)
 
@@ -34,6 +34,10 @@ Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [M
 At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Zefir defeated [Hans Schulte](@/w/hans-schulte.md), becoming the new [KPW Champion](@/c/kpw-championship.md). After his victory he took a microphone and spoke for the very first time, declaring simply "I did it!" Later, at [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md), Zefir cut a couple of lengthy promos.
 
 During the closing segment of Arena XXX - the celebration of KPW's 10th anniversary - [Krystian Malinowski](@/w/krystian-malinowski.md), who'd made himself sure that it was the masked luchador who'd attacked him at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), fired Zefir from KPW and stripped him of his title.
+
+### Legacy of Wrestling (2026-present)
+
+Zefir debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Boro](@/w/boro.md).
 
 ## In wrestling
 
