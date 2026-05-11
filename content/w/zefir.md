@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "zefir-fire.jpg", caption = "Zefir's signature fiery entrance, KPW Arena 17.", source = "M3n747" }
+1 = { path = "zefir-fire.jpg", caption = "Zefir's signature fiery entrance, [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).", source = "M3n747" }
 +++
 
 Zefir is a high-flying masked luchador, working for [Kombat Pro Wrestling](@/o/kpw.md).
