@@ -4,5 +4,5 @@
      style="background: url({{ get_url(path='pxw-logo-x.svg') }}) no-repeat 0 0/cover, #000; background-position: center;">
     <span>PXW</span>
   </a>
-  <small style="color: {{ text_fg }}">{{ cnt|default(value="") }}</small>
+  <small style="color: {{ text_fg }}">{{ displayed_count|default(value="") }}</small>
 </div>
