@@ -12,6 +12,7 @@
   {% endfor -%}
 
   <h3>Appearances per promotion and year</h3>
+  Numbers indicate in order: count of matches, segments and crew appearances. Trailing zeros are omitted.
   {% include "career/years.html" -%}
 {% endif -%}
 
@@ -19,6 +20,7 @@
 {% set fold_matchlist_config = config.extra | get(key="fold_matchlist", default="auto") -%}
 {% set fold_matchlist_at = config.extra | get(key="fold_matchlist_at") -%}
 {% set fold_matchlist = page.extra | get(key="fold_matchlist", default=fold_matchlist_config) -%}
+{# With mycareer in context, we can do similar calculations as for orgs_stretchy and show M-S in this section on year headers #}
 {% include "career/matchlist.html" -%}
 
 {% set fold_crew_appearances_config = config.extra | get(key="fold_crew_appearances", default="auto") %}
