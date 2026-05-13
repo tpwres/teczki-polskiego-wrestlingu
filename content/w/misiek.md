@@ -20,7 +20,7 @@ Misiek is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 ### Prime Time Wrestling (2026-present)
 
-Misiek (roughly _Teddy_, as in a teddy bear) debuted at [PTW Odrodzenie](@/a/ptw/2026-01-31-ptw-odrodzenie.md) as a bear-themed powerhouse worker. He formed a tag team called Synowie Lasu (_The Sons of the Forest_) with another bear character, [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
+Misiek (roughly _Teddy_, as in a teddy bear) debuted at [PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) as a bear-themed powerhouse worker. He formed a tag team called Synowie Lasu (_The Sons of the Forest_) with another bear character, [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 
 ## In wrestling
 
