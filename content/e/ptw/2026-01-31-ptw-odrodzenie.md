@@ -52,7 +52,7 @@ This event marked a change in PTW's policy. The live stream was available to You
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - '[Bart Petro](@/w/bart-petro.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-- - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
+- - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & [Misiek](@/w/misiek.md)'
   - 'Drop & Bump: [Bumper](@/w/fabian.md) & [Dropper](@/w/whiteblade.md)'
   - s: Tag Team Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
