@@ -24,7 +24,7 @@ has_video = true
 * On 11.04.2026 [Sawicki](@/w/sawicki.md) was announced, also without an opponent.
 * On 12.04.2026 [Bart Petro](@/w/bart-petro.md) was announced to face [Boguś](@/w/bogus.md).
 * On 13.04.2026 came the announcement of [Whiteblade](@/w/whiteblade.md) vs [CJ Klakson](@/w/cj-klakson.md).
-* Later the same day [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md) were announced to fight [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek for the [Tag Team title](@/c/ptw-tag-team-championship.md) #1 Contendership.
+* Later the same day [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md) were announced to fight [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & [Misiek](@/w/misiek.md) for the [Tag Team title](@/c/ptw-tag-team-championship.md) #1 Contendership.
 * [Fabian](@/w/fabian.md) was announced on 14.04.2026.
 * The next day [Nano Lopez](@/w/nano-lopez.md) was announced to face [Jonny Storm](@/w/jonny-storm.md) for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * Later the same day [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md) was announced as well, without an opponent.
@@ -43,7 +43,7 @@ has_video = true
 - - '[Whiteblade](@/w/whiteblade.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
 - - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
-  - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & Misiek'
+  - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & [Misiek](@/w/misiek.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: '#1 Contenders Tag Team Match'
 - - '[Daniel Razor](@/w/daniel-razor.md)'

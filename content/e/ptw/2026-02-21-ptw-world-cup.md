@@ -24,7 +24,7 @@ has_video = true
 * [Blaze](@/w/blaze.md) and [Damian Adler](@/w/damian-adler.md) were both announced on 17.02.2026.
 * The next day, [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md) and Ben Rodgers were added to the card.
 * The final entrant to the tournament was [Nano Lopez](@/w/nano-lopez.md), announced on 18.02.2026.
-* On the 19th, the tag team of Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was announced.
+* On the 19th, the tag team of [Misiek](@/w/misiek.md) & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was announced.
 * The first World Cup Match, announced on 20.02.2026, was Baron Wolfgang Storm vs [El G](@/w/el-g.md).
 * On the day of the show, PTW announced referees [Klaudiusz](@/w/sedzia-klaudiusz.md) & [Herno](@/w/sedzia-herno.md), and the commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) & [Krystian "Resivny" Smoleń](@/w/resivny.md), as well as the match-ups of [Nano Lopez](@/w/nano-lopez.md) vs Andi ZickZack, [Damian Adler](@/w/damian-adler.md) vs Ben Rodgers and [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Blaze](@/w/blaze.md).
 
@@ -69,7 +69,7 @@ has_video = true
 - - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
   - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
   - s: World Cup Semi Final Match
-- - 'Synowie Lasu: Misiek & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+- - 'Synowie Lasu: [Misiek](@/w/misiek.md) & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - 'Cheeki Breeki: Stan the Slav & Patryk Peterski'
   - s: Tag Team match
 - - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
