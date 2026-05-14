@@ -164,6 +164,12 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md)'
     ed: 2026-04-18
+- - 'Spartan(c)'
+  - '[Blaze](@/w/blaze.md)'
+  - s: Singles Match
+    en: '[PTW Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+    ed: 2026-05-23
+    nc: upcoming
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

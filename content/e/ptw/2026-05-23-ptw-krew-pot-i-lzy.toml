@@ -4,3 +4,5 @@
 04 = { path = "3-v-3.webp", caption = "Image announcing [CJ Klakson](@/w/cj-klakson.md), [Boguś](@/w/bogus.md) & [Bart Petro](@/w/bart-petro.md) vs [Damian Adler](@/w/damian-adler.md), Halfdan & [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md).", source = "Official PTW Facebook" }
 05 = { path = "niedzwiedz-vs-whiteblade.webp", caption = "Image announcing [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) vs [Whiteblade](@/w/whiteblade.md).", source = "Official PTW Facebook" }
 06 = { path = "misiek-vs-sawicki.webp", caption = "Image announcing [Misiek](@/w/misiek.md) vs [Sawicki](@/w/sawicki.md).", source = "Official PTW Facebook" }
+07 = { path = "spartan-vs-blaze.webp", caption = "Image announcing [Spartan](@/w/spartan.md) vs [Blaze](@/w/blaze.md).", source = "Official PTW Facebook" }
+08 = { path = "ladder-match.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md).", source = "Official PTW Facebook" }
