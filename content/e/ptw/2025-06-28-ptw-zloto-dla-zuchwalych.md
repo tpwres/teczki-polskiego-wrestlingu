@@ -8,8 +8,8 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
-manifest = "@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych-gallery.toml"
 +++
 
 "Złoto Dla Zuchwałych" (_Gold for the Bold_) was a show by [Prime Time Wrestling](@/o/ptw.md).
@@ -28,7 +28,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
   * The conflict between Nietykalni and [Okoński's](@/w/lukasz-okonski.md) crew continues.
 * On 20.06.2025 PTW announced [Sawicki](@/w/sawicki.md) as the first entrant in Gold Rush Rumble 2. He was last seen in the ring at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) in 2020.
 * On 26.06.2025 PTW announced Hannah Taylor vs [Diana Strong](@/w/diana-strong.md) vs Betty Boa for the Glam! Championship. The winner of the match, in addition to the belt, will also advance in the tournament for the [PTW Women's Championship](@/c/ptw-womens-championship.md).
-* Later that day the promotion announced the return of [Damian Lambert](@/w/damien-rothschild.md), last seen in 2019 at [MZW Project 6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), as the second entrant in the Gold Rush Rumble 2.
+* Later that day the promotion announced the return of [Damian Lambert](@/w/damian-lambert.md), last seen in 2019 at [MZW Project 6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), as the second entrant in the Gold Rush Rumble 2.
 
 ## Card
 
@@ -56,7 +56,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
   - '[Adam Goldschmidt](@/w/adam-goldschmidt.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - '[Blaze](@/w/blaze.md)'
-  - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - '[El G](@/w/el-g.md)'
@@ -90,6 +90,7 @@ The name of the show is a reference to the Polish title of the 1970 film [Kelly'
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=426947)
+* [Open access video: Vincent Caravaggio vs Sigma Boy xD](https://www.youtube.com/watch?v=WTeEGa2mWhg)
 * [Facebook post hyping the show](https://www.facebook.com/PrimeTimeWrestlingPL/videos/1237806764590970)
 
 [zloto]: https://en.wikipedia.org/wiki/Kelly%27s_Heroes

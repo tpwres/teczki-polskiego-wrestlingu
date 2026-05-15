@@ -7,6 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 
@@ -15,10 +16,10 @@ toclevel = 2
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Apollo Anderson](@/w/apollo-anderson.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Ronny Kessler](@/w/ronny-kessler.md)'
 - - '[Justin Joy](@/w/justin-joy.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
 - - '[Asmund](@/w/asmund.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - s: 'Tables Match'
@@ -27,7 +28,7 @@ toclevel = 2
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - 'Otto Stahl'
   - s: Mystery Fatal 4-Way Match
-- - '[Damien Rothschild](@/w/damien-rothschild.md)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Shadow](@/w/shadow.md)(c)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:

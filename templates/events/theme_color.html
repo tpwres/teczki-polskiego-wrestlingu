@@ -1,0 +1,8 @@
+{% set taxonomy_orgs = page.taxonomies | get(key='chronology', default=[]) -%}
+{% for org in taxonomy_orgs -%}
+  {% set brand_color = config.extra.org_styles | get(key=org, default=false) %}
+  {% if brand_color %}
+    <meta name="theme-color" content="{{ brand_color.bg }}">
+    {% break %}
+  {% endif -%}
+{% endfor -%}

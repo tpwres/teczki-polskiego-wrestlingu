@@ -7,8 +7,8 @@ venue = ["targi-poznan"]
 [extra]
 city = "Poznań"
 toclevel = 2
+has_video = false
 [extra.gallery]
-1 = { path = "2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2-plakat.jpg", caption = "Official poster, featuring [Goblin](@/w/goblin.md).", source = "Official PpW Facebook" }
 +++
 
 On Friday and Saturday, November 15 and 16, [PpW](@/o/ppw.md) was once again invited to Poznańskie Targi Piwne (_Poznań Beer Expo_). The wrestlers staged two performances on Friday, and a single, longer one on Saturday.
@@ -27,7 +27,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Sambor](@/w/sambor.md)'
   - s: Singles Match
 - - 'Rodzina Kimono: [Brat Kimono](@/w/goblin.md) & [Steven Kimono](@/w/biesiad.md) w/ [Siostra Kimono](@/w/istotna-martynka.md)'
-  - 'Tourists: Alvaro & [Ignacio](@/w/sedzia-kornel.md) w/ [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
+  - 'Turyści: Alvaro & [Ignacio](@/w/sedzia-kornel.md) w/ [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
   - s: Tag Team Match
 - - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md) & [Steven Kimono](@/w/biesiad.md) w/ [Siostra Kimono](@/w/istotna-martynka.md)'
   - 'The Feagers: [Bill Feager](@/w/feager.md) & Phil Feager'
@@ -37,7 +37,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - s: Hardcore Match
     c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
 - - '[Isnorr](@/w/isnorr.md)'
-  - '[Karol Górski (2)](@/w/madman-charlie.md)'
+  - '[Karol Górski (2)](@/w/sedzia-karol-gorski.md)'
   - s: Non-title Match
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Esteban Lucha](@/w/biesiad.md)'
@@ -73,14 +73,14 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Sambor](@/w/sambor.md)'
   - s: Singles Match
 - - '[Istotna Martynka](@/w/istotna-martynka.md)'
-  - '[Marco Hammers](@/w/marco-hammers.md)(c) w/ [Olgierd](@/w/olgierd.md) & Darko Hammers'
+  - '[Marco Hammers](@/w/marco-hammers.md)(c) w/ [Olgierd](@/w/olgierd.md) & [Darko Hammers](@/w/joker.md)'
   - s: Singles Match
     c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md)'
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Mikey Beerman](@/w/goblin.md)'
   - '[Bonus CBD](@/w/gabriel-queen.md)'
   - s: Triple Threat Match
-- - 'Tourists: Alvaro, [Ignacio](@/w/sedzia-kornel.md) & [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
+- - 'Turyści: Alvaro, [Ignacio](@/w/sedzia-kornel.md) & [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
   - '[Isnorr](@/w/isnorr.md), [Prince Striker](@/w/royal-striker.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: Six-Man Tag Team Match
 - - '[Isnorr](@/w/isnorr.md)'
@@ -92,7 +92,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Scarecrow](@/w/mister-z.md)'
   - s: ECW Rules Match
-- - '[Marco Hammers](@/w/marco-hammers.md) w/ [Olgierd](@/w/olgierd.md) & Darko Hammers'
+- - '[Marco Hammers](@/w/marco-hammers.md) w/ [Olgierd](@/w/olgierd.md) & [Darko Hammers](@/w/joker.md)'
   - '[Istotna Martynka](@/w/istotna-martynka.md)(c)'
   - s: Singles Match
     c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md)'
@@ -126,7 +126,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
     n: Bonus CBD unmasked mid-match to reveal he was Gabriel Queen all along
 - credits:
     Ring Announcer, Host: '[Michael HT](@/w/michael-ht.md), [Rysiu Benzynka](@/w/joker.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
 ## References

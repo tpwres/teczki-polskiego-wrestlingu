@@ -1,0 +1,7 @@
+01 = { path = "2022-11-25-ppw-najlepsza-gala-w-miescie-plakat.jpg", caption = "Official poster, showing [Steve Kuningas](@/w/steve-kuningas.md) and [Biesiad Strong](@/w/biesiad.md), who's holding the spire of Warsaw's [Palace of Culture and Science](https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science).", source = "Official PpW Facebook" }
+02 = { path = "biesiad-strong-vs-steve-kuningas.webp", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md) vs [Steve Kuningas](@/w/steve-kuningas.md).", source = "Official PpW Facebook" }
+03 = { path = "bill-feager-ms-xxx-vs-isnorr.webp", caption = "Image announcing [Bill Feager](@/w/feager.md) w/ Ms. XXX vs [Isnorr](@/w/isnorr.md).", source = "Official PpW Facebook" }
+04 = { path = "adam-wong-vs-kapitan-bazooka.webp", caption = "Image announcing [Adam Wong](@/w/adam-wong.md) vs [Kapitan Bazooka](@/w/kapitan-bazooka.md).", source = "Official PpW Facebook" }
+05 = { path = "feyyaz-aguila-vs-joshua-amaru.webp", caption = "Image announcing Feyyaz Aguila vs Joshua Amaru.", source = "Official PpW Facebook" }
+06 = { path = "ricardo-diesel-mister-z-vs-osamu-tony-sk1n.webp", caption = "Image announcing [Ricardo Diesel](@/w/ricardo-diesel.md) & [Mister Z](@/w/mister-z.md) vs [Osamu](@/w/osamu.md) & [Tony Sk1n](@/w/tony-sk1n.md).", source = "Official PpW Facebook" }
+07 = { path = "stanislaw-van-dobroniak-vs-johnny-blade.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) vs [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }

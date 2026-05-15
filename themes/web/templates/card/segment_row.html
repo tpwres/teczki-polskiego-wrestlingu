@@ -1,0 +1,13 @@
+<li class="match">
+  <span class="n">{{ rownum }}</span>
+  <span class="p">
+    <strong>Segment:</strong>
+    {{ talent | join(sep=", ") | markdown(inline=true) | safe }}
+  </span>
+  <span class="c">
+    {% if segment is string -%}
+      {{ segment | markdown(inline=true) | safe }}
+    {% endif -%}
+  </span>
+  {% include "card/notes.html" %}
+</li>

@@ -7,6 +7,7 @@ venue = ["zs1-sopot"]
 [extra]
 city = "Sopot"
 toclevel = 2
+has_video = false
 [extra.gallery]
 manifest = "@/e/ddw/2015-07-24-ddw-baltikon-gallery.toml"
 

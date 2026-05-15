@@ -8,6 +8,7 @@ venue=["atlantic"]
 [extra]
 city = "Gdynia"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -46,6 +47,7 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=169387)
-* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-v/) with a short recap video
+* [KPW's event page](https://kpwrestling.pl/events/kpw-arena-v/)
+* [Recap video](https://www.youtube.com/watch?v=0InR8P6YpT8)
 * [Facebook event page](https://www.facebook.com/events/320616958337738/)
 * [Coverage by DIMANO TV](https://www.youtube.com/watch?v=LPisUPKX0vM), covers the main event and post-match words from Eaver and Kawaler

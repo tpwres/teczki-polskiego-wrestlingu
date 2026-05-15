@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = false
 [extra.gallery]
 1 = { path = "main-event.jpg", caption = "[Steven](@/w/steven.md) vs [Raven](@/w/raven.md).", source = "Steven's Facebook" }
 +++

@@ -1,6 +1,7 @@
 {% set final = row | last %}
 {% set winner = row | first %}
 {% if final is object %}
+  {% set talent = row | slice(end=-1) %}
   {% set others = row | slice(start=1, end=-1) %}
   {% set title = final | get(key="c", default="") %}
   {% set stip = final | get(key="s", default="") %}
@@ -23,44 +24,27 @@
 {% else %}
     {% set sep = "<strong>d.</strong>" %}
 {% endif %}
+{% if segment %}
+  {% include "card/segment_row.html" -%}
+{% elif bodies == 0 %}
+  {% include "card/only_winner_row.html" -%}
+{% else %}
 <li class="match">
     <span class="n">{{rownum}}</span>
     <span class="p">
-        {% if segment %}
-          <strong>Segment:</strong> {{ winner | markdown(inline=true) | safe }}{% if others -%}, {{ others | join(sep=", ") | markdown(inline=true) | safe }}{% endif %}
-        {% else %}
-          {% if bodies == 0 %}
-            Winner:
-          {% endif %}
           {{ winner | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
-          {% if bodies > 0 %}
-              {{ sep | safe }}
-              {{ others | join(sep=" and ") | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
-          {% endif %}
+          {{ sep | safe }}
+          {{ others | join(sep=" and ") | replace(from=";", to=" w/") | markdown(inline=true) | safe }}
           {% if result %}
               via {{ final.r | markdown(inline=true) | safe }}
           {% elif nc %}
               - {{ final.nc | markdown(inline=true) | safe }}
           {% endif %}
-        {% endif %}
     </span>
     <span class="c">
         {{ title | markdown(inline=true) | safe }}
-        {% if segment and segment is string %}
-          {{ segment | markdown(inline=true) | safe }}
-        {% endif %}
         {{ stip | markdown(inline=true) | safe }}
     </span>
-    {% if notes is string %}
-      <span class="nt">NOTE: {{ notes | markdown(inline=true) | safe }}</span>
-    {% elif notes %}
-      <span class="nt">
-        NOTES:<br/>
-        <ul>
-          {% for note in notes %}
-            <li>{{ note | markdown(inline=true) | safe }}</li>
-          {% endfor %}
-        </ul>
-      </span>
-    {% endif %}
+    {% include "card/notes.html" %}
 </li>
+{% endif %}

@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = false
 +++
 
 Droga Do Panowania (_Road to Domination_ or _Road to Reign_) was a "PPV" that started the road to WołówMania.

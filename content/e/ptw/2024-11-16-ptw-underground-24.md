@@ -8,8 +8,8 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
-1 = { path = "2024-11-16-ptw-underground-24-plakat.jpg", caption = 'Official poster. Pictured left to right, top row: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Miyagi Shida](@/w/miyagi-shida.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Max Speed](@/w/max-speed.md), [Alex Brave](@/w/alex-brave.md); middle row: [Spartan](@/w/spartan.md), Jack Vaughn, [Dawid "Puncher" Seńko](@/w/puncher.md), Aaron Williams, Jake Omen; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).', source = "Official PTW Facebook" }
 +++
 
 "Bania U Prezesa" (_Party at the Chairman's_) was a show by [Prime Time Wrestling](@/o/ptw.md) that took place in the usual venue in [Kozłów](@/v/dworek-kozlow.md). The name of the show is likely a reference to the 1998 song [Bania u Cygana](https://www.youtube.com/watch?v=xLj5xaahdF8) (_Party at Cygan's_), by the Polish band Zero.
@@ -48,3 +48,4 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=412026)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=WL4QVeDrQpc)

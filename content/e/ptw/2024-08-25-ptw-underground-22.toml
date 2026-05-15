@@ -1,0 +1,7 @@
+01 = { path = "ptwu22-poster.webp", caption = "Official poster for the show. Pictured are: Maverick, [Puncher](@/w/puncher.md), [Nitro](@/w/nitro.md), [Spartan](@/w/spartan.md), [Renegade](@/w/renegade.md), [Diana Strong](@/w/diana-strong.md), [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md).", source = "Official PTW Facebook"}
+02 = { path = "vincent-caravaggio-vs-max-speed.webp", caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Max Speed](@/w/max-speed.md).", source = "Official PTW Facebook"}
+03 = { path = "spartan-vs-svedberg.webp", caption = "Image announcing [Spartan](@/w/spartan.md) vs Svedberg.", source = "Official PTW Facebook"}
+04 = { path = "maverick-vs-puncher.webp", caption = "Image announcing Maverick vs [Puncher](@/w/puncher.md).", source = "Official PTW Facebook"}
+05 = { path = "harley-hudson-vs-diana-strong.webp", caption = "Image announcing Harley Hudson vs [Diana Strong](@/w/diana-strong.md).", source = "Official PTW Facebook"}
+06 = { path = "gulasze-vs-bastardy.webp", caption = "Image announcing [Gulyás Öcsi](@/w/gulyas-ocsi.md) & Gulyás Vilmos vs [Nitro](@/w/nitro.md) & [Renegade](@/w/renegade.md).", source = "Official PTW Facebook"}
+99 = { path = "las_atomicas.webp", caption = "Screenshot of Las Atomicas' short-lived Instagram account. They were announced as a dance group to perform on the show in addition to the wrestling." }

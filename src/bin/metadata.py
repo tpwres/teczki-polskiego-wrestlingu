@@ -4,13 +4,26 @@ from pathlib import Path
 from collections import Counter
 from articles import load_names_with_aliases
 import json
-from typing import cast
+from typing import cast, NewType, Callable, TypeVar
 from utils import RichEncoder, accepted_name
 from card import CardParseError, names_in_match, teams_in_match
 from page import EventPage
 from sys import stderr, exit
+from dataclasses import dataclass
+
+@dataclass
+class MSC:
+    matches: int = 0
+    segments: int = 0
+    crew: int = 0
+
+    @property
+    def serialize_as_tuple(self):
+        pass
 
 OrgYears = dict[str, int]
+Year = NewType('Year', str)
+RichOrgYears = dict[Year, dict[str, MSC]]
 CareerYears = dict[int, OrgYears]
 
 def update_cbf(careers, team_careers, page: EventPage):
@@ -96,6 +109,47 @@ def update_career(career: dict[str, CareerYears], team_careers: dict[str, Career
         year = cast(Counter, entry.setdefault(event_date.year, Counter()))
         year.update(orgs)
 
+def update_split_career(career: dict[str, RichOrgYears], page: EventPage):
+    event_date = page.event_date
+    event_year = Year(str(event_date.year))
+    orgs = page.orgs
+    card = page.card
+
+    if not card.matches:
+        return
+
+    if not event_date:
+        return
+
+    for matchrow in card.matches:
+        opts = matchrow.options
+        for person in names_in_match(matchrow):
+            plain = person.name
+            if not accepted_name(plain): continue # Filter out '???'
+            key = person.link or person.name
+
+            entry: RichOrgYears = career.setdefault(key, {})
+            year = entry.setdefault(event_year, dict())
+            for org in orgs:
+                year.setdefault(org, MSC())
+                if 'g' in opts:
+                    year[org].segments += 1
+                else:
+                    year[org].matches += 1
+
+    if not card.crew: return
+
+    for person in card.crew.members:
+        plain = person.name
+        if not accepted_name(plain):
+            continue
+
+        key = person.link or person.name
+        entry: RichOrgYears = career.setdefault(key, {})
+        year = entry.setdefault(event_year, dict())
+        for org in orgs:
+            year.setdefault(org, MSC())
+            year[org].crew += 1
 
 
 def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
@@ -105,7 +159,9 @@ def merge_years(left: CareerYears, right: CareerYears) -> CareerYears:
         year.update(right[key])
     return result
 
-def merge_aliases(career: dict[str, CareerYears]):
+T = TypeVar('T')
+MergeOp = Callable[[T, T], T]
+def merge_aliases(career: dict[str, T], merge: MergeOp):
     """
     Mutate the career dict passed, by removing entries which are only ever
     listed as a career_aliases entry in some page. Merge them to their primary name.
@@ -115,11 +171,12 @@ def merge_aliases(career: dict[str, CareerYears]):
         for alias in aliases:
             if alias not in career: continue
             c = career.pop(alias)
-            career[main_name] = merge_years(career.get(main_name, {}), c)
+            career[main_name] = merge(career.get(main_name, {}), c)
 
 def main():
     careers = {}
     careers_by_file = {}
+    careers_split = {}
     team_careers = {}
     team_cbf = {}
     cwd = Path.cwd()
@@ -138,6 +195,7 @@ def main():
                 continue
             update_career(careers, team_careers, page)
             update_cbf(careers_by_file, team_cbf, page)
+            update_split_career(careers_split, page)
         except CardParseError:
             num_errors += 1
 
@@ -145,7 +203,7 @@ def main():
         stderr.write("Errors found, aborting\n")
         exit(1)
 
-    merge_aliases(careers)
+    merge_aliases(careers, merge_years)
 
     data_dir = cwd / 'data'
     data_dir.mkdir(exist_ok=True)
@@ -157,6 +215,10 @@ def main():
     with (data_dir / 'career_v2.json').open('w') as f:
         print("Saving career v2 to %s" % f.name)
         json.dump(careers_by_file, f, cls=RichEncoder)
+
+    with (data_dir / 'career_v3.json').open('w') as f:
+        print(f"Saving career v3 to {f.name}")
+        json.dump(careers_split, f, cls=RichEncoder)
 
     with (data_dir / 'team_careers.json').open('w') as f:
         print("Saving team career v2 to %s" % f.name)

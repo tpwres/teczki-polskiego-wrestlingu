@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Krzyżówki"
 toclevel = 2
+has_video = true
 [extra.gallery.poster]
 path = "dfw-crosswords-city-plakat.webp"
 caption = "Official poster, featuring [Revage](@/w/rafael-kid.md) and [Direk](@/w/direk.md)."
@@ -21,7 +22,7 @@ The event's name refers to the village: Krzyżówki can be translated as both _c
 
 {% card() %}
 - - '[Norris](@/w/isnorr.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
 - - '[Chris Hunter](@/w/chris-hunter.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
 - - '[Direk](@/w/direk.md)'

@@ -81,19 +81,23 @@ In March 2024 it has been restored from a backup, in a text-only form, and can b
 
 ### Biesiad vs Osamu
 
-During a match at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455](https://youtu.be/eurthT-CbUg?t=485), at the 8:05 mark.
+During a match at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) on May 21, 2022, [Biesiad Strong](@/w/biesiad.md) set [Osamu](@/w/osamu.md) on a table in the middle of the ring, and climbed on support beams outside the ring to perform a jump onto the opponent. He connected very lightly, landing on his legs instead, and the table failed to break, although one set of legs did collapse. This was featured in [Botchamania 455][botch-455], at the 8:05 mark.
 
 ### Goblin vs MBM
 
 The second botch to make it was the table spot from [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md), from the El Paso Outlaw Match between [Goblin](@/w/goblin.md) and Belgian wrestler MBM.
 With Goblin lying on a table, MBM climbed the second turnbuckle, put on a pink cowboy hat, straddled a toy hobby horse and jumped onto the table, which failed to break.
 After the fight, both agreed to redo the spot, to the audience's great applause.
-This failed spot, and the second attempt were featured in [Botchamania 489](https://youtu.be/lGThcHUL5g0?t=516), at the 8:36 mark.
+This failed spot, and the second attempt were featured in [Botchamania 489][botch-489], at the 8:36 mark.
 
 ### Critical 420 Ladder Match
 
 PpW's third Botchamania entry was from [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md). In the four-man ladder match, just after the opening sequence, Benny Bachhus accidentally grabs the trophy as he falls to the ground when his ladder was knocked. The faces then signal the referee to hang it up again and the match is restarted.
-This was featured in [Botchamania 493](https://www.youtube.com/watch?v=2azqxchwafo&t=730s), at the 12:10 mark. In another botch, this time on Botchamania's end, this clip was labeled as "[Total Blast Wrestling](@/o/tbw.md)", with Maffew probably confusing it with PTW's [similarly-named event](@/e/ptw/2024-05-11-ptw-6.md).
+This was featured in [Botchamania 493][botch-493], at the 12:10 mark. In another botch, this time on Botchamania's end, this clip was labeled as "[Total Blast Wrestling](@/o/tbw.md)", with Maffew probably confusing it with PTW's [similarly-named event](@/e/ptw/2024-05-11-ptw-6.md).
+
+### Olgierd vs Dale Patricks
+
+Two years later a snippet from PpW's [second Tokyo show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) was featured in [Botchamania 529][botch-529]. At 3:26 mark there's a failed spot from the Dog Collar Match between Olgierd and Dale Patricks, in which a table doesn't break under Dale falling from the top turnbuckle.
 
 ## Foreign relations
 
@@ -102,7 +106,7 @@ However, since the Prime Time Transfers era, PpW has enough roster members, and 
 
 ### Excursion to Japan
 
-On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokyo_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi". Coinciding with the announcement of the Tokyo show was the creation of a new Instagram account: [ppw_global][ppw-globalnie].
+On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) to be held in Japan, in cooperation with Big Japan Pro Wrestling and other local promotions. The show, called PpW Hardcore Friday the 13th 東京 (_Tokyo_), is set to take place on 13.03.2026 in a venue called "Tokyo Square in Itabashi". Coinciding with the announcement of the Tokyo show was the creation of a new Instagram account: [ppw_global][ppw-globalnie]. This event also saw the first match for the reactivated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), which had been vacated for over a year.
 
 ## Polish wrestling scene
 
@@ -113,6 +117,8 @@ After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join th
 
 According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), multiple people from PpW and [DFW](@/o/dfw.md) trained with MZW. Under one condition: MZW insisted that wrestlers who wanted to work for them could not perform in backyards, but were not stopped from appearing in other pro federations. 
 
+In January 2026 [Filip Fux](@/w/filip-fux.md) from [Kombat Pro Wrestling](@/o/kpw.md) became the first active KPW wrestler to fight in the PpW ring - at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) he faced [Tony Sheen](@/w/riverman.md) in a pre-show match.
+
 ## In media
 
 ### Mainstream
@@ -121,6 +127,23 @@ On Sunday, Sep 29, 2024, breakfast TV programme "Halo tu Polsat" featured [a bri
 The hosts asked the wrestlers several questions, including about the nature of kayfabe and their roles and characters. Biesiad was portrayed as a pure fighter, while Gustav promoted himself as a man of culture and means, deserving the championship he carried. Crane was referred to mostly as "coach".
 The segment ended with Gustav standing up and getting into Biesiad's face, at which point Biesiad removed his T-shirt and threw his opponent across the studio couch. They then ran out into the studio, brawled for a short while, while Crane was trying to separate them.
 Finally, Biesiad managed to German suplex Gryffin on the studio floor, while the show host explained to the camera that it's all a show, and there's no need to be alarmed.
+
+#### Got Talent
+
+In 2026, PpW wrestlers Olgierd, Mister Z and Biesiad were featured in an episode of _Mam Talent!_ (Polish spin-off of the long-running _Got Talent_ format). Biesiad gives a short promo stating how he's aiming for the championship which he deserves, while Olgierd portrays his hard-headed hooligan character. Before the bell, Biesiad is seen running bare-chested through the general area with other contestants present. In their match Olgierd defended his [PpW Championship](@/c/ppw-championship.md) against Biesiad, with an intervention by Mister Z. The segment was received favourably by three of the four judges, with only Julia Wieniawa giving the team a thumbs down, stating she did not understand the concept and is against such portrayal of violence.
+
+{% free_card() %}
+- - '[Olgierd](@/w/olgierd.md)(c) w/ [Mister Z](@/w/mister-z.md)'
+  - '[Biesiad](@/w/biesiad.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    en: 'Mam Talent Season 17 Episode 1'
+    ed: '2026-02-21'
+{% end %}
+
+- Referee: [Sędzia Seweryn](@/w/sedzia-seweryn.md)
+- Talent show judges: Agnieszka Chylińska, Marcin Prokop, Julia Wieniawa, Agustin Egurrola
+
+See link in the References section below for the video. Also present backstage were [Istotna Martynka](@/w/istotna-martynka.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
 
 ### Independent and other
 
@@ -132,15 +155,15 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
 - - '[PpW Championship](@/c/ppw-championship.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - >
-    Defeated [Gobblin](@/w/goblin.md) in a Chain God Realm Match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+    Defeated [Goblin](@/w/goblin.md) in a Chain God Realm Match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
 - - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
-  - Vacant
+  - '[Abdullah Kobayashi](@/w/abdullah-kobayashi.md)'
   - >
-    [Isnorr](@/w/isnorr.md) vacated the belt at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) citing health issues.
+    Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - Vacant
-  - >
-    Introduced, not yet awarded.
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
+  - > 
+    Defeated [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)) and Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
@@ -160,6 +183,7 @@ Back in the backyard years PpW promoted a great number of championships, which w
 * [Johnny Blade on the Istota Wrestlingu Podcast](https://youtu.be/izswvz2FG9s) shares a lot of info about the early days
 * [Biesiad on the Istota Wrestlingu Podcast](https://youtu.be/_rlZyMKeLr4?si=VqgWdhh3G3MbI2jU&t=680) also with a lot of history
 * [Istota Wrestlingu's podcast about the PTW Transfers](https://www.youtube.com/watch?v=btcoER-IpQg), discusses going pro
+* [Facebook video reel: PpW in Mam Talent][ppw-ma-talent]
 
 [ppw-c]: @/c/ppw-championship.md
 [ppw-uvc]: @/c/ppw-european-ultraviolent-championship.md
@@ -168,3 +192,8 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [ppw-vod]: https://ppw-ewenementpl.vhx.tv
 [ewenement-logo]: https://www.facebook.com/photo/?fbid=2150678838439647&set=a.158941800946704
 [ppw-globalnie]: https://www.instagram.com/ppw_global/
+[ppw-ma-talent]: https://www.facebook.com/reel/865556049810905
+[botch-455]: (https://youtu.be/eurthT-CbUg?t=485)
+[botch-489]: (https://youtu.be/lGThcHUL5g0?t=516)
+[botch-493]: (https://youtu.be/2azqxchwafo&t=730s)
+[botch-529]: (https://youtu.be/u2Sj5ZjXan4&t=206)

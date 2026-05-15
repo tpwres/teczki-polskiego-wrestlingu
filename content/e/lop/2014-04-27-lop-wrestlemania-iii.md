@@ -8,6 +8,7 @@ chronology = ["lop"]
 city = "Rybnik"
 toclevel = 2
 hide_pagination = true
+has_video = true
 +++
 
 LOP's Wrestlemania III was an event produced by backyard federation [Line of Pro](@/o/lop.md), held on April 27th, 2014. It was first streamed live on platform justin.tv, and later published in parts on both YouTube and Dailymotion.

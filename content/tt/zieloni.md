@@ -18,7 +18,7 @@ orgs = ["ptw", "ppw", "mzw", "low"]
 
 #### Formation in Maniac Zone Wrestling
 
-The group later named "Zieloni" formed itself from wrestlers and rookies who attended the 2018 edition of Summer Camp hosted by [Polska Akademia Wrestlingu](@/o/paw.md), a dojo operated by [Maniac Zone Wrestling](@/o/mzw.md). A few of the Zieloni knew each other either from training in MZW, backyard federations such as [Dream Factory Wrestling](@/o/dfw.md), or from online activity, but the class of 2018 PAW Summer Camp was the one where most of them officially got together. From this point on they formed a strongly-bonded social group. The group was heavly influenced by the teachings of [Justin Joy](@/w/justin-joy.md), who brought a lot of experience from his stint on the UK wrestling scene, as well as his approach to wrestling. This philosophy pushed many of the Greens to quickly attempt wrestling abroad instead of only getting bookings in MZW, and to develop themselves as a performers, which proved beneficial to many of the Greens, such as [Jacob Crane](@/w/jacob-crane.md), [Axel Fox](@/w/axel-fox.md) and [Gabriel Queen](@/w/gabriel-queen.md), in their future. 
+The group later named "Zieloni" formed itself from wrestlers and rookies who attended the 2018 edition of Summer Camp hosted by [Polska Akademia Wrestlingu](@/o/paw.md), a dojo operated by [Maniac Zone Wrestling](@/o/mzw.md). A few of the Zieloni knew each other either from training in MZW, backyard federations such as [Dream Factory Wrestling](@/o/dfw.md), or from online activity, but the class of 2018 PAW Summer Camp was the one where most of them officially got together. From this point on they formed a strongly-bonded social group. The group was heavly influenced by the teachings of [Justin Joy](@/w/justin-joy.md), who brought a lot of experience from his stint on the UK wrestling scene, as well as his approach to wrestling. This philosophy pushed many of the Greens to quickly attempt wrestling abroad instead of only getting bookings in MZW, and to develop themselves as a performers, which proved beneficial to many of the Greens, such as [Jacob Crane](@/w/jacob-crane.md), [Axel Fox](@/w/jakub.md) and [Gabriel Queen](@/w/gabriel-queen.md), in their future. 
 
 After [Project 6](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md) both [Asmund](@/w/asmund.md) and Justin left the MZW creative team and PAW coaching staff, with Justin eventually leaving MZW altogether following MZW's [next show](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md). 
 
@@ -30,7 +30,7 @@ During the COVID-19 pandemic break the Greens remained strongly bonded, but due 
 
 #### Zieloni in Prime Time Wrestling
 
-After officially leaving MZW, most of active Zieloni members (excluding [Isnorr](@/w/isnorr.md), Rafael Kid and [Madman Charlie](@/w/madman-charlie.md), who joined PpW) joined Prime Time Wrestling in late 2021/early 2022. That was when they have become widely known as "Zieloni" - a name that came from their previous promotion's color scheme. Due to their solidarity and strong bond they became one of the main factions in PTW's locker room. The other factions were "the Originals" (who started in PTW, or joined PTW very early in its development) and "the Blues" (ex-[KPW](@/o/kpw.md)).
+After officially leaving MZW, most of active Zieloni members (excluding [Isnorr](@/w/isnorr.md), Rafael Kid and [Madman Charlie](@/w/sedzia-karol-gorski.md), who joined PpW) joined Prime Time Wrestling in late 2021/early 2022. That was when they have become widely known as "Zieloni" - a name that came from their previous promotion's color scheme. Due to their solidarity and strong bond they became one of the main factions in PTW's locker room. The other factions were "the Originals" (who started in PTW, or joined PTW very early in its development) and "the Blues" (ex-[KPW](@/o/kpw.md)).
 
 After the honeymoon period had ended, the internal tensions in the organization began. They were caused mostly by disagreements between these groups, and the management that often favoured loyalty of the Originals over the other groups. The first Zielony to leave PTW was Jacob Crane, who was offically released by the promotion due to alleged "lack of professialism and acting to the detriment of the federation" in August 2022. According to Zieloni, it was mostly due to tensions between Crane, the Originals and the management. These tensions stemmed from personal conflicts as well as Jacob's desire to focus on his career outside of Poland, as well as his willingness to coach his collegues in PpW Dojo. This was against the rules set by Pawłowski, who banned PTW talent from interacting with other Polish federations.
 
@@ -55,12 +55,12 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 ## Members
 
 * [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-* [Axel Fox](@/w/axel-fox.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-* [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
+* [Axel Fox](@/w/jakub.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+* [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw', 'low', 'ppw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
 * [Jacob Crane](@/w/jacob-crane.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
-* [Madman Charlie](@/w/madman-charlie.md) {{ org_badge(orgs=['mzw', 'ppw', 'low']) }}
+* [Madman Charlie](@/w/sedzia-karol-gorski.md) {{ org_badge(orgs=['mzw', 'ppw', 'low']) }}
 * [Olgierd](@/w/olgierd.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Rafael Kid](@/w/rafael-kid.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
 * [Sewi](@/w/sedzia-seweryn.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
@@ -68,7 +68,7 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 
 #### Honorary members
 * [Asmund](@/w/asmund.md) {{ org_badge(org='mzw') }} 
-* [Justin Joy](@/w/justin-joy.md)  {{ org_badge(orgs=['mzw', 'ptw']) }} 
+* [Justin Joy](@/w/justin-joy.md)  {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }} 
 
 It is important to note that not all MZW wrestlers are Greens. The group was started by wrestlers who joined in 2017/2018, and created a strongly bonded social group, connected by their wrestling endeavors. Thus, wrestlers like [Rafi](@/w/rafi.md) or [Sambor](@/w/sambor.md) who also started their training in MZW, or [Shadow](@/w/shadow.md) who founded the organization, are not considered to be Greens.
 

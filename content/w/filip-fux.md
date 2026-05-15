@@ -7,17 +7,17 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "kpw-arena-22-filip-fux.jpg", caption = "Filip carries [Lee Rogers](@/w/lee-rogers.md), KPW Arena 22.", source = "M3n747" }
+1 = { path = "kpw-arena-22-filip-fux.jpg", caption = "Filip carries [Lee Rogers](@/w/lee-rogers.md), [KPW Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).", source = "M3n747" }
 2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre.", source = "Alan Lisewski" }
 +++
 
-Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
+Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md), [Legacy of Wrestling](@/o/low.md) and [PpW Ewenement Wrestling](@/o/ppw.md).
 
 ## Basic info
 
 * Years active: 2018-present
 * Gimmicks/nicknames:
-  - Filip Fux {{ org_badge(orgs=['kpw', 'low']) }}
+  - Filip Fux {{ org_badge(orgs=['kpw', 'low', 'ppw']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2018-present)
 
@@ -44,6 +44,12 @@ Filip Fux was the first KPW wrestler to be announced as the member of [Legacy of
 
 The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled off by Legia Łysych, Filip and Michał emerged victorious from their title defence against Legia Łysych. At Legacy's [third show](@/e/low/2025-07-11-low-3.md) Filip unsucessfully challenged [Gabriel Queen](@/w/gabriel-queen.md) and [Oskar Alexander](@/w/oskar-alexander.md) in a Road to the Title Triple Threat Match.
 
+### PpW Ewenement Wrestling (2026-present)
+
+#### Debut and joining Rodzina
+
+Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring. Filip emerged victorious, and later on intervened in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/jakub.md) by attacking Gryffin with a steel chair shot to the back of the head. It was quickly revealed that he did it at the order of [Rodzina](@/tt/rodzina.md) - a villainous stable he'd joined. Unlike in KPW and Legacy, where he's a clear-cut babyface, in PpW he portrays a heel character.
+
 ## International wrestling appearances 
 
 From 2023 onwards Filip started to secure international bookings for himself. He managed to made a few appearances for European Wrestling Association, Passion Pro and in SLAM Wrestling Entertainment.
@@ -58,6 +64,7 @@ From 2023 onwards Filip started to secure international bookings for himself. He
   - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
 * Tag Teams and stables:
   - [Bracia Fux](@/tt/bracia-fux.md) (2021-)
+  - [Rodzina](@/tt/rodzina.md) (2026-)
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
     {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025 - both in a Tag Team with [Michał Fux](@/w/michal-fux.md) and solo)<br>
@@ -69,7 +76,7 @@ From 2023 onwards Filip started to secure international bookings for himself. He
     {{ music(yt='se3AUY4XKcA')}}
     {{ music(apple='375038556?i=375038653')}}
   - "Kickstart My Heart Remix" by Dance with the Dead
-    {{ org_badge(orgs=['low']) }} (2024) <br>
+    {{ org_badge(orgs=['low', 'ppw']) }} (2024; 2026-) <br>
     {{ music(yt='XGwBYcPQLC8')}}
   - "SexyBack (feat. Timbaland)" by Justin Timberlake
     {{ org_badge(orgs=['low']) }} (2025) <br>

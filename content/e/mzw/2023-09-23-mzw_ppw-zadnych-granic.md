@@ -8,6 +8,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 orgs = ["ppw", "mzw"]
 [extra.gallery]
 +++

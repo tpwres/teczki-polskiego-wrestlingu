@@ -17,7 +17,7 @@ The PTW Championship is a professional wrestling championship created and promot
 ## Statistics
 
 * First champion: [Puncher](@/w/puncher.md)
-* Most reigns: Puncher (1)
+* Most reigns: Puncher (1) / Spartan (1)
 * Longest reign: Puncher (679 days)
 * Shortest reign: [Spartan](@/w/spartan.md) (1+ days)
 * Youngest champion: Puncher (27 years, 298 days)
@@ -43,7 +43,7 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
 
 {% free_card() %}
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Jonny Storm](@/w/jonny-storm.md)'
   - Cowboy James Storm
@@ -123,7 +123,7 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
     en: '[PTW Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
 - - 'Puncher(c)'
-  - '[Damian Lambert](@/w/damien-rothschild.md)'
+  - '[Damian Lambert](@/w/damian-lambert.md)'
   - s: Singles Match
     en: '[PTW Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
@@ -149,7 +149,27 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
     ed: 2026-01-31
-    nc: upcoming  
+- - 'Spartan(c)'
+  - '[Renegade](@/w/renegade.md)'
+  - s: Singles Match
+    en: '[PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md)'
+    ed: 2026-02-21
+- - 'Spartan(c)'
+  - '[Nano Lopez](@/w/nano-lopez.md)'
+  - s: Singles Match
+    en: '[PTW More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
+    ed: 2026-03-29
+- - 'Spartan(c)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - s: Singles Match
+    en: '[PTW Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md)'
+    ed: 2026-04-18
+- - 'Spartan(c)'
+  - '[Blaze](@/w/blaze.md)'
+  - s: Singles Match
+    en: '[PTW Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+    ed: 2026-05-23
+    nc: upcoming
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

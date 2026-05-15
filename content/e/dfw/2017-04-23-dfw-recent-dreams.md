@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery.poster]
 path = "dfw-recent-dreams-poster-2.webp"
 caption = "Official poster, with [Revage](@/w/rafael-kid.md) and [Chris Hunter](@/w/chris-hunter.md)"
@@ -27,13 +28,13 @@ With five matches on the card, this was a big event by DFW's standards. In the m
 - - '[Rob Scaffold](@/w/rob-scaffold.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
 - - '[Direk](@/w/direk.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - s: No Holds Barred Match
 - - '[Norris](@/w/isnorr.md) & [Corin Mear](@/w/corin-mear.md)'
   - '[Malmo Buruto](@/w/malmo-buruto.md) & Hekate'
   - s: Tag Team Match
 - - '[PJ Blake](@/w/pj-blake.md)'
-  - '[Amisz](@/w/axel-fox.md)'
+  - '[Amisz](@/w/jakub.md)'
 - - '[Revage](@/w/rafael-kid.md)'
   - '[Chris Hunter](@/w/chris-hunter.md)(c)'
   - c: '[DFW Championship](@/c/dfw-championship.md)'

@@ -7,6 +7,7 @@ venue = ["torwar"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = false
 +++
 
 World Wrestling Superstars was a group of American wrestlers, doing a tour of Europe in 1993.

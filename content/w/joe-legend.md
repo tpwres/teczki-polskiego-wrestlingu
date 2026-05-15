@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["CA"]
+[extra.gallery]
+1 = { path = "joe-legend.jpg", caption = "Joe Legend with the [DDW International Championship](@/c/ddw-international-championship.md).", source = "Official DDW Facebook" }
 +++
 
 Joe E. Legend is a Canadian wrestler known for his appearances in [Prime Time Wrestling](@/o/ptw.md) and [Do Or Die Wrestling](@/o/ddw.md).

@@ -8,11 +8,12 @@ venue=["hala-labo"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy-gallery.toml"
 +++
 
-Teraz Albo Nigdy (_Now Or Never_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), set to return to [Mińska&nbsp;65](@/v/minska-65.md). This time, the show took place in a different part of the venue complex, _Hala Labo_.
+Teraz Albo Nigdy (_Now Or Never_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md) held at [Mińska&nbsp;65](@/v/minska-65.md). This time, the show took place in a different part of the venue complex, _Hala Labo_.
 
 PpW launched the ticket sales exactly two months before the event date. It is the first PpW event to introduce three tiers of tickets, with varying pricing:
 
@@ -38,7 +39,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
 
 ### Announced entrants for Battle Royal
 
-* [Axel Fox](@/w/axel-fox.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview (timestamp in the offical video: 1:42:35). He was later [confirmed][axel-potwierdzony] in a Facebook post published on 8.03.2025. On 10.03 he [declared][axel-numero-uno] his wish to enter at number 1, to prove to himself and his detractors he belongs at the top.
+* [Axel Fox](@/w/jakub.md) - declared himself at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in interview (timestamp in the offical video: 1:42:35). He was later [confirmed][axel-potwierdzony] in a Facebook post published on 8.03.2025. On 10.03 he [declared][axel-numero-uno] his wish to enter at number 1, to prove to himself and his detractors he belongs at the top.
 * Stanisław van Dobroniak - announced on PpW's social media.
 
 ## Card
@@ -57,7 +58,7 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - '[Goblin](@/w/goblin.md)'
   - s: Dog Collar Match
 - - '[Goblin](@/w/goblin.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Bill Feager](@/w/feager.md)'
@@ -76,10 +77,10 @@ PpW launched the ticket sales exactly two months before the event date. It is th
   - '[Sędzia Kornel](@/w/sedzia-kornel.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
-  - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at Ledwo Legalne 5'
+  - s: '20 Typa, 20 Broni Battle Royale for the [PpW Championship](@/c/ppw-championship.md) opportunity at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
     Commentary: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
 {% end %}
 

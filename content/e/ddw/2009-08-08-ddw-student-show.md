@@ -7,6 +7,7 @@ venue = ["karuzela"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = false
 +++
 
 ## Card

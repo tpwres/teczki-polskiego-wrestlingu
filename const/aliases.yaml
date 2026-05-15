@@ -2,8 +2,8 @@
 # May repeat with different aliases. It is an error if a name is used both as name and as alias.
 # Alternatively: "main name": [list, of, aliases] (or in block form with dashes)
 # Think of this as formatted the same way you see it on the name list: main name first, then list of aliases.
+Andrzej: Młody # rookie Andrzej from Piwo Przyjacielem Wrestlingu 2 = rookie Młody from Dojo Showcase
 Black Phantom: The Black Phantom
-Boguś: Sędzia Boguś
 Conte: Conte McStevenson
 Damien Sandow: Damien Mizdow
 Faust XIII: Faust
@@ -20,7 +20,6 @@ Red Dorada:
   - Mati
   - RoodWood
 Rambo: Salsakid Rambo
-Rookie One: Oskar Fux # KPW in Kadzidło
 Scorpio: Scorpion # PIWG
 Vamp: Vampirro
 Wade Barrett: Bad News Barrett

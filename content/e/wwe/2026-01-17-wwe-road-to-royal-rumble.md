@@ -49,7 +49,7 @@ Independently, but driven by the bigger show's influence and fan interest, two P
   - s: Cody thanks the audience, and gifts a signed piece of a broken table from his match with Drew to a young fan.
 {% end %}
 
-Attendance: est. 9808 (per Cagematch) to 10,015 (per WrestleTix)
+Attendance: 9808 (per Cagematch) / est. 10,015 (per WrestleTix)
 
 ## References
 
@@ -57,7 +57,6 @@ Attendance: est. 9808 (per Cagematch) to 10,015 (per WrestleTix)
 * [Announcement on WWE.com](https://www.wwe.com/event/road-to-royal-rumble-5)
 * [Event card as per LiveNation](https://www.facebook.com/reel/2076026209880438) (in the description)
 * [Updated card][fb-ln-post] with a different women's match
-* [Event card as per LiveNation](https://www.facebook.com/reel/2076026209880438)
 * [WrestleTix ticket data](https://xcancel.com/WrestleTix/status/2012495296312254834#m) via XCancel
 
 [fb-event]: https://www.facebook.com/events/1378162937301722/

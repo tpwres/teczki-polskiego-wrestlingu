@@ -8,6 +8,7 @@ venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2025-04-30-ppw-ostatnia-prosta-gallery.toml"
 +++
@@ -70,13 +71,13 @@ During the event, fans saw new and returning international wrestlers in the ring
   - g: Isnorr vacates the [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md).
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[_rookie_ Bartosz](@/w/plata.md)'
-- - '[GobLis](@/tt/goblis.md): [Goblin](@/w/goblin.md) & [Axel Fox](@/w/axel-fox.md)'
+- - '[GobLis](@/tt/goblis.md): [Goblin](@/w/goblin.md) & [Axel Fox](@/w/jakub.md)'
   - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Tornado Tag Team Match
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - g: Johnny Blade, thought to be [shot dead by PM Shooter guards](@/a/pm-shooter-saga.md), rises from the grave and returns as a zombie.
 - credits:
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
     Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
     Hosts: '[Joker](@/w/joker.md), [Michael HT](@/w/michael-ht.md)'
     Commentary: '[Joker](@/w/joker.md), [Istociarz](@/w/istociarz.md)'

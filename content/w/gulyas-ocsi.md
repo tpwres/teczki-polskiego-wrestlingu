@@ -30,7 +30,7 @@ Less than two months after his appearance for KPW he was booked by [Prime Time W
 
 ### Legacy of Wrestling (2025)
 
-On November 7th, 2025, [Legacy](@/o/low.md) announced that Gulyás would make his debut for the federation during their [fourth show](@/e/low/2025-12-20-low-4.md).
+On November 7th, 2025, [Legacy](@/o/low.md) announced that Gulyás would make his debut for the federation during their [fourth show](@/e/low/2025-12-20-low-4.md). He faced [Filip Fux](@/w/filip-fux.md) and [Robert Star](@/w/robert-star.md) in a Triple Threat Match.
 
 ## Internet presence
 

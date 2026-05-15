@@ -7,10 +7,8 @@ venue=["waldorffa25"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-[extra.gallery.1]
-path = "2023-09-09-ppw-czyste-intencje-plakat.jpg"
-caption = 'Official poster. The top five characters are [Ricardo Diesel](@/w/ricardo-diesel.md), [Johnny Blade](@/w/johnny-blade.md), [Biesiad Strong](@/w/biesiad.md), [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Mister Z](@/w/mister-z.md). Below them, pictured are [Steve Kuningas](@/w/steve-kuningas.md), [Jerry "Rich" Mandecki](@/w/jerry-mandecky.md) and [Kapitan Bazooka](@/w/kapitan-bazooka.md).'
-source = "Official PpW Facebook"
+has_video = true
+[extra.gallery]
 +++
 
 Czyste Intencje (_Pure Intentions_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md).
@@ -39,6 +37,8 @@ Czyste Intencje (_Pure Intentions_) was a show by [PpW Ewenement Wrestling](@/o/
     Interviewer: Szymon Kuciok
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
+
+The show was aired live on television, on Sportowa.tv channel.
 
 ## References
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=382968)

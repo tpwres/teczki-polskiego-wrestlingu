@@ -7,13 +7,14 @@ chronology = ["mcw"]
 [extra]
 city = "Siemianowice Śląskie"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2024-11-16-mcw-charytatywnie-plakat.jpg"
 caption = "Official poster. Pictured from left to right, top: Doomfist, Phantom; middle: Chris Steeler, [Johny Vegas](@/w/johny-vegas.md); bottom: [RAV](@/w/rav.md), Jack Kalom."
 source = "Official MCW Facebook"
 +++
 
-MCW Charytatywnie (roughly: _MCW for Charity_) was a 2024 [Mine City Wrestling](@/o/mcw.md) show held in the {{ map_pin(v="Kompleks Sportowy &quot;Michał&quot;") }}"Michał" Sports Complex in Siemianowice Śląskie, as part of a charity event. The show featured three fights, including a Championship match, and saw the debut of two new wrestlers, Doomfist and Phantom.
+MCW Charytatywnie (roughly: _MCW for Charity_) was a 2024 [Mine City Wrestling](@/o/mcw.md) show held in the {{ map_pin(v="Kompleks Sportowy Michał") }}"Michał" Sports Complex in Siemianowice Śląskie, as part of a charity event. The show featured three fights, including a Championship match, and saw the debut of two new wrestlers, Doomfist and Phantom.
 
 ## Card
 

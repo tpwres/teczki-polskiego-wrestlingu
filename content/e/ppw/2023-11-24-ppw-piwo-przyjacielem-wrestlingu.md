@@ -8,6 +8,7 @@ venue = ["targi-poznan"]
 hide_results = true
 city = "Poznań"
 toclevel = 2
+has_video = false
 [extra.gallery.1]
 path = "2023-11-24-ppw-piwo-przyjacielem-wrestlingu-plakat.jpg"
 caption = "Official poster, showing [Johnny Blade](@/w/johnny-blade.md) with a glass beer mug and kendo stick."

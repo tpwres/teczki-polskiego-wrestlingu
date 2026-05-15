@@ -8,8 +8,8 @@ venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
-manifest = "@/e/ptw/2024-09-29-ptw-walczymy-dla-fundacji-gallery.toml"
 +++
 
 After [Underground 22](@/e/ptw/2024-08-25-ptw-underground-22.md) concluded, PTW's social media channels didn't reveal a date for the next show.
@@ -48,3 +48,4 @@ The event saw the return of [LaVonce](@/w/lavonce.md) and the PTW debut of Briti
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=403967)
 * [Facebook announcement and poster](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0A8DxWMbks5aKMceWdq2kVsNcauAGxL56iSqdtVCdthHCEcQfNocuM5mzRBvz78bul)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=bxySrZ9WOCs)

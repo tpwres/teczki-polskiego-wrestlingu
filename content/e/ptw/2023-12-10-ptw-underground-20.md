@@ -7,6 +7,8 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = true
+[extra.gallery]
 +++
 
 ## Card
@@ -29,7 +31,7 @@ toclevel = 2
   - '[Sędzia Rafał](@/w/alex-brave.md)'
 - - '[Sambor](@/w/sambor.md) w/ [Rusałka](@/w/rusalka.md)'
   - 'Jarek Nowak'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - r: 'DQ'
 - credits:

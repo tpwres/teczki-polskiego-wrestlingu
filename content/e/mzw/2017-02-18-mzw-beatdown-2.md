@@ -7,6 +7,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/mzw/2017-02-18-mzw-beatdown-2-gallery.toml"
 +++

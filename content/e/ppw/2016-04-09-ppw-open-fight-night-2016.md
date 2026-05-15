@@ -8,6 +8,7 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2016-04-09-ppw-open-fight-night-2016-gallery.toml"
 +++

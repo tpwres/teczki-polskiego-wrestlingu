@@ -56,7 +56,7 @@ After that show he, along with many other talent, [left PTW](@/a/ptw-exits.md).
 ### PpW Ewenement (2024-present)
 
 On July 5th, 2024, [PpW Ewenement Wrestling](@/o/ppw.md) announced on its social media that Sewi joined the federation as a referee.
-He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) and [Sędzia Karol Górski](@/w/madman-charlie.md) from that time onwards.
+He made his debut at [PpW Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), working alongside [Sędzia Kornel](@/w/sedzia-kornel.md) and [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md) from that time onwards.
 
 #### Feud with Olgierd
 
@@ -70,7 +70,7 @@ On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mz
 
 ### Legacy of Wrestling (2024-present)
 
-During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/madman-charlie.md).
+During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/sedzia-karol-gorski.md).
 
 ## International wrestling appearances
 

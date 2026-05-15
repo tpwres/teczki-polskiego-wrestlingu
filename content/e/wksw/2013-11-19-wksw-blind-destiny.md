@@ -6,6 +6,7 @@ authors = ["M3n747"]
 chronology = ["wksw"]
 [extra]
 city = "Wołów"
+has_video = true
 +++
 
 The date of the show wasn't explicitly stated in the available source. The date of the post on WrestleFans forum was used instead, as the author's track record suggests he posted about the previous shows on the same days they took place.
@@ -35,5 +36,5 @@ KL is a user of the WrestleFans forum who commented in threads about the WKSW sh
 
 ## References
 
-* [Post at WrestleFans forum](https://wrestlefans.pl/forum/viewtopic.php?f=295&t=38772)
 * [Highlights video](https://www.youtube.com/watch?v=ky6XT0n2Ahw)
+* [Post at WrestleFans forum](https://wrestlefans.pl/forum/viewtopic.php?f=295&t=38772)

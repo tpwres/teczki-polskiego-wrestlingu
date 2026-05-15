@@ -1,68 +1,81 @@
 +++
 title = "PTW: Odrodzenie"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
-"Odrodzenie" (_The Rebirth_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in a post-show interview with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
+"Odrodzenie" (_The Rebirth_) was a show by [Prime Time Wrestling](@/o/ptw.md). It was announced at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in a post-show interview with [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 
 This is the second PTW show - following [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) - to share a name with a [KPW event](@/e/kpw/2021-08-21-kpw-arena-17.md).
+
+This event marked a change in PTW's policy. The live stream was available to YouTube backers on the day of the show only with a broadcast on Extreme Sports Channel to follow about a week later, before eventually returning to paid YouTube at a later date.
 
 ## Build-up
 
 * In the [video interview][smutny-arek] posted on 16.12.2025 [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) said that he'd be quitting PTW, citing his age, corpulence and poor physical and mental condition, following the turn of events of Świąt Nie Będzie. Pawłowski then chastised rookie Boguś for betraying him and his team, thus taking away the dream Arek had worked for his entire life. He followed this by stating that he wants to say goodbye to the fans and to PTW (in his own, uncensored way), which will likely be the last wrestling-related thing he does.
-* The first match of the event, announced on 17.01.2026, was Damian Adler vs [CJ Klakson](@/w/cj-klakson.md).
+* The first match of the event, announced on 17.01.2026, was [Damian Adler](@/w/damian-adler.md) vs [CJ Klakson](@/w/cj-klakson.md).
 * Two days later PTW announced that ["Starboy" Nano Lopez](@/w/nano-lopez.md) will defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) in an Open Challenge.
 * On 20.01.2025 PTW announced a match between the reigning champions [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) and Miyagi Sigma ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 * A few hours later [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was confirmed to make an appearance at the show.
 * 22.01.2026 saw the announcement of a new debutant: [Boguś](@/w/bogus.md), who previously wrestled a few matches as a rookie and also worked as a referee at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md).
 * The final match-up to be announced (on 23.01.2026) was a [PTW Championship](@/c/ptw-championship.md) match between the reigning champion [Spartan](@/w/spartan.md) and Italian wrestler Bittersweet Josh, last seen at [Underground 25](@/e/ptw/2024-12-07-ptw-underground-25.md).
 * [Remo](@/w/remo.md), who returned at the [previous show](e/ptw/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) after a long recovery period following an injury, was announced to return to in-ring action on 25.01.2026.
+* On 28.01.2026 PTW announced [Daniel Razor](@/w/daniel-razor.md) vs Ukrainian wrestler [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md), who debuted in Poland at the [previous show](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
+* 29.01.2026 saw the announcement of [Damian Lambert](@/w/damian-lambert.md) vs [Blaze](@/w/blaze.md) in a Singles Match.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[CJ Klakson](@/w/cj-klakson.md)'
-  - 'Damian Adler'
-  - nc: upcoming
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - '???'
-  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
+{% card() %}
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Blaze](@/w/blaze.md)'
+  - '[Boguś](@/w/bogus.md)'
+  - 'Fashion Gabriel'
+  - s: Four-Way Match
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - g: 'Damian Lambert announces the coming of "The Prophet"'
+- - '[Damian Adler](@/w/damian-adler.md)'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
-    nc: upcoming
-- - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - '???'
-  - nc: upcoming
-- - '[Boguś](@/w/bogus.md)'
-  - '???'
-  - nc: upcoming
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '[Bart Petro](@/w/bart-petro.md)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+- - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & [Misiek](@/w/misiek.md)'
+  - 'Drop & Bump: [Bumper](@/w/fabian.md) & [Dropper](@/w/whiteblade.md)'
+  - s: Tag Team Match
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Bumper](@/w/fabian.md)'
+  - '[Dropper](@/w/whiteblade.md)'
+  - g: 'Bumper attacks Dropper after their loss. Damian Lambert makes a save and kidnaps Dropper, forcing a mask on his face.'
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Bittersweet Josh'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
-- - '[Remo](@/w/remo.md)'
-  - '???'
-  - nc: upcoming
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
+  - g: Pawłowski says goodbye to PTW, its roster and the fans.
 {% end %}
 
-### Recap
+### Highlights
 
-* TBD
+* Despite being announced, [Remo](@/w/remo.md) did not appear at the show.
+* After winning the Four Way Match, [Damian Lambert](@/w/damian-lambert.md) debuted his new gimmick, preaching that the mysterious "Prophet" who knows all the answers will come to PTW.
+* Later at the show, Lambert interfered in a post-match altercation between Bumper and Dropper. Driving Bumper away, he offered Dropper a lucha mask but was refused. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=441843)
+* [Open access video: Daniel Razor vs Baron Wolfgang Storm, Four-Way Match](https://www.youtube.com/watch?v=KkGwVrbT4s0)
 * [Video: interview with Arek Pawłowski][smutny-arek]
 
 [smutny-arek]: https://www.youtube.com/watch?v=zQyUTKm4Uvg

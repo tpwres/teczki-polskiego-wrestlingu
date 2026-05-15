@@ -6,6 +6,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "Festyn2015.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions", source = "Parish website antoni-torun.pl", skip_art = true}
 +++
@@ -19,7 +20,7 @@ The same festival and location would host [Tournament of Dreams](@/e/dfw/2016-06
 - - '[Jay Revolt](@/w/jay-revolt.md)'
   - '[PJ Blake](@/w/pj-blake.md)'
 - - '[Corin Mear](@/w/corin-mear.md) & [Malmo Buruto](@/w/malmo-buruto.md)'
-  - '[Pain Killer](@/w/pain-killer.md) & [Charlie Grayson](@/w/madman-charlie.md)'
+  - '[Pain Killer](@/w/pain-killer.md) & [Charlie Grayson](@/w/sedzia-karol-gorski.md)'
   - s: Tag Team Match
 - - '[Chris Hunter](@/w/chris-hunter.md)'
   - '[Revage](@/w/rafael-kid.md)'
@@ -28,6 +29,6 @@ The same festival and location would host [Tournament of Dreams](@/e/dfw/2016-06
 
 ## References
 
-* [Youtube Recap video](https://www.youtube.com/watch?v=iWOEu1OakYk)
+* [Youtube recap video](https://www.youtube.com/watch?v=iWOEu1OakYk)
 * [Facebook post from 2020](https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02VbF5zWtSJw2qUi94o9jtEkUe2ZoiFfVTc4uyUpLnhUACHgtwcFssrgWC6KMjAQMgl)
 * [Facebook event](https://www.facebook.com/events/387898834729356/)

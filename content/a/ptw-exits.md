@@ -111,12 +111,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
-- - '**[Remo](@/w/remo.md)**'
-  - 2020
-  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
-  - '[2022-05-29](@/e/ptw/2022-05-29-ptw-underground-5.md)'
-  - 2024?
-- - '**[Michał "Mutant" Świątkowski](@/w/_index.md#M)**'
+- - '**[Michał "Mutant" Świątkowski](@/w/mutant.md)**'
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
@@ -126,7 +121,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 [Instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
-- - '**[Axel Fox](@/w/axel-fox.md)**'
+- - '**[Axel Fox](@/w/jakub.md)**'
   - 2021 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
@@ -230,7 +225,7 @@ On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://ww
 
 On Thursday June 13th, PTW have taken down the roster section of their page.
 
-In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/axel-fox.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/jakub.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
 
 [samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009

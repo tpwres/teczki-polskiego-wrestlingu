@@ -8,11 +8,8 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
-01 = { path = "2024-12-07-ptw-underground-25-plakat.jpg", caption = 'Official poster. Left to right, top row: [Diana Strong](@/w/diana-strong.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md), [Dawid "Puncher" Seńko](@/w/puncher.md), [Spartan](@/w/spartan.md), Bittersweet Josh, Session Moth Martina; bottom row: [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md).', source = "Official PTW Facebook." }
-02 = { path = "martina.webp", caption = "Facebook promotional graphic announcing Session Moth Martina.", source = "Official PTW Facebook." }
-03 = { path = "2024-12-07-ptw-underground-25-patrycja-malinowska-with-prezes-okonski.jpg", caption = "[El Homo](@/w/lukasz-okonski.md) (Prezes Okoński) led on a chain by Patrycja Malinowska.", source = "zbigniew_wielgosz @ Instagram" }
-
 +++
 
 PTW Underground 25 was an event by [Prime Time Wrestling](@/o/ptw.md). The event's name refers to the date, close to December 6th, when Poland celebrates [Saint Nicholas Day][st-nicholas-day] (Mikołajki), and is when the Christmas season kicks into gear. This makes its similar to [PTW Underground 19](@/e/ptw/2023-12-09-ptw-underground-19.md) which was also Christmas-themed.
@@ -216,8 +213,6 @@ He greets the fans. The crowd chants his name as he hypes up the card and sponso
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=414093)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)
-* [Fancam by Istota Wrestlingu, part 1](https://www.youtube.com/watch?v=8FV4WYGKM3A)
-* [Fancam by Istota Wrestlingu, part 2](https://www.youtube.com/watch?v=S7V_J6D7TcI)
-* [Fancam by Istota Wrestlingu, part 3](https://www.youtube.com/watch?v=sNXnt8jXqcg)
+* Fancam by Istota Wrestlingu: [part 1](https://www.youtube.com/watch?v=8FV4WYGKM3A), [part 2](https://www.youtube.com/watch?v=S7V_J6D7TcI), [part 3](https://www.youtube.com/watch?v=sNXnt8jXqcg)
 
 [st-nicholas-day]: https://en.wikipedia.org/wiki/Saint_Nicholas_Day

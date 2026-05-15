@@ -7,6 +7,7 @@ chronology = ["mcw"]
 [extra]
 city = "Siemianowice Śląskie"
 toclevel = 2
+has_video = true
 [extra.gallery.1]
 path = "2023-12-16-mcw-damage-control-plakat.jpg"
 caption = "Official poster. Pictured from left to right are: Chris Steeler, [RAV](@/w/rav.md), [Johny Vegas](@/w/johny-vegas.md), and Jack Kalom."

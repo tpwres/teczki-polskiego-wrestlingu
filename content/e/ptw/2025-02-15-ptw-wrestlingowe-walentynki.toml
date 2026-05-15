@@ -1,0 +1,10 @@
+0001 = { path = "2025-02-15-ptw-wrestlingowe-walentynki-palat.webp", caption = "Official poster. Left to right, lovingly embracing in the heart: [Puncher](@/w/puncher.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md); along the bottom: [Max Speed](@/w/max-speed.md), [Alex Brave](@/w/alex-brave.md), [Miyagi Shida](@/w/miyagi-shida.md), [Łukasz Okoński](@/w/lukasz-okonski.md), [Spartan](@/w/spartan.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Diana Strong](@/w/diana-strong.md).", source = "Official PTW Facebook" }
+0002 = { path = "the-kamien.webp", caption = "A new contestant announced.", source = "Official PTW Facebook." }
+0003 = { path = "uderzacz.webp", caption = '[Dawid "Puncher" Seńko](@/w/puncher.md) will appear at the show.', source = "Official PTW Facebook." }
+0004 = { path = "horda-vs-turbulencje.webp", caption = "Announcement of L'Orda ([Rust](@/w/rust.md) and [Luca Bjorn](@/w/luca-bjorn.md)) vs Team Turbulence (Tommy Tornado and Tommy Torpedo).", source = "Official PTW Facebook." }
+0005 = { path = "speed-vs-new-guy.webp", caption = "[Max Speed](@/w/max-speed.md) will face the new guy.", source = "Official PTW Facebook." }
+0006 = { path = "blave.webp", caption = "[Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md).", source = "Official PTW Facebook." }
+0007 = { path = "krtek-vs-leonidas.webp", caption = "[Erik Šlotíř](@/w/erik-slotir.md) vs [Spartan](@/w/spartan.md).", source = "Official PTW Facebook." }
+0008 = { path = "vicar-vs-kepyr.webp", caption = "[Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Ken Pyro.", source = "Official PTW Facebook." }
+0009 = { path = "drabinka.webp", caption = "The tournament bracket: [Max Speed](@/w/max-speed.md) vs ???, [Blaze](@/w/blaze.md) vs [Alex Brave](@/w/alex-brave.md), [Erik Šlotíř](@/w/erik-slotir.md) vs [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Ken Pyro.", source = "Official PTW Facebook." }
+0010 = { path = "diany-nie-bedzie.webp", caption = "Diana says she won't be at the two shows.", source = "Diana Strong's Instagram.", skip_art = true }

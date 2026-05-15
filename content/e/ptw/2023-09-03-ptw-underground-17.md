@@ -8,6 +8,8 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = true
+[extra.gallery]
 +++
 
 ## Card
@@ -28,7 +30,7 @@ toclevel = 2
   - 'Salomon Strid'
 - - '[Krampus](@/w/krampus.md)'
   - '[Marcelito](@/w/marcelito.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Rafi Rarytas](@/w/rafi.md)'
   - s: 'Impromptu match'
 - - '[Dziedzic](@/w/dziedzic.md)'

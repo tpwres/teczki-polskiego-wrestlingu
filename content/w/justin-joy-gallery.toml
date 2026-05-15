@@ -2,7 +2,7 @@
 02 = { path = 'jj2.png', caption = "[LEGENDS](@/e/ptw/2022-11-26-ptw-3-legends.md) was the breaking point. Background: Joy winning over Axel Fox at that event.", skip_art = true }
 03 = { path = 'jj3.png', caption= "Justin is done fighting abroad, wants to follow the money. Background: Joy winning the NSW National title in Dresden.", skip_art = true }
 04 = { path = 'jj4.png', caption = "Addressing [PpW](@/o/ppw.md)'s image issues. Background: Joy vs Axel Fox at LEGENDS.", skip_art = true }
-06 = { path = 'jj6.png', caption = "Justin's most positive thing in PTW was his friend [Axel Fox](@/w/axel-fox.md). Background: Fox hugging Joy."}
+06 = { path = 'jj6.png', caption = "Justin's most positive thing in PTW was his friend [Axel Fox](@/w/jakub.md). Background: Fox hugging Joy."}
 07 = { path = 'jj7.png', caption = "No kayfabe needed. Background: A PTW Underground show.", skip_art = true }
 08 = { path = 'jj8.png', caption = "The drama that happened has acumulated over the years. Background: Joy vs [Nitro](@/w/nitro.md) at PTW Underground 3", skip_art = true }
 09 = { path = 'jj9.png', caption = "Too many promises were made. Background: Joy and Fox at a PTW Underground show.", skip_art = true }

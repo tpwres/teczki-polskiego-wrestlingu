@@ -7,6 +7,7 @@ chronology = ["pxw"]
 hide_results = true
 city = "Głuchołazy"
 toclevel = 2
+has_video = false
 +++
 
 ## Card
@@ -29,7 +30,7 @@ toclevel = 2
 - - '[Krycha](@/w/krycha.md)(c)'
   - '[Slate](@/w/slate.md)'
   - c: PXW Championship
-    n: Krycha will lose the PXW Championship if he uses Cracked Jaw in the fight.<!-- Krycha is a guy, contrary to what the name suggests -->
+    n: Krycha will lose the PXW Championship if he uses Cracked Jaw in the fight.
     nc: '?'
 {% end %}
 

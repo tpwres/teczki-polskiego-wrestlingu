@@ -8,6 +8,7 @@ venue = ["gosir-glucholazy"]
 [extra]
 city = "Głuchołazy"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -22,10 +23,10 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
 {% card() %}
 - - '[Shadow](@/w/shadow.md) + [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Alexander Reich](@/w/alex-ace.md)'
-  - '[Amisz](@/w/axel-fox.md)'
+  - '[Amisz](@/w/jakub.md)'
   - '[Lady Killer](@/w/boro.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
-  - '[Damien Rothschild](@/w/damien-rothschild.md)'
+  - '[Damien Rothschild](@/w/damian-lambert.md)'
   - Démon
   - Denim
   - '[Dynamite Dave](@/w/dynamite-dave.md)'

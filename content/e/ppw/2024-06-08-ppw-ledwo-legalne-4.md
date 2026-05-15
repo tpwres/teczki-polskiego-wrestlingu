@@ -8,6 +8,7 @@ venue=["praga-centrum"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2024-06-08-ppw-ledwo-legalne-4-gallery.toml"
 +++
@@ -82,7 +83,7 @@ Shortly before the show, they were trading insults and challeneges online with L
     n: Originally a 1-on-1 match; the other two opponents added themselves.
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Interviewer: '[Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
 {% end %}
 

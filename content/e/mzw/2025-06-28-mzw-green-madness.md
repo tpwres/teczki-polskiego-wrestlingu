@@ -8,6 +8,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/mzw/2025-06-28-mzw-green-madness-gallery.toml"
 +++

@@ -1,0 +1,9 @@
+01 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Official PpW Facebook"}
+02 = { path = "ag-crane-queen.jpg", caption = "Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook"}
+03 = { path = "gustav-gryffin-vs-biesiad.webp", caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Biesiad Strong](@/w/biesiad.md).", source = "Official PpW Facebook"}
+04 = { path = "johnny-blade-vs-isnorr.webp", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md) vs [Isnorr](@/w/isnorr.md).", source = "Official PpW Facebook"}
+05 = { path = "ag-legia-goblin.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md) vs [Goblin](@/w/goblin.md) & ???.", source = "Official PpW Facebook"}
+06 = { path = "mister-z-vs-samson.webp", caption = "Image announcing [Mister Z](@/w/mister-z.md) vs [Samson](@/w/samson.md).", source = "Official PpW Facebook"}
+07 = { path = "alex-arthur-vs-bill-feager.webp", caption = "Image announcing [Alex Arthur](@/w/alex-arthur.md) vs [Bill Feager](@/w/feager.md).", source = "Official PpW Facebook"}
+08 = { path = "dingdance-vs-dominique.jpg", caption = "Teatr Komuna's Instagram story, announcing a match between two choreographers.", source = "Instagram @komunawarszawa"}
+09 = { path = "alex-feager-canceled.jpg", caption = "[Alex Arthur's](@/w/alex-arthur.md) Instagram story explaining he will miss his just-announced fight with [Feager](@/w/feager.md).", source = "Instagram @realalexarthur", skip_art = true }

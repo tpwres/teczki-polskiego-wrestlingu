@@ -8,6 +8,7 @@ venue = ["steel-cage"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "logo.jpg", caption = "Official logo.", source = "Official PpW YouTube" }
 2 = { path = "automatico-z-zetem.jpg", caption = "[Automatico](@/w/rob-scaffold.md) (left) and [Mister Z](@/w/mister-z.md) (right).", source = "Official PpW YouTube" }

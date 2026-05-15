@@ -1,4 +1,5 @@
 {% import "issues.html" as issues %}
+{%- set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,6 +10,7 @@
   <!-- Enable responsiveness on mobile devices-->
   <!-- viewport-fit=cover is to support iPhone X rounded corners and notch in landscape-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  {% block theme_color %}<meta name="theme-color" content="#000">{% endblock -%}
 
   <title>{% block title -%}
     {% if page -%}{{ page.title }}{% elif section -%}{{ section.title }}{% else %}{{ config.title }}{% endif -%}
@@ -83,32 +85,32 @@
 </head>
 
 <body>
-{% include "_header.html" -%}
+  {% include "_header.html" -%}
 
-<section class="section">
-  <div class="container content">
-    {%- block content %} {% endblock -%}
-  </div>
-</section>
+  <section class="section">
+    <div class="container content">
+      {%- block content %} {% endblock -%}
+    </div>
+  </section>
 
-<aside class="pagination">
-  {%- block pagination %} {% endblock -%}
-</aside>
+  <aside class="pagination">
+    {%- block pagination %} {% endblock -%}
+  </aside>
 
-<footer>
-  {% include "_report_issue.html" %}
-  {% block created_with %}
-  <p>Created with
-    <a href="https://github.com/getzola/zola">zola</a>,
-    the <a href="https://github.com/wilsonjholmes/mensch">mensch theme</a>,
-    {% if config.extra.cloudflare %}Cloudflare Pages,{% endif %}
-    and lots of <span class="coffee">☕</span>
-  </p>
-  {% endblock created_with %}
-  {% include "_footer_links.html" %}
-  {%- block extra_footer %} {% endblock extra_footer -%}
-</footer>
-{% include "_footer_js.html" %}
+  <footer>
+    {% include "_report_issue.html" %}
+    {% block created_with %}
+    <p>Created with
+      <a href="https://github.com/getzola/zola">zola</a>,
+      the <a href="https://github.com/wilsonjholmes/mensch">mensch theme</a>,
+      {% if config.extra.cloudflare %}Cloudflare Pages,{% endif %}
+      and lots of <span class="coffee">☕</span>
+    </p>
+    {% endblock created_with %}
+    {% include "_footer_links.html" %}
+    {%- block extra_footer %} {% endblock extra_footer -%}
+  </footer>
+  {% include "_footer_js.html" %}
 
-</body>
+  </body>
 </html>

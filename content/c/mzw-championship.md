@@ -2,7 +2,7 @@
 title = "MZW Championship"
 weight = 5
 template = "article.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel=2
 [extra.gallery.1]
@@ -140,9 +140,9 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
     en: '[MZW Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md)'
     ed: 2018-01-14
 - - Shadow (c)
-  - '[Damien Rothschild](@/w/damien-rothschild.md)'
+  - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - s: Fatal Four Way Match
     en: '[MZW Project 2: Four](@/e/mzw/2018-12-08-mzw-project-2-four.md)'
     ed: 2018-12-08
@@ -158,7 +158,7 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 ### Champion #5: Damien Rothschild
 
 {% free_card() %}
-- - '[Damien Rothschild](@/w/damien-rothschild.md)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Shadow](@/w/shadow.md) (c)'
   - s: Singles Match
     en: '[MZW Project 3: Black & White](@/e/mzw/2019-02-09-mzw-project-3-black-white.md)'
@@ -181,6 +181,18 @@ Side plates use the same color scheme, with the left sideplate presenting a map 
 {% end %}
 
 **TOTAL**: 195 days
+
+### Champion #6: Asmund (2nd reign)
+
+{% free_card() %}
+- - '[Asmund](@/w/asmund.md)'
+  - '[Damien Rothschild](@/w/damian-lambert.md) (c)'
+  - s: Singles Match
+    en: '[MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md)'
+    ed: 2019-08-24
+{% end %}
+
+**TOTAL**: <1 day
 
 Asmund vacated the title immediately after winning it, due to his retirement from wrestling. This resulted in the title being vacant for 721 days.
 
@@ -211,7 +223,7 @@ Asmund vacated the title immediately after winning it, due to his retirement fro
     ed: 2021-08-14
 {% end %}
 
-### Champion #6: Rafael Kid
+### Champion #7: Rafael Kid
 
 {% free_card() %}
 - - '[Rafael Kid](@/w/rafael-kid.md)'
@@ -221,11 +233,11 @@ Asmund vacated the title immediately after winning it, due to his retirement fro
     ed: 2021-08-14
 {% end %}
 
-Title was later vacated due to Rafael Kid leaving the organization. This was announced at [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), and resulted in a vacancy of over 502 days. Rafael Kid's reign is recognized as lasting 574 days.
+The title was later vacated due to Rafael Kid leaving the organization. This was announced at [MZW Game ON](@/e/mzw/2023-03-11-mzw-game-on.md), and resulted in a vacancy of over 502 days. Rafael Kid's reign is recognized as lasting 574 days.
 
 **TOTAL:** 574 days
 
-### Champion #7: Matt Buckna
+### Champion #8: Matt Buckna
 
 {% free_card() %}
 - - '[Matt Buckna](@/w/matt-buckna.md)'
@@ -250,4 +262,32 @@ Title was later vacated due to Rafael Kid leaving the organization. This was ann
   - s: Singles Match
     en: '[MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md)'
     ed: 2025-09-27
+{% end %}
+
+The reign was cut short by the management's decision on 25.03.2026 when [Matt Buckna](@/w/matt-buckna.md) was unable to defend the title at [MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) following an injury, vacating the title.
+
+**TOTAL:** 529 days
+
+### Champion #9: Gustav Gryffin
+
+{% free_card() %}
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Tony Sheen](@/w/riverman.md)'
+  - s: Singles Match
+    en: '[MZW No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
+    ed: 2026-03-28
+{% end %}
+
+**TOTAL:** 5 minutes
+
+[Marco Hammers](@/w/marco-hammers.md) cashed in the championship contract won by [Mister Z](@/w/mister-z.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) and challenged Gustav Gryffin minutes after his victory.
+
+### Champion #10: Marco Hammers
+
+{% free_card() %}
+- - '[Marco Hammers](@/w/marco-hammers.md) w/ [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
+  - s: Singles Match
+    en: '[MZW No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
+    ed: 2026-03-28
 {% end %}

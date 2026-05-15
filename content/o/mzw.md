@@ -39,7 +39,7 @@ In September 2019 persons unknown broke into the building where MZW held trainin
 
 MZW was most active from 2014 to 2019, holding about five events a year. 2020 put a stop to that due to the COVID-19 pandemic and nationwide restrictions introduced. In 2021, unable to hold shows, MZW produced a series of events without live audience ([Project Basement](@/e/project-basement.md)), which were released on YouTube. No events of any kind were held in 2022.
 
-In 2020 and 2021 several wrestlers would quit and join the newly created [PTW](@/o/ptw.md) to become part of its first roster. These were [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/axel-fox.md), [Jacob Crane](@/w/jacob-crane.md), [Prince Victor](@/w/vic-golden.md), [Nathan Cross](@/w/gabriel-queen.md), [Lady Killer](@/w/boro.md) and [Aron Wake](@/w/aron-wake.md).
+In 2020 and 2021 several wrestlers would quit and join the newly created [PTW](@/o/ptw.md) to become part of its first roster. These were [Justin Joy](@/w/justin-joy.md), [Axel Fox](@/w/jakub.md), [Jacob Crane](@/w/jacob-crane.md), [Prince Victor](@/w/vic-golden.md), [Nathan Cross](@/w/gabriel-queen.md), [Lady Killer](@/w/boro.md) and [Aron Wake](@/w/aron-wake.md).
 
 In 2024, MZW held a fight for the long-vacant [MZW Championship](@/c/mzw-championship.md), and a [new champion](@/w/matt-buckna.md) was finally crowned.
 
@@ -50,7 +50,7 @@ MZW frequently cooperated with German organizations, especially with Dresden-bas
 ## Polish wrestling scene
 
 Prior to 2021, MZW did not interact with other organizations in Poland.
-This changed with [PpW Poznań Supershow](@/e/ppw/2021-07-30-ppw-poznan-supershow.md), where talent from [PpW Ewenement](@/o/ppw.md) faced against MZW regulars [Aron Wake](@/w/aron-wake.md), [Isnorr](@/w/isnorr.md) and [Madman Charlie](@/w/madman-charlie.md). It was later revealed that this appearance wasn't fully allowed by MZW, and was one of the reasons for the "Green Revolution" in October 2021, which caused a mass exodus of MZW's talent group called [Zieloni](@/tt/zieloni.md).
+This changed with [PpW Poznań Supershow](@/e/ppw/2021-07-30-ppw-poznan-supershow.md), where talent from [PpW Ewenement](@/o/ppw.md) faced against MZW regulars [Aron Wake](@/w/aron-wake.md), [Isnorr](@/w/isnorr.md) and [Madman Charlie](@/w/sedzia-karol-gorski.md). It was later revealed that this appearance wasn't fully allowed by MZW, and was one of the reasons for the "Green Revolution" in October 2021, which caused a mass exodus of MZW's talent group called [Zieloni](@/tt/zieloni.md).
 
 In 2022, after quitting PTW, former MZW wrestler [Jacob Crane](@/w/jacob-crane.md) appeared at [PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md).
 In September 2023 the two organizations ran a [co-branded event](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), and 2024 saw MZW's founder [Shadow](@/w/shadow.md) compete at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md).
@@ -65,15 +65,19 @@ On 14.01.2016 a local branch of the national broadcaster, TVP3 Opole, invited [S
 
 In 2020, TVP3 Wrocław published a [short piece on MZW][mzw-tvp3], titled "Staged and seemingly dangerous. Wrestling gains popularity in Wrocław". The narrator talks about the staged nature of wrestling as entertainment, while several rookies and wrestlers practice bumps in the ring wearing face masks (as this was produced during the COVID-19 pandemic). [Shadow](@/w/shadow.md), introduced as [PAW](@/o/paw.md)'s coach, talks about training and safety. MZW's flag is clearly visible in the background.
 
+## The Internet
+
+For most of its existence, MZW kept their social media presence rudimentary, limited to announcements and show reports. In 2025 they launched a TikTok channel, where its host, Laura, interviews various wrestlers after shows. The channel involves two formats: "Piątka poza ringiem" (roughly: _High-Five Outside the Ring_), and "Klasa czy obciach" (_roughly: Class or Crass_). The former consists of match-related questions, while the latter requires the guest to judge everyday things in a playful way.
+
 ## Championships
 
 MZW has one singles championship, with Shadow having the longest combined reigns as of 2024. Between 2016 and 2019 they also used to have a Tag Team championship, currently inactive.
 
 {% championship() %}
 - - '[MZW Championship](@/c/mzw-championship.md)' 
-  - '[Matt Buckna](@/w/matt-buckna.md)' 
+  - '[Marco Hammers](@/w/marco-hammers.md)'
   - >
-    Defeated [Aron Wake](@/w/aron-wake.md) at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md)
+    'Marco defeated [Gustav Gryffin](@/w/gustav-gryffin.md) at [No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md).'
 - - '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
   - 'Final Champions: [Wataha](@/tt/wataha.md) ([Apollo Anderson](@/w/apollo-anderson.md) & [Justin Joy](@/w/justin-joy.md))'
   - '**INACTIVE** since 2019-03-23'
@@ -85,6 +89,7 @@ MZW has one singles championship, with Shadow having the longest combined reigns
 * X/Twitter: [MZWofficial](https://x.com/MZWofficial)
 * Instagram: [maniaczonewrestling](https://www.instagram.com/maniaczonewrestling)
 * YouTube: [ManiacZoneWrestling](https://www.youtube.com/@ManiacZoneWrestling)
+* TikTok: [MZWofficial](https://www.tiktok.com/@mzw_official/)
 
 ## References
 

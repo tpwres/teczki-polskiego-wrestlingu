@@ -7,10 +7,8 @@ venue=["waldorffa25"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-[extra.gallery.1]
-path = "2022-09-10-ppw-brak-mi-slow-plakat.jpg"
-caption = "Official poster, showing [Johnny Blade](@/w/johnny-blade.md) bathing in blood."
-source = "Official PpW Facebook"
+has_video = true
+[extra.gallery]
 +++
 
 Brak Mi Słów (_I Have No Words_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md).

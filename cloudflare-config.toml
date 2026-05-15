@@ -45,8 +45,10 @@ mf_link_format = "//mf.tpwres.pl?q=%s"
 # Venues that have embedded geography info will link to this
 carto_link_format = "//carto.tpwres.pl#%s"
 
+# For cookie-based theme selector
+prod_domain = 'tpwres.pl'
+
 list_pages = false
-default_theme = "dark"
 header_links = [
   { path = "@/e/_index.md", name = "Events", icon = "calendar-1" },
   { path = "@/o/_index.md", name = "Orgs", icon = "handshake" },
@@ -76,7 +78,7 @@ tts_root = "//unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&sl=pl&ttsMode=se
 
 # These orgs are excluded from the talentlists
 special_orgs = [
-  "splat"
+  "splat", "ewenement-dojo", "ryucon", "pyrkon"
 ]
 
 fold_matchlist = "auto"
@@ -118,6 +120,9 @@ text_fg = '#ffffff'
 bg = '#4f8ebf'
 text_fg = '#ffffff'
 
+[extra.org_styles.ryucon]
+bg = '#e2e2e2'
+fg = '#590204'
 
 [extra.chronology]
 arena = "KPW Arena"
@@ -129,7 +134,6 @@ ledwo-legalne = "Ledwo Legalne"
 oldtown = "OldTown Festival"
 poznan-fair = "Poznań International Fair"
 project-basement = "Project Basement"
-pyrkon = "Pyrkon"
-ryucon = "Ryucon"
+# pyrkon = "Pyrkon"
 stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"

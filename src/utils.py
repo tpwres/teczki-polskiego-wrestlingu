@@ -1,5 +1,6 @@
 from json import JSONEncoder
 from collections import Counter
+from dataclasses import asdict, is_dataclass, astuple
 import tomllib
 import re
 from typing import TextIO
@@ -59,6 +60,10 @@ class RichEncoder(JSONEncoder):
                 return list(o)
             case Counter():
                 return dict(o)
+            case obj if is_dataclass(obj) and hasattr(obj, 'serialize_as_tuple'):
+                return astuple(obj)
+            case obj if is_dataclass(obj):
+                return asdict(obj)
             case _:
                 return super().default(o)
 

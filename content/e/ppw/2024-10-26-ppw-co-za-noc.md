@@ -8,11 +8,8 @@ venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
-0000 = { path = "2024-10-26-ppw-co-za-noc-plakat.jpg", caption = "Official poster, featuring [Olgierd](@/w/olgierd.md), [Gustav Gryffin](@/w/gustav-gryffin.md) and [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook"}
-0001 = { path = "2024-10-26-ppw-co-za-noc-lokal.jpg", caption = "Social media graphic with [Mister Z](@/w/mister-z.md) announcing the new location.", source = "Official PpW Facebook" }
-0002 = { path = "2024-10-26-ppw-co-za-tatuaz.jpg", caption = "_Tattoo parlour Syrena. Get yerself a tattoo at the show._ In the corner are cartoons of [Biesiad](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
-0501 = { path = "isnorr_vs_blade.webp", caption = "Bartosz Mateńko's award-winning photo of the main event, with [Isnorr](@/w/isnorr.md) and [Johnny Blade](@/w/johnny-blade.md)", source = "Bartosz Mateńko / Grand Press Photo"}
 +++
 
 "Co Za Noc" (_What a Night_) was an event announced on 10.09.2024, and held on Saturday, October 26th 2024 by [PpW Ewenement](@/o/ppw.md). It took place in a brand new venue - a post-industrial complex at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw.
@@ -60,7 +57,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
       Team Biesiad:
       [Vic Golden](@/w/vic-golden.md),
       [Gabriel Queen](@/w/gabriel-queen.md),
-      [Axel Fox](@/w/axel-fox.md),
+      [Axel Fox](@/w/jakub.md),
       [Goblin](@/w/goblin.md),
       [Biesiad Strong](@/w/biesiad.md)
   - >
@@ -77,7 +74,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
     s: Blood God Ritual - Trial by Metal and Glass Match
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Commentary: 'Szymon "Modzel" Modzelewski, Mateusz "Orzech" Orzechowski'
     Interviews: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'
 {% end %}
@@ -116,7 +113,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 
 #### Fatal Four-Way Match: Sambor vs Marcelito v Aron Wake v Rookie Oskar
 
-* Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/madman-charlie.md) already waits in the ring.
+* Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/sedzia-karol-gorski.md) already waits in the ring.
 * Timestamp: `2:11:32`
 * [Marcelito](@/w/marcelito.md) makes his face entrance first.
 * Second of the babyfaces - [Aron Wake](@/w/aron-wake.md) - makes his entrance shortly after Marcelito.
@@ -171,7 +168,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * Michael HT hypes up the next match as one of the most improtant fights in the history of PSW ("Polska Scena Wrestlingu", _Polish Wrestling Scene_). Referee Seweryn makes his way to the ring. The loud "Fuck the Collusion" chants are audible.
 * Timestamp: `3:27:12`
 * Pure Gold ([Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)) make their entrance as first members of "Zmowa przeciwko zmowie". The crowd sings their "Best of Both Worlds" theme song.
-* Goblis ([Axel Fox](@/w/axel-fox.md) &[Goblin](@/w/goblin.md)) make their entrance rocking a new theme song "Punk Tactics" by Joey Valence & Brae.
+* Goblis ([Axel Fox](@/w/jakub.md) &[Goblin](@/w/goblin.md)) make their entrance rocking a new theme song "Punk Tactics" by Joey Valence & Brae.
 * The captain of the team [Biesiad Strong](@/w/biesiad.md) makes his entrance to the crowd's great approval. The whole team hypes themselves up in the ring.
 * HT announces the first members of "Zmowa" - Legia Łysych ([Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)) make their way through the entrance, waiting for the rest of "Zmowa" by the ring.
 * [Mister Z](@/w/mister-z.md) and Jakub Linde make their way to the ring together. The leader of "Zmowa" then cuts a short promo, promising to his enemies that if Biesiad's team lose today's Ustawka Match, they won't be paid for the next year in the federation, and all of the saved-up funds will be donated to support mentaly ill people, such as Biesiad and his crew. Then he announces the Collusion's mystery partner...

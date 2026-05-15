@@ -7,6 +7,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "20160611-program.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions.", source = "Facebook @DreamFactoryWrestling", skip_art = true}
 +++
@@ -20,7 +21,7 @@ Norris made his DFW debut at this event. Since then, he appeared at every show t
 ## Card
 
 {% card() %}
-- - '[Charlie](@/w/madman-charlie.md)'
+- - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Norris](@/w/isnorr.md)'
   - s: Tournament Quarter Final Match
 - - '[PJ Blake](@/w/pj-blake.md)'

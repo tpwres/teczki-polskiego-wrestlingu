@@ -8,10 +8,11 @@ venue=["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
-Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It took place in the Column Hall of [Mińska 65](@/v/minska-65.md), where [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) was held a year prior.
+Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md). It took place in the Pillar Hall of [Mińska 65](@/v/minska-65.md), where [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) was held a year prior.
 
 ## Build-up
 
@@ -20,7 +21,7 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
 * On 19.10.2025 a [short video][oskar-ma-przewalone] published by PpW saw [Oskar Alexander](@/w/oskar-alexander.md) confronting [Gabriel Queen](@/w/gabriel-queen.md) in defense of [Agentka Agatka](@/w/agentka-agatka.md). Oskar tells Queen that Agatka would beat him "any day, any time: Singles Match, Hardcore Match, Punjabi Prison, even in a Deathmatch", which Queen takes for a proposition and readily accepts, leaving Oskar beaming and Agatka fuming. The match was confirmed the next day.
 * After [Gustav Gryffin's](@/w/gustav-gryffin.md) involvement in the main event of the [previous show](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), "severe consequences" [were announced][komzegwendzje]. This is supposed to happen at Surowy Klimat.
 * On 29.10.2025 PpW announced [Biesiad Strong](@/w/biesiad.md) vs [Robert Star](@/w/robert-star.md) in an Anything Goes match.
-* On 31.10.2025 PpW announced a One For All Tag Team Match, with [Gustav Gryffin](@/w/gustav-gryffin.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) taking on [Zmowa](@/tt/zmowa.md) represented by [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md).
+* On 31.10.2025 PpW announced a One For All Tag Team Match, with [Gustav Gryffin](@/w/gustav-gryffin.md), [Axel Fox](@/w/jakub.md) and [Goblin](@/w/goblin.md) taking on [Zmowa](@/tt/zmowa.md) represented by [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) and [Marco Hammers](@/w/marco-hammers.md).
 * Three days before the show, on 05.11.2025, PpW added a match between [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), announced via a [Facebook post][speed-samurai-fb]. Both of them previously faced Gustav Gryffin in a Gauntlet Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and now they are set to face each other.
 
 ## Card
@@ -41,11 +42,11 @@ Surowy Klimat (roughly _Rough Place_ or _Raw Aura_) was a show by [PpW Ewenement
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - s: Trial by Blade
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
-  - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Axel Fox](@/w/axel-fox.md) & [Goblin](@/w/goblin.md)'
+  - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Axel Fox](@/w/jakub.md) & [Goblin](@/w/goblin.md)'
   - s: One For All Tag Team Match
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### Highlights

@@ -24,6 +24,8 @@ Nightmare made his debut in 2011, in [Polish Xtreme Wrestling](@/o/pxw.md) - a b
 
 ## In wrestling
 
+* Finishers:
+  - Spinning Side Slam (2011-2013)
 * Entrance music:
   - "Nightmare" by Avenged Sevenfold
     {{ org_badge(orgs=['pxw']) }} (2011-2013) <br>
@@ -32,9 +34,6 @@ Nightmare made his debut in 2011, in [Polish Xtreme Wrestling](@/o/pxw.md) - a b
     {{ music(apple='378658663?i=378658664')}}
 
 ## Championships and accomplishments
-
-* Finishers:
-  - Spinning Side Slam (2011-2013)
 
 * [Polish Xtreme Wrestling](@/o/pxw.md):
   - PXW Championship (1 time; inaugural)

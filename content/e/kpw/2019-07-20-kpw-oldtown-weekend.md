@@ -8,6 +8,7 @@ venue = ["airport-kluczewo"]
 [extra]
 city = "Stargard"
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 

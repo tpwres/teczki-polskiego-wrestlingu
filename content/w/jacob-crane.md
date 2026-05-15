@@ -72,7 +72,7 @@ In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], jo
   - Lariat
   - Package Piledriver (2018-2021)
 * Tag Teams and stables:
-  - Tag Team with [Madman Charlie](@/w/madman-charlie.md) (2018-2021)
+  - Tag Team with [Madman Charlie](@/w/sedzia-karol-gorski.md) (2018-2021)
 * Entrance music:
   - "Bad Reputation" by Adelitas Way
     {{ org_badge(orgs=['mzw']) }} (2017-2021) <br>
@@ -84,6 +84,8 @@ In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], jo
     {{ music(yt='3oFTHxkOzjE')}}
     {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
     {{ music(apple='1064406932?i=1064406939')}}
+  - "Over the Top" by Cracked Prism Studios
+    {{ org_badge(orgs=['ppw']) }} (2024-) <br>
 
 ## Internet presence
 

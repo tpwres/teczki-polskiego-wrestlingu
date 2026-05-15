@@ -5,29 +5,34 @@
 
 {{ section.content | safe }}
 
-{% set_global all_events = section.pages %}
-{% for subsection_path in section.subsections %}
-  {% set subsection = get_section(path=subsection_path) %}
-  {% set_global all_events = all_events | concat(with=subsection.pages) %}
-{% endfor %}
-{% set events_by_year = all_events | group_by(attribute="year") %}
-{% set_global years = [] %}
-{% for year, _ignore in events_by_year %}{% set_global years = years | concat(with=year) %}{% endfor %}
+{%- set_global all_events = section.pages -%}
+{%- for subsection_path in section.subsections -%}
+  {%- set subsection = get_section(path=subsection_path) %}
+  {%- set_global all_events = all_events | concat(with=subsection.pages) %}
+{%- endfor %}
+{%- set events_by_year = all_events | group_by(attribute="year") %}
+{%- set_global years = [] %}
+{%- for year, _ignore in events_by_year %}{% set_global years = years | concat(with=year) %}{% endfor %}
 
-{% for thisyear in years|sort|reverse %}
+{%- for thisyear in years|sort|reverse %}
     <h2>{{ thisyear }}</h2>
-    <ul class="event-list">
-        {% for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
+    <ul class="event-list" aria-label="Event list for {{ thisyear }}">
+      {%- for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
         <li data-date="{{ page.date }}">
           {% set dt = page.date | date(format="%Y-%m-%d") -%}
           <time datetime="{{ dt }}">{{ dt }}</time>
-          <a href="{{get_url(path=page.path)}}">{{ page.title }}</a>
+          {%- set has_photos = page.extra is containing("gallery") -%}
+          {%- set has_video = page.extra | get(key="has_video", default=false) -%}
+          {%- include "events/av_icons.html" -%}
+          <a href="{{ get_url(path=page.path) }}" {% include "events/link_aria.html" %}>
+            {{ page.title }}
+          </a>
         </li>
-        {% endfor %}
+      {%- endfor %}
     </ul>
-{% endfor %}
-
+{%- endfor %}
 {% endblock content %}
+
 {% block extra_head %}
 <script defer type="module">
 import { extractEvents, createSection, cleanEmptyYears, sameDate } from '/events.js'

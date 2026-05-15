@@ -8,6 +8,7 @@ venue=["gdynskie-centrum-sportu"]
 [extra]
 city = "Gdynia"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -66,4 +67,5 @@ The event was held on the same day as a footbal match between Arka Gdynia and GÃ
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=205647)
 * [KPW's event page](https://kpwrestling.pl/events/kpw-godzina-zero-2018/)
+* [Highlights video](https://www.youtube.com/watch?v=pPWqPOlVcJY)
 * [Facebook event page](https://www.facebook.com/events/1952285155082513/)

@@ -7,6 +7,7 @@ chronology = ["wksw", "backyardmania"]
 [extra]
 city = "Wołów"
 toclevel = 2
+has_video = true
 +++
 
 Backyardmania II was the second cross-promotion backyard supershow, and the follow-up to [Backyardmania I](@/e/wksw/2010-07-27-wksw-backyardmania-1.md). Set in the {{ map_pin(v="Ośrodek Sportu i Rekreacji w Wołowie") }}OSiR hall in Wołów, it attracted 20 people from various backyard groups.

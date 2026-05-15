@@ -8,24 +8,87 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
-"World Cup" is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced in a [Facebook post][nowe-gale], alongside [Nowa Fala](@/e/ptw/2026-03-14-ptw-nowa-fala.md).
-
+"World Cup" is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced in a [Facebook post][nowe-gale], alongside Nowa Fala (later cancelled in favour of [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)). The post also announced that the event will host the first PTW World Cup, featuring wrestlers from seven foreign countries.
 
 ## Build-up
 
-* TBD
+* [Vincent Caravaggio](@/w/vincent-caravaggio.md) was the first worker to be announced, on 9.02.2026.
+* In addition to the World Cup tournament, on 12.02.2026 PTW announced a match for the [PTW Championship](@/c/ptw-championship.md) between the reigning  Champion [Spartan](@/w/spartan.md) and former [PTW Tag Team Champion](@/c/ptw-tag-team-championship.md), [Renegade](@/w/renegade.md).
+* The second wrestler to take part in the tournament, unveiled on 13.02.2026, was Andi ZickZack.
+* On 15.02.2026, [El G](@/w/el-g.md) was added to the tournament.
+* The next day PTW announced a Battle Royal between [Daniel Razor](@/w/daniel-razor.md), [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md), [Boguś](@/w/bogus.md), [Alex Brave](@/w/alex-brave.md) and [CJ Klakson](@/w/cj-klakson.md). Should Razor win, he'll get a title shot for the [PTW Underground Championship](@/c/ptw-underground-championship.md), whereas whoever manages to eliminate him, will receive a hefty bonus of 10,000&nbsp;PLN (approx. 2375&nbsp;EUR, 2065&nbsp;GBP or 2815&nbsp;USD).
+* [Blaze](@/w/blaze.md) and [Damian Adler](@/w/damian-adler.md) were both announced on 17.02.2026.
+* The next day, [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md) and Ben Rodgers were added to the card.
+* The final entrant to the tournament was [Nano Lopez](@/w/nano-lopez.md), announced on 18.02.2026.
+* On the 19th, the tag team of [Misiek](@/w/misiek.md) & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) was announced.
+* The first World Cup Match, announced on 20.02.2026, was Baron Wolfgang Storm vs [El G](@/w/el-g.md).
+* On the day of the show, PTW announced referees [Klaudiusz](@/w/sedzia-klaudiusz.md) & [Herno](@/w/sedzia-herno.md), and the commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) & [Krystian "Resivny" Smoleń](@/w/resivny.md), as well as the match-ups of [Nano Lopez](@/w/nano-lopez.md) vs Andi ZickZack, [Damian Adler](@/w/damian-adler.md) vs Ben Rodgers and [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Blaze](@/w/blaze.md).
 
-{{ skip_card() }}
+## Card
 
-### Recap
+{% card() %}
+- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[_🇭🇺_ Blaze](@/w/blaze.md)'
+  - s: World Cup Quarter Finals Match
+- - '[_🇮🇹_ El G](@/w/el-g.md)'
+  - '[_🇺🇦_ Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
+  - s: World Cup Quarter Finals Match
+- - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
+  - '[_🇩🇪_ Damian Adler](@/w/damian-adler.md)'
+  - s: World Cup Quarter Finals Match
+- - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
+  - '_🇦🇹_ Andi ZickZack'
+  - s: World Cup Quarter Finals Match
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Whiteblade](@/w/whiteblade.md)'
+  - g: Lambert reveals himself as the Prophet, Dropper debuts as Whiteblade
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Bart Petro](@/w/bart-petro.md)'
+- - '[Spartan](@/w/spartan.md)(c)'
+  - '[Renegade](@/w/renegade.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - 'Flex Skywalker'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
+  - '[Boguś](@/w/bogus.md)'
+  - '[Bumper](@/w/fabian.md)'
+  - 'Jordan Wolff'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Sawicki](@/w/sawicki.md)'
+  - s: Battle Royal
+- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[_🇮🇹_ El G](@/w/el-g.md)'
+  - s: World Cup Semi Final Match
+    r: submission
+- - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
+  - '[_🇪🇸_ Nano Lopez](@/w/nano-lopez.md)'
+  - s: World Cup Semi Final Match
+- - 'Synowie Lasu: [Misiek](@/w/misiek.md) & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - 'Cheeki Breeki: Stan the Slav & Patryk Peterski'
+  - s: Tag Team match
+- - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '_🏴󠁧󠁢󠁳󠁣󠁴󠁿_ Ben Rodgers'
+  - s: World Cup Final Match
+- credits:
+    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
+{% end %}
 
-* TBD
+### Highlights
+
+* As a part of his gimmick, [Damian Adler](@/w/damian-adler.md), despite being Polish, represented Germany in the tournament.
+* Damian Lambert made an entrance to a new theme song, with a rambling promo before his match. He started talking about "multiple voices", the uncertainty of today's world and the need to have a guiding figure. It was met with "idź się leczyć" (roughly _get your head checked_) chants from the crowd, to which Lambert replied that the fans were the ones that need professional help. He announced the Prophet who would guide everyone, and revealed that it was himself. He prophesied the end of the world and promised to save us - just like he'd saved a person so lost that even his name was [Dropper](@/w/whiteblade.md). Dropper - now renamed [Whiteblade](@/w/whiteblade.md) - made a full entrance wearing a lucha mask gifted by Lambert, complete with new ring gear. Seemingly, Lambert was starting a cult.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=443638)
+* [Open access video: Vincent Caravaggio vs Blaze](https://www.youtube.com/watch?v=5vNl9-Cb7Is)
 
 [nowe-gale]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1440651250960393:1440651250960393

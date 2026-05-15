@@ -7,6 +7,7 @@ chronology = ["bwd"]
 [extra]
 city = "Chrzanów"
 toclevel = 2
+has_video = false
 hide_results = true
 +++
 

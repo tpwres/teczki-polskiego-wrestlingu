@@ -7,6 +7,7 @@ venue = ["legnica"]
 [extra]
 city = "Legnica"
 toclevel = 2
+has_video = true
 +++
 
 Podziemny Krąg (_The Underground Circle_) was a show by [Maniac Zone Wrestling](@/o/mzw.md).

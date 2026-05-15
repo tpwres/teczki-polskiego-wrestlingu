@@ -15,6 +15,7 @@ Skull Evil is a Czech wrestler best known for his time in [Maniac Zone Wrestling
 * Years active: 2016-present
 * Gimmicks/nicknames:
   - Skull Evil {{ org_badge(orgs=['mzw', 'ppw']) }}
+  - Lukáš Mottl {{ org_badge(orgs=['kpw']) }}
 
 ## Professional wrestling career
 
@@ -26,14 +27,21 @@ Skull Evil made a few appearances in [Maniac Zone Wrestling](@/o/mzw.md), made p
 
 Skull Evil made yet another appearance on the Polish wrestling scene when he was invited to perform at PpW's show [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md) in May 2022. He fought against [Asara](@/w/asara.md), but got himself disqualified.
 
-### Kombat Pro Wrestling (2025)
+### Kombat Pro Wrestling (2025-)
 
 Skull Evil made his debut in [Kombat Pro Wrestling](@/o/kpw.md) at [Pyrkon 2025](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md), where he faced [Zefir](@/w/zefir.md) in a hardcore match. It was the first time Skull Evil wrestled in Poland under his real name, Lukáš Mottl.
+
+At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) [Team Visegrad](@/tt/team-visegrad.md), of which Mottl is a member, won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). Although the match was won by [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md), Lukáš Mottl is also recognised as a full Champion in accordance with the [Freebird Rule][freebird-rule]. He defended the title alongside Oliwa at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), in two matches in a row.
 
 ## In wrestling
 
 * Finishers:
   - Cutter (2016-2018)
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)
 
 ## Internet presence
 
@@ -42,3 +50,5 @@ Skull Evil made his debut in [Kombat Pro Wrestling](@/o/kpw.md) at [Pyrkon 2025]
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24028)
+
+[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

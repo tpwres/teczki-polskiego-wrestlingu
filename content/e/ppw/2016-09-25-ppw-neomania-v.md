@@ -8,6 +8,7 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "neomania-v-feager-vs-steven-strong.jpg", caption = "[Feager](@/w/feager.md) vs [Steven Strong](@/w/biesiad.md).", source = "Official PpW Facebook" }
 2 = { path = "neomania-v-jim-enerico-vs-rob-scaffold.jpg", caption = "[Jim Enerico](@/w/mister-z.md) vs [Rob Scaffold](@/w/rob-scaffold.md).", source = "Official PpW Facebook" }

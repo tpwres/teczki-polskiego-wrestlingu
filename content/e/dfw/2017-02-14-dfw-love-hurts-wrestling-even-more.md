@@ -6,6 +6,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery.poster]
 path = "dfw-love-hurts-poster.webp"
 caption = "Official poster featuring [Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md) and [Corin Maer](@/w/corin-mear.md)."
@@ -30,7 +31,7 @@ Also, in his only appearance for the organization, fans saw [PpW's](@/o/ppw.md) 
   - '[Rob Scaffold](@/w/rob-scaffold.md) & [Norris](@/w/isnorr.md)'
   - s: Tag Team Match
 - - '[Chris Hunter](@/w/chris-hunter.md)(c)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - c: '[DFW Championship](@/c/dfw-championship.md)'
 {% end %}
 

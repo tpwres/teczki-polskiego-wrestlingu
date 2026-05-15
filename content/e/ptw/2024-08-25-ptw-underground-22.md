@@ -8,13 +8,8 @@ venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-[extra.gallery.poster]
-path = "ptwu22-poster.webp"
-caption = "Official poster for the show. Pictured are: Maverick, [Puncher](@/w/puncher.md), [Nitro](@/w/nitro.md), [Spartan](@/w/spartan.md), [Renegade](@/w/renegade.md), [Diana Strong](@/w/diana-strong.md), [Max Speed](@/w/max-speed.md) and [Miyagi Shida](@/w/miyagi-shida.md)."
-source = "Facebook @PrimeTimeWrestlingPL"
-[extra.gallery.atomicas]
-path = "las_atomicas.webp"
-caption = "Screenshot of Las Atomicas' short-lived Instagram account. They were announced as a dance group to perform on the show in addition to the wrestling."
+has_video = false
+[extra.gallery]
 +++
 
 Underground 22 was a show by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, August 25 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów, recently [refurbished](@/o/ptw.md#post-ryucon-new-venue-ptw-back-on-track) as a wrestling event and training facility.
@@ -75,3 +70,4 @@ The announced dance performance was met with slight backlash from the fans onlin
 * [Facebook post revealing the poster](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0KpJesZ3E1Jb3jpySUa71thS6qW4sGweLhzG9hWw1WivtihsxBWMAdLHnnYxnsM6cl)
 * [Facebook post announcing the ticket platform change](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0tdHu7WaJXLfDZi8dX57NLMjaP6keLDCBoj77mkr5FiSyrr9NwpVK84ESBsQ58vHil)
 * [Facebook post announcing a title match](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0KPxKzErHhSzLak5t3ciBXRPFRj2rMKgPMEMGGeJANJG4xZyzN8pFB55A2STS4N6il) between Maverick and Puncher
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=hAi2TGulats)

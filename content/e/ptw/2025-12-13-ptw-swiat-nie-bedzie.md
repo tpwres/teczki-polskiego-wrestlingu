@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -22,7 +23,7 @@ toclevel = 2
 * The next day saw the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 * On 6.12.2025 PTW posted an image teasing the "spectacular return" of someone, who was with PTW "from the very beginning".
 * On 7.12.2025 PTW announced a Christmas Hardcore Match between [Daniel Razor](@/w/daniel-razor.md) vs Jay, an Irish wrestler mainly associated with [Over The Top Wrestling][over-the-top]. This will be his Polish debut.
-* On 9.12.2025 PTW announced [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damien-rothschild.md).
+* On 9.12.2025 PTW announced [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damian-lambert.md).
 
 ## Card
 
@@ -39,10 +40,10 @@ toclevel = 2
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Łukasz Okoński announces Miyagi Sigma #1 Tag Team Contenders Match, gets interrpunted by Pawłowski.
 - - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
-  - 'Drop & Bump: Dropper & Bumper'
-  - '[Blaze](@/w/blaze.md) & Bart Petro'
+  - 'Drop & Bump: [Dropper](@/w/whiteblade.md) & [Bumper](@/w/fabian.md)'
+  - '[Blaze](@/w/blaze.md) & [Bart Petro](@/w/bart-petro.md)'
   - s: Triple Threat Tag Team Match
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Sawicki](@/w/sawicki.md)'
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: 'Charity T-shirt auction'
@@ -53,7 +54,7 @@ toclevel = 2
   - s: Tag Team Match
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - 'Baron Wolfgang Storm'
+  - '[Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
 - - '[Spartan](@/w/spartan.md)'
   - '[Puncher](@/w/puncher.md)(c) w/ [Arkadiusz Pan Pawłowski](@/w/pan-pawlowski.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md) & PTW:WWA Championship'
@@ -71,14 +72,14 @@ toclevel = 2
 * Nano Lopez retains his championship after distracting the referee, illegally poking Klakson's eyes and hitting him with his Last Plane to Spain.
 * After the match, Nano cuts a short promo and is attacked by a masked character. After hitting Nano with his own Last Plane to Spain, he reveals himself to be Daniel Razor, now with short hair, who wants to reclaim the Underground Championship back from "Starboy". Pan Pawłowski intervenes and moves Razor's hardcore match up the card, as the next fight.
 * Daniel Razor wins his Christmas Hardcore Match after hitting Jay with his finishing move "Razor's Blade" onto some crushed Christmas baubles.
-* Łukasz Okoński comes into the ring with Miyagi Sigma (team of Miyagi Shida and Sigma Boy xD) and grants them an opportunity to become #1 Contenders for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). Pawłowski interrupts and states that he is still a co-owner of PTW, so he can decide who Miyagi and Sigma's opponents are going to be. He chooses two [PTW Academy](@/o/ptw-academy.md) rookies, Bumper and Dropper, announced as "Drop and Bump". He also introduces a third team consisting of debuting Bart Petro and Hungarian wrestler [Blaze](@/w/blaze.md).
+* Łukasz Okoński comes into the ring with Miyagi Sigma (team of Miyagi Shida and Sigma Boy xD) and grants them an opportunity to become #1 Contenders for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). Pawłowski interrupts and states that he is still a co-owner of PTW, so he can decide who Miyagi and Sigma's opponents are going to be. He chooses two [PTW Academy](@/o/ptw-academy.md) rookies, [Bumper](@/w/fabian.md) and [Dropper](@/w/whiteblade.md), announced as "Drop and Bump". He also introduces a third team consisting of debuting [Bart Petro](@/w/bart-petro.md) and Hungarian wrestler [Blaze](@/w/blaze.md).
 * The Triple Threat Tag Team Match is won by Miyagi Sigma. They celebrate by helping themselves to some "Wojanek" - a non-alcoholic beverage popular among Polish Gen-Alpha youth.
 * Damian Lambert wins his match against the fellow ex-[KPW](@/o/kpw.md) wrestler Sawicki by submission.
 * After an intermission, an artistic performance is presented by Domix, a Polish beatboxer. Łukasz Okoński also hosts a charity T-shirt auction.
 * [Remo](@/w/remo.md) - one of PTW Originals, whose career was halted by numerous injuries - makes his official return to PTW after teasing it on social media. He cuts a promo where he expresses his grudge against PTW fans who forgot about him when he was out. He vows to eliminate each of the fan favourites, starting with another "usurper from Bydgoszcz" - CJ Klakson.
 * Before their Tag Team match, [Royal Rebels](@/tt/royal-rebels.md) come to the ring with a neatly-wrapped gift box addressed to PTW fans. Alex Brave opens it to show a literal nothing to the public: a white sheet of paper with "NIC" (_NOTHING_) printed on it.
 * Vincent Caravaggio secures a victory for Royal Rebels by submission, after putting Davide Adami in an STF - a signature move of John Cena.
-* Polski Niedźwiedź finally manages to break his losing streak after defeating Baron Wolfgang Storm. In a post-match promo he announces that following the New Year, he will come back with a companion, possibly teasing the debut of a new Tag Team partner or manager.
+* Polski Niedźwiedź finally manages to break his losing streak after defeating [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md). In a post-match promo he announces that following the New Year, he will come back with a companion, possibly teasing the debut of a new Tag Team partner or manager.
 * Spartan makes a special entrance with his "Spartan Army" - a group of loyal supporters and allies accompanying him to the ring.
 * Much of the main event falls to shenanigans of Pan Pawłowski, who at some point grabs a microphone to distract Spartan. After [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) accidentaly gets knocked out, [Referee Herno](@/w/sedzia-herno.md) is stopped from entering the ring by Pawłowski who deems Herno "too fat, slow, and biased". Instead, he calls out Sędzia Rafał - Alex Brave's old persona before his in-ring debut - who then tries to sabotage Spartan's match. Shortly after, furious Herno comes to the ring and throws S.Rafał out, regaining his position. Pawłowski enters the ring to angrily berate Herno once again, but the referee tells his boss to "shut his mouth" and orders him out of the arena. The intimidation check ultimately fails, as Herno gets knocked out with a single slap from Pawłowski.
 * Spartan meets another obstacle on his path, as Nano also intervenes by hitting him with a chair, but the scales are evened as Daniel Razor comes out to avenge Spartan and draw Nano away from the title contender.
@@ -90,6 +91,7 @@ toclevel = 2
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=439757)
+* [Open access video: Nano Lopez vs CJ Klakson](https://www.youtube.com/watch?v=ciADVSOS2Q0)
 
 [rolka]: https://www.facebook.com/reel/1180952684015552
 [nie-rolka]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0UAhp9HYNCaGixbArmjm7TQjTm81bLQV5WTx6bKj16nDGATCHJycisQtyftUJc24ol

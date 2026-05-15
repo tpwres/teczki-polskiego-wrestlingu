@@ -62,7 +62,7 @@ During that time Marcelito also made his international debut, fighting for the A
 
 In early 2024, Marcelito took part in the [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) Rumble Match for the [PTW Championship](@/c/ptw-championship.md). He entered the match as number two and was the 15th person to be eliminated, by Krampus.
 
-Later in the year, Marcelito competed for the PTW Tag Team Championship against Budapest Bastards, while teaming with [Axel Fox](@/w/axel-fox.md) at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
+Later in the year, Marcelito competed for the PTW Tag Team Championship against Budapest Bastards, while teaming with [Axel Fox](@/w/jakub.md) at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
 The attempt was unsuccessful, just like his title fight against Axel Fox and Scotty Rawk for the British Wrestling Revolution Championship at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 After the end of the fight Axel teased a possible heelturn, or at least rivalry with Marcelito, but due to their departure from PTW it ultimately led to nothing.
 
@@ -85,11 +85,11 @@ In October 2024 Marcelito performed at [Maniac Zone Wrestling](@/o/mzw.md) show 
 
 On 14th of August 2024 Marcelito was one of the wrestlers starring in the trailer for a new Polish wrestling federation - [Legacy of Wrestling](@/o/low.md).
 
-In November 2024 it was announced that he would face MZW owner and legend [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer. At their [second show](@/e/low/2025-04-06-low-2.md) he faced another Polish wrestling scene veteran - [David Oliwa](@/w/david-oliwa.md) - in another unsuccessful bout.
+In November 2024 it was announced that he would face MZW owner and legend [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer. At their [second show](@/e/low/2025-04-06-low-2.md) he faced another Polish wrestling scene veteran - [David Oliwa](@/w/david-oliwa.md) - in another unsuccessful bout. At [Four the Glory](@/e/low/2025-12-20-low-4.md) he was defeated by [Boro](@/w/boro.md).
 
 ## International wrestling appearances
 
-In 2022 and 2023 Marcelito made a handful of appearances for Austiran promotions Rings of Europe and PTW:WWA, which was owned by the fellow PTW wrestler [Krampus](@/w/krampus.md).
+In 2022 and 2023 Marcelito made a handful of appearances for Austrian promotions Rings of Europe and PTW:WWA, the latter of which was owned by fellow PTW wrestler [Krampus](@/w/krampus.md).
 
 ## In wrestling
 

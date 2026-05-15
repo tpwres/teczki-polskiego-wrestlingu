@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: Nowe Nadzieje, Nowe Możliwości! (_New Hopes, New Opportunities!_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on January 13th, 2013.  

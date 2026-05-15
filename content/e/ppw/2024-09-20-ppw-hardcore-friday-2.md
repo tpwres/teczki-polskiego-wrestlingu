@@ -8,8 +8,8 @@ venue=["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
-1 = { path = "2024-09-20-ppw-hardcore-friday-2.jpg", caption = "Official poster, featuring [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook"}
 +++
 
 ## Card
@@ -19,7 +19,7 @@ toclevel = 2
   - '[Olgierd](@/w/olgierd.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - g: New [PpW Championship](@/c/ppw-championship.md) revealed.
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[_rookie_ Oskar](@/w/oskar-alexander.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
@@ -29,13 +29,13 @@ toclevel = 2
   - '[Bill Feager](@/w/feager.md)'
   - s: Dostawczak Match (_Delivery Van Match_)
     nc: '?'
-    n: Michael HT declared Biesiad the winner, but an [official Facebook post](https://www.facebook.com/OficjalnePPW/posts/pfbid0GvoYdEwBwUSNJ3H5WPmwUcP7sFXjA5ECQ84eXkWXbKwpHfPGzcxzE9MhWkEPSRJAl) later called the fight a no contest.
+    n: Michael HT declared Biesiad the winner, but an [official Facebook post][licho-wi] later called the fight a no contest.
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md) & [Isnorr](@/w/isnorr.md)'
   - '[Samson](@/w/samson.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - s: Anarchy Cyclone Tag Team Match
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -45,7 +45,7 @@ toclevel = 2
   - g: '[Zmowa](@/tt/zmowa.md) vs Zmowa Przeciwko Zmowie face-off'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Karol Górski](@/w/madman-charlie.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+    Referees: '[Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
 ### Recap
@@ -60,8 +60,8 @@ toclevel = 2
 #### Axel Fox vs Oskar
 
 * [Referee Seweryn](@/w/sedzia-seweryn.md) slides into the ring. Crowd chants for "violence".
-* Out next is [Axel Fox](@/w/axel-fox.md). He makes his entrance and calls out Mister Z or anybody else. Making his entrance is rookie Oskar, wearing all black, Young Lion-style gear. The crowd makes fun of it with "show your ass", "wear some pants" and "show your dick" chants. Fox offers a handshake, but Oskar refuses, establishing himself as a heel in this match. The crowd's clearly on Fox's side. Oskar establishes early dominance with power moves and berating his smaller oponent. Fox makes a comeback, "this is awesome" chants erupt. Fox wins with a top rope elbow drop to a huge pop. He offers a handshake to the rookie, which he now accepts. Fox celebrates in the ring.
-* [Referee Karol Górski](@/w/madman-charlie.md) makes his entrance, Michael HT is back in the ring. He plugs the tickets for next show, [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), at a discount.
+* Out next is [Axel Fox](@/w/jakub.md). He makes his entrance and calls out Mister Z or anybody else. Making his entrance is rookie Oskar, wearing all black, Young Lion-style gear. The crowd makes fun of it with "show your ass", "wear some pants" and "show your dick" chants. Fox offers a handshake, but Oskar refuses, establishing himself as a heel in this match. The crowd's clearly on Fox's side. Oskar establishes early dominance with power moves and berating his smaller oponent. Fox makes a comeback, "this is awesome" chants erupt. Fox wins with a top rope elbow drop to a huge pop. He offers a handshake to the rookie, which he now accepts. Fox celebrates in the ring.
+* [Referee Karol Górski](@/w/sedzia-karol-gorski.md) makes his entrance, Michael HT is back in the ring. He plugs the tickets for next show, [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), at a discount.
 
 #### Gabriel Queen vs Olgierd
 
@@ -118,3 +118,6 @@ toclevel = 2
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=403099)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/hardcore-friday-2-full-show-20-09-24) (requires paid subscription)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid08d4V76rPAC5izL61xJRK9jjKYZNjTEawzJjtzKZTtZgiS5PAeA8EquL6FGQteEayl)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=aHkaPbVlPf8)
+
+[licho-wi]: (https://www.facebook.com/OficjalnePPW/posts/pfbid0GvoYdEwBwUSNJ3H5WPmwUcP7sFXjA5ECQ84eXkWXbKwpHfPGzcxzE9MhWkEPSRJAl)

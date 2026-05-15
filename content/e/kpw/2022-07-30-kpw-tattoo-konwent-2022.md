@@ -8,6 +8,7 @@ venue = ["amber-expo"]
 [extra]
 city = "Gdańsk"
 toclevel = 2
+has_video = false
 +++
 
 Tattoo Konwent is an event focused on the art of tattoo. Since 2014, it's been held several times a year in major cities in Poland, e.g. Gdańsk, Łódź, Poznań, Wrocław, but notably not in Warsaw which has its own, similarly named event. It's often accompanied by concerts, art exhibitions and workshops.
@@ -38,7 +39,13 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
   - '[Zefir](@/w/zefir.md)'
 - - '[Greg](@/w/greg.md)'
   - '[Michał Fux](@/w/michal-fux.md)'
+  - s: Hardcore Match
 - - '[Zefir](@/w/zefir.md)'
+  - '[Greg](@/w/greg.md)'
+  - '[Darius](@/w/darius.md)'
+  - '[David Oliwa](@/w/david-oliwa.md)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
   - s: 'Battle Royal'
 - - '[Filip Fux](@/w/filip-fux.md)'
   - 'Steinbolt'
@@ -53,5 +60,7 @@ Swedish wrestler Steinbolt was the foreign guest this time, along with now regul
 ## References
 
 * Cagematch event pages: [day 1](https://www.cagematch.net/?id=1&nr=348387), [day 2](https://www.cagematch.net/?id=1&nr=348388)
-* [Facebook announcement](https://www.facebook.com/TattooKonwent/posts/pfbid02gSGuoY1rmy3iHyzg9CDVLakhqShm8T4iH3Ys9sDzBxEqNjcubNKuQu2pnq29mY1Tl) on the event's page, lists timeslots.
+* [Facebook announcement](https://www.facebook.com/TattooKonwent/posts/pfbid02gSGuoY1rmy3iHyzg9CDVLakhqShm8T4iH3Ys9sDzBxEqNjcubNKuQu2pnq29mY1Tl) on the event's page, lists timeslots
 * [KPW's event page](https://kpwrestling.pl/events/gdansk-tattoo-konwent-2023/) for both days
+* [Coverage by local newspaper Dziennik Bałtycki](https://dziennikbaltycki.pl/gdansk-tattoo-konwent-2022-entuzjasci-sztuki-malowania-i-ozdabiana-cial-zapelnili-amber-expo-zdjecia/ar/c13-16537255), includes photo gallery showing Greg vs Filip
+* [Facebook photo album by Bartek Modrzejewski](https://www.facebook.com/media/set?vanity=TattooKonwent&set=a.5229672220484164), includes several photos of the Battle Royal and other matches

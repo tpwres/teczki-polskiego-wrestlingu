@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: The Winter Fun #3 was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on October 27th, 2013.
@@ -14,7 +15,6 @@ TWF: The Winter Fun #3 was a show produced by [Toruń Wrestling Federation](@/o/
 {{ skip_card() }}
 
 Card unavailable, as the show was removed from YouTube and no other sources are known to exist.
-
 
 ## References
 

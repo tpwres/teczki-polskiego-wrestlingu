@@ -64,6 +64,10 @@ class EventPage(Page):
                 self.event_date = datetime.strptime(ymd, '%Y-%m-%d').date()
                 self.orgs = m.group('orgs').split('_')
 
+        match self.front_matter:
+            case { 'extra': { 'orgs': orgs }}:
+                self.orgs = orgs
+
         self.card = Card(self.body, path, self.front_offset)
 
     def __repr__(self):

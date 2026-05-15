@@ -56,7 +56,7 @@ Polska Akademia Wrestlingu:
 * Anatolii
 * [Apollo Anderson](@/w/apollo-anderson.md)
 * [Aron Wake](@/w/aron-wake.md)
-* [Axel Fox](@/w/axel-fox.md)
+* [Axel Fox](@/w/jakub.md)
 * [Boro](@/w/boro.md)
 * [Chris X](@/w/chris-x.md)
 * [Gabriel Queen](@/w/gabriel-queen.md)
@@ -64,7 +64,7 @@ Polska Akademia Wrestlingu:
 * [Jacob Crane](@/w/jacob-crane.md)
 * [Konrad Von Koch](@/w/konrad-von-koch.md)
 * Leo Zayde
-* [Madman Charlie](@/w/madman-charlie.md)
+* [Madman Charlie](@/w/sedzia-karol-gorski.md)
 * [Mateusz Czarnecki](@/w/mateusz-czarnecki.md)
 * Michael Payne
 * [Olgierd](@/w/olgierd.md)

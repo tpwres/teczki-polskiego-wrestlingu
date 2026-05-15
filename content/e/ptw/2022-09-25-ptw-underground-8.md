@@ -8,6 +8,8 @@ venue = ["ptw-targowa"]
 [extra]
 city = "Chorzów"
 toclevel = 2
+has_video = true
+[extra.gallery]
 +++
 
 The eighth [PTW](@/o/ptw.md) Underground show was held on Sunday, September 25th 2022, at the [PTW Performance Center](@/v/ptw-targowa.md) in Chorzów.
@@ -17,7 +19,7 @@ For this event, PTW invited Northern Irish wrestler Myla Grace, who was briefly 
 ## Card
 
 {% card() %}
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Renegade](@/w/renegade.md)'
 - - '[Diana Strong](@/w/diana-strong.md)'
   - '[Myla Grace](@/w/myla-grace.md)'

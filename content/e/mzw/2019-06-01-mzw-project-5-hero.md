@@ -7,6 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 
@@ -15,7 +16,7 @@ toclevel = 2
 {% card() %}
 - - '[Zeritus](@/w/zeritus.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Lady Killer](@/w/boro.md)'
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - s: Three Way Match
@@ -31,7 +32,7 @@ toclevel = 2
   - r: 'DQ'
 - - '[Apollo Anderson](@/w/apollo-anderson.md)'
   - '[Dynamite Dave](@/w/dynamite-dave.md)'
-- - '[Damien Rothschild](@/w/damien-rothschild.md)(c)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)(c)'
   - '[Justin Joy](@/w/justin-joy.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:

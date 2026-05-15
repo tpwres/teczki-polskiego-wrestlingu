@@ -7,8 +7,8 @@ venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
-manifest = "@/e/ptw/2024-10-19-ptw-underground-23-gallery.toml"
 +++
 
 Underground 23 was an event by [Prime Time Wrestling](@/o/ptw.md) held on Saturday, October 19th, 2024. The venue was [Dworek Pod Platanem](@/v/dworek-kozlow.md) in Kozłów - PTW's main wrestling venue and training facility.
@@ -134,5 +134,4 @@ Debuting for PTW at this show were:
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=409396)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=568458088840171&set=a.136592405360077)
-* [Fancam by Istota Wrestlingu, part 1](https://www.youtube.com/watch?v=Xm58QUEA4CU)
-* [Fancam by Istota Wrestlingu, part 2](https://www.youtube.com/watch?v=h9j4rHRzmMg)
+* Fancam by Istota Wrestlingu: [part 1](https://www.youtube.com/watch?v=Xm58QUEA4CU), [part 2](https://www.youtube.com/watch?v=h9j4rHRzmMg)

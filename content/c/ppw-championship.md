@@ -211,7 +211,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     en: '[PpW Chcemy Krwi!](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md)'
     ed: 2024-10-30
 - - 'Gustav Gryffin (c)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: Singles match
     en: '[Legacy of Wrestling](@/e/low/2024-12-01-low-1.md)'
     ed: 2024-12-01
@@ -225,8 +225,8 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles match
     en: '[Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md)'
     ed: 2025-03-15
-- - 'Gustav Gryffin (c)'
-  - '[Goblin](@/w/goblin.md)'
+- - '[Goblin](@/w/goblin.md)'
+  - 'Gustav Gryffin (c)'
   - en: '[Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md)'
     ed: 2025-06-07
     s: Three Stages of Hell Match
@@ -272,8 +272,34 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 - - 'Olgierd (c)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - s: Legendary Unsanctioned Match
-    en: '[Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
+    en: '[PpW Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md)'
     ed: 2026-01-16
+- - 'Olgierd (c)'
+  - 'Biesiad Strong'
+  - s: Singles Match
+    en: '[Mam Talent Season 17 Episode 1](https://www.facebook.com/reel/865556049810905)'
+    ed: '2026-02-21'
+    n: Broadcast date; show presumably taped prior to Olgierd's injury.
+- - '[Olgierd](@/w/olgierd.md)(c)'
+  - 'Dale Patricks'
+  - s: Singles Match
+    en: '[PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md)'
+    ed: 2026-03-13
+- - 'Olgierd (c)'
+  - '[Johnny "Bullson" Blade](@/w/johnny-blade.md)'
+  - s: Barbed Wire Mayhem Match
+    en: '[PpW Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md)'
+    ed: 2026-03-21
+- - 'Olgierd (c)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - s: Dog Collar Match
+    en: '[PpW Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md)'
+    ed: 2026-04-25
+- - '"Chain God" Olgierd (c)'
+  - '"Polski Cieśla" Biesiad Strong'
+  - s: Singles Match
+    en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    ed: 2026-05-16
     nc: upcoming
 {% end %}
 
@@ -282,4 +308,4 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 * [PpW Wiki's entry on the PpW Championship](https://ppw-fandom.tpwres.pl/ppw-championship)
 * [Video introducing the redesigned belt](https://www.youtube.com/watch?v=JlXKZaJQDGU)
 
-[pakistanskie-pasy]: https://www.facebook.com/photo.php?fbid=921020626705335&set=a.574354294705305&type=3
+[pakistanskie-pasy]: https://www.facebook.com/photo.php?fbid=921020626705335

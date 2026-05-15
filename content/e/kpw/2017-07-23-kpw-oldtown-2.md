@@ -8,6 +8,7 @@ chronology = ["kpw", "oldtown"]
 [extra]
 city = "Stargard"
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 

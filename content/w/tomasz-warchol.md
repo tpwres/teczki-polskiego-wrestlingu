@@ -32,6 +32,6 @@ Tomasz Warchoł officially retired from his ring announcing role at [MZW Project
 
 Tomasz Warchoł didn't appear in any role in MZW or any other federation. However, he was still partialy active on social media during his break from wrestling, often engaging in conversations regarding the Polish wrestling scene.
 
-### Return to Maniac Zone Wrestling (2024)
+### Return to Maniac Zone Wrestling (2024-2025)
 
 Tomasz made a one-off appearance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) after nearly five years of absence. He hosted a contest where fans could win MZW T-shirts and other merchandise.

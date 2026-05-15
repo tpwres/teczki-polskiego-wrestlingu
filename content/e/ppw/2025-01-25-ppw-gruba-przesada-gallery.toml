@@ -1,6 +1,16 @@
 01 = { path = "2025-01-25-ppw-gruba-przesada-plakat.jpg", caption = "Official poster.", source = "Official PpW Facebook" }
-02 = { path = "svd-szkaluje-isnorra.jpg", caption = "Basically, [Dobroniak](@/w/stanislaw-van-dobroniak.md) says that Isnorr stinks.", source = "Official PpW Facebook" }
-03 = { path = "dobroniak-dfw.jpg", caption = "[Dobroniak](@/w/stanislaw-van-dobroniak.md) with the front plate of the [DFW Championship](@/c/dfw-championship.md).", source = "Krzysztof Zych" }
-04 = { path = "banana-chair.jpg", caption = "Banana chair.", source = "Krzysztof Zych" }
-05 = { path = "banana-mannequin.jpg", caption = "Banana mannequin.", source = "Krzysztof Zych" }
-06 = { path = "banana-table.jpg", caption = "Banana table.", source = "Krzysztof Zych" }
+02 = { path = "gabriel-queen-vs-gustav-gryffin.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official PpW Facebook" }
+03 = { path = "svd-vs-isnorr.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) vs [Isnorr](@/w/isnorr.md).", source = "Official PpW Facebook" }
+04 = { path = "vic-golden.webp", caption = "Image announcing [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
+05 = { path = "czuz-jur-destini.webp", caption = "Image with the choice of stipulation.", source = "Official PpW Facebook" }
+06 = { path = "svd-vs-isnorr-donky-kong.webp", caption = "Updated image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) vs [Isnorr](@/w/isnorr.md) in the Donky Kong Weaponmaster stipulation.", source = "Official PpW Facebook" }
+07 = { path = "axel-fox.webp", caption = "Image announcing [Axel Fox](@/w/jakub.md).", source = "Official PpW Facebook" }
+08 = { path = "goblin.webp", caption = "Image announcing [Goblin](@/w/goblin.md).", source = "Official PpW Facebook" }
+09 = { path = "oni-sie-bic-beda-czy-spiewac.webp", caption = "Image announcing [Vic Golden](@/w/vic-golden.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official PpW Facebook" }
+10 = { path = "pre-show.webp", caption = "Image announcing [Sentinel](@/w/sentinel.md) vs [_rookie_ Bartosz](@/w/plata.md) (back) vs [Sambor](@/w/sambor.md) (front) vs [Wonder Haze](@/w/wonder-haze.md).", source = "Official PpW Facebook" }
+
+20 = { path = "svd-szkaluje-isnorra.jpg", caption = "Basically, [Dobroniak](@/w/stanislaw-van-dobroniak.md) says that Isnorr stinks.", source = "Official PpW Facebook" }
+21 = { path = "dobroniak-dfw.jpg", caption = "[Dobroniak](@/w/stanislaw-van-dobroniak.md) with the front plate of the [DFW Championship](@/c/dfw-championship.md).", source = "Krzysztof Zych" }
+22 = { path = "banana-chair.jpg", caption = "Banana chair.", source = "Krzysztof Zych" }
+23 = { path = "banana-mannequin.jpg", caption = "Banana mannequin.", source = "Krzysztof Zych" }
+24 = { path = "banana-table.jpg", caption = "Banana table.", source = "Krzysztof Zych" }

@@ -6,6 +6,7 @@ chronology = ["dfw"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "plakat-dfw-kaszczorek.jpg", caption = "Community festival poster, including a wrestling show by DFW", source = "Facebook @DreamFactoryWrestling", skip_art = true}
 +++
@@ -20,7 +21,7 @@ In the main event, Revage faced Chris Hunter in a rematch from the [previous sho
 - - '[Jay Revolt](@/w/jay-revolt.md)'
   - '[Corin Mear](@/w/corin-mear.md)'
 - - '[Malmo Buruto](@/w/malmo-buruto.md)'
-  - '[Charlie Grayson](@/w/madman-charlie.md)'
+  - '[Charlie Grayson](@/w/sedzia-karol-gorski.md)'
   - '[Pain Killer](@/w/pain-killer.md)'
   - s: Triple Threat Match
 - - '[Revage](@/w/rafael-kid.md)'

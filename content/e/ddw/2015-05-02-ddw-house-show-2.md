@@ -7,6 +7,7 @@ venue = ["gimnazjum-8-gdansk"]
 [extra]
 city = "Gdańsk"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "2015-05-02-ddw-house-show-2-plakat.jpg", caption = "Official poster. Left to right: [Bianca](@/w/bianca.md), [Klarys](@/w/klarys.md), [Kamil Aleksander](@/w/kamil-aleksander.md), [Piękny Kawaler](@/w/piekny-kawaler.md).", source = "Official DDW Facebook" }
 2 = { path = "2015-05-02-ddw-house-show-2-kasandra-vs-bianca-vs-mira.jpg", caption = "[Kasandra](@/w/kasandra.md) vs [Bianca](@/w/bianca.md) vs [Mira](@/w/mira.md)", source = "Krystian Malinowski" }
@@ -31,7 +32,7 @@ Disappointed by the poor audience numbers of [DDW #9](@/e/ddw/2013-10-25-ddw-9.m
   - '_rookie_ Bestia'
   - '[_rookie_ Victor Rosetti](@/w/rosetti.md)'
   - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
-  - '[_rookie_ Damian Lambert](@/w/damien-rothschild.md)'
+  - '[_rookie_ Damian Lambert](@/w/damian-lambert.md)'
   - '???'
   - s: Battle Royal
 - - '[Mira](@/w/mira.md)'
@@ -78,7 +79,7 @@ unknown (behind Luxus) \
 _rookie_ Rex Torpeda \
 referee Artur Dzwończak (outside of the ring) \
 _rookie_ [David Oliwa](@/w/david-oliwa.md) (in gaudy undies) \
-_rookie_ [Damian Lambert](@/w/damien-rothschild.md) (behind _rookie_ David Oliwa) \
+_rookie_ [Damian Lambert](@/w/damian-lambert.md) (behind _rookie_ David Oliwa) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
 {% end %}
 

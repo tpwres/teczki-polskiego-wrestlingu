@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.061958, 50.254411]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "P23 Club",
+        "description": "Music club P23 at Porcelanowa 23 street, where [PpW](@/o/ppw.md) held their [first show in Katowice](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md).",
+        "orgs": ["ppw"]
+    }
+}

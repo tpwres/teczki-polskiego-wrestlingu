@@ -7,6 +7,7 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -17,7 +18,7 @@ toclevel = 2
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: 'Tournament Semi Final Match'
-- - '[Damien Rothschild](@/w/damien-rothschild.md)'
+- - '[Damien Rothschild](@/w/damian-lambert.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: 'Tournament Semi Final Match'
@@ -26,9 +27,9 @@ toclevel = 2
   - c: '[MZW Tag Team Championship](@/c/mzw-tag-team-championship.md)'
 - - '[Lady Killer](@/w/boro.md)'
   - '[Asmund](@/w/asmund.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: Triple Threat Match
-- - '[Madman Charlie](@/w/madman-charlie.md)'
+- - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - r: 'DQ'
     c: '[MZW Championship](@/c/mzw-championship.md)'

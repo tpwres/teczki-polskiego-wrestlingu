@@ -8,6 +8,7 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ppw/2016-07-18-ppw-backyard-total-war-gallery.toml"
 +++
@@ -17,7 +18,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
 ## Card
 
 {% card() %}
-- - '[Charlie](@/w/madman-charlie.md)'
+- - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Rob Scaffold](@/w/rob-scaffold.md)'
 - - '[Jim Enerico](@/w/mister-z.md)'
   - '[Snake](@/w/snake.md)'

@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -32,7 +33,7 @@ toclevel = 2
   - 'Andi ZickZack'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - s: Triple Threat Match
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '[PTW Championship](@/c/ptw-championship.md) #1 Contendership Match'
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
@@ -68,4 +69,5 @@ toclevel = 2
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=431153)
+* [Open access video: Krampus vs Nano Lopez](https://www.youtube.com/watch?v=meKOojic_3c)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)

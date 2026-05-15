@@ -8,8 +8,8 @@ venue=["kinoteka"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
-1 = { path = "ppw-chcemy-krwi-plakat.jpg", caption = "Official poster.", source = "SplatFilmFest.com"}
 +++
 
 "Chcemy Krwi!" (_We Want Blood!_) was a PpW event held in collaboration with horror film festival [Splat!FilmFest](@/o/splat.md), on October 30th, 2024.
@@ -38,7 +38,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
   - '[Oskar Strong](@/w/oskar-alexander.md)'
   - s: Triple Threat Match
 - - '[Isnorr](@/w/isnorr.md)(c)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Gremlin](@/w/goblin.md)'
@@ -79,7 +79,6 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=410329)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-x-splat-film-fest-chcemy-krwi-24-rare) (requires paid subscription)
 * [Announcement at SplatFilmFest.com](https://splatfilmfest.com/program/wrestling-chcemy-krwi-ppw-x-splatfilmfest/)
-* Istota Wrestlingu's [fan cam, part 1](https://www.youtube.com/watch?v=M1EzMK4IGhk) - Gustav vs Mister Z
-* Istota Wrestlingu's [fan cam, part 2](https://www.youtube.com/watch?v=dpebVNTRiGo) - remaining matches
+* Fancam by Istota Wrestlingu: [part 1](https://www.youtube.com/watch?v=M1EzMK4IGhk) (Gustav vs Mister Z), [part 2](https://www.youtube.com/watch?v=dpebVNTRiGo) (remaining matches)
 
 [pkin-wikipedia]: https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science

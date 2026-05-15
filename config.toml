@@ -1,4 +1,4 @@
-# The URL the site will be built for
+# The URL the site will be built for.
 base_url = "/"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -41,7 +41,6 @@ mf_link_format = "//mf.tpwres.pl?q=%s"
 carto_link_format = "//carto.tpwres.pl#%s"
 
 list_pages = false
-default_theme = "dark"
 header_links = [
   { path = "@/e/_index.md", name = "Events", icon = "calendar-1" },
   { path = "@/o/_index.md", name = "Orgs", icon = "handshake" },
@@ -71,7 +70,7 @@ tts_root = "//unalengua.com/ipa-translate?hl=en&ttsLocale=pl-PL&sl=pl&ttsMode=se
 
 # These orgs are excluded from the talentlists
 special_orgs = [
-  "splat"
+  "splat", "ewenement-dojo", "ryucon", "pyrkon"
 ]
 
 fold_matchlist = "auto"
@@ -112,6 +111,10 @@ text_fg = '#ffffff'
 bg = '#4f8ebf'
 text_fg = '#ffffff'
 
+[extra.org_styles.ryucon]
+bg = '#e2e2e2'
+fg = '#590204'
+
 [extra.chronology]
 arena = "KPW Arena"
 backyardmania = "Backyardmania"
@@ -122,7 +125,5 @@ ledwo-legalne = "Ledwo Legalne"
 oldtown = "OldTown Festival"
 poznan-fair = "Poznań International Fair"
 project-basement = "Project Basement"
-pyrkon = "Pyrkon"
-ryucon = "Ryucon"
 stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"

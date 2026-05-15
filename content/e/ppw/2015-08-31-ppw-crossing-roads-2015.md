@@ -8,6 +8,7 @@ venue = ["winogronowa-17"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
 1 = { path = "cr15-logo.jpg", caption = "Official logo.", source = "Official PpW YouTube." }
 +++

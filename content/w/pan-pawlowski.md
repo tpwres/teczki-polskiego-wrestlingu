@@ -34,8 +34,7 @@ In DDW he served as both, and adopted a persona of a heelish, self-important man
 
 ### Kombat Pro Wrestling (2015-2019)
 
-After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties as ring announcer.
-This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md), after which he parted ways with the promotion. In 2024, KPW owner and booker [Piękny Kawaler](@/w/piekny-kawaler.md) revealed that it was him who fired Pawłowski from the organization, over creative and personal differences.
+After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties as ring announcer. This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md), after which he parted ways with the promotion, the details of which differ between accounts. According to an [interview with Pawłowski][mw-pawel], [Piękny Kawaler](@/w/piekny-kawaler.md) fired him over the phone the day before [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md), disguising his own premeditated decision as the roster's. In a private conversation, Kawaler countered by saying that the initial idea was to keep Pawłowski for Arena 14 and only fire him after the show, but [Boski Ostrowski](@/w/ostrowski.md) opposed this very strongly and demanded that Pawłowski be fired immediately.
 
 ### Prime Time Wrestling (2021-present)
 
@@ -60,7 +59,13 @@ Pawłowski stepped away from his Host/Announcer duties to become a full time on-
 
 During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), Pawłowski adressed the public with another devastating blow against Łukasz Okoński: he revealed that [Sigma Boy xD](@/w/sigma-boy.md) is in fact the bastard son of Łukasz. This caused Sigma Boy xD's meltdown and seemingly him joining Pawłowski, who comforted him after this revalation. Their alliance didn't last very long, as Sigma Boy xD mended fences with his father at the [next show](@/e/ptw/2025-09-28-ptw-bol-istnienia.md). 
 
-Despite this setback,  Nietykalni managed to hold a strong position in PTW and win the Team Okoński vs Team Pawłowski Elimination Match at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) thanks to [Nano Lopez's](@/w/nano-lopez.md) betrayal of Team Okoński. At the [next show](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Pawłowski returned to in-ring competition, teaming up with his champion Puncher in a Three Stages of Hell Match against Okoński. In it, he was pinned by Okoński twice, costing Pawłowski's team the victory. Nietykalni's defeat meant that Spartan would be once again eligible to face Puncher for the PTW title, which enraged the reigning Champion. 
+Despite this setback, Nietykalni managed to hold a strong position in PTW and win the Team Okoński vs Team Pawłowski Elimination Match at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) thanks to [Nano Lopez's](@/w/nano-lopez.md) betrayal of Team Okoński. At the [next show](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Pawłowski returned to in-ring competition, teaming up with his champion Puncher in a Three Stages of Hell Match against Okoński. In it, he was pinned by Okoński twice, costing Pawłowski's team the victory. Nietykalni's defeat meant that Spartan was once again eligible to face Puncher for the PTW title, which enraged the reigning Champion. 
+
+#### Downfall and stepping down from PTW
+
+In the main event of [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) both Puncher's PTW Championship and Pawłowski's career were on the line in an All Or Nothing Match against Spartan, supported by Łukasz Okoński. Despite all the tricks and shenanigans pulled off by Pan Pawłowski and Nietykalni, Spartan was finally able to finish his story. Devastated, Arkadiusz spent the next couple of weeks looking back at moments from his wrestling journey on his social media, which included short stories from both [DDW](@/o/ddw.md) and [KPW](@/o/kpw.md), as well as the beginnings of PTW.
+
+At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by making his farewell speech, seemingly reverting to his good guy persona. He granted parting gifts to all the Nietykalni members present: [Vincent](@/w/vincent-caravaggio.md) received an opportunity to represent Poland at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) show, [Nano Lopez](@/w/nano-lopez.md) got a promise that he would defend his [Underground Championship](@/c/ptw-underground-championship.md) across Europe thanks to Pawłowski's networking, and finally [Alex Brave](@/w/alex-brave.md) was given a serious heart-to-heart motivational speech about him not being the star he tried to portray. After that Pawłowski bid farewell to PTW's ring and revealed that he had been supposedly headhunted by one of "major international wrestling promotions", where he would continue his career.
 
 ## International wrestling appearances
 
@@ -83,11 +88,10 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 >
 > Welcome Arek "Pan" Pawłowski!
 
-
 ## In wrestling
 
 * Tag Teams and stables:
-  - [Nietykalni](@/tt/nietykalni.md) (2025-)
+  - [Nietykalni](@/tt/nietykalni.md) (2025-2026)
 * Entrance music:
   - "Throne" by Bring Me the Horizon
     {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
@@ -103,12 +107,16 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+  - [PTW Awards](@/a/ptw-awards.md) (4 times):
     * Speaker of the Year (2024)
+    * Villain of the Year (2025)
+    * Feud of the Year (2025) - as part of [Nietykalni](@/tt/nietykalni.md)
+    * Speaker of the Year (2025)
 
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=6523)
 
-[yt-iw]:https://www.youtube.com/@IstotaWrestlingu
-[rings-of-pawel]:https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl
+[yt-iw]: https://www.youtube.com/@IstotaWrestlingu
+[rings-of-pawel]: https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl
+[mw-pawel]: https://www.youtube.com/live/D4kwKCFbY9c?si=XxJ7CL7-1kn863hd&t=5868

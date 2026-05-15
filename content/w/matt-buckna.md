@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["DE"]
 [extra.gallery]
-1 = { path = "matt-buckna.jpg", caption = "Matt Buckna with ring announcer Adi, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
+1 = { path = "matt-buckna.jpg", caption = "Matt Buckna with ring announcer [Adi](@/w/adrian-zgorski.md), [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 +++
 
 Matt Buckna is a German wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md).
@@ -30,7 +30,7 @@ Matt Buckna made his debut in [Maniac Zone Wrestling](@/o/mzw.md) back in Novemb
 
 #### MZW Champion
 
-Matt Buckna made his return to Poland shortly after MZW fully got back on track following the COVID-19 pandemic, now no longer a heavyweight, but significantly slimmer. At [MZW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) he defeated Michael Payne in an [MZW Championship](@/c/mzw-championship.md) #1 Contenders Match for the vacant title. His challenger in the final match for the Championship was [Aron Wake](@/w/aron-wake.md), who was unsuccessful against the German wrestler. Thus, Matt Buckna became the new MZW Champion, turning babyface along the way.
+Matt Buckna made his return to Poland shortly after MZW fully got back on track following the COVID-19 pandemic, now no longer a heavyweight, but significantly slimmer. At [MZW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) he defeated Michael Payne in an [MZW Championship](@/c/mzw-championship.md) #1 Contenders Match for the vacant title. His challenger in the final match for the Championship was [Aron Wake](@/w/aron-wake.md), who was unsuccessful against the German wrestler. Thus, Matt Buckna became the new MZW Champion, turning babyface along the way. His reign ended abruptly, however, when he couldn't defend his title at [MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md), as he was still recovering from an injury. The MZW management made a decision to vacate the title and crown a new Champion at that event.
 
 ### Legacy of Wrestling (2025)
 
@@ -50,7 +50,7 @@ In July 2025, Matt Buckna was a surprise contender at the [third Legacy show](@/
 ## Championships and accomplishments
 
 * [Maniac Zone Wrestling](@/o/mzw.md):
-  - [MZW Championship](@/c/mzw-championship.md) (1 time; current)
+  - [MZW Championship](@/c/mzw-championship.md) (1 time)
 
 ## Internet presence
 

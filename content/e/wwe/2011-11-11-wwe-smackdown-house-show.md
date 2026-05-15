@@ -8,6 +8,7 @@ venue = ["ergo-arena"]
 [extra]
 city = ["Gdańsk", "Sopot"]
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "2011-11-11-wwe-smackdown-house-show.jpg", caption = "WWE in Gdańsk/Sopot", source = "MyWrestling.com.pl" }
 +++

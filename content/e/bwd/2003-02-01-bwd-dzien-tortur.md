@@ -9,6 +9,7 @@ venue = ["2lo-chrzanow"]
 city = "Chrzanów"
 toclevel = 2
 hide_results = true
+has_video = false
 [extra.gallery]
 manifest = "@/e/bwd/2003-02-01-bwd-dzien-tortur-gallery.toml"
 +++

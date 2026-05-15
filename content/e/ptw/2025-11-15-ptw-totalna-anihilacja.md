@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -43,7 +44,7 @@ toclevel = 2
   - '[Alex Brave](@/w/alex-brave.md)'
   - c: XWP Championship
 - - '[Diana Strong](@/w/diana-strong.md)'
-  - 'Bumper'
+  - '[Bumper](@/w/fabian.md)'
 - - '[Puncher](@/w/puncher.md)'
   - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
   - s: Three Stages of Hell - Boxing Match
@@ -67,6 +68,7 @@ Shida's opponent was changed at the last minute to the French wrestler Stanislas
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=438259)
+* [Open access video: The Brave Show, CJ Klakson vs Vincent Caravaggio](https://www.youtube.com/watch?v=Z6X8UngLERM)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=827086732977304&set=a.136592405360077)
 
 [3-stages-of-arek]: https://www.facebook.com/reel/812902744863234

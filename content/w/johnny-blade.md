@@ -68,7 +68,7 @@ He later confirmed his ambitions for a rematch and scored another victory over B
 
 #### Feud with Mister Z
 
-After the villainous stable Zmowa lost to face stable Zmowa Przeciwko Zmowie led by Biesiad at Co Za Noc, Mister Z focused on taking revenge on Biesiad Strong and Johnny Blade - his former friends. He tried to suspend them from the federation during [Gruba Przesada][przesada], but the duo bought regular tickets to get into the show, and were able to assist [Axel Fox](@/w/axel-fox.md) in a confrontation against Z and Legia Łysych.
+After the villainous stable Zmowa lost to face stable Zmowa Przeciwko Zmowie led by Biesiad at Co Za Noc, Mister Z focused on taking revenge on Biesiad Strong and Johnny Blade - his former friends. He tried to suspend them from the federation during [Gruba Przesada][przesada], but the duo bought regular tickets to get into the show, and were able to assist [Axel Fox](@/w/jakub.md) in a confrontation against Z and Legia Łysych.
 
 After Johnny took on [Marco Hammers](@/w/marco-hammers.md) in a Vodka Match at [Hardcore Friday 21.000][hf21k], Mister Z managed to capture him and set Johnny as a lure for Biesiad. This led to Mister Z vs Johnny Blade III which took place at [Teraz Albo Nigdy][teraz]. In a brutal match Blade was defeated and beaten up to provoke Biesiad, but despite his injuries Blade made yet another appearance that night, when he took part in 20 Typa 20 Broni Match.
 
@@ -90,6 +90,10 @@ In September 2017 Johnny, under his masked alias Black Orion, made a one-off [DF
 ### Maniac Zone Wrestling (2024)
 
 In October 2024 Johnny made his debut in [Maniac Zone Wrestling](@/o/mzw.md), when he fought fellow PpW wrestler [Feager](@/w/feager.md) in a No-DQ Match at [MZW No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md).
+
+## International wrestling appearances
+
+On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursion to Japan during their show [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Abdullah Kobayashi in a match for the vacated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). 
 
 ## In wrestling
 

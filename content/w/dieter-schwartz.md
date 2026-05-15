@@ -25,7 +25,7 @@ Dieter Schwartz (then known as Deti Black) made his first appearance in Poland i
 
 ### Legacy of Wrestling (2025)
 
-In July 2025 Dieter made his debut in [Legacy of Wrestling](@/o/low.md) at their [third show](@/e/low/2025-07-11-low-3.md), where he was defeated by [Axel Fox](@/w/axel-fox.md).
+In July 2025 Dieter made his debut in [Legacy of Wrestling](@/o/low.md) at their [third show](@/e/low/2025-07-11-low-3.md), where he was defeated by [Axel Fox](@/w/jakub.md).
 
 ## In wrestling
 

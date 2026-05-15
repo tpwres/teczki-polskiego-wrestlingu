@@ -10,6 +10,7 @@ venue=["2kola"]
 city = "Warszawa"
 toclevel = 2
 hide_results = true
+has_video = false
 [extra.gallery.1]
 path = "2019-12-07-ppw-2kola-to-my-nie-zarobimy-plakat.jpg"
 caption = "Official poster, showing a burnt down truck (probably a Mercedes T1) in front of the [2KOŁA](@/v/2kola.md) pub."
@@ -41,11 +42,12 @@ This was likely the first PpW event open for general public, as opposed to frien
     s: Hardcore Match
 - - '[Mister Z](@/w/mister-z.md)(c)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
-  - nc: '?'
-    c: '[PpW Championship](@/c/ppw-championship.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
 - credits:
     Referee: '[Sędzia Matek](@/w/sedzia-matek.md)'
 {% end %}
+
+Note: Although the results of this show are unavailable, Mister Z was still the champion at the [next show](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), indicating his victory here.
 
 ## References
 

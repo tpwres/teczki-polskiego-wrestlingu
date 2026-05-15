@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = false
 [extra.gallery]
 1 = { path = "piknikszafirowy.webp", caption = "Full show report given by Okoński and [PTW](@/o/ptw.md) profile", source = "Official PTW Facebook", skip_art = true }
 +++

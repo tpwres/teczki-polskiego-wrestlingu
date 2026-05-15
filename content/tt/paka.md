@@ -110,6 +110,7 @@ At [Legacy of Wrestling vol. 3](@/e/low/2025-07-11-low-3.md), Disco Pablo was se
   - PTW Tag Team Championship Tournament (2023)
 
 ## References
+
 * [Introductory post](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02KALKsjfGkS12T7Ad6VJvJKw6rTv87UB7JMBAiZrsLZNqjDLt9s3pKZxoksuCgGRnl)
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

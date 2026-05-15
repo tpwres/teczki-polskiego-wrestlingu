@@ -22,6 +22,12 @@ Krystian "Resivny" Smoleń is a Polish wrestling commentator working for [Prime 
 
 Resivny joined [Prime Time Wrestling](@/o/ptw.md) some time in late 2024. After the [2024 crisis in PTW](@/a/ptw-crisis.md) - which resulted in a [talent exodus](@/a/ptw-exits.md) in May/June, including all of PTW's commentators - Krystian pursued his career in PTW as a member of the commentary team. He made his debut at [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) where he was joined by [Adam Goldschmidt](@/w/adam-goldschmidt.md). Right from the start he was portrayed as a babyface commentator. He also became the host of "agResivne wywiady" - a series of live interview with PTW staff and wrestlers held on PTW's YouTube channel.
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (1 time):
+    * Voice of the Year (2025)
+
 ## Internet presence
 
 * [Resivny's Instagram](https://www.instagram.com/resivny)

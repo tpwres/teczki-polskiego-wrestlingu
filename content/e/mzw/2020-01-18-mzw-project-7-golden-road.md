@@ -7,13 +7,14 @@ venue = ["bakara"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 
 ## Card
 
 {% card() %}
-- - '[Madman Charlie](@/w/madman-charlie.md)'
+- - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
 - - '[Matt Buckna](@/w/matt-buckna.md)'
   - '[Alex Arthur](@/w/alex-arthur.md)'
@@ -29,7 +30,7 @@ toclevel = 2
   - '[Shadow](@/w/shadow.md)'
 - - '[Zeritus](@/w/zeritus.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Nathan Cross](@/w/gabriel-queen.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - 'Fast Time Moodo'
@@ -40,7 +41,7 @@ toclevel = 2
 
 ### Recap
 
-* [Damien Rothschild](@/w/damien-rothschild.md) had to sit out the show due to an injury, leading to a minor change in the card. Alex Arthur, initially booked for a Three-Way Match against Rick Baxxter and Lady Killer, replaced Rothschild in the match against Matt Buckna.
+* [Damien Rothschild](@/w/damian-lambert.md) had to sit out the show due to an injury, leading to a minor change in the card. Alex Arthur, initially booked for a Three-Way Match against Rick Baxxter and Lady Killer, replaced Rothschild in the match against Matt Buckna.
 * Ring Rat's promo was interrupted by Anatolii, giving him a Big Boot. Anatolii was then attacked by Krueger, who in turn was chokeslammed by Hexia.
 * This was Hexia's final in-ring appearance.
 

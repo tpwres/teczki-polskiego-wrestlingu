@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Michał "Mutant" Świątkowski, previously known as Daniel Boza, is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He had also worked in [Kombat Pro Wrestling](@/o/kpw.md) prior to PTW.
+Michał "Mutant" Świątkowski is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md). Previously, he worked for [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md) (as Daniel Boza).
 
 ## Basic Info
 
@@ -17,6 +17,7 @@ Michał "Mutant" Świątkowski, previously known as Daniel Boza, is a Polish wre
   - Daniel Boza {{ org_badge(org='kpw') }}
   - Michał "Mutant" Świątkowski {{ org_badge(org='ptw')}}
   - Mutant {{ org_badge(org='ppw')}}
+  - Muti {{ org_badge(org='ppw') }}, when teaming with ["Ladykiller" Boro](@/w/boro.md)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
@@ -39,12 +40,13 @@ This marked his last appearance in PTW, as he publicly [announced his departure]
 
 ### PpW Ewenement Wrestling (2025-)
 
-Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), where he competed in a 10,000&nbsp;PLN Battle Royal, but lost.
+Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), where he competed in a 10,000&nbsp;PLN Battle Royal with no success. A month later, at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), he appeared in another multi-man match, this time a six-man Bring Your Weapons match, with several of the same opponents. Just two weeks later, he had his first singles match in PpW against [Biesiad Strong](@/w/biesiad.md).
 
 ## In wrestling
 
 * Finishers:
   - Spinning Kick To Kneeling Opponent (2021-2024)
+  - F-5 (2025-)
 * Entrance music:
   - "Wilki Dwa" by Luxtorpeda
     {{ org_badge(orgs=['kpw']) }} (2019-2020)<br>
@@ -52,7 +54,7 @@ Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/202
     {{ music(spot='6HtFpYx3yZo9nJNumfn7Ts')}}
     {{ music(apple='1543261324?i=1543261748')}}
   - "Beast" by The Hustle Standard
-    {{ org_badge(orgs=['ptw']) }} (2021-2024)<br>
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2021-2024; 2025-)<br>
     {{ music(yt='p2ZljzdGPUg')}}
     {{ music(spot='0WKY4nRJgz3GUG7IqkTgUH')}}
     {{ music(apple='1440836832?i=1440836838')}}

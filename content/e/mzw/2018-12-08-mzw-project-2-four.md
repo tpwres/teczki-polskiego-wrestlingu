@@ -7,6 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -19,7 +20,7 @@ toclevel = 2
   - '[Asmund](@/w/asmund.md)'
   - nc: 'No Contest'
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
 - - '[Asmund](@/w/asmund.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
@@ -30,8 +31,8 @@ toclevel = 2
 - - 'Shane Baker'
   - 'Gabriel Magic'
 - - '[Shadow](@/w/shadow.md)'
-  - '[Damien Rothschild](@/w/damien-rothschild.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Damien Rothschild](@/w/damian-lambert.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Rafael Kid](@/w/rafael-kid.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: 'Tournament Final Four Way Match'

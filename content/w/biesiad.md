@@ -67,7 +67,7 @@ However, his title reign was cut short. The defeated Mister Z initiated his "pla
 During his conflict with Mister Z, who became PpW's "executive producer" after Mandecky's abduction, Biesiad visibly grew tired of Mister Z and his entourage.
 In a post-match interview at Ewenement Haze he used the term ["Zmowa"](@/tt/zmowa.md) (_The Collusion_) for the first time, and vowed to end it as soon as possible.
 Following the defeat at Ledwo Legalne IV and an unsucessful rematch against Gustav at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md), where he lost due to an intervention of other members of Zmowa, Biesiad started gathering an alliance of babyfaces who were also holding a grudge against Zmowa.
-He recruited [Samson](@/w/samson.md), [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/axel-fox.md) and [Goblin](@/w/goblin.md) to form an alliance called "Zmowa Przeciwko Zmowie" (_A Collusion Against the Collusion_).
+He recruited [Samson](@/w/samson.md), [Vic Golden](@/w/vic-golden.md), [Gabriel Queen](@/w/gabriel-queen.md), [Axel Fox](@/w/jakub.md) and [Goblin](@/w/goblin.md) to form an alliance called "Zmowa Przeciwko Zmowie" (_A Collusion Against the Collusion_).
 They faced their opponents in a 5-vs-5 Elimination Ustawka Match at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md). Despite Biesiad's elimination, the team managed to defeat Zmowa thanks to Goblin, who won the match as the last man standing.
 
 #### Feud with Mister Z
@@ -84,6 +84,10 @@ Regaining his freedom at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prost
 #### TypeShit Tournament
 
 After defeating the leader of Zmowa, Biesiad took on Gustav Gryffin in an ECW Rules Match at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md), which qualified him to take part in the final match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). In the meantime he also managed to defeat [Legia Łysych](@/tt/legia-lysych.md) in a Warsaw Brawl Tag Team Match at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). At Mistrzowskie Rozdanie 2 he faced Vic Golden, Gabriel Queen and Olgierd in a Total Elimination Fatal Four Way. His victory granted him a title match against Goblin at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). However, just before the match was scheduled to start, Biesiad's old rival Mister Z added himself to the match, thus making it a Triple Threat Match. Ultimately, Goblin won by pinning Mister Z, which enraged Biesiad and resulted in his backstage offensive on PpW's producer, but he was stopped under the threat of being fired from federation. Instead, Z managed to set up a match between Biesiad and [Robert Star](@/w/robert-star.md) at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), which was won by Biesiad.
+
+#### Championship pursuit and firing
+
+At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Biesiad got one more shot at the PpW Championship in a Legendary Unsanctioned Match against Olgierd. However, the match was ruled a draw after both competitors dived off the stage and were unable to continue. During the match Olgierd suffered an injury, which prevented Biesiad from gaining a quick rematch. Biesiad compromised his chances further as during Olgierd's address to the crowd at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) he attacked the injured Olgierd. In consequence, Biesiad was immediately fired from PpW Ewenement Wrestling Ltd.
 
 ### Dream Factory Wrestling (2017)
 

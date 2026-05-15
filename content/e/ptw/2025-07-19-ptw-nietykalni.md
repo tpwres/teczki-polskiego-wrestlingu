@@ -8,8 +8,8 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
-manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 +++
 
 "Nietykalni" (_The Untouchables_) was a show by [Prime Time Wrestling](@/o/ptw.md). The show was announced in a Facebook post alongside [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) and [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md).
@@ -100,6 +100,7 @@ manifest = "@/e/ptw/2025-07-19-ptw-nietykalni-gallery.toml"
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=429198)
+* [Open access video: Nietykalni promo, Diana Strong vs Lucy Couture](https://www.youtube.com/watch?v=XmhR79DOV0Q)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=773747374977907&set=a.136592405360077)
 * [Buntownik's Spotify profile](https://open.spotify.com/artist/40VhhnpQ57hG3eoiRxxPdl?si=1LMFd2azS4-1-DJEFUnsmw)
 * [CJ Klakson's Instagram profile](https://www.instagram.com/cjklaksonpl/)

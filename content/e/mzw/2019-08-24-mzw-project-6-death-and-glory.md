@@ -7,6 +7,7 @@ venue = ["czasoprzestrzen"]
 [extra]
 city = "Wrocław"
 toclevel = 2
+has_video = false
 [extra.gallery]
 +++
 
@@ -14,12 +15,12 @@ toclevel = 2
 
 {% card() %}
 - - '[Rafael Kid](@/w/rafael-kid.md)'
-  - '[Madman Charlie](@/w/madman-charlie.md)'
+  - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Open Challenge Four Way Match'
 - - '[Matt Buckna](@/w/matt-buckna.md)'
-  - '[Axel Fox](@/w/axel-fox.md)'
+  - '[Axel Fox](@/w/jakub.md)'
   - s: 'No Disqualification Match'
 - - '[Shadow](@/w/shadow.md)'
   - 'Fast Time Moodo'
@@ -37,7 +38,7 @@ toclevel = 2
   - s: "Talent's Battle Royale"
     n: Nathan Cross finished runner-up
 - - '[Asmund](@/w/asmund.md)'
-  - '[Damien Rothschild](@/w/damien-rothschild.md)(c)'
+  - '[Damien Rothschild](@/w/damian-lambert.md)(c)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
 - credits:
     Host, Ring Announcer: '[Mateusz Czarnecki](@/w/mateusz-czarnecki.md)'

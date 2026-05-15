@@ -75,7 +75,9 @@ At [PTW Underground 24: Bania U Prezesa](@/e/ptw/2024-11-16-ptw-underground-24.m
 
 #### Nietykalni
 
-After Pawłowski turned into a villain, Puncher joined his ranks as his top protégé. He continued his undefeated streak while feuding with [Spartan](@/w/spartan.md), as well as with other members of Pawłowski's oppositon. Along with [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md)) he joined a faction led by Pawłowski called [Nietykalni](@/tt/nietykalni.md).
+After Pawłowski turned villain, Puncher joined his ranks as his top protégé. He continued his undefeated streak while feuding with [Spartan](@/w/spartan.md), as well as with other members of Pawłowski's oppositon. Along with [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md)) he joined a faction led by Pawłowski called [Nietykalni](@/tt/nietykalni.md).
+
+The faction ruled PTW until it finally came to an end after their first slip-up. At [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Puncher teamed up with Arkadiusz Pawłowski in a Three Stages of Hell against Łukasz Okoński. Despite Puncher's easy victory in the first stage, Pawłowski managed to cost Nietykalni another two stages, which granted Okoński's ally Spartan one more shot at Puncher's PTW Championship. Puncher vs Spartan All Or Nothing Match at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) became the match not only for the title, but also for the ownership of PTW. Despite multiple shenenigans and tricks pulled off by Puncher's manager Pan Pawłowski, the match finally ended with Spartan standing tall over defeated Puncher, thus ending his 679-days long reign.
 
 ## International wrestling appearances
 
@@ -89,18 +91,19 @@ From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promot
 * Tag Teams and stables:
   - [Nietykalni](@/tt/nietykalni.md) (2025-)
 * Entrance music:
-  - "Eye of the Tiger" by Survivor
+  - "Eye of the Tiger (Metal Cover)" by Leo feat. Rob Lundgren
     {{ org_badge(orgs=['ptw']) }} (2021-) <br>
-    {{ music(yt='btPJPFnesV4')}}
-    {{ music(spot='2KH16WveTQWT6KOG9Rg6e2')}}
-    {{ music(apple='1692216002?i=1692216321')}}
+    {{ music(yt='G6r1dAire0Y')}}
+    {{ music(spot='5bAeRAV1eGSOmEhjtm8Wnf')}}
+    {{ music(apple='1099245277?i=1099245311')}}
 
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Championship](@/c/ptw-championship.md) (1 time; inaugural)
   - [Gold Rush Rumble](@/a/ptw-gold-rush-rumble.md) (2023)
-  - [PTW Awards](@/a/ptw-awards.md) (3 times):
+  - [PTW Awards](@/a/ptw-awards.md) (4 times):
     * Wrestler of the Year (2022)
     * Speaker of the Year (2022)
     * Finisher of the Year (2022)
+    * Feud of the Year (2025) - as part of [Nietykalni](@/tt/nietykalni.md)

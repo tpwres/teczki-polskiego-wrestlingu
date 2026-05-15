@@ -7,12 +7,8 @@ venue=["teatr-komuna"]
 [extra]
 city = "Warszawa"
 toclevel = 2
+has_video = true
 [extra.gallery]
-1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Official PpW Facebook"}
-2 = { path = "ag-crane-queen.jpg", caption = "Official graphic for the [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md) match.", source = "Official PpW Facebook"}
-3 = { path = "ag-legia-goblin.webp", caption = "Official graphic for [Goblin](@/w/goblin.md) vs [Legia](@/w/marco-hammers.md) [Łysych](@/w/olgierd.md).", source = "Official PpW Facebook"}
-4 = { path ="alex-feager-canceled.jpg", caption = "[Alex Arthur](@/w/alex-arthur.md)'s Instagram story explaining he will miss his just-announced fight with [Feager](@/w/feager.md).", source = "Instagram @realalexarthur", skip_art = true }
-5 = { path = "dingdance-vs-dominique.jpg", caption = "Teatr Komuna's Instagram story, announcing a match between two choreographers.", source = "Instagram @komunawarszawa"}
 +++
 
 "Ale Grzeje" (roughly translated as _Heat Wave_, or more accurately as _Man, Is It Hot!_) was an event held by [PpW](@/o/ppw.md) on Saturday July 13th 2024. It was the second one to be hosted by [Teatr Komuna](@/v/teatr-komuna.md), after [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) in February that year.
@@ -45,7 +41,7 @@ Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-cr
   - '[Samson](@/w/samson.md)'
   - g: "[Zmowa's](@/tt/zmowa.md) promo gets interrupted by Samson and Biesiad"
 - - '[Legia Łysych](@/tt/legia-lysych.md): [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)'
-  - '[GobLis](@/tt/goblis.md): [Goblin](@/w/goblin.md) & [Axel Fox](@/w/axel-fox.md)'
+  - '[GobLis](@/tt/goblis.md): [Goblin](@/w/goblin.md) & [Axel Fox](@/w/jakub.md)'
   - s: Tag Team Match
 - - '[Feager](@/w/feager.md)'
   - '[Aron Wake](@/w/aron-wake.md)'

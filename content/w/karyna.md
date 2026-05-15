@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Karyna is a Polish wrestling manager best known for her time in [Prime Time Wrestling](@/o/ptw.md).
+Karyna is a retired Polish wrestling manager best known for her time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -27,9 +27,9 @@ Karyna made her debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 14](
 ## In wrestling
 
 * Tag Teams and stables:
-  - Legia Łysych (2023-2024)
+  - [Legia Łysych](@/tt/legia-lysych.md) (2023-2024)
 * Wrestlers managed:
-  - Olgierd (2023-2024)
+  - [Olgierd](@/w/olgierd.md) (2023-2024)
 * Entrance music:
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
     {{ org_badge(orgs=['ptw']) }} (2023-2024, as part of Legia Łysych) <br>

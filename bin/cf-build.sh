@@ -45,9 +45,8 @@ setup_seo() {
   envsubst < templates/robots_template.txt > templates/robots.txt
 }
 
-
 build() {
-  make all plot index
+  make -j$(nproc) all plot index
 
   zola -c build_cloudflare_config.toml build
   cp data/appearances_v2.json public/
@@ -61,5 +60,4 @@ lint
 install_zola
 create_config
 setup_seo
-env | sort
 build

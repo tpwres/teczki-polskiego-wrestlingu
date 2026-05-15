@@ -8,6 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
+has_video = true
 [extra.gallery]
 +++
 
@@ -32,11 +33,11 @@ toclevel = 2
   - 'The Lancadores: Kenny B. & M.R.D. w/ Tori Fox'
   - s: International Showcase Tag Team Match
 - - '[Daniel Razor](@/w/daniel-razor.md)'
-  - 'Damian Adler'
+  - '[Damian Adler](@/w/damian-adler.md)'
   - s: Daniel Razor's Open Challenge
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Sawicki](@/w/sawicki.md)'
-  - 'Bumper'
+  - '[Bumper](@/w/fabian.md)'
 - - 'Andi ZickZack'
   - 'Nic Wesker'
   - s: Halloween Hardcore Match
@@ -46,11 +47,11 @@ toclevel = 2
   - 'Dylan Thorn'
   - 'Shawn Aster'
   - s: Triple Threat Match Manto Challenge
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: Lambert promises changes after his recent loss. Pawłowski gives him a match.
-- - '[Damian Lambert](@/w/damien-rothschild.md)'
-  - 'Dropper'
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - '[Dropper](@/w/whiteblade.md)'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '4 on 4 Tag Team Elimination Match'
@@ -68,9 +69,9 @@ toclevel = 2
 
 * Street Creed worked the match as heels, whereas The Lancadores (with their manager Tori Fox) played babyfaces.
 * Post-match, the heels tried to put an exclamation mark on their victory, continuing the beatdown on The Lancadores. Tori Fox thwarted their attempts, disposing of both Street Creed members.
-* Damian Adler, a Polish competitor trained in Germany and a former student of the [KPW school](@/o/szkola-kpw.md), made his debut as Pawłowski's hand-picked opponent for Razor's Open Challenge. Adler worked the match as a heel, presenting a blend of powerhouse style and agility. Razor won with a crucifix pin to retain.
+* [Damian Adler](@/w/damian-adler.md), a Polish competitor trained in Germany and a former student of the [KPW school](@/o/szkola-kpw.md), made his debut as Pawłowski's hand-picked opponent for Razor's Open Challenge. Adler worked the match as a heel, presenting a blend of powerhouse style and agility. Razor won with a crucifix pin to retain.
 * Sawicki made his entrance wearing a skull mask with facepaint underneath, playing up the Halloween theme of the show. His entrance mimicked [La Parka's][pa-larka].
-* Pawłowski entered to pick his opponent, teasing [Boguś](@/w/bogus.md) (working as timekeeper) that this was his chance. However, the one to debut was a fellow PTW rookie, Bumper. Sawicki disposed of him in a quick fashion.
+* Pawłowski entered to pick his opponent, teasing [Boguś](@/w/bogus.md) (working as timekeeper) that this was his chance. However, the one to debut was a fellow PTW rookie, [Bumper](@/w/fabian.md). Sawicki disposed of him in a quick fashion.
 * Andi Zick Zack won a Halloween Hardcore Match, followed by a break.
 * After the break, Okoński (accompanied by a scantily-clad woman, introduced as Dominika) enters to host a traditional charity auction.
 * Just like [a year ago](@/e/ptw/2024-10-19-ptw-underground-23.md), Shida entered wearing a [Ghostface][duchomordy] mask from _Scream_. Polski Niedźwiedź made his entrance as usual. Shida won in a fairly short match, focusing on mutual respect. Him and Bear embraced afterwards.
@@ -81,18 +82,18 @@ toclevel = 2
 * Nietykalni made an entrance first, coming as a unit. Members of Team Okoński enter in succession.
 * In a slightly comedic fashion, Caravaggio uses the ring of his grandmother Matylda. The only effect it achieved was breaking down a set of chairs placed close to the stage.
 * Order of eliminations:
-*   Pawłowski eliminated Sigma Boy xD after a Wylew from Puncher and some offense of his own.
-*   Puncher eliminated Okoński after a Wylew and a Curb Stomp.
-*   Spartan eliminated Alex Brave after a Spartan Bomb.
-*   Lopez turned on Spartan, hitting him with a chair. Thus, Starboy was eliminated by DQ.
-*   Puncher eliminated Spartan, picking up a win for his team.
+  - Pawłowski eliminated Sigma Boy xD after a Wylew from Puncher and some offense of his own.
+  - Puncher eliminated Okoński after a Wylew and a Curb Stomp.
+  - Spartan eliminated Alex Brave after a Spartan Bomb.
+  - Lopez turned on Spartan, hitting him with a chair. Thus, Starboy was eliminated by DQ.
+  - Puncher eliminated Spartan, picking up a win for his team.
 * After Nietykalni won, Nano Lopez embraced them and celebrated together, thus joining the faction.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=435850)
+* [Full show on YouTube](https://www.youtube.com/watch?v=QNGM1wLsqvg&t=6364s) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/photo/?fbid=827086732977304&set=a.136592405360077)
-* [Official YouTube stream - requires paid subscription](https://www.youtube.com/watch?v=QNGM1wLsqvg&t=6364s)
 
 [konfirmacja]: https://www.facebook.com/reel/1184868053698977
 [pa-larka]: https://en.wikipedia.org/wiki/L._A._Park

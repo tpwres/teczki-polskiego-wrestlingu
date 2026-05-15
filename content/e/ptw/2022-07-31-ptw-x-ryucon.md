@@ -1,5 +1,5 @@
 +++
-title = "PTW X Ryucon 2022"
+title = "PTW X Ryucon"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
 [taxonomies]
@@ -8,6 +8,7 @@ venue = ["tauron-arena"]
 [extra]
 city = "Kraków"
 toclevel = 2
+has_video = true
 [extra.gallery]
 manifest = "@/e/ptw/2022-07-31-ptw-x-ryucon-gallery.toml"
 +++
@@ -23,7 +24,7 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
 ## Card
 
 {% card() %}
-- - '[Axel Fox](@/w/axel-fox.md)'
+- - '[Axel Fox](@/w/jakub.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
 - - '[Robert Star](@/w/robert-star.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'

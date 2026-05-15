@@ -3,14 +3,12 @@ title = "PpW Ledwo Legalne"
 template = "event_page.html"
 [taxonomies]
 chronology = ["ppw", "ledwo-legalne"]
-venue=["2kola"]
+venue = ["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-[extra.gallery.1]
-path = "2021-06-12-ppw-ledwo-legalne-plakat.jpg"
-caption = "Official poster, showing [Mister Z](@/w/mister-z.md) with the [PpW Championship](@/c/ppw-championship.md)."
-source = "Official PpW Facebook"
+has_video = true
+[extra.gallery]
 +++
 
 Ledwo Legalne (_Barely Legal_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) considered the official beginning of PpW's professional era. The show's name is a callback to 1997's Barely Legal by ECW, their first event broadcast live. It was also the first in the annual Ledwo Legalne series of supershows, focusing on payoffs to major storylines.
@@ -18,11 +16,19 @@ Ledwo Legalne (_Barely Legal_) was a show by [PpW Ewenement Wrestling](@/o/ppw.m
 ## Card
 
 {% card() %}
-- ["[Rob Scaffold](@/w/rob-scaffold.md)", "[Tony Sk1n](@/w/tony-sk1n.md)"]
-- ["[Madman Charlie](@/w/madman-charlie.md)", "[Isnorr](@/w/isnorr.md)"]
-- ["[Biesiad Strong](@/w/biesiad.md)", "[Adam Wong](@/w/adam-wong.md)"]
-- ["[Hades](@/w/olgierd.md)", "[Johnny Blade](@/w/johnny-blade.md)", {s: "Hardcore Match", nc: "Draw"}]
-- ["[Osamu](@/w/osamu.md)", "[Mister Z](@/w/mister-z.md)(c)", {c: "PpW Championship"}]
+- - '[Rob Scaffold](@/w/rob-scaffold.md)'
+  - '[Tony Sk1n](@/w/tony-sk1n.md)'
+- - '[Madman Charlie](@/w/sedzia-karol-gorski.md)'
+  - '[Isnorr](@/w/isnorr.md)'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Adam Wong](@/w/adam-wong.md)'
+- - '[Hades](@/w/olgierd.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - s: 'Hardcore Match'
+    nc: 'Draw'
+- - '[Osamu](@/w/osamu.md)'
+  - '[Mister Z](@/w/mister-z.md)(c)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Ring Announcer: Julian
@@ -33,4 +39,6 @@ Ledwo Legalne (_Barely Legal_) was a show by [PpW Ewenement Wrestling](@/o/ppw.m
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=383300)
 * [Full show on YouTube](https://www.youtube.com/watch?v=9PZhhykQF8s)
+* [Animated announcement: Mister Z vs Osamu](https://www.facebook.com/events/2688373498148282/?post_id=2900492460269717)
+* [Animated announcement: Rob Scaffold vs Tony Sk1n](https://www.facebook.com/events/2688373498148282/?post_id=2912650169053946)
 * [WrestleMap's article](https://www.wrestlemap.com/news/bts0oruue5ixwa6gswn19svx0lx3yu)

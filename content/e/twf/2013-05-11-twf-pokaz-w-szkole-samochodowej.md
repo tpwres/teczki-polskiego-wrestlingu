@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: Pokaz w Szkole Samochodowej w Toruniu was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 21st, 2013. It took place in one of Toruń's trade schools.

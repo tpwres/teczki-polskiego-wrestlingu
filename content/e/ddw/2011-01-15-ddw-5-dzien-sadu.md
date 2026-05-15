@@ -7,6 +7,7 @@ venue = ["gokis-katy-wroclawskie"]
 [extra]
 city = "Kąty Wrocławskie"
 toclevel = 2
+has_video = false
 [extra.gallery]
 manifest = "@/e/ddw/2011-01-15-ddw-5-dzien-sadu-gallery.toml"
 +++

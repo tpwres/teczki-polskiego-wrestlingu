@@ -6,6 +6,7 @@ chronology = ["dfw"]
 [extra]
 city = "Lipno"
 toclevel = 2
+has_video = true
 +++
 
 This was a single match, accompanying a charity event which collected donations towards leukemia treatment for a girl from Lipno, where the event took place. Wrestlers competed for the vacant DFW Championship belt.

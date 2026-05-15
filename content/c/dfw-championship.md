@@ -45,7 +45,7 @@ According to Chris Hunter, the belt weighed about 5 kilograms total. The main pl
 #### Quarter-finals
 
 {% free_card() %}
-- - '[Charlie](@/w/madman-charlie.md)'
+- - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[Norris](@/w/isnorr.md)'
   - en: '[DFW Tournament of Dreams I](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md)'
     ed: 2016-06-11
@@ -66,7 +66,7 @@ According to Chris Hunter, the belt weighed about 5 kilograms total. The main pl
 #### Semi-finals
 
 {% free_card() %}
-- - '[Charlie](@/w/madman-charlie.md)'
+- - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - '[PJ Blake](@/w/pj-blake.md)'
   - en: '[DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md)'
     ed: 2016-08-20
@@ -80,7 +80,7 @@ According to Chris Hunter, the belt weighed about 5 kilograms total. The main pl
 
 {% free_card() %}
 - - '[Chris Hunter](@/w/chris-hunter.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - en: '[DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md)'
     ed: 2016-08-20
 {% end %}
@@ -89,7 +89,7 @@ According to Chris Hunter, the belt weighed about 5 kilograms total. The main pl
 
 {% free_card() %}
 - - '[Chris Hunter](@/w/chris-hunter.md)'
-  - '[Charlie](@/w/madman-charlie.md)'
+  - '[Charlie](@/w/sedzia-karol-gorski.md)'
   - s: Singles match
     en: '[DFW Tournament of Dreams II](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md)'
     ed: 2016-08-20

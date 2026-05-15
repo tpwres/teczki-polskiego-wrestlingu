@@ -7,6 +7,7 @@ chronology = ["twf"]
 [extra]
 city = "Toruń"
 toclevel = 2
+has_video = false
 +++
 
 TWF: The Winter Fun #6 was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on February 9th, 2014.

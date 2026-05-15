@@ -25,7 +25,7 @@ Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), t
 
 #### Training and debut
 
-Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his career - started his in-ring career in 2024 by training at [Ewenement Dojo](@/o/ewenement-dojo.md). Coached by wrestlers such as [Jacob Crane](@/w/jacob-crane.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/axel-fox.md), he made his first appearance at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) exhibition show in Poznań. His official debut in front of the [PpW](@/o/ppw.md) audience took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in a pre-show match against the victorious [Sambor](@/w/sambor.md), as well as Sentinel, Wonder Haze and Atilla. 
+Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his career - started his in-ring career in 2024 by training at [Ewenement Dojo](@/o/ewenement-dojo.md). Coached by wrestlers such as [Jacob Crane](@/w/jacob-crane.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/jakub.md), he made his first appearance at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) exhibition show in Poznań. His official debut in front of the [PpW](@/o/ppw.md) audience took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in a pre-show match against the victorious [Sambor](@/w/sambor.md), as well as Sentinel, Wonder Haze and Atilla. 
 
 #### Run as a rookie
 

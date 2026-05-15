@@ -1,0 +1,22 @@
+{%- if has_photos -%}
+  {%- set p_title = "Photo gallery included" %}{% set p_class = "" -%}
+{%- else -%}
+  {%- set p_title = "No photos available" %} {% set p_class = "dim" -%}
+{%- endif -%}
+{%- if has_video -%}
+  {%- set v_title = "Has links to video." %}{% set v_class = "" -%}
+{%- else -%}
+  {%- set v_title = "No video available" %}{% set v_class = "dim" -%}
+{%- endif -%}
+<div class="i">
+    {%- filter spaceless -%}
+    <svg viewBox="0 0 24 24" class="feather-inline av {{ p_class }}" role="img" aria-hidden="true">
+        <title>{{ p_title }}</title>
+        <use href="{{ sprite }}#image"/>
+    </svg>
+    <svg viewBox="0 0 24 24" class="feather-inline av {{ v_class }}" role="img" aria-hidden="true">
+        <title>{{ v_title }}</title>
+        <use href="{{ sprite }}#film" />
+    </svg>
+    {%- endfilter -%}
+</div>
