@@ -59,7 +59,7 @@ The belt is made out of thin metal sheets with gold-and-black lettering and orna
   - s: Fatal Four-Way Match
     en: '[MCW Damage Control](@/e/mcw/2023-12-16-mcw-damage-control.md)'
     ed: 2023-12-16
-- - 'Jack Kalom'
+- - '[Jack Kalom](@/w/jack-kalom.md)'
   - 'RAV(c)'
   - s: No-DQ Match
     en: '[MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)'
@@ -71,7 +71,7 @@ The belt is made out of thin metal sheets with gold-and-black lettering and orna
 ### Champion #3: Jack Kalom
 
 {% free_card() %}
-- - 'Jack Kalom'
+- - '[Jack Kalom](@/w/jack-kalom.md)'
   - '[RAV](@/w/rav.md)(c)'
   - s: No-DQ Match
     en: '[MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)'
