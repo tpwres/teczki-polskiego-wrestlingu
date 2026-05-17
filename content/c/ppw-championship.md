@@ -295,12 +295,25 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Dog Collar Match
     en: '[PpW Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md)'
     ed: 2026-04-25
-- - '"Chain God" Olgierd (c)'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '"Chain God" Olgierd (c)'
   - '"Polski Cieśla" Biesiad Strong'
   - s: Singles Match
     en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16
-    nc: upcoming
+{% end %}
+
+**Total: 161 days**, including the only confirmed defense outside of Poland.
+
+### Champion #10: Gabriel Queen
+
+{% free_card() %}
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '"Chain God" Olgierd (c)'
+  - '"Polski Cieśla" Biesiad Strong'
+  - s: Singles Match
+    en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    ed: 2026-05-16
 {% end %}
 
 ## References

@@ -113,7 +113,18 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
   - s: Tag Team Match
     en: '[Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16
-    nc: upcoming
+{% end %}
+
+**Total: 77 days**
+
+### Champions #2: Bad Trip: Gustav Gryffin & Goblin
+
+{% free_card() %}
+- - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - 'Zmowa: Marco Hammers & Jakub(c)'
+  - s: Tag Team Match
+    en: '[Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    ed: 2026-05-16
 {% end %}
 
 ## References

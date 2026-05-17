@@ -153,20 +153,20 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
 
 {% championship() %}
 - - '[PpW Championship](@/c/ppw-championship.md)'
-  - '[Olgierd](@/w/olgierd.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - >
-    Defeated [Goblin](@/w/goblin.md) in a Chain God Realm Match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+    Defeated [Olgierd](@/w/olgierd.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) after cashing in a #1 Contender Opportunity won earlier the same night.
 - - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
   - '[Abdullah Kobayashi](@/w/abdullah-kobayashi.md)'
   - >
     Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
-  - > 
-    Defeated [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)) and Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
+  - 'Bad Trip: [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
+  - >
+    Defeated [Zmowa](@/tt/zmowa.md) represented by [Jakub](@/w/jakub.md) & [Marco Hammers](@/w/marco-hammers.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
 {% end %}
 
-Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
+Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md). A number of these backyard belts were presented at [Udawana Wystawa](@/a/udawana-wystawa.md).
 
 ## Internet presence
 
