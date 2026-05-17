@@ -309,8 +309,8 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
 
 {% free_card() %}
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
-  - '"Chain God" Olgierd (c)'
-  - '"Polski Cieśla" Biesiad Strong'
+  - '["Chain God" Olgierd](@/w/olgierd.md) (c)'
+  - '["Polski Cieśla" Biesiad Strong](@/w/biesiad.md)'
   - s: Singles Match
     en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16

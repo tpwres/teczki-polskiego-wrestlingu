@@ -42,6 +42,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) was [PpW Ewenement's](@/o/ppw.md) major show 
     n: The match was advertised with a sixth mystery competitor, who turned out to be Gabriel Queen.
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mister Z](@/w/mister-z.md)'
+  - r: Submission
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Sentinel](@/w/sentinel.md)'
 - - '[Bartosz Plata](@/w/plata.md) & [Markus Paskal](@/w/markus-paskal.md)'
@@ -64,7 +65,8 @@ Ledwo Legalne 6 (_Barely Legal 6_) was [PpW Ewenement's](@/o/ppw.md) major show 
   - '["Chain God" Olgierd](@/w/olgierd.md)(c)'
   - '["Polski Cieśla" Biesiad Strong](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    n: Gabriel Queen entered unannounced, cashing in his contract won in the opening match.
+    s: Three-Way Match
+    n: Gabriel Queen entered unannounced, cashing in the contract he won in the opening match.
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)'
@@ -72,13 +74,13 @@ Ledwo Legalne 6 (_Barely Legal 6_) was [PpW Ewenement's](@/o/ppw.md) major show 
 
 ### Highlights
 
-* [Mutant](@/w/mutant.md) entered with a striking new look - wearing red body-paint and new overalls (instead of his usual short trunks)
-* The main event was booked as a singles match, however the #1 Contender Ladder Match winner [Gabriel Queen](@/w/gabriel-queen.md) decided to cash in his opportunity and join, turning it into a Triple Threat. He used different gear for the two matches - a silver trunks and headband for the ladder match, then his usual red for the main event.
-* After the show, MBM praised PpW and Polish wrestling on his Facebook profile. with a post in both French and English.
+* [Mutant](@/w/mutant.md) entered with a striking new look - wearing red body paint and new overalls instead of his usual short trunks.
+* The main event was booked as a Singles Match, however the #1 Contender Ladder Match winner [Gabriel Queen](@/w/gabriel-queen.md) decided to cash in his opportunity and join, turning it into a Triple Threat. He used different gear for the two matches - silver trunks and a headband for the ladder match, then his usual red for the main event.
+* After the show, MBM praised PpW and Polish wrestling on his Facebook profile with a post in both French and English.
   > Croyez-moi, le catch en Pologne va exploser dans les prochaines années. Personne n’est prêt pour ce qu’il se passe ici. 🇵🇱🔥 \
   > Believe me, wrestling in Poland is about to explode in the next few years. Nobody is ready for what’s happening here. 🇵🇱 \
   > source: [Mathias Caltagirone on Facebook](https://www.facebook.com/mathias.caltagirone/posts/pfbid06rKYtGjkRkpzACK915M6zoKY57CT33U9TK465jrNmmqbv4sPMLDSh7iFiX65BmL1l)
- * Among various items at the merch stand were also the paintings from [Udawana Wystawa](@/a/udawana-wystawa.md) - three images of [Biesiad](@/w/biesiad.md) on pieces of a broken table, and some of the chair seat portraits.
+* Among various items at the merch stand were also the paintings from [Udawana Wystawa](@/a/udawana-wystawa.md) - three images of [Biesiad](@/w/biesiad.md) on pieces of a broken table, and some of the chair seat portraits.
 
 ## References
 

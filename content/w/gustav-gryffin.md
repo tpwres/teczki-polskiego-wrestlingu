@@ -126,8 +126,9 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
 
 ## Championships and accomplishments
 
-* PpW Ewenement:
+* PpW Ewenement Wrestling:
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; current) - with [Goblin](@/w/goblin.md)
   - [Złoty Ewenement](@/a/zlote-ewenementy.md) (3 times):
     - Wrestler of the Year (2025)
     - Match of the Year - vs [Goblin](@/w/goblin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)

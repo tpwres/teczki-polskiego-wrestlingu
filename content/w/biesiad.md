@@ -138,7 +138,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 
 ## Championships and accomplishments
 
-* [PpW Ewenement](@/o/ppw.md):
+* [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (2 times)
   - Turniej TypeShit (2025)
 
