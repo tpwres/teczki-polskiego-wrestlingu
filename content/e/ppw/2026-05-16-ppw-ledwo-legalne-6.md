@@ -38,7 +38,8 @@ Ledwo Legalne 6 (_Barely Legal 6_) was [PpW Ewenement's](@/o/ppw.md) major show 
   - 'MBM'
   - '[Mutant](@/w/mutant.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: '#1 Contender Ladder Match'
+    s: 'Championship Contract Ladder Match'
+    n: The match was advertised with a sixth mystery competitor, who turned out to be Gabriel Queen.
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mister Z](@/w/mister-z.md)'
 - - '[Max Speed](@/w/max-speed.md)'
@@ -63,6 +64,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) was [PpW Ewenement's](@/o/ppw.md) major show 
   - '["Chain God" Olgierd](@/w/olgierd.md)(c)'
   - '["Polski Cieśla" Biesiad Strong](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
+    n: Gabriel Queen entered unannounced, cashing in his contract won in the opening match.
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)'
