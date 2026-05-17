@@ -42,6 +42,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) was [PpW Ewenement's](@/o/ppw.md) major show 
     n: The match was advertised with a sixth mystery competitor, who turned out to be Gabriel Queen.
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mister Z](@/w/mister-z.md)'
+  - r: Submission
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Sentinel](@/w/sentinel.md)'
 - - '[Bartosz Plata](@/w/plata.md) & [Markus Paskal](@/w/markus-paskal.md)'
