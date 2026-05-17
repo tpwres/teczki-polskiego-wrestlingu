@@ -64,6 +64,7 @@ Ledwo Legalne 6 (_Barely Legal 6_) was [PpW Ewenement's](@/o/ppw.md) major show 
   - '["Chain God" Olgierd](@/w/olgierd.md)(c)'
   - '["Polski Cieśla" Biesiad Strong](@/w/biesiad.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: Three-Way Match
     n: Gabriel Queen entered unannounced, cashing in his contract won in the opening match.
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
