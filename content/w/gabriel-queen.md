@@ -126,6 +126,7 @@ In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to 
   - [PTW Awards](@/a/ptw-awards.md) (1 time)
     * Tag Team of the Year (as [Pure Gold](@/tt/pure-gold.md)) (2022)
 * [PpW Ewenement Wrestling](@/o/ppw.md):
+  - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
   - Golden Goat Trophy (1 time)
 
 ## Internet presence

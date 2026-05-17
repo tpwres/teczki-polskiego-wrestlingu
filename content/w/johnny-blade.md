@@ -111,7 +111,7 @@ On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursi
 
 ## Championships and accomplishments
 
-* [PpW Ewenement](@/o/ppw.md):
+* [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (2 times; inaugural)
   - VcV Hardcore Championship (1 time)
 
