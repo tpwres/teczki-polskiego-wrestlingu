@@ -14,8 +14,6 @@ has_video = false
 
 More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festival 2026][mystic] in Gdańsk that will take place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's {{ map_pin(v="Mystic Festival's Chill Out Zone") }}Chill Out Zone. A follow-up to the [last year's edition](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md), this event expands on the formula by coverting each day of the festival, with fights scheduled hourly between 6:00&nbsp;PM and 9:00&nbsp;PM.
 
-## Card
-
 {{ skip_card() }}
 
 ### Recap
