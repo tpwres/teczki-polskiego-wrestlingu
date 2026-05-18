@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "jack-kalom.webp", caption = "Jack Kalom holding the [MCW Championship](@/c/mcw-championship.md) at [MCW Championship](@/c/mcw-championship.md).", source = "Official MCW Facebook" }
 +++
 
-Jack Kalom is a Polish wrestler working for [Mine City Wrestling](@/o/mcw.md). His ringname is presumably a reference to [Cor Kalom][guru], a final antagonist of video game _Gothic_.
+Jack Kalom is a Polish wrestler working for [Mine City Wrestling](@/o/mcw.md). His ringname is presumably a reference to [Cor Kalom][guru], the final antagonist of video game _Gothic_.
 
 ## Basic info 
 
