@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "jack-kalom.webp", caption = "Jack Kalom holding the [MCW Championship](@/c/mcw-championship.md) at [MCW Championship](@/c/mcw-championship.md).", source = "Official MCW Facebook" }
 +++
 
-Jack Kalom is a Polish wrestler working for [Mine City Wrestling](@/o/mcw.md). His ringname is presumably a reference to [Cor Kalom][guru], the final antagonist of video game _Gothic_.
+Jack Kalom is a Polish wrestler working for [Mine City Wrestling](@/o/mcw.md). His ringname appears to be a reference to [Cor Kalom][guru] - the final antagonist of video game _Gothic_, which is a cult classic in Poland.
 
 ## Basic info 
 
@@ -43,5 +43,4 @@ Jack Kalom debuted for MCW at [Damage Control](@/e/mcw/2023-12-16-mcw-damage-con
 * [Mine City Wrestling](@/o/mcw.md):
   - [MCW Championship](@/o/mcw.md) (1 time; current)
  
-
 [guru]: https://gothic.wiki/w/Cor_Kalom
