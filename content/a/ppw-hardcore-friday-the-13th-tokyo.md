@@ -53,7 +53,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
     s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
 - credits:
-    Referee: '？？？ (???), [レフェリ マルティナ](@/w/istotna-martynka.md) (Referee Martyna)'
+    Referee: '？？？ (???), [レフェリ・マルティナ](@/w/istotna-martynka.md) (Referee Martyna)'
     Ring announcer: '？？？ (???)'
 {% end %}
 
