@@ -16,9 +16,16 @@ MZW Forever 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a 
 
 ## Build-up
 
-* TBD
+* MZW began revealing the card on 18.05.2026 with a Chairs Match between [Olgierd](@/w/olgierd.md) and [Marcelito](@/w/marcelito.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - c: Chairs Match
+    nc: upcoming
+{% end %}
 
 ### Recap
 
