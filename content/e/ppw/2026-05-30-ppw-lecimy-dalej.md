@@ -19,6 +19,8 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 * The event was first made known through the ticketing website Stage24 prior to any official post from the promotion, which came a few hours later.
 * The first match, announced on 29.04.2026, was [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md). At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Queen turned on Vic and left [Rodzina](@/tt/rodzina.md).
 * On 7.05.2026 PpW announced [Bartosz Plata](@/w/plata.md) vs German-Kazakh wrestler Danil Mamedov.
+* On 19.05.2026 came the announcement of [Jacob Crane](@/w/jacob-crane.md) vs Emil Völler.
+* The next day Bad Trip ([Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)) challenged [Antoni Ocean](@/w/antoni-ocean.md) & [Leon Lato](@/w/leon-lato.md) to a match for their [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md).
 
 ## Predicted card
 
@@ -28,7 +30,15 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
   - nc: upcoming
 - - '[Bartosz Plata](@/w/plata.md)'
   - 'Danil Mamedov'
-  - nc: upcoming  
+  - nc: upcoming
+- - 'Emil Völler'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - nc: upcoming
+- - 'Bad Trip: [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)(c)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md) & [Leon Lato](@/w/leon-lato.md)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: Tag Team Match
+    nc: upcoming    
 {% end %}
 
 ### Highlights

@@ -111,7 +111,7 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
 - - 'Bad Trip: Goblin & Gustav Gryffin'
   - 'Zmowa: Marco Hammers & Jakub(c)'
   - s: Tag Team Match
-    en: '[Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16
 {% end %}
 
@@ -123,8 +123,14 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
 - - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md)(c)'
   - s: Tag Team Match
-    en: '[Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16
+- - 'Bad Trip: Goblin & Gustav Gryffin(c)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md) & [Leon Lato](@/w/leon-lato.md)'
+  - s: Tag Team Match
+    en: '[PpW Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md)'
+    ed: 2026-05-30
+    nc: upcoming
 {% end %}
 
 ## References
