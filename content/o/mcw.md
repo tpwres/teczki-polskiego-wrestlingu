@@ -46,7 +46,7 @@ MCW has one singles championship, which was introduced in late 2019.
 
 {% championship() %}
 - - '[MCW Championship](@/c/mcw-championship.md)'
-  - Jack Kalom
+  - '[Jack Kalom](@/w/jack-kalom.md)'
   - Defeated [RAV](@/w/rav.md) at [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)
 {% end %}
 
