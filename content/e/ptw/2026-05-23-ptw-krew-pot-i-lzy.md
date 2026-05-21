@@ -23,6 +23,7 @@ has_video = false
 * On 13.05.2026 came the announcement of [Misiek](@/w/misiek.md) vs [Sawicki](@/w/sawicki.md).
 * A title match for the [PTW Championship](@/c/ptw-championship.md) between the reigning Champion [Spartan](@/w/spartan.md) and the Hungarian [Blaze](@/w/blaze.md) was announced on 13.04.2026.
 * The next day saw the announcement of [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) vs Miyagi Sigma ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) in a Ladder Match.
+* On 20.05.2026 PTW posted that El Clavo will appear at the show in an unspecified capacity.
 
 ## Predicted card
 
@@ -55,6 +56,9 @@ has_video = false
   - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: Ladder Match
     nc: upcoming
+- - 'El Clavo'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ### Recap
