@@ -99,7 +99,7 @@ In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to 
 ## In wrestling
 
 * Finishers:
-  - _Gab Driver 01'_ (Michinoku Driver) (2021-)
+  - _Gab Driver 01_ (Michinoku Driver) (2021-)
   - Running Lariat (2024-)
   - Single Leg Boston Crab (2023)
   - Double Underhook Inverted Slam (2021)
