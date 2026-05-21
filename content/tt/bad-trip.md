@@ -13,7 +13,7 @@ Bad Trip are a Polish tag team consisting of [Gustav Gryffin](@/w/gustav-gryffin
 
 ## History
 
-### PpW Ewenement Pro Wrestling (2025-)
+### PpW Ewenement Pro Wrestling (2026-)
 
 Initially bitter enemies, Gustav and Goblin were pushed by circumstances to for an uneasy alliance. At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) Gustav - then a member of [Zmowa](@/tt/zmowa.md) - turned on the stable leader [Mister Z](@/w/mister-z.md), turning face in the process. Later at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Gryffin severed the remaining ties to the group by helping [Goblin](@/w/goblin.md) get the upper hand over Mister Z.
 
