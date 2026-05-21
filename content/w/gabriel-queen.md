@@ -50,7 +50,7 @@ Shortly after that loss Vic Golden suffered an injury, and was sidelined for a c
 Over that time Gabriel Queen aligned for a short while with Legia Łysych ([Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md) and Karyna), but the alliance was quickly turned into a feud, which resulted in a loss against Olgierd in a [Street Fight](@/e/ptw/2023-09-03-ptw-underground-17.md), and a victory against Marco Hammers at [PTW Underground 18](@/e/ptw/2023-10-01-ptw-underground-18.md).
 That show marks his last appearance in the PTW ring.
 
-### PpW Ewenement (2024-)
+### PpW Ewenement (2024-present)
 
 #### Debut and feud with Zmowa
 
