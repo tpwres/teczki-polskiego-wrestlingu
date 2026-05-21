@@ -161,7 +161,7 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - 'Bad Trip: [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
+  - '[Bad Trip](@/tt/bad-trip.md): [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - >
     Defeated [Zmowa](@/tt/zmowa.md) represented by [Jakub](@/w/jakub.md) & [Marco Hammers](@/w/marco-hammers.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
 {% end %}

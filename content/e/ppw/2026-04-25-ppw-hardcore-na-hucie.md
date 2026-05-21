@@ -43,7 +43,7 @@ Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
   - 'Emil Völler'
 - - '[Jacob Crane](@/w/jacob-crane.md) & [Biesiad Strong](@/w/biesiad.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md)'
-  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: No Holds Barred 3-Way Tag Team Match
 - - '[Vic Golden](@/w/vic-golden.md) & [Marco Hammers](@/w/marco-hammers.md)'
   - '[Isnorr](@/w/isnorr.md) & [Gabriel Queen](@/w/gabriel-queen.md)'

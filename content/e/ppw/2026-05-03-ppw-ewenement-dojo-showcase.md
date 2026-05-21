@@ -27,7 +27,7 @@ The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase was held on the 
 ## Card
 
 {% card() %}
-- - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
 - - '[_rookie_ Gringo](@/w/jakub.md)'
   - '_rookie_ Młody'
