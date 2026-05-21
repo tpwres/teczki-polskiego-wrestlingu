@@ -70,6 +70,8 @@ Later that night, Gabriel attacked Gustav after his match with [Johnny Blade](@/
 
 At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold teamed up against Gustav and Isnorr. The match resulted in Gustav and Isnorr's defeat, after Vic Golden pinned Isnorr. Nevertheless, it was Gustav's first defeat during his title reign, and Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the match, just before Gabriel Queen went for the second pinfall and victory, he was struck with a chair by long-time friend Vic Golden, which allowed Gustav to defeat Gabriel and end their feud.
 
+A little over a year later, at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), Queen defeated the reigning Champion [Olgierd](@/w/olgierd.md), thus becoming the new title holder. In a [video][noventa-baitem-gros-noventa-nuova-era] published before [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md) he announced the beginning of the "Era Poznańskiego Luja" (_Poznań Rascal Era_).
+
 #### Feud with Vic Golden
 
 After Vic's shocking betrayal, Gabriel desperately wanted to put his hands on Legend-turned-Judas, Golden. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Queen unfortunately lowered his guard after scoring a victory over [Oskar Alexander](@/w/oskar-alexander.md), which allowed Golden to vicously attack Queen once more, explaining his hatered towards Queen caused by the fact that everyone saw Gabriel as "the better one" in Pure Gold. Golden challenged Queen to a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). During that match [the referee](@/w/sedzia-karol-gorski.md) was knocked out, which prevented Queen from winning. This led to Queen granbing a chair to attack Golden, but the assault was stopped by Oskar Alexander who seemingly joined Vic's side and helped him defeat Queen.
@@ -140,3 +142,4 @@ In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to 
 * [BJW's announcement of Gabriel Queen's debut](https://x.com/bjwofficial/status/2022996603234378061)
 
 [bjw-voy]: https://bjw.co.jp/schedule/s2026-03-07/
+[noventa-baitem-gros-noventa-nuova-era]: https://www.facebook.com/reel/998631633222564

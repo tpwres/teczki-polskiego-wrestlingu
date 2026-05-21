@@ -314,6 +314,12 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles Match
     en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16
+- - 'Gabriel Queen(c)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+  - s: Singles Match
+    en: '[PpW Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md)'
+    ed: 2026-05-30
+    nd: upcoming
 {% end %}
 
 ## References
