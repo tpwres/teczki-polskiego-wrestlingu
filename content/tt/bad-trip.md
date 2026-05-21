@@ -6,7 +6,7 @@ authors = ["M3n747"]
 toclevel = 3
 orgs = ["ppw"]
 [extra.gallery]
-1 = { path = "end-niu.webp", caption = "[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) with the [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md) after [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).", source = "M3n747" }
+1 = { path = "end-niu.webp", caption = "[Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) with the [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md) after [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).", source = "Official PpW Facebook" }
 +++
 
 Bad Trip are a Polish tag team consisting of [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md).
