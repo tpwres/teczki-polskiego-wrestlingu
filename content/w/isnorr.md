@@ -65,7 +65,7 @@ At [Teraz Albo Nigdy](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Isnorr entered 
 
 #### Return
 
-Isnorr made a surprise return at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), where he participated in the 25 Typa 25 Broni Battle Royal but was eliminated towards the end of the bout. He then promptly followed up by facing [Filip Fux](@/w/filip-fux.md) and [Antoni Ocean](@/w/antoni-ocean.md) in a Three Way Match at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), vying for a spot in the Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
+Isnorr made a surprise return at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), where he participated in the 25 Typa 25 Broni Battle Royal but was eliminated towards the end of the bout. He then promptly followed up by facing [Filip Fux](@/w/filip-fux.md) and [Antoni Ocean](@/w/antoni-ocean.md) in a Three Way Match at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), vying for a spot in the Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). After him and [ Gabriel Queen](@/w/gabriel-queen.md) lost to Rodzina/Zmowa alliance at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), [Vic Golden](@/w/vic-golden.md) gave Isnorr [Rodzina](@/tt/rodzina.md)'s armband, giving him time to decide on joining. At Ledwo Legalne Isnorr made his decision laying out his tag team partner [Agentka Agatka](@/w/agentka-agatka.md) and celebrating with members of Rodzina, thus joining the stable.
 
 #### Commentary team
 
@@ -79,6 +79,7 @@ From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md
   - Frog Splash (2017)
 * Tag Teams and stables
   - [Zmowa](@/tt/zmowa.md) (2024-2025)
+  - [Rodzina](@/tt/rodzina.md) (2026-)
 * Wrestlers managed:
   - [Nathan Cross](@/w/gabriel-queen.md) (2021)
 * Entrance music:
