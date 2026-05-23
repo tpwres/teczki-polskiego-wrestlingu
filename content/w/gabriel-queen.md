@@ -50,7 +50,7 @@ Shortly after that loss Vic Golden suffered an injury, and was sidelined for a c
 Over that time Gabriel Queen aligned for a short while with Legia Łysych ([Marco Hammers](@/w/marco-hammers.md), [Olgierd](@/w/olgierd.md) and Karyna), but the alliance was quickly turned into a feud, which resulted in a loss against Olgierd in a [Street Fight](@/e/ptw/2023-09-03-ptw-underground-17.md), and a victory against Marco Hammers at [PTW Underground 18](@/e/ptw/2023-10-01-ptw-underground-18.md).
 That show marks his last appearance in the PTW ring.
 
-### PpW Ewenement (2024-)
+### PpW Ewenement (2024-present)
 
 #### Debut and feud with Zmowa
 
@@ -69,6 +69,8 @@ At [Hardcore Friday: Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-frida
 Later that night, Gabriel attacked Gustav after his match with [Johnny Blade](@/w/johnny-blade.md), and introduced his gloved thumb into Gustav's rectum. The humiliated champion accepted the fact that he would have to face Gabriel at Gruba Przesada. At that show, just before the match started, he stipulated a 15 minute time limit, stating that he values his time. Due to a referee knock-out, Queen was unable to win the Championship.
 
 At [Hardcore Friday 21.000](@/e/ppw/2025-02-21-ppw-hardcore-friday.md) Pure Gold teamed up against Gustav and Isnorr. The match resulted in Gustav and Isnorr's defeat, after Vic Golden pinned Isnorr. Nevertheless, it was Gustav's first defeat during his title reign, and Gabriel challenged Gustav for a rematch at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). The match was set up in a Two Out Of Three Falls stipulation, and during the match, just before Gabriel Queen went for the second pinfall and victory, he was struck with a chair by long-time friend Vic Golden, which allowed Gustav to defeat Gabriel and end their feud.
+
+A little over a year later, at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), Queen defeated the reigning Champion [Olgierd](@/w/olgierd.md), thus becoming the new title holder. In a [video][noventa-baitem-gros-noventa-nuova-era] published before [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md) he announced the beginning of the "Era Poznańskiego Luja" (_Poznań Rascal Era_).
 
 #### Feud with Vic Golden
 
@@ -97,7 +99,7 @@ In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to 
 ## In wrestling
 
 * Finishers:
-  - _Gab Driver 01'_ (Michinoku Driver) (2021-)
+  - _Gab Driver '01_ (Michinoku Driver) (2021-)
   - Running Lariat (2024-)
   - Single Leg Boston Crab (2023)
   - Double Underhook Inverted Slam (2021)
@@ -140,3 +142,4 @@ In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to 
 * [BJW's announcement of Gabriel Queen's debut](https://x.com/bjwofficial/status/2022996603234378061)
 
 [bjw-voy]: https://bjw.co.jp/schedule/s2026-03-07/
+[noventa-baitem-gros-noventa-nuova-era]: https://www.facebook.com/reel/998631633222564
