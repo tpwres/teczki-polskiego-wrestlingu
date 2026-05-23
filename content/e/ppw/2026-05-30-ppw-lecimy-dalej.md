@@ -22,6 +22,7 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 * On 19.05.2026 came the announcement of [Jacob Crane](@/w/jacob-crane.md) vs Emil Völler.
 * The next day Bad Trip ([Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)) challenged [Antoni Ocean](@/w/antoni-ocean.md) & [Leon Lato](@/w/leon-lato.md) to a match for their [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md).
 * On 21.05.2026 the new PpW Champion [Gabriel Queen](@/w/gabriel-queen.md) published a [video][moja-starsza-siostra-mowi-nie-zadawaj-sie-z-lujami] in which he accepted [Vic Golden's](@/w/vic-golden.md) earlier [demand][vic-chce-pasa] that their match be for the [PpW Championship](@/c/ppw-championship.md). However, Queen added one condition: if Vic loses, no other member of [Rodzina](@/tt/rodzina.md) will fight for the title as long as Queen remains the Champion. The match was officially confirmed later the same day.
+* A [video][psze-paniom-a-oni-sie-bijom] published on 22.05.2026 showed cracks beginning to form in [Zmowa](@/tt/zmowa.md), with [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md) and [Jakub](@/w/jakub.md) accusing one another of losing their Championship titles. After a brief physical altercation, Mister Z agreed for Olgierd and Jakub to fight one another at the upcoming show, with himself as the special guest referee. The match was officially confirmed a couple of hours later.
 
 ## Predicted card
 
@@ -41,6 +42,13 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
   - '[Vic Golden](@/w/vic-golden.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Jakub](@/w/jakub.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: '#1 Contender'
+    nc: upcoming
+- credits:
+    Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
 {% end %}
 
 ### Highlights
@@ -55,3 +63,4 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 
 [moja-starsza-siostra-mowi-nie-zadawaj-sie-z-lujami]: https://www.facebook.com/reel/998631633222564
 [vic-chce-pasa]: https://www.facebook.com/reel/1461618508561465
+[psze-paniom-a-oni-sie-bijom]: https://www.facebook.com/reel/2148760135972661
