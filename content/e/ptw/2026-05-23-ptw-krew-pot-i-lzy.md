@@ -1,18 +1,18 @@
 +++
 title = "PTW: Krew, Pot i Łzy"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747, Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
-"Krew, Pot i Łzy" (_Blood, Sweat and Tears_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced alongside [PTW: Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md).
+"Krew, Pot i Łzy" (_Blood, Sweat and Tears_) was a show by [Prime Time Wrestling](@/o/ptw.md). It was announced alongside [PTW: Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md).
 
 ## Build-up
 
@@ -25,7 +25,7 @@ has_video = false
 * The next day saw the announcement of [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) vs Miyagi Sigma ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) in a Ladder Match.
 * On 20.05.2026 PTW posted that El Clavo will appear at the show in an unspecified capacity.
 
-## Predicted card
+## Card
 
 {% card %}
 - - '[Spartan](@/w/spartan.md)(c)'
@@ -77,5 +77,6 @@ has_video = false
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=450402)
 * [Facebook post announcing the show][zapowiedz]
+* [Full show on YouTube](https://www.youtube.com/watch?v=aRd3zGtyPl8) (requires paid subscription)
 
 [zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1218460120359712:1218460120359712
