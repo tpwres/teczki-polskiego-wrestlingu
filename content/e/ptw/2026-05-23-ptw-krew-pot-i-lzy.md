@@ -27,7 +27,7 @@ has_video = true
 
 ## Card
 
-{% card %}
+{% card() %}
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Blaze](@/w/blaze.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
@@ -40,10 +40,10 @@ has_video = true
   - '["The Voice" Daniel Razor](@/w/daniel-razor.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     s: Last Man Standing Match
-    n: Lopez tied Razor's legs to the turnbuckle post making him unable to stand up
+    n: Lopez tied Razor's legs to a turnbuckle post, preventing him from standing up.
 - - 'Dominique VaDique'
-  - g: Dominique feigns the introduction of [Fabian](@/w/fabian.md) and addresses [Diana Strong](@/w/diana-strong.md) 
-- - 'The Lancadores: M.R.D. & Kenny B.; Tori Fox'
+  - g: Dominique feigns the introduction of [Fabian](@/w/fabian.md) and addresses [Diana Strong](@/w/diana-strong.md).
+- - 'The Lancadores: M.R.D. & Kenny B. w/ Tori Fox'
   - 'El Clavo & Omar Prince'
   - s: Tag Team Match
 - - '[Whiteblade](@/w/whiteblade.md)'
@@ -51,7 +51,7 @@ has_video = true
   - s: Tables Match
 - - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-    - s: Ladder Match
+  - s: Ladder Match
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     PTW Chairman: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
