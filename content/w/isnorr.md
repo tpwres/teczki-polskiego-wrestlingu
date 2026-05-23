@@ -79,6 +79,7 @@ From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md
   - Frog Splash (2017)
 * Tag Teams and stables
   - [Zmowa](@/tt/zmowa.md) (2024-2025)
+  - [Rodzina](@/tt/rodzina.md) (2026-)
 * Wrestlers managed:
   - [Nathan Cross](@/w/gabriel-queen.md) (2021)
 * Entrance music:

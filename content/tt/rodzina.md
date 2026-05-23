@@ -43,6 +43,7 @@ At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Vic Golden returned 
 * [Oskar Alexander](@/w/oskar-alexander.md) - the Protégé ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
 * [Robert Star](@/w/robert-star.md) - the Son ([Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) - present)
 * [Filip Fux](@/w/filip-fux.md) - the Import ([Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) - present)
+* [Isnorr](@/w/isnorr.md) - the New Guy ([Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) - present)
 
 ## Former members
 * [Agentka Agatka](@/w/agentka-agatka.md) - the Mother ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md))
