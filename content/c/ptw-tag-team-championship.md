@@ -198,7 +198,7 @@ While Boro never defended the title, he was also recognized as a champion per th
     ed: 2025-05-31
     en: '[PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
 - - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
-  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: Tag Team Match
     en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-05-31
@@ -232,7 +232,7 @@ While Boro never defended the title, he was also recognized as a champion per th
 ### Champions #5: Miyagi Sigma: Miyagi Shida & Sigma Boy xD
 
 {% free_card() %}
-- - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
   - en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
     ed: 2026-01-31

@@ -255,7 +255,7 @@ One noteworthy deal between PTW and a bigger promotion was an agreement with Imp
   - '[Spartan](@/w/spartan.md)'
   - Defeated [Puncher](@/w/puncher.md) at [PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
 - - '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - >
     Defeated [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) at  [PTW Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md).
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
