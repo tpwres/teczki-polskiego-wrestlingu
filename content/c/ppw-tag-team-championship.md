@@ -37,7 +37,7 @@ In addition, [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md)
 
 The tournament seemingly involved the [Freebird Rule][freebird-rule]. Oskar Alexander advanced to the finals with Vic Golden and later fought Gustav & Goblin together with [Gabriel Queen](@/w/gabriel-queen.md). This was supposedly Rodzina's designed representation for the finals, but later it was [confirmed][queena-nie-bedzie] that due to Queen's obstruction, he would not be joining Alexander in the finals. Instead, a new member of Rodzina would fight for the title. That member was revealed to be [Filip Fux](@/w/filip-fux.md).
 
-The tournament finals took place at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where Rodzina, Zmowa and Bad Trip (Gustav Gryffin & Goblin) faced each other in a Triple Threat Tag Team Tables Elimination Match. Zmowa won the fight, crowning all the members of the stable as inaugural PpW Tag Team Champions.
+The tournament finals took place at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where Rodzina, Zmowa and [Bad Trip](@/tt/bad-trip.md) (Gustav Gryffin & Goblin) faced each other in a Triple Threat Tag Team Tables Elimination Match. Zmowa won the fight, crowning all the members of the stable as inaugural PpW Tag Team Champions.
 
 ## Belt design
 
@@ -85,7 +85,7 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 
 {% free_card() %}
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
-  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - s: Triple Threat Tag Team Tables Elimination Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
@@ -98,7 +98,7 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
 
 {% free_card() %}
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
-  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - s: Triple Threat Tag Team Tables Elimination Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
@@ -120,7 +120,7 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
 ### Champions #2: Bad Trip: Gustav Gryffin & Goblin
 
 {% free_card() %}
-- - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md)(c)'
   - s: Tag Team Match
     en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'

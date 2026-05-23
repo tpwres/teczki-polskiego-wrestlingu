@@ -42,7 +42,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - 'リアル・ファッキング・ディール [Z-さん](@/w/mister-z.md) ("The Real Fucking Deal" Mister Z)'
   - s: シンガポール・ケーン・マッチ (Singapore Cane Match)
 - - 'Okami: 神谷英慶  (Hideyoshi Kamitani) & 橋本大地 (Daichi Hashimoto)'
-  - 'Bad Trip: [ゴブリン](@/w/goblin.md) (Goblin) & [グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
+  - '[バッド・トリップ](@/tt/bad-trip.md): [ゴブリン](@/w/goblin.md) (Goblin) & [グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
   - s: タッグマッチ (Tag Team Match)
 - - '[オルギエルト](@/w/olgierd.md)(c) (Olgierd)'
   - 'デイル・パトリックス (Dale Patricks)'
