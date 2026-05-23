@@ -290,10 +290,4 @@ The reign was cut short by the management's decision on 25.03.2026 when [Matt Bu
   - s: Singles Match
     en: '[MZW No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
     ed: 2026-03-28
-- - 'Marco Hammers(c)'
-  - '[Oskar Haller](@/w/oskar-haller.md)'
-  - s: Singles Match
-    en: '[MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md)'
-    ed: 2026-06-20
-    nc: upcoming
 {% end %}
