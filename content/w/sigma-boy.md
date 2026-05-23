@@ -61,6 +61,7 @@ As part of the new working relationship between PTW and the Austrian promotion R
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Miyagi Shida](@/w/miyagi-shida.md); current)
   - [PTW Awards](@/a/ptw-awards.md) (1 time):
     * Feud of the Year (2025) - as part of Team Okoński
 

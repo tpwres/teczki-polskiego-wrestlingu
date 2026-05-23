@@ -255,9 +255,9 @@ One noteworthy deal between PTW and a bigger promotion was an agreement with Imp
   - '[Spartan](@/w/spartan.md)'
   - Defeated [Puncher](@/w/puncher.md) at [PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
 - - '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - >
-    Defeated [L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md) at  [PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md).
+    Defeated [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) at  [PTW Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md).
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Defeated [Daniel Razor](@/w/daniel-razor.md) at [PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).'

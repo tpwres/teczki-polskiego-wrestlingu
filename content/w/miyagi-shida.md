@@ -48,7 +48,7 @@ Having saved his career, Miyagi clashed with Russian wrestler [Serg Sullivan](@/
 
 #### Miyagi Sigma
 
-Starting with [All About The Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Miyagi joined forces with [Sigma Boy xD](@/w/sigma-boy.md) to form a new Tag Team called "Miyagi Sigma". They immedietaly tried to compete against [Royal Rebels](@/tt/royal-rebels.md) - a part of [Pawłowski's](@/w/pan-pawlowski.md) [Nietykalni](@/tt/nietykalni.md) - in a competition for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). 
+Starting with [All About The Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), Miyagi joined forces with [Sigma Boy xD](@/w/sigma-boy.md) to form a new Tag Team called "Miyagi Sigma". They immedietaly tried to compete against [Royal Rebels](@/tt/royal-rebels.md) - a part of [Pawłowski's](@/w/pan-pawlowski.md) [Nietykalni](@/tt/nietykalni.md) - in a competition for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 
 ## In wrestling
 
@@ -62,6 +62,11 @@ Starting with [All About The Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md
     {{ music(yt='YYpZGiKySMw')}}
     {{ music(spot='4w1WMmMdtXPHMcP18q9I3r')}}
     {{ music(apple='1248033477?i=1248033970')}}
+
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Sigma Boy xD](@/w/sigma-boy.md); current)
 
 ## Internet presence
 

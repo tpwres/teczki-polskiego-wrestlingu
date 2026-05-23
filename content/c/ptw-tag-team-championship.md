@@ -221,6 +221,21 @@ While Boro never defended the title, he was also recognized as a champion per th
   - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD'
   - en: '[PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
     ed: 2026-01-31
+- - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD'
+  - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
+  - en: '[PTW Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+    ed: 2026-01-31
+{% end %}
+
+**TOTAL:** 357 days
+
+### Champions #5: Miyagi Sigma: Miyagi Shida & Sigma Boy xD
+
+{% free_card() %}
+- - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
+  - en: '[PTW Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+    ed: 2026-01-31
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
