@@ -1,5 +1,5 @@
 +++
-title = "PpW Hardcore na Hucie"
+title = "PpW Hardcore Na Hucie"
 template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
@@ -12,7 +12,7 @@ has_video = true
 [extra.gallery]
 +++
 
-Hardcore na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md), held in Katowice in {{ map_pin(v="P23 Club") }}P23 Music Club. The venue is located in a post-industrial site, a former porcelain factory repurposed into a business and entertainment complex, located in the eastern part of the city. P23 is a music club and event venue mostly specialising in electronic music.
+Hardcore Na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md), held in Katowice in {{ map_pin(v="P23 Club") }}P23 Music Club. The venue is located in a post-industrial site, a former porcelain factory repurposed into a business and entertainment complex, located in the eastern part of the city. P23 is a music club and event venue mostly specialising in electronic music.
 
 ## Build-up
 

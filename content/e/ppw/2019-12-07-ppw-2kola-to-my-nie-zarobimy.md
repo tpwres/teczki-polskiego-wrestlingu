@@ -1,7 +1,7 @@
 +++
 title = "PpW 2KOŁA To My Nie Zarobimy"
 template = "event_page.html"
-aliases = [ "/e/ppw/2019-12-07-ppw-untitled" ]
+aliases = ["/e/ppw/2019-12-07-ppw-untitled"]
 authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
