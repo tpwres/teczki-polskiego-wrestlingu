@@ -110,7 +110,6 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - c: Singles Match
     en: '[Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md)'
     ed: 2026-05-24
-    nc: upcoming
 {% end %}
 
 [qna-legacy]: https://www.youtube.com/watch?v=4urhjLJHEtA
