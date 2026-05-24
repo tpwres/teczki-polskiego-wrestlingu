@@ -57,7 +57,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
   - '[Olgierd](@/w/olgierd.md)'
   - g: Johnny demands Olgierd give him a Championship match
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
-  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Tournament Finals'
     s: Triple Threat Tag Team Tables Elimination Match
@@ -69,7 +69,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 
 ### Highlights
 
-* With this event, the ad-hoc team of Gustav and Goblin now has a name: "Bad Trip", complete with merchandise.
+* With this event, the ad-hoc team of Gustav and Goblin now has a name: "[Bad Trip](@/tt/bad-trip.md)", complete with merchandise.
 * Sambor was initially billed for the show, but did not make an appearance. Instead, the spot went to TOMCZAK in a surprise debut. The event therefore saw three [KPW](@/o/kpw.md) wrestlers in total, two of them for the first time in PpW.
 * Also present in the crowd was KPW's [Rookie Two](@/w/rookie-two.md).
 * Marcelito, paired with monster heel TOMCZAK, used some heel actions himself, choking one of the opponents in the corner with one of his green light strips. However, after their defeat, Tomczak confronted him and applied a devastating Chokeslam, ending their brief partnership.

@@ -100,37 +100,37 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
 - - 'Puncher(c)'
   - '[Max Speed](@/w/max-speed.md)'
   - s: Singles Match
-    en: '[PTW Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)'
+    en: '[PTW: Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)'
     ed: 2025-01-11
 - - 'Puncher(c)'
   - 'Ben Rodgers'
   - s: Singles Match
-    en: '[PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+    en: '[PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
     ed: 2025-05-31
 - - 'Puncher(c)'
   - '[Tamas "Nitro" Szabo](@/w/nitro.md)'
   - s: Singles Match
-    en: '[PTW Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
+    en: '[PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
     ed: 2025-06-28
 - - 'Puncher(c)'
   - '_rookie_ Bumper, _rookie_ Dropper, _rookie_ Boguś'
   - s: Three-On-One Handicap match
-    en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+    en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-07-27
 - - 'Puncher(c)'
   - 'Diana Strong'
   - s: Singles Match
-    en: '[PTW Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
+    en: '[PTW: Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
 - - 'Puncher(c)'
   - '[Damian Lambert](@/w/damian-lambert.md)'
   - s: Singles Match
-    en: '[PTW Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
+    en: '[PTW: Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
 - - '[Spartan](@/w/spartan.md)'
   - 'Puncher(c)'
   - s: All or Nothing Match
-    en: '[PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    en: '[PTW: Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
 {% end %}
 
@@ -142,34 +142,33 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
 - - '[Spartan](@/w/spartan.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'
   - s: All or Nothing Match
-    en: '[PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    en: '[PTW: Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
 - - 'Spartan(c)'
   - 'Bittersweet Josh'
   - s: Singles Match
-    en: '[PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
+    en: '[PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
     ed: 2026-01-31
 - - 'Spartan(c)'
   - '[Renegade](@/w/renegade.md)'
   - s: Singles Match
-    en: '[PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md)'
+    en: '[PTW: World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md)'
     ed: 2026-02-21
 - - 'Spartan(c)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
   - s: Singles Match
-    en: '[PTW More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
+    en: '[PTW: More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
     ed: 2026-03-29
 - - 'Spartan(c)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - s: Singles Match
-    en: '[PTW Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md)'
+    en: '[PTW: Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md)'
     ed: 2026-04-18
 - - 'Spartan(c)'
   - '[Blaze](@/w/blaze.md)'
   - s: Singles Match
-    en: '[PTW Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+    en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
     ed: 2026-05-23
-    nc: upcoming
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

@@ -178,7 +178,6 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
   - s: Last Man Standing Match
     en: '[PTW: Krew Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
     ed: 2026-05-23
-    nc: upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c

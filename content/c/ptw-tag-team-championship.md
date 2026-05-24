@@ -176,13 +176,13 @@ While Boro never defended the title, he was also recognized as a champion per th
 - - "L'Orda: Luca Bjorn & Rust(c)"
   - 'Team Turbulence: Tommy Tornado & Tommy Torpedo'
   - s: Tag Team Match
-    en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
+    en: '[PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
     ed: 2025-02-15
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - "L'Orda: Luca Bjorn & Rust(c)"
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md) & Daniel Razor'
   - s: Tornado Tag Team Match
-    en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+    en: '[PTW: Wrestlingowe Walentynki](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
     ed: 2025-05-31
 {% end %}
 
@@ -196,30 +196,45 @@ While Boro never defended the title, he was also recognized as a champion per th
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md) & Daniel Razor'
   - s: Tornado Tag Team Match
     ed: 2025-05-31
-    en: '[PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
+    en: '[PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md)'
 - - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
-  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: Tag Team Match
-    en: '[PTW All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+    en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-05-31
 - - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
   - 'Śląskie Zebry: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
   - s: Tag Team Match
-    en: '[PTW Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
+    en: '[PTW: Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md)'
     ed: 2025-08-30
 - - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
   - 'Sigma Boy xD & [Łukasz Okoński](@/w/lukasz-okonski.md)'
   - s: Tag Team Match
-    en: '[PTW Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
+    en: '[PTW: Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md)'
     ed: 2025-09-28
 - - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
   - 'Davide Adami & Luke Astaroth'
   - s: Tag Team Match
-    en: '[PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+    en: '[PTW: Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
     ed: 2025-12-13
 - - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
   - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD'
-  - en: '[PTW Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
+  - en: '[PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
+    ed: 2026-01-31
+- - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD'
+  - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
+  - en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+    ed: 2026-01-31
+{% end %}
+
+**TOTAL:** 357 days
+
+### Champions #5: Miyagi Sigma: Miyagi Shida & Sigma Boy xD
+
+{% free_card() %}
+- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
+  - en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
     ed: 2026-01-31
 {% end %}
 

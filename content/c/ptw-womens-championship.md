@@ -54,12 +54,12 @@ At some time during Moné's reign, the belt [lost its black external plate][pas-
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Amy Heartbeat'
   - s: 'Tournament First Round Match'
-    en: '[PTW Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)'
+    en: '[PTW: Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)'
     ed: 2025-01-11
 - - 'Betty Boa'
   - 'Kiara'
   - s: 'Tournament First Round Match'
-    en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
+    en: '[PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
     ed: 2025-02-15
 - - 'Heidi Katrina'
   - 'Rhiannon Jade'
