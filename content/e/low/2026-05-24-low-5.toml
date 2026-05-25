@@ -3,7 +3,11 @@
 00003 = { path = "fox-vs-fux.webp", caption = "Image announcing [Jakub](@/w/jakub.md) vs [Filip Fux](@/w/filip-fux.md).", source = "Official Legacy Facebook" }
 00004 = { path = "eryk-zaprasza-dziedzica.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official Legacy Facebook" }
 00005 = { path = "zdmuchnie-bora-jak-nic.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs [Boro](@/w/boro.md).", source = "Official Legacy Facebook" }
-00006 = { path = "dave-mustaine-na-miare-naszych-mozliwosci.webp", caption = "Image announcing Patrykos from the WrestleOne YouTube channel.", source = "Official Legacy Facebook" }
+00006 = { path = "dave-mustaine-na-miare-naszych-mozliwosci.webp", caption = "Image announcing Patrykos from WrestleOne YouTube channel.", source = "Official Legacy Facebook" }
 00007 = { path = "sheencelito.webp", caption = "Image announcing [Tony Sheen](@/w/riverman.md) vs [Marcelito](@/w/marcelito.md).", source = "Official Legacy Facebook" }
 00008 = { path = "olgierd-vs-disco-pablo-vs-sambor-vs-omar-prince.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Disco Pablo](@/w/disco-pablo.md) vs [Sambor](@/w/sambor.md) vs Omar Prince.", source = "Official Legacy Facebook" }
 00009 = { path = "marco-hammers-vs-oskar-haller.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs [Oskar Haller](@/w/oskar-haller.md).", source = "Official Legacy Facebook" }
+
+00100 = { path = "ring-przed-gala.webp", caption = "The ring before the show.", source = "Ville Paananen" }
+
+70001 = { path = "fak-fox.webp", caption = "[Jakub](@/w/jakub.md) retains the title, while displaying his lack of appreciation for the audience.", source = "Ville Paananen" }
