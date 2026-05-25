@@ -23,6 +23,7 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
 * The next day [Bad Trip](@/tt/bad-trip.md) ([Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)) challenged [Antoni Ocean](@/w/antoni-ocean.md) & [Leon Lato](@/w/leon-lato.md) to a match for their [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md).
 * On 21.05.2026 the new PpW Champion [Gabriel Queen](@/w/gabriel-queen.md) published a [video][moja-starsza-siostra-mowi-nie-zadawaj-sie-z-lujami] in which he accepted [Vic Golden's](@/w/vic-golden.md) earlier [demand][vic-chce-pasa] that their match be for the [PpW Championship](@/c/ppw-championship.md). However, Queen added one condition: if Vic loses, no other member of [Rodzina](@/tt/rodzina.md) will fight for the title as long as Queen remains the Champion. The match was officially confirmed later the same day.
 * A [video][psze-paniom-a-oni-sie-bijom] published on 22.05.2026 showed cracks beginning to form in [Zmowa](@/tt/zmowa.md), with [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md) and [Jakub](@/w/jakub.md) accusing one another of losing their Championship titles. After a brief physical altercation, Mister Z agreed for Olgierd and Jakub to fight one another at the upcoming show, with himself as the special guest referee. He set one condition: the winner of the match must then fight [Gabriel Queen](@/w/gabriel-queen.md) for the [PpW Championship](@/c/ppw-championship.md). The match was officially confirmed a couple of hours later.
+* The Hardcors ([Johnny Blade](@/w/johnny-blade.md) & [Isnorr](@/w/isnorr.md)), who lost to [Rodzina](@/tt/rodzina.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), decided to have their revenge on the stable - represented by [Filip Fux](@/w/filip-fux.md) and [Isnorr](@/w/isnorr.md) - in a "Wrocław Brawl". The match, announced on 24.05.2026, will include tables, ladders, chairs and other items, whereas the ring and the rules are "optional".
 
 ## Predicted card
 
@@ -46,6 +47,10 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
   - '[Jakub](@/w/jakub.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: '#1 Contender'
+    nc: upcoming
+- - 'The Hardcors: [Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md)'
+  - s: Wrocławski Brawl
     nc: upcoming
 - credits:
     Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
