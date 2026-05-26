@@ -292,7 +292,7 @@ The reign was cut short by the management's decision on 25.03.2026 when [Matt Bu
     ed: 2026-03-28
 - - 'Marco Hammers(c)'
   - '[Tony Sheen](@/w/riverman.md)'
-    en: '[MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md)'
+  - en: '[MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md)'
     ed: 2026-06-20
     nc: upcoming
 {% end %}
