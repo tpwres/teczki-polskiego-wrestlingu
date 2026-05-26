@@ -47,6 +47,8 @@ Erik Šlotíř made an unexpected return to Poland, debuting in [Legacy of Wrest
 
 Arek Paterek quickly organised a championship opportunity for Erik at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md), Šlotíř where he faced Yaqoob and the [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) in a Triple Threat Match, won by the defending Champion.
 
+At [Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md) Arek Paterek fired Erik Biuro Prasowe _in absentia_.
+
 ### Maniac Zone Wrestling (2025)
 
 In June 2025 Erik made his debut for [Maniac Zone Wrestling](@/o/mzw.md), where he lost to [Goblin](@/w/goblin.md) in a Singles Match at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
@@ -56,9 +58,9 @@ In June 2025 Erik made his debut for [Maniac Zone Wrestling](@/o/mzw.md), where 
 * Finishers:
   - Diving Elbow Drop (2023-)
 * Tag Teams and stables:
-  - Biuro Prasowe (2025-)
+  - Biuro Prasowe (2025-2026)
 * Managers:
-  - [Arkadiusz Paterek](@/w/arek-paterek.md) (2025-)
+  - [Arkadiusz Paterek](@/w/arek-paterek.md) (2025-2026)
 * Entrance music:
   - "Erik Slotir Theme Song" by Independent Artist
      {{ org_badge(orgs=['low']) }} (2025-)  <br>
