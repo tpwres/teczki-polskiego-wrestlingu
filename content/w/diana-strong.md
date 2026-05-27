@@ -79,5 +79,6 @@ In November 2025 [Pro Wrestling Illustrated][pwi-250] ranked Diana #205 on their
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25783)
 * [Diana's biography by Szymon Magdij on mywrestling](https://mywrestling.com.pl/diana-strong-krolowa-polskiego-wrestlingu/)
+* [Diana's Instagram](https://www.instagram.com/dianawrestling/)
 
 [pwi-250]: https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated
