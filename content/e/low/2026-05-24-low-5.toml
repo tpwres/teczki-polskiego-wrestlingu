@@ -14,7 +14,7 @@
 10002 = { path = "rude-przylazlo.webp", caption = "[Jakub](@/w/jakub.md) interrupts [Wiktor](@/w/wiktor-longman.md).", source = "Ville Paananen" }
 
 20001 = { path = "sewi-stracil-twarz.webp", caption = "[Max Speed's](@/w/max-speed.md) entrance.", source = "Ville Paananen" }
-20001 = { path = "naturalny-chemik-z-syntetycznym-szalikiem.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "Ville Paananen" }
+20002 = { path = "naturalny-chemik-z-syntetycznym-szalikiem.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "Ville Paananen" }
 20003 = { path = "rachu-ciachu-i-po-max-do-piachu.webp", caption = "Chemik slams Max Speed. To the left stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Ville Paananen" }
 20004 = { path = "max-sie-otrzepal-z-piachu-i-wygral.webp", caption = "[Max Speed](@/w/max-speed.md) wins.", source = "Ville Paananen" }
 
