@@ -47,7 +47,7 @@ Erik Šlotíř made an unexpected return to Poland, debuting in [Legacy of Wrest
 
 Arek Paterek quickly organised a championship opportunity for Erik at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md), Šlotíř where he faced Yaqoob and the [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) in a Triple Threat Match, won by the defending Champion.
 
-At [Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md) Arek Paterek fired Erik Biuro Prasowe _in absentia_.
+At [Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md) Arek Paterek fired Erik from Biuro Prasowe _in absentia_.
 
 ### Maniac Zone Wrestling (2025)
 
