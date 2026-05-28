@@ -30,12 +30,21 @@
 40006 = { path = "nasz-nowy-sponsor-helix-studios-klask.webp", caption = "Omar Prince, [Sambor](@/w/sambor.md), [Olgierd](@/w/olgierd.md) and [Disco Pablo](@/w/disco-pablo.md) attempt four German Suplexes for the price of one. [Sędzia Seweryn](@/w/sedzia-seweryn.md) looks in disbelief.", source = "Ville Paananen" }
 40007 = { path = "po-co-komu-pas-jak-jest-szalik.webp", caption = "[Olgierd](@/w/olgierd.md) wins.", source = "Ville Paananen" }
 
-50001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+50001 = { path = "o-hallera-to-oskar.webp", caption = "[Oskar Haller's](@/w/oskar-haller.md) entrance.", source = "Ville Paananen" }
+50002 = { path = "harco-mammers.webp", caption = "[Marco Hammers's](@/w/marco-hammers.md) entrance.", source = "Ville Paananen" }
+50003 = { path = "fingerpoke-of-lysina.webp", caption = "Oskar Haller attempts to poke [Marco Hammers's](@/w/marco-hammers.md) eye.", source = "Ville Paananen" }
+50004 = { path = "warco-mins.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) wins.", source = "Ville Paananen" }
 
+60001 = { path = "zefir-slaps-hard.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "Ville Paananen" }
+60002 = { path = "zefir-frunie.webp", caption = "[Zefir](@/w/zefir.md) hits [Boro](@/w/boro.md) with a Suicide Dive.", source = "Ville Paananen" }
+60003 = { path = "szarpidrut.webp", caption = "[Boro](@/w/boro.md) attacks [Zefir](@/w/zefir.md) in a manner [Sędzia Seweryn](@/w/sedzia-seweryn.md) disapproves of.", source = "Ville Paananen" }
+60004 = { path = "zulk-zogan.webp", caption = "Zefir attacks Boro with a Leg Drop .", source = "Ville Paananen" }
 
+70001 = { path = "sheeterek.webp", caption = "Arek Paterek accompanies [Tony Sheen](@/w/riverman.md).", source = "Ville Paananen" }
+70002 = { path = "ryby-i-sheeny-glosu-nie-maja.webp", caption = "[Tony Sheen](@/w/riverman.md) cuts a promo before his match.", source = "Ville Paananen" }
+70003 = { path = "marcelito-bije-tonyego-na-glowe.webp", caption = "[Marcelito](@/w/marcelito.md) Drop Kicks Tony Sheen.", source = "Ville Paananen" }
 
-60001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-70001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-
-
-90001 = { path = "fak-fox.webp", caption = "[Jakub](@/w/jakub.md) retains the title, while displaying his lack of appreciation for the audience.", source = "Ville Paananen" }
+80001 = { path = "buckethead-to-to-nie-jest.webp", caption = "[Jakub](@/w/jakub.md) argues with a fan, hoping he might chicken out.", source = "Ville Paananen" }
+80002 = { path = "rudy-jest-pies-sie-znajdzie-tylko-pancernych-brak.webp", caption = "[Jakub](@/w/jakub.md) with his [Legacy of Wrestling European Championship](@/c/low-european-championship.md).", source = "Ville Paananen" }
+80003 = { path = "jeden-dzwiga-krzyz-drugi-dzwiga-lisa.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs Jakub.", source = "Ville Paananen" }
+80004 = { path = "fak-fox.webp", caption = "[Jakub](@/w/jakub.md) retains the title, while displaying his lack of appreciation for the audience.", source = "Ville Paananen" }
