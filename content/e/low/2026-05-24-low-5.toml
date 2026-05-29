@@ -8,6 +8,43 @@
 00008 = { path = "olgierd-vs-disco-pablo-vs-sambor-vs-omar-prince.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Disco Pablo](@/w/disco-pablo.md) vs [Sambor](@/w/sambor.md) vs Omar Prince.", source = "Official Legacy Facebook" }
 00009 = { path = "marco-hammers-vs-oskar-haller.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs [Oskar Haller](@/w/oskar-haller.md).", source = "Official Legacy Facebook" }
 
-00100 = { path = "ring-przed-gala.webp", caption = "The ring before the show.", source = "Ville Paananen" }
+00101 = { path = "ring-przed-gala.webp", caption = "The ring before the show.", source = "Ville Paananen" }
 
-70001 = { path = "fak-fox.webp", caption = "[Jakub](@/w/jakub.md) retains the title, while displaying his lack of appreciation for the audience.", source = "Ville Paananen" }
+10001 = { path = "as-handsome-as-it-gets.webp", caption = "[Wiktor](@/w/wiktor-longman.md) opens the show.", source = "Ville Paananen" }
+10002 = { path = "rude-przylazlo.webp", caption = "[Jakub](@/w/jakub.md) interrupts [Wiktor](@/w/wiktor-longman.md).", source = "Ville Paananen" }
+
+20001 = { path = "sewi-stracil-twarz.webp", caption = "[Max Speed's](@/w/max-speed.md) entrance.", source = "Ville Paananen" }
+20002 = { path = "naturalny-chemik-z-syntetycznym-szalikiem.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "Ville Paananen" }
+20003 = { path = "rachu-ciachu-i-po-max-do-piachu.webp", caption = "Chemik slams Max Speed. To the left stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Ville Paananen" }
+20004 = { path = "max-sie-otrzepal-z-piachu-i-wygral.webp", caption = "[Max Speed](@/w/max-speed.md) wins.", source = "Ville Paananen" }
+
+30001 = { path = "elyk-resak.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "Ville Paananen" }
+30002 = { path = "w-sumie-co-on-takiego-dziedziczy-poza-plaszczem.webp", caption = "[Syriusz Dziedzic's](@/w/dziedzic.md) entrance.", source = "Ville Paananen" }
+30003 = { path = "mister-sinister-zgubil-tornister.webp", caption = "[Sinister](@/w/sinister.md) plays mind games with Dziedzic.", source = "Ville Paananen" }
+
+40001 = { path = "rudzi-lysi-kogo-jeszcze-przywieje.webp", caption = "[Olgierd's](@/w/olgierd.md) entrance.", source = "Ville Paananen" }
+40002 = { path = "zkimsbor.webp", caption = "[Sambor's](@/w/sambor.md) entrance.", source = "Ville Paananen" }
+40003 = { path = "jakos-tak-niewyraznie-wyglada-pewnie-sniadania-nie-jadl.webp", caption = "Omar Prince's entrance.", source = "Ville Paananen" }
+40004 = { path = "jest-pablo-jest-lezajsk-czy-cos.webp", caption = "[Disco Pablo's](@/w/disco-pablo.md) entrance.", source = "Ville Paananen" }
+40005 = { path = "kolko-graniaste.webp", caption = "Disco Pablo, [Olgierd](@/w/olgierd.md), Omar Prince and Sambor demonstrate traditional folk dance moves. [Sędzia Seweryn](@/w/sedzia-seweryn.md) appears ever so slightly confused.", source = "Ville Paananen" }
+40006 = { path = "nasz-nowy-sponsor-helix-studios-klask.webp", caption = "Omar Prince, [Sambor](@/w/sambor.md), [Olgierd](@/w/olgierd.md) and [Disco Pablo](@/w/disco-pablo.md) attempt four German Suplexes for the price of one. [Sędzia Seweryn](@/w/sedzia-seweryn.md) looks in disbelief.", source = "Ville Paananen" }
+40007 = { path = "po-co-komu-pas-jak-jest-szalik.webp", caption = "[Olgierd](@/w/olgierd.md) wins.", source = "Ville Paananen" }
+
+50001 = { path = "o-hallera-to-oskar.webp", caption = "[Oskar Haller's](@/w/oskar-haller.md) entrance.", source = "Ville Paananen" }
+50002 = { path = "harco-mammers.webp", caption = "[Marco Hammers's](@/w/marco-hammers.md) entrance.", source = "Ville Paananen" }
+50003 = { path = "fingerpoke-of-lysina.webp", caption = "Oskar Haller attempts to poke [Marco Hammers's](@/w/marco-hammers.md) eye.", source = "Ville Paananen" }
+50004 = { path = "warco-mins.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) wins.", source = "Ville Paananen" }
+
+60001 = { path = "zefir-slaps-hard.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "Ville Paananen" }
+60002 = { path = "zefir-frunie.webp", caption = "[Zefir](@/w/zefir.md) hits [Boro](@/w/boro.md) with a Suicide Dive.", source = "Ville Paananen" }
+60003 = { path = "szarpidrut.webp", caption = "[Boro](@/w/boro.md) attacks [Zefir](@/w/zefir.md) in a manner [Sędzia Seweryn](@/w/sedzia-seweryn.md) disapproves of.", source = "Ville Paananen" }
+60004 = { path = "zulk-zogan.webp", caption = "Zefir attacks Boro with a Leg Drop .", source = "Ville Paananen" }
+
+70001 = { path = "sheeterek.webp", caption = "Arek Paterek accompanies [Tony Sheen](@/w/riverman.md).", source = "Ville Paananen" }
+70002 = { path = "ryby-i-sheeny-glosu-nie-maja.webp", caption = "[Tony Sheen](@/w/riverman.md) cuts a promo before his match.", source = "Ville Paananen" }
+70003 = { path = "marcelito-bije-tonyego-na-glowe.webp", caption = "[Marcelito](@/w/marcelito.md) Drop Kicks Tony Sheen.", source = "Ville Paananen" }
+
+80001 = { path = "buckethead-to-to-nie-jest.webp", caption = "[Jakub](@/w/jakub.md) argues with a fan, hoping he might chicken out.", source = "Ville Paananen" }
+80002 = { path = "rudy-jest-pies-sie-znajdzie-tylko-pancernych-brak.webp", caption = "[Jakub](@/w/jakub.md) with his [Legacy of Wrestling European Championship](@/c/low-european-championship.md).", source = "Ville Paananen" }
+80003 = { path = "jeden-dzwiga-krzyz-drugi-dzwiga-lisa.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs Jakub.", source = "Ville Paananen" }
+80004 = { path = "fak-fox.webp", caption = "[Jakub](@/w/jakub.md) retains the title, while displaying his lack of appreciation for the audience.", source = "Ville Paananen" }
