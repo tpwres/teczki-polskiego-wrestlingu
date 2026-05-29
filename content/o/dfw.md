@@ -51,7 +51,7 @@ The Facebook page was briefly active again between 2020 and 2021, reminiscing ab
 
 DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) which, as of August 2024, is still available and appears to be functional.
 
-On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a [crowdfunding website][zrzutka-pl], collecting money for the restoration. As of the early October, the campaign has reached 1691&nbsp;PLN out of the 5000&nbsp;PLN goal, with the total of 16 pledges.
+On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a [crowdfunding website][zrzutka-pl], collecting money for the restoration. As of the early October, the campaign has reached 1691&nbsp;PLN out of the 5000&nbsp;PLN goal, with the total of 16 pledges. By the end of May 2026 the ring's renovation was completed and DFW published a [video][ring-gotowy] showing [Chris Hunter](@/w/chris-hunter.md), [Pain Killer](@/w/pain-killer.md), [Corin Maer](@/w/corin-mear.md) and [PJ Blake](@/w/pj-blake.md) meeting up around the ring for the first time in eight years. Chris Hunter also clarified that as of 2026 DFW does not exist, "but who knows what the fate might bring about".
 
 ## Polish wrestling scene
 
@@ -89,6 +89,8 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 * [MyCast #5 with Chris Hunter](https://www.youtube.com/watch?v=PNifwMjQZWE)
 * [Seth Donner vs Lygrys feud about backyard](https://www.wrestlefans.pl/forum/viewtopic.php?t=46017&p=424631)
 * [Crowdfunding campaign on zrzutka.pl][zrzutka-pl]
+* Video: [DFW: Thanks for memories][ring-gotowy]
 
 [zrzutka-fb]: https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Kmkkkrr1ap2qSwMicVHr8N5nw4SgMPPnXzCgV34wRvct5k79ceXXvzVzsU1SKwvRl
 [zrzutka-pl]: https://zrzutka.pl/tjh3ex
+[ring-gotowy]: https://www.youtube.com/watch?v=95nPfDIQHkA
