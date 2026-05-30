@@ -24,7 +24,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 * On 1.02.2026 PpW [confirmed][main-event-fuxem] Fux's addition to the tag team main event. They also disclosed the stipulation: a Tables Elimination Match with Tornado rules (every member of each team is active, no DQ), elimination happens by putting any member of the opposing team through the table, breaking it. The last team standing will become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.07.2026.
 * Next came a Triple Threat Match between [Bartosz Plata](@/w/plata.md), [Max Speed](@/w/max-speed.md) and [Asara](@/w/asara.md), announced on 11.02.2026.
-* Emil Völler, who debuted at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), was announced on 13.02.2026 as the opponent of [Johnny Blade](@/w/johnny-blade.md) in an International Hardcore Match.
+* [Emil Völler](@/w/emil-voeller.md), who debuted at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), was announced on 13.02.2026 as the opponent of [Johnny Blade](@/w/johnny-blade.md) in an International Hardcore Match.
 * On 19.02.2026 PpW announced the debut of another active KPW wrestler, [Leon Lato](@/w/leon-lato.md). He will partner with [Antoni Ocean](@/w/antoni-ocean.md) in a Tag Team Match against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.02.2026.
 * Two weeks later, on 22.02.2026, PpW announced [Tony Sheen](@/w/riverman.md) vs [Mutant](@/w/mutant.md).
@@ -50,7 +50,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Justin Joy](@/w/justin-joy.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
-  - 'Emil Völler'
+  - '[Emil Völler](@/w/emil-voeller.md)'
   - s: International Hardcore Match
     r: submission
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -77,7 +77,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
   - First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping and one-handed push-ups for extra flair.
   - The second round was a bodybuilding competition, with scores given by three "impartial judges", two of which were picked from the audience, and the third was Michael HT. Both contestants needed oiling up for that, with Boro doing so on his own, and Marco receiving a very professional oiling from Referee Karol. Unfortunately, the judges rated Boro higher, which led to Marco arguing with them, turning his back to the opponent. Boro then proceeded to oil up a rubber glove and performed a surprise Oil Check on Marco, briefly putting him out of action.
   - Lastly, the final round was a Bodyslam competition, contested like a match that could only be won by bodyslamming the opponent.
-* Emil Völler tapped out as Johnny Blade was about to hit him with his trademark road sign.
+* [Emil Völler](@/w/emil-voeller.md) tapped out as Johnny Blade was about to hit him with his trademark road sign.
 * After his match, Johnny took the microphone and demanded Olgierd came out and let him sign a contract for a [PpW Championship](@/c/ppw-championship.md) match. Olgierd obliged, referenced their last exchange and shared past, and let Johnny know how he was misled and used by Zmowa, seemingly ready to abandon them. Olgierd then gave the contract to Johnny, who immediately signed it. This was met with mockery, with Olgierd stating that the contract needed two signatures and he was unwilling to give his. Dejected but unfazed, Johnny managed to handcuff the champion to the ring ropes, and shoving a pen into the cuffed palm, forced Olgierd's hand to obtain his signature.
 * In the main event, despite Zmowa and Rodzina initially working together, a misplaced guitar smash by Oskar caused them to become hostile towards each other.
 * Goblin and Gustav saved each other from certain defeat twice in the match: first Gustav bodied Goblin to deflect him out of the way towards a table, and later Goblin pushed away another table to prevent a Flapjack on Gustav through it.
