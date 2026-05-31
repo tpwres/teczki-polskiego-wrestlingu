@@ -6,6 +6,7 @@ authors = ["Krzysztof Zych", "M3n747"]
 chronology = ["kpw"]
 venue = ["amber-expo"]
 [extra]
+end_date = "2022-07-31"
 city = "Gdańsk"
 toclevel = 2
 has_video = false
