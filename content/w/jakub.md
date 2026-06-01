@@ -7,9 +7,9 @@ aliases = ["/w/axel-fox"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
-[extra.gallery.1]
-1 = { path = "fox-is-ewenement.webp", caption = "Facebook graphic confirming that Axel Fox has joined PpW.", source = "Facebook @OficjalnePPW" } 
-2 = { path = "jakub-ze-zlotem-legacy.webp", caption = "Jakub with the [Legacy of Wrestling European Championship](@/c/low-european-championship.md).", source = "Jarosław Olesiński / Official Legacy Facebook" } 
+[extra.gallery]
+1 = { path = "fox-is-ewenement.webp", caption = "Image confirming that Axel Fox has joined PpW.", source = "Official PpW Facebook" }
+2 = { path = "jakub-ze-zlotem-legacy.webp", caption = "Jakub with the [Legacy of Wrestling European Championship](@/c/low-european-championship.md).", source = "Jarosław Olesiński / Official Legacy Facebook" }
 +++
 
 Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md) and [Dream Factory Wrestling](@/o/dfw.md).
