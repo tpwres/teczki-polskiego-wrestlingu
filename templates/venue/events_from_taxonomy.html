@@ -30,7 +30,8 @@
       {% for event_page in venue_events_thisyear | sort(attribute="date") | reverse -%}
         <li>
           {% set dt = event_page.date | date(format="%Y-%m-%d") -%}
-          <time datetime="{{ dt }}">{{ dt }}</time>
+          {%- set until = event_page.extra | get(key='end_date', default=False) -%}
+          {% include "events/date.html" %}
           {%- set has_photos = event_page.extra is containing("gallery") -%}
           {%- set has_video = event_page.extra | get(key="has_video", default=false) -%}
           {%- include "events/av_icons.html" -%}

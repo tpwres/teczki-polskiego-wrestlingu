@@ -19,8 +19,9 @@
     <ul class="event-list" aria-label="Event list for {{ thisyear }}">
       {%- for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
         <li data-date="{{ page.date }}">
-          {% set dt = page.date | date(format="%Y-%m-%d") -%}
-          <time datetime="{{ dt }}">{{ dt }}</time>
+          {%- set dt = page.date | date(format="%Y-%m-%d") -%}
+          {%- set until = page.extra | get(key='end_date', default=False) -%}
+          {% include "events/date.html" %}
           {%- set has_photos = page.extra is containing("gallery") -%}
           {%- set has_video = page.extra | get(key="has_video", default=false) -%}
           {%- include "events/av_icons.html" -%}
@@ -35,11 +36,11 @@
 
 {% block extra_head %}
 <script defer type="module">
-import { extractEvents, createSection, cleanEmptyYears, sameDate } from '/events.js'
+import { extractEvents, createSection, cleanEmptyYears, matchDateOrRange } from '/events.js'
 document.addEventListener('DOMContentLoaded', () => {
   const events = document.querySelector('ul.event-list')
   const now = new Date()
-  const todayEvents = extractEvents('ul.event-list', (el) => sameDate(new Date(el.dataset.date), now))
+  const todayEvents = extractEvents('ul.event-list', (el) => matchDateOrRange(el, now))
   const upcomingEvents = extractEvents('ul.event-list', (el) => (new Date(el.dataset.date) >= now))
   if (todayEvents) {
     const [head, today] = createSection(todayEvents, 'Today', events, 'h2')
