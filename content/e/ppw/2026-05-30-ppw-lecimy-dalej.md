@@ -30,7 +30,7 @@ Lecimy Dalej (roughly _Let's Keep Going_) was a show by [PpW Ewenement](@/o/ppw.
 
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
-  - 'Emil Völler'
+  - '[Emil Völler](@/w/emil-voeller.md)'
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - '[Zeritus](@/w/zeritus.md) & Maverick'
   - s: Tag Team Match
