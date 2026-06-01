@@ -19,6 +19,7 @@ MZW Forever 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a 
 * MZW began revealing the card on 18.05.2026 with a Chairs Match between [Olgierd](@/w/olgierd.md) and [Marcelito](@/w/marcelito.md).
 * On 26.05.2026 MZW published a [video][marco-wkurzony] taken after [Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md), in which [Tony Sheen](@/w/riverman.md) challenges [Marco Hammers](@/w/marco-hammers.md) for an [MZW Championship](@/c/mzw-championship.md) match, claiming Marco only managed to win the title because Marco's opponent, [Gustav Gryffin](@/w/gustav-gryffin.md), was severely weakened after the fight with Sheen.
 * On 28.05.2026 MZW announced a Battle Royal Match. Although no names were mentioned, the promotion stated that the match will include - among others - rookies from [Polish Wrestling Academy](@/o/paw.md).
+* The Championship match between Sheen and Hammers was officially confirmed on 30.05.2026.
 
 ## Predicted card
 
