@@ -36,6 +36,14 @@ After training with KPW for a year, Bart moved to [Prime Time Wrestling](@/o/ptw
   - Ripcord Lariat
   - Petro Bomb (Swagger Bomb)
   - Gutwrench Suplex
+* Tag Teams and stables:
+  - The Polish Stand, with [CJ Klakson](@/w/cj-klakson.md) (2026-)
+* Entrance music:
+  - "Życie jest piękne" by KULT
+    {{ org_badge(orgs=['ptw']) }} (2026-) (with [Bart Petro](@/w/bart-petro.md), as The Polish Stand)<br>
+    {{ music(yt='euM2Mu6VlVs')}}
+    {{ music(spot='0GSW8vwTTyk56SScQs0UIl')}}
+    {{ music(apple='1098788743?i=1098788934')}}
 
 ## Internet presence
 
