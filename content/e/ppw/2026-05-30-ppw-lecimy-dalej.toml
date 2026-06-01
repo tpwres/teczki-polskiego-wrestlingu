@@ -18,7 +18,10 @@
 204 = { path = "no-zeritus-sie-zaraz-wkurzy.webp", caption = "[Zeritus](@/w/zeritus.md) is offended by Mutant's offence.", source = "Ville Paananen" }
 205 = { path = "a-jednak-mutant-wkurzyl-sie-bardziej.webp", caption = '[Zeritus](@/w/zeritus.md) about to get his face introduced to the turnbuckle by Mutant.', source = "Ville Paananen" }
 
-301 = { path = ".webp", caption = '.', source = "Ville Paananen" }
+301 = { path = "danil-mamedov.webp", caption = 'Danil Mamedov's entrance.', source = "Ville Paananen" }
+302 = { path = "bartosz-plata.webp", caption = '[Bartosz Plata's](@/w/plata.md) entrance. To the left stands [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)', source = "Ville Paananen" }
+303 = { path = "plata-rzuca-danilem.webp", caption = 'Bartosz Plata slams Danil Mamedov. To the right stands [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md).', source = "Ville Paananen" }
+
 
 
 
