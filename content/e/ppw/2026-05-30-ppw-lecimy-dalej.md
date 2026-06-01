@@ -58,7 +58,7 @@ Lecimy Dalej (roughly _Let's Keep Going_) is an upcoming show by [PpW Ewenement'
   - s: Tag Team Match
     nc: upcoming
 - credits:
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/madman-charlie.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
     Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
 {% end %}
 
