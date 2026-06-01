@@ -12,4 +12,4 @@
 110 = { path = "mystic-2024-megadeth.webp", caption = "Mystic Festival<br/>Megadeth performing in 2024.", source = "Official Mystic Festival Facebook", skip_art = true }
 111 = { path = "b90-2025-sick-n-beautiful.webp", caption = "B90<br/>Sick N' Beautiful performing in 2025.", source = "Trójmiasto.pl", skip_art = true }
 112 = { path = "b90-2025-lordi.webp", caption = "B90<br/>Lordi performing in 2025.", source = "Trójmiasto.pl", skip_art = true }
-113 = { path = "mistyczny-malinowski.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) at Mystic Festival 2025.", source = "Official Mystic Festival YouTube" }
+113 = { path = "mistyczny-malinowski.webp", caption = "[A totally random attendee](@/w/krystian-malinowski.md) at Mystic Festival 2025.", source = "Official Mystic Festival YouTube" }
