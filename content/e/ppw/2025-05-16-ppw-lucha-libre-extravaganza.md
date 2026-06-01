@@ -6,7 +6,6 @@ authors = ["M3n747"]
 chronology = ["ppw", "stocznia-gdanska"]
 venue = ["plenum"]
 [extra]
-end_date = "2025-05-17"
 city = "Gdańsk"
 toclevel = 2
 has_video = true
