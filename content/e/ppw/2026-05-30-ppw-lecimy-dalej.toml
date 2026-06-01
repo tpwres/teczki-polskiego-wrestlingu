@@ -15,7 +15,7 @@
 201 = { path = "micharolutantoro.webp", caption = 'Left to right: Michael HT, [Sędzia Karol Górski](@/w/madman-charlie.md), Mutant, [Boro](@/w/boro.md).', source = "Ville Paananen" }
 202 = { path = "jego-mawerycznosc.webp", caption = 'Maverick.', source = "Ville Paananen" }
 203 = { path = "zaraz-mavericka-zmutuje.webp", caption = '[Zeritus](@/w/zeritus.md) observes as [Mutant](@/w/mutant.md) faces Maverick.', source = "Ville Paananen" }
-204 = { path = "no-zeritus-sie-zaraz-wkurzy.webp", caption = '[Zeritus](@/w/zeritus.md) is offended by Mutant's offence.', source = "Ville Paananen" }
+204 = { path = "no-zeritus-sie-zaraz-wkurzy.webp", caption = "[Zeritus](@/w/zeritus.md) is offended by Mutant's offence.", source = "Ville Paananen" }
 205 = { path = "a-jednak-mutant-wkurzyl-sie-bardziej.webp", caption = '[Zeritus](@/w/zeritus.md) about to get his face introduced to the turnbuckle by Mutant.', source = "Ville Paananen" }
 
 301 = { path = ".webp", caption = '.', source = "Ville Paananen" }
