@@ -32,11 +32,21 @@
 602 = { path = "bad-trip.webp", caption = "Gustav Gryffin and Goblin's entrance.", source = "Ville Paananen" }
 603 = { path = "good-trip.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) and Goblin win.", source = "Ville Paananen" }
 
-701 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+701 = { path = "gabrys-z-pasem.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) with his [PpW Championship](@/c/ppw-championship.md). In the background [Sędzia Seweryn](@/w/sedzia-seweryn.md) has a belt too. ", source = "Ville Paananen" }
+702 = { path = "lech-viclesa.webp", caption = "[Vic Golden](@/w/vic-golden.md).", source = "Ville Paananen" }
+703 = { path = "jeden-czlowiek-a-ile-pasow.webp.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) presents the [PpW Championship](@/c/ppw-championship.md), as Gabriel Queen and [Vic Golden](@/w/vic-golden.md) prepare for the fight.", source = "Ville Paananen" }
 
-702 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-703 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 704 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+
 705 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+706 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+707 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+708 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+709 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+710 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+711 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+712 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+
+801 = { path = ".webp", caption = ".", source = "Szymon Iwulski" }
 
 
