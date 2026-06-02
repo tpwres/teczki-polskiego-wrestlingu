@@ -19,7 +19,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenem
 * The event was announced via PpW's social media on 21.04.2026.
 * PpW began revealing the card on 18.05.2026, with the first match - [Mutant](@/w/mutant.md) vs [Johnny Blade](@/w/johnny-blade.md) - marking the return of the Ultraviolent stipulation, last seen in January at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) (not counting the [show in Tokyo](@/a/ppw-hardcore-friday-the-13th-tokyo.md)).
 * On 27.05.2026 PpW announced a match between [Antoni Ocean](@/w/antoni-ocean.md), [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md) and [Boro](@/w/boro.md) in a stipulation previously unseen in the promotion: a Fans Bring Weapons Match.
-* On 1.06.2026 PpW announced [Olgierd](@/w/olgierd.md) vs [Gabriel Queen](@/w/gabriel-queen.md) for the [PpW Championship](@/c/ppw-championship.md).
+* On 1.06.2026 PpW announced [Olgierd](@/w/olgierd.md) vs [Gabriel Queen](@/w/gabriel-queen.md) for the [PpW Championship](@/c/ppw-championship.md). Olgierd had recently lost the gold to Queen at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), which makes this match a chance for him to regain the title after just a month.
 
 ## Predicted card
 
