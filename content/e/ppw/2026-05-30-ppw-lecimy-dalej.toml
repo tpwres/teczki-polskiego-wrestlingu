@@ -26,10 +26,17 @@
 402 = { path = "olgierd-i-jakub.webp", caption = "Olgierd and [Jakub](@/w/jakub.md).", source = "Ville Paananen" }
 403 = { path = "fight-krzeslo-with-krzeslo.webp", caption = "Olgierd vs [Jakub](@/w/jakub.md). To the right is the special guest referee, Mister Z.", source = "Ville Paananen" }
 
+501 = { path = "bo-wszyscy-wrestlerzy-to-jedna-rodzina.webp", caption = "Isnorr and Filip Fux.", source = "Ville Paananen" }
 
+601 = { path = "lato-nad-oceanem.webp", caption = "Leon Lato and Antoni Ocean.", source = "Ville Paananen" }
+602 = { path = "bad-trip.webp", caption = "Gustav Gryffin and Goblin's entrance.", source = "Ville Paananen" }
+603 = { path = "good-trip.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md) and Goblin win.", source = "Ville Paananen" }
 
-
-
-501 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-601 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 701 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+
+702 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+703 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+704 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+705 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+
+
