@@ -44,10 +44,10 @@
   {% if page.extra.hide_events or page.extra.compact_event_list -%}
   {% else %}
     <script defer type="module">
-      import { extractEvents, sameDate, createSection, cleanEmptyYears } from '/events.js'
+      import { extractEvents, matchDateOrRange, createSection, cleanEmptyYears } from '/events.js'
       document.addEventListener('DOMContentLoaded', () => {
         const now = new Date()
-        const todayEvents = extractEvents('ul.event-list', (el) => sameDate(new Date(el.dataset.date), now))
+        const todayEvents = extractEvents('ul.event-list', (el) => matchDateOrRange(el, now))
         const upcomingEvents = extractEvents('ul.event-list', (el) => (new Date(el.dataset.date) >= now))
         const list = document.querySelector('ul.event-list')
         if (todayEvents) {

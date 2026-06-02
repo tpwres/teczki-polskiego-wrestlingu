@@ -1,0 +1,9 @@
+{# Params:: dt: timestamp (from page.date as in filename or frontmatter), until: str|False (from page.extra.end_date) #}
+{% if until -%}
+  <div class="t" aria-label="From {{ dt }} to {{ until }}">
+    <time datetime="{{ dt }}" aria-hidden="true">{{ dt }}</time>
+    <time datetime="{{ until }}" aria-hidden="true">{{ until }}</time>
+  </div>
+{% else -%}
+  <time datetime="{{ dt }}">{{ dt }}</time>
+{% endif -%}

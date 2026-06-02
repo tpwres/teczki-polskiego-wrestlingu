@@ -21,7 +21,7 @@ Hardcore Na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
 * At [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) [Olgierd](@/w/olgierd.md) was challenged for his [PpW Championship](@/c/ppw-championship.md) by [Max Speed](@/w/max-speed.md). This match was officially confirmed on 23.03.2026.
 * On 28.03.2026 PpW announced ["Ladykiller" Boro](@/w/boro.md) vs [Mutant](@/w/mutant.md). If Boro wins the match, Mutant will have to become his bodyguard.
 * On 3.04.2026 PpW announced the Mystery X-Way Match - a fight between an unknown number of unspecified opponents.
-* Ten days later, on 13.04.2026, came the announcement of Emil Völler vs [Leon Lato](@/w/leon-lato.md).
+* Ten days later, on 13.04.2026, came the announcement of [Emil Völler](@/w/emil-voeller.md) vs [Leon Lato](@/w/leon-lato.md).
 * On 14.04.2026 PpW announced a No Holds Barred 3-Way Tag Team Match between [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md), [Jacob Crane](@/w/jacob-crane.md) & [Biesiad Strong](@/w/biesiad.md), and [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md).
 * On 17.04.2026 PpW announced [Isnorr](@/w/isnorr.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md) & [Marco Hammers](@/w/marco-hammers.md). Queen left [Rodzina](@/tt/rodzina.md) at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), earning him Vic's ire. Golden then decided to explain matters with the help of a [Zmowa](@/tt/zmowa.md) friend, Marco, while Queen asked the help of Isnorr, a fellow citizen of Poznań.
 * On 18.04.2026 the match between Olgierd and Max Speed was updated to a Dog Collar Match. This announcement followed a [video][piesomecz] of the bald hooligan attacking Speed backstage with a steel chain, aggressively questioning his validity as an [unspecified Champion](@/c/ptw-underground-championship.md).
@@ -40,7 +40,7 @@ Hardcore Na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
   - '[Mutant](@/w/mutant.md)'
   - s: Tables Match
 - - '[Leon Lato](@/w/leon-lato.md)'
-  - 'Emil Völler'
+  - '[Emil Völler](@/w/emil-voeller.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md) & [Biesiad Strong](@/w/biesiad.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub](@/w/jakub.md)'
   - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'

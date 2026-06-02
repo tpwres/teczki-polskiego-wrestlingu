@@ -40,3 +40,17 @@ export function cleanEmptyYears(headerLevel, listSelector) {
 
 // This does not handle timezones at all.
 export const sameDate = (a, b) => ( a.setHours(0, 0, 0, 0) === b.setHours(0, 0, 0, 0) )
+
+export function matchDateOrRange(elem, now) {
+    let date = elem.dataset.date
+    now.setHours(0, 0, 0, 0)
+
+    const dates = elem.querySelectorAll('.t time')
+    if (dates.length == 0) {
+        return now == new Date(date).setHours(0, 0, 0, 0)
+    }
+    const [time_from, time_until] = [...dates]
+    const from = new Date(time_from.dateTime).setHours(0, 0, 0, 0)
+    const until = new Date(time_until.dateTime).setHours(0, 0, 0, 0)
+    return (from <= now) && (now <= until)
+}
