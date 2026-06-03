@@ -1,0 +1,26 @@
+{% set data = load_data(literal=body,format="yaml") %}
+<ul class="card">
+    <li class="header">
+        <span class="n"></span>
+        <span class="p">Name</span>
+        <span class="c">Role</span>
+    </li>
+    {% for row in data %}
+      {# NOTE: no support for object rows (delimiters), other than final credits #}
+      {% if not row is object %}
+        {% include "card/cast_row.html" %}
+      {% endif %}
+    {% endfor %}
+</ul>
+
+{% set last_row = data | last %}
+{% if last_row is object and 'credits' in last_row %}
+  {% set credits = last_row | get(key='credits') %}
+  <h4>Crew</h4>
+  <dl class="event-cast-members">
+  {% for role, people in credits %}
+    <dt>{{ role }}</dt>
+    <dd>{{ people | markdown(inline=true) | safe }}</dd>
+  {% endfor %}
+  </dl>
+{% endif %}
