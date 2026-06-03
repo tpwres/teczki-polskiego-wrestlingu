@@ -15,7 +15,7 @@
 
 20001 = { path = "sewi-stracil-twarz.webp", caption = "[Max Speed's](@/w/max-speed.md) entrance.", source = "Ville Paananen" }
 20002 = { path = "naturalny-chemik-z-syntetycznym-szalikiem.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "Ville Paananen" }
-20003 = { path = "rachu-ciachu-i-po-max-do-piachu.webp", caption = "Chemik slams Max Speed. To the left stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Ville Paananen" }
+20003 = { path = "rachu-ciachu-i-max-do-piachu.webp", caption = "Chemik slams Max Speed. To the left stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Ville Paananen" }
 20004 = { path = "max-sie-otrzepal-z-piachu-i-wygral.webp", caption = "[Max Speed](@/w/max-speed.md) wins.", source = "Ville Paananen" }
 
 30001 = { path = "elyk-resak.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "Ville Paananen" }
@@ -48,3 +48,5 @@
 80002 = { path = "rudy-jest-pies-sie-znajdzie-tylko-pancernych-brak.webp", caption = "[Jakub](@/w/jakub.md) with his [Legacy of Wrestling European Championship](@/c/low-european-championship.md).", source = "Ville Paananen" }
 80003 = { path = "jeden-dzwiga-krzyz-drugi-dzwiga-lisa.webp", caption = "[Filip Fux](@/w/filip-fux.md) vs Jakub.", source = "Ville Paananen" }
 80004 = { path = "fak-fox.webp", caption = "[Jakub](@/w/jakub.md) retains the title, while displaying his lack of appreciation for the audience.", source = "Ville Paananen" }
+
+90001 = { path = "plakaty-na-scianie.webp", caption = "The show's posters found in the wild.", source = "Ville Paananen" }

@@ -8,6 +8,7 @@ venue = ["stocznia-gdanska"]
 [extra]
 city = "Gdańsk"
 toclevel = 2
+end_date = "2026-06-06"
 has_video = false
 [extra.gallery]
 +++

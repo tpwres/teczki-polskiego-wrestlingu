@@ -19,8 +19,23 @@ ul.event-list
     gap: 0.5rem
     break-inside: avoid
 
-    time, .i
+    time, .i, .t
       flex-shrink: 0
+
+    .t
+      display: inline-flex
+      flex-direction: column
+      align-items: center
+      gap: 2px
+
+      time:first-child::after
+        content: ""
+        display: block
+        width: 100%
+        height: 1px
+        background-color: var(--fg)
+        position: relative
+        top: 2px
 
   &.events-today
     column-count: 1
@@ -50,12 +65,28 @@ ul.event-list-cm
     &:nth-child(odd)
       background: var(--accent-bg)
 
-    time
+    time, .t
        justify-self: center
+       text-align: center
     .o a
       font-size: 1.5rem
     .c, .o, .p
       padding: 0.25rem
+
+    .t
+      display: inline-flex
+      flex-direction: column
+      align-items: center
+      gap: 2px
+
+      time:first-child::after
+        content: ""
+        display: block
+        width: 100%
+        height: 1px
+        background-color: var(--fg)
+        position: relative
+        top: 2px
 
     @media only screen and (max-width: 720px)
       time, .p
@@ -64,7 +95,7 @@ ul.event-list-cm
         grid-row: 2
         font-size: 1rem
 
-      time, .o
+      time, .o, .t
         grid-column: 1
       .p, .c
         grid-column: 2

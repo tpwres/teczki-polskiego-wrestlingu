@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["ppw", "beer-expo", "poznan-fair"]
 venue = ["targi-poznan"]
 [extra]
+end_date = "2023-11-25"
 hide_results = true
 city = "Poznań"
 toclevel = 2

@@ -7,6 +7,7 @@ authors = ["M3n747"]
 chronology = ["ppw", "stocznia-gdanska"]
 venue = ["stocznia-gdanska"]
 [extra]
+end_date = "2025-06-05"
 city = "Gdańsk"
 toclevel = 2
 has_video = true

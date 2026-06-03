@@ -5,6 +5,7 @@ template = "event_page.html"
 chronology = ["ppw", "beer-expo", "poznan-fair"]
 venue = ["targi-poznan"]
 [extra]
+end_date = "2024-11-16"
 city = "Poznań"
 toclevel = 2
 has_video = false
