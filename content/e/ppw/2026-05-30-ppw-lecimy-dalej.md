@@ -56,10 +56,6 @@ Lecimy Dalej (roughly _Let's Keep Going_) was a show by [PpW Ewenement](@/o/ppw.
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
-### Highlights
-
-* TBD
-
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=450781)
