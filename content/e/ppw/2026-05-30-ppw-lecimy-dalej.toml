@@ -37,14 +37,12 @@
 703 = { path = "jeden-czlowiek-a-ile-pasow.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) presents the [PpW Championship](@/c/ppw-championship.md), as Gabriel Queen and [Vic Golden](@/w/vic-golden.md) prepare for the fight.", source = "Ville Paananen" }
 704 = { path = "vic-golden-chyba-nie-jest-zadowolony-z-obrotu-sytuacji.webp", caption = "Gabriel Queen slams Vid Golden's body.", source = "Ville Paananen" }
 705 = { path = "zawsze-jest-tyle-papierkowej-roboty.webp", caption = "Vic Golden responds by stapling a photo to Gabriel Queen's face.", source = "Ville Paananen" }
+706 = { path = "pasowy-kradziej.webp", caption = "[Vic Golden](@/w/vic-golden.md) steals the title belt, much to [Sędzia Seweryn's](@/w/sedzia-seweryn.md) displeasure.", source = "Ville Paananen" }
+707 = { path = "czyje-ciezkie-zywoty-dzwiga-na-koromyslach.webp", caption = "Gabriel Queen holds Vic Golden in a Torture Rack.", source = "Ville Paananen" }
+708 = { path = "vic-golden-oswiecony-1.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) takes some light tubes to Vic Golden….", source = "Ville Paananen" }
+709 = { path = "vic-golden-oswiecony-2.webp", caption = "…swings…", source = "Ville Paananen" }
+710 = { path = "vic-golden-oswiecony-3.webp", caption = "…and boom goes the dynamite.", source = "Ville Paananen" }
+711 = { path = "gabrys-skacze.webp", caption = "Gabriel Queen jumps onto Vic Golden from the top rope.", source = "Ville Paananen" }
+712 = { path = "gabriel-wins.webp", caption = "[Gabriel Queen](@/w/gabriel-queen.md) wins.", source = "Ville Paananen" }
 
-706 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-
-707 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-708 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-709 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-710 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-711 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-712 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-
-801 = { path = ".webp", caption = ".", source = "Szymon Iwulski" }
+801 = { path = "za-wasz-czyn-spotka-was-kara-sroga.webp", caption = "The reverse of the photo with Gabriel Queen's blood on it.", source = "Szymon Iwulski" }
