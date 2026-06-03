@@ -24,13 +24,13 @@ In October and November 2026, the show is touring Europe, with dates in Czechia,
   - s: Loki
 - - Howard Drake
   - s: Odin
-- - Liam McCarthy
+- - Fin McCarthy (Liam McCarthy)
   - s: Borr/Fenrir
 - - Louise Young (Molly Spartan)
   - s: Gullveig
-- - Beau Charles
+- - Beau Charles (El Piraña)
   - s: Baldr
-- - Rhonda Pownall
+- - Rhonda Pownall (Darcy Stone)
   - s: Freyja
 - - Miles Ley
   - s: Thor
