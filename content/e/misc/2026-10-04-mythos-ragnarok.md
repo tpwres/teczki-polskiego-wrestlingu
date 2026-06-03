@@ -16,7 +16,44 @@ Mythos' cast includes professional wrestlers, chiefly but not exclusively from t
 
 In October and November 2026, the show is touring Europe, with dates in Czechia, Germany, Poland, Austria, Switzerland and the Netherlands. The stage in Warsaw will be Stodoła, a well known venue specializing in music, but also comedy, stand-up and other performances.
 
+## Cast
+
 {{ skip_card() }}
+{% cast_card() %}
+- - Ed Gamester
+  - s: Loki
+- - Howard Drake
+  - s: Odin
+- - Liam McCarthy
+  - s: Borr/Fenrir
+- - Louise Young (Molly Spartan)
+  - s: Gullveig
+- - Beau Charles
+  - s: Baldr
+- - Rhonda Pownall
+  - s: Freyja
+- - Miles Ley
+  - s: Thor
+- - Sam Gardiner (Berry)
+  - s: Surtr/Jormundgandr
+- - Daisy Jenkins
+  - s: Hel
+- - Melanie Watson
+  - s: Skuld
+- - Heidi Katrina
+  - s: Freyja
+- - James Dunn (JD Knight)
+  - s: Thor
+- - Lee Alderman (Evan Lee)
+  - s: Baldr
+- - Andy Rigby
+  - s: Surtr
+- credits:
+    Writer, Director, Producer: Ed Gamester
+    Costume Design, Set Design: Melanie Watson
+    Light Design: Dan Phillips
+    Sound: Bear Phillips-Pearce
+{% end %}
 
 ## References
 
