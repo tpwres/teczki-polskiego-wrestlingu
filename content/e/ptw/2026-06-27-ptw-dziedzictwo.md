@@ -16,9 +16,15 @@ has_video = false
 
 ## Build-up
 
-* TBD
+* On 4.06.2026 PTW announced the first match of the show: [Boguś](@/w/bogus.md) vs [Daniel Razor](@/w/daniel-razor.md). Last year at [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md) Boguś wanted to answer Razor's open challenge, but was denied the change by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Boguś](@/w/bogus.md)'
+  - '[Daniel Razor](@/w/daniel-razor.md)'
+  - nc: upcoming
+{% end %}
 
 ### Recap
 
