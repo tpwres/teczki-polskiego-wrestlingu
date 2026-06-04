@@ -44,7 +44,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 ### Recap
 
 * This was the fifth and final edition of Mystic Festival to be held at the [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
-* Initially advertised as a four-day event, the show was silently cut down to three days.
+* Initially advertised as a four-day event, the show was quietly cut down to three days.
 
 ## References
 
