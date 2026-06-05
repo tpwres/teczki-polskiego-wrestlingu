@@ -62,7 +62,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Bartosz Plata](@/w/plata.md)'
 - - '[Marcin Kawusia](@/w/gustav-gryffin.md) & [Jakub Krönung](@/w/jacob-crane.md)'
-  - '[Jakub](@/w/jakub.md) & [El Ogre](@/w/olgierd.md)'
+  - '[Jakub](@/w/jakub.md) & [El Ogrе](@/w/gabriel-queen.md)'
   - s: Water Match
 
 - d: 'Saturday, 6.06'
