@@ -14,78 +14,56 @@ has_video = false
 [extra.gallery]
 +++
 
-More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festival 2026][mystic] in Gdańsk that will take place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's {{ map_pin(v="Mystic Festival's Chill Out Zone") }}Chill Out Zone. A follow-up to the [last year's edition](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md), this event expands on the formula by covering three days of the festival, with fights scheduled hourly between 6:00&nbsp;PM and 9:00&nbsp;PM.
+More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festival 2026][mystic] in Gdańsk that will take place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's {{ map_pin(v="Mystic Festival's Chill Out Zone") }}Chill Out Zone. A follow-up to the [last year's edition](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md), this event expands on the formula by covering three days of the festival, with fights scheduled hourly between 6:00&nbsp;PM and 9:00&nbsp;PM in two-match segments, each around 30 minutes.
 
 ## Build-up
 
 * The only match announced (on 3.06.2026) for the show was a Special Trios Tag Team Match between the current [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) [Bad Trip](@/tt/bad-trip.md) ([Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)) + [Gabriel Queen](@/w/gabriel-queen.md) vs the former Champions [Zmowa](@/tt/zmowa.md) ([Jakub](@/w/jakub.md), [Olgierd](@/w/olgierd.md) & [Mister Z](@/w/mister-z.md)). Despite the Championship belt being featured on the announcement image, the fight itself was not billed as a Championship match.
 
-## Predicted card
+## Card
 
 {% card(predicted=true) %}
-- d: 'Thursday, 18:00'
+- d: 'Thursday, 4.06'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Sentinel](@/w/sentinel.md)'
-  - nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-  - nc: upcoming
-- d: 'Thursday, 19:00'
 - - '[Heavy Biesiad](@/w/biesiad.md) w/ [Heavy Kornel](@/w/sedzia-kornel.md)'
   - '[Progressive Mutant](@/w/mutant.md)'
   - s: Hardcore Metal Match
-    nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '["Szeku" Martynka](@/w/istotna-martynka.md)'
-  - nc: upcoming
-- d: 'Thursday, 20:00'
 - - '[Sambor](@/w/sambor.md)'
   - 'Monster High Zuza'
-  - nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
-  - nc: upcoming
-- d: 'Thursday, 21:00'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mutant](@/w/mutant.md)'
-  - nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md) & Danny Roxx'
   - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)'
   - s: Tag Team Match
-    nc: upcoming
 
-- d: 'Friday, 18:00'
+- d: 'Friday, 5.06'
   date: 2026-06-05
-- - '???'
-  - '???'
-  - nc: upcoming
 - - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Olgierd](@/w/olgierd.md) & [Mister Z](@/w/mister-z.md)'
   - s: Special Trios Tag Team Match
-    nc: upcoming
-- d: 'Friday, 19:00'
-- - '???'
-  - '???'
-  - nc: upcoming
-- - '???'
-  - '???'
-  - nc: upcoming
-- d: 'Friday, 20:00'
-- - '???'
-  - '???'
-  - nc: upcoming
-- - '???'
-  - '???'
-  - nc: upcoming
-- d: 'Friday, 21:00'
-- - '???'
-  - '???'
-  - nc: upcoming
-- - '???'
-  - '???'
-  - nc: upcoming
+- - '[Doom Sambor](@/w/sambor.md)'
+  - '[Thrash Leon Lato](@/w/leon-lato.md)'
+  - s: Hardcore Metal Match
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Sentinel](@/w/sentinel.md)'
+- - '[Bodyguard Michał](@/w/mutant.md) & Monster High Zuza'
+  - '[Istotna Martynka](@/w/istotna-martynka.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - 'Danny Roxx'
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+- - '[Marcin Kawusia](@/w/gustav-gryffin.md) & [Jakub Krönung](@/w/jacob-crane.md)'
+  - '[Jakub](@/w/jakub.md) & [El Ogre](@/w/olgierd.md)'
+  - s: Water Match
 
-- d: 'Saturday, 18:00'
+- d: 'Saturday, 6.06'
   date: 2026-06-06
 - - '???'
   - '???'
@@ -121,8 +99,11 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 
 ### Recap
 
-* This was the fifth and final edition of Mystic Festival to be held at the [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
 * The show was initially advertised as a four-day event, however this turned out to be a mistake on the organiser's part.
+* Keeping with the theme of the festival, each day featured a match between wrestlers representing different genres of metal music.
+* It rained throughout the second day of the show, causing a delay; as a result the first segment only consisted of a single match (the Special Trios Tag Team Match).
+* PpW played along with the weather and incorporated it into the show: [Olgierd](@/w/olgierd.md) came out wearing a raincoat and swimming goggles, [Jakub](@/w/jakub.md) carried an umbrella and everybody kept slipping on the wet ring.
+* This was the fifth and final edition of Mystic Festival to be held at the [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
 
 ## References
 
