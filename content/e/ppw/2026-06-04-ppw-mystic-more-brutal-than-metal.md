@@ -54,7 +54,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Sentinel](@/w/sentinel.md)'
 - - '[Bodyguard Michał](@/w/mutant.md) & Monster High Zuza'
-  - '[Istotna Martynka](@/w/istotna-martynka.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+  - '["Szeku" Martynka](@/w/istotna-martynka.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Danny Roxx'
 - - '[Biesiad Strong](@/w/biesiad.md)'
