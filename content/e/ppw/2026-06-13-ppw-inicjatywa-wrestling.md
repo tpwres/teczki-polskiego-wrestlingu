@@ -41,7 +41,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenem
     nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '["Fox" Jakub](@/w/jakub.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Highlights
