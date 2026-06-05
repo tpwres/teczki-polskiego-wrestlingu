@@ -39,6 +39,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
   - '[Leon Lato](@/w/leon-lato.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mutant](@/w/mutant.md)'
+  - r: Submission
 - - '[Johnny Blade](@/w/johnny-blade.md) & Danny Roxx'
   - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)'
   - s: Tag Team Match
@@ -53,6 +54,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
   - s: Hardcore Metal Match
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Sentinel](@/w/sentinel.md)'
+  - r: Submission
 - - '[Bodyguard Michał](@/w/mutant.md) & Monster High Zuza'
   - '["Szeku" Martynka](@/w/istotna-martynka.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
