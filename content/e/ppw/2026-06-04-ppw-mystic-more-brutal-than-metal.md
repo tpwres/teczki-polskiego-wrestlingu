@@ -42,7 +42,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 - d: 'Thursday, 21:00'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mutant](@/w/mutant.md)'
-- - '[Johnny Blade](@/w/johnny-blade.md), ???'
+- - '[Johnny Blade](@/w/johnny-blade.md), Danny Roxx'
   - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md), [Jakub](@/w/jakub.md)'
   - s: Tag Team Match
 
