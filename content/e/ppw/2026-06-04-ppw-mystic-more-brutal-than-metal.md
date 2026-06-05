@@ -36,7 +36,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
   - '["Szeku" Martynka](@/w/istotna-martynka.md)'
 - d: 'Thursday, 20:00'
 - - '[Sambor](@/w/sambor.md)'
-  - 'Monster High Suzie'
+  - 'Monster High Zuza'
 - - '[Goblin](@/w/goblin.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
 - d: 'Thursday, 21:00'
