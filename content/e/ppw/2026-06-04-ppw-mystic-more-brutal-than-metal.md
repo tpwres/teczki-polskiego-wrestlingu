@@ -42,8 +42,8 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 - d: 'Thursday, 21:00'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mutant](@/w/mutant.md)'
-- - '[Johnny Blade](@/w/johnny-blade.md), Danny Roxx'
-  - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md), [Jakub](@/w/jakub.md)'
+- - '[Johnny Blade](@/w/johnny-blade.md) & Danny Roxx'
+  - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)'
   - s: Tag Team Match
 
 - d: 'Friday, 18:00'
@@ -52,7 +52,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
   - '???'
   - nc: upcoming
 - - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md), [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Olgierd](@/w/olgierd.md) & [Mister Z](@/w/mister-z.md)'
   - s: Special Trios Tag Team Match
     nc: upcoming
 - d: 'Friday, 19:00'
