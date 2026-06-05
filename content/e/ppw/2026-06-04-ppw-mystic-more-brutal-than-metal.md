@@ -23,28 +23,98 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 ## Predicted card
 
 {% card(predicted=true) %}
-- d: Day 1
+- d: 'Thursday, 18:00'
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Sentinel](@/w/sentinel.md)'
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+- d: 'Thursday, 19:00'
+- - '[Heavy Biesiad](@/w/biesiad.md) w/ [Heavy Kornel](@/w/sedzia-kornel.md)'
+  - '[Progressive Mutant](@/w/mutant.md)'
+  - s: Hardcore Metal Match
+- - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '["Szeku" Martynka](@/w/istotna-martynka.md)'
+- d: 'Thursday, 20:00'
+- - '[Sambor](@/w/sambor.md)'
+  - 'Monster High Suzie'
+- - '[Goblin](@/w/goblin.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+- d: 'Thursday, 21:00'
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Mutant](@/w/mutant.md)'
+- - '[Johnny Blade](@/w/johnny-blade.md), ???'
+  - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md), [Jakub](@/w/jakub.md)'
+  - s: Tag Team Match
+
+- d: 'Friday, 18:00'
+  date: 2026-06-05
 - - '???'
   - '???'
   - nc: upcoming
-- d: Day 2
-  date: 2026-06-05
 - - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) + [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md), [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md)'
   - s: Special Trios Tag Team Match
     nc: upcoming
-- d: Day 3
-  date: 2026-06-06
+- d: 'Friday, 19:00'
+- - '???'
+  - '???'
+  - nc: upcoming
+- - '???'
+  - '???'
+  - nc: upcoming
+- d: 'Friday, 20:00'
+- - '???'
+  - '???'
+  - nc: upcoming
+- - '???'
+  - '???'
+  - nc: upcoming
+- d: 'Friday, 21:00'
+- - '???'
+  - '???'
+  - nc: upcoming
 - - '???'
   - '???'
   - nc: upcoming
 
+- d: 'Saturday, 18:00'
+  date: 2026-06-06
+- - '???'
+  - '???'
+  - nc: upcoming
+- - '???'
+  - '???'
+  - nc: upcoming
+- d: 'Saturday, 19:00'
+- - '???'
+  - '???'
+  - nc: upcoming
+- - '???'
+  - '???'
+  - nc: upcoming
+- d: 'Saturday, 20:00'
+- - '???'
+  - '???'
+  - nc: upcoming
+- - '???'
+  - '???'
+  - nc: upcoming
+- d: 'Saturday, 21:00'
+- - '???'
+  - '???'
+  - nc: upcoming
+- - '???'
+  - '???'
+  - nc: upcoming
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md), [Joker](@/w/joker.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
 ### Recap
 
 * This was the fifth and final edition of Mystic Festival to be held at the [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
-* Initially advertised as a four-day event, the show was quietly cut down to three days.
+* The show was initially advertised as a four-day event, however this turned out to be a mistake on the organiser's part.
 
 ## References
 
