@@ -16,7 +16,7 @@ has_video = false
 
 ## Build-up
 
-* On 4.06.2026 PTW announced the first match of the show: [Boguś](@/w/bogus.md) vs [Daniel Razor](@/w/daniel-razor.md). Last year at [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md) Boguś wanted to answer Razor's open challenge, but was denied the change by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
+* On 4.06.2026 PTW announced the first match of the show: [Boguś](@/w/bogus.md) vs [Daniel Razor](@/w/daniel-razor.md). Last year at [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md) Boguś wanted to answer Razor's open challenge, but was denied the chance by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 * [Fabian](@/w/fabian.md), who skipped the [previous show](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), was announced on 5.06.2026 to make a spectacular return by throwing a "party above all parties" - the Fabian Festival.
 
 ## Predicted card
