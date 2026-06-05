@@ -27,7 +27,7 @@ has_video = false
   - nc: upcoming
 - - '[Fabian](@/w/fabian.md)'
   - g: Fabian Festival
-  - nc: upcoming
+    nc: upcoming
 {% end %}
 
 ### Recap
