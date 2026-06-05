@@ -20,7 +20,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 
 * The only match announced (on 3.06.2026) for the show was a Special Trios Tag Team Match between the current [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) [Bad Trip](@/tt/bad-trip.md) ([Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)) + [Gabriel Queen](@/w/gabriel-queen.md) vs the former Champions [Zmowa](@/tt/zmowa.md) ([Jakub](@/w/jakub.md), [Olgierd](@/w/olgierd.md) & [Mister Z](@/w/mister-z.md)). Despite the Championship belt being featured on the announcement image, the fight itself was not billed as a Championship match.
 
-## Card
+## Predicted card
 
 {% card(predicted=true) %}
 - d: 'Thursday, 4.06'
