@@ -26,25 +26,33 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 - d: 'Thursday, 18:00'
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Sentinel](@/w/sentinel.md)'
+  - nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Bartosz Plata](@/w/plata.md)'
+  - nc: upcoming
 - d: 'Thursday, 19:00'
 - - '[Heavy Biesiad](@/w/biesiad.md) w/ [Heavy Kornel](@/w/sedzia-kornel.md)'
   - '[Progressive Mutant](@/w/mutant.md)'
   - s: Hardcore Metal Match
+    nc: upcoming
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '["Szeku" Martynka](@/w/istotna-martynka.md)'
+  - nc: upcoming
 - d: 'Thursday, 20:00'
 - - '[Sambor](@/w/sambor.md)'
   - 'Monster High Zuza'
+  - nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
+  - nc: upcoming
 - d: 'Thursday, 21:00'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Mutant](@/w/mutant.md)'
+  - nc: upcoming
 - - '[Johnny Blade](@/w/johnny-blade.md) & Danny Roxx'
   - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)'
   - s: Tag Team Match
+    nc: upcoming
 
 - d: 'Friday, 18:00'
   date: 2026-06-05
