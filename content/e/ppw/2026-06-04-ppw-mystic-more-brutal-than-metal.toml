@@ -35,9 +35,19 @@
 1006 = { path = "this-is-the-end-beautiful-friend.webp", caption = "Friday, 5.06<br/>Doom Sambor piledrives Thrash Leon Lato onto Johnny Blade's _END_ road sign.", source = "M3n747" }
 1007 = { path = "a-teraz-pewnie-chlapnie-zywca.webp", caption = "Friday, 5.06<br/>[Doom Sambor](@/w/sambor.md) victorious.", source = "M3n747" }
 
+1101 = { path = "panie-kran-jaki-pan-przyklad-mlodziezy-dajesz.webp", caption = 'Satuday, 6.06<br/>Jacob Crane threatens Sentinel with a "deadly weapon".', source = "M3n747" }
+1102 = { path = "i-wez-tu-zdyskwalifikuj-takiego.webp", caption = "Satuday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md) is not above threatening Sędzia Seweryn either.", source = "M3n747" }
+1103 = { path = "pomysl-mu-nie-wypalil.webp", caption = "Satuday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md) slips on the wet surface and loses grip of his weapon.", source = "M3n747" }
+1104 = { path = "duke-tez-mial-jaja-ze-stali.webp", caption = "Satuday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md) hits his head hard against Sentinel's massive metal _cojones_.", source = "M3n747" }
+1105 = { path = "kto-pierwszy-ten-pierwszy.webp", caption = "Satuday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md), Sentinel and [Sędzia Seweryn](@/w/sedzia-seweryn.md) scramble for the dropped pistol.", source = "M3n747" }
+1106 = { path = "and-you-will-know-my-name-is-the-crane-when-i-squirt-my-water-upon-you.webp", caption = "Satuday, 6.06<br/>Jacob Crane forces Sentinel to surrender at gunpoint.", source = "M3n747" }
+1107 = { path = "no-to-ten-pan-juz-nie-posedziuje-wiecej.webp", caption = "Satuday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md) murders Sędzia Seweryn…", source = "M3n747" }
+1108 = { path = "i-ten-pan-tez-juz-raczej-nie-przyjdzie.webp", caption = "Satuday, 6.06<br/>…and also a fan, for good measure.", source = "M3n747" }
+1109 = { path = "zabojcza-bron-5.webp", caption = "Satuday, 6.06<br/>Close-up of Jacob Crane's water pistol.", source = "M3n747" }
 
-2201 = { path = ".webp", caption = "Satudday, 6.06<br/>.", source = "M3n747" }
-2301 = { path = ".webp", caption = "Satudday, 6.06<br/>.", source = "M3n747" }
+
+2201 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
+2301 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
 
 
 

@@ -14,7 +14,7 @@ has_video = false
 [extra.gallery]
 +++
 
-More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festival 2026][mystic] in Gdańsk that will take place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's {{ map_pin(v="Mystic Festival's Chill Out Zone") }}Chill Out Zone. A follow-up to the [last year's edition](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md), this event expands on the formula by covering three days of the festival, with fights scheduled hourly between 6:00&nbsp;PM and 9:00&nbsp;PM in two-match segments, each around 30 minutes.
+More Brutal Than Metal 2 was a four-day show accompanying [Mystic Festival 2026][mystic] in Gdańsk that took place in the historical [Gdańsk Shipyard](@/v/stocznia-gdanska.md), in the festival's {{ map_pin(v="Mystic Festival's Chill Out Zone") }}Chill Out Zone. A follow-up to the [last year's edition](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md), this event expands on the formula by covering three days of the festival, with fights scheduled hourly between 6:00&nbsp;PM and 9:00&nbsp;PM in two-match segments, each around 30 minutes.
 
 ## Build-up
 
@@ -101,7 +101,7 @@ More Brutal Than Metal 2 is an upcoming four-day show accompanying [Mystic Festi
 * The show was initially advertised as a four-day event, however this turned out to be a mistake on the organiser's part.
 * Keeping with the theme of the festival, each day featured a match between wrestlers representing different genres of metal music.
 * It rained throughout the second day of the show, causing a delay; as a result the first segment only consisted of a single match (the Special Trios Tag Team Match).
-* PpW played along with the weather and incorporated it into the show: [Olgierd](@/w/olgierd.md) came out wearing a raincoat and swimming goggles, [Jakub](@/w/jakub.md) carried an umbrella and everybody kept slipping on the wet ring.
+* PpW played along with the weather and incorporated it into the show: [Olgierd](@/w/olgierd.md) came out wearing a raincoat and swimming goggles, [Jakub](@/w/jakub.md) carried an umbrella, [Jacob Crane](@/w/jacob-crane.md) had a concealed water pistol, and everybody kept slipping on the wet ring.
 * This was the fifth and final edition of Mystic Festival to be held at the [Gdańsk Shipyard](@/v/stocznia-gdanska.md).
 
 ## References
