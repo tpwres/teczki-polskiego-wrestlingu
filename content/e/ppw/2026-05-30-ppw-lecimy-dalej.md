@@ -51,13 +51,10 @@ Lecimy Dalej (roughly _Let's Keep Going_) was a show by [PpW Ewenement](@/o/ppw.
   - '[Vic Golden](@/w/vic-golden.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
 - credits:
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
     Special Guest Referee: '[Mister Z](@/w/mister-z.md)'
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
-
-### Highlights
-
-* TBD
 
 ## References
 
