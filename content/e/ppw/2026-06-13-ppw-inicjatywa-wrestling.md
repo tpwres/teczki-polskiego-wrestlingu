@@ -1,7 +1,7 @@
 +++
 title = "PpW Inicjatywa Wrestling"
 template = "event_page.html"
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["rozbrat"]
@@ -21,7 +21,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenem
 * On 27.05.2026 PpW announced a match between [Antoni Ocean](@/w/antoni-ocean.md), [Biesiad Strong](@/w/biesiad.md), [Mister Z](@/w/mister-z.md) and [Boro](@/w/boro.md) in a stipulation previously unseen in the promotion: a Fans Bring Weapons Match.
 * On 1.06.2026 PpW announced [Olgierd](@/w/olgierd.md) vs [Gabriel Queen](@/w/gabriel-queen.md) for the [PpW Championship](@/c/ppw-championship.md). Olgierd had recently lost the gold to Queen at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), which makes this match a chance for him to regain the title after just a month.
 * On 5.06 PpW announced [Jacob Crane](@/w/jacob-crane.md) vs ["Fox" Jakub](@/w/jakub.md). Crane submitted the leader of [Zmowa](@/tt/zmowa.md), [Mister Z](@/w/mister-z.md), at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), and now he aims to defeat the stable's next member.
-* In an [instagram reel][kebaba] published on June 6th, after dispatching [Zmowa](@/tt/zmowa.md) at [More Brutal Than Metal](@/e/ppw/2026-06-04-ppw-mystic-more-brutal-than-metal.md), [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) were sharing a Döner at an outdoor table, and thinking about dessert to go along with it. Goblin wanted some baklava, which was unfortunately not available. But the two figured out there should be some in Poznań.
+* In an [Instagram reel][kebaba] published on 6.06.2026, after dispatching [Zmowa](@/tt/zmowa.md) at [More Brutal than Metal 2](@/e/ppw/2026-06-04-ppw-mystic-more-brutal-than-metal.md), [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) were sharing a kebab at an outdoor table, and thinking about a dessert to go along with it. Goblin wanted some baklava, which was unfortunately not available. But the two figured out there should be some in Poznań.
   A day later, PpW announced they are indeed getting some Baklava: the German team of [Aytaç Bahar](@/w/aytac-bahar.md) and [Joshua Amaru](@/w/joshua-amaru.md), most recently seen at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) back in 2024.
 
 ## Predicted card
@@ -45,7 +45,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenem
   - '["Fox" Jakub](@/w/jakub.md)'
   - nc: upcoming
 - - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - 'A Bite Of Baklava: [Aytaç Bahar](@/w/aytac-bahar.md) & [Joshua Amaru](@/w/joshua-amaru.md)'
+  - 'A Bite of Baklava: [Aytaç Bahar](@/w/aytac-bahar.md) & [Joshua Amaru](@/w/joshua-amaru.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
 {% end %}
