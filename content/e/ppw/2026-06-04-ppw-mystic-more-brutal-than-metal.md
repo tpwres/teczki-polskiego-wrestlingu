@@ -62,7 +62,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
   - 'Danny Roxx'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-- - '[Marcin Kawusia](@/w/gustav-gryffin.md) & [Jakub Krönung](@/w/jacob-crane.md)'
+- - '[Marcin Kawusia](@/w/gustav-gryffin.md) & [Jacobs Krönung](@/w/jacob-crane.md)'
   - '[Jakub](@/w/jakub.md) & [El Ogrе](@/w/gabriel-queen.md)'
   - s: Tag Team Water Match
 
