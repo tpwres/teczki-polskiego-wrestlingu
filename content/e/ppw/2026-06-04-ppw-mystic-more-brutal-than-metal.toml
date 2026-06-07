@@ -2,13 +2,13 @@
 0002 = { path = "mystic-mapka-2026.webp", caption = "Map of the festival area. Note a pin labelled &quot;wrestling&quot; in the Chill Out Zone in the bottom right corner.", source = "Official Mystic Festival Facebook" }
 0003 = { path = "bad-trip-gabriel-queen-vs-zmowa.webp", caption = "Image announcing the Trios Tag Team Match. Left to right, top: [Jakub](@/w/jakub.md), [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md); bottom: [Goblin](@/w/goblin.md), [Gabriel Queen](@/w/gabriel-queen.md), [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Official PpW Facebook" }
 
-0700 = { path = "sadeckie-zaklady-eksploatacji-kruszywa-represent.webp", caption = "Thursday, 4.06<br/>[Istotna Martynka](@/w/istotna-martynka.md) poses next to the ring.", source = "M3n747" }
+0700 = { path = "sadeckie-zaklady-eksploatacji-kruszywa-represent.webp", caption = 'Thursday, 4.06<br/>["Szeku" Martynka](@/w/istotna-martynka.md) poses next to the ring.', source = "M3n747" }
 0701 = { path = "joker.webp", caption = "Thursday, 4.06<br/>[Joker](@/w/joker.md) opens the final segment of the day.", source = "M3n747" }
 0702 = { path = "zara-sie-bydom-bili.webp", caption = "Thursday, 4.06<br/>Left to right: [Mutant](@/w/mutant.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Jacob Crane](@/w/jacob-crane.md), [Joker](@/w/joker.md).", source = "M3n747" }
 0703 = { path = "kran-wygral-z-lopata.webp", caption = "Thursday, 4.06<br/>Victorious [Jacob Crane](@/w/jacob-crane.md) with Mutant's custom snow shovel. To the right kneels [Sędzia Kornel](@/w/sedzia-kornel.md).", source = "M3n747" }
 
 0801 = { path = "sewi-robi-tak-zeby-bylo-okej.webp", caption = "Thursday, 4.06<br/>[Sędzia Seweryn](@/w/sedzia-seweryn.md) makes some last-minute adjustments.", source = "M3n747" }
-0802 = { path = "zmowa-wchodzi-zepsuc-mystica.webp", caption = "Thursday, 4.06<br/>[Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md) make their entrance. To the left sit [Mister Z](@/w/mister-z.md), [Michael HT](@/w/michael-ht.md) and Istotna Martynka; in front stands Goblin; on the far right is [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "M3n747" }
+0802 = { path = "zmowa-wchodzi-zepsuc-mystica.webp", caption = 'Thursday, 4.06<br/>[Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md) make their entrance. To the left sit [Mister Z](@/w/mister-z.md), [Michael HT](@/w/michael-ht.md) and "Szeku" Martynka; in front stands Goblin; on the far right is [Gustav Gryffin](@/w/gustav-gryffin.md).', source = "M3n747" }
 0803 = { path = "nie-wiem-kto-ale-lubi-guns-n-roses.webp", caption = "Thursday, 4.06<br/>Danny Roxx and Johnny Blade.", source = "M3n747" }
 0804 = { path = "koniec-jest-bliski.webp", caption = "Thursday, 4.06<br/>[Johnny Blade](@/w/johnny-blade.md) with his trademark _END_ road sign climbs to the top rope, while Danny Roxx, Olgierd and Jakub are all down on the mat.", source = "M3n747" }
 0805 = { path = "tombstone-hooldriver.webp", caption = "Thursday, 4.06<br/>Olgierd about to hit Johnny Blade with a Tombstone Piledriver, leaving [Sędzia Seweryn](@/w/sedzia-seweryn.md) terrified and [Jakub](@/w/jakub.md) pleased with the turn of the events.", source = "M3n747" }
@@ -17,5 +17,47 @@
 0808 = { path = "sluzy-do-siadania-nie-do-obijania.webp", caption = "Thursday, 4.06<br/>Jakub holds Johnny Blade as Olgierd is about to hit him with a chair, but Danny Roxx intervenes.", source = "M3n747" }
 0809 = { path = "no-i-klops-juz-nie-usiadziesz.webp", caption = "Thursday, 4.06<br/>Danny Roxx's ferocious attack on Jakub breaks the chair mid-swing.", source = "M3n747" }
 0810 = { path = "koniec-krzesla.webp", caption = "Thursday, 4.06<br/>Danny Roxx and [Johnny Blade](@/w/johnny-blade.md) may have lost, but the moral victory is theirs.", source = "M3n747" }
+
+0901 = { path = "polski-podwodny-wrestling.webp", caption = "Friday, 5.06<br/>Left to right: Jaku, Olgierd, [Sędzia Seweryn](@/w/sedzia-seweryn.md), Mister Z.", source = "M3n747" }
+0902 = { path = "mam-to-na-tasmie.webp", caption = "Friday, 5.06<br/>Mister Z taped to a ring post, while Gustav Gryffin gets hit with a trash can by Olgierd. In the background, [Jacob Crane](@/w/jacob-crane.md), [Michael HT](@/w/michael-ht.md) and [Biesiad](@/w/biesiad.md) observe the action.", source = "M3n747" }
+0903 = { path = "slippery-when-fox.webp", caption = "Friday, 5.06<br/>Jakub slips on the wet mat while trying to attack Gabriel Queen, much to [Sędzia Seweryn](@/w/sedzia-seweryn.md) poorly-hidden Schadenfreude.", source = "M3n747" }
+0904 = { path = "obrady-okraglego-stolu-po-rundzie-gluchego-telefonu.webp", caption = "Friday, 5.06<br/>The two teams have a seat to talk thinkgs over like adults…", source = "M3n747" }
+0905 = { path = "this-is-not-quite-sparta-but-still.webp", caption = "Friday, 5.06<br/>…however [Gabriel Queen](@/w/gabriel-queen.md) & Co. approach things more directly…", source = "M3n747" }
+0906 = { path = "no-i-spoko.webp", caption = "Friday, 5.06<br/>…which [Sędzia Seweryn](@/w/sedzia-seweryn.md) appears to understand.", source = "M3n747" }
+0907 = { path = "zrob-jak-riverman-i-splywaj.webp", caption = "Friday, 5.06<br/>Gabriel Queen, Goblin and [Gustav Gryffin](@/w/gustav-gryffin.md) celebrate their victory as Jakub struggles to get back on his feet. [Sędzia Seweryn](@/w/sedzia-seweryn.md) casually stands to the side.", source = "M3n747" }
+0999 = { path = "sztanga.webp", caption = "Friday, 5.06<br/>A dumbbell used in the fight.", source = "M3n747" }
+
+1001 = { path = "doombor.webp", caption = "Friday, 5.06<br/>[Doom Sambor](@/w/sambor.md).", source = "M3n747" }
+1002 = { path = "thrashato.webp", caption = "Friday, 5.06<br/>Thrash Leon Lato, plus Sędzia Kornel.", source = "M3n747" }
+1003 = { path = "thrash-is-doomed.webp", caption = "Friday, 5.06<br/>[Doom Sambor](@/w/sambor.md) chokes [Thrash Leon Lato](@/w/leon-lato.md) with a leather belt.", source = "M3n747" }
+1004 = { path = "asysta.webp", caption = "Friday, 5.06<br/>Fans hold [Doom Sambor](@/w/sambor.md) immobile to help Thrash Leon Lato hit him with a powerful chop.", source = "M3n747" }
+1005 = { path = "metal-on-metal-wprawdzie-nie-kowadlem-ale-tez-pasuje.webp", caption = "Friday, 5.06<br/>Thrash Leon Lato swings heavy metal table legs at Doom Sambor. [Sędzia Kornel](@/w/sedzia-kornel.md) appears to say his goodbyes to the Slavic Warrior", source = "M3n747" }
+1006 = { path = "this-is-the-end-beautiful-friend.webp", caption = "Friday, 5.06<br/>Doom Sambor piledrives Thrash Leon Lato onto Johnny Blade's _END_ road sign.", source = "M3n747" }
+1007 = { path = "a-teraz-pewnie-chlapnie-zywca.webp", caption = "Friday, 5.06<br/>[Doom Sambor](@/w/sambor.md) victorious.", source = "M3n747" }
+
+1101 = { path = "panie-kran-jaki-pan-przyklad-mlodziezy-dajesz.webp", caption = 'Friday, 5.06<br/>Jacob Crane threatens Sentinel with a "deadly weapon".', source = "M3n747" }
+1102 = { path = "i-wez-tu-zdyskwalifikuj-takiego.webp", caption = "Friday, 5.06<br/>[Jacob Crane](@/w/jacob-crane.md) is not above threatening Sędzia Seweryn either.", source = "M3n747" }
+1103 = { path = "pomysl-mu-nie-wypalil.webp", caption = "Friday, 5.06<br/>[Jacob Crane](@/w/jacob-crane.md) slips on the wet surface and loses grip of his weapon.", source = "M3n747" }
+1104 = { path = "duke-tez-mial-jaja-ze-stali.webp", caption = "Friday, 5.06<br/>[Jacob Crane](@/w/jacob-crane.md) hits his head hard against Sentinel's massive metal _cojones_.", source = "M3n747" }
+1105 = { path = "kto-pierwszy-ten-pierwszy.webp", caption = "Friday, 5.06<br/>[Jacob Crane](@/w/jacob-crane.md), Sentinel and [Sędzia Seweryn](@/w/sedzia-seweryn.md) scramble for the dropped pistol.", source = "M3n747" }
+1106 = { path = "and-you-will-know-my-name-is-the-crane-when-i-squirt-my-water-upon-you.webp", caption = "Friday, 5.06<br/>Jacob Crane forces Sentinel to surrender at gunpoint.", source = "M3n747" }
+1107 = { path = "no-to-ten-pan-juz-nie-posedziuje-wiecej.webp", caption = "Friday, 5.06<br/>[Jacob Crane](@/w/jacob-crane.md) murders Sędzia Seweryn…", source = "M3n747" }
+1108 = { path = "i-ten-pan-tez-juz-raczej-nie-przyjdzie.webp", caption = "Friday, 5.06<br/>…and also a fan, for good measure.", source = "M3n747" }
+1109 = { path = "zabojcza-bron-5.webp", caption = "Friday, 5.06<br/>Close-up of Jacob Crane's water pistol.", source = "M3n747" }
+
+
+2201 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
+2301 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
+
+
+
+
+
+
+
+
+
+
+
 
 9909 = { path = "mystic-koszulka-ppw.webp", caption = "A PpW/Mystic T-shirt available at the festival's merch stands.", source = "M3n747" }
