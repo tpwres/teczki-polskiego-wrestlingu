@@ -46,6 +46,8 @@ Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenem
   - nc: upcoming
 - - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - 'A Bite Of Baklava: [Aytaç Bahar](@/w/aytac-bahar.md) & [Joshua Amaru](@/w/joshua-amaru.md)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: Tag Team Match
 {% end %}
 
 ### Highlights

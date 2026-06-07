@@ -130,6 +130,12 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
   - s: Tag Team Match
     en: '[PpW Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md)'
     ed: 2026-05-30
+- - 'Bad Trip: Goblin & Gustav Gryffin(c)'
+  - 'A Bite Of Baklava: [Aytaç Bahar](@/w/aytac-bahar.md) & [Joshua Amaru](@/w/joshua-amaru.md)'
+  - s: Tag Team Match
+    en: '[PpW Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md)'
+    ed: 2026-06-13
+    nc: upcoming
 {% end %}
 
 ## References
