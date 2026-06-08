@@ -50,29 +50,29 @@
 2003 = { path = "sambor-to-taki-uprzejmy-mlodzieniec-ustapil-panu-miejsca.webp", caption = "Satuday, 6.06<br/>[Sambor](@/w/sambor.md) finishes the job. [Sędzia Kornel](@/w/sedzia-kornel.md) stands back.", source = "M3n747" }
 2004 = { path = "kornel-z-zetem.webp", caption = "Satuday, 6.06<br/>Mister Z wins.", source = "M3n747" }
 
-2101 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
-
-2102 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
-
-2103 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
-2104 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
-2105 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
-2106 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
-
-
+2101 = { path = "whoya-gonna-call.webp", caption = "Satuday, 6.06<br/>[Jakub's](@/w/jakub.md) entrance.", source = "M3n747" }
+2102 = { path = "tanczacy-z-lopatami.webp", caption = "Satuday, 6.06<br/>[Mutant](@/w/mutant.md), announced by [Joker](@/w/joker.md).", source = "M3n747" }
+2103 = { path = "grosik-daj-axelowi.webp", caption = "Satuday, 6.06<br/>[Jakub](@/w/jakub.md) holds a crowdfunding campaign.", source = "M3n747" }
+2104 = { path = "udana-transakcja.webp", caption = "Satuday, 6.06<br/>Jakub purchases [Mutant's](@/w/mutant.md) shovel for 17&nbsp;PLN.", source = "M3n747" }
+2105 = { path = "lopata-bez-kosci.webp", caption = "Satuday, 6.06<br/>Close-up of the shovel. In the background, the match between Mutant and Jakub continues.", source = "M3n747" }
+2106 = { path = "lopata-po-kosciach.webp", caption = "Satuday, 6.06<br/>[Mutant](@/w/mutant.md) about to introduce the shovel to [Jakub](@/w/jakub.md), who's begging for mercy. [Sędzia Seweryn](@/w/sedzia-seweryn.md) appears to agree with the shoveler, rather than the shovelee.", source = "M3n747" }
+2107 = { path = "we-are-we-are-the-youth-of-the-nation.webp", caption = "Satuday, 6.06<br/>A young fan takes Jakub's backstabbing attack on [Mutant](@/w/mutant.md) to heart.", source = "M3n747" }
+2108 = { path = "a-marynarz-na-to-kto-to-wie.webp", caption = "Satuday, 6.06<br/>Only Jakub nose what he's trying to do to Mutant.", source = "M3n747" }
+2109 = { path = "literka-mu-sie-odlepila-temu-mutantu.webp", caption = "Satuday, 6.06<br/>.Back in black. And orange.", source = "M3n747" }
+2110 = { path = "fox-wygral-fuksem.webp", caption = "Satuday, 6.06<br/>[Jakub](@/w/jakub.md) wins.", source = "M3n747" }
+2111 = { path = "lopatologia-niestosowna.webp", caption = "Satuday, 6.06<br/>Jakub attacks Mutant after the bell.", source = "M3n747" }
+2112 = { path = "jak-mutant-przylopacic-jakub-to-byc-dobry-uczynek.webp", caption = "Satuday, 6.06<br/>Mutant repays [Jakub](@/w/jakub.md) in kind.", source = "M3n747" }
+2113 = { path = "proletariusz-ze-srodkiem-produkcji.webp", caption = "Satuday, 6.06<br/>Mutant lost, but he gave it his best shot. With the shovel.", source = "M3n747" }
 
 2201 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
+
+
+
+
 2301 = { path = ".webp", caption = "Satuday, 6.06<br/>.", source = "M3n747" }
 
 
 
 
-
-
-
-
-
-
-
-
-9909 = { path = "mystic-koszulka-ppw.webp", caption = "A PpW/Mystic T-shirt available at the festival's merch stands.", source = "M3n747" }
+9998 = { path = "prosze-poteznie-wiwatowac.webp", caption = 'The entire team after the show. Left to right, top: [Jakub](@/w/jakub.md), Monster High Zuza, [Mister Z](@/w/mister-z.md), [Mutant](@/w/mutant.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Bartosz Plata](@/w/plata.md), [Leon Lato](@/w/leon-lato.md); middle: [Michael HT](@/w/michael-ht.md), [Johnny Blade](@/w/johnny-blade.md), rookie Młody, [Biesiad Strong](@/w/biesiad.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Antoni Ocean](@/w/antoni-ocean.md), [Joker](@/w/joker.md), [Sambor](@/w/sambor.md), [Sentinel](@/w/sentinel.md), [Jacob Crane](@/w/jacob-crane.md), Danny Roxx, [Sędzia Seweryn](@/w/sedzia-seweryn.md); bottom: Miss Z, ["Ceresit" Martynka](@/w/istotna-martynka.md)', source = "M3n747" }
+9999 = { path = "mystic-koszulka-ppw.webp", caption = "A PpW/Mystic T-shirt available at the festival's merch stands.", source = "M3n747" }
