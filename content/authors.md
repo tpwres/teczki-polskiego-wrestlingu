@@ -14,3 +14,8 @@ Szymon "Iwul" Iwulski \
 [Seweryn "Sewi the Ref" Pielucha](@/w/sedzia-seweryn.md) \
 Krzysztof "M3n747" Gołębiewski
 {% end %}
+
+With valuable contributions by:
+* Dawid Kucharski, MyWrestling.com.pl
+* [Jędruś Bułecka](@/w/jedrus-bulecka.md)
+* Ville Paananen
