@@ -18,4 +18,4 @@ Krzysztof "M3n747" Gołębiewski
 With valuable contributions by:
 * Dawid Kucharski, MyWrestling.com.pl
 * [Jędruś Bułecka](@/w/jedrus-bulecka.md)
-* Ville Paananen
+* 🇫🇮 Ville Paananen
