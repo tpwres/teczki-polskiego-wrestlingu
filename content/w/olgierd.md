@@ -19,8 +19,8 @@ Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler 
 * Years active: 2016-present
 * Gimmicks/nicknames:
   - Krueger {{ org_badge(org='mzw') }}
-  - Hades {{ org_badge(org='ppw') }} (later also as Olgierd)
-  - Olgierd {{ org_badge(orgs=['ptw', 'low']) }}
+  - Hades {{ org_badge(org='ppw') }}
+  - Olgierd {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low', 'kpw']) }}
   - El Ogre {{ org_badge(orgs=['ptw', 'ppw']) }} (masked)
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
@@ -109,6 +109,10 @@ At [Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) Olgierd defeated [Mar
 ### Legacy of Wrestling (2024-present)
 
 In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. He intervened in a match between his partner Marco Hammers and [Filip Fux](@/w/filip-fux.md) later the same night, which led to Legia Łysych vs [Bracia Fux](@/tt/bracia-fux.md) at [LoW vol.2](@/e/low/2025-04-06-low-2.md), in which they were defeated by the reigning and defending [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md). At [Four the Glory](@/e/low/2025-12-20-low-4.md) Olgierd defeated his old coach and rival [Shadow](@/w/shadow.md) in a Non-Title Match during his first fight as the PpW Champion.
+
+### Kombat Pro Wrestling (2026-present)
+
+In April 2026 Olgierd was present at [KPW Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) as a security/staff member. Two months later he was booked for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) in a match against [Filip Fux](@/w/filip-fux.md), thus becoming the first Polish wrestler to work for all active Polish pro federations: [PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md).
 
 ## International wrestling appearances
 

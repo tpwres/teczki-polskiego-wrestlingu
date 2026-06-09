@@ -84,13 +84,15 @@ For a long time KPW did not participate in the Polish wrestling scene; they didn
 
 This slowly started to change nearly a decade after the federation's inception. On 14.10.2024 [Legacy of Wrestling](@/o/low.md) [announced][low-fux] that [Filip Fux](@/w/filip-fux.md) would make an appearance at their [first show](@/e/low/2024-12-01-low-1.md) in a fight with [Marco Hammers](@/w/marco-hammers.md). This was followed on 2.11.2024 by a message from [Chemik](@/w/chemik.md), who issued an open challenge for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at Legacy. This marked the first time KPW wrestlers were allowed to compete in another Polish federation.
 
-In mid-2024 [Adam Wong](@/w/adam-wong.md) from [PpW Ewenement Wrestling](@/o/ppw.md) was seen attending trainings in KPW's wrestling school, and later working as a ring crew member at their shows. In January 2025 KPW posted a photo from a training weekend with Wong clearly visible.
+In mid-2024 [Adam Wong](@/w/adam-wong.md) from [PpW Ewenement Wrestling](@/o/ppw.md) was seen attending trainings in KPW's wrestling school, and later working as a ring crew member at their shows. In January 2025 KPW posted a photo from a training weekend with Wong clearly visible. He also worked two matches as a rookie in 2025, both at the non-canon [show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md).
 
 Present at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) was [Arek Paterek](@/w/arek-paterek.md), sitting in the front row in a [Legacy of Wrestling](@/o/low.md) T-shirt. When the show aired on Extreme Sports Channel, the camera showed him arguing with [Chemik](@/w/chemik.md), and the commentary clearly mentioned Legacy.
 
 The Polish Internet wrestling community reported one incident when fans wearing T-shirts of another Polish organization (specifically PTW) were asked by security to either remove them or wear them inside-out, so as not to show PTW's logo on their own video streaming. They had no issue with merchandise of international provenance, such as AEW or nWo T-shirts.
 
 In January 2026 [Filip Fux](@/w/filip-fux.md) debuted for [PpW Ewenement Wrestling](@/o/ppw.md), in a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) against [MZW's](@/o/mzw.md) [Tony Sheen](@/w/riverman.md), thus becoming the first active KPW wrestler to fight in the PpW ring. In February he was followed by [Leon Lato](@/w/leon-lato.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
+
+A major shift happened in mid-2026, when [Olgierd](@/w/olgierd.md) was announced for a match against [Filip Fux](@/w/filip-fux.md) at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), becoming the first active wrestler from another promotion to step into the KPW ring.
 
 ## Championships
 
