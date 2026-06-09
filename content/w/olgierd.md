@@ -112,7 +112,7 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
 
 ### Kombat Pro Wrestling (2026-present)
 
-In April 2026 Olgierd was present at [KPW Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) as a security/staff member. Two months later he was booked for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) in a match against [Filip Fux](@/w/filip-fux.md), thus becoming the first Polish wrestler to work for all active Polish pro federations: [PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md).
+In April 2026 Olgierd was present at [KPW Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) as a security/staff member. Two months later he was booked for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) in a match against [Filip Fux](@/w/filip-fux.md), thus becoming the first Polish wrestler to work for all active (as of 2026) Polish pro federations: [PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md).
 
 ## International wrestling appearances
 
