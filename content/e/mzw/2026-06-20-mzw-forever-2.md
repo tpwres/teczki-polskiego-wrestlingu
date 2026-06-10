@@ -21,6 +21,7 @@ MZW Forever 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a 
 * On 28.05.2026 MZW announced a Battle Royal Match. Although no names were mentioned, the promotion stated that the match will include - among others - rookies from [Polish Wrestling Academy](@/o/paw.md).
 * The Championship match between Sheen and Hammers was officially confirmed on 30.05.2026.
 * On 5.06.2026 [Jakub](@/w/jakub.md) issued an open challenge for his [Legacy of Wrestling European Championship](@/c/low-european-championship.md).
+* The next match, publicised on 10.06.2026, was a Three-Way Match between [Disco Pablo](@/w/disco-pablo.md), [Bartosz Plata](@/w/plata.md) and [Mutant](@/w/mutant.md), in his MZW debut.
 
 ## Predicted card
 
@@ -42,6 +43,11 @@ MZW Forever 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a 
 - - '[Jakub](@/w/jakub.md)(c)'
   - '???'
   - c: '[Legacy of Wrestling European Championship](@/c/low-european-championship.md)'
+    nc: upcoming
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Mutant](@/w/mutant.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - s: Three-Way Match
     nc: upcoming
 {% end %}
 

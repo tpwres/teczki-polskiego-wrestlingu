@@ -16,7 +16,7 @@ Michał "Mutant" Świątkowski is a Polish wrestler currently working for [PpW E
 * Gimmicks/nicknames:
   - Daniel Boza {{ org_badge(org='kpw') }}
   - Michał "Mutant" Świątkowski {{ org_badge(org='ptw')}}
-  - Mutant {{ org_badge(org='ppw')}}
+  - Mutant {{ org_badge(org='ppw', 'mzw')}}
   - Muti {{ org_badge(org='ppw') }}, when teaming with ["Ladykiller" Boro](@/w/boro.md)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-2020)
@@ -41,6 +41,10 @@ This marked his last appearance in PTW, as he publicly [announced his departure]
 ### PpW Ewenement Wrestling (2025-)
 
 Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), where he competed in a 10,000&nbsp;PLN Battle Royal with no success. A month later, at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), he appeared in another multi-man match, this time a six-man Bring Your Weapons match, with several of the same opponents. Just two weeks later, he had his first singles match in PpW against [Biesiad Strong](@/w/biesiad.md).
+
+### Maniac Zone Wrestling (2026-)
+
+Mutant made his first appearance in [Maniac Zone Wrestling](@/o/mzw.md) at [MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md), in a Three-Way Match with [Disco Pablo](@/w/disco-pablo.md) and [Bartosz Plata](@/w/plata.md).
 
 ## In wrestling
 
