@@ -18,6 +18,8 @@ has_video = false
 
 * On 4.06.2026 PTW announced the first match of the show: [Boguś](@/w/bogus.md) vs [Daniel Razor](@/w/daniel-razor.md). Last year at [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md) Boguś wanted to answer Razor's open challenge, but was denied the chance by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 * [Fabian](@/w/fabian.md), who skipped the [previous show](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), was announced on 5.06.2026 to make a spectacular return by throwing a "party above all parties" - the Fabian Festival.
+* On 9.06.2026 PTW announced [Krampus](@/w/krampus.md), with no further information at the time.
+* The next day came the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Flex Skywalker, last seen in February at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md).
 
 ## Predicted card
 
@@ -28,6 +30,12 @@ has_video = false
 - - '[Fabian](@/w/fabian.md)'
   - g: Fabian Festival
     nc: upcoming
+- - '[Krampus](@/w/krampus.md)'
+  - '???'
+  - nc: upcoming
+- - 'Flex Skywalker'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - nc: upcoming    
 {% end %}
 
 ### Recap
