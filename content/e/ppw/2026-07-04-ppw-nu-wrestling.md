@@ -17,8 +17,15 @@ Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to
 ## Build-up
 
 * The event was announced via PpW's social media on 30.05.2026.
+* The first match - [Jacob Crane](@/w/jacob-crane.md) vs [Oskar Alexander](@/w/oskar-alexander.md) - was supposed to take place at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), but had to be cancelled due to Oskar's injury. The new date was published on 10.06.2026.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - nc: upcoming
+{% end %}
 
 ### Highlights
 
