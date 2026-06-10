@@ -1,3 +1,5 @@
 01 = { path = "ptw-dziedzictwo-plakat.webp", caption = "Official poster featuring, top: [Nano Lopez](@/w/nano-lopez.md), [Krampus](@/w/krampus.md), [Spartan](@/w/spartan.md); bottom: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Daniel Razor](@/w/daniel-razor.md), [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md).", source = "Official PTW Facebook" }
 02 = { path = "bogus-vs-razor.webp", caption = "Image announcing [Boguś](@/w/bogus.md) vs [Daniel Razor](@/w/daniel-razor.md).", source = "Official PTW Facebook" }
 03 = { path = "fabeaux.webp", caption = "Image announcing [Fabian](@/w/fabian.md).", source = "Official PTW Facebook" }
+04 = { path = "krampus.webp", caption = "Image announcing [Krampus](@/w/krampus.md).", source = "Official PTW Facebook" }
+05 = { path = "flex-skywalker-vs-vincent-caravaggio.webp", caption = "Image announcing Flex Skywalker vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook" }
