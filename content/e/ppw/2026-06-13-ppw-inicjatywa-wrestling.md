@@ -57,7 +57,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenem
     nc: upcoming
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Highlights
