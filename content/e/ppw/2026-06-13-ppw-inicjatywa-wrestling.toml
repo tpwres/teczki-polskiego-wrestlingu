@@ -5,3 +5,4 @@
 005 = { path = "wrestlowaly-dwa-jakuby-jeden-fajny-drugi-rudy.webp", caption = 'Image announcing [Jakub](@/w/jakub.md) vs [Jacob Crane](@/w/jacob-crane.md).', source = "Official PpW Facebook" }
 006 = { path = "baklava-trip.webp", caption = 'Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md) vs [Aytaç Bahar](@/w/aytac-bahar.md) & [Joshua Amaru](@/w/joshua-amaru.md).', source = "Official PpW Facebook" }
 007 = { path = "familia-szlifiarzy.webp", caption = 'Image announcing Laurance Roman & Nick Schreier vs [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md). (Note the typo: _Laurence_.)', source = "Official PpW Facebook" }
+008 = { path = "isnorrata.webp.webp", caption = 'Image announcing [Isnorr](@/w/isnorr.md) vs [Bartosz Plata](@/w/plata.md)', source = "Official PpW Facebook" }
