@@ -21,7 +21,7 @@ Legacy of Wrestling is a Polish wrestling federation founded in 2024, based main
 _See also: [PTW Exits](@/a/ptw-exits.md)_
 
 Over the course of 2023 and 2024 multiple wrestlers left [Prime Time Wrestling](@/o/ptw.md), either quitting voluntarily or being removed by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
-Dissatisfied with their former promotion, they decided to start a wrestling project of their own which, unlike PTW, would be open to cooperation with other Polish organisations.
+Dissatisfied with their former promotion, they decided to start a wrestling project of their own which, unlike PTW, would be [open to cooperation](@/a/polish-forbidden-door.md) with other Polish organisations.
 In early August of 2024 a number of former PTW wrestlers and staff posted to their social media teasing upcoming wrestling-related news.
 
 On the 14th of August a [reveal trailer][reveal-trailer] was posted to a new YouTube channel named Legacy of Wrestling.
