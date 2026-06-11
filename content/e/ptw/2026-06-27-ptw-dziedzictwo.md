@@ -20,10 +20,13 @@ has_video = false
 * [Fabian](@/w/fabian.md), who skipped the [previous show](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), was announced on 5.06.2026 to make a spectacular return by throwing a "party above all parties" - the Fabian Festival.
 * On 9.06.2026 PTW announced [Krampus](@/w/krampus.md), with no further information at the time.
 * The next day came the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Flex Skywalker, last seen in February at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md).
+* Later the same day PTW announced that [Łukasz Okoński](@/w/lukasz-okonski.md) will open the show.
 
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - g: Okoński opens the show
 - - '[Boguś](@/w/bogus.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)'
   - nc: upcoming
