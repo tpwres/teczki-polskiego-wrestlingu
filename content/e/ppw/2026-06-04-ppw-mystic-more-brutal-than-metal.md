@@ -10,7 +10,7 @@ venue = ["stocznia-gdanska"]
 city = "Gdańsk"
 toclevel = 2
 end_date = "2026-06-06"
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -62,7 +62,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
   - 'Danny Roxx'
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-- - '[Marcin Kawusia](@/w/gustav-gryffin.md) & [Jakub Krönung](@/w/jacob-crane.md)'
+- - '[Marcin Kawusia](@/w/gustav-gryffin.md) & [Jacobs Krönung](@/w/jacob-crane.md)'
   - '[Jakub](@/w/jakub.md) & [El Ogrе](@/w/gabriel-queen.md)'
   - s: Tag Team Water Match
 
@@ -133,5 +133,6 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 
 * Cagematch event pages - [day 1](https://www.cagematch.net/?id=1&nr=455636), [day 2](https://www.cagematch.net/?id=1&nr=455095), [day 3](https://www.cagematch.net/r/?id=1&nr=455094)
 * [Announcement post](https://www.facebook.com/FestivalMystic/posts/pfbid02NtnnM1pWYMP4dryYeuUM8JvUwj8Kx4Tg7Coy7NLcnkbXjHVwZR2rnsA5ruxqNNr2l)
+* [Video - Jacob Crane vs Antoni Ocean (day 3)](https://www.youtube.com/watch?v=WO4r-KxKNC8)
 
 [mystic]: https://www.mysticfestival.pl/
