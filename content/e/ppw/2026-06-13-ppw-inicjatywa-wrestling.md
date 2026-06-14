@@ -67,6 +67,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) is an upcoming show by [PpW Ewenem
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=451392)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-inicjatywa-wrestling-06-13-2026-20-35-06) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid0Lna2DtvaYRdyRjKByU7qjRYZm2pmV6ZwTDMufyenFh2rMzGHMw1Vqc4Jf5cLVTyxl)
 
 [rozbrat]: https://en.wikipedia.org/wiki/Rozbrat
