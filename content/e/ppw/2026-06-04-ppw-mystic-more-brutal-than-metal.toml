@@ -45,52 +45,52 @@
 1108 = { path = "i-ten-pan-tez-juz-raczej-nie-przyjdzie.webp", caption = "Friday, 5.06<br/>…and also a fan, for good measure.", source = "M3n747" }
 1109 = { path = "zabojcza-bron-5.webp", caption = "Friday, 5.06<br/>Close-up of Jacob Crane's water pistol.", source = "M3n747" }
 
-2001 = { path = "mister-z-dotyka-trawy.webp", caption = "Satuday, 6.06<br/>[Mister Z](@/w/mister-z.md) thrown out of the ring by Sambor.", source = "M3n747" }
-2002 = { path = "zet-dal-po-heblach.webp", caption = "Satuday, 6.06<br/>[Sambor](@/w/sambor.md) very nearly throws [Mister Z](@/w/mister-z.md) into his own chair.", source = "M3n747" }
-2003 = { path = "sambor-to-taki-uprzejmy-mlodzieniec-ustapil-panu-miejsca.webp", caption = "Satuday, 6.06<br/>[Sambor](@/w/sambor.md) finishes the job. [Sędzia Kornel](@/w/sedzia-kornel.md) stands back.", source = "M3n747" }
-2004 = { path = "kornel-z-zetem.webp", caption = "Satuday, 6.06<br/>Mister Z wins.", source = "M3n747" }
+2001 = { path = "mister-z-dotyka-trawy.webp", caption = "Saturday, 6.06<br/>[Mister Z](@/w/mister-z.md) thrown out of the ring by Sambor.", source = "M3n747" }
+2002 = { path = "zet-dal-po-heblach.webp", caption = "Saturday, 6.06<br/>[Sambor](@/w/sambor.md) very nearly throws [Mister Z](@/w/mister-z.md) into his own chair.", source = "M3n747" }
+2003 = { path = "sambor-to-taki-uprzejmy-mlodzieniec-ustapil-panu-miejsca.webp", caption = "Saturday, 6.06<br/>[Sambor](@/w/sambor.md) finishes the job. [Sędzia Kornel](@/w/sedzia-kornel.md) stands back.", source = "M3n747" }
+2004 = { path = "kornel-z-zetem.webp", caption = "Saturday, 6.06<br/>Mister Z wins.", source = "M3n747" }
 
-2101 = { path = "whoya-gonna-call.webp", caption = "Satuday, 6.06<br/>[Jakub's](@/w/jakub.md) entrance.", source = "M3n747" }
-2102 = { path = "tanczacy-z-lopatami.webp", caption = "Satuday, 6.06<br/>[Mutant](@/w/mutant.md), announced by [Joker](@/w/joker.md).", source = "M3n747" }
-2103 = { path = "grosik-daj-axelowi.webp", caption = "Satuday, 6.06<br/>[Jakub](@/w/jakub.md) holds a crowdfunding campaign.", source = "M3n747" }
-2104 = { path = "udana-transakcja.webp", caption = "Satuday, 6.06<br/>Jakub purchases [Mutant's](@/w/mutant.md) shovel for 17&nbsp;PLN.", source = "M3n747" }
-2105 = { path = "lopata-bez-kosci.webp", caption = "Satuday, 6.06<br/>Close-up of the shovel. In the background, the match between Mutant and Jakub continues.", source = "M3n747" }
-2106 = { path = "lopata-po-kosciach.webp", caption = "Satuday, 6.06<br/>[Mutant](@/w/mutant.md) about to introduce the shovel to [Jakub](@/w/jakub.md), who's begging for mercy. [Sędzia Seweryn](@/w/sedzia-seweryn.md) appears to agree with the shoveler, rather than the shovelee.", source = "M3n747" }
-2107 = { path = "we-are-we-are-the-youth-of-the-nation.webp", caption = "Satuday, 6.06<br/>A young fan takes Jakub's backstabbing attack on [Mutant](@/w/mutant.md) to heart.", source = "M3n747" }
-2108 = { path = "a-marynarz-na-to-kto-to-wie.webp", caption = "Satuday, 6.06<br/>Only Jakub nose what he's trying to do to Mutant.", source = "M3n747" }
-2109 = { path = "literka-mu-sie-odlepila-temu-mutantu.webp", caption = "Satuday, 6.06<br/>Back in black. And orange.", source = "M3n747" }
-2110 = { path = "fox-wygral-fuksem.webp", caption = "Satuday, 6.06<br/>[Jakub](@/w/jakub.md) wins.", source = "M3n747" }
-2111 = { path = "lopatologia-niestosowna.webp", caption = "Satuday, 6.06<br/>Jakub attacks Mutant after the bell.", source = "M3n747" }
-2112 = { path = "jak-mutant-przylopacic-jakub-to-byc-dobry-uczynek.webp", caption = "Satuday, 6.06<br/>Mutant repays [Jakub](@/w/jakub.md) in kind.", source = "M3n747" }
-2113 = { path = "proletariusz-ze-srodkiem-produkcji.webp", caption = "Satuday, 6.06<br/>Mutant lost, but he gave it his best shot. With the shovel.", source = "M3n747" }
+2101 = { path = "whoya-gonna-call.webp", caption = "Saturday, 6.06<br/>[Jakub's](@/w/jakub.md) entrance.", source = "M3n747" }
+2102 = { path = "tanczacy-z-lopatami.webp", caption = "Saturday, 6.06<br/>[Mutant](@/w/mutant.md), announced by [Joker](@/w/joker.md).", source = "M3n747" }
+2103 = { path = "grosik-daj-axelowi.webp", caption = "Saturday, 6.06<br/>[Jakub](@/w/jakub.md) holds a crowdfunding campaign.", source = "M3n747" }
+2104 = { path = "udana-transakcja.webp", caption = "Saturday, 6.06<br/>Jakub purchases [Mutant's](@/w/mutant.md) shovel for 17&nbsp;PLN.", source = "M3n747" }
+2105 = { path = "lopata-bez-kosci.webp", caption = "Saturday, 6.06<br/>Close-up of the shovel. In the background, the match between Mutant and Jakub continues.", source = "M3n747" }
+2106 = { path = "lopata-po-kosciach.webp", caption = "Saturday, 6.06<br/>[Mutant](@/w/mutant.md) about to introduce the shovel to [Jakub](@/w/jakub.md), who's begging for mercy. [Sędzia Seweryn](@/w/sedzia-seweryn.md) appears to agree with the shoveler, rather than the shovelee.", source = "M3n747" }
+2107 = { path = "we-are-we-are-the-youth-of-the-nation.webp", caption = "Saturday, 6.06<br/>A young fan takes Jakub's backstabbing attack on [Mutant](@/w/mutant.md) to heart.", source = "M3n747" }
+2108 = { path = "a-marynarz-na-to-kto-to-wie.webp", caption = "Saturday, 6.06<br/>Only Jakub nose what he's trying to do to Mutant.", source = "M3n747" }
+2109 = { path = "literka-mu-sie-odlepila-temu-mutantu.webp", caption = "Saturday, 6.06<br/>Back in black. And orange.", source = "M3n747" }
+2110 = { path = "fox-wygral-fuksem.webp", caption = "Saturday, 6.06<br/>[Jakub](@/w/jakub.md) wins.", source = "M3n747" }
+2111 = { path = "lopatologia-niestosowna.webp", caption = "Saturday, 6.06<br/>Jakub attacks Mutant after the bell.", source = "M3n747" }
+2112 = { path = "jak-mutant-przylopacic-jakub-to-byc-dobry-uczynek.webp", caption = "Saturday, 6.06<br/>Mutant repays [Jakub](@/w/jakub.md) in kind.", source = "M3n747" }
+2113 = { path = "proletariusz-ze-srodkiem-produkcji.webp", caption = "Saturday, 6.06<br/>Mutant lost, but he gave it his best shot. With the shovel.", source = "M3n747" }
 
-2201 = { path = "jak-uslyszec-siebie-podsrod-chantow-tlumu.webp", caption = "Satuday, 6.06<br/>[Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md) at the merch stand.", source = "M3n747" }
-2202 = { path = "kran-zostal-wrestlniety.webp", caption = "Satuday, 6.06<br/>[Gustav Gryffin](@/w/gustav-gryffin.md) thinks himself superior to Jacob Crane, a sentiment that [Sędzia Seweryn](@/w/sedzia-seweryn.md) seems to be on the fence about.", source = "M3n747" }
-2203 = { path = "shes-a-lumberjack-and-shes-okay.webp", caption = 'Satuday, 6.06<br/>Gustav Gryffin argues with ["Ceresit" Martynka](@/w/istotna-martynka.md) and other lumberjacks.', source = "M3n747" }
-2204 = { path = "ill-give-him-one-of-these-and-ill-give-him-one-of-those.webp", caption = "Satuday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md) attacked by [Gustav Gryffin](@/w/gustav-gryffin.md) against the ropes.", source = "M3n747" }
-2205 = { path = "its-a-pandemonium-in-the-ring.webp", caption = 'Satuday, 6.06<br/>The lumberjacks brawl in the ring. Left to right: Bartosz Plata, Mutant, "Ceresit" Martynka, Monster High Zuza, Gustav Gryffin, Sentinel, Sędzia Seweryn, Mister Z, Leon Lato, Sambor, Antoni Ocean, Jakub.', source = "M3n747" }
-2206 = { path = "sewi-ma-dosc-burd-jak-sam-jackson-mial-dosc-wezy.webp", caption = "Satuday, 6.06<br/>[Sędzia Seweryn](@/w/sedzia-seweryn.md) has had enough and orders a Battle Royal between all the wrestlers present.", source = "M3n747" }
+2201 = { path = "jak-uslyszec-siebie-podsrod-chantow-tlumu.webp", caption = "Saturday, 6.06<br/>[Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md) at the merch stand.", source = "M3n747" }
+2202 = { path = "kran-zostal-wrestlniety.webp", caption = "Saturday, 6.06<br/>[Gustav Gryffin](@/w/gustav-gryffin.md) thinks himself superior to Jacob Crane, a sentiment that [Sędzia Seweryn](@/w/sedzia-seweryn.md) seems to be on the fence about.", source = "M3n747" }
+2203 = { path = "shes-a-lumberjack-and-shes-okay.webp", caption = 'Saturday, 6.06<br/>Gustav Gryffin argues with ["Ceresit" Martynka](@/w/istotna-martynka.md) and other lumberjacks.', source = "M3n747" }
+2204 = { path = "ill-give-him-one-of-these-and-ill-give-him-one-of-those.webp", caption = "Saturday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md) attacked by [Gustav Gryffin](@/w/gustav-gryffin.md) against the ropes.", source = "M3n747" }
+2205 = { path = "its-a-pandemonium-in-the-ring.webp", caption = 'Saturday, 6.06<br/>The lumberjacks brawl in the ring. Left to right: Bartosz Plata, Mutant, "Ceresit" Martynka, Monster High Zuza, Gustav Gryffin, Sentinel, Sędzia Seweryn, Mister Z, Leon Lato, Sambor, Antoni Ocean, Jakub.', source = "M3n747" }
+2206 = { path = "sewi-ma-dosc-burd-jak-sam-jackson-mial-dosc-wezy.webp", caption = "Saturday, 6.06<br/>[Sędzia Seweryn](@/w/sedzia-seweryn.md) has had enough and orders a Battle Royal between all the wrestlers present.", source = "M3n747" }
 
-2301 = { path = "battle-royal-01.webp", caption = 'Satuday, 6.06<br/>Mister Z tries to eliminate Sentinel, while farther back "Ceresit" Martynka hammers Monster High Zuza into the ring.', source = "M3n747" }
-2302 = { path = "battle-royal-02.webp", caption = "Satuday, 6.06<br/>Monster High Zuza is confirmed eliminated by [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
-2303 = { path = "battle-royal-03.webp", caption = 'Satuday, 6.06<br/>"Ceresit" Martynka and Leon Lato join forces to eliminate Sambor (unsuccessfully, for now).', source = "M3n747" }
-2304 = { path = "battle-royal-04.webp", caption = 'Satuday, 6.06<br/>"Ceresit" Martynka takes the full force of Mister Z&apos;s attack.', source = "M3n747" }
-2305 = { path = "battle-royal-05.webp", caption = "Satuday, 6.06<br/>Sentinel holds Jakub in a Fireman's Carry.", source = "M3n747" }
-2306 = { path = "battle-royal-06.webp", caption = 'Satuday, 6.06<br/>[Mister Z](@/w/mister-z.md) attempts to eliminate "Ceresit" Martynka.', source = "M3n747" }
-2307 = { path = "battle-royal-07.webp", caption = "Satuday, 6.06<br/>[Mister Z](@/w/mister-z.md) very nearly eliminated by Leon Lato.", source = "M3n747" }
-2308 = { path = "battle-royal-08.webp", caption = 'Satuday, 6.06<br/>Mutant eliminates "Ceresit" Martynka.', source = "M3n747" }
-2309 = { path = "battle-royal-09.webp", caption = "Satuday, 6.06<br/>Fans help Antoni Ocean stay in the game.", source = "M3n747" }
-2310 = { path = "battle-royal-10.webp", caption = "Satuday, 6.06<br/>Mister Z chokes Leon Lato in the corner, while Jacob Crane tries a questionable trick on Gustav Gryffin.", source = "M3n747" }
-2311 = { path = "battle-royal-11.webp", caption = "Satuday, 6.06<br/>Bartosz Plata hits a German Suplex on Mister Z…", source = "M3n747" }
-2312 = { path = "battle-royal-12.webp", caption = "Satuday, 6.06<br/>…and eliminates him.", source = "M3n747" }
-2313 = { path = "battle-royal-13.webp", caption = "Satuday, 6.06<br/>[Sentinel](@/w/sentinel.md) is out.", source = "M3n747" }
-2314 = { path = "battle-royal-14.webp", caption = "Satuday, 6.06<br/>Jacob Crane kicks Leon Lato out of the ring.", source = "M3n747" }
-2315 = { path = "battle-royal-15.webp", caption = "Satuday, 6.06<br/>Jacob Crane attempts to score a victory over Gustav Gryffin.", source = "M3n747" }
-2316 = { path = "battle-royal-16.webp", caption = "Satuday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md) recovers from an attack by [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "M3n747" }
-2317 = { path = "battle-royal-17.webp", caption = "Satuday, 6.06<br/>Jacob Crane stuns Gustav Gryffin with a powerful kick to the jaw.", source = "M3n747" }
-2318 = { path = "battle-royal-18.webp", caption = "Satuday, 6.06<br/>At this point Jacob Crane's finishing Enzuigeri is but a formality.", source = "M3n747" }
-2319 = { path = "battle-royal-19.webp", caption = "Satuday, 6.06<br/>Jacob Crane bows to the audience.", source = "M3n747" }
+2301 = { path = "battle-royal-01.webp", caption = 'Saturday, 6.06<br/>Mister Z tries to eliminate Sentinel, while farther back "Ceresit" Martynka hammers Monster High Zuza into the ring.', source = "M3n747" }
+2302 = { path = "battle-royal-02.webp", caption = "Saturday, 6.06<br/>Monster High Zuza is confirmed eliminated by [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+2303 = { path = "battle-royal-03.webp", caption = 'Saturday, 6.06<br/>"Ceresit" Martynka and Leon Lato join forces to eliminate Sambor (unsuccessfully, for now).', source = "M3n747" }
+2304 = { path = "battle-royal-04.webp", caption = 'Saturday, 6.06<br/>"Ceresit" Martynka takes the full force of Mister Z&apos;s attack.', source = "M3n747" }
+2305 = { path = "battle-royal-05.webp", caption = "Saturday, 6.06<br/>Sentinel holds Jakub in a Fireman's Carry.", source = "M3n747" }
+2306 = { path = "battle-royal-06.webp", caption = 'Saturday, 6.06<br/>[Mister Z](@/w/mister-z.md) attempts to eliminate "Ceresit" Martynka.', source = "M3n747" }
+2307 = { path = "battle-royal-07.webp", caption = "Saturday, 6.06<br/>[Mister Z](@/w/mister-z.md) very nearly eliminated by Leon Lato.", source = "M3n747" }
+2308 = { path = "battle-royal-08.webp", caption = 'Saturday, 6.06<br/>Mutant eliminates "Ceresit" Martynka.', source = "M3n747" }
+2309 = { path = "battle-royal-09.webp", caption = "Saturday, 6.06<br/>Fans help Antoni Ocean stay in the game.", source = "M3n747" }
+2310 = { path = "battle-royal-10.webp", caption = "Saturday, 6.06<br/>Mister Z chokes Leon Lato in the corner, while Jacob Crane tries a questionable trick on Gustav Gryffin.", source = "M3n747" }
+2311 = { path = "battle-royal-11.webp", caption = "Saturday, 6.06<br/>Bartosz Plata hits a German Suplex on Mister Z…", source = "M3n747" }
+2312 = { path = "battle-royal-12.webp", caption = "Saturday, 6.06<br/>…and eliminates him.", source = "M3n747" }
+2313 = { path = "battle-royal-13.webp", caption = "Saturday, 6.06<br/>[Sentinel](@/w/sentinel.md) is out.", source = "M3n747" }
+2314 = { path = "battle-royal-14.webp", caption = "Saturday, 6.06<br/>Jacob Crane kicks Leon Lato out of the ring.", source = "M3n747" }
+2315 = { path = "battle-royal-15.webp", caption = "Saturday, 6.06<br/>Jacob Crane attempts to score a victory over Gustav Gryffin.", source = "M3n747" }
+2316 = { path = "battle-royal-16.webp", caption = "Saturday, 6.06<br/>[Jacob Crane](@/w/jacob-crane.md) recovers from an attack by [Gustav Gryffin](@/w/gustav-gryffin.md).", source = "M3n747" }
+2317 = { path = "battle-royal-17.webp", caption = "Saturday, 6.06<br/>Jacob Crane stuns Gustav Gryffin with a powerful kick to the jaw.", source = "M3n747" }
+2318 = { path = "battle-royal-18.webp", caption = "Saturday, 6.06<br/>At this point Jacob Crane's finishing Enzuigeri is but a formality.", source = "M3n747" }
+2319 = { path = "battle-royal-19.webp", caption = "Saturday, 6.06<br/>Jacob Crane bows to the audience.", source = "M3n747" }
 
-9997 = { path = "piwo-przyjacielem-wrestlingu.webp", caption = "Satuday, 6.06<br/>Beer is wrestling's friend (and [Gustav's](@/w/gustav-gryffin.md)).", source = "Piaseł Piasecki @ Mystic Festival's Facebook" }
-9998 = { path = "prosze-poteznie-wiwatowac.webp", caption = 'Satuday, 6.06<br/>The entire team after the show. Left to right, top: [Jakub](@/w/jakub.md), Monster High Zuza, [Mister Z](@/w/mister-z.md), [Mutant](@/w/mutant.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Bartosz Plata](@/w/plata.md), [Leon Lato](@/w/leon-lato.md); middle: [Michael HT](@/w/michael-ht.md), [Johnny Blade](@/w/johnny-blade.md), rookie Młody, [Biesiad Strong](@/w/biesiad.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Antoni Ocean](@/w/antoni-ocean.md), [Joker](@/w/joker.md), [Sambor](@/w/sambor.md), [Sentinel](@/w/sentinel.md), [Jacob Crane](@/w/jacob-crane.md), Danny Roxx, [Sędzia Seweryn](@/w/sedzia-seweryn.md); bottom: Zuzia, ["Ceresit" Martynka](@/w/istotna-martynka.md)', source = "M3n747" }
+9997 = { path = "piwo-przyjacielem-wrestlingu.webp", caption = "Saturday, 6.06<br/>Beer is wrestling's friend (and [Gustav's](@/w/gustav-gryffin.md)).", source = "Piaseł Piasecki @ Mystic Festival's Facebook" }
+9998 = { path = "prosze-poteznie-wiwatowac.webp", caption = 'Saturday, 6.06<br/>The entire team after the show. Left to right, top: [Jakub](@/w/jakub.md), Monster High Zuza, [Mister Z](@/w/mister-z.md), [Mutant](@/w/mutant.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Bartosz Plata](@/w/plata.md), [Leon Lato](@/w/leon-lato.md); middle: [Michael HT](@/w/michael-ht.md), [Johnny Blade](@/w/johnny-blade.md), rookie Młody, [Biesiad Strong](@/w/biesiad.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Antoni Ocean](@/w/antoni-ocean.md), [Joker](@/w/joker.md), [Sambor](@/w/sambor.md), [Sentinel](@/w/sentinel.md), [Jacob Crane](@/w/jacob-crane.md), Danny Roxx, [Sędzia Seweryn](@/w/sedzia-seweryn.md); bottom: Zuzia, ["Ceresit" Martynka](@/w/istotna-martynka.md)', source = "M3n747" }
 9999 = { path = "mystic-koszulka-ppw.webp", caption = "A PpW/Mystic T-shirt available at the festival's merch stands.", source = "M3n747" }
