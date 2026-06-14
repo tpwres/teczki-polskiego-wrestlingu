@@ -99,7 +99,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 ## Songs
 
-* _Mam tak samo jak ty_: [Sen o Warszawie][warszawa] by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin. Also a hymn of Legia Warszawa, so used by extension for babyface reception of [Legia Łysych](@/tt/legia-lysych.md).
+* _Mam tak samo jak ty_: [Sen o Warszawie][warszawa] by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin. Also a hymn of Legia Warszawa, so used by association for reception of [Legia Łysych](@/tt/legia-lysych.md). [Olgierd](@/w/olgierd.md) also used it for an extended entrance in [Poznań](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md).
 * _Nie rzucim ziemi skąd nasz ród_: [Rota][rota], a 1908 patriotic poem by Maria Konopnicka. Sometimes heard in matches involving German heels.
 * _Pan kiedyś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by the Polish Pope John Paul&nbsp;II. Fans may start to randomly sing it at 21:37 (9:37&nbsp;PM), the exact hour of his death. It is not in the Pope's memory, however, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
   Also often sang for [Greg](@/w/greg.md) from [Kombat Pro Wrestling](@/o/kpw.md) in his Pope of Polish Wrestling gimmick, which he seems to enjoy.
@@ -133,7 +133,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Goldenowi liże jaja, Oskar to faja") %}ɡˌɔldɛnˈɔvi lˈiʒɛ jˈaja, ˈɔskar tɔ fˈaja{% end %}
 * _Karasie jedzą gówno_ - "[Crucian carps][carassius-carassius] eat shit": used against ["The Riverman" Tony Sheen](@/w/riverman.md), matching his fisherman gimmick. The chant comes from a Polish copypasta. \
   {% ipa(tts="Karasie jedzą gówno") %}karˈaɕɛ jˈɛd͡ʑɔ̃ ɡˈuvnɔ{% end %} 🌶️
-* _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
+* _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the hooligan [Olgierd](@/w/olgierd.md), or the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and Olgierd. \
   {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️
 * _Lis jest pod ochroną_ - "Fox is protected": when Axel Fox is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
   {% ipa(tts="Lis jest pod ochroną") %}lˈis jɛst pɔt ɔxrˈɔnɔ̃{% end %}
