@@ -131,7 +131,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 
 ## References
 
-* Cagematch event pages - [day 1](https://www.cagematch.net/?id=1&nr=455095), [day 2](https://www.cagematch.net/?id=1&nr=455094)
+* Cagematch event pages - [day 1](https://www.cagematch.net/?id=1&nr=455636), [day 2](https://www.cagematch.net/?id=1&nr=455095), [day 3](https://www.cagematch.net/r/?id=1&nr=455094)
 * [Announcement post](https://www.facebook.com/FestivalMystic/posts/pfbid02NtnnM1pWYMP4dryYeuUM8JvUwj8Kx4Tg7Coy7NLcnkbXjHVwZR2rnsA5ruxqNNr2l)
 
 [mystic]: https://www.mysticfestival.pl/
