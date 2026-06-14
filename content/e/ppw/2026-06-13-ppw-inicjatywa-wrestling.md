@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Inicjatywa Wrestling (_Wrestling Initiative_) was a show by [PpW Ewenement](@/o/ppw.md), show, the first one to be held at the {{ map_pin(v="Rozbrat") }}[Rozbrat][rozbrat] complex in Poznań, an alternative culture and squatting centre. It was also the first proper PpW event in the city. Although the organization already held showcases at the [Poznań International Fair](@/v/targi-poznan.md) beer festival, they were non-canon to PpW's product, serving as a place for experimentation with rookies, new gimmicks and personas.
+Inicjatywa Wrestling (_Wrestling Initiative_) was a show by [PpW Ewenement](@/o/ppw.md), the first one to be held at the {{ map_pin(v="Rozbrat") }}[Rozbrat][rozbrat] complex in Poznań, an alternative culture and squatting centre. It was also the first proper PpW event in the city. Although the organization already held showcases at the [Poznań International Fair](@/v/targi-poznan.md) beer festival, they were non-canon to PpW's product, serving as a place for experimentation with rookies, new gimmicks and personas.
 
 ## Build-up
 
@@ -61,10 +61,10 @@ Inicjatywa Wrestling (_Wrestling Initiative_) was a show by [PpW Ewenement](@/o/
 ### Highlights
 
 * The event suffered delays due to weather. Initially set to begin at 19:00, it was pushed back an hour, which fortunately let a brief rainy storm pass before the start. Some fans were only protected by makeshift tarps strung over trees which proved to be inadequate.
-* The four-way Fans Bring Weapons match saw an intervention by a "disguised" Mutant wearing a paper bag over his head, but wielding the signature shovel. This let Boro pin Antoni Ocean for the win.
+* The four-way Fans Bring Weapons match saw an intervention by a "disguised" Mutant wearing a paper bag over his head, but wielding the signature snow shovel. This let Boro pin Antoni Ocean for the win.
 * Olgierd entered not to his usual theme, but to [Sen o Warszawie](@/a/polish-wrestling-chants.md#songs), as sung by Legia Warszawa fans at their stadium. Only after a lengthy entrance routine inciting the fans with his Legia scarf, did his regular theme play briefly.
-* His opponent, Gabriel Queen proudly hails from Poznań, and was positioned as the local hero. Appropriately, the local football team Lech Poznań defended their championship in the [2025/2026 Polish football league season][ekstraklasa], while Legia came sixth.
-* Later in that match Zmowa tried to assist the former champion Olgierd. Mister Z and Jakub were however quickly dispatched by Bad Trip, who rushed in to even out the odds for Queen.
+* His opponent, Gabriel Queen, proudly hails from Poznań, and was positioned as the local hero. Appropriately, the local football team Lech Poznań defended their championship in the [2025/2026 Polish football league season][ekstraklasa], while Legia came sixth.
+* Later in that match Zmowa tried to assist the former Champion Olgierd. Mister Z and Jakub were however quickly dispatched by Bad Trip, who rushed in to even out the odds for Queen.
 
 ## References
 
