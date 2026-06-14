@@ -22,6 +22,7 @@ MZW Forever 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a 
 * The Championship match between Sheen and Hammers was officially confirmed on 30.05.2026.
 * On 5.06.2026 [Jakub](@/w/jakub.md) issued an open challenge for his [Legacy of Wrestling European Championship](@/c/low-european-championship.md).
 * The next match, publicised on 10.06.2026, was a Three-Way Match between [Disco Pablo](@/w/disco-pablo.md), [Bartosz Plata](@/w/plata.md) and [Mutant](@/w/mutant.md), in his MZW debut.
+* THe final match to be announced, on 14.06.2026, was [Max Speed](@/w/max-speed.md) vs [Syriusz Dziedzic](@/w/dziedzic.md). Dziedzic hadn't won a match since [Legacy vol. 2](@/e/low/2025-04-06-low-2.md), and Speed failed to win the [Legacy of Wrestling European Championship](@/c/low-european-championship.md) at [Open Season](@/e/low/2026-05-24-low-5.md).
 
 ## Predicted card
 
@@ -49,6 +50,9 @@ MZW Forever 2 is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a 
   - '[Bartosz Plata](@/w/plata.md)'
   - s: Three-Way Match
     nc: upcoming
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Syriusz Dziedzic](@/w/dziedzic.md)'
+  - nc: upcoming
 {% end %}
 
 ### Recap
