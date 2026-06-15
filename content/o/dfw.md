@@ -53,7 +53,7 @@ DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) w
 
 On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a [crowdfunding website][zrzutka-pl], collecting money for the restoration. As of the early October, the campaign has reached 1691&nbsp;PLN out of the 5000&nbsp;PLN goal, with the total of 16 pledges. By the end of May 2026 the ring's renovation was completed and DFW published a [video][ring-gotowy] showing [Chris Hunter](@/w/chris-hunter.md), [Pain Killer](@/w/pain-killer.md), [Corin Mear](@/w/corin-mear.md) and [PJ Blake](@/w/pj-blake.md) meeting up around the ring for the first time in eight years. Chris Hunter also clarified that as of 2026 DFW does not exist, "but who knows what the fate might bring about".
 
-On 14.06.2026 [Arek Paterek](@/w/arek-paterek.md) posted a video of him visiting a nondescript industrial building, where he discovers a DFW training session, after getting a tip-off about some "young guns" (_młode wilki_, lit. "young wolves") available for recruitment. PJ Blake, acting as the leader, briefly presented three of his trainees, but Paterek did not see any of them as fit to represent Biuro Prasowe at [Legacy's upcoming show](@/e/low/2026-07-10-low-6.md). In this cameo, the name DFW was never used and the trainees (Pain Killer, Chris Hunter and Corin Mear) were called by their real names.
+On 14.06.2026 [Arek Paterek](@/w/arek-paterek.md) posted a [video of him visiting a nondescript industrial building][paterek-w-garazu], where he discovers a DFW training session, after getting a tip-off about some "young guns" (_młode wilki_, lit. "young wolves") available for recruitment. PJ Blake, acting as the leader, briefly presented three of his trainees, but Paterek did not see any of them as fit to represent Biuro Prasowe at [Legacy's upcoming show](@/e/low/2026-07-10-low-6.md). In this cameo, the name DFW was never used and the trainees (Pain Killer, Chris Hunter and Corin Mear) were called by their real names.
 
 ## Polish wrestling scene
 
@@ -96,3 +96,4 @@ Norris brought the belt to PpW, although it was never defended there. At some po
 [zrzutka-fb]: https://www.facebook.com/DreamFactoryWrestling/posts/pfbid02Kmkkkrr1ap2qSwMicVHr8N5nw4SgMPPnXzCgV34wRvct5k79ceXXvzVzsU1SKwvRl
 [zrzutka-pl]: https://zrzutka.pl/tjh3ex
 [ring-gotowy]: https://www.youtube.com/watch?v=95nPfDIQHkA
+[paterek-w-garazu]: https://www.instagram.com/p/DZkd2EWoJ6n/
