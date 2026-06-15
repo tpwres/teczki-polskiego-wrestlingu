@@ -53,6 +53,8 @@ DFW also had an [online merch shop](https://dreamfactorywrestling.cupsell.pl/) w
 
 On 26.06.2025 Chris Hunter wrote a [post][zrzutka-fb] on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a [crowdfunding website][zrzutka-pl], collecting money for the restoration. As of the early October, the campaign has reached 1691&nbsp;PLN out of the 5000&nbsp;PLN goal, with the total of 16 pledges. By the end of May 2026 the ring's renovation was completed and DFW published a [video][ring-gotowy] showing [Chris Hunter](@/w/chris-hunter.md), [Pain Killer](@/w/pain-killer.md), [Corin Mear](@/w/corin-mear.md) and [PJ Blake](@/w/pj-blake.md) meeting up around the ring for the first time in eight years. Chris Hunter also clarified that as of 2026 DFW does not exist, "but who knows what the fate might bring about".
 
+On 14.06, [Arek Paterek](@/w/arek-paterek.md) posted a video of him visiting the DFW training, after getting a tip-off about some _young guns_ (originally: _młode wilki_) being available for recruitment. PJ Blake, acting as a leader, briefly presented 3 of his _trainees_, but Paterek did not see any of them as fit to represent Biuro Prasowe at [LoW's upcoming show](@/e/low/2026-07-10-low-6.md). In this cameo, the name DFW was never used, and the _trainees_ (Pain Killer, Chris Hunter, Corin Mear) were called by their government names.
+
 ## Polish wrestling scene
 
 DFW had neither the budget nor the recognition to afford any sort of foreign guests. On the Polish scene they were cooperating with PpW with some of their talent, notably Charlie and [Direk](@/w/direk.md), appearing in PpW's backyard-era events. 
