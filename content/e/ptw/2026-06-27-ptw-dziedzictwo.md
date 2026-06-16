@@ -21,6 +21,7 @@ has_video = false
 * On 9.06.2026 PTW announced [Krampus](@/w/krampus.md), with no further information at the time.
 * The next day came the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Flex Skywalker, last seen in February at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md).
 * Later the same day PTW announced that [Łukasz Okoński](@/w/lukasz-okonski.md) will open the show.
+* On 12.06.2026 PTW published a [video][misiek-vs-stol] of [Misiek](@/w/misiek.md) demanding a match against [Whiteblade](@/w/whiteblade.md) from [Łukasz Okoński](@/w/lukasz-okonski.md). On 15.06 the match was officially confirmed, with the Unsanctioned Match stipulation.
 
 ## Predicted card
 
@@ -38,7 +39,11 @@ has_video = false
   - nc: upcoming
 - - 'Flex Skywalker'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - nc: upcoming    
+  - nc: upcoming
+- - '[Whiteblade](@/w/whiteblade.md)'
+  - '[Misiek](@/w/misiek.md)'
+  - s: Unsanctioned Match
+    nc: upcoming
 {% end %}
 
 ### Recap
@@ -51,3 +56,4 @@ has_video = false
 * [Facebook post announcing the show][zapowiedz]
 
 [zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1218460120359712:1218460120359712
+[misiek-vs-stol]: https://www.facebook.com/reel/2410777819419862
