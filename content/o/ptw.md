@@ -217,7 +217,7 @@ On the international front, the Austrian sister promotion PTW:WWA has effectivel
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) and [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
-Talent were strictly prohibited from appearing in any other Polish rings and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
+Talent were [strictly prohibited](@/a/polish-forbidden-door.md) from appearing in any other Polish rings and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
 One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
 That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-exits.md), where the talent wanted to have more freedom and be able to take bookings from other Polish organizations.
 This is similar to KPW's pre-[2024](@/e/low/2024-12-01-low-1.md) approach. Fans theorise that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their negative attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW (who seem to have relaxed their rigid stance slightly ever since their [first show with Legacy](@/e/low/2024-12-01-low-1.md)).

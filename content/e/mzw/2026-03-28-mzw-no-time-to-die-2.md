@@ -79,6 +79,7 @@ No Time to Die 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=447069)
+* [YouTube playlist](https://www.youtube.com/playlist?list=PL9jkhNR2Sx8ievm70Y-Aa4MBZzuNN6H2i), each match is a separate video
 * Fancam by Istota Wrestlingu: [part 1](https://www.youtube.com/watch?v=U53rS92yfAg), [part 2](https://www.youtube.com/watch?v=-rerPp5jf4Q)
 * [Announcement post](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid0tqijabZm9aLC5x9JuvpEMHa4e7rUjPFKJKMRph6NnTJ3k3xw9XSwR1bfVv4ERPv7l) on MZW's official Facebook page.
 
