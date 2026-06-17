@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), trained by [Ewenement Dojo](@/o/ewenement-dojo.md). He also works for [Legacy of Wrestling](@/o/low.md).
+Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), trained by [Ewenement Dojo](@/o/dojo.md). He also works for [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
@@ -17,7 +17,7 @@ Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), t
   - _Rookie_ Bartosz {{ org_badge(orgs=['ppw']) }} (January-April 2025)
   - Bartosz Plata {{ org_badge(orgs=['ppw', 'low']) }} (April 2025-)
 * Trained by:
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
  
 ## Professional wrestling career
 
@@ -25,7 +25,7 @@ Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), t
 
 #### Training and debut
 
-Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his career - started his in-ring career in 2024 by training at [Ewenement Dojo](@/o/ewenement-dojo.md). Coached by wrestlers such as [Jacob Crane](@/w/jacob-crane.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/jakub.md), he made his first appearance at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) exhibition show in Poznań. His official debut in front of the [PpW](@/o/ppw.md) audience took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in a pre-show match against the victorious [Sambor](@/w/sambor.md), as well as Sentinel, Wonder Haze and Atilla. 
+Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his career - started his in-ring career in 2024 by training at [Ewenement Dojo](@/o/dojo.md). Coached by wrestlers such as [Jacob Crane](@/w/jacob-crane.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/jakub.md), he made his first appearance at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) exhibition show in Poznań. His official debut in front of the [PpW](@/o/ppw.md) audience took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in a pre-show match against the victorious [Sambor](@/w/sambor.md), as well as Sentinel, Wonder Haze and Atilla. 
 
 #### Run as a rookie
 
@@ -41,7 +41,7 @@ The third challenge took place during [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-
 
 #### First appearance
 
-Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md), teaming up with [Syriusz Dziedzic](@/w/dziedzic.md) and [Sambor](@/w/sambor.md) in a losing effort against the team of [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). He thus became the second [Ewenement Dojo](@/o/ewenement-dojo.md) graduate to debut outside of [PpW](@/o/ppw.md).
+Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md), teaming up with [Syriusz Dziedzic](@/w/dziedzic.md) and [Sambor](@/w/sambor.md) in a losing effort against the team of [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). He thus became the second [Ewenement Dojo](@/o/dojo.md) graduate to debut outside of [PpW](@/o/ppw.md).
 
 ## In wrestling
 

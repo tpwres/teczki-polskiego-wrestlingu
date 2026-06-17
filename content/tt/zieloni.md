@@ -42,7 +42,7 @@ Besides the PTW Tag Team Championship won by Boro - who never defended it in a m
 
 #### Zieloni after Prime Time Wrestling
 
-After the departure of Zieloni from PTW, sooner or later all of in-ring active members of the faction joined [PpW Ewenement](@/o/ppw.md) - with Sewi The Ref, Axel Fox and [Aron Wake](@/w/aron-wake.md) being the latest additions, making their official debut at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). Both Crane and Fox became coaches of PpW's [Ewenement Dojo](@/o/ewenement-dojo.md), and the Greens apparently became well-integrated with the OG PpW workers. 
+After the departure of Zieloni from PTW, sooner or later all of in-ring active members of the faction joined [PpW Ewenement](@/o/ppw.md) - with Sewi The Ref, Axel Fox and [Aron Wake](@/w/aron-wake.md) being the latest additions, making their official debut at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). Both Crane and Fox became coaches of PpW's [Ewenement Dojo](@/o/dojo.md), and the Greens apparently became well-integrated with the OG PpW workers. 
 
 Some of the Greens even made amends with the MZW owner, Shadow. This allowed workers such as Aron Wake, Olgierd and Sewi to return to Maniac Zone Wrestling in October 2024, almost exacly three years after the Green Revolution. Multiple Greens also joined [Legacy of Wrestling](@/o/low.md), reuniting with many ex-PTW originals who also left Pawłowski's federation.
 

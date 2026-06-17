@@ -22,7 +22,7 @@ Sędzia Kornel is a Polish wrestling referee best known for his time in [PpW Ewe
   - Kapitan Kornel {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Ignacio {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 

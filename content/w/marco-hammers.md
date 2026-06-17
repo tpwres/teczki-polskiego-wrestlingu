@@ -19,7 +19,7 @@ Marco Hammers is a Polish wrestler best known for his time in [Prime Time Wrestl
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-2022)
   - [PTW Academy](@/o/ptw-academy.md) (2022-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 

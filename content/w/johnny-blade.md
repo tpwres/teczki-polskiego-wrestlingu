@@ -26,7 +26,7 @@ Johnny Blade, also known under numerous aliases, is a Polish wrestler best known
   - Vins Michael $hot {{ org_badge(orgs=['ppw']) }}
 * Trained by:
   - PpW Dojo
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 

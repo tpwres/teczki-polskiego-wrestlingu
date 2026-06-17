@@ -17,7 +17,7 @@ Agentka Agatka is a Polish female manager and wrestler best known for her time i
   - Agentka Agatka (_Agent Agata_) {{ org_badge(org='ppw') }}
   - La Gatita {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -35,7 +35,7 @@ During the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-t
 #### In-ring debut
 
 During the build-up to [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), PpW announced that the show would see the first ever women's match in PpW's history.
-Initially, the organization only revealed that Danish wrestler Madison Marley would face an unnamed [Ewenement Dojo](@/o/ewenement-dojo.md)-trained wrestler.
+Initially, the organization only revealed that Danish wrestler Madison Marley would face an unnamed [Ewenement Dojo](@/o/dojo.md)-trained wrestler.
 Later on Agatka posted a video of her calling Mister Z on the phone. She voiced her displeasure in Madison Marley getting booked, as it undermined her position as the sole woman in PpW. Agatka devised a plan to get rid of Marley. That match saw Madison pitted against Agatka, who then won her debut match via a roll-up after Oskar's interference. From that point on she also started irregulary teaming-up with Oskar as Agencja (e.g. in their match at [Mystic Festival](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md)). They also managed each other during their singles matches.
 
 #### Joining Rodzina

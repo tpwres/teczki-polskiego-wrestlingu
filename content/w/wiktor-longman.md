@@ -19,7 +19,7 @@ Wiktor Longman is a retired Polish wrestler best known for his tenure in [Prime 
   - Wiktor Longman {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024)
+  - [Ewenement Dojo](@/o/dojo.md) (2024)
 
 ## Professional wrestling career
 

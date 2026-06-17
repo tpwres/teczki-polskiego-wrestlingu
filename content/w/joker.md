@@ -18,7 +18,7 @@ Konrad "Joker" Grzesikiewicz is a Polish wrestling commentator, interviewer and 
   - Rysiu Benzynka {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Tomisław Apoloniusz Curuś-Bachleda Farrell {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
  
 ## Professional wrestling career
 

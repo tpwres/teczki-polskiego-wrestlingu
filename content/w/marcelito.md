@@ -18,7 +18,7 @@ Marcelito is a Polish wrestler best known for his time in [Prime Time Wrestling]
   - Marcelito {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 

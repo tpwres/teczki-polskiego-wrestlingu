@@ -19,7 +19,7 @@ Oskar Alexander is a Polish wrestler best known for his time in [PpW Ewenement](
   - Adept Oskar {{ org_badge(org='ppw') }} (August 2024-October 2024)
   - Oskar Strong {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-present)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-present)
 
 ## Professional wrestling career
 
@@ -27,7 +27,7 @@ Oskar Alexander is a Polish wrestler best known for his time in [PpW Ewenement](
 
 #### Training and debut as Rookie Oskar
 
-Oskar Alexander started his wrestling training in [Ewenement Dojo](@/o/ewenement-dojo.md) - a training facility operated mostly by PpW-affiliated wrestlers, with [Jacob Crane](@/w/jacob-crane.md) as the head coach.
+Oskar Alexander started his wrestling training in [Ewenement Dojo](@/o/dojo.md) - a training facility operated mostly by PpW-affiliated wrestlers, with [Jacob Crane](@/w/jacob-crane.md) as the head coach.
 In the span of a few months he became ready for his in-ring debut.
 He debuted as Adept Oskar (_Rookie Oskar_) in a "Young Lion" gimmick highly influenced by his namesake - the German wrestler [Oskar Leube][oskar-leube]. In a similar fashion to Japanese Young Lions, he wore plain black trunks and boots, and used a limited but powerful moveset.
 
@@ -57,7 +57,7 @@ Rodzina's shortage of willing, fully active members was solved at [Jednak Hardco
 
 #### Debut
 
-Alexander made his [MZW](@/o/mzw.md) debut at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), thus becoming the first [Ewenement Dojo](@/o/ewenement-dojo.md) graduate to debut outside of PpW.
+Alexander made his [MZW](@/o/mzw.md) debut at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), thus becoming the first [Ewenement Dojo](@/o/dojo.md) graduate to debut outside of PpW.
 Taking part in a tournament for a championship contract briefcase, he was set to face [Shadow](@/w/shadow.md). He cut a lengthy promo on his way to the ring, insulting the city of Wrocław, the audience and Shadow himself. Before managing to go on the offensive, however, he was quickly rolled up for a pin and lost the match in a matter of seconds.
 
 ### Legacy of Wrestling (2025-present)

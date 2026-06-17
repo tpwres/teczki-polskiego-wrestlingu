@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [PpW's](@/o/ppw.md) Director of Staff, a trainee of [Ewenement Dojo](@/o/ewenement-dojo.md) and the wife of [Istociarz](@/w/istociarz.md). She makes occasional in-ring appearances as a wrestler and a referee.
+Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [PpW's](@/o/ppw.md) Director of Staff, a trainee of [Ewenement Dojo](@/o/dojo.md) and the wife of [Istociarz](@/w/istociarz.md). She makes occasional in-ring appearances as a wrestler and a referee.
 
 ## Basic info
 * Years active: N/A
@@ -19,7 +19,7 @@ Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, 
   - "Szeku" Martynka {{ org_badge(orgs=['ppw']) }}
   - Referee Martyna {{ org_badge(orgs=['ppw']) }} (Japanese excursion)
 * Trained by:
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -31,7 +31,7 @@ In 2023, Martyna and her husband [Istociarz](@/w/istociarz.md) started a YouTube
 
 #### Trainee and staff worker
 
-Istotna Martynka joined [Ewenement Dojo](@/o/ewenement-dojo.md) at some point in 2024. She made her first - albeit unofficial - appearance in the ring at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md). On the first day of the show she accompanied other wrestlers as Siostra Kimono (_Sister Kimono_), and on the third day she fought in three matches - first winning the [PTW Intergender Championship](@/c/ptw-intergender-championship.md) from [Marco Hammers](@/w/marco-hammers.md), then losing it back to him, and finally taking part in a Royal Rumble.
+Istotna Martynka joined [Ewenement Dojo](@/o/dojo.md) at some point in 2024. She made her first - albeit unofficial - appearance in the ring at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md). On the first day of the show she accompanied other wrestlers as Siostra Kimono (_Sister Kimono_), and on the third day she fought in three matches - first winning the [PTW Intergender Championship](@/c/ptw-intergender-championship.md) from [Marco Hammers](@/w/marco-hammers.md), then losing it back to him, and finally taking part in a Royal Rumble.
 
 Besides that, Martynka also hold a position of PpW's Director of Staff, managing all of the staff workers during PpW events.
 
@@ -39,7 +39,7 @@ On February 14th, 2026, it was announced that Istotna Martynka would make a one-
 
 At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka made her first in-ring appearance in PpW's main programming, joining the _25 Typa 25 Broni_ Rumble Match, in a losing effort.
 
-On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
+On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
 
 ## Championships and accomplishments
 
