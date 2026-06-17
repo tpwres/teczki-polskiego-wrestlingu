@@ -31,4 +31,4 @@ Rookie One also appeared as Oskar Fux at two side shows, in [Kadzidło](@/e/kpw/
 
 ### PpW Ewenemenet Wrestling (2026-)
 
-In late April, Oskar was announced to appear at [Dojo Showcase](@/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md).
+In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md).
