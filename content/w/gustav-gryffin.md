@@ -23,7 +23,7 @@ Gustav Gryffin is a Polish wrestler from Bartoszyce, best known for his appearan
   - Art the Clown {{ org_badge(org='ppw') }} (Halloween special, non-canon show)
 * Trained by:
   - PpW Dojo (2022-June 2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (June 2024-present)
+  - [Ewenement Dojo](@/o/dojo.md) (June 2024-present)
 
 ## Professional wrestling career
 
@@ -31,7 +31,7 @@ Gustav Gryffin is a Polish wrestler from Bartoszyce, best known for his appearan
 
 #### Training and debut
 
-Gustav started his pro wrestling training at PpW Dojo - an unofficial predecessor of [Ewenement Dojo](@/o/ewenement-dojo.md).
+Gustav started his pro wrestling training at PpW Dojo - an unofficial predecessor of [Ewenement Dojo](@/o/dojo.md).
 He was trained mostly by [Jacob Crane](@/w/jacob-crane.md), who later became the head coach of the Dojo.
 Gustav made his debut at [PpW Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md), where he faced and defeated [Ricardo Diesel](@/w/ricardo-diesel.md).
 He quickly become a regular star at PpW events, thanks to his villainous gimmick of an ambitious, ruthless corporate suit who despises "hobos" and "low-lifes", which was a clear shot at the PpW audience, which is predominantly loosely assossiated with more rebellious and alternative ways of life.

@@ -2,19 +2,19 @@
 title = "Ewenement Dojo Showcase"
 template = "event_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
-aliases = ["/e/ppw/2026-05-03-ewenement-dojo-showcase"]
+aliases = ["/e/ppw/2026-05-03-ewenement-dojo-showcase", "/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase"]
 [taxonomies]
-chronology = ["ppw", "ewenement-dojo"]
+chronology = ["ppw", "dojo"]
 venue = ["2kola"]
 [extra]
-orgs = ["ppw", "ewenement-dojo"]
+orgs = ["ppw", "dojo"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
 [extra.gallery]
 +++
 
-The first ever [Ewenement Dojo](@/o/ewenement-dojo.md) showcase was held on the last day of their May seminar, on Sunday, May 3rd, in [2KOŁA](@/v/2kola.md). The dojo event showcased both rookies and "more or less well-known" faces, not only from [PpW](@/o/ppw.md). The show was billed as co-promoted between the Dojo and PpW itself.
+The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day of their May seminar, on Sunday, May 3rd, in [2KOŁA](@/v/2kola.md). The dojo event showcased both rookies and "more or less well-known" faces, not only from [PpW](@/o/ppw.md). The show was billed as co-promoted between the Dojo and PpW itself.
 
 ## Build-up
 

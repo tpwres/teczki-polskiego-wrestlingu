@@ -25,7 +25,7 @@ Jacob Crane is a Polish wrestler, best known for his runs in [Maniac Zone Wrestl
   - [Justin Joy](@/w/justin-joy.md)
   - [Joe E. Legend](@/w/joe-legend.md)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2020)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -54,7 +54,7 @@ After this dismissal, Crane posted about [relocating to Germany][aschaffenburg],
 ### Return to PpW Ewenement Wrestling (2022-2024)
 
 Jacob made a comeback to PpW after over five years of absence, re-debuting in a match against [Steve Kuningas](@/w/steve-kuningas.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) in September 2022.
-Since then, he made regular appearances for PpW, and took up the role of head coach in the [PpW Dojo](@/o/ewenement-dojo.md), training a new generation of wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md), as well as improving PpW Orginal wrestlers' in-ring abilities.
+Since then, he made regular appearances for PpW, and took up the role of head coach in the [PpW Dojo](@/o/dojo.md), training a new generation of wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md), as well as improving PpW Orginal wrestlers' in-ring abilities.
 
 After his 3-month stint in Japan, Jacob Crane returned at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in a rematch against [Gabriel Queen](@/w/gabriel-queen.md). In addition, PpW ran a summer wrestling course under their dojo's brand with Jacob as head coach. After several months in Poland, Jacob returned to Japan for another run with BJPW.
 

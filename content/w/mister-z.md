@@ -27,7 +27,7 @@ Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](
   - Scarecrow {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
   - PpW Dojo
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 

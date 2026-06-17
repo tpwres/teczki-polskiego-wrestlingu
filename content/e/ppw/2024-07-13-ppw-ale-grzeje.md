@@ -16,7 +16,7 @@ has_video = true
 The announcement post featured the show's official poster, focusing on the term ["Zmowa"](@/tt/zmowa.md) (roughly translated as _Collusion_), promising the hottest (literally and figuratively) show of the summer.
 The hype text suggested "a collusion against the collusion" - which refers to [Biesiad's](@/w/biesiad.md) plan to exact revenge, and thwart [Mister Z](@/w/mister-z.md)'s and [Gustav Gryffin](@/w/gustav-gryffin.md)'s new alliance that screwed him out of the PpW Championship belt at [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).
 
-Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-crane.md), which they called their "summer course". This later turned into [Ewenement Dojo](@/o/ewenement-dojo.md), PpW's official wrestling school with Crane and Biesiad as coaches.
+Prior to the show, PpW held a 5-day open seminar with [Jacob Crane](@/w/jacob-crane.md), which they called their "summer course". This later turned into [Ewenement Dojo](@/o/dojo.md), PpW's official wrestling school with Crane and Biesiad as coaches.
 
 ## Build-up
 

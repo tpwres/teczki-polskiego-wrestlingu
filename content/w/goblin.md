@@ -27,7 +27,7 @@ Goblin is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.m
   - Karol M {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
   - PpW Dojo (2022-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 

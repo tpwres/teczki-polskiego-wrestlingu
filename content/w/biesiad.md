@@ -26,7 +26,7 @@ Biesiad Strong, also known under numerous aliases, is a Polish wrestler best kno
   - Esteban Lucha {{ org_badge(orgs=['ppw']) }} (non-canon shows; masked)
 * Trained by:
   - PpW Dojo (2019-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 

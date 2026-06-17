@@ -24,7 +24,7 @@ Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw
   * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -80,7 +80,7 @@ Axel quickly joined the "Zmowa Przeciwko Zmowie" faction led by [Biesiad](@/w/bi
 During this period, Axel developed a personal rivalry against Mister Z, who frequently avoided direct confrontation, and viciously attacked him with a kendo stick.
 At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in an Ustawka Match, but Axel continued his rivarly with PpW's producer.
 
-Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
+Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/dojo.md), and that he's now a full-time member of their roster.
 
 #### Feud with Mister Z
 
