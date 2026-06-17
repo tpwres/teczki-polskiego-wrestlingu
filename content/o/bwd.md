@@ -27,7 +27,7 @@ There was supposed to be a series of shows called "Househorror". They were meant
 
 One more event was tentatively announced - a "different" show called "GNIEW" (_Anger_, or _Wrath_), but no further details are known.
 
-BWD's motto, as seen on their webstite, was "We got bigger balls than brain" (later changed to Polish "Mamy większe jaja niż mózgi", meaning the same thing). After the group disbanded, everyone involved seemingly retired from wrestling.
+BWD's motto, as seen on their webstite, was "We got bigger balls than brains" (later changed to Polish "Mamy większe jaja niż mózgi", meaning the same thing). After the group disbanded, everyone involved seemingly retired from wrestling.
 
 ## Championships
 
