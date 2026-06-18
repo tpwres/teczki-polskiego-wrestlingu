@@ -325,7 +325,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     en: '[PpW Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md)'
     ed: 2026-06-13
 - - 'Gabriel Queen(c)'
-  - 'Maverick'
+  - '[Maverick](@/w/maverick.md)'
   - s: Singles Match
     en: '[PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md)'
     ed: 2026-07-04
