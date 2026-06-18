@@ -22,7 +22,8 @@ has_video = false
 * The next day came the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Flex Skywalker, last seen in February at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md).
 * Later the same day PTW announced that [Łukasz Okoński](@/w/lukasz-okonski.md) will open the show.
 * On 12.06.2026 PTW published a [video][misiek-vs-stol] of [Misiek](@/w/misiek.md) demanding a match against [Whiteblade](@/w/whiteblade.md) from [Łukasz Okoński](@/w/lukasz-okonski.md). On 15.06 the match was officially confirmed, with the Unsanctioned Match stipulation.
-* On 17.06.2027 came the announcement of [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md). Having lost his [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in [May](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), Brave has been increasingly jelous of Klakson's successes.
+* On 17.06.2026 came the announcement of [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md). Having lost his [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in [May](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), Brave has been increasingly jelous of Klakson's successes.
+* On 18.06.2026 PTW announced a match for the [PTW Women's Championship](@/c/ptw-womens-championship.md) between the reigning Champion [Diana Strong](@/w/diana-strong.md) and Emily Locke from the US.
 
 ## Predicted card
 
@@ -48,6 +49,10 @@ has_video = false
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - nc: upcoming
+- - '[Diana Strong](@/w/diana-strong.md)(c)'
+  - 'Emily Locke'
+  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
+    nc: upcoming    
 {% end %}
 
 ### Recap
@@ -58,6 +63,7 @@ has_video = false
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=450401)
 * [Facebook post announcing the show][zapowiedz]
+* [Emily Locke's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=24745)
 
 [zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1218460120359712:1218460120359712
 [misiek-vs-stol]: https://www.facebook.com/reel/2410777819419862

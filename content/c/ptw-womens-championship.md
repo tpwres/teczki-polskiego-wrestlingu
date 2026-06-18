@@ -118,6 +118,12 @@ Never took place, as the tournament was cancelled.
   - s: Singles Match
     en: '[PTW: More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
     ed: 2026-03-29
+- - 'Diana Strong(c)'
+  - 'Emily Locke'
+  - s: Singles Match
+    en: '[PTW: Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
+    ed: 2026-06-27
+    nc: upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c
