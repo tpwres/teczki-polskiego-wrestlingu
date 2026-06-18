@@ -33,7 +33,7 @@ Hardcore Na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Johnny "Bullson" Blade](@/w/johnny-blade.md)'
   - '[Marcelito](@/w/marcelito.md)'
-  - 'Maverick'
+  - '[Maverick](@/w/maverick.md)'
   - 'Jon Parker'
   - s: Mystery X-Way Match
 - - '["Ladykiller" Boro](@/w/boro.md)'
@@ -60,7 +60,7 @@ Hardcore Na Hucie (roughly _Foundry Hardcore_, or _Hardcore at the Ironworks_) w
 
 ### Highlights
 
-* This was the PpW debut of Hungarian wrestler Maverick, who'd previously made two appearances for [PTW](@/o/ptw.md) in 2024, including at [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md).
+* This was the PpW debut of Hungarian wrestler [Maverick](@/w/maverick.md), who'd previously made two appearances for [PTW](@/o/ptw.md) in 2024, including at [Ryucon](@/e/ptw/2024-07-07-ptw-x-ryucon.md).
 * Also debuting was young German wrestler Jon Parker from Leipzig. Parker worked matches mainly for Catch Factory in Leipzig, and several smaller German organizations.
 * Present at the show was [Samson](@/w/samson.md), invited as a guest but also helping staff at the entrance gates.
 * Bartosz Plata scored his first decisive victory here (not counting the non-canon [Mystic Festival show](@/e/ppw/2025-06-04-ppw-mystic-more-brutal-than-metal.md)), breaking his losing streak.
