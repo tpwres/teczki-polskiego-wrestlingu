@@ -2,7 +2,7 @@
 title = "Ewenement Dojo"
 weight = 0
 template = "org_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski"]
 aliases = ["/o/ewenement-dojo"]
 [taxonomies]
 chrono_root = ["dojo"]
@@ -16,7 +16,7 @@ hide_roster = true
 4 = { path = "trener-fox-ewenement-dojo.webp", caption = "Facebook post announcing [Axel Fox](@/w/jakub.md) joining the dojo. The photo was taken at WxW Academy, whose logo is visible on the back wall.", source = "Facebook Ewenement Dojo" }
 +++
 
-Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.md). As of August 2026, it is operated by [FRPW](https://fundacjarpw.pl/), a legal entity associated with federation. 
+Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.md). As of August 2026, it is operated by [FRPW][fundacja], a legal entity associated with federation. 
 
 ## Basic info
 
@@ -64,14 +64,16 @@ The first fully Ewenement-grown talent who got a chance to debut at the Polish s
 
 Two of the first Ewenement Dojo graduates also made their non-PpW debuts, in a quick succession. [Oskar Alexander](@/w/oskar-alexander.md) made his [MZW](@/o/mzw.md) debut in a losing effort against [Shadow](@/w/shadow.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), while [Bartosz Plata](@/w/plata.md) debuted in [Legacy of Wrestling](@/o/low.md) as a part of a losing team in a six-man tag team main event of [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md).
 
-In May 2026, Dojo started to hold its own shows, dubbed _Dojo showcases_, independently of its mother promotion.
+In May 2026 the Dojo started to hold its own shows, dubbed _Dojo Showcases_, independently of its mother promotion.
 
 ## Internet presence
 
 * [Facebook Page](https://www.facebook.com/profile.php?id=61560762345187)
 * [Instagram Page](https://www.instagram.com/ewenement_dojo/)
-* [Fundacja Rozwoju Polskiego Wrestlingu](https://fundacjarpw.pl/)
+* [Fundacja Rozwoju Polskiego Wrestlingu][fundacja]
 
 ## References
 
 * [Facebook post announcing Axel Fox as the newest coach](https://www.facebook.com/share/p/TsfNb5VYKubju7pE/)
+
+[fundacja]: https://fundacjarpw.pl/
