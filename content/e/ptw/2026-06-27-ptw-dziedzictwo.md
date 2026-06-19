@@ -52,7 +52,11 @@ has_video = false
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
   - 'Emily Locke'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    nc: upcoming    
+    nc: upcoming
+- credits:
+    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'  
 {% end %}
 
 ### Recap
