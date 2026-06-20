@@ -24,7 +24,7 @@ Lecimy Dalej (roughly _Let's Keep Going_) was a show by [PpW Ewenement](@/o/ppw.
 * On 21.05.2026 the new PpW Champion [Gabriel Queen](@/w/gabriel-queen.md) published a [video][moja-starsza-siostra-mowi-nie-zadawaj-sie-z-lujami] in which he accepted [Vic Golden's](@/w/vic-golden.md) earlier [demand][vic-chce-pasa] that their match be for the [PpW Championship](@/c/ppw-championship.md). However, Queen added one condition: if Vic loses, no other member of [Rodzina](@/tt/rodzina.md) will fight for the title as long as Queen remains the Champion. The match was officially confirmed later the same day.
 * A [video][psze-paniom-a-oni-sie-bijom] published on 22.05.2026 showed cracks beginning to form in [Zmowa](@/tt/zmowa.md), with [Olgierd](@/w/olgierd.md), [Mister Z](@/w/mister-z.md) and [Jakub](@/w/jakub.md) accusing one another of losing their Championship titles. After a brief physical altercation, Mister Z agreed for Olgierd and Jakub to fight one another at the upcoming show, with himself as the special guest referee. He set one condition: the winner of the match must then fight [Gabriel Queen](@/w/gabriel-queen.md) for the [PpW Championship](@/c/ppw-championship.md). The match was officially confirmed a couple of hours later.
 * The Hardcors ([Johnny Blade](@/w/johnny-blade.md) & [Isnorr](@/w/isnorr.md)), who lost to [Rodzina](@/tt/rodzina.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), decided to have their revenge on the stable - represented by [Filip Fux](@/w/filip-fux.md) and [Isnorr](@/w/isnorr.md) - in a "Wrocław Brawl". The match, announced on 24.05.2026, will include tables, ladders, chairs and other items, whereas the ring and the rules are "optional".
-* [Boro](@/w/boro.md), backed by his bodyguard [Mutant](@/w/mutant.md), decided to to conquer PpW's tag team division, starting with [Zeritus](@/w/zeritus.md) & Maverick in a match announced on 25.05.2026.
+* [Boro](@/w/boro.md), backed by his bodyguard [Mutant](@/w/mutant.md), decided to to conquer PpW's tag team division, starting with [Zeritus](@/w/zeritus.md) & [Maverick](@/w/maverick.md) in a match announced on 25.05.2026.
 
 ## Card
 
@@ -32,7 +32,7 @@ Lecimy Dalej (roughly _Let's Keep Going_) was a show by [PpW Ewenement](@/o/ppw.
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Emil Völler](@/w/emil-voeller.md)'
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '[Zeritus](@/w/zeritus.md) & Maverick'
+  - '[Zeritus](@/w/zeritus.md) & [Maverick](@/w/maverick.md)'
   - s: Tag Team Match
 - - '[Bartosz Plata](@/w/plata.md)'
   - 'Danil Mamedov'

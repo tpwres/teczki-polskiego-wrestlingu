@@ -24,7 +24,7 @@ Other foreign guests were already seen on Ryucon previously: Hungarian wrestlers
 ## Build-up
 
 * On July 19 2024, PTW updated their Facebook cover photo, confirming dates for both the camp and the show. The training camp will start on Sunday August 18, and the show is to be held on the next Sunday, August 25.
-* On August 8th, the official poster was revealed, prominently featuring Maverick and [Puncher](@/w/puncher.md) suggesting a main event between the two. A couple of days later, on August 13, this was announced as a title match for the WWA Championship.
+* On August 8th, the official poster was revealed, prominently featuring [Maverick](@/w/maverick.md) and [Puncher](@/w/puncher.md) suggesting a main event between the two. A couple of days later, on August 13, this was announced as a title match for the WWA Championship.
 * PTW officially confirmed the show would not be aired live, but taped to be later aired on Fite/Triller, YouTube and an undisclosed TV station. This marks PTW's TV debut as well as the first time they tape a show - all prior shows were either live, or not broadcast at all.
 * PTW also announced a dance performance, by a hitherto unknown dance group. The group was billed as "Las Atomicas", a direct reference to the Powerpuff Girls, which was a nickname previously reserved for PAKA. An Instagram account for this group was created shortly before the show, and had a single picture of three girls in rather revealing clothing.
 
@@ -54,7 +54,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - '[Spartan](@/w/spartan.md)'
   - 'Svedberg'
 - - '[Puncher](@/w/puncher.md)'
-  - 'Maverick'
+  - '[Maverick](@/w/maverick.md)'
   - c: 'WWA Championship'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
