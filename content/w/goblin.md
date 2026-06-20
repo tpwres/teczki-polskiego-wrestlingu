@@ -107,6 +107,7 @@ In February 2026 PpW announced that Goblin would be part of their excurion to Ja
   - _Kabacki Krztusiec_ (Modified Muta Lock) (2025-)
 * Tag Teams and stables:
   - [GobLis](@/tt/goblis.md) (2024-2025)
+  - [Bad Trip](@/tt/bad-trip.md) (2026-)
 * Entrance music:
   - Mix: "Get Got" by Death Grips / "Dumbest Girl Alive (Instrumental)" by 100 gecs
     {{ org_badge(orgs=['ppw', 'mzw']) }} (2023-present) <br>

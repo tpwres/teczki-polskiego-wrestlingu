@@ -109,6 +109,7 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
   - Texas Cloverleaf (2023)
 * Tag Teams and Stables:
   - [Zmowa](@/tt/zmowa.md) (2024-2025)
+  - [Bad Trip](@/tt/bad-trip.md) (2026-)
 * Managers:
   - [Osamu](@/w/osamu.md) (2023)
   - [Jakub Linde](@/w/jakub-linde.md) (2024)
