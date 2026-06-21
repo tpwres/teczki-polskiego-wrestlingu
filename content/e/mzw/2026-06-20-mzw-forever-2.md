@@ -28,7 +28,7 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
 
 {% card() %}
 - - '[Jakub](@/w/jakub.md)'
-  - g: 'Jakub makes the Battle Royal a match for the [Legacy gold](@/c/low-european-championship.md) title shot. Boro and Sambor insert themselves into the fight despite Jakub's protests.'
+  - g: "Jakub makes the Battle Royal a match for the [Legacy gold](@/c/low-european-championship.md) title shot. Boro and Sambor insert themselves into the fight despite Jakub's protests."
 - - '[Boro](@/w/boro.md)'
   - '[Sambor](@/w/sambor.md)'
   - '_rookie_ Adrian'
