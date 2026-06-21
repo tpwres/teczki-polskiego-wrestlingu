@@ -84,7 +84,7 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
 * Riverman removed the canvas and the foam padding from one corner of the ring exposing the plywood boards underneath, with the intention of slamming Marco on the hard surface. Hammers reversed the move and gave Sheen a taste of his own medicine.
 * After the match, Riverman returned to the ring and hit Marco with a steel chair to the back. He then followed it by dropping Marco onto the plywood.
 * A couple of medical staff members (who received ["NFZ!"][nfz] chants) came in to check on Marco who couldn't move, his neck injury seemingly renewed from the hard fall. The medical staff then carried Marco backstage.
-* This was only the second MZW event where Shadown didn't fight (the first one being [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) in 2015, where his match had to be cancelled at the last minute).
+* This was only the second MZW event where Shadow didn't fight (the first one being [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) in 2015, where his match had to be cancelled at the last minute).
 
 ## References
 
