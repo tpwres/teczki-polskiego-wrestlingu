@@ -14,9 +14,18 @@ caption = "Schedule for the weekend, including various music acts, a bonfire on 
 source = "GRYF MC's Facebook event page"
 +++
 
-GRYF PARTY is an annual gathering and event held by GRYF MC, a motorcycle club with chapters in Siedlce and other cities in Poland. In 2026, the 24th Gryf Party will be held in Serpelice, a village located on the Bug river close to the Polish-Belarussian border, over the weekend of June 19-21. Among the various attractions planned for Saturday is a wrestling showcase by [PpW](@/o/ppw.md).
+GRYF PARTY is an annual gathering and event held by GRYF MC, a motorcycle club with chapters in Siedlce and other cities in Poland. In 2026, the 24th Gryf Party was held in Serpelice, a village located on the Bug river close to the Polish-Belarussian border, over the weekend of June 19-21. Among the various attractions planned for Saturday was a wrestling showcase by [PpW](@/o/ppw.md).
 
-{{ skip_card() }}
+## Card
+
+{% card() %}
+- - '[Jacob Crane](@/w/jacob-crane.md) & Julia Rave'
+  - '[Martinella Motocykl](@/w/istotna-martynka.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - s: Mixed Tag Team Match
+- - '[Biesiad](@/w/biesiad.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - s: Hardcore Match
+{% end %}
 
 ## Reveal
 
