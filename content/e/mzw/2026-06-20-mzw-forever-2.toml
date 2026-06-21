@@ -6,3 +6,25 @@
 0005 = { path = "jakub-open-challenge.webp", caption = "Image announcing [Jakub](@/w/jakub.md).", source = "Official MZW Facebook" }
 0006 = { path = "3-way-match.webp", caption = "Image announcing [Disco Pablo](@/w/disco-pablo.md) vs [Mutant](@/w/mutant.md) vs [Bartosz Plata](@/w/plata.md).", source = "Official MZW Facebook" }
 0007 = { path = "speedzic.webp", caption = "Image announcing [Max Speed](@/w/max-speed.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).", source = "Official MZW Facebook" }
+
+0101 = { path = "na-razie-pusto.webp", caption = "The ring before the show.", source = "M3n747" }
+0102 = { path = "ostry-deszczyng.webp", caption = "Heavy rain before the start of the event.", source = "M3n747" }
+0103 = { path = "w-sumie-moglby-kiedys-zaspiewac.webp", caption = "[Adi](@/w/adrian-zgorski.md) opens the show.", source = "M3n747" }
+
+1001 = { path = "czlowiek-wykalaczka.webp", caption = "[Jakub's](@/w/jakub.md) entrance.", source = "M3n747" }
+1002 = { path = "rudy-z-rozowym.webp", caption = "Jakub receives a rose from [Boro](@/w/boro.md).", source = "M3n747" }
+
+2001 = { path = "konflikt-pokolen.webp", caption = "_Rookies_ Adrian, Maciej and Marek gang up on Sambor, while _rookie_ Stefan attacks Boro.", source = "M3n747" }
+2002 = { path = "ladny-macie-ring-byloby-szkoda-gdybyscie-z-niego-wypadli.webp", caption = "Sambor and Boro eliminate one another.", source = "M3n747" }
+
+3001 = { path = "normalnie-zaraz-nas-czeka-dyskusja-shadowa-z-zefirem.webp", caption = "[Shadow](@/w/shadow.md) tells Jakub that the Legacy Championship Match is still on.", source = "M3n747" }
+3002 = { path = "jakubie-odejdz-prosze.webp", caption = "Sambor and Boro make sure that Jakub is out.", source = "M3n747" }
+
+
+
+
+
+4001 = { path = ".webp", caption = ".", source = "M3n747" }
+5001 = { path = ".webp", caption = ".", source = "M3n747" }
+6001 = { path = ".webp", caption = ".", source = "M3n747" }
+7001 = { path = ".webp", caption = ".", source = "M3n747" }
