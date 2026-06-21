@@ -16,8 +16,10 @@ Bad Trip are a Polish tag team consisting of [Gustav Gryffin](@/w/gustav-gryffin
 ### PpW Ewenement Pro Wrestling (2026-)
 
 Initially bitter enemies, Gustav and Goblin were pushed by circumstances to form an uneasy alliance. At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) Gustav - then a member of [Zmowa](@/tt/zmowa.md) - turned on the stable leader [Mister Z](@/w/mister-z.md), turning face in the process. Later at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Gryffin severed the remaining ties to the group by helping [Goblin](@/w/goblin.md) get the upper hand over Mister Z.
-
-Goblin then suffered a crushing defeat at the hands of another Zmowa member, [Olgierd](@/w/olgierd.md), at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), losing his [PpW Championship](@/c/ppw-championship.md) in the process. At the [following show](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) the two former PpW Champions reluctantly teamed up to help each other exact revenge on Zmowa.
+As [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [GobLis](@/tt/goblis.md) teamed up with Gryffin to face [Zmowa](@/tt/zmowa.md)'s members. Reluctant to team up with Gryffin, [Axel Fox](@/w/axel-fox.md) turned on his team by refusing to tag, thus putting an end to GobLis and joining Zmowa in the process.
+Goblin then suffered a crushing defeat at the hands of another Zmowa member, [Olgierd](@/w/olgierd.md), at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), losing his [PpW Championship](@/c/ppw-championship.md) in the process. In the segment taped post-show, [Gryffin confronted Zmowa][przekopa], who announced that Gryffin and Goblin will team up togerher. Afterwards, in [another segment][creed], Gustav confronted Goblin, who lamented his loss while drinking beers and listening to _Creed - One Last Breath_ in the shower. Gryffin relayed the news about earning them a chance to confront Zmowa and get the Tag Team Championships.
+This segment marked the end of Goblin's facepaint gimmick.
+At the [following show](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) the two former PpW Champions reluctantly teamed up, first defeating [Rodzina](@/tt/rodzina.md) and subsequently Zmowa, making their way into already ongoing [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) tournament, as _Golden Opportunity_ (_Złoty Strzał_).
 
 #### Becoming Bad Trip
 
@@ -27,6 +29,7 @@ Next, we see the two sitting on a couch, Goblin once more with a beer while Gust
 #### Championship pursuit
 
 The new team initially lost to Zmowa & Rodzina at Dwa Na Dwa, but scored their first win in an Anarchy Cyclone match at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md). Eventually their cooperation would pay off, as they snatched the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) from Zmowa at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
+Over the next months, they confronted various contenders for the titles, succesfully retaining.
 
 ## Members
 
@@ -38,4 +41,6 @@ The new team initially lost to Zmowa & Rodzina at Dwa Na Dwa, but scored their f
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current)
 
+[przekopa]: https://www.instagram.com/p/DSfmhUWirUN/
+[creed]: https://www.instagram.com/p/DSscp1BCs2h/
 [house-visit]: https://www.instagram.com/reel/DU6I7t-jdQu/
