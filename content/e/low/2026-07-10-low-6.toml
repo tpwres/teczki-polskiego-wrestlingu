@@ -2,3 +2,4 @@
 00002 = { path = "nadchodzace-gale.jpg", caption = "Image unveiling the name of the show, featuring [Jakub](@/w/jakub.md).", source = "Official Legacy Facebook" }
 00003 = { path = "cut-legacy-wrestling.webp", caption = "The show's Ryucon-themed logo.", source = "Ryucon.pl" }
 00004 = { path = "tournee-lesaka.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook", skip_art = true }
+00005 = { path = "dziedzister.webp", caption = "Image announcing [Syriusz Dziedzic](@/w/dziedzic.md) vs [Sinister](@/w/sinister.md).", source = "Official Legacy Facebook" }
