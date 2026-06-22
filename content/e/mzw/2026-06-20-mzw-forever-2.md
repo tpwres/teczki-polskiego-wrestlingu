@@ -16,6 +16,7 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
 
 ## Build-up
 
+* On 17.05.2026, in a build up to [LoW's 5th show](@/e/low/2026-05-24-low-5.md), [Marco Hammers](@/w/marco-hammers.md) published a [video][marco-na-zakupach], visibly parodying [Matt Buckna's](@/w/matt-buckna.md) [promo][matta-nie-bylo] from [MZW No Time to Die](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md). In this video, Hammers, wearing a neckbrace and MZW Championship confirmed that he is not cleared to wrestle due to neck injury. However Marco decided to ignore the doctor's orders and continue defending the MZW Championship. He might lose the connection between brain and rest of the body, but that would not be a problem, because he would fight with his body and heart, not with his brains.
 * MZW began revealing the card on 18.05.2026 with a Chairs Match between [Olgierd](@/w/olgierd.md) and [Marcelito](@/w/marcelito.md).
 * On 26.05.2026 MZW published a [video][marco-wkurzony] taken after [Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md), in which [Tony Sheen](@/w/riverman.md) challenges [Marco Hammers](@/w/marco-hammers.md) for an [MZW Championship](@/c/mzw-championship.md) match, claiming Marco only managed to win the title because Marco's opponent, [Gustav Gryffin](@/w/gustav-gryffin.md), was severely weakened after the fight with Sheen.
 * On 28.05.2026 MZW announced a Battle Royal Match. Although no names were mentioned, the promotion stated that the match will include - among others - rookies from [Polish Wrestling Academy](@/o/paw.md).
@@ -76,13 +77,13 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
   3. _rookie_ Maciej
   4. _rookie_ Stefan
   5. Sambor & Boro
-* Before his match, [Syriusz Dziedzic](@/w/dziedzic.md) urged the crowd to cheer for [Sędzia Michał](@/w/sedzia-michal.md).
+* Before his match, [Syriusz Dziedzic](@/w/dziedzic.md) urged the crowd to cheer for [Sędzia Michał](@/w/sedzia-michal.md). The match between him and [Max Speed](@/w/max-speed.md) saw many slips and trips and at one point, Dziedzic appeared to have injured his knee. This was however a 
 * During the break, [Adi](@/w/adrian-zgorski.md) entertained the crowd by performing a couple of one-handed cartwheels.
-* [Marco Hammers](@/w/marco-hammers.md) came out wearing a neck brace, playing up his earlier injury, but removed it during entrance.
-* Marco hit [Tony Sheen](@/w/riverman.md) with a 6-1-9; unlike at [fourth Legacy show](@/e/low/2025-12-20-low-4.md), now he performed the move correctly.
+* Three-Way Match between [Bartosz Plata](@/w/plata.md), [Disco Pablo](@/w/disco-pablo.md) and [Mutant](@/w/mutant.md) was billed as the show's _Co-main event_. 
+* [Marco Hammers](@/w/marco-hammers.md) reenacted his entrance routine from [Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md). Continuing the injury angle, he came out wearing a neck brace, got himself hyped up and removed it before entering the ring. The neckbrace was given to a lucky fan.
 * Hammers had some fans grab hold of Tony Sheen for a free hit.
 * Riverman removed the canvas and the foam padding from one corner of the ring exposing the plywood boards underneath, with the intention of slamming Marco on the hard surface. Hammers reversed the move and gave Sheen a taste of his own medicine.
-* After the match, Riverman returned to the ring and hit Marco with a steel chair to the back. He then followed it by dropping Marco onto the plywood.
+* After the match, Riverman returned to the ring and hit Marco with a steel chair to the back. He then followed it by dropping Marco onto the plywood. Sheen took a microphone and declared he will continue to haunt Marco for as long as it is needed to get another title shot. Then he took the championship, and posed with it over prone Hammers, making an emphatic statement.
 * A couple of medical staff members (who received ["NFZ!"][nfz] chants) came in to check on Marco who couldn't move, his neck injury seemingly renewed from the hard fall. The medical staff then carried Marco backstage.
 * This was only the second MZW event where Shadow didn't fight (the first one being [Champions War](@/e/mzw/2015-05-31-mzw-champions-war.md) in 2015, where his match had to be cancelled at the last minute).
 
@@ -93,3 +94,5 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
 [bilety-rzucili]: https://www.facebook.com/photo/?fbid=1408950337930019&set=a.548442050647523
 [marco-wkurzony]: https://www.facebook.com/reel/1482792589520361
 [nfz]: https://en.wikipedia.org/wiki/National_Health_Fund
+[marco-na-zakupach]: https://www.instagram.com/reel/DYc530VsWxD/
+[matta-nie-bylo]: https://www.facebook.com/reel/1632369077910218
