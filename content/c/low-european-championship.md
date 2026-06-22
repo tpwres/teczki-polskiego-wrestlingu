@@ -111,8 +111,9 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
     en: '[Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md)'
     ed: 2026-05-24
 - - 'Jakub(c)'
-  - '???'
-  - s: Singles Match
+  - '[Boro](@/w/boro.md)'
+  - '[Sambor](@/w/sambor.md)'
+  - s: Three-Way Match
     en: '[MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md)'
     ed: 2026-06-20
 {% end %}
