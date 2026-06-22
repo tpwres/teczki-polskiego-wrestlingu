@@ -18,8 +18,15 @@ The second [Ewenement Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna]
 ## Build-up
 
 * The show was announced on 17.06.2026. No workers were mentioned, but the official banner listed [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md), [Jacob Crane](@/w/jacob-crane.md), [Agentka Agatka](@/w/agentka-agatka.md) and [Leon Lato](@/w/leon-lato.md).
+* The first match and the main event of the show, announced on 22.06.2026, was [Leon Lato](@/w/leon-lato.md) vs [Oskar Alexander](@/w/oskar-alexander.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - nc: upcoming
+{% end %}
 
 ## Highlights
 
