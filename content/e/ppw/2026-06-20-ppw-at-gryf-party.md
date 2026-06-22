@@ -25,7 +25,7 @@ GRYF PARTY is an annual gathering and event held by GRYF MC, a motorcycle club w
 - - '[Biesiad](@/w/biesiad.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: Hardcore Match
-  - credits:
+- credits:
     Host, Ring Announcer: '[OG Michael HT](@/w/michael-ht.md)'
     Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
