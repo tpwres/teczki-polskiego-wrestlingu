@@ -20,7 +20,7 @@ GRYF PARTY is an annual gathering and event held by GRYF MC, a motorcycle club w
 
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md) & Julia Rave'
-  - '[Martinella Motocykl](@/w/istotna-martynka.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[Martinella Motocykl](@/w/istotna-martynka.md) & [Woody Biker](@/w/johnny-blade.md)'
   - s: Mixed Tag Team Match
 - - '[Biesiad](@/w/biesiad.md)'
   - '[Mister Z](@/w/mister-z.md)'
