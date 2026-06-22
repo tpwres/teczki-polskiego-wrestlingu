@@ -20,11 +20,17 @@
 3001 = { path = "normalnie-zaraz-nas-czeka-dyskusja-shadowa-z-zefirem.webp", caption = "[Shadow](@/w/shadow.md) tells Jakub that the Legacy Championship Match is still on.", source = "M3n747" }
 3002 = { path = "jakubie-odejdz-prosze.webp", caption = "Sambor and Boro make sure that Jakub is out.", source = "M3n747" }
 
+4001 = { path = "tyski-przyrzad-do-swiecenia-pod-zadkiem.webp", caption = "[Marcelito](@/w/marcelito.md) with a customised chair.", source = "M3n747" }
+4002 = { path = "launchelito.webp", caption = "[Marcelito](@/w/marcelito.md) launches himself at Olgierd.", source = "M3n747" }
+4003 = { path = "marcel-splash.webp", caption = "Marcelito about to hit Olgierd with a Frog Splash.", source = "M3n747" }
+4004 = { path = "sluzy-do-siedzenia-nie-do-duszenia.webp", caption = ".", source = "M3n747" }
+4005 = { path = "wingierd.webp", caption = "[Olgierd](@/w/olgierd.md) wins.", source = "M3n747" }
 
 
 
 
-4001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
 5001 = { path = ".webp", caption = ".", source = "M3n747" }
 6001 = { path = ".webp", caption = ".", source = "M3n747" }
 7001 = { path = ".webp", caption = ".", source = "M3n747" }
