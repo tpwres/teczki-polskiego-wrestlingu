@@ -26,11 +26,31 @@
 4004 = { path = "sluzy-do-siedzenia-nie-do-duszenia.webp", caption = ".", source = "M3n747" }
 4005 = { path = "wingierd.webp", caption = "[Olgierd](@/w/olgierd.md) wins.", source = "M3n747" }
 
+5001 = { path = "sambor-na-linie.webp", caption = "[Sambor's](@/w/sambor.md) entrance leaves [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md) impressed.", source = "M3n747" }
+5002 = { path = "jakubie-nie-bij.webp", caption = "[Jakub](@/w/jakub.md) attacks [Boro](@/w/boro.md) before the start of the match.", source = "M3n747" }
+5003 = { path = "sambor-aaaaa.webp", caption = "[Sambor](@/w/sambor.md) is angry.", source = "M3n747" }
+5004 = { path = "sambor-bbbbb.webp", caption = "[Sambor](@/w/sambor.md) is very angry.", source = "M3n747" }
+5005 = { path = "ten-lysy-w-pierwszym-rzedzie-wyglada-jak-dobry-brat-blizniak-chemika.webp", caption = "Boro puts on a rubber glove…", source = "M3n747" }
+5006 = { path = "plop.webp", caption = "…and introduces an opposable thumb to [Sambor's](@/w/sambor.md) alimentary.", source = "M3n747" }
+5007 = { path = "jakubowi-sie-wygralo.webp", caption = "[Jakub](@/w/jakub.md) wins.", source = "M3n747" }
+
+5101 = { path = "they-wrestle-we-watch.webp", caption = "Adi reduced to his pure essence.", source = "M3n747" }
+5102 = { path = "adi-w-adidasach.webp", caption = "[Adrian Zgórski's](@/w/adrian-zgorski.md) spirit inhabiting a mortal body.", source = "M3n747" }
+
+6001 = { path = "ej-no-juz-wystarczy-ze-na-zewnatrz-pada.webp", caption = "[Syriusz Dziedzic's](@/w/dziedzic.md) entrance.", source = "M3n747" }
+6002 = { path = "wszyscy-lubia-sedziego-michala.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) gets some appreciation from Syriusz Dziedzic, Max Speed and the crowd.", source = "M3n747" }
+6003 = { path = "szacunek-to-podstawa.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) and [Max Speed](@/w/max-speed.md) shake hands, much to [Sędzia Michał's](@/w/sedzia-michal.md) approval.", source = "M3n747" }
+6004 = { path = "jeszcze-niech-go-ktos-karmi-winogronami.webp", caption = "A fan fans Max Speed to bring him relief from the heat.", source = "M3n747" }
+6005 = { path = "chwycil-kozak-tatarzyna.webp", caption = "Max Speed intercepts Syriusz Dziedzic's kick.", source = "M3n747" }
+6006 = { path = "ten-pan-wygral.webp", caption = "Max Speed wins.", source = "M3n747" }
+6007 = { path = "o-tam-cos-jest.webp", caption = "[Max Speed](@/w/max-speed.md) celebrates his victory.", source = "M3n747" }
 
 
 
 
 
-5001 = { path = ".webp", caption = ".", source = "M3n747" }
-6001 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
 7001 = { path = ".webp", caption = ".", source = "M3n747" }
+8001 = { path = ".webp", caption = ".", source = "M3n747" }
