@@ -8,7 +8,7 @@ orgs = ["ptw"]
 1 = { path = "nietykalni.webp", caption = "Nietykalni at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). Left to right: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Puncher](@/w/puncher.md), [Alex Brave](@/w/alex-brave.md). At their feet lies Spartan.", source = "Official PTW Facebook" }
 +++
 
-Nietykalni (_The Untouchables_) was a villainous faction, active in [Prime Time Wrestling](@/o/ptw.md) throughout 2025. It consisted of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) as a leader, [PTW Champion](@/c/ptw-championship.md) [Dawid "Puncher" Seńko](@/w/puncher.md) and [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), and later addition of ["Starboy" Nano Lopez](@/w/nano-lopez.md). The stable effectively disbanded at [PTW:Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) where Pawłowski bid farewell to PTW and each of his stablemates.
+Nietykalni (_The Untouchables_) was a villainous faction, active in [Prime Time Wrestling](@/o/ptw.md) throughout 2025. It consisted of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) as the leader, [PTW Champion](@/c/ptw-championship.md) [Dawid "Puncher" Seńko](@/w/puncher.md) and [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md)), and the later addition of ["Starboy" Nano Lopez](@/w/nano-lopez.md). The stable effectively disbanded at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) where Pawłowski bid farewell to PTW and each of his stablemates.
 
 ## History
 
@@ -31,19 +31,19 @@ On 19.07.2025 PTW promoted a show named after the faction - [PTW: Nietykalni](@/
 Over the following months, Nietykalni continued to haunt Okoński and the babyfaces. Eventually, Team Okoński formed to face them.
 At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) the teams faced off in a 4 on 4 Elimination Match with future titleshots for the babyfaces hanging in the balance. ["Starboy" Nano Lopez](@/w/nano-lopez.md) turned on Team Okoński, attacking [Spartan](@/w/spartan.md) and thus eliminating himself from the match. His further beatdown of Spartan secured the win for Nietykalni. Post-match he celebrated together, while commentary confirmed he is indeed the 5th member of Nietykalni.
 
-#### Final Act
+#### Final act
 
 At [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Pawłowski returned to in-ring competition, teaming up with his champion Puncher in a Three Stages of Hell Match against Okoński. In it, he was pinned by Okoński twice, costing Pawłowski's team the victory. Nietykalni's defeat meant that Spartan was once again eligible to face Puncher for the PTW title, which enraged the reigning Champion.
 
 In the main event of [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) both Puncher's PTW Championship and Pawłowski's career were on the line in an All Or Nothing Match against Spartan, supported by Łukasz Okoński. Despite all the tricks and shenanigans pulled off by Pan Pawłowski and Nietykalni, Spartan was finally able to finish his story. Devastated, Arkadiusz spent the next couple of weeks looking back at moments from his wrestling journey on his social media, which included short stories from both [DDW](@/o/ddw.md) and [KPW](@/o/kpw.md), as well as the beginnings of PTW.
 
-#### The End
+#### The end
 
-At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by making his farewell speech, seemingly reverting to his good guy persona. He granted parting gifts to all the Nietykalni members present - with notable exception of Puncher, who cut any contact with them and PTW. Each of the members was "granted freedom" after getting their respective gifts, leaving the ring one by one.
-Order of gifts:
-* Caravaggio was given a spot as representative of Poland in PTW's World Cup (which he eventually won)
-* Nano Lopez was presented with various opportunities to defend the Underground Championship around Europe
+At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) Pawłowski closed the show by making his farewell speech, seemingly reverting to his good guy persona. He granted parting gifts to all the Nietykalni members present - with notable exception of Puncher, who cut any contact with them and PTW. Each of the members was "granted freedom" after getting their respective gifts, leaving the ring one by one.
+* Caravaggio was given a spot as representative of Poland in [PTW: World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (which he eventually won)
+* Nano Lopez was presented with various opportunities to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) around Europe
 * Brave's "gift" was a lecture, motivating him to find himself and become a singles star.
+
 After that Pawłowski bid farewell to PTW's ring and revealed that he had been supposedly headhunted by one of "major international wrestling promotions", where he would continue his career.
 
 After his loss, Puncher stopped appearing for PTW altogether, while other members of Nietykalni continued their careers separately.
