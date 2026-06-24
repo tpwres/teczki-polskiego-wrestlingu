@@ -24,7 +24,6 @@ has_video = false
 * On 12.06.2026 PTW published a [video][misiek-vs-stol] of [Misiek](@/w/misiek.md) demanding a match against [Whiteblade](@/w/whiteblade.md) from [Łukasz Okoński](@/w/lukasz-okonski.md). On 15.06 the match was officially confirmed, with the Unsanctioned Match stipulation.
 * On 17.06.2026 came the announcement of [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md). Having lost his [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in [May](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), Brave has been increasingly jealous of Klakson's successes.
 * On 18.06.2026 PTW announced a match for the [PTW Women's Championship](@/c/ptw-womens-championship.md) between the reigning Champion [Diana Strong](@/w/diana-strong.md) and Emily Locke from the US.
-* On 24.06.2026 came the announcement of Nic Wesker vs Conte in a "Children's Day Match" (_Dzień Dziecka Mecz_), described as a "very unusual match aimed at the youngest members of the audience".
 
 ## Predicted card
 
@@ -53,10 +52,6 @@ has_video = false
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
   - 'Emily Locke'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    nc: upcoming
-- - 'Nic Wesker'
-  - 'Conte'
-  - s: "Children's Day Match"
     nc: upcoming
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
