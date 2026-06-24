@@ -44,7 +44,8 @@ Order of gifts:
 * Caravaggio was given a spot as representative of Poland in PTW's World Cup (which he eventually won)
 * Nano Lopez was presented with various opportunities to defend the Underground Championship around Europe
 * Brave's "gift" was a lecture, motivating him to find himself and become a singles star.
-After that Pawłowski bid farewell to PTW's ring and revealed that he had been supposedly headhunted by one of "major international wrestling promotions", where he would continue his career.
+
+After that Pawłowski bid farewell to PTW's ring and revealed that he had been supposedly headhunted by one of "major international wrestling promotions", where he would continue his career. His babyface music (_Throne_ by Bring me the Horizon) played and Łukasz Okoński made a surprise appearance, shaking Pawłowski's hand and hugging him, before bringing the whole roster to the ringside, to show their former Chairman respect.
 
 After his loss, Puncher stopped appearing for PTW altogether, while other members of Nietykalni continued their careers separately.
 
