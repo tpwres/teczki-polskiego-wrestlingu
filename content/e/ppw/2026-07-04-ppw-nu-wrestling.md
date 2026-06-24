@@ -20,6 +20,7 @@ Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to
 * The first match - [Jacob Crane](@/w/jacob-crane.md) vs [Oskar Alexander](@/w/oskar-alexander.md) - was supposed to take place at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), but had to be cancelled due to Oskar's injury. The new date was published on 10.06.2026.
 * On 15.06.2026 PpW followed with the announcement of a Triple Threat Match between [Bartosz Plata](@/w/plata.md), [Olgierd](@/w/olgierd.md) and [Antoni Ocean](@/w/antoni-ocean.md), with each contestant looking to win the fight in order to gain some much-needed momentum.
 * On 17.06.2026 [Gabriel Queen](@/w/gabriel-queen.md) issued an [open challenge][lujnij-kto-pyre] for his [PpW Championship](@/c/ppw-championship.md). On the next day the challenge was answered by [Maverick](@/w/maverick.md).
+* On 24.06.2026 [Agentka Agatka](@/w/agentka-agatka.md) was announced to appear at the show.
 
 ## Predicted card
 
@@ -36,6 +37,9 @@ Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to
   - '[Maverick](@/w/maverick.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
+- - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
