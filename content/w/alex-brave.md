@@ -1,10 +1,10 @@
 +++
 title = "Alex Brave"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski"]
 [extra]
 toclevel = 2
-[taxonomies] 
+[taxonomies]
 country = ["PL"]
 +++
 
@@ -16,8 +16,8 @@ Alex Brave, previously known as Sędzia Rafał and S.Rafał, is a professional w
 * Gimmicks/nicknames:
   - Sędzia Rafał {{ org_badge(orgs=['ptw']) }} (2022-2023)
   - S.Rafał {{ org_badge(orgs=['ptw']) }} (2023-2024)
-  - *Alex Brave {{ org_badge(orgs=['ptw']) }} (2024-present)*
-  - "Showtime" Alex Brave {{ org_badge(orgs=['ptw']) }} (2026 - present)
+  - Alex Brave {{ org_badge(orgs=['ptw']) }} (2024-present)
+  - "Showtime" Alex Brave {{ org_badge(orgs=['ptw']) }} (2026-present)
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-present)
 
@@ -57,12 +57,14 @@ Alex got involved in the main event of [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw
 #### Royal Rebels and Nietykalni
 
 At [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) Pawłowski expressed his gratitude for both Brave and Caravaggio, praising them for their actions at Prezes vs Prezes. He formed a tag team of Brave and Caravaggio - [Royal Rebels](@/tt/royal-rebels.md) - and introduced them into a new Pawłowski-centered faction called [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_), consisting of all of them and Puncher. They were given the opportunity to face [L'Orda](@/tt/l-orda.md) at the same show. Brave and Vincent managed to score a victory, becoming the new [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md). From that point onwards Nietykalni ruled over PTW, constantly feuding with Łukasz Okoński and his allies: [Spartan](@/w/spartan.md) and referees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md), who tried to stand their ground at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), but were bullied into submission by Royal Rebels.
+
 In the main event of [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) both Puncher's PTW Championship and Pawłowski's career were on the line in an All Or Nothing Match against Spartan, supported by Łukasz Okoński. Despite all the tricks and shenanigans pulled off by Pan Pawłowski and Nietykalni, Puncher lost and Pawłowski's regime crumbled.
 Nietykalni effectively disbanded at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) where Pawłowski bid farewell to PTW and each of his stablemates. He gave Brave a parting gift - a motivational speech, telling him to find himself and realize his potential as PTW's best showman and future PTW Champion.
 
 #### _Showtime_ Alex Brave
 
 Apparently taking Pawłowski's words to heart, Brave debuted a slightly changed persona at [the very next show]. With added nickname of "Showtime", he adopted a new look, including a shiny tuxedo coat worn over a t-shirt, as well as a new entrance theme. Brave started to call himself the best showman in PTW.
+
 Over the next months, while still one half of PTW Tag Team Champions, Brave also focused on improving his standing in singles competition. The duo eventually lost the titles at [PTW: Krew, pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) tu the duo of [Miyagi Sigma](@/tt/miyagi-sigma.md), culminating a rivalry started in 2025.
 
 ## International wrestling appearances
