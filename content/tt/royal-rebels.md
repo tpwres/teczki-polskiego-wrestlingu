@@ -1,7 +1,7 @@
 +++
 title = "Royal Rebels"
 template = "team_page.html"
-authors = ["M3n747", "Sewi The Referee"]
+authors = ["M3n747", "Sewi The Referee", "Szymon Iwulski"]
 [extra]
 orgs = ["ptw"]
 +++
@@ -20,7 +20,19 @@ In 2024, [Alex Brave](@/w/alex-brave.md) formed an unofficial alliance with anot
 
 At [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) Pawłowski expressed his gratitude for both Brave and Caravaggio, praising them for their actions at Prezes vs Prezes. He formed a tag team of Brave and Caravaggio, naming it Royal Rebels, and introduced them into a new Pawłowski-centered faction called [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_), consisting of all of them and [Puncher](@/w/puncher.md). They were given the opportunity to face [L'Orda](@/tt/l-orda.md) at the same show. Brave and Vincent managed to score a victory, becoming the new [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md). From that point onwards Nietykalni ruled over PTW, constantly feuding with Łukasz Okoński and his allies: Spartan and referees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md), who tried to stand their ground at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), but were bullied into submission by Royal Rebels.
 
+Over the following months Royal Rebels were an integral part of the feud between Nietykalni and Team Okoński, facing its members in various configurations. 
+In the main event of [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) both Puncher's PTW Championship and Pawłowski's career were on the line in an All Or Nothing Match against Spartan, supported by Łukasz Okoński. Despite all the tricks and shenanigans pulled off by Pan Pawłowski and Nietykalni, Puncher lost and Pawłowski's regime crumbled.
+
+Royal Rebels held on to the titles long after Nietykalni's demise until [PTW: Krew, pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), where they lost to the duo of [Miyagi Sigma](@/tt/miyagi-sigma.md), culminating a rivalry started in 2025.
+
 ## In wrestling
+
+* Entrance music:
+  - "Path" by Apocalyptica
+    {{ org_badge(orgs=['ptw']) }} (2025-present) <br>
+    {{ music(yt='m9xqO9kKqyk')}}
+    {{ music(spot='6CD2UMJyPuN5P1UWHCFXmd')}}
+    {{ music(apple='1646530800?i=1646530876')}}
 
 * Affiliations:
   - [Nietykalni](@/tt/nietykalni.md) (2025-)

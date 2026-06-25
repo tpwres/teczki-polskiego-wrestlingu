@@ -54,7 +54,7 @@ has_video = true
   - s: Gauntlet Match
     r: Submission
 - - '[Daniel Razor](@/w/daniel-razor.md)'
-  - '[Alex Brave](@/w/alex-brave.md)'
+  - '["Showtime" Alex Brave](@/w/alex-brave.md)'
   - s: Gauntlet Match
     r: DQ
 - - '[Sawicki](@/w/sawicki.md)'

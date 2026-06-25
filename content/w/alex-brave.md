@@ -1,7 +1,7 @@
 +++
 title = "Alex Brave"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -17,6 +17,7 @@ Alex Brave, previously known as Sędzia Rafał and S.Rafał, is a professional w
   - Sędzia Rafał {{ org_badge(orgs=['ptw']) }} (2022-2023)
   - S.Rafał {{ org_badge(orgs=['ptw']) }} (2023-2024)
   - Alex Brave {{ org_badge(orgs=['ptw']) }} (2024-present)
+  - "Showtime" Alex Brave {{ org_badge(orgs=['ptw']) }} (2026-present)
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-present)
 
@@ -55,7 +56,16 @@ Alex got involved in the main event of [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw
 
 #### Royal Rebels and Nietykalni
 
-At [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) Pawłowski expressed his gratitude for both Brave and Caravaggio, praising them for their actions at Prezes vs Prezes. He formed a tag team of Brave and Caravaggio - [Royal Rebels](@/tt/royal-rebels.md) - and introduced them into a new Pawłowski-centered faction called [Nietyklani](@/tt/nietykalni.md) (_The Untouchables_), consisting of all of them and Puncher. They were given the opportunity to face [L'Orda](@/tt/l-orda.md) at the same show. Brave and Vincent managed to score a victory, becoming the new [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md). From that point onwards Nietykalni ruled over PTW, constantly feuding with Łukasz Okoński and his allies: [Spartan](@/w/spartan.md) and referees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md), who tried to stand their ground at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), but were bullied into submission by Royal Rebels.
+At [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) Pawłowski expressed his gratitude for both Brave and Caravaggio, praising them for their actions at Prezes vs Prezes. He formed a tag team of Brave and Caravaggio - [Royal Rebels](@/tt/royal-rebels.md) - and introduced them into a new Pawłowski-centered faction called [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_), consisting of all of them and Puncher. They were given the opportunity to face [L'Orda](@/tt/l-orda.md) at the same show. Brave and Vincent managed to score a victory, becoming the new [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md). From that point onwards Nietykalni ruled over PTW, constantly feuding with Łukasz Okoński and his allies: [Spartan](@/w/spartan.md) and referees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md), who tried to stand their ground at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), but were bullied into submission by Royal Rebels.
+
+In the main event of [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) both Puncher's PTW Championship and Pawłowski's career were on the line in an All Or Nothing Match against Spartan, supported by Łukasz Okoński. Despite all the tricks and shenanigans pulled off by Pan Pawłowski and Nietykalni, Puncher lost and Pawłowski's regime crumbled.
+Nietykalni effectively disbanded at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) where Pawłowski bid farewell to PTW and each of his stablemates. He gave Brave a parting gift - a motivational speech, telling him to find himself and realize his potential as PTW's best showman and future PTW Champion.
+
+#### _Showtime_ Alex Brave
+
+Apparently taking Pawłowski's words to heart, Brave debuted a slightly changed persona at [the very next show]. With added nickname of "Showtime", he adopted a new look, including a shiny tuxedo coat worn over a t-shirt, as well as a new entrance theme. Brave started to call himself the best showman in PTW.
+
+Over the next months, while still one half of PTW Tag Team Champions, Brave also focused on improving his standing in singles competition. The duo eventually lost the titles at [PTW: Krew, pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) to the team of [Miyagi Sigma](@/tt/miyagi-sigma.md), culminating a rivalry started in 2025.
 
 ## International wrestling appearances
 
@@ -67,13 +77,23 @@ In January 2024 Alex Brave (then named S. Rafał) made his international debut a
   - Moonsault (2024-)
 * Tag Teams and stables:
   - [Royal Rebels](@/tt/royal-rebels.md) (2025-)
-  - [Nietykalni](@/tt/nietykalni.md) (2025-)
+  - [Nietykalni](@/tt/nietykalni.md) (2025-2026)
 * Entrance music:
   - "White Rabbit" by Egypt Central
-    {{ org_badge(orgs=['ptw']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2023-2026) <br>
     {{ music(yt='Um8EEzl42PQ')}}
     {{ music(spot='6xwak2gJxMwbLBEJVier7X')}}
     {{ music(apple='494032236')}}
+  - "Just Like You" by Falling in Reverse
+    {{ org_badge(orgs=['ptw']) }} (2026-present) <br>
+    {{ music(yt='aaR1Jm7hjmE')}}
+    {{ music(spot='1wQPcfKUzpzrf6gcVqQh04')}}
+    {{ music(apple='1485061326?i=1485061330')}}
+   - "Path" by Apocalyptica
+    {{ org_badge(orgs=['ptw']) }} (2025-present, as part of Royal Rebels) <br>
+    {{ music(yt='m9xqO9kKqyk')}}
+    {{ music(spot='6CD2UMJyPuN5P1UWHCFXmd')}}
+    {{ music(apple='1646530800?i=1646530876')}}
 
 ## Championships and accomplishments
 
