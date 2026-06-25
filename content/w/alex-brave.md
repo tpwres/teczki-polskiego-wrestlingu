@@ -65,7 +65,7 @@ Nietykalni effectively disbanded at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odr
 
 Apparently taking Pawłowski's words to heart, Brave debuted a slightly changed persona at [the very next show]. With added nickname of "Showtime", he adopted a new look, including a shiny tuxedo coat worn over a t-shirt, as well as a new entrance theme. Brave started to call himself the best showman in PTW.
 
-Over the next months, while still one half of PTW Tag Team Champions, Brave also focused on improving his standing in singles competition. The duo eventually lost the titles at [PTW: Krew, pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) tu the duo of [Miyagi Sigma](@/tt/miyagi-sigma.md), culminating a rivalry started in 2025.
+Over the next months, while still one half of PTW Tag Team Champions, Brave also focused on improving his standing in singles competition. The duo eventually lost the titles at [PTW: Krew, pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) to the team of [Miyagi Sigma](@/tt/miyagi-sigma.md), culminating a rivalry started in 2025.
 
 ## International wrestling appearances
 
