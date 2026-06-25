@@ -27,6 +27,7 @@ has_video = false
 * On 22.06.2026 PTW announced a match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), between the reigning champions [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md)) and the American team Exodus (Jacked Josh & Body Bundy) - the current Full Impact Pro Wrestling Tag Team Champions.
 * On 23.06.2026 came the announcement of Nic Wesker vs Conte in a "Children's Day Match" (_Dzień Dziecka Mecz_), described as a "very unusual match aimed at the youngest members of the audience".
 * The next day the [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md) issued an open challenge for his title.
+* On 25.06.2026 the federation announced a Tag Team Match between [Damian Adler](@/w/damian-adler.md) and El Clavo, both with mystery partners. The workers were said to represent a different country each.
 
 ## Predicted card
 
@@ -68,6 +69,10 @@ has_video = false
   - 'Exodus: Jacked Josh & Body Bundy'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
+    nc: upcoming
+- - '[Damian Adler](@/w/damian-adler.md) & ???'
+  - 'El Clavo & ???'
+  - s: Tag Team Match
     nc: upcoming
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
