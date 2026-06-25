@@ -1,5 +1,6 @@
 001 = { path = "tournee-lesaka.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook", skip_art = true }
 002 = { path = "publika-przed.webp", caption = "The crowd before the show. Note a woman cosplaying as Krystian Malinowski in the front row.", source = "Migawki z Puszki / Official KPW Facebook" }
+003 = { path = "i-wlasnie-o-to-w-tym-wszystkim-chodzi.webp", caption = "Fans express their appreciation of the KPW wrestlers.", source = "Migawki z Puszki / Official KPW Facebook" }
 
 101 = { path = "kojarzy-mi-sie-z-tamtym-obrazkiem-krolikiem-bugsem.webp", caption = "[Michał Fux](@/w/michal-fux.md) impressed by the directness of Eryk Lesak's arguments.", source = "Migawki z Puszki / Official KPW Facebook" }
 102 = { path = "styl-zurawia-adziaaaaa.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) delivers a ferocious kick to Michał Fux's jaw.", source = "Migawki z Puszki / Official KPW Facebook" }
@@ -22,5 +23,3 @@
 501 = { path = "lesak-dusi-adepta.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) chokes Rookie Four.", source = "Migawki z Puszki / Official KPW Facebook" }
 502 = { path = "gwaltowny-koniec-ringowej-kariery-malinowskiego.webp", caption = "[Michał Fux](@/w/michal-fux.md) explains to [Krystian Malinowski](@/w/krystian-malinowski.md) the superiority of his wrestling [kung&nbsp;fu](https://en.wikipedia.org/wiki/Kung_fu_%28term%29).", source = "Migawki z Puszki / Official KPW Facebook" }
 503 = { path = "team-fux.webp", caption = "[Szymon Kurczab](@/w/rookie-two.md), [Michał Fux](@/w/michal-fux.md), [Rookie Three](@/w/rookie-three.md) and Rookie Four victorious.", source = "Migawki z Puszki / Official KPW Facebook" }
-
-601 = { path = "i-wlasnie-o-to-w-tym-wszystkim-chodzi.webp", caption = "Fans express their appreciation of the KPW wrestlers.", source = "Migawki z Puszki / Official KPW Facebook" }
