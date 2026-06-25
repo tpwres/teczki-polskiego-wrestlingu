@@ -50,13 +50,18 @@ From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łuk
   - Wine Mist (2024-)
 * Tag Teams and stables:
   - [Royal Rebels](@/tt/royal-rebels.md) (2025-)
-  - [Nietykalni](@/tt/nietykalni.md) (2025-)
+  - [Nietykalni](@/tt/nietykalni.md) (2025-2026)
 * Entrance music:
   - "Prelude" by Versailles
     {{ org_badge(orgs=['ptw']) }} (2023-) <br>
     {{ music(yt='2c3Uv88-3sI')}}
     {{ music(spot='1Hk6rYH2TKLURvqgKwTGXc')}}
     {{ music(apple='284259361?i=284259442')}}
+  - "Path" by Apocalyptica
+    {{ org_badge(orgs=['ptw']) }} (2025-present, as part of Royal Rebels) <br>
+    {{ music(yt='m9xqO9kKqyk')}}
+    {{ music(spot='6CD2UMJyPuN5P1UWHCFXmd')}}
+    {{ music(apple='1646530800?i=1646530876')}}
 
 ## Championships and accomplishments
 
