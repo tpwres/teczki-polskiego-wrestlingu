@@ -17,7 +17,7 @@ Alex Brave, previously known as Sędzia Rafał and S.Rafał, is a professional w
   - Sędzia Rafał {{ org_badge(orgs=['ptw']) }} (2022-2023)
   - S.Rafał {{ org_badge(orgs=['ptw']) }} (2023-2024)
   - *Alex Brave {{ org_badge(orgs=['ptw']) }} (2024-present)*
-  - *"Showtime" Alex Brave {{ org_badge(orgs=['ptw']) }} (2026 - present)*
+  - "Showtime" Alex Brave {{ org_badge(orgs=['ptw']) }} (2026 - present)
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-present)
 
@@ -87,6 +87,12 @@ In January 2024 Alex Brave (then named S. Rafał) made his international debut a
     {{ music(yt='aaR1Jm7hjmE')}}
     {{ music(spot='1wQPcfKUzpzrf6gcVqQh04')}}
     {{ music(apple='1485061326?i=1485061330')}}
+   - "Path" by Apocalyptica
+    {{ org_badge(orgs=['ptw']) }} (2025-present, as part of Royal Rebels) <br>
+    {{ music(yt='m9xqO9kKqyk')}}
+    {{ music(spot='6CD2UMJyPuN5P1UWHCFXmd')}}
+    {{ music(apple='1646530800?i=1646530876')}}
+
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
