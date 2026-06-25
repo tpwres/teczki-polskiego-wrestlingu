@@ -75,7 +75,7 @@ In January 2024 Alex Brave (then named S. Rafał) made his international debut a
   - Moonsault (2024-)
 * Tag Teams and stables:
   - [Royal Rebels](@/tt/royal-rebels.md) (2025-)
-  - [Nietykalni](@/tt/nietykalni.md) (2025-)
+  - [Nietykalni](@/tt/nietykalni.md) (2025-2026)
 * Entrance music:
   - "White Rabbit" by Egypt Central
     {{ org_badge(orgs=['ptw']) }} (2023-2026) <br>
