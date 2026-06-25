@@ -25,6 +25,8 @@ has_video = false
 * On 17.06.2026 came the announcement of [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md). Having lost his [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in [May](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), Brave has been increasingly jealous of Klakson's successes.
 * On 18.06.2026 PTW announced a match for the [PTW Women's Championship](@/c/ptw-womens-championship.md) between the reigning Champion [Diana Strong](@/w/diana-strong.md) and Emily Locke from the US.
 * On 22.06.2026 PTW announced a match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), between the reigning champions [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md)) and the American team Exodus (Jacked Josh & Body Bundy) - the current Full Impact Pro Wrestling Tag Team Champions.
+* On 23.06.2026 came the announcement of Nic Wesker vs Conte in a "Children's Day Match" (_Dzień Dziecka Mecz_), described as a "very unusual match aimed at the youngest members of the audience".
+* The next day the [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md) issued an open challenge for his title.
 
 ## Predicted card
 
@@ -54,6 +56,14 @@ has_video = false
   - 'Emily Locke'
   - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
     nc: upcoming
+- - 'Nic Wesker'
+  - 'Conte'
+  - s: "Children's Day Match"
+    nc: upcoming
+- - '[Nano Lopez](@/w/nano-lopez.md)(c)'
+  - '???'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    nc: upcoming    
 - - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md)(c)'
   - 'Exodus: Jacked Josh & Body Bundy'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
