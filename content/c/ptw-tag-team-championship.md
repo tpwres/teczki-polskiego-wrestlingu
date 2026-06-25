@@ -219,11 +219,13 @@ While Boro never defended the title, he was also recognized as a champion per th
     ed: 2025-12-13
 - - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
   - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD'
-  - en: '[PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
+  - s: Tag Team Match
+    en: '[PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md)'
     ed: 2026-01-31
 - - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD'
   - 'Royal Rebels: Alex Brave & Vincent Caravaggio(c)'
-  - en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+  - s: Ladder Match
+    en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
     ed: 2026-05-23
 {% end %}
 
@@ -234,8 +236,15 @@ While Boro never defended the title, he was also recognized as a champion per th
 {% free_card() %}
 - - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
-  - en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+  - s: Ladder Match
+    en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
     ed: 2026-05-23
+- - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD(c)'
+  - 'Exodus: Jacked Josh & Body Bundy'
+  - s: Tag Team Match
+    en: '[PTW: Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
+    ed: 2026-06-27
+    nc: upcoming
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
