@@ -85,6 +85,7 @@ has_video = true
 
 * As a part of his gimmick, [Damian Adler](@/w/damian-adler.md), despite being Polish, represented Germany in the tournament.
 * Damian Lambert made an entrance to a new theme song, with a rambling promo before his match. He started talking about "multiple voices", the uncertainty of today's world and the need to have a guiding figure. It was met with "idź się leczyć" (roughly _get your head checked_) chants from the crowd, to which Lambert replied that the fans were the ones that need professional help. He announced the Prophet who would guide everyone, and revealed that it was himself. He prophesied the end of the world and promised to save us - just like he'd saved a person so lost that even his name was [Dropper](@/w/whiteblade.md). Dropper - now renamed [Whiteblade](@/w/whiteblade.md) - made a full entrance wearing a lucha mask gifted by Lambert, complete with new ring gear. Seemingly, Lambert was starting a cult.
+*Apparently taking Pawłowski's parting words to heart, Brave debuted a slightly changed persona. With added nickname of "Showtime", he adopted a new look, including a shiny tuxedo coat worn over a t-shirt, as well as a new entrance theme.
 
 ## References
 
