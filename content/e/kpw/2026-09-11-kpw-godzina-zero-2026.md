@@ -1,5 +1,5 @@
 +++
-title = "KPW Godzina Zero 2025"
+title = "KPW Godzina Zero 2026"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
