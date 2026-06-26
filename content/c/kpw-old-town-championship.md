@@ -249,6 +249,23 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: Falls Count Anywhere Match
     en: '[KPW @ Pyrkon 2026](@/e/kpw/2026-06-20-kpw-pyrkon-2026.md)'
     ed: 2026-06-20
+- - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - 'Leon Lato(c)'
+  - s: Championship Contract Cash-In
+    en: '[KPW Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md)'
+    ed: 2026-06-26
+{% end %}
+
+**TOTAL:** 308 days.
+
+### Champion #6: Eryk Lesak
+
+{% free_card() %}
+- - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - '[Leon Lato](@/w/leon-lato.md)(c)'
+  - s: Championship Contract Cash-In
+    en: '[KPW Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md)'
+    ed: 2026-06-26
 {% end %}
 
 ## References

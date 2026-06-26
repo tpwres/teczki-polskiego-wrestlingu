@@ -106,9 +106,9 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
   - >
     Defeated [Zefir](@/w/zefir.md) for the vacant title at [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md)
 - - '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - >
-    Defeated [Chemik](@/w/chemik.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md)
+    Defeated [Leon Lato](@/w/leon-lato.md) at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md)
 - - '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
   - '[Team Visegrad](@/tt/team-visegrad.md): [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md)'
   - >
