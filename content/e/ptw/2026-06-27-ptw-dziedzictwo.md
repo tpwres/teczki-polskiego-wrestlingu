@@ -28,6 +28,7 @@ has_video = false
 * On 23.06.2026 came the announcement of Nic Wesker vs Conte in a "Children's Day Match" (_Dzień Dziecka Mecz_), described as a "very unusual match aimed at the youngest members of the audience".
 * The next day the [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md) issued an open challenge for his title.
 * On 25.06.2026 the federation announced a Tag Team Match between [Damian Adler](@/w/damian-adler.md) and El Clavo, both with mystery partners. The workers were said to represent a different country each.
+*  The following day, Swiss wrestler Red Jack confirmed himself as Adler's mystery partner.
 
 ## Predicted card
 
@@ -70,7 +71,7 @@ has_video = false
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
-- - '[Damian Adler](@/w/damian-adler.md) & ???'
+- - '[Damian Adler](@/w/damian-adler.md) & Red Jack'
   - 'El Clavo & ???'
   - s: Tag Team Match
     nc: upcoming
@@ -91,6 +92,7 @@ has_video = false
 * [Emily Locke's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=24745)
 * [Jacked Josh's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=24452)
 * [Body Bundy's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=24101)
+* [Red Jack's Instagram profile](https://www.instagram.com/redjack_swissmachine/)
 
 [zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1218460120359712:1218460120359712
 [misiek-vs-stol]: https://www.facebook.com/reel/2410777819419862
