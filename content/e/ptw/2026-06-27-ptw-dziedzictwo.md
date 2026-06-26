@@ -28,7 +28,7 @@ has_video = false
 * On 23.06.2026 came the announcement of Nic Wesker vs Conte in a "Children's Day Match" (_Dzień Dziecka Mecz_), described as a "very unusual match aimed at the youngest members of the audience".
 * The next day the [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md) issued an open challenge for his title.
 * On 25.06.2026 the federation announced a Tag Team Match between [Damian Adler](@/w/damian-adler.md) and El Clavo, both with mystery partners. The workers were said to represent a different country each.
-*  The following day, Swiss wrestler Red Jack confirmed himself as Adler's mystery partner.
+* The following day, Swiss wrestler Red Jack confirmed himself as Adler's mystery partner.
 
 ## Predicted card
 
