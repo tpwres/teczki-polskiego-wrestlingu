@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"Dziedzictwo" (_The Legacy_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). It was announced alongside [PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md).
+"Dziedzictwo" (_The Legacy_) was a show by [Prime Time Wrestling](@/o/ptw.md). It was announced alongside [PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md).
 
 ## Build-up
 
@@ -30,51 +30,47 @@ has_video = false
 * On 25.06.2026 the federation announced a Tag Team Match between [Damian Adler](@/w/damian-adler.md) and El Clavo, both with mystery partners. The workers were said to represent a different country each.
 * The following day, Swiss wrestler Red Jack confirmed himself as Adler's mystery partner.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
   - g: Okoński opens the show
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Flex Skywalker'
 - - '[Boguś](@/w/bogus.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)'
-  - nc: upcoming
+- - 'Conte'
+  - 'Nic Wesker'
+  - s: "Children's Day Match"
+- - '[CJ Klakson](@/w/cj-klakson.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md)(c)'
+  - 'Exodus: Jacked Josh & Body Bundy'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: Tag Team Match
+- - '[Damian Adler](@/w/damian-adler.md) & Red Jack'
+  - 'El Clavo & Davide Adami'
+  - s: Tag Team Match
+- - '[Nano Lopez](@/w/nano-lopez.md)(c)'
+  - '[El G](@/w/el-g.md)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    s: Open Challenge
+- - '[Diana Strong](@/w/diana-strong.md)(c)'
+  - 'Emily Locke'
+  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
+- - '[Misiek](@/w/misiek.md)'
+  - '[Whiteblade](@/w/whiteblade.md)'
+  - s: Unsanctioned Match
+
+
 - - '[Fabian](@/w/fabian.md)'
   - g: Fabian Festival
     nc: upcoming
 - - '[Krampus](@/w/krampus.md)'
   - '???'
   - nc: upcoming
-- - 'Flex Skywalker'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - nc: upcoming
-- - '[Whiteblade](@/w/whiteblade.md)'
-  - '[Misiek](@/w/misiek.md)'
-  - s: Unsanctioned Match
-    nc: upcoming
-- - '[Alex Brave](@/w/alex-brave.md)'
-  - '[CJ Klakson](@/w/cj-klakson.md)'
-  - nc: upcoming
-- - '[Diana Strong](@/w/diana-strong.md)(c)'
-  - 'Emily Locke'
-  - c: "[PTW Women's Championship](@/c/ptw-womens-championship.md)"
-    nc: upcoming
-- - 'Nic Wesker'
-  - 'Conte'
-  - s: "Children's Day Match"
-    nc: upcoming
-- - '[Nano Lopez](@/w/nano-lopez.md)(c)'
-  - '???'
-  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming    
-- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md)(c)'
-  - 'Exodus: Jacked Josh & Body Bundy'
-  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    s: Tag Team Match
-    nc: upcoming
-- - '[Damian Adler](@/w/damian-adler.md) & Red Jack'
-  - 'El Clavo & ???'
-  - s: Tag Team Match
-    nc: upcoming
+
+
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
