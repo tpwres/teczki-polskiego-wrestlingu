@@ -97,7 +97,7 @@ has_video = false
 * For the tag team match, El Clavo was joined by Italian wrestler returning to PTW, Davide Adami. This match saw the debut of a new referee: Sędzia Marek, seemingly replacing the absent [Herno](@/w/sedzia-herno.md). After their win, Adler wanted to unmask the prone El Clavo, but Red Jack stopped him.
 * [El G](@/w/el-g.md), previously serving as part of Conte's entourage, answered [Nano Lopez's](@/w/nano-lopez.md) Open Challenge. He was accompanied by "Luigi" and "Princess Peach". After a competitive match-up, Lopez retained.
 * Diana retained her Championship in a relatively short match against American independent wrestler Emily Locke.
-* As [Whiteblade](@/w/whiteblade.md) was making his entrance for the main event Unsanctioned Match, [Misiek](@/w/misiek.md) attacked him on the stage. This match involved several weapons: chairs, kendo sticks, guard rails and even lighttubes. At one point in the match, Misiek exclaimed _Zjem mu łeb!_ ("I will eat his head") and started to do just that - a practice mostly associated with [MZW](@/o/mzw.md) [audience chants](@/a/polish-wrestling-chants.md#calls-to-action). Misiek won te grueling match with a Package Piledriver.
+* As [Whiteblade](@/w/whiteblade.md) was making his entrance for the main event Unsanctioned Match, [Misiek](@/w/misiek.md) attacked him on the stage. This match involved several weapons: chairs, kendo sticks, guard rails and even lighttubes. At one point in the match, Misiek exclaimed _Zjem mu łeb!_ ("I'll eat his head!") and started to do just that - a practice mostly associated with [MZW](@/o/mzw.md) [audience chants](@/a/polish-wrestling-chants.md#calls-to-action). Misiek won te grueling match with a Package Piledriver.
 
 ## References
 
