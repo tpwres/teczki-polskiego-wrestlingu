@@ -33,13 +33,20 @@ has_video = false
 ## Card
 
 {% card() %}
-- - '[Łukasz Okoński](@/w/lukasz-okonski.md)'
-  - g: Okoński opens the show
+- - '[Prezes Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: Okoński opens the show, Caravaggio interrupts
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - 'Flex Skywalker'
+- - '[Spartan](@/w/spartan.md)'
+  - g: Spartan announces a MASSIVE challenge for July's show
 - - '[Boguś](@/w/bogus.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)'
-- - 'Conte'
+- - '[Boguś](@/w/bogus.md)'
+  - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
+  - '[Prezes Łukasz Okoński](@/w/lukasz-okonski.md)'
+  - g: Boguś thanks Pawłowski and requests his services as manager, Okoński interrupts
+- - 'Conte; [El G](@/w/el-g.md), adeptka Marta'
   - 'Nic Wesker'
   - s: "Children's Day Match"
 - - '[CJ Klakson](@/w/cj-klakson.md)'
@@ -48,11 +55,15 @@ has_video = false
   - 'Exodus: Jacked Josh & Body Bundy'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
+- - '[Fabian](@/w/fabian.md)'
+  - 'Dominique VaDique'
+  - '[Daniel Razor](@/w/daniel-razor.md)'
+  - g: Fabian Festival    
 - - '[Damian Adler](@/w/damian-adler.md) & Red Jack'
   - 'El Clavo & Davide Adami'
   - s: Tag Team Match
 - - '[Nano Lopez](@/w/nano-lopez.md)(c)'
-  - '[El G](@/w/el-g.md)'
+  - '[El G](@/w/el-g.md); Conte, adeptka Marta'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
     s: Open Challenge
 - - '[Diana Strong](@/w/diana-strong.md)(c)'
@@ -62,24 +73,33 @@ has_video = false
   - '[Whiteblade](@/w/whiteblade.md)'
   - s: Unsanctioned Match
 
-
-- - '[Fabian](@/w/fabian.md)'
-  - g: Fabian Festival
-    nc: upcoming
-- - '[Krampus](@/w/krampus.md)'
-  - '???'
-  - nc: upcoming
-
-
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
-    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Marek'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'  
 {% end %}
 
 ### Recap
 
-* TBD
+* Notably absent from the show was [Krampus](@/w/krampus.md), previously announced to be _in action_ and included in promotional materials. The live stream presented a sloppily edited version of the poster, where Krampus looming in the background was replaced with [Misiek](@/w/misiek.md)
+* Okoński opened the show with another dance performance. Caravaggio interrupts to demand rematch for [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), which quickly transitioned into his advertised match against Flex Skywalker
+* After this match, Spartan entered the ring wearing summer clothes. He confirms that he got time off for the current show, but the Chairman promised him a MASSIVE challenge for July's show
+* Boguś defeated Daniel Razor in a fairly quick match. He puts over his opponent and celebrates his victory further. Thankful to Pawłowski for his advice, Boguś invites Pawłowski to the ring, to make his return to PTW programming after 5 months of hiatus. Pawłowski, clearly in his old babyface persona, makes an entrance, hugs Boguś and Skwarczyński. Boguś requested Pawłowski's services as his personal manager, but before Pawłowski could decide, Okoński interrupts and denies this, as the [Academy](@/o/ptw-akademia.md) and PTW rookies need Pawłowski more. Pawłowski takes the mic, thanks the crowd and also decides not to take Boguś's offer, but instead focus on the new generation.
+He announces another edition of Gold Rush Rumble for PTW's yet unannounced August show. In addition, he announce _Lucky Eight_ social media competition, which will span the next 8 weeks and include 8 rookies (male and female). The winner will be awarded a PTW contract, as well as a spot in the Rumble.
+* For _Children's day match_ Nik Wesker made an entrance carrying his signature vial, allegedly containing a deadly virus. Next up is Conte to a mixed Super Mario Bros theme. He wears Luigi cap, while El G wears Mario. They point to the stage and introduce Princess Peach (actually rookie Marta, as acknowledged by the commentary). "Mario" and "Peach" continued to cheer on "Luigi" throughout his match and celebrated his win together in the ring.
+* Notably, this was a contest of two video game universes, as Wesker wore a gear with [Umbrella Corporation][parasol] logo from Resident Evil.
+* Alex Brave was announced without _Showtime_ prefix this time, but kept that gimmick for his match. Klakson wins with a backslide into pin combination.
+* Miyagi Sigma retained in a fairly short match against Exodus.
+* We cut to a break.
+* After a break, Fabian Festival starts. The ring is decorated with ballouns, streamers and a table with three statuettes on it. Dominique VaDique introduces Fabian and they proceed with presenting _Golden Fabian_ awards. It turns out that all the invited guests did not make it to the Festival. He runs each of them down and they proceed to list the _Golden Fabian_ winners.
+  * Best looking wrestler: Fabian
+  * Best match in history: Fabian
+  * Best wrestler in history: Fabian
+* Fabian thanks Daniel Razor, for looking so bad that it makes Fabian look _zajebiście_(roughly: _fucking awesome_). Insulted Razor runs to the ring and lays Fabian out, crashing the festival. Razor proceeds to demolish the decorations.
+* For a tag team match, El Clavo is joined by Italian wrestler making his return to PTW, Davide Adami. In this match, we see a debuting new referee: Sędzia Marek, seemingly replacing absent [Herno](@/w/sedzia-herno.md). After their win, Adler wants to unmask prone El Clavo, but Red Jack stops him.
+* [El G](@/w/el-g.md), previously serving as part of Conte's entourage, answers [Nano Lopez](@/w/nano-lopez.md)'s _Open Challenge_. He is accompanied by "Luigi" and "Princess Peach". After a competitive match-up, Lopez retains.
+* Diana retains her championship in a relatively short match against American independent wrestler Emily Locke.
+* As [Whiteblade](@/w/whiteblade.md) makes his entrance for a main event _Unsanctioned Match_, [Misiek](@/w/misiek.md) attacks him on the stage. This match involved several weapons: chairs, kendo sticks, guard rails and even lighttubes. At one point in the match, Misiek exclaimed _zjem mu łeb_ (eng: _I will eat his head_) and started to do just that - a practice mostly associated with [MZW](@/o/mzw.md) audience chants. Misiek wins a grueling match with a _package piledriver_.
 
 ## References
 
@@ -92,3 +112,4 @@ has_video = false
 
 [zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1218460120359712:1218460120359712
 [misiek-vs-stol]: https://www.facebook.com/reel/2410777819419862
+[parasol]: https://residentevil.fandom.com/wiki/Umbrella_Corporation
