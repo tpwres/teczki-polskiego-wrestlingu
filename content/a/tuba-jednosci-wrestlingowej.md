@@ -93,7 +93,7 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Mutant](@/w/mutant.md)
 - [Oskar Haller](@/w/oskar-haller.md)
 - [ShowOff](@/w/piotr-malecki.md)
-- Sędzia Alan Bieńkowski
+- [Sędzia Alan Bieńkowski](@/w/sedzia-alan.md)
 - [Taras](@/w/taras.md)
 - [Tony Sheen](@/w/riverman.md) (signed as "Riverman")
 - [Vic Golden](@/w/vic-golden.md)

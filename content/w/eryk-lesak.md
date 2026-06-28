@@ -87,6 +87,7 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time, current)
   - Championship Contract Battle Royal (2025)
 
 ## Internet presence
