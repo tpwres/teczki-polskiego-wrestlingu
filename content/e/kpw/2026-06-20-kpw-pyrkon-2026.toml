@@ -1,1 +1,25 @@
-00001 = { path = "tournee-lesaka.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook", skip_art = true }
+001 = { path = "tournee-lesaka.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook", skip_art = true }
+002 = { path = "publika-przed.webp", caption = "The crowd before the show. Note a woman cosplaying as Krystian Malinowski in the front row.", source = "Migawki z Puszki / Official KPW Facebook" }
+003 = { path = "i-wlasnie-o-to-w-tym-wszystkim-chodzi.webp", caption = "Fans express their appreciation of the KPW wrestlers.", source = "Migawki z Puszki / Official KPW Facebook" }
+
+101 = { path = "kojarzy-mi-sie-z-tamtym-obrazkiem-krolikiem-bugsem.webp", caption = "[Michał Fux](@/w/michal-fux.md) impressed by the directness of Eryk Lesak's arguments.", source = "Migawki z Puszki / Official KPW Facebook" }
+102 = { path = "styl-zurawia-adziaaaaa.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) delivers a ferocious kick to Michał Fux's jaw.", source = "Migawki z Puszki / Official KPW Facebook" }
+103 = { path = "chemik-nie-segreguje-odpadow.webp", caption = "[Chemik](@/w/chemik.md) gets ready to weaponise a trashcan, as [Szymon Kurczab](@/w/rookie-two.md) sneaks up on him.", source = "Migawki z Puszki / Official KPW Facebook" }
+104 = { path = "ofiara-wybuchu-w-farbiarni.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) accompanied by [Tomczak](@/w/tomczak.md).", source = "Migawki z Puszki / Official KPW Facebook" }
+
+201 = { path = "sw-kinga-od-ringu.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md).", source = "Migawki z Puszki" }
+202 = { path = "dzien-dobry.webp", caption = "[Greg](@/w/greg.md) enters…", source = "Migawki z Puszki / Official KPW Facebook" }
+203 = { path = "do-widzenia.webp", caption = "…and hits Filip Fux with a Pedigree.", source = "Migawki z Puszki / Official KPW Facebook" }
+
+301 = { path = "zefir-vs-markus.webp", caption = "[Zefir](@/w/zefir.md) vs [Markus Paskal](@/w/markus-paskal.md).", source = "Migawki z Puszki / Official KPW Facebook" }
+302 = { path = "porywisty-zefir-z-szansa-na-przelotne-opady.webp", caption = "[Zefir](@/w/zefir.md) hits Markus Paskal with a Flying Crossbody.", source = "Migawki z Puszki / Official KPW Facebook" }
+303 = { path = "osadz-moj-jezyk.webp", caption = "[Callum Beck](@/w/callum-beck.md) taunts Sędzia Alan.", source = "Migawki z Puszki / Official KPW Facebook" }
+
+401 = { path = "panu-juz-podziekujemy.webp", caption = "Cameron Khai thrown out of the ring by [Leon Lato](@/w/leon-lato.md).", source = "Migawki z Puszki / Official KPW Facebook" }
+402 = { path = "mniejszosci-uciskane-przez-uprzywilejowane-jednostki.webp", caption = "Fans grab hold of Cameron Khai, leaving him open for Leon Lato's attack.", source = "Migawki z Puszki / Official KPW Facebook" }
+403 = { path = "kolejny-co-nie-chce-sortowac.webp", caption = "Leon Lato throws a trashcan at Cameron Khai.", source = "Migawki z Puszki / Official KPW Facebook" }
+404 = { path = "im-tired-boss.webp", caption = "Cameron Khai with a Faceplant from the second rope.", source = "Migawki z Puszki / Official KPW Facebook" }
+
+501 = { path = "lesak-dusi-adepta.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) chokes Rookie Four.", source = "Migawki z Puszki / Official KPW Facebook" }
+502 = { path = "gwaltowny-koniec-ringowej-kariery-malinowskiego.webp", caption = "[Michał Fux](@/w/michal-fux.md) explains to [Krystian Malinowski](@/w/krystian-malinowski.md) the superiority of his wrestling [kung&nbsp;fu](https://en.wikipedia.org/wiki/Kung_fu_%28term%29).", source = "Migawki z Puszki / Official KPW Facebook" }
+503 = { path = "team-fux.webp", caption = "[Szymon Kurczab](@/w/rookie-two.md), [Michał Fux](@/w/michal-fux.md), [Rookie Three](@/w/rookie-three.md) and Rookie Four victorious.", source = "Migawki z Puszki / Official KPW Facebook" }
