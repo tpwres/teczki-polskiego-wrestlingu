@@ -28,7 +28,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Kurwy i śmiecie, z miasta nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
 * _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
   {% ipa(tts="Wypierdalaj") %}vˌɨpʲɛrdˈalaj{% end %} 🌶️🌶️
-* _Sześćdziesiona_ - roughly "the sixty"; a reference to article 60, section 3, of the Polish criminal code, which allows for a reduced sentence in exchange for information on other people involved in the crime (i.e. snitching). Originates in Polish criminal slang.
+* _Sześćdziesiona_ - roughly "the sixty"; a reference to article 60, section 3, of the Polish criminal code, which allows for a reduced sentence in exchange for information on other people involved in the crime (i.e. snitching). Originates in criminal slang. \
   {% ipa(tts="Sześćdziesiona") %}ʃˌɛʑd͡ʑɛɕˈɔna{% end %}
 
 ## Praise
