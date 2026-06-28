@@ -28,7 +28,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Kurwy i śmiecie, z miasta nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
 * _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
   {% ipa(tts="Wypierdalaj") %}vˌɨpʲɛrdˈalaj{% end %} 🌶️🌶️
-* _Sześćdziesiona_ - roughly "the sixty"; a reference to article 60, section 3, of the Polish criminal code, which allows for a reduced sentence in exchange for information on other people involved in the crime (i.e. snitching).
+* _Sześćdziesiona_ - roughly "the sixty"; a reference to article 60, section 3, of the Polish criminal code, which allows for a reduced sentence in exchange for information on other people involved in the crime (i.e. snitching). Originates in Polish criminal slang.
   {% ipa(tts="Sześćdziesiona") %}ʃˌɛʑd͡ʑɛɕˈɔna{% end %}
 
 ## Praise
@@ -125,13 +125,13 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Bóg jest łysy") %}bˈuk jˈɛst wˈɨsɨ{% end %} \
   Also _Bóg ma wąsa_ - "God has a moustache", when he grew one. \
   {% ipa(tts="Bóg ma wąsa") %}bˈuk mˈa vˈɔ̃sa{% end %}
-* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland, from which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) was sometimes billed. A stadium chant against their football clubs. \
+* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland, from which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) was sometimes billed. A stadium chant against their football clubs. The melody, like many stadium chants, is similar to [Guantanamera][guantanamera]. \
   {% ipa(tts="Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi") %}xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi{% end %} 🌶️🌶️🌶️
 * _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire. \
   {% ipa(tts="Facet w gaciach") %}fˈat͡sɛt vˈɨ ɡˈat͡ɕax{% end %}
 * _Golden to pała, wygląda mi na pedała_ - "Golden's a jackass, looks to me like a faggot": used against [Vic Golden](@/w/vic-golden.md). \
   {% ipa(tts="Golden to pała, wygląda mi na pedała") %}ɡˈɔldɛn tɔ pˈawa, vɨɡlˈɔnda mi na pɛdˈawa{% end %}
-* _Goldenowi liże jaja, Oskar to faja_ - "He licks Golden's balls, Oskar's a prick": used against [Oskar Alexander](@/w/oskar-alexander.md), in tag team with [Vic Golden](@/w/vic-golden.md). \
+* _Goldenowi liże jaja, Oskar to faja_ - "He licks Golden's balls, Oskar's a prick": used against [Oskar Alexander](@/w/oskar-alexander.md), in tag team with [Vic Golden](@/w/vic-golden.md). To the tune of [Freed From Desire][ffd]. \
   {% ipa(tts="Goldenowi liże jaja, Oskar to faja") %}ɡˌɔldɛnˈɔvi lˈiʒɛ jˈaja, ˈɔskar tɔ fˈaja{% end %}
 * _Karasie jedzą gówno_ - "[Crucian carps][carassius-carassius] eat shit": used against ["The Riverman" Tony Sheen](@/w/riverman.md), matching his fisherman gimmick. The chant comes from a Polish copypasta. \
   {% ipa(tts="Karasie jedzą gówno") %}karˈaɕɛ jˈɛd͡ʑɔ̃ ɡˈuvnɔ{% end %} 🌶️
@@ -171,3 +171,5 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 [warszawa]: https://www.youtube.com/watch?v=ePNUSmH3dMI
 [sto-lat]: https://en.wikipedia.org/wiki/Sto_lat
 [carassius-carassius]: https://en.wikipedia.org/wiki/Crucian_carp
+[ffd]: https://youtu.be/p3l7fgvrEKM
+[guantanamera]: https://youtu.be/w3W63ReQ87M
