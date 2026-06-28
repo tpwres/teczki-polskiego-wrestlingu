@@ -8,16 +8,18 @@
 007 = { path = "michal-fux-vs-greg.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Greg](@/w/greg.md).", source = "Official KPW Facebook" }
 008 = { path = "fuksy-sie-ze-soba-rozmowia.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md).", source = "Official KPW Facebook" }
 
-0101 = { path = ".webp", caption = ".", source = "M3n747" }
-0102 = { path = ".webp", caption = ".", source = "M3n747" }
-0103 = { path = ".webp", caption = ".", source = "M3n747" }
-0104 = { path = "z-innego-kata-patrzac-wcale-nie-jest-mniej-lysy.webp", caption = ".", source = "Alex Bałdyga" }
-0105 = { path = ".webp", caption = ".", source = "M3n747" }
-0106 = { path = ".webp", caption = ".", source = "M3n747" }
-0107 = { path = ".webp", caption = ".", source = "M3n747" }
-0108 = { path = ".webp", caption = ".", source = "M3n747" }
-0109 = { path = ".webp", caption = ".", source = "M3n747" }
-0110 = { path = ".webp", caption = ".", source = "M3n747" }
+0010 = { path = "nowe-kable-stary-ring.webp", caption = "The ring before the show.", source = "M3n747" }
+0011 = { path = "zefir-ultras.webp", caption = "Zefir ultras.", source = "M3n747" }
+0012 = { path = "kinga-of-the-ringa.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
+
+0101 = { path = "z-innego-kata-patrzac-wcale-nie-jest-mniej-lysy.webp", caption = ".", source = "Alex Bałdyga" }
+0102 = { path = "no-i-kaucja-poszla-sie---.webp", caption = "A crushed can of Olgierd's energy drink (resulting in a waste of a 0.5&nbsp;PLN deposit).", source = "M3n747" }
+0103 = { path = "to-nie-slonce-to-lysina.webp", caption = "Olgierd approaches Filip Fux with a Flying Headbutt.", source = "M3n747" }
+0104 = { path = "co-cztery-glowy-to-nie-dwie.webp", caption = "[Olgierd](@/w/olgierd.md) knows Filip Fux (biblically).", source = "M3n747" }
+0105 = { path = "lysy-nelson.webp", caption = "[Olgierd](@/w/olgierd.md) suffers in Filip Fux's Full Nelson Hold.", source = "M3n747" }
+0106 = { path = "sedzia-wiadomo-co.webp", caption = "Filip Fux cheats to win.", source = "M3n747" }
+0107 = { path = "nie-liczy-sie-oszukiwal.webp", caption = "[Filip Fux](@/w/filip-fux.md) wins, but at what cost?", source = "M3n747" }
+
 
 
 
@@ -38,5 +40,5 @@
 0901 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
-1001 = { path = ".webp", caption = "[Zefir](@/w/zefir.md) with a custom Zefir action figure hand-made by a fan.", source = "M3n747" }
-1002 = { path = ".webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) and [Olgierd](@/w/olgierd.md) shake hands, symbolically ushering in a new era for KPW.", source = "M3n747" }
+1001 = { path = "zefir-i-podmuszek.webp", caption = "[Zefir](@/w/zefir.md) with a custom Zefir action figure hand-made by a fan.", source = "M3n747" }
+1002 = { path = "kppw.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) and [Olgierd](@/w/olgierd.md) shake hands, symbolically ushering in a new era for KPW.", source = "M3n747" }
