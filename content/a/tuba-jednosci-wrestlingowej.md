@@ -87,7 +87,7 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Istociarz](@/w/istociarz.md)
 - [Joker](@/w/joker.md)
 - [Kamil Aleksander](@/w/kamil-aleksander.md)
-- [Krzysztof Foryst](@/e/krzysztof-zasada.md)
+- [Krzysztof Foryst](@/w/krzysztof-zasada.md)
 - [Marcelito](@/w/marcelito.md)
 - [Markus Paskal](@/w/markus-paskal.md)
 - [Max Speed](@/w/max-speed.md)
