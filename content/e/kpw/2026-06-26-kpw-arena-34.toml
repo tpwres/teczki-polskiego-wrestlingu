@@ -20,6 +20,12 @@
 0106 = { path = "sedzia-wiadomo-co.webp", caption = "Filip Fux cheats to win.", source = "M3n747" }
 0107 = { path = "nie-liczy-sie-oszukiwal.webp", caption = "[Filip Fux](@/w/filip-fux.md) wins, but at what cost?", source = "M3n747" }
 
+0201 = { path = "rookie-mistake.webp", caption = "Rookies [Three](@/w/rookie-three.md), Two and Four are feeling overconfident.", source = "M3n747" }
+0202 = { path = "i-want-you-to-know-im-gonna-be-fair.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) appreciates that Rookie Three shakes [Oskar Haller's](@/w/oskar-haller.md) hand.", source = "M3n747" }
+0203 = { path = "scorpion-deathlock-z-drugiego-konca.webp", caption = "Oskar Haller shows [Rookie Two](@/w/rookie-two.md) what he's learned since joining the roster.", source = "M3n747" }
+0204 = { path = "troche-niefortunnie-mi-ujecie-wyszlo-no-ale.webp", caption = "The legal [Rookie Two](@/w/rookie-two.md) throws the tagged out Rookie Three onto Oskar Haller.", source = "M3n747" }
+0205 = { path = "konfuzjusz-mowi-cos-ci-sie-typie-pochrzanilo.webp", caption = "The tagged out Rookie Three launches himself at Oskar Haller, while the legal Rookie Two stands on the apron.", source = "M3n747" }
+0206 = { path = ".webp", caption = "[Oskar Haller](@/w/oskar-haller.md) wins, while Rookies Two and Three argue.", source = "M3n747" }
 
 
 
@@ -30,7 +36,7 @@
 
 
 
-0201 = { path = ".webp", caption = ".", source = "M3n747" }
+
 0301 = { path = ".webp", caption = ".", source = "M3n747" }
 0401 = { path = ".webp", caption = ".", source = "M3n747" }
 0501 = { path = ".webp", caption = ".", source = "M3n747" }
