@@ -27,6 +27,11 @@
 0205 = { path = "konfuzjusz-mowi-cos-ci-sie-typie-pochrzanilo.webp", caption = "The tagged out Rookie Three launches himself at Oskar Haller, while the legal Rookie Two stands on the apron.", source = "M3n747" }
 0206 = { path = "spoko-nastepnym-razem-sie-uda.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) wins, while Rookies Two and Three argue.", source = "M3n747" }
 
+0301 = { path = "kamil-powazny.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md).", source = "M3n747" }
+0302 = { path = "rookie-four.webp", caption = "Rookie Four.", source = "M3n747" }
+0303 = { path = "i-siup.webp", caption = "Kamil Aleksander hits a Suplex on Rookie Four.", source = "M3n747" }
+0304 = { path = "patrzcie-to-jest-kamil.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) declares [Kamil Aleksander](@/w/kamil-aleksander.md) the winner.", source = "M3n747" }
+0305 = { path = "mlody-jest-spoko.jpg.webp", caption = "Kamil Aleksander shows respect to the young opponent.", source = "M3n747" }
 
 
 
@@ -37,7 +42,7 @@
 
 
 
-0301 = { path = ".webp", caption = ".", source = "M3n747" }
+
 0401 = { path = ".webp", caption = ".", source = "M3n747" }
 0501 = { path = ".webp", caption = ".", source = "M3n747" }
 0601 = { path = ".webp", caption = ".", source = "M3n747" }
