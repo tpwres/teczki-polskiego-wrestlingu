@@ -87,6 +87,7 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Istociarz](@/w/istociarz.md)
 - [Joker](@/w/joker.md)
 - [Kamil Aleksander](@/w/kamil-aleksander.md)
+- [Krzysztof Foryst](@/w/krzysztof-zasada.md)
 - [Marcelito](@/w/marcelito.md)
 - [Markus Paskal](@/w/markus-paskal.md)
 - [Max Speed](@/w/max-speed.md)
@@ -97,3 +98,4 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Taras](@/w/taras.md)
 - [Tony Sheen](@/w/riverman.md) (signed as "Riverman")
 - [Vic Golden](@/w/vic-golden.md)
+- [Zefir](@/w/zefir.md)
