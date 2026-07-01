@@ -33,18 +33,32 @@
 0304 = { path = "patrzcie-to-jest-kamil.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) declares [Kamil Aleksander](@/w/kamil-aleksander.md) the winner.", source = "M3n747" }
 0305 = { path = "mlody-jest-spoko.webp", caption = "Kamil Aleksander shows respect to the young opponent.", source = "M3n747" }
 
+0401 = { path = "ultimatum-gregorianskie.webp", caption = "[Greg](@/w/greg.md) delivers his ultimatum…", source = "M3n747" }
+0402 = { path = "pop-lezy-krzyzem.webp", caption = "…and acts upon it.", source = "M3n747" }
+0403 = { path = "zamienil-stryjek-drabine-na-kijek.webp", caption = "Greg sneakily grabs a conveniently-placed kendo stick from under the ring.", source = "M3n747" }
+0404 = { path = "uzywane-czesci-samochodowe-u-fuksa.webp", caption = "Michał Fux about to hit [Greg](@/w/greg.md) with a used car hubcap. [Sędzia Alan](@/w/sedzia-alan.md) knows a good deal when he sees one.", source = "M3n747" }
+0405 = { path = "pijus-pijusuje.webp", caption = "Greg renders unto himself that which is his.", source = "M3n747" }
+0406 = { path = "klucz-do-sukcesu.webp", caption = "[Greg](@/w/greg.md) with a couple of adjustable spanners.", source = "M3n747" }
+0407 = { path = "tool-assisted-nipple-twist.webp", caption = "Michał Fux turns [Greg's](@/w/greg.md) weapons on himself.", source = "M3n747" }
+0408 = { path = "boot-sequence.webp", caption = "[Michał Fux](@/w/michal-fux.md) lets a fan's shoe go to Greg's head.", source = "M3n747" }
+0409 = { path = "a-bedzie-moze-rozmiar-46.webp", caption = "[Michał Fux](@/w/michal-fux.md) returns the shoe to its rightful owner.", source = "M3n747" }
+0410 = { path = "dobrze-ze-ma-krotkie-wlosy.webp", caption = "Michał Fux enlightens Greg with a couple of lighttubes.", source = "M3n747" }
+0411 = { path = "pinezki-sa-tylko-jeszcze-brakuje-takich-czerwonych-nitek.webp", caption = "Greg regains composure against the ropes, while [Michał Fux](@/w/michal-fux.md) is ready to spill a bag of push-pins onto the ring.", source = "M3n747" }
+0412 = { path = "grzegorz-pierwszy-bolesciwy.webp", caption = "[Michał Fux](@/w/michal-fux.md) about to drop Greg onto the pins.", source = "M3n747" }
+0413 = { path = "i-kto-to-teraz-bedzie-zamiatal.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) awards the win to [Greg](@/w/greg.md).", source = "M3n747" }
 
-
-
-
-
-
-
-
-
-
-0401 = { path = ".webp", caption = ".", source = "M3n747" }
 0501 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+
+
+
+
+
 0601 = { path = ".webp", caption = ".", source = "M3n747" }
 0701 = { path = ".webp", caption = ".", source = "M3n747" }
 0801 = { path = ".webp", caption = ".", source = "M3n747" }
