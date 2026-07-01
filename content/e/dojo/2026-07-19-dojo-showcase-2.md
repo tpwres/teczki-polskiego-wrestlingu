@@ -36,7 +36,7 @@ The second [Ewenement Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna]
   - '???'
   - '???'
   - s: Rumble match
-    nc: upcoming
+    nc: upcoming 
 {% end %}
 
 ## Highlights
