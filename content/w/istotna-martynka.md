@@ -18,6 +18,7 @@ Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, 
   - Siostra Kimono {{ org_badge(orgs=['ppw']) }}
   - "Szeku" Martynka {{ org_badge(orgs=['ppw']) }}
   - Referee Martyna {{ org_badge(orgs=['ppw']) }} (Japanese excursion)
+  - Gloria G Szek {{ org_badge(orgs=['dojo']) }}
 * Trained by:
   - [Ewenement Dojo](@/o/dojo.md) (2024-)
 

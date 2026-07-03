@@ -22,6 +22,7 @@ The second [Ewenement Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna]
 * On 24.06.2026 the Dojo announced [Jacob Crane](@/w/jacob-crane.md) vs an unspecified rookie.
 * On 1.07.2026 came the announcement of a Rumble Match. While no participants were named, the post stated that anyone can be expected to appear: "both men and women, both known and experienced workers as well as just debuting rookies".
 * The next day the Dojo announced [Bartosz Plata](@/w/plata.md) vs Austrian wrestler Barbarossa. Barbarossa had previously appeared at [KPW Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md).
+* On 3.07.2026 the Dojo announced [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Gloria G Szek](@/w/istotna-martynka.md) & [Goblin](@/w/goblin.md) in a Mixed Tag Team.
 
 ## Predicted card
 
@@ -37,10 +38,14 @@ The second [Ewenement Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna]
   - '???'
   - '???'
   - s: Rumble match
-    nc: upcoming 
+    nc: upcoming
 - - '[Bartosz Plata](@/w/plata.md)'
   - 'Barbarossa'
-  - nc: upcoming 
+  - nc: upcoming
+- - '[Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Gloria G Szek](@/w/istotna-martynka.md) & [Goblin](@/w/goblin.md)'
+  - s: Mixed Tag Team Match
+    nc: upcoming
 {% end %}
 
 ## Highlights
