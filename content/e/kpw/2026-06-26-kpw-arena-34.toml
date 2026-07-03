@@ -21,53 +21,53 @@
 0107 = { path = "nie-liczy-sie-oszukiwal.webp", caption = "[Filip Fux](@/w/filip-fux.md) wins, but at what cost?", source = "M3n747" }
 
 0201 = { path = "rookie-mistake.webp", caption = "Rookies [Three](@/w/rookie-three.md), Two and Four are feeling overconfident.", source = "M3n747" }
-0202 = { path = "i-want-you-to-know-im-gonna-be-fair.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) appreciates that Rookie Three shakes [Oskar Haller's](@/w/oskar-haller.md) hand.", source = "M3n747" }
-0203 = { path = "scorpion-deathlock-z-drugiego-konca.webp", caption = "Oskar Haller shows [Rookie Two](@/w/rookie-two.md) what he's learned since joining the roster.", source = "M3n747" }
-0204 = { path = "troche-niefortunnie-mi-ujecie-wyszlo-no-ale.webp", caption = "The legal [Rookie Two](@/w/rookie-two.md) throws the tagged out Rookie Three onto Oskar Haller.", source = "M3n747" }
-0205 = { path = "konfuzjusz-mowi-cos-ci-sie-typie-pochrzanilo.webp", caption = "The tagged out Rookie Three launches himself at Oskar Haller, while the legal Rookie Two stands on the apron.", source = "M3n747" }
-0206 = { path = "spoko-nastepnym-razem-sie-uda.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) wins, while Rookies Two and Three argue.", source = "M3n747" }
 
-0301 = { path = "kamil-powazny.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md).", source = "M3n747" }
-0302 = { path = "rookie-four.webp", caption = "Rookie Four.", source = "M3n747" }
-0303 = { path = "i-siup.webp", caption = "Kamil Aleksander hits a Suplex on Rookie Four.", source = "M3n747" }
-0304 = { path = "patrzcie-to-jest-kamil.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) declares [Kamil Aleksander](@/w/kamil-aleksander.md) the winner.", source = "M3n747" }
-0305 = { path = "mlody-jest-spoko.webp", caption = "Kamil Aleksander shows respect to the young opponent.", source = "M3n747" }
+0301 = { path = "i-want-you-to-know-im-gonna-be-fair.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) appreciates that Rookie Three shakes [Oskar Haller's](@/w/oskar-haller.md) hand.", source = "M3n747" }
+0302 = { path = "scorpion-deathlock-z-drugiego-konca.webp", caption = "Oskar Haller shows [Rookie Two](@/w/rookie-two.md) what he's learned since joining the roster.", source = "M3n747" }
+0303 = { path = "troche-niefortunnie-mi-ujecie-wyszlo-no-ale.webp", caption = "The legal [Rookie Two](@/w/rookie-two.md) throws the tagged out Rookie Three onto Oskar Haller.", source = "M3n747" }
+0304 = { path = "konfuzjusz-mowi-cos-ci-sie-typie-pochrzanilo.webp", caption = "The tagged out Rookie Three launches himself at Oskar Haller, while the legal Rookie Two stands on the apron.", source = "M3n747" }
+0305 = { path = "spoko-nastepnym-razem-sie-uda.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) wins, while Rookies Two and Three argue.", source = "M3n747" }
 
-0401 = { path = "ultimatum-gregorianskie.webp", caption = "[Greg](@/w/greg.md) delivers his ultimatum…", source = "M3n747" }
-0402 = { path = "pop-lezy-krzyzem.webp", caption = "…and acts upon it.", source = "M3n747" }
-0403 = { path = "zamienil-stryjek-drabine-na-kijek.webp", caption = "Greg sneakily grabs a conveniently-placed kendo stick from under the ring.", source = "M3n747" }
-0404 = { path = "uzywane-czesci-samochodowe-u-fuksa.webp", caption = "Michał Fux about to hit [Greg](@/w/greg.md) with a used car hubcap. [Sędzia Alan](@/w/sedzia-alan.md) knows a good deal when he sees one.", source = "M3n747" }
-0405 = { path = "pijus-pijusuje.webp", caption = "Greg renders unto himself that which is his.", source = "M3n747" }
-0406 = { path = "klucz-do-sukcesu.webp", caption = "[Greg](@/w/greg.md) with a couple of adjustable spanners.", source = "M3n747" }
-0407 = { path = "tool-assisted-nipple-twist.webp", caption = "Michał Fux turns [Greg's](@/w/greg.md) weapons on him.", source = "M3n747" }
-0408 = { path = "boot-sequence.webp", caption = "[Michał Fux](@/w/michal-fux.md) lets a fan's shoe go to Greg's head.", source = "M3n747" }
-0409 = { path = "a-bedzie-moze-rozmiar-46.webp", caption = "[Michał Fux](@/w/michal-fux.md) returns the shoe to its rightful owner.", source = "M3n747" }
-0410 = { path = "dobrze-ze-ma-krotkie-wlosy.webp", caption = "Michał Fux enlightens Greg with a couple of lighttubes.", source = "M3n747" }
-0411 = { path = "pinezki-sa-tylko-jeszcze-brakuje-takich-czerwonych-nitek.webp", caption = "Greg regains composure against the ropes, while [Michał Fux](@/w/michal-fux.md) is ready to spill a bag of push-pins onto the ring.", source = "M3n747" }
-0412 = { path = "grzegorz-pierwszy-bolesciwy.webp", caption = "[Michał Fux](@/w/michal-fux.md) about to drop Greg onto the pins.", source = "M3n747" }
-0413 = { path = "i-kto-to-teraz-bedzie-zamiatal.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) awards the win to [Greg](@/w/greg.md).", source = "M3n747" }
+0401 = { path = "kamil-powazny.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md).", source = "M3n747" }
+0402 = { path = "rookie-four.webp", caption = "Rookie Four.", source = "M3n747" }
+0403 = { path = "i-siup.webp", caption = "Kamil Aleksander hits a Suplex on Rookie Four.", source = "M3n747" }
+0404 = { path = "patrzcie-to-jest-kamil.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) declares [Kamil Aleksander](@/w/kamil-aleksander.md) the winner.", source = "M3n747" }
+0405 = { path = "mlody-jest-spoko.webp", caption = "Kamil Aleksander shows respect to the young opponent.", source = "M3n747" }
 
-0501 = { path = "tam-chyba-jest-cos-ciekawego.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
-0502 = { path = "a-tam-u-gory-sa-az-dwie-rzeczy.webp", caption = "[Markus Paskal](@/w/markus-paskal.md).", source = "M3n747" }
-0503 = { path = "dwaj-sympatyczni-mlodziency.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) and [Eryk Lesak](@/w/eryk-lesak.md) before the match.", source = "M3n747" }
-0504 = { path = "na-nastepnej-gali-mama-paskala-wygrywa-tytul-old-town.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) argues with Paskal's Mum.", source = "M3n747" }
-0505 = { path = "lesak-wstawaj-nie-udawaj.webp", caption = "The right Lesak in the right place.", source = "M3n747" }
-0506 = { path = "wiedzialem-ze-w-koncu-da-rade.webp", caption = "Victorious Markus Paskal hugs it out with his loved ones.", source = "M3n747" }
+0501 = { path = "ultimatum-gregorianskie.webp", caption = "[Greg](@/w/greg.md) delivers his ultimatum…", source = "M3n747" }
+0502 = { path = "pop-lezy-krzyzem.webp", caption = "…and acts upon it.", source = "M3n747" }
+0503 = { path = "zamienil-stryjek-drabine-na-kijek.webp", caption = "Greg sneakily grabs a conveniently-placed kendo stick from under the ring.", source = "M3n747" }
+0504 = { path = "uzywane-czesci-samochodowe-u-fuksa.webp", caption = "Michał Fux about to hit [Greg](@/w/greg.md) with a used car hubcap. [Sędzia Alan](@/w/sedzia-alan.md) knows a good deal when he sees one.", source = "M3n747" }
+0505 = { path = "pijus-pijusuje.webp", caption = "Greg renders unto himself that which is his.", source = "M3n747" }
+0506 = { path = "klucz-do-sukcesu.webp", caption = "[Greg](@/w/greg.md) with a couple of adjustable spanners.", source = "M3n747" }
+0507 = { path = "tool-assisted-nipple-twist.webp", caption = "Michał Fux turns [Greg's](@/w/greg.md) weapons on him.", source = "M3n747" }
+0508 = { path = "boot-sequence.webp", caption = "[Michał Fux](@/w/michal-fux.md) lets a fan's shoe go to Greg's head.", source = "M3n747" }
+0509 = { path = "a-bedzie-moze-rozmiar-46.webp", caption = "[Michał Fux](@/w/michal-fux.md) returns the shoe to its rightful owner.", source = "M3n747" }
+0510 = { path = "dobrze-ze-ma-krotkie-wlosy.webp", caption = "Michał Fux enlightens Greg with a couple of lighttubes.", source = "M3n747" }
+0511 = { path = "pinezki-sa-tylko-jeszcze-brakuje-takich-czerwonych-nitek.webp", caption = "Greg regains composure against the ropes, while [Michał Fux](@/w/michal-fux.md) is ready to spill a bag of push-pins onto the ring.", source = "M3n747" }
+0512 = { path = "grzegorz-pierwszy-bolesciwy.webp", caption = "[Michał Fux](@/w/michal-fux.md) about to drop Greg onto the pins.", source = "M3n747" }
+0513 = { path = "i-kto-to-teraz-bedzie-zamiatal.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) awards the win to [Greg](@/w/greg.md).", source = "M3n747" }
 
+0601 = { path = "tam-chyba-jest-cos-ciekawego.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
+0602 = { path = "a-tam-u-gory-sa-az-dwie-rzeczy.webp", caption = "[Markus Paskal](@/w/markus-paskal.md).", source = "M3n747" }
+0603 = { path = "dwaj-sympatyczni-mlodziency.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) and [Eryk Lesak](@/w/eryk-lesak.md) before the match.", source = "M3n747" }
+0604 = { path = "na-nastepnej-gali-mama-paskala-wygrywa-tytul-old-town.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) argues with Paskal's Mum.", source = "M3n747" }
+0605 = { path = "lesak-wstawaj-nie-udawaj.webp", caption = "The right Lesak in the right place.", source = "M3n747" }
+0606 = { path = "wiedzialem-ze-w-koncu-da-rade.webp", caption = "Victorious Markus Paskal hugs it out with his loved ones.", source = "M3n747" }
 
-
-
-
-
-
-
-
-
-
-
-
-0601 = { path = ".webp", caption = ".", source = "M3n747" }
 0701 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+
+
+
+
+
+
 0801 = { path = ".webp", caption = ".", source = "M3n747" }
 0901 = { path = ".webp", caption = ".", source = "M3n747" }
 
