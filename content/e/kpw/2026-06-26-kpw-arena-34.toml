@@ -55,7 +55,16 @@
 0605 = { path = "lesak-wstawaj-nie-udawaj.webp", caption = "The right Lesak in the right place.", source = "M3n747" }
 0606 = { path = "wiedzialem-ze-w-koncu-da-rade.webp", caption = "Victorious Markus Paskal hugs it out with his loved ones.", source = "M3n747" }
 
-0701 = { path = ".webp", caption = ".", source = "M3n747" }
+0701 = { path = "krzysztof-krawczyk-na-miare-naszych-mozliwosci.webp", caption = "[Chemik](@/w/chemik.md) sows discord between Michał and Filip Fux.", source = "M3n747" }
+0702 = { path = "doktur-potwur-w-plonacym-gumowym-szlafroku.webp", caption = "_Doctor_ Krystian Malinowski offers his diagnosis.", source = "M3n747" }
+0703 = { path = "prosze-pana-ja-tu-od-wpol-do-siodmej-do-pana-doktora-czekam.webp", caption = "Filip Fux cannot face his brother, whom Chemik and [_doctor_ Krystian Malinowski](@/w/krystian-malinowski.md) play mind games with.", source = "M3n747" }
+
+0704 = { path = ".webp", caption = ".", source = "M3n747" }
+
+0705 = { path = ".webp", caption = ".", source = "M3n747" }
+0706 = { path = ".webp", caption = ".", source = "M3n747" }
+0707 = { path = ".webp", caption = ".", source = "M3n747" }
+0708 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 
