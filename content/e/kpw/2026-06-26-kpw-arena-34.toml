@@ -64,10 +64,12 @@
 0707 = { path = "brothers-no-more.webp", caption = "And thus ends the tale of the Brothers Fux.", source = "M3n747" }
 0708 = { path = "sad-michal-in-the-ring.webp", caption = "[Michał Fux](@/w/michal-fux.md) alone and betrayed.", source = "M3n747" }
 
-0801 = { path = ".webp", caption = ".", source = "M3n747" }
-0802 = { path = ".webp", caption = ".", source = "M3n747" }
-0803 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = "dzien-dobry-sprzedaje-te-fajne-bawelniane-szaliki.webp", caption = "[Chemik's](@/w/chemik.md) entrance. To the left stands [Kinga Miotke](@/w/kinga-miotke.md).", source = "M3n747" }
+0802 = { path = "we-should-walk-summer.webp", caption = "A couple of Leon Lato's fans with a sign supporting their favourite wrestler.", source = "M3n747" }
+0803 = { path = "no-bez-przesady-ta-lina-nie-jest-az-taka-twarda.webp", caption = "Chemik chokes Zefir against a rope. [Sędzia Alan](@/w/sedzia-alan.md) doesn't seem convinced.", source = "M3n747" }
+
 0804 = { path = ".webp", caption = ".", source = "M3n747" }
+
 0805 = { path = ".webp", caption = ".", source = "M3n747" }
 0806 = { path = ".webp", caption = ".", source = "M3n747" }
 0807 = { path = ".webp", caption = ".", source = "M3n747" }
