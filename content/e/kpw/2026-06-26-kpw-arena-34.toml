@@ -58,26 +58,26 @@
 0701 = { path = "krzysztof-krawczyk-na-miare-naszych-mozliwosci.webp", caption = "[Chemik](@/w/chemik.md) sows discord between Michał and Filip Fux.", source = "M3n747" }
 0702 = { path = "doktur-potwur-w-plonacym-gumowym-szlafroku.webp", caption = "_Doctor_ Krystian Malinowski offers his diagnosis.", source = "M3n747" }
 0703 = { path = "prosze-pana-ja-tu-od-wpol-do-siodmej-do-pana-doktora-czekam.webp", caption = "Filip Fux cannot face his brother, whom Chemik and [_doctor_ Krystian Malinowski](@/w/krystian-malinowski.md) play mind games with.", source = "M3n747" }
-
-0704 = { path = ".webp", caption = ".", source = "M3n747" }
-
-0705 = { path = ".webp", caption = ".", source = "M3n747" }
-0706 = { path = ".webp", caption = ".", source = "M3n747" }
-0707 = { path = ".webp", caption = ".", source = "M3n747" }
-0708 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-
-
-
-
-
-
+0704 = { path = "atlas-zbuntowany.webp", caption = "Michał Fux takes matters (and Krystian Malinowski) into his own hands.", source = "M3n747" }
+0705 = { path = "jak-robie-tak-to-mnie-nie-widac.webp", caption = "Michał and [Filip Fux](@/w/filip-fux.md) reach a fork in the road of their lives.", source = "M3n747" }
+0706 = { path = "brother-cutter.webp", caption = "Filip Fux makes a terrible decision.", source = "M3n747" }
+0707 = { path = "brothers-no-more.webp", caption = "And thus ends the tale of the Brothers Fux.", source = "M3n747" }
+0708 = { path = "sad-michal-in-the-ring.webp.webp", caption = "[Michał Fux](@/w/michal-fux.md) alone and betrayed.", source = "M3n747" }
 
 0801 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+
+
+
+
+
+
+
 0901 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
