@@ -4,3 +4,4 @@
 00004 = { path = "tournee-lesaka.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook", skip_art = true }
 00005 = { path = "dziedzister.webp", caption = "Image announcing [Syriusz Dziedzic](@/w/dziedzic.md) vs [Sinister](@/w/sinister.md).", source = "Official Legacy Facebook" }
 00006 = { path = "speedman.webp", caption = "Image announcing [Wiktor Longman](@/w/wiktor-longman.md) vs [Max Speed](@/w/max-speed.md).", source = "Official Legacy Facebook" }
+00007 = { path = "zefilgierd.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs [Olgierd](@/w/olgierd.md).", source = "Official Legacy Facebook" }
