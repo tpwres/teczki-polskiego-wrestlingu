@@ -67,36 +67,37 @@
 0801 = { path = "dzien-dobry-sprzedaje-te-fajne-bawelniane-szaliki.webp", caption = "[Chemik's](@/w/chemik.md) entrance. To the left stands [Kinga Miotke](@/w/kinga-miotke.md).", source = "M3n747" }
 0802 = { path = "we-should-walk-summer.webp", caption = "A couple of Leon Lato's fans with a sign supporting their favourite wrestler.", source = "M3n747" }
 0803 = { path = "no-bez-przesady-ta-lina-nie-jest-az-taka-twarda.webp", caption = "Chemik chokes Zefir against a rope. [Sędzia Alan](@/w/sedzia-alan.md) doesn't seem convinced.", source = "M3n747" }
-
-0804 = { path = ".webp", caption = ".", source = "M3n747" }
-
-0805 = { path = ".webp", caption = ".", source = "M3n747" }
-0806 = { path = ".webp", caption = ".", source = "M3n747" }
-0807 = { path = ".webp", caption = ".", source = "M3n747" }
-0808 = { path = ".webp", caption = ".", source = "M3n747" }
-0809 = { path = ".webp", caption = ".", source = "M3n747" }
-0810 = { path = ".webp", caption = ".", source = "M3n747" }
-0811 = { path = ".webp", caption = ".", source = "M3n747" }
-0812 = { path = ".webp", caption = ".", source = "M3n747" }
-0813 = { path = ".webp", caption = ".", source = "M3n747" }
-0814 = { path = ".webp", caption = ".", source = "M3n747" }
-0815 = { path = ".webp", caption = ".", source = "M3n747" }
-0816 = { path = ".webp", caption = ".", source = "M3n747" }
-0817 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-
-
-
-
-
-
+0804 = { path = "klubowy-chill.webp", caption = "Leon Lato struggles back to his feet, while Tomczak rests at a table.", source = "M3n747" }
+0805 = { path = "tomczak-of-the-opera.webp", caption = "[Tomczak](@/w/tomczak.md) unmasked by [Leon Lato](@/w/leon-lato.md).", source = "M3n747" }
+0806 = { path = "tomczak-nie-lubic-sedzia-tomczak-robic-trzask.webp", caption = "Tomczak chokeslams Sędzia Alan.", source = "M3n747" }
+0807 = { path = "wiecie-jak-sie-musialem-powstrzymywac-przed-jakimikolwiek-dwuznacznosciami-przy-tym-zdjeciu.webp", caption = "Krystian Malinowski takes Sędzia Alan's place (and shirt), as [Tomczak](@/w/tomczak.md) appears to be considering the possible unexpected values of cannibalistic diet.", source = "M3n747" }
+0808 = { path = "ja-tu-tylko-przelotem.webp", caption = "[Zefir](@/w/zefir.md) interrupts Malinowski's fast count of Leon Lato pinned by Tomczak.", source = "M3n747" }
+0809 = { path = "oh-alez-ja-cierpie.webp", caption = "[Referee Krystian Malinowski](@/w/krystian-malinowski.md) suffers a very sudden and equally brief hand inury.", source = "M3n747" }
+0810 = { path = "wygralem-i-co-mi-zrobisz.webp", caption = "[Referee Krystian Malinowski](@/w/krystian-malinowski.md) has no choice but to accept [Zefir's](@/w/zefir.md) victory.", source = "M3n747" }
 
 
 0901 = { path = ".webp", caption = ".", source = "M3n747" }
+0902 = { path = ".webp", caption = ".", source = "M3n747" }
+0903 = { path = ".webp", caption = ".", source = "M3n747" }
+0904 = { path = ".webp", caption = ".", source = "M3n747" }
+0905 = { path = ".webp", caption = ".", source = "M3n747" }
+0906 = { path = ".webp", caption = ".", source = "M3n747" }
+0907 = { path = ".webp", caption = ".", source = "M3n747" }
+0908 = { path = ".webp", caption = ".", source = "M3n747" }
+0909 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 1001 = { path = "zefir-i-podmuszek.webp", caption = "[Zefir](@/w/zefir.md) with a custom Zefir action figure hand-made by a fan.", source = "M3n747" }
