@@ -91,13 +91,21 @@ He later made another appearance over a year later at the next MZW show, [No Tim
 
 At [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) Gustav advanced to the tournament finals by defeating [Febus "The Wolf"](@/w/apollo-anderson.md). In the main event of the show he took part in said Tournament Final Ladder Match for the PpW/MZW Championship opportunity briefcase. However, he was unable to win due to Mister Z's opportunistic attack.
 
-### Legacy of Wrestling (2024-present)
+At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Gustav faced [Tony Sheen](@/w/riverman.md) in a Title Match for vacated [MZW Championship](@/c/mzw-championship.md). He emerged victorious from that bout, but his reign was short-lived due to cash-in of PpW/MZW Championship opportunity briefcase by [Marco Hammers](@/w/marco-hammers.md).
+
+### Legacy of Wrestling (2024-2025)
 
 In November 2024 Gustav was set to face [Wiktor Longman](@/w/wiktor-longman.md) in a match for the PpW Championship at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). Following Wiktor's withdrawal due to personal reasons, Gustav's opponent was changed to [Axel Fox](@/w/jakub.md). Despite initially being ruled as Axel's victory via pinfall, the match was restarted after [Sinister](@/w/sinister.md) pointed out that Gustav's hand was outside of the ring, which went unnoticed by [Referee Sewi](@/w/sedzia-seweryn.md). Legacy's Chairman confirmed this and the match was restarted, with Gustav quickly submitting Axel with a chokehold.
 
 On 22.03.2025 it was announced that Gustav would face Polish-American wrestler Kubes in a "Road to the Title Match" which would take place at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Gustav emerged victorious, advancing further in the championship race.
 
 At LoW's [third show](@/e/low/2025-07-11-low-3.md) Gustav teamed up with Olgierd and [Chemik](@/w/chemik.md) to defeat [Syriusz Dziedzic](@/w/dziedzic.md), Sambor and [Bartosz Plata](@/w/plata.md) in a Six-Man Tag Team Match.
+
+At [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md) he participated in a Six-Man Elimination Match for inaugural [LoW European Championship](@/c/low-european-championship.md) title. He finished as an runner-up to victorious [Jakub](@/w/jakub.md).
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+In May 2026 Gustav - along with Goblin and [Jacob Crane](@/w/jacob-crane.md) - announced the establishment of a foundation called "Fundacja Rozwoju Polskiego Wrestlingu" (_Foundation for the Development of Polish Wrestling_) - a organisation dedicated to development of Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - a wrestling school previously known as Ewenement Dojo.
 
 ## International wrestling appearances
 
@@ -108,11 +116,10 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
 ## In wrestling
 
 * Finishers:
-  - Ripcord Lariat (2024-)
+  - _11-200_ (Angel's Wings) (2025-)
+  - Rear Naked Choke (2024-2026)
+  - Ripcord Lariat (2024-2025)
   - _Gryffin Bomb_ (2023-2025)
-  - 11-200 (Angel's Wings) (2025-)
-  - Rear Naked Choke (2024-)
-  - Texas Cloverleaf (2023)
 * Tag Teams and Stables:
   - [Zmowa](@/tt/zmowa.md) (2024-2025)
   - [Bad Trip](@/tt/bad-trip.md) (2026-)
@@ -130,6 +137,11 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
     {{ music(yt='cJuO985zF8E')}}
     {{ music(spot='0dlz0KoaIE9zaFZNT4XvXn')}}
     {{ music(apple='1591104080?i=1591104084')}}
+  - "I've Seen Footage" by Death Grips
+    {{ org_badge(orgs=['ppw']) }} (2026-, as part of [Bad Trip](@/tt/bad-trip.md)) <br>
+    {{ music(yt='sticXkHxZC4') }}
+    {{ music(spot='7nCONy10IHp7XD3oYZ0lcx') }}
+    {{ music(apple='515449271') }}
 
 ## Championships and accomplishments
 
@@ -140,6 +152,7 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
     - Wrestler of the Year (2025)
     - Match of the Year - vs [Goblin](@/w/goblin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)
     - Moment of the Year (2025)
+  
 * Maniac Zone Wrestling:
   - [MZW Championship](@/c/mzw-championship.md) (1 time)
 
