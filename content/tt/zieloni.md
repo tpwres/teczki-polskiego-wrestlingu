@@ -55,7 +55,7 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 ## Members
 
 * [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-* [Axel Fox](@/w/jakub.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+* [Jakub](@/w/jakub.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
 * [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw', 'low', 'ppw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
@@ -75,7 +75,8 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-  - [PpW Championship](@/c/ppw-championship.md) (1 time; current) - Olgierd
+  - [PpW Championship](@/c/ppw-championship.md) (2 times; current) - Olgierd (1), Gabriel Queen (1; current)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - Jakub (1), Vic Golden (1; current)
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time) - Isnorr
   - Golden Goat Trophy (2023) - Gabriel Queen (as Bonus CBD)
 * [Prime Time Wrestling](@/o/ptw.md):
@@ -94,8 +95,8 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
   - Rookie's Battle Royal (2019) - Aron Wake
   - Project Basement Trophy (2021) - Aron Wake
 * [Legacy of Wrestling](@/o/low.md):
-  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - Axel Fox
-  - Road to the Title Tournament (2025) - Axel Fox
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - Jakub
+  - Road to the Title Tournament (2025) - Jakub
 
 ## Trivia
 
