@@ -6,7 +6,7 @@ authors = ["Sewi The Referee"]
 toclevel = 3
 orgs = ["ppw"]
 [extra.gallery]
-1 = { path = "rodzina-z-pasami-tt", caption = "[Oskar Alexander](@/w/oskar-alexander.md) and [Vic Golden](@/w/vic-golden.md) with the [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md).", source = "M3n747" }
+1 = { path = "rodzina-z-pasami-tt.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) and [Vic Golden](@/w/vic-golden.md) with the [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md).", source = "M3n747" }
 +++
 
 Rodzina (_The Family_) is a villainous stable active in [PpW Ewenement](@/o/ppw.md). 
