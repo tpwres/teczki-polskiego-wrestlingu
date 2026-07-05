@@ -37,10 +37,16 @@ Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to
   - s: Tag Team Match
 - - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Bartosz Plata](@/w/plata.md)'
+- - '[Goblin](@/w/goblin.md)'
+  - '[Sambor](@/w/sambor.md)'
+  - s: Ad-Hoc Match
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Maverick](@/w/maverick.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
+- - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: Tag Team Match
 - credits:
     Commentary: "[Istociarz](@/w/istociarz.md)"
     Referees: "[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)"
@@ -52,8 +58,10 @@ Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to
 * Gustav came out to announce his health issues and that he's taking a hiatus of at least 12 months. He also extended a lot of praise for his friend and team-mate Goblin, whom he grow fond of in the recent months. Inspired, the crowd shouted "Gorzko!" (_Bitter!_), invoking a popular wedding tradition where the bitter taste of vodka is supposed to be made sweeter by a kiss (between the newlyweds). Appropriately, Goblin gave him a small kiss on the cheek, to great pop, and the two later hugged in the ring.
 * However, this happy moment was immediately interrupted by Zmowa's music. In came Mister Z and JAKUB, immediately deriding the saccharine atmosphere. Gustav confronted Mister Z, the two exchanging threats. Finally, Mister Z stripped Bad Trip of the PpW Tag Team belts, calling them too weak to carry their weight. Bad Trip exited through the crowd, and the segment immediately transformed into the next match. Typical of the Hardcors, brawling started with music still blaring.
 * Zmowa performed an impressive simultaneous splash and leg-drop on Johnny laid out on a table in the middle of the ring, but Biesiad interrupted the following pin. A comedic segment with all four hitting each other on the head followed.
-* Michael HT announced that Olgierd pulled out of the scheduled Triple Threat match. It went on anyway as a singles match.
-
+* Michael HT announced that Olgierd pulled out of the scheduled Triple Threat, which went on anyway as a singles match.
+* The official video recognized Maverick as former HCW Champion.
+* In Queen vs Maverick, the ref counted to three, and the bell can be heard in the video. However, apparently Maverick kicked out at 2.999, and the match continued as per referee's decision.
+* Gabriel Queen didn't have time to celebrate the win, as Jacob Crane's music hit almost immediately. He entered through the audience, took the mic, reminded Queen who won their previous match, and challenged for the PpW Championship, "for example in [Wrocław](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)". Queen asked the audience whether the two should have a match, and when they enthusiastically answered, confirmed the match for Wrocław.
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=455677)
