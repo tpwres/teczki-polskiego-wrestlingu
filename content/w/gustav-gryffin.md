@@ -21,9 +21,10 @@ Gustav Gryffin is a Polish wrestler from Bartoszyce, best known for his appearan
   - Gustav Pierdolec {{ org_badge(org='ppw') }} (non-canon shows)
   - Martinez Grabollo {{ org_badge(org='ppw') }} (non-canon shows)
   - Art the Clown {{ org_badge(org='ppw') }} (Halloween special, non-canon show)
+  - Marcin Kawusia (non-canon shows)
 * Trained by:
   - PpW Dojo (2022-June 2024)
-  - [Ewenement Dojo](@/o/dojo.md) (June 2024-present)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (June 2024-present)
 
 ## Professional wrestling career
 
