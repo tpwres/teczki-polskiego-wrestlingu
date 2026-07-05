@@ -40,6 +40,7 @@ Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to
   - '[Bartosz Plata](@/w/plata.md)'
 - - '[Goblin](@/w/goblin.md)'
   - '[Sambor](@/w/sambor.md)'
+  - s: Ad-Hoc Match
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Maverick](@/w/maverick.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
@@ -62,7 +63,9 @@ Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to
 * However, this happy moment was immediately interrupted by [Zmowa's](@/tt/zmowa.md) music. In came [Mister Z](@/w/mister-z.md) and [Jakub](@/w/jakub.md), immediately deriding the saccharine atmosphere. Gustav confronted Mister Z, the two exchanged threats. Finally, Mister Z stripped [Bad Trip](@/tt/bad-trip.md) of the [PpW Tag Team belts](@/c/ppw-tag-team-championship.md), calling them too weak to carry their weight. Bad Trip exited through the crowd, and the segment immediately transformed into the next match. Typical of the Hardcors, brawling started with their music still blaring.
 * Zmowa performed an impressive simultaneous Splash and Leg Drop on [Johnny](@/w/johnny-blade.md) laid out on a table in the middle of the ring, but [Biesiad](@/w/biesiad.md) interrupted the resulting pin. A comedic segment with all four hitting each other on the head followed.
 * [Michael HT](@/w/michael-ht.md) announced that [Olgierd](@/w/olgierd.md) pulled out of the scheduled Triple Threat match. It went on anyway as a singles match.
-* [Jacob Crane](@/w/jacob-crane.md) challenged [Gabriel Queen](@/w/gabriel-queen.md) for this [PpW Championship](@/c/ppw-championship.md) at the [upcoming show in Wrocław](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md). Queen left the decision to the audience, saying that the title belongs to them; the crowd's reaction was a resounding "yes", so Queen accepted Crane's challenge.
+* The official video recognized Maverick as a former HCW Champion.
+* In Queen vs Maverick, the ref counted to three, and the bell can be heard in the video. However, apparently Maverick kicked out at 2.999, and the match continued as per the referee's decision.
+* Gabriel Queen didn't have time to celebrate the win as Jacob Crane's music hit almost immediately. He entered through the audience, took the mic, reminded Queen who'd won their previous match and challenged for the PpW Championship, "for example in [Wrocław](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)". Queen left the decision to the audience, saying that the title belongs to them; the crowd's reaction was a resounding "yes", so Queen accepted Crane's challenge.
 
 ## References
 
