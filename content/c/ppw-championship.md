@@ -333,7 +333,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - s: Singles Match
     en: '[PpW Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
-    ed: '2026-09-26
+    ed: 2026-09-26
     nc: upcoming
 {% end %}
 
