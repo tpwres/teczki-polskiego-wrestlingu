@@ -1,8 +1,8 @@
 +++
-title = "Ewenement Dojo"
+title = "Warszawska Szkoła Wrestlingu"
 weight = 0
 template = "org_page.html"
-authors = ["Sewi The Referee", "Szymon Iwulski"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 aliases = ["/o/ewenement-dojo"]
 [taxonomies]
 chrono_root = ["dojo"]
@@ -10,13 +10,9 @@ chrono_root = ["dojo"]
 toclevel = 3
 hide_roster = true
 [extra.gallery]
-1 = { path = "ewenement-dojo-logo.png", caption = "The Dojo's logo, depicting a folding chair wrapped in barbed wire.", source = "Facebook Ewenement Dojo" }
-2 = { path = "ewenement-dojo-post.webp", caption = "Facebook post announcing training with [Jacob Crane](@/w/jacob-crane.md), and mentioning the alumni.", source = "Facebook Ewenement Dojo" }
-3 = { path = "ewenement-dojo-biesiad.webp", caption = "Facebook post announcing training with [Biesiad Strong](@/w/biesiad.md), listing his MMA achievements.", source = "Facebook Ewenement Dojo" }
-4 = { path = "trener-fox-ewenement-dojo.webp", caption = "Facebook post announcing [Axel Fox](@/w/jakub.md) joining the dojo. The photo was taken at WxW Academy, whose logo is visible on the back wall.", source = "Facebook Ewenement Dojo" }
 +++
 
-Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.md). As of August 2026, it is operated by [FRPW][fundacja], a legal entity associated with federation. 
+Warszawska Szkoła Wrestlingu (_Warsaw School of Wrestling_; formerly known as Ewenement Dojo) is the wrestling school associated with [PpW Ewenement](@/o/ppw.md). As of August 2026, it is operated by [FRPW][fundacja], a legal entity associated with federation. 
 
 ## Basic info
 
@@ -38,7 +34,7 @@ PpW Dojo:
 * [Gustav Gryffin](@/w/gustav-gryffin.md)
 * [Mister Z](@/w/mister-z.md)
 
-Ewenement Dojo:
+Ewenement Dojo / Warszawska Szkoła Wrestlingu:
 
 * [Agentka Agatka](@/w/agentka-agatka.md)
 * Alvaro (non-canon debut)
@@ -64,7 +60,7 @@ The first fully Ewenement-grown talent who got a chance to debut at the Polish s
 
 Two of the first Ewenement Dojo graduates also made their non-PpW debuts, in a quick succession. [Oskar Alexander](@/w/oskar-alexander.md) made his [MZW](@/o/mzw.md) debut in a losing effort against [Shadow](@/w/shadow.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), while [Bartosz Plata](@/w/plata.md) debuted in [Legacy of Wrestling](@/o/low.md) as a part of a losing team in a six-man tag team main event of [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md).
 
-In May 2026 the Dojo started to hold its own shows, dubbed _Dojo Showcases_, independently of its mother promotion.
+In May 2026 the Dojo started to hold its own shows, dubbed _Dojo Showcases_, independently of its mother promotion. In the early July the Dojo was renamed to Warszawska Szkoła Wrestlingu.
 
 ## Internet presence
 

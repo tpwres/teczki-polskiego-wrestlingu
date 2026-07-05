@@ -26,7 +26,7 @@ template = "index.html"
 | 2015- | [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) | Gdynia |
 | 2017- | [Polska Akademia Wrestlingu](@/o/paw.md) | Głuchołazy, Wrocław, Kępno, Toruń |
 | 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, Kozłów |
-| 2024- | [Ewenement Dojo](@/o/dojo.md) | Warsaw |
+| 2024- | [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) | Warsaw |
 
 ## Folded
 

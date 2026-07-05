@@ -1,0 +1,5 @@
+1 = { path = "ewenement-dojo-logo.png", caption = "The Dojo's logo, depicting a folding chair wrapped in barbed wire.", source = "Official Ewenement Dojo Facebook" }
+2 = { path = "ewenement-dojo-post.webp", caption = "Facebook post announcing training with [Jacob Crane](@/w/jacob-crane.md), and mentioning the alumni.", source = "Official Ewenement Dojo Facebook" }
+3 = { path = "ewenement-dojo-biesiad.webp", caption = "Facebook post announcing training with [Biesiad Strong](@/w/biesiad.md), listing his MMA achievements.", source = "Official Ewenement Dojo Facebook" }
+4 = { path = "trener-fox-ewenement-dojo.webp", caption = "Facebook post announcing [Axel Fox](@/w/jakub.md) joining the dojo. The photo was taken at WxW Academy, whose logo is visible on the back wall.", source = "Official Ewenement Dojo Facebook" }
+5 = { path = "wsw-logo.jpg", caption = "The new logo of WSW.", source = "Official WSW Facebook" }
