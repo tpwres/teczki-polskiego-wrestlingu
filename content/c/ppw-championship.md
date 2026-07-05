@@ -329,6 +329,11 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles Match
     en: '[PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md)'
     ed: 2026-07-04
+- - 'Gabriel Queen(c)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+    en: '[PpW Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
+    ed: '2026-09-26
+    nc: upcoming
 {% end %}
 
 ## References
