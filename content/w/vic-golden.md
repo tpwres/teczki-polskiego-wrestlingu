@@ -180,7 +180,7 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
     * Tag Team of the Year - (as [Pure Gold](@/tt/pure-gold.md)) (2022)
     * Newcomer of the Year (2022)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - with [Oskar Alexander](@/w/oskar-alexander.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 
