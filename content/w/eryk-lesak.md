@@ -39,6 +39,10 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took pa
 
 After that Lesak focused on a solo career. He lost to [Filip Fux](@/w/filip-fux.md) in a Contender Match Qualifier for the [KPW Championship](@/c/kpw-championship.md) at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), and won with [Leon Lato](@/w/leon-lato.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). Later, at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), Lesak emerged victorious from the Battle Royal, winning a Championship contract. He however lost his opportunity in a match against the reigning Champion [Zefir](@/w/zefir.md), during [KPW Show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md). 
 
+#### Old Town Championship
+
+Lesak attempted to use his contract a couple more times, at [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md) and [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md), however both times yielded no results - at the former show he took too long to cash in, allowing the moment to pass, and at the latter the fight (which he lost) wasn't counted, as the timekeeper didn't ring the bell. It wasn't until [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) that he finally managed to use the contract properly and challenged the exhausted Leon Lato right after his fight, winning the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) for himself.
+
 #### Various storylines
 
 At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) Lesak got into a rivalry with the up-and-coming [Markus Paskal](@/w/markus-paskal.md). Eryk's old partner Chemik joined him in a bullying session, unaware of the fact that Markus already got himself backup in the form of the returning [Kamil Aleksander](@/w/kamil-aleksander.md). The former [DDW International Champion](@/c/ddw-international-championship.md) came back to KPW after more than six years, with the intention of facing Lesak and Chemik in a Tag Team Match at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).

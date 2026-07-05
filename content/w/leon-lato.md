@@ -28,7 +28,7 @@ Leon Lato made his in-ring debut in July 2022 on the first day of [Tattoo Konwen
 
 Lato usually works solo, although on a few occasions, he formed a tag team with another high flyer, [Zefir](@/w/zefir.md).
 
-At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Leon faced and defeated the reigning [KPW OldTown Champion](@/c/kpw-old-town-championship.md) [Chemik](@/w/chemik.md), thus winning his first title.
+At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Leon faced and defeated the reigning [KPW OldTown Champion](@/c/kpw-old-town-championship.md) [Chemik](@/w/chemik.md), thus winning his first title. During his reign Leon successfully defended the title against four opponents, until losing it at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) to [Eryk Lesak](@/w/eryk-lesak.md), who won it in a less than kosher manner.
 
 ### PpW Ewenement Wrestling (2026-present)
 
