@@ -125,6 +125,16 @@ During that match Vic once again got the upper hand over Queen, with significant
 
 At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), the Queen vs Golden conflict finally concluded, as Gabriel lost the Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md), Vic graciously offered Gabriel to stay in the federation under one condition: GQ had to become Rodzina's member. Having no other choice Queen reluctantly agreed, thus being forced into becoming one of Vic's puppets.
 
+#### Rodzina's Ups and Downs
+
+Rodzina managed to secure their spot in the tournament finals for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) by defeating [Sentinel](@/w/sentinel.md) and [Wonder Haze](@/w/wonder-haze.md) at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md). At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) they were however unsucessful in denying the team of [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) a spot in the match thanks to Gabriel and Oskar's animosities during the Golden Opportunity Contendership Match. After the show, Oskar announced that Vic managed to recruit one more member into Rodzina to grant them PpW Tag Team Championship victory at [Dwa na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md). The mysterious member was revealed at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), when [Filip Fux](@/w/filip-fux.md) - still an active [KPW](@/o/kpw.md) wrestler - interfered in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/jakub.md) as a mystery attacker. However, the new member and working with Zmowa did not help the team in capturing the PpW Tag Team Championship at [Dwa na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), as Zmowa were crowned the inaugural Champions. 
+
+At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Vic Golden returned to hold a family meeting. This did not turn out as expected, as both Agatka and Queen declared leaving the stable. After Queen's departure from Rodzina he quickly become [PpW Champion](@/c/ppw-championship.md), which motivated Vic to punish his former friend. At [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md) he faced Gabriel in a Title Match. His defeat meant that no Rodzina member will be eligible to compete for PpW Championship during the rest of Gabriel's title reign. Devastated Vic was quickly comforted by Filip Fux, who reminded him of Tag Team titles existence. 
+
+#### PpW Tag Team Champion
+
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/gustav-gryffin.md) revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter he and [Goblin](@/w/goblin.md) were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md); the vacated titles were won later at the same show by Vic Golden and Oskar Alexander in a match against [Ladykiller](@/w/boro.md) and [Mutant](@/w/mutant.md).
+
 ### Legacy of Wrestling (2025)
 
 Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md). What was announced as a singles match between him and [Greg](@/w/greg.md) turned into a tag team match when the unannounced [Chemik](@/w/chemik.md) jumped Greg, who was then aided by [Robert Star](@/w/robert-star.md). The babyface duo won, with Greg pinning Vic.
@@ -132,10 +142,10 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
 ## In wrestling
 
 * Finishers:
-  - 450 Splash (2013-2014)
   - _Slayswitch_ / Killswitch (2015-)
+  - 450 Splash (2013-2014)
 * With [Gabriel Queen](@/w/gabriel-queen.md):
-  - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-)
+  - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-2025)
 * Tag Teams and stables:
   - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
   - [Rodzina](@/tt/rodzina.md) (2025-)
