@@ -12,7 +12,7 @@ has_video = true
 [extra.gallery]
 +++
 
-Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to return to [2KOŁA Motorcycle Pub](@/v/2kola.md).
+Nü Wrestling was a show by [PpW Ewenement's](@/o/ppw.md) held in [2KOŁA Motorcycle Pub](@/v/2kola.md).
 
 ## Build-up
 
