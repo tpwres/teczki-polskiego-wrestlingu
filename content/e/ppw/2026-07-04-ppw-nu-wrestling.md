@@ -59,13 +59,13 @@ Nü Wrestling is an upcoming show by [PpW Ewenement's](@/o/ppw.md). It is set to
 
 ### Highlights
 
-* Despite being announced for show, [Olgierd](@/w/olgierd.md) was absent due to non-wrestling related medical reasons.
+* Despite being announced for show, [Olgierd](@/w/olgierd.md) was absent due to non-wrestling-related medical reasons.
 * [Gustav](@/w/gustav-gryffin.md) came out to announce his health issues and a hiatus of at least twelve months. He also extended a lot of praise for his friend and teammate [Goblin](@/w/goblin.md), whom he grow fond of in the recent months. Inspired, the crowd shouted "Gorzko!" (_Bitter!_), invoking a popular wedding tradition where the bitter taste of vodka is supposed to be made sweeter by a kiss between the newlyweds. Appropriately, Goblin gave him a small kiss on the cheek to a great pop, and the two later hugged in the ring.
 * However, this happy moment was immediately interrupted by [Zmowa's](@/tt/zmowa.md) music. In came [Mister Z](@/w/mister-z.md) and [Jakub](@/w/jakub.md), immediately deriding the saccharine atmosphere. Gustav confronted Mister Z, the two exchanged threats. Finally, Mister Z stripped [Bad Trip](@/tt/bad-trip.md) of the [PpW Tag Team belts](@/c/ppw-tag-team-championship.md), calling them too weak to carry their weight. Bad Trip exited through the crowd, and the segment immediately transformed into the next match. Typical of the Hardcors, brawling started with their music still blaring.
 * Zmowa performed an impressive simultaneous Splash and Leg Drop on [Johnny](@/w/johnny-blade.md) laid out on a table in the middle of the ring, but [Biesiad](@/w/biesiad.md) interrupted the resulting pin. A comedic segment with all four hitting each other on the head followed.
 * [Michael HT](@/w/michael-ht.md) announced that [Olgierd](@/w/olgierd.md) pulled out of the scheduled Triple Threat match. It went on anyway as a singles match.
 * The official video recognized Maverick as a former HCW Champion.
-* In Queen vs Maverick, [the ref](@/w/sedzia-seweryn.md) counted to two after Quieen's Styles Clash, but despite that the bell can be heard in the video. However, referee quickly corrected timekeeper's error.
+* In Queen vs Maverick, [the ref](@/w/sedzia-seweryn.md) only counted to two after Queen's Styles Clash, but the bell can still be heard in the video. However, the referee quickly corrected the timekeeper's error.
 * Gabriel Queen didn't have time to celebrate the win as Jacob Crane's music hit almost immediately. He entered through the audience, took the mic, reminded Queen who'd won their previous match and challenged for the PpW Championship, "for example in [Wrocław](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)". Queen left the decision to the audience, saying that the title belongs to them; the crowd's reaction was a resounding "yes", so Queen accepted Crane's challenge.
 
 ## References

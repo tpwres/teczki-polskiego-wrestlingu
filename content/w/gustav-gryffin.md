@@ -92,7 +92,7 @@ He later made another appearance over a year later at the next MZW show, [No Tim
 
 At [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) Gustav advanced to the tournament finals by defeating [Febus "The Wolf"](@/w/apollo-anderson.md). In the main event of the show he took part in said Tournament Final Ladder Match for the PpW/MZW Championship opportunity briefcase. However, he was unable to win due to Mister Z's opportunistic attack.
 
-At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Gustav faced [Tony Sheen](@/w/riverman.md) in a Title Match for vacated [MZW Championship](@/c/mzw-championship.md). He emerged victorious from that bout, but his reign was short-lived due to cash-in of PpW/MZW Championship opportunity briefcase by [Marco Hammers](@/w/marco-hammers.md).
+At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Gustav faced [Tony Sheen](@/w/riverman.md) in a match for the vacated [MZW Championship](@/c/mzw-championship.md). He emerged victorious from that bout, but his reign was short-lived due to the cash-in of PpW/MZW Championship opportunity briefcase by [Marco Hammers](@/w/marco-hammers.md).
 
 ### Legacy of Wrestling (2024-2025)
 
@@ -102,7 +102,7 @@ On 22.03.2025 it was announced that Gustav would face Polish-American wrestler K
 
 At LoW's [third show](@/e/low/2025-07-11-low-3.md) Gustav teamed up with Olgierd and [Chemik](@/w/chemik.md) to defeat [Syriusz Dziedzic](@/w/dziedzic.md), Sambor and [Bartosz Plata](@/w/plata.md) in a Six-Man Tag Team Match.
 
-At [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md) he participated in a Six-Man Elimination Match for inaugural [LoW European Championship](@/c/low-european-championship.md) title. He finished as an runner-up to victorious [Jakub](@/w/jakub.md).
+At [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md) he participated in a Six-Man Elimination Match for the inaugural [Legacy European Championship](@/c/low-european-championship.md) title. He finished as a runner-up behind the victorious [Jakub](@/w/jakub.md).
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
@@ -142,7 +142,7 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
     {{ org_badge(orgs=['ppw']) }} (2026-, as part of [Bad Trip](@/tt/bad-trip.md)) <br>
     {{ music(yt='sticXkHxZC4') }}
     {{ music(spot='7nCONy10IHp7XD3oYZ0lcx') }}
-    {{ music(apple='515449271') }}
+    {{ music(apple='515449028?i=515449271') }}
 
 ## Championships and accomplishments
 
@@ -153,7 +153,6 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
     - Wrestler of the Year (2025)
     - Match of the Year - vs [Goblin](@/w/goblin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)
     - Moment of the Year (2025)
-  
 * Maniac Zone Wrestling:
   - [MZW Championship](@/c/mzw-championship.md) (1 time)
 
