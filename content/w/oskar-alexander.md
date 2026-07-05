@@ -19,7 +19,7 @@ Oskar Alexander is a Polish wrestler best known for his time in [PpW Ewenement](
   - Adept Oskar {{ org_badge(org='ppw') }} (August 2024-October 2024)
   - Oskar Strong {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
-  - [Ewenement Dojo](@/o/dojo.md) (2024-present)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-present)
 
 ## Professional wrestling career
 
@@ -51,7 +51,9 @@ After his defeat in a Qualifying Match against Vic's nemesis Gabriel Queen at [H
 
 While Rodzina members were occupied with their Singles opportunites, Oskar focused on chasing the first gold - the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) - for his group. He managed to secure a spot in the finals at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) with his "Father" Vic. However, his Tag Team experiment with poorly motivated Gabriel Queen at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) failed to prevent [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) from entering the tournament finals as the third team. 
 
-Rodzina's shortage of willing, fully active members was solved at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) where they were joined by debuting [Filip Fux](@/w/filip-fux.md), who was named Oskar's Tag Team partner in the tournament finals.
+Rodzina's shortage of willing, fully active members was solved at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) where they were joined by debuting [Filip Fux](@/w/filip-fux.md), who was named Oskar's Tag Team partner in the tournament finals. They were ultimately unsucessful in winning the titles, which were went to [Zmowa](@/tt/zmowa.md). 
+
+During Oskar's indisposition caused by an injury suffered at an MZW show, Rodzina suffered a serious blow at the hands of Gabriel Queen and Oskar's friend Agatka, who finally turned on Vic Golden at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md). Shortly after that the group was aided by [Isnorr](@/w/isnorr.md) and turned their focus back to the Tag Team Championship. At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Oskar and his father Vic Golden managed to take advantage of [Bad Trip](@/tt/bad-trip.md) being forced to vacate their titles due to [Gustav Gryffin's](@/w/gustav-gryffin.md) injury. Rodzina won the Title Match against [Ladykiller](@/w/boro.md) and [Mutant](@/w/mutant.md).
 
 ### Maniac Zone Wrestling (2025-present)
 
@@ -60,7 +62,9 @@ Rodzina's shortage of willing, fully active members was solved at [Jednak Hardco
 Alexander made his [MZW](@/o/mzw.md) debut at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), thus becoming the first [Ewenement Dojo](@/o/dojo.md) graduate to debut outside of PpW.
 Taking part in a tournament for a championship contract briefcase, he was set to face [Shadow](@/w/shadow.md). He cut a lengthy promo on his way to the ring, insulting the city of Wrocław, the audience and Shadow himself. Before managing to go on the offensive, however, he was quickly rolled up for a pin and lost the match in a matter of seconds.
 
-### Legacy of Wrestling (2025-present)
+At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Oskar faced fellow [Ewenement Dojo](@/o/dojo.md) graduate [Bartosz Plata](@/w/plata.md) in a Singles Match. Despite his victory, it was revealed that during the match he suffered an injury, which sidelined him for a couple of months.
+
+### Legacy of Wrestling (2025)
 
 #### Road to the title
 
@@ -69,16 +73,15 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
 ## In wrestling
 
 * Finishers:
-  - Powerbomb (2024)
-  - Boston Crab (2024-)
   - _Północne Bałuty_ (Chokeslam) (2025-)
+  - Powerbomb (2024)
 * Tag Teams and stables:
-  - Agencja (2024-)
+  - Agencja (2024-2026)
   - [Rodzina](@/tt/rodzina.md) (2025-)
 * Wrestlers managed:
-  - [Agentka Agatka](@/w/agentka-agatka.md) (2025-)
+  - [Agentka Agatka](@/w/agentka-agatka.md) (2025-2026)
 * Managed by:
-  - [Agentka Agatka](@/w/agentka-agatka.md) (2024-)
+  - [Agentka Agatka](@/w/agentka-agatka.md) (2024-2026)
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
     {{ org_badge(org='ppw') }} (2024-2025) <br>
@@ -90,6 +93,16 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
     {{ music(yt='A8i7248HqEY') }}
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
+  - "Hi Fi" by Wanda i Banda
+    {{ org_badge(orgs=['ppw']) }} (2026-; in a Tag Team with [Vic Golden](@/w/vic-golden.md))
+    {{ music(yt='INGAIJiMCnE')}}
+    {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
+    {{ music(apple='1791001676?i=1791001922')}}
+
+## Championships and accomplishments
+
+* [PpW Ewenement Wrestling](@/o/ppw.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - with [Vic Golden](@/w/vic-golden.md)
 
 ## Internet presence
 

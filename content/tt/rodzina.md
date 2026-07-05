@@ -37,6 +37,10 @@ Rodzina managed to secure their spot in the tournament finals for the [PpW Tag T
 
 At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Vic Golden returned to hold a family meeting. This did not turn out as expected, as both Agatka and Queen declared leaving the stable. Thus, Agatka's Agency effectively broke up and Queen set himself free. While Golden did not invoke his ownership of Queen's contract (this part of the angle was seemingly dropped), Rodzina remained on collision course with the former members. At After [Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), [Gabriel Queen](@/w/gabriel-queen.md) enlisted the help of the fellow citizen of Poznań, [Isnorr](@/w/isnorr.md), to face the Rodzina/Zmowa alliance of [Vic Golden](@/w/vic-golden.md) and [Marco Hammers](@/w/marco-hammers.md) in a losing effort. Post-match, Golden gave Isnorr Rodzina's armband, which he pocketed, not set on joining the team yet. At [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) Isnorr made his decision, laying out [Agentka Agatka](@/w/agentka-agatka.md) - his partner for the Tag Team Gauntlet Match - and celebrating with members of Rodzina, thus joining the stable.
 
+#### PpW Tag Team Champions
+
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/gustav-gryffin.md) revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter he and [Goblin](@/w/goblin.md) were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md); the vacated titles were won later at the same show by [Rodzina](@/tt/rodzina.md) members, [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md).
+
 ## Members
 
 * [Vic Golden](@/w/vic-golden.md) - the Patriarch ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - present)
@@ -48,6 +52,11 @@ At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Vic Golden returned 
 ## Former members
 * [Agentka Agatka](@/w/agentka-agatka.md) - the Mother ([Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) - [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md))
 * [Gabriel Queen](@/w/gabriel-queen.md) - the Dog ([Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) - [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md))
+
+## Championships and accomplishments
+
+* [PpW Ewenement](@/o/ppw.md):
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; current) - [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)
 
 [kabanosy]: https://en.wikipedia.org/wiki/Kabanos
 [rodzina-kolejny]: https://www.instagram.com/p/DTs_vmZignE/
