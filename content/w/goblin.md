@@ -95,7 +95,7 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In May 2026 Goblin - along with Gustav Gryffin and [Jacob Crane](@/w/jacob-crane.md) announced the establishment of a foundation called "Fundacja Rozwoju Polskiego Wrestlingu" (_Foundation for the Development of Polish Wrestling_) - a organisation dedicated to development of Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - wrestling school previously known as Ewenement Dojo.
+In May 2026 Goblin - along with Gustav Gryffin and [Jacob Crane](@/w/jacob-crane.md) - announced the establishment of a foundation called "Fundacja Rozwoju Polskiego Wrestlingu" (_Foundation for the Development of Polish Wrestling_) - a organisation dedicated to development of Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - a wrestling school previously known as Ewenement Dojo.
 
 ## International wrestling appearances
 
