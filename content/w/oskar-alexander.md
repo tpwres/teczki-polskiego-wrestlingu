@@ -91,6 +91,11 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
 
+## Championships and accomplishments
+
+* [PpW Ewenement Wrestling](@/o/ppw.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - with [Vic Golden](@/w/vic-golden.md)
+
 ## Internet presence
 
 * [Oskar's Instagram](https://www.instagram.com/1_true_oskar/) 

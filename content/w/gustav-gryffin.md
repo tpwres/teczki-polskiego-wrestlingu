@@ -82,7 +82,7 @@ Despite the fact that Gustav and Goblin were drastically outnumbered in their fi
 
 #### 2026 hiatus
 
-At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), Gustav cut a promo explaining his recently diagnosed health issues, which he's been carrying for the last 6 months: a torn ACL. Due to the surgery and recovery period required, he announced he's stepping down from the ring for 12 months.
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), Gustav cut a promo explaining his recently diagnosed health issues which he'd been carrying for the past six months: a torn [ACL][acl]. Due to the surgery and recovery period required, he announced he'd be stepping down from the ring for a year. Immediately thereafter he and Goblin were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md).
 
 ### Maniac Zone Wrestling (2023-present)
 
@@ -135,7 +135,7 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
 
 * PpW Ewenement Wrestling:
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; current) - with [Goblin](@/w/goblin.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Goblin](@/w/goblin.md)
   - [Złoty Ewenement](@/a/zlote-ewenementy.md) (3 times):
     - Wrestler of the Year (2025)
     - Match of the Year - vs [Goblin](@/w/goblin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)
@@ -150,3 +150,5 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=29108)
+
+[acl]: https://en.wikipedia.org/wiki/Anterior_cruciate_ligament

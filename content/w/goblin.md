@@ -87,6 +87,8 @@ In the final moments, however, the much-needed Axel finally came to seemingly sa
 
 Goblin's devastating loss brought him closer to his old arch-nemesis Gustav, who also desperately wanted revenge on Zmowa. The duo reluctantly formed an impromptu alliance to fight off both Zmowa and [Rodzina](@/tt/rodzina.md), which greatly rose in the power ranking of PpW. Despite the fact that Gustav and Goblin were drastically outnumbered in their fight, they managed to get a spot in a match for the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) title. Although they initially lost their match against [Zmowa](@/tt/zmowa.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), Gustav & Goblin emerged victorious from a rematch at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), thus becoming the new Tag Team Champions.
 
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Gustav revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter Bad Trip were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md).
+
 ### Maniac Zone Wrestling (2025-present)
 
 In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing German wrestler Robert Kaiser at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
@@ -126,7 +128,7 @@ In February 2026 PpW announced that Goblin would be part of their excurion to Ja
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; current) - with [Gustav Gryffin](@/w/gustav-gryffin.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Gustav Gryffin](@/w/gustav-gryffin.md)
   - 20 Typa 20 Broni Rumble Match (2025)
   - [Złoty Ewenement](@/a/zlote-ewenementy.md) (1 time):
      * Match of the Year - vs [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)

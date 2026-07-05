@@ -22,7 +22,7 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 
 * First champion: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md))
 * Most reigns: Zmowa (1)
-* Longest reign: Zmowa (1+ days)
+* Longest reign: Zmowa (77 days)
 * Oldest champion: Marco Hammers (28 years, 363 days)
 * Youngest champion: Mister Z (25 years, 292 days)
 * Heaviest champion: Marco Hammers (94 kg)
@@ -135,7 +135,21 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
   - s: Tag Team Match
     en: '[PpW Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md)'
     ed: 2026-06-13
-    nc: upcoming
+{% end %}
+
+**Total: 49 days**
+
+The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) due to Gustav Gryffin's injury forcing him on a prolonged hiatus.
+
+### Champions #3: Rodzina: Vic Golden & Oskar Alexander
+
+{% free_card() %}
+- - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+  - "['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)"
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: Tag Team Match
+    en: '[PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md)'
+    ed: 2026-07-04
 {% end %}
 
 ## References

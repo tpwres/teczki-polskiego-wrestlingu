@@ -161,9 +161,9 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - '[Bad Trip](@/tt/bad-trip.md): [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - >
-    Defeated [Zmowa](@/tt/zmowa.md) represented by [Jakub](@/w/jakub.md) & [Marco Hammers](@/w/marco-hammers.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md).
+    Defeated ['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), competing for vacated titles.
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md). A number of these backyard belts were presented at [Udawana Wystawa](@/a/udawana-wystawa.md).

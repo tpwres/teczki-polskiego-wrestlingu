@@ -42,7 +42,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) was a show by [PpW Ewenement](@/o/
   - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: Fans Bring Weapons Four-Way Match
-- - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+- - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)(c)'
   - 'A Bite of Baklava: [Aytaç Bahar](@/w/aytac-bahar.md) & [Joshua Amaru](@/w/joshua-amaru.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
