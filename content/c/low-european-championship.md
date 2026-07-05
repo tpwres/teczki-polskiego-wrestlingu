@@ -116,6 +116,12 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - s: Three-Way Match
     en: '[MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md)'
     ed: 2026-06-20
+- - 'Jakub(c)'
+  - 'Trent Seven'
+  - s: Singles Match
+    en: '[Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md)'
+    ed: 2026-07-10
+    nc: upcoming
 {% end %}
 
 [qna-legacy]: https://www.youtube.com/watch?v=4urhjLJHEtA
