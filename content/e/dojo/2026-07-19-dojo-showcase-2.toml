@@ -4,3 +4,4 @@
 004 = { path = "rumble.webp", caption = "Image announcing the Rumble Match.", source = "Official Ewenement Dojo Facebook" }
 005 = { path = "platoglowy.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md) vs Barbarossa.", source = "Official Ewenement Dojo Facebook" }
 006 = { path = "mixed-tt-mecz.webp", caption = "Image announcing [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Goblin](@/w/goblin.md) & [Gloria G Szek](@/w/istotna-martynka.md).", source = "Official Ewenement Dojo Facebook" }
+007 = { path = "boro-i-muti.webp", caption = "Image announcing [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md).", source = "Official Ewenement Dojo Facebook" }
