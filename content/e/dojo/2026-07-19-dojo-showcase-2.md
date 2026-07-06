@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-The second [Ewenement Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna](@/v/teatr-komuna.md). Unlike the [first event](@/e/dojo/2026-05-03-dojo-showcase.md), this one is advertised as a Dojo show only, without the PpW branding. Instead, its marketing involves [FRPW][fundacja] - the Foundation for the Developement of Polish Wrestling (_Fundacja Rozwoju Polskiego Wrestlingu_), a legal entity attached to PpW.
+The second [Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna](@/v/teatr-komuna.md). Unlike the [first event](@/e/dojo/2026-05-03-dojo-showcase.md), this one is advertised as a Dojo show only, without the PpW branding. Instead, it is a first event organised solely by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) - a organisation which is the owner of Warszawska Szkoła Wrestlingu.
 
 ## Build-up
 
@@ -55,5 +55,3 @@ The second [Ewenement Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna]
 ## References
 
 * [Facebook event page](https://www.facebook.com/profile.php?id=61560762345187)
-
-[fundacja]: https://fundacjarpw.pl/
