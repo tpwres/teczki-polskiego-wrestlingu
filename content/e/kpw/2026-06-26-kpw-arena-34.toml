@@ -13,7 +13,7 @@
 0012 = { path = "kinga-of-the-ringa.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
 
 0101 = { path = "z-innego-kata-patrzac-wcale-nie-jest-mniej-lysy.webp", caption = "[Olgierd's](@/w/olgierd.md) entrance.", source = "Alex Bałdyga" }
-0102 = { path = "no-i-kaucja-poszla-sie---.webp", caption = "A crushed can of Olgierd's energy drink (resulting in the waste of a 0.5&nbsp;PLN deposit).", source = "M3n747" }
+0102 = { path = "no-i-kaucja-poszla-sie---.webp", caption = "A crushed can of Olgierd's energy drink (resulting in a waste of a 0.5&nbsp;PLN deposit).", source = "M3n747" }
 0103 = { path = "to-nie-slonce-to-lysina.webp", caption = "Olgierd approaches Filip Fux with a Flying Headbutt.", source = "M3n747" }
 0104 = { path = "co-cztery-glowy-to-nie-dwie.webp", caption = "[Olgierd](@/w/olgierd.md) knows Filip Fux (biblically).", source = "M3n747" }
 0105 = { path = "lysy-nelson.webp", caption = "[Olgierd](@/w/olgierd.md) suffers in Filip Fux's Full Nelson Hold.", source = "M3n747" }
@@ -24,8 +24,8 @@
 
 0301 = { path = "i-want-you-to-know-im-gonna-be-fair.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) appreciates that Rookie Three shakes [Oskar Haller's](@/w/oskar-haller.md) hand.", source = "M3n747" }
 0302 = { path = "scorpion-deathlock-z-drugiego-konca.webp", caption = "Oskar Haller shows [Rookie Two](@/w/rookie-two.md) what he's learned since joining the roster.", source = "M3n747" }
-0303 = { path = "troche-niefortunnie-mi-ujecie-wyszlo-no-ale.webp", caption = "The legal [Rookie Two](@/w/rookie-two.md) throws the tagged out Rookie Three onto Oskar Haller.", source = "M3n747" }
-0304 = { path = "konfuzjusz-mowi-cos-ci-sie-typie-pochrzanilo.webp", caption = "The tagged out Rookie Three launches himself at Oskar Haller, while the legal Rookie Two stands on the apron.", source = "M3n747" }
+0303 = { path = "troche-niefortunnie-mi-ujecie-wyszlo-no-ale.webp", caption = "The legal [Rookie Two](@/w/rookie-two.md) throws the tagged-out Rookie Three onto Oskar Haller.", source = "M3n747" }
+0304 = { path = "konfuzjusz-mowi-cos-ci-sie-typie-pochrzanilo.webp", caption = "The tagged-out Rookie Three launches himself at Oskar Haller, while the legal Rookie Two stands on the apron.", source = "M3n747" }
 0305 = { path = "spoko-nastepnym-razem-sie-uda.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) wins, while Rookies Two and Three argue.", source = "M3n747" }
 
 0401 = { path = "kamil-powazny.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md).", source = "M3n747" }
@@ -78,7 +78,7 @@
 0901 = { path = "szanowny-pan-kolega-pozwoli-na-momencik.webp", caption = "[Tomczak](@/w/tomczak.md) forcibly returns Leon Lato back to the ring.", source = "M3n747" }
 0902 = { path = "jeste-wrestlere-i-mam-na-to-papierek.webp", caption = "Eryk Lesak cashes in his championship contract.", source = "M3n747" }
 0903 = { path = "przespij-sie-mamy-tu-wygodny-ring.webp", caption = "Eryk Lesak makes short work of Leon Lato.", source = "M3n747" }
-0904 = { path = "nowy-mistrz-starego-miasta.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md), the new [KPW OldTown Champion(@/c/kpw-old-town-championship.md).", source = "M3n747" }
+0904 = { path = "nowy-mistrz-starego-miasta.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md), the new [KPW OldTown Champion](@/c/kpw-old-town-championship.md).", source = "M3n747" }
 
 1001 = { path = "zefir-i-podmuszek.webp", caption = "[Zefir](@/w/zefir.md) with a custom Zefir action figure hand-made by a fan.", source = "M3n747" }
 1002 = { path = "kppw.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) and [Olgierd](@/w/olgierd.md) shake hands, symbolically ushering in a new era.", source = "M3n747" }
