@@ -76,6 +76,8 @@ At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he managed to wi
 
 Robert himself was unable to win his match against the defending champion [Goblin](@/w/goblin.md), even though Rodzina once again tried to help their fellow member to gain advantage.
 
+At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule][freebird-rule], however, Robert was recognised as a full Champion alongside every member of Rodzina.
+
 ### Legacy of Wrestling (2025)
 
 Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show](@/e/low/2025-04-06-low-2.md). He observed the first few matches sitting at the bar, close to the ring. In the fourth match, [Greg](@/w/greg.md) was scheduled to face [Vic Golden](@/w/vic-golden.md), but [Chemik](@/w/chemik.md) jumped Greg during his entrance routine. When Acting Chairman [Longman](@/w/wiktor-longman.md) forced Chemik to return to the backstage, Robert came out, in full ring gear and helped Greg, by attacking Chemik. The singles match was quickly turned into a Tag Team Match, where Robert joined his longtime KPW rival Greg against Chemik and Vic.
@@ -118,6 +120,8 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Championship](@/c/kpw-championship.md) (2 times)
+* [PpW Ewenement Wrestling](@/o/ppw.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 
@@ -129,3 +133,5 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15651)
 * [Facebook post saying BYE BYE](https://www.facebook.com/photo/?fbid=839973208139393&set=pb.100063801633257.-2207520000) from December 2023
 * [PpW's Facebook post announcing Robert](https://www.facebook.com/OficjalnePPW/posts/pfbid02GSspE1SNetocUY2kWnC9LhDdsKYSGgh17G4h2bV4Q3CaRgLkziMrC6JDPkCYWBVnl)
+
+[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

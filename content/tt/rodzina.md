@@ -5,6 +5,8 @@ authors = ["Sewi The Referee"]
 [extra]
 toclevel = 3
 orgs = ["ppw"]
+[extra.gallery]
+1 = { path = "rodzina-z-pasami-tt.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) and [Vic Golden](@/w/vic-golden.md) with the [PpW Tag Team Championships](@/c/ppw-tag-team-championship.md).", source = "M3n747" }
 +++
 
 Rodzina (_The Family_) is a villainous stable active in [PpW Ewenement](@/o/ppw.md). 
@@ -39,7 +41,7 @@ At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Vic Golden returned 
 
 #### PpW Tag Team Champions
 
-At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/gustav-gryffin.md) revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter he and [Goblin](@/w/goblin.md) were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md); the vacated titles were won later at the same show by [Rodzina](@/tt/rodzina.md) members, [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md).
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/gustav-gryffin.md) revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter he and [Goblin](@/w/goblin.md) were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md); the vacated titles were won later at the same show by [Rodzina](@/tt/rodzina.md) members, [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md). However, according to a later post by PpW, the titles belong to all the current members of the stable.
 
 ## Members
 
@@ -56,7 +58,7 @@ At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; current) - [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; current) - [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) & [Isnorr](@/w/isnorr.md)
 
 [kabanosy]: https://en.wikipedia.org/wiki/Kabanos
 [rodzina-kolejny]: https://www.instagram.com/p/DTs_vmZignE/

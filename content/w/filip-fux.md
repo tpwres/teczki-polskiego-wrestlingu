@@ -50,6 +50,8 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wr
 
 Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring. Filip emerged victorious, and later on intervened in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/jakub.md) by attacking Gryffin with a steel chair shot to the back of the head. It was quickly revealed that he did it at the order of [Rodzina](@/tt/rodzina.md) - a villainous stable he'd joined. Unlike in KPW and Legacy, where he's a clear-cut babyface, in PpW he portrays a heel character.
 
+At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule][freebird-rule], however, Filip was recognised as a full Champion alongside every member of Rodzina.
+
 ## International wrestling appearances 
 
 From 2023 onwards Filip started to secure international bookings for himself. He managed to made a few appearances for European Wrestling Association, Passion Pro and in SLAM Wrestling Entertainment.
@@ -88,6 +90,8 @@ From 2023 onwards Filip started to secure international bookings for himself. He
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Michał Fux](@/w/michal-fux.md)
+* [PpW Ewenement Wrestling](@/o/ppw.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 
@@ -97,3 +101,5 @@ From 2023 onwards Filip started to secure international bookings for himself. He
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25696)
 * [Filip's talk at the University of Gdańsk Film Centre](https://www.youtube.com/watch?v=FcJ_OQbmbUw), following a screening of [The Iron Claw](https://en.wikipedia.org/wiki/The_Iron_Claw_(film)) on 17.01.2025 (in Polish).
+
+[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
