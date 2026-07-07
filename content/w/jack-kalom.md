@@ -1,7 +1,7 @@
 +++
 title = 'Jack Kalom'
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -20,9 +20,13 @@ Jack Kalom is a Polish wrestler working for [Mine City Wrestling](@/o/mcw.md). H
 
 ## Professional wrestling career
 
-### Mine City Wrestling (2023-present)
+### Mine City Wrestling (2023-2026)
 
 Jack Kalom debuted for MCW at [Damage Control](@/e/mcw/2023-12-16-mcw-damage-control.md) in a Four-Way Match against [RAV](@/w/rav.md), [Johny Vegas](@/w/johny-vegas.md) and Chris Steeler. At [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md) a year later he defeated the reigning Champion [RAV](@/w/rav.md) and won the [MCW Championship](@/c/mcw-championship.md).
+
+### Prime Time Wrestling (2026-present)
+
+In 2026, while still the MCW Champion, Kalom resurfaced as one of the rookies in [PTW's](@/o/ptw.md) Lucky 8 contest.
 
 ## In wrestling
 
@@ -42,5 +46,9 @@ Jack Kalom debuted for MCW at [Damage Control](@/e/mcw/2023-12-16-mcw-damage-con
 
 * [Mine City Wrestling](@/o/mcw.md):
   - [MCW Championship](@/o/mcw.md) (1 time; current)
+
+## Internet presence
+
+* [Kalom's Instagram](https://www.instagram.com/kalom_ptw) 
  
 [guru]: https://gothic.wiki/w/Cor_Kalom
