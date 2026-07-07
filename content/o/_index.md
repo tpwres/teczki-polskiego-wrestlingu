@@ -16,6 +16,7 @@ template = "index.html"
 | 2020 | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | Warsaw |
 | 2021 | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów, Kozłów |
 | 2024 | {{ org_badge(org='low') }} [Legacy of Wrestling](@/o/low.md) | Katowice |
+| 2026 | [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) | Warsaw |
 
 
 ### Wrestling schools
@@ -26,7 +27,7 @@ template = "index.html"
 | 2015- | [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) | Gdynia |
 | 2017- | [Polska Akademia Wrestlingu](@/o/paw.md) | Głuchołazy, Wrocław, Kępno, Toruń |
 | 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, Kozłów |
-| 2024- | [Ewenement Dojo](@/o/dojo.md) | Warsaw |
+| 2024- | [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) | Warsaw |
 
 ## Folded
 

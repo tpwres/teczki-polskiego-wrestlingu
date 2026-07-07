@@ -12,7 +12,7 @@ country = ["PL"]
 3 = { path = "ppw-crane-420.jpg", caption = 'On April 1st, 2024 PpW "fired" Jacob Crane after his first show in Japan, parodying PTW by using the exact same text with its owners mock signatures. The text reads "Should not have left for Japan disregarding our events".'}
 +++
 
-Jacob Crane is a Polish wrestler, best known for his runs in [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md), in addition to part-time appearances for [PpW Ewenement](@/o/ppw.md). In 2024 and 2025, Jacob moved to Japan to join Big Japan Pro Wrestling.
+Jacob Crane is a Polish wrestler, best known for his appearances in [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md). From 2024 to 2026 Jacob moved to Japan to join Big Japan Pro Wrestling.
 
 ## Basic info
 
@@ -21,11 +21,12 @@ Jacob Crane is a Polish wrestler, best known for his runs in [Maniac Zone Wrestl
   - "The Perfect Man" / "The Top Guy Everywhere" Jacob Crane {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
   -  _Rookie_ Jacob {{ org_badge(orgs=['mzw']) }} (early appearances)
   - Kuba Kamiński {{ org_badge(orgs=['mzw']) }} (early appearances)
+  - Jacobs Krönung {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
   - [Justin Joy](@/w/justin-joy.md)
   - [Joe E. Legend](@/w/joe-legend.md)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2020)
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -51,12 +52,22 @@ Only a year later, almost to the day, on August 12, 2022, PTW's Facebook account
 
 After this dismissal, Crane posted about [relocating to Germany][aschaffenburg], and focused on his development at the WxW Academy in Gelsenkirchen. He appeared, in minor roles, at several WxW shows, including at World Tag Team Festival 2023, and 16 Carat Gold in 2024 where he challenged for the WxW Shotgun Championship. 
 
-### Return to PpW Ewenement Wrestling (2022-2024)
+### Return to PpW Ewenement Wrestling (2022-2024; 2026-present)
 
 Jacob made a comeback to PpW after over five years of absence, re-debuting in a match against [Steve Kuningas](@/w/steve-kuningas.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) in September 2022.
 Since then, he made regular appearances for PpW, and took up the role of head coach in the [PpW Dojo](@/o/dojo.md), training a new generation of wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md), as well as improving PpW Orginal wrestlers' in-ring abilities.
 
 After his 3-month stint in Japan, Jacob Crane returned at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) in a rematch against [Gabriel Queen](@/w/gabriel-queen.md). In addition, PpW ran a summer wrestling course under their dojo's brand with Jacob as head coach. After several months in Poland, Jacob returned to Japan for another run with BJPW.
+
+#### Return from Japan
+
+Jacob returned from Japan for [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) where he took part in 25 Typa 25 Broni Rumble Match. From that point on, Jacob started his undefeated streak, during which he feuded with PpW's producent [Mister Z](@/w/mister-z.md). 
+
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) he confronted the reigning [PpW Champion](@/c/ppw-championship.md) Gabriel Queen and challenged him for a Title Match scheduled for [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+In May 2026 Jacob, along with [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md), announced the establishment of a foundation called [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_) - an organisation dedicated to the development of the Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md), a wrestling school previously known as Ewenement Dojo.
 
 ## International wrestling appearances
 
@@ -64,11 +75,12 @@ Jacob started working internationally fairly early after his debut for MZW. He m
 
 In 2023 Jacob moved to Germany for a total of eight months to pursue his career abroad with even more dedication.
 
-In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], joining the Big Japan Pro Wrestling roster. His first stint in BJPW lasted for three months, from March until June. After staying in Poland for a couple of months he went back to Japan on a much longer contract, departing in October 2024.
+In 2024 Crane announced he was leaving Europe and [going to Japan][crane-bjpw], joining the Big Japan Pro Wrestling roster. His first stint in BJPW lasted for three months, from March until June. After staying in Poland for a couple of months he went back to Japan on a much longer contract, departing in October 2024, which lasted until March 2026.
 
 ## In wrestling
 
 * Finishers:
+  - Crossface (2026-)
   - Lariat
   - Package Piledriver (2018-2021)
 * Tag Teams and stables:
@@ -85,7 +97,12 @@ In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], jo
     {{ music(spot='38kcwx5znepLWCIBID0Bwm')}}
     {{ music(apple='1064406932?i=1064406939')}}
   - "Over the Top" by Cracked Prism Studios
-    {{ org_badge(orgs=['ppw']) }} (2024-) <br>
+    {{ org_badge(orgs=['ppw']) }} (2024-2026) <br>
+  - "Wild Side" by ALI
+    {{ org_badge(orgs=['ppw']) }} (2026-) <br>
+    {{ music(yt='u5heWZ9occg')}}
+    {{ music(spot='2RSPQJ483jRL1KNtMuKqgh')}}
+    {{ music(apple='1537780573?i=1537780574')}}
 
 ## Internet presence
 

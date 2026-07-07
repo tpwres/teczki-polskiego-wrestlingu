@@ -106,7 +106,7 @@ At [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md) he partici
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In May 2026 Gustav - along with Goblin and [Jacob Crane](@/w/jacob-crane.md) - announced the establishment of a foundation called "Fundacja Rozwoju Polskiego Wrestlingu" (_Foundation for the Development of Polish Wrestling_) - a organisation dedicated to development of Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - a wrestling school previously known as Ewenement Dojo.
+In May 2026 Gustav - along with Goblin and [Jacob Crane](@/w/jacob-crane.md) - announced the establishment of a foundation called [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_) - an organisation dedicated to development of the Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - a wrestling school previously known as Ewenement Dojo.
 
 ## International wrestling appearances
 

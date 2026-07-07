@@ -14,18 +14,19 @@ toclevel=2
 
 +++
 
-The PpW Tag Team Championship is the tag team division title introduced by [PpW Ewenement Wrestling](@/o/ppw.md) in 2025 at [Wjazd na rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). A tournament to crown the inaugural Champions began at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) and is set to conclude at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
+The PpW Tag Team Championship is the tag team division title introduced by [PpW Ewenement Wrestling](@/o/ppw.md) in 2025 at [Wjazd na rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). A tournament to crown the inaugural Champions began at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) and concluded at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 
 <!-- more -->
 
 ## Statistics
 
-* First champion: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md))
-* Most reigns: Zmowa (1)
+* First champions: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md))
+* Most reigns: Zmowa / [Bad Trip](@/tt/bad-trip.md) / [Rodzina](@/tt/rodzina.md) (1) 
 * Longest reign: Zmowa (77 days)
-* Oldest champion: Marco Hammers (28 years, 363 days)
-* Youngest champion: Mister Z (25 years, 292 days)
-* Heaviest champion: Marco Hammers (94 kg)
+* Shortest reign: Bad Trip (49 days)
+* Oldest champion: [Robert Star](@/w/robert-star.md) (31 years, 356 days)
+* Youngest champion: [Oskar Alexander](@/w/oskar-alexander.md) (23 years, 207 days)
+* Heaviest champion: Robert Star (106 kg)
 * Lightest champion: Jakub "Fox" (80 kg)
 
 ## History
