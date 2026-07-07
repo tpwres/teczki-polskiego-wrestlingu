@@ -12,7 +12,7 @@ country = ["PL"]
 3 = { path = "ppw-crane-420.jpg", caption = 'On April 1st, 2024 PpW "fired" Jacob Crane after his first show in Japan, parodying PTW by using the exact same text with its owners mock signatures. The text reads "Should not have left for Japan disregarding our events".'}
 +++
 
-Jacob Crane is a Polish wrestler, best known for his appearances in [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md), From 2024 to 2026, Jacob moved to Japan to join Big Japan Pro Wrestling.
+Jacob Crane is a Polish wrestler, best known for his appearances in [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md). From 2024 to 2026 Jacob moved to Japan to join Big Japan Pro Wrestling.
 
 ## Basic info
 
@@ -61,13 +61,13 @@ After his 3-month stint in Japan, Jacob Crane returned at [Ale Grzeje](@/e/ppw/2
 
 #### Return from Japan
 
-Jacob made his return from Japan at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) where he took part in 25 Typa 25 Broni Rumble Match. From that point on, Jacob started his undefeated streak, during which he feuded with PpW's producent [Mister Z](@/w/mister-z.md). 
+Jacob returned from Japan for [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) where he took part in 25 Typa 25 Broni Rumble Match. From that point on, Jacob started his undefeated streak, during which he feuded with PpW's producent [Mister Z](@/w/mister-z.md). 
 
-At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) he confronted reigning [PpW Champion](@/c/ppw-championship.md) Gabriel Queen and challenged him for a Title Match scheduled for [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) he confronted the reigning [PpW Champion](@/c/ppw-championship.md) Gabriel Queen and challenged him for a Title Match scheduled for [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In May 2026 Jacob - along with [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) - announced the establishment of a foundation called [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_) - a organisation dedicated to development of Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - a wrestling school previously known as Ewenement Dojo.
+In May 2026 Jacob, along with [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md), announced the establishment of a foundation called [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_) - an organisation dedicated to the development of the Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md), a wrestling school previously known as Ewenement Dojo.
 
 ## International wrestling appearances
 
@@ -75,7 +75,7 @@ Jacob started working internationally fairly early after his debut for MZW. He m
 
 In 2023 Jacob moved to Germany for a total of eight months to pursue his career abroad with even more dedication.
 
-In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], joining the Big Japan Pro Wrestling roster. His first stint in BJPW lasted for three months, from March until June. After staying in Poland for a couple of months he went back to Japan on a much longer contract, departing in October 2024, which lasted until March 2026.
+In 2024 Crane announced he was leaving Europe and [going to Japan][crane-bjpw], joining the Big Japan Pro Wrestling roster. His first stint in BJPW lasted for three months, from March until June. After staying in Poland for a couple of months he went back to Japan on a much longer contract, departing in October 2024, which lasted until March 2026.
 
 ## In wrestling
 
@@ -102,7 +102,7 @@ In 2024 Crane announced he's leaving Europe and [going to Japan][crane-bjpw], jo
     {{ org_badge(orgs=['ppw']) }} (2026-) <br>
     {{ music(yt='u5heWZ9occg')}}
     {{ music(spot='2RSPQJ483jRL1KNtMuKqgh')}}
-    {{ music(apple='1537780574')}}
+    {{ music(apple='1537780573?i=1537780574')}}
 
 ## Internet presence
 

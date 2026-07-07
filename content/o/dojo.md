@@ -12,13 +12,13 @@ hide_roster = true
 [extra.gallery]
 +++
 
-Warszawska Szkoła Wrestlingu (_Warsaw School of Wrestling_; formerly known as Ewenement Dojo) is the wrestling school associated with [Fundacja Rozwoju Polskiego Wrestlngu](@/o/frpw.md). From 2024 until July 2026 it was associated with [PpW Ewenement Wrestling](@/o/ppw.md).
+Warszawska Szkoła Wrestlingu (_Warsaw School of Wrestling_; formerly known as Ewenement Dojo) is a wrestling school associated with [Fundacja Rozwoju Polskiego Wrestlngu](@/o/frpw.md). From 2024 to July 2026 it was associated with [PpW Ewenement Wrestling](@/o/ppw.md).
 
 ## Basic info
 
 * Years active: July 2024-present (operated as PpW Dojo prior to 2024)
 * Locations:
-  1. Ewenement Dojo - Bartycka 116, Warsaw (July 2024-)
+  1. Ewenement Dojo / Warszawska Szkoła Wrestlingu - Bartycka 116 street, Warsaw (July 2024-)
 * Coaching staff:
   * Active:
     - [Jacob Crane](@/w/jacob-crane.md) - Head Coach
@@ -54,8 +54,8 @@ Ewenement Dojo / Warszawska Szkoła Wrestlingu:
 * _rookie_ Maciej
 * _rookie_ Maria
 * Mikołaj "SKS"
-* Monster High Zuza
 * _rookie_ Młody
+* Monster High Zuza
 * [Oskar Alexander](@/w/oskar-alexander.md)
 * _rookie_ Sawo
 * [Sędzia Kornel](@/w/sedzia-kornel.md)
@@ -79,7 +79,7 @@ Two of the first Ewenement Dojo graduates also made their non-PpW debuts, in a q
 
 ### Warszawska Szkoła Wrestlingu
 
-In May 2026 the Dojo started to hold its own shows, dubbed _Dojo Showcases_, independently of its mother promotion. In early July Ewenement Dojo was rebranded into Warszawska Szkoła Wrestlingu to complete its separation from PpW, as the school was effectively operated by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), which was formally established in May 2026.
+In May 2026 the Dojo started to hold its own shows, dubbed _Dojo Showcases_, independently of its mother promotion. In the early July Ewenement Dojo was rebranded as Warszawska Szkoła Wrestlingu to complete its separation from PpW as the school was effectively operated by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), which was formally established in May 2026.
 
 ## Internet presence
 
