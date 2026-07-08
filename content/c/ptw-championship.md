@@ -169,6 +169,12 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
     ed: 2026-05-23
+- - 'Spartan(c)'
+  - 'Jakk Selström'
+  - s: Singles Match
+    en: '[PTW: Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)'
+    ed: 2026-07-18
+    nc: upcoming
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

@@ -16,9 +16,16 @@ has_video = false
 
 ## Build-up
 
-* TBD
+* The first match to be announced for this show was a fight for the [PTW Championship](@/c/ptw-championship.md) between the reigning Champion [Spartan](@/w/spartan.md), and the English challenger Jakk Selström.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Spartan](@/w/spartan.md)(c)'
+  - 'Jakk Selström'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
+    nc: upcoming
+{% end %}
 
 ### Highlights
 
