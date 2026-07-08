@@ -16,7 +16,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 
 ## Build-up
 
-* At the [previous show](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Jacob Crane](@/w/jacob-crane.md) challenged [Gabriel Queen](@/w/gabriel-queen.md) for his [PpW Championship](@/c/ppw-championship.md), which the reigning Champion accepted.
+* At the [previous show](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Jacob Crane](@/w/jacob-crane.md) challenged [Gabriel Queen](@/w/gabriel-queen.md) for his [PpW Championship](@/c/ppw-championship.md), which the reigning Champion accepted. The match was officially confirmed on 8.07.2026.
 
 ## Predicted card
 
