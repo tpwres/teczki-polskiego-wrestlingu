@@ -97,7 +97,7 @@ text_fg = '#fbf1c7'
 
 [extra.org_styles.frpw]
 bg = '#f9f9f9'
-text_fg = '#4f2700'
+text_fg = '#000000'
 
 [extra.org_styles.kpw]
 bg = '#133762'
