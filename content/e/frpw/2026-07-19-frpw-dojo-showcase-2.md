@@ -7,7 +7,7 @@ aliases = ["/e/dojo/2026-07-19-dojo-showcase-2"]
 chronology = ["frpw"]
 venue=["teatr-komuna"]
 [extra]
-orgs = ["dojo"]
+orgs = ["frpw"]
 city = "Warszawa"
 toclevel = 2
 has_video = false

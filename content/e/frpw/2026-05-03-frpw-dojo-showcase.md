@@ -7,7 +7,7 @@ aliases = ["/e/ppw/2026-05-03-ewenement-dojo-showcase", "/e/ppw/2026-05-03-ppw-e
 chronology = ["ppw", "frpw"]
 venue = ["2kola"]
 [extra]
-orgs = ["ppw", "dojo"]
+orgs = ["ppw", "frpw"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
