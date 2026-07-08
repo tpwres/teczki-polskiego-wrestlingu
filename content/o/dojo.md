@@ -9,6 +9,7 @@ chrono_root = ["dojo"]
 [extra]
 toclevel = 3
 hide_roster = true
+hide_events = true
 [extra.gallery]
 +++
 
