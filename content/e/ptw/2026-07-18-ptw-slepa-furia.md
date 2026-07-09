@@ -16,8 +16,9 @@ has_video = false
 
 ## Build-up
 
-* The first person to be announced for the show was ["Starboy" Nano Lopez](@/w/nano-lopez.md), albeit without a match-up.
-* The first match to be announced for this show was a fight for the [PTW Championship](@/c/ptw-championship.md) between the reigning Champion [Spartan](@/w/spartan.md), and the English challenger Jakk Selström.
+* The first person, announced on 8.07.2026, to appear at the show was ["Starboy" Nano Lopez](@/w/nano-lopez.md), albeit without a match-up.
+* The first match, announced later the same day, was a fight for the [PTW Championship](@/c/ptw-championship.md) between the reigning Champion [Spartan](@/w/spartan.md), and the English challenger Jakk Selström.
+* On 9.07.2026 PTW announced a match between Nic Wesker and [Daniel Razor](@/w/daniel-razor.md).
 
 ## Predicted card
 
@@ -29,6 +30,9 @@ has_video = false
   - 'Jakk Selström'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
+- - 'Nic Wesker'
+  - '[Daniel Razor](@/w/daniel-razor.md)'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
