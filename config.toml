@@ -88,8 +88,8 @@ bg = '#a9100b'
 text_fg = '#fbf1c7'
 
 [extra.org_styles.frpw]
-bg = '#f9f9f9'
-text_fg = '#000000'
+bg = '#4747c2'
+text_fg = '#ffffff'
 
 [extra.org_styles.kpw]
 bg = '#133762'
@@ -120,11 +120,11 @@ text_fg = '#ffffff'
 bg = '#4f8ebf'
 text_fg = '#ffffff'
 
+
 [extra.chronology]
 arena = "KPW Arena"
 backyardmania = "Backyardmania"
 beer-expo = "Poznań Beer Expo"
-frpw = "Fundacja Rozwoju Polskiego Wrestlingu"
 godzina-zero = "KPW Godzina Zero"
 international = "International"
 ledwo-legalne = "Ledwo Legalne"
