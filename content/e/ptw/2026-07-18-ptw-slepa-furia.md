@@ -19,6 +19,7 @@ has_video = false
 * The first person, announced on 8.07.2026, to appear at the show was ["Starboy" Nano Lopez](@/w/nano-lopez.md), albeit without a match-up.
 * The first match, announced later the same day, was a fight for the [PTW Championship](@/c/ptw-championship.md) between the reigning Champion [Spartan](@/w/spartan.md), and the English challenger Jakk Selström.
 * On 9.07.2026 PTW announced a match between Nic Wesker and [Daniel Razor](@/w/daniel-razor.md).
+* Later the same day came the announcement of [CJ Klakson](@/w/cj-klakson.md) vs Stan the Slav.
 
 ## Predicted card
 
@@ -32,6 +33,9 @@ has_video = false
     nc: upcoming
 - - 'Nic Wesker'
   - '[Daniel Razor](@/w/daniel-razor.md)'
+  - nc: upcoming
+- - '[CJ Klakson](@/w/cj-klakson.md)'
+  - 'Stan the Slav'
   - nc: upcoming
 {% end %}
 
