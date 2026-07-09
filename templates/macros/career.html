@@ -32,6 +32,8 @@
     {% include "badges/splat.html" %}
   {% elif code == "dojo" %}
     {% include "badges/edojo.html" %}
+  {% elif code == "wsw" %}
+    {% include "badges/wsw.html" %}
   {% elif code == "ryucon" %}
     {% include "badges/ryu.html" %}
   {% elif code == "pyrkon" %}
@@ -86,6 +88,8 @@
     {% include "badges/splat.html" -%}
   {% elif code == "dojo" -%}
     {% include "badges/edojo.html" -%}
+  {% elif code == "wsw" %}
+    {% include "badges/wsw.html" %}
   {% elif code == "ryucon" -%}
     {% include "badges/ryu.html" -%}
   {% elif code == "pyrkon" -%}
@@ -171,6 +175,8 @@
       {% include "badges/piwg.html" %}
     {% elif org == "twf" %}
       {% include "badges/twf.html" %}
+    {% elif org == "wsw" %}
+      {% include "badges/wsw.html" %}
     {% else %}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};
