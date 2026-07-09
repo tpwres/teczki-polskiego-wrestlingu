@@ -16,11 +16,15 @@ has_video = false
 
 ## Build-up
 
+* The first person to be announced for the show was ["Starboy" Nano Lopez](@/w/nano-lopez.md), albeit without a match-up.
 * The first match to be announced for this show was a fight for the [PTW Championship](@/c/ptw-championship.md) between the reigning Champion [Spartan](@/w/spartan.md), and the English challenger Jakk Selström.
 
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '???'
+  - nc: upcoming
 - - '[Spartan](@/w/spartan.md)(c)'
   - 'Jakk Selström'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
