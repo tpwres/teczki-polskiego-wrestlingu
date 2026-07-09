@@ -16,9 +16,15 @@ has_video = false
 
 ## Build-up
 
-* TBD
+* The first person to be announced for the show was ["Starboy" Nano Lopez](@/w/nano-lopez.md), albeit without a match-up.
 
-{{ skip_card() }}
+## Card
+
+{% card() %}
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+  - '???'
+  - nc: upcoming
+{% end %}
 
 ### Highlights
 
