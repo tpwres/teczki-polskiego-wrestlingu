@@ -88,8 +88,8 @@ bg = '#a9100b'
 text_fg = '#fbf1c7'
 
 [extra.org_styles.frpw]
-bg = '#4747c2'
-text_fg = '#ffffff'
+bg = '#fff'
+text_fg = '#000'
 
 [extra.org_styles.kpw]
 bg = '#133762'
