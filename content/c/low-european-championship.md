@@ -124,7 +124,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
 - - 'Jakub(c)'
   - '[Max Speed](@/w/max-speed.md)'
   - s: Singles Match
-    en: '[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)'
+    en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
     ed: 2026-07-24
     nc: upcoming
 {% end %}
