@@ -115,6 +115,10 @@ text_fg = '#ffffff'
 bg = '#e2e2e2'
 fg = '#590204'
 
+[extra.org_styles.wsw]
+bg = '#f4a232'
+text_fg = '#000'
+
 [extra.chronology]
 arena = "KPW Arena"
 backyardmania = "Backyardmania"
