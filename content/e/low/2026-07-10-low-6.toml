@@ -1,38 +1,39 @@
-001 = { path = "legacy-6-ale-trent-7.webp", caption = "Official poster featuring Trent Seven, [Jakub](@/w/jakub.md) and [Max Speed](@/w/max-speed.md).", source = "Official Legacy Facebook" }
-002 = { path = "nadchodzace-gale.jpg", caption = "Image unveiling the name of the show, featuring [Jakub](@/w/jakub.md).", source = "Official Legacy Facebook" }
-003 = { path = "cut-legacy-wrestling.webp", caption = "The show's Ryucon-themed logo.", source = "Ryucon.pl" }
-004 = { path = "tournee-lesaka.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook", skip_art = true }
-005 = { path = "dziedzister.webp", caption = "Image announcing [Syriusz Dziedzic](@/w/dziedzic.md) vs [Sinister](@/w/sinister.md).", source = "Official Legacy Facebook" }
-006 = { path = "speedman.webp", caption = "Image announcing [Wiktor Longman](@/w/wiktor-longman.md) vs [Max Speed](@/w/max-speed.md).", source = "Official Legacy Facebook" }
-007 = { path = "zefilgierd.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs [Olgierd](@/w/olgierd.md).", source = "Official Legacy Facebook" }
-008 = { path = "zabije-go-wygalaczka-zobaczycie.webp", caption = "Image announcing Trent Seven vs [Jakub](@/w/jakub.md).", source = "Official Legacy Facebook" }
+0001 = { path = "legacy-6-ale-trent-7.webp", caption = "Official poster featuring Trent Seven, [Jakub](@/w/jakub.md) and [Max Speed](@/w/max-speed.md).", source = "Official Legacy Facebook" }
+0002 = { path = "nadchodzace-gale.jpg", caption = "Image unveiling the name of the show, featuring [Jakub](@/w/jakub.md).", source = "Official Legacy Facebook" }
+0003 = { path = "cut-legacy-wrestling.webp", caption = "The show's Ryucon-themed logo.", source = "Ryucon.pl" }
+0004 = { path = "tournee-lesaka.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook", skip_art = true }
+0005 = { path = "dziedzister.webp", caption = "Image announcing [Syriusz Dziedzic](@/w/dziedzic.md) vs [Sinister](@/w/sinister.md).", source = "Official Legacy Facebook" }
+0006 = { path = "speedman.webp", caption = "Image announcing [Wiktor Longman](@/w/wiktor-longman.md) vs [Max Speed](@/w/max-speed.md).", source = "Official Legacy Facebook" }
+0007 = { path = "zefilgierd.webp", caption = "Image announcing [Zefir](@/w/zefir.md) vs [Olgierd](@/w/olgierd.md).", source = "Official Legacy Facebook" }
+0008 = { path = "zabije-go-wygalaczka-zobaczycie.webp", caption = "Image announcing Trent Seven vs [Jakub](@/w/jakub.md).", source = "Official Legacy Facebook" }
 009 = { path = "gauntlet1.webp", caption = "Image announcing [Sam Della Valle](@/w/sam-rogers.md).", source = "Official Legacy Facebook" }
-010 = { path = "obstawiam-ze-anonim-to-chemik.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) & ??? & [Tony Sheen](@/w/riverman.md) vs [Bartosz Plata](@/w/plata.md) & [Disco Pablo](@/w/disco-pablo.md) & [Marcelito](@/w/marcelito.md).", source = "Official Legacy Facebook" }
+0010 = { path = "obstawiam-ze-anonim-to-chemik.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) & ??? & [Tony Sheen](@/w/riverman.md) vs [Bartosz Plata](@/w/plata.md) & [Disco Pablo](@/w/disco-pablo.md) & [Marcelito](@/w/marcelito.md).", source = "Official Legacy Facebook" }
 
-101 = { path = ".webp", caption = ".", source = "M3n747" }
+0101 = { path = ".webp", caption = ".", source = "M3n747" }
 
-102 = { path = ".webp", caption = ".", source = "M3n747" }
+0102 = { path = ".webp", caption = ".", source = "M3n747" }
 
-103 = { path = ".webp", caption = ".", source = "M3n747" }
-104 = { path = ".webp", caption = ".", source = "M3n747" }
-105 = { path = ".webp", caption = ".", source = "M3n747" }
-106 = { path = ".webp", caption = ".", source = "M3n747" }
-107 = { path = ".webp", caption = ".", source = "M3n747" }
-108 = { path = ".webp", caption = ".", source = "M3n747" }
-109 = { path = ".webp", caption = ".", source = "M3n747" }
-110 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
+0103 = { path = ".webp", caption = ".", source = "M3n747" }
+0104 = { path = ".webp", caption = ".", source = "M3n747" }
+0105 = { path = ".webp", caption = ".", source = "M3n747" }
+0106 = { path = ".webp", caption = ".", source = "M3n747" }
+0107 = { path = ".webp", caption = ".", source = "M3n747" }
+0108 = { path = ".webp", caption = ".", source = "M3n747" }
+0109 = { path = ".webp", caption = ".", source = "M3n747" }
+0110 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 
 
 
-201 = { path = ".webp", caption = ".", source = "M3n747" }
-301 = { path = ".webp", caption = ".", source = "M3n747" }
-401 = { path = ".webp", caption = ".", source = "M3n747" }
-501 = { path = ".webp", caption = ".", source = "M3n747" }
-601 = { path = ".webp", caption = ".", source = "M3n747" }
-701 = { path = ".webp", caption = ".", source = "M3n747" }
-801 = { path = ".webp", caption = ".", source = "M3n747" }
-901 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+0201 = { path = ".webp", caption = ".", source = "M3n747" }
+0301 = { path = ".webp", caption = ".", source = "M3n747" }
+0401 = { path = ".webp", caption = ".", source = "M3n747" }
+0501 = { path = ".webp", caption = ".", source = "M3n747" }
+0601 = { path = ".webp", caption = ".", source = "M3n747" }
+0701 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0901 = { path = ".webp", caption = ".", source = "M3n747" }
+1001 = { path = ".webp", caption = ".", source = "M3n747" }
