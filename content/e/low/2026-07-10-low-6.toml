@@ -9,28 +9,35 @@
 009 = { path = "gauntlet1.webp", caption = "Image announcing [Sam Della Valle](@/w/sam-rogers.md).", source = "Official Legacy Facebook" }
 0010 = { path = "obstawiam-ze-anonim-to-chemik.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) & ??? & [Tony Sheen](@/w/riverman.md) vs [Bartosz Plata](@/w/plata.md) & [Disco Pablo](@/w/disco-pablo.md) & [Marcelito](@/w/marcelito.md).", source = "Official Legacy Facebook" }
 
-0101 = { path = ".webp", caption = ".", source = "M3n747" }
+0101 = { path = "ring-przed.webp", caption = "The ring before the show.", source = "M3n747" }
+0102 = { path = "wiktor-tanczy-krakowiaka.webp", caption = "Wiktor D. enters the arena.", source = "M3n747" }
+0103 = { path = "wiktor-sie-stesknil.webp", caption = "Wiktor D. happy to see the ring.", source = "M3n747" }
+0104 = { path = "zwyciezca-dlugi-czlowiek.webp", caption = "[Wiktor D.](@/w/wiktor-longman.md) opens the show.", source = "M3n747" }
+0105 = { path = "dajcie-czlowiekowi-reke.webp", caption = "[Jakub](@/w/jakub.md) offers Trent Seven his hand.", source = "M3n747" }
+0106 = { path = "a-zabierze-caly-palec.webp", caption = "Trent Seven suggests that a single digit ought to be enough.", source = "M3n747" }
 
-0102 = { path = ".webp", caption = ".", source = "M3n747" }
+0201 = { path = "zefir-na-niebiesko.webp", caption = "[Zefir](@/w/zefir.md).", source = "M3n747" }
+0202 = { path = "jakub-kran.webp", caption = "[Jacob Crane](@/w/jacob-crane.md).", source = "M3n747" }
+0203 = { path = "no-nie-dadza-czlowiekowi-chwycic-liny-no.webp", caption = "Jacob Crane pulls Zefir away from the ropes.", source = "M3n747" }
+0204 = { path = "polsko-japonski-zaklad-chiropraktyki-stosowanej.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) holds zefir in a Sharpshooter.", source = "M3n747" }
+0205 = { path = "zefir-w-swoim-zywiole.webp", caption = "Zefir from the top rope.", source = "M3n747" }
+0206 = { path = "no-dobra-z-kranem-przegrac-to-nie-wstyd.webp", caption = "Zefir taps out.", source = "M3n747" }
+0207 = { path = "crane-wygral.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) wins, as declared by [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
 
-0103 = { path = ".webp", caption = ".", source = "M3n747" }
-0104 = { path = ".webp", caption = ".", source = "M3n747" }
-0105 = { path = ".webp", caption = ".", source = "M3n747" }
-0106 = { path = ".webp", caption = ".", source = "M3n747" }
-0107 = { path = ".webp", caption = ".", source = "M3n747" }
-0108 = { path = ".webp", caption = ".", source = "M3n747" }
-0109 = { path = ".webp", caption = ".", source = "M3n747" }
-0110 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
-
-
-
-0201 = { path = ".webp", caption = ".", source = "M3n747" }
-0301 = { path = ".webp", caption = ".", source = "M3n747" }
 0401 = { path = ".webp", caption = ".", source = "M3n747" }
+0402 = { path = ".webp", caption = ".", source = "M3n747" }
+0403 = { path = ".webp", caption = ".", source = "M3n747" }
+0404 = { path = ".webp", caption = ".", source = "M3n747" }
+0405 = { path = ".webp", caption = ".", source = "M3n747" }
+0406 = { path = ".webp", caption = ".", source = "M3n747" }
+0407 = { path = ".webp", caption = ".", source = "M3n747" }
+0408 = { path = ".webp", caption = ".", source = "M3n747" }
+0409 = { path = ".webp", caption = ".", source = "M3n747" }
+0410 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
 0501 = { path = ".webp", caption = ".", source = "M3n747" }
 0601 = { path = ".webp", caption = ".", source = "M3n747" }
 0701 = { path = ".webp", caption = ".", source = "M3n747" }
