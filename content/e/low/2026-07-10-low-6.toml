@@ -30,28 +30,28 @@
 0304 = { path = "utasmowanie-syriusza.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) taped to the top rope.", source = "M3n747" }
 0305 = { path = "ej-to-wbrew-przepisom-bhp.webp", caption = "[Sinister](@/w/sinister.md) smears Dziedzic's blood on his own face.", source = "M3n747" }
 0306 = { path = "ten-stol-jawi-sie-rachitycznym.webp", caption = "A bloodied [Dziedzic](@/w/dziedzic.md) looks as [Sinister](@/w/sinister.md) narrowly escapes dropping onto a table.", source = "M3n747" }
-0307 = { path = "chwycil-kozak-tatarzyna.webp.webp", caption = "Sinister and Dziedzic pull each other by the hair…", source = "M3n747" }
+0307 = { path = "chwycil-kozak-tatarzyna.webp", caption = "Sinister and Dziedzic pull each other by the hair…", source = "M3n747" }
 0308 = { path = "zaden-z-nich-sie-nie-utrzymal.webp", caption = "…and they both hit the table.", source = "M3n747" }
 0309 = { path = "panel-yaoi-to-nie-w-tej-sali.webp", caption = "Sinister about to attempt a pin on Syriusz Dziedzic..", source = "M3n747" }
 0310 = { path = "ten-pan-wygral-gratulujemy.webp", caption = "Syriusz Dziedzic wins the match and thus his freedom.", source = "M3n747" }
 
 0401 = { path = "marceli-przybyl-przypierdzielic.webp", caption = "[Marcelito's](@/w/marcelito.md) entrance.", source = "M3n747" }
-0402 = { path = ".webp", caption = "[Bartosz Plata](@/w/plata.md) poses for the crowd.", source = "M3n747" }
-0403 = { path = ".webp", caption = "[Disco Pablo](@/w/disco-pablo.md) comes in swinging.", source = "M3n747" }
-0404 = { path = ".webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md).", source = "M3n747" }
-0405 = { path = ".webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) spits water in the general direction of the fans.", source = "M3n747" }
-0406 = { path = ".webp", caption = "Biuro Prasowe: [Tony Sheen](@/w/riverman.md), [Arek Paterek](@/w/arek-paterek.md), [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
-0407 = { path = ".webp", caption = "[Tony Sheen](@/w/riverman.md) points out the imbalance in the line-up of the two teams. Or perhaps talks about fish, who can tell.", source = "M3n747" }
-0408 = { path = ".webp", caption = "Bartosz Plata turns on his friends.", source = "M3n747" }
-0409 = { path = ".webp", caption = "[Sambor](@/w/sambor.md) to the rescue.", source = "M3n747" }
-0410 = { path = ".webp", caption = "The members of Biuro Prasowe discuss strategy.", source = "M3n747" }
-0411 = { path = ".webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments Marcelito.", source = "M3n747" }
-0412 = { path = ".webp", caption = "Marcelito third-ropes Tony Sheen.", source = "M3n747" }
-0413 = { path = ".webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md), [Arek Paterek](@/w/arek-paterek.md), [Bartosz Plata](@/w/plata.md) and [Tony Sheen](@/w/riverman.md) celebrate their victory.", source = "M3n747" }
-0414 = { path = ".webp", caption = "Disco Pablo faces the angry [Sambor](@/w/sambor.md).", source = "M3n747" }
-0415 = { path = ".webp", caption = "Sambor looks for spiritual guidance in his mask.", source = "M3n747" }
-0416 = { path = ".webp", caption = "Sambor pounds on Disco Pablo.", source = "M3n747" }
-0417 = { path = ".webp", caption = "It is safe to say that [Sambor](@/w/sambor.md) and Disco Pablo are no longer on speaking terms.", source = "M3n747" }
+0402 = { path = "wyraznie-targaja-nim-sprzeczne-emocje.webp", caption = "[Bartosz Plata](@/w/plata.md) poses for the crowd.", source = "M3n747" }
+0403 = { path = "is-pablo-is-party.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) comes in swinging.", source = "M3n747" }
+0404 = { path = "lesaka-chyba-nie-stac-bo-jest-wyraznie-mniej-gruby.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md).", source = "M3n747" }
+0405 = { path = "mozliwe-przelotne-opady-i-lekkie-zalesaczenia.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) spits water in the general direction of the fans.", source = "M3n747" }
+0406 = { path = "jutro-napisza-o-tym-w-gazecie-w-lokalnym-dodatku-do-dodatku.webp", caption = "Biuro Prasowe: [Tony Sheen](@/w/riverman.md), [Arek Paterek](@/w/arek-paterek.md), [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
+0407 = { path = "gangsterskie-znaki-bandy-niskiego-mintaja.webp", caption = "[Tony Sheen](@/w/riverman.md) points out the imbalance in the line-up of the two teams. Or perhaps talks about fish, who can tell.", source = "M3n747" }
+0408 = { path = "bartosz-plata-pani-dobrodziejka-narzedzie-do-konserwacji-powierzchni-plaskich.webp", caption = "Bartosz Plata turns on his friends.", source = "M3n747" }
+0409 = { path = "odsiecz-samborska.webp", caption = "[Sambor](@/w/sambor.md) to the rescue.", source = "M3n747" }
+0410 = { path = "panowie-to-sie-nazywa-zeszyt-i-otwiera-sie-tak.webp", caption = "The members of Biuro Prasowe discuss strategy.", source = "M3n747" }
+0411 = { path = "a-teraz-przeprowadzimy-ekstrakcje-osemek-przez-nozdrza.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments Marcelito.", source = "M3n747" }
+0412 = { path = "nie-zgasi-mu-swiatla-bo-ryby-z-oczywistych-przyczyn-nie-uzywaja-elektrycznosci.webp", caption = "Marcelito third-ropes Tony Sheen.", source = "M3n747" }
+0413 = { path = "co-komu-po-biurze-skoro-i-tak-nikt-juz-prasy-nie-czyta.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md), [Arek Paterek](@/w/arek-paterek.md), [Bartosz Plata](@/w/plata.md) and [Tony Sheen](@/w/riverman.md) celebrate their victory.", source = "M3n747" }
+0414 = { path = "w-tym-miejscu-padaja-praslowianskie-przeklenstwa.webp", caption = "Disco Pablo faced with the angry [Sambor](@/w/sambor.md).", source = "M3n747" }
+0415 = { path = "jak-zaloze-to-mnie-nie-pozna-i-dalej-bedziemy-kumplami.webp", caption = "Sambor looks for spiritual guidance in his mask.", source = "M3n747" }
+0416 = { path = "powinni-pogadac-przy-antalku-slowianskiego-miodu-to-by-sie-pogodzili.webp", caption = "Sambor pounds on Disco Pablo.", source = "M3n747" }
+0417 = { path = "pucuj-mi-buty-to-moze-kiedys-zostaniesz-milionerem.webp", caption = "It is safe to say that [Sambor](@/w/sambor.md) and Disco Pablo are no longer on speaking terms.", source = "M3n747" }
 
 
 
