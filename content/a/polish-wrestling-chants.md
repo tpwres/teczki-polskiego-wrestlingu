@@ -46,6 +46,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Chcemy krwi") %}xt͡sˈɛmɨ krfˈi{% end %}
 * _Jedziesz z tą kurwą, hej [wrestler], jedziesz z tą kurwą_ - "Fuck this bitch up, [wrestler]": encouraging offense and insulting the opponent at the same time. \
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
+* _Męski seks_ - "Masculine sex": sometimes heard during a match between two good-looking, well-built, half-naked men. \
+  {% ipa(tts="Męski seks") %}mˈɛ̃ski sˈɛks{% end %}
 * _Pokaż cycki_ - "Show your tits": a raunchy chant targeted at female performers (usually when the crowd gets noticeably intoxicated). \
   {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 
 * _Pokaż dupę_ - "Show your ass": when targeted at male performers it's rather a "What?!" chant signifying the persona is boring. Also something of a running joke targeted at [Adrian Zgórski](@/w/adrian-zgorski.md). \
@@ -60,6 +62,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
   {% ipa(tts="Urwij mu łeb") %}ˈurvij mˈu wˈɛp{% end %}
+* _Więcej seksu_ - "More sex": same as "Męski seks". \
+  {% ipa(tts="Więcej seksu") %}vʲˈɛnt͡sɛj sˈɛksu{% end %}
 * _Zabij go_ - "Kill him": encouraging offense. \
   {% ipa(tts="Zabij go") %}zˈabʲij ɡˈɔ{% end %}
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
