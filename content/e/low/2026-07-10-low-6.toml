@@ -101,7 +101,7 @@
 09170 = { path = "czy-kiedykolwiek-w-ringu-ktos-na-stole-po-prostu-jadl.webp", caption = ".", source = "M3n747" }
 09180 = { path = "jakub-tym-razem-wygral-ale-na-jak-dlugo.webp", caption = "[Jakub](@/w/jakub.md) wins and retains his title.", source = "M3n747" }
 09190 = { path = "jakub-just-sits-there-menacingly.webp", caption = "[Jakub](@/w/jakub.md) talks down to [Max Speed](@/w/max-speed.md). Or up, as it were.", source = "M3n747" }
-09200 = { path = "o-wlasnie-musze-nowa-wycieraczke-na-korytarzu-polozyc.webp", caption = [Max Speed](@/w/max-speed.md) makes his ambitions clear.", source = "M3n747" }
+09200 = { path = "o-wlasnie-musze-nowa-wycieraczke-na-korytarzu-polozyc.webp", caption = "[Max Speed](@/w/max-speed.md) makes his ambitions clear.", source = "M3n747" }
 09210 = { path = "ekipa-antyjakubowcow.webp", caption = "Jakub argues with the fans. Sitting on the left in the grey jacket and holding up a phone is Karyna.", source = "M3n747" }
 
 10010 = { path = "adi-mowi-adieu.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) closes the show.", source = "M3n747" }
