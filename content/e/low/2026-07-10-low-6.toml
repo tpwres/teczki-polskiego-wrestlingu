@@ -67,19 +67,20 @@
 0608 = { path = "boro-boro.webp", caption = "Chemik about to hit Boro with his finisher, the Death Valley Driver.", source = "M3n747" }
 0609 = { path = "chemik-poszedl-z-torbami.webp", caption = "[Chemik](@/w/chemik.md) wins the contract briefcase.", source = "M3n747" }
 
-0701 = { path = "fuel-of-the-dates.webp", caption = "Lightsaber show during the break.", source = "M3n747" }
+0699 = { path = "fuel-of-the-dates.webp", caption = "Lightsaber show during the break.", source = "M3n747" }
 
-0801 = { path = ".webp", caption = ".", source = "M3n747" }
-0802 = { path = ".webp", caption = ".", source = "M3n747" }
-0803 = { path = ".webp", caption = ".", source = "M3n747" }
-0804 = { path = ".webp", caption = ".", source = "M3n747" }
-0805 = { path = ".webp", caption = ".", source = "M3n747" }
-0806 = { path = ".webp", caption = ".", source = "M3n747" }
-0807 = { path = ".webp", caption = ".", source = "M3n747" }
-0808 = { path = ".webp", caption = ".", source = "M3n747" }
-0809 = { path = ".webp", caption = ".", source = "M3n747" }
-0810 = { path = ".webp", caption = ".", source = "M3n747" }
+0701 = { path = "maksymilian-wartki.webp", caption = "[Max Speed's](@/w/max-speed.md) entrance.", source = "M3n747" }
+0702 = { path = "mister-scott-warp-factor-max.webp", caption = "Max Speed is so fast, he breaks the speed of light.", source = "M3n747" }
+0703 = { path = "wiktor-is-so-long-and-so-man.webp", caption = "[Wiktor Longman](@/w/wiktor-longman.md) channels his inner Triple H.", source = "M3n747" }
+0704 = { path = "polski-charles-atlas.webp", caption = "[Wiktor Longman](@/w/wiktor-longman.md) flexes his muscles for the fans.", source = "M3n747" }
+0705 = { path = "max-love.webp", caption = "[Max Speed](@/w/max-speed.md) shows his love for the audience.", source = "M3n747" }
+0706 = { path = "round-1-fight.webp", caption = "[Max Speed](@/w/max-speed.md) and [Wiktor Longman](@/w/wiktor-longman.md) face off for the first time in three years.", source = "M3n747" }
+0707 = { path = "this-ones-for-the-ladies.webp", caption = "Wiktor Longman on his knees outside the ring. Sitting behind him, holding a phone, is [Istotna Martynka](@/w/istotna-martynka.md).", source = "M3n747" }
+0708 = { path = "poleze-sobie-tutaj-pomysle-o-zyciu.webp", caption = "[Max Speed](@/w/max-speed.md) has been thrown out of the ring by his opponent.", source = "M3n747" }
+0709 = { path = "sukhasana.webp", caption = "[Wiktor Longman](@/w/wiktor-longman.md) in the lotus position, or close enough.", source = "M3n747" }
+0710 = { path = "max-szybko-sie-wykrwawia.webp", caption = "Bloodied [Max Speed](@/w/max-speed.md) manhandled by Wiktor Longman.", source = "M3n747" }
 
+0801 = { path = "maximum-hug.webp", caption = "Max Speed and Wiktor Longman hug after their match.", source = "M3n747" }
 
 
 
