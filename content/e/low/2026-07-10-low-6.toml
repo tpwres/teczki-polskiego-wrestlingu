@@ -32,7 +32,7 @@
 03060 = { path = "ten-stol-jawi-sie-rachitycznym.webp", caption = "A bloodied [Dziedzic](@/w/dziedzic.md) looks as [Sinister](@/w/sinister.md) narrowly escapes dropping onto a table.", source = "M3n747" }
 03070 = { path = "chwycil-kozak-tatarzyna.webp", caption = "Sinister and Dziedzic pull each other by the hair…", source = "M3n747" }
 03080 = { path = "zaden-z-nich-sie-nie-utrzymal.webp", caption = "…and they both hit the table.", source = "M3n747" }
-03090 = { path = "panel-yaoi-to-nie-w-tej-sali.webp", caption = "Sinister about to attempt a pin on Syriusz Dziedzic..", source = "M3n747" }
+03090 = { path = "panel-yaoi-to-nie-w-tej-sali.webp", caption = "Sinister about to attempt a pin on Syriusz Dziedzic.", source = "M3n747" }
 03100 = { path = "ten-pan-wygral-gratulujemy.webp", caption = "Syriusz Dziedzic wins the match and thus his freedom.", source = "M3n747" }
 
 04010 = { path = "marceli-przybyl-przypierdzielic.webp", caption = "[Marcelito's](@/w/marcelito.md) entrance.", source = "M3n747" }
@@ -54,8 +54,8 @@
 04170 = { path = "pucuj-mi-buty-to-moze-kiedys-zostaniesz-milionerem.webp", caption = "It is safe to say that [Sambor](@/w/sambor.md) and Disco Pablo are no longer on speaking terms.", source = "M3n747" }
 
 05010 = { path = "ten-tamten-i-ten-drugi-a-wlasciwie-pierwszy.webp", caption = "Patrykos and [Oskar Haller](@/w/oskar-haller.md).", source = "M3n747" }
-05020 = { path = "przy-takim-brzuchu-to-mu-pas-niepotrzebny.webp", caption = ".", source = "M3n747" }
-05030 = { path = "takie-piwo-to-najwyzej-do-podlewania-piwonii.webp", caption = ".", source = "M3n747" }
+05020 = { path = "przy-takim-brzuchu-to-mu-pas-niepotrzebny.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) with his [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
+05030 = { path = "takie-piwo-to-najwyzej-do-podlewania-piwonii.webp", caption = "Marco Hammers partakes of some beer.", source = "M3n747" }
 
 06010 = { path = "wloski-wloch-z-wloch.webp", caption = "[Sam Della Valle](@/w/sam-rogers.md) enters carrying a can of what just as well could be a deodorant, or a bear spray.", source = "M3n747" }
 06020 = { path = "there-is-absolutely-nothing-inappropriate-about-this-man.webp", caption = "[Boro's](@/w/boro.md) entrance is as sexy as ever.", source = "M3n747" }
