@@ -97,6 +97,8 @@ From 2024 onwards Chemik made a few appearances for Finland-based federation SLA
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
+* [Legacy of Wrestling](@/o/low.md):
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) Contract Six-Man Gauntlet Match (2026)
 
 ## Internet presence
 

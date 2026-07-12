@@ -121,6 +121,11 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - s: Singles Match
     en: '[Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md)'
     ed: 2026-07-10
+- - 'Jakub(c)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - s: Singles Match
+    en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
+    ed: 2026-07-24
     nc: upcoming
 {% end %}
 
