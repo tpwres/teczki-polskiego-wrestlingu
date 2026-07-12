@@ -63,17 +63,24 @@
 0604 = { path = "somebody-better-call-the-chief-of-police.webp", caption = "Boro appears to enjoy Filip Fux's improper dancing a tad too much.", source = "M3n747" }
 0605 = { path = "mamy-lysego-szalikowca-w-domu.webp", caption = "[Chemik](@/w/chemik.md) enters the match.", source = "M3n747" }
 0606 = { path = "scuzi-wir-brauchen-fux-ausgeschlagen-ja-grazie.webp", caption = "Chemik asks Sam Della Valle to cooperate.", source = "M3n747" }
-0607 = { path = ".webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) tactically laces his shoe.", source = "M3n747" }
-0608 = { path = ".webp", caption = "Chemik about to hit Boro with his finisher, the Death Valley Driver.", source = "M3n747" }
-0609 = { path = ".webp", caption = "[Chemik](@/w/chemik.md) wins the contract briefcase.", source = "M3n747" }
+0607 = { path = "panowie-zaczekaja-momencik-prosze.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) tactically laces his shoe.", source = "M3n747" }
+0608 = { path = "boro-boro.webp", caption = "Chemik about to hit Boro with his finisher, the Death Valley Driver.", source = "M3n747" }
+0609 = { path = "chemik-poszedl-z-torbami.webp", caption = "[Chemik](@/w/chemik.md) wins the contract briefcase.", source = "M3n747" }
 
+0701 = { path = "fuel-of-the-dates.webp", caption = "Lightsaber show during the break.", source = "M3n747" }
 
-
-
-
-
-
-0701 = { path = ".webp", caption = ".", source = "M3n747" }
 0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+0801 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
 0901 = { path = ".webp", caption = ".", source = "M3n747" }
 1001 = { path = ".webp", caption = ".", source = "M3n747" }
