@@ -13,6 +13,8 @@
 01020 = { path = "wiktor-tanczy-krakowiaka.webp", caption = "Wiktor D. enters the arena.", source = "M3n747" }
 01030 = { path = "wiktor-sie-stesknil.webp", caption = "Wiktor D. happy to see the ring.", source = "M3n747" }
 01040 = { path = "zwyciezca-dlugi-czlowiek.webp", caption = "[Wiktor D.](@/w/wiktor-longman.md) opens the show.", source = "M3n747" }
+01041 = { path = "kz-DSC08137.jpg", caption = "Trent Seven and Wiktor D. shake hands.", source = "Krzysztof Zych" }
+01042 = { path = "kz-DSC08172.jpg", caption = "[Jakub](@/w/jakub.md) pointing a toothpick at the crowd.", source = "Krzysztof Zych" }
 01050 = { path = "dajcie-czlowiekowi-reke.webp", caption = "[Jakub](@/w/jakub.md) offers Trent Seven his hand.", source = "M3n747" }
 01060 = { path = "a-zabierze-caly-palec.webp", caption = "Trent Seven suggests that a single digit ought to be enough.", source = "M3n747" }
 
@@ -20,13 +22,21 @@
 02020 = { path = "jakub-kran.webp", caption = "[Jacob Crane](@/w/jacob-crane.md).", source = "M3n747" }
 02030 = { path = "no-nie-dadza-czlowiekowi-chwycic-liny-no.webp", caption = "Jacob Crane pulls Zefir away from the ropes.", source = "M3n747" }
 02040 = { path = "polsko-japonski-zaklad-chiropraktyki-stosowanej.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) holds zefir in a Sharpshooter.", source = "M3n747" }
+02042 = { path = "kz-DSC08342.jpg", caption = "Jacob Crane bodyslams Zefir.", source = "Krzysztof Zych" }
+02043 = { path = "kz-DSC08318.jpg", caption = "[Zefir](@/w/zefir.md) in flight.", source = "Krzysztof Zych" }
 02050 = { path = "zefir-w-swoim-zywiole.webp", caption = "Zefir from the top rope.", source = "M3n747" }
+02051 = { path = "kz-DSC08399.jpg", caption = "Zefir from the top rope, another angle.", source = "Krzysztof Zych" }
 02060 = { path = "no-dobra-z-kranem-przegrac-to-nie-wstyd.webp", caption = "Zefir taps out.", source = "M3n747" }
 02070 = { path = "crane-wygral.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) wins, as declared by [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
 
+03001 = { path = "kz-DSC08454.jpg", caption = "[Wiktor D.](@/w/wiktor-longman.md) hands over ring announcing duties to [Adrian](@/w/adrian-zgorski.md).", source = "Krzysztof Zych" }
+03002 = { path = "kz-DSC08479.jpg", caption = "Who's that [Pokémon](@/w/sinister.md)?", source = "Krzysztof Zych" }
 03010 = { path = "dawid-syrczewski.webp", caption = "[Sinister](@/w/sinister.md).", source = "M3n747" }
 03020 = { path = "dziedzic-pruski.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) interacts with the crowd on his way to the ring.", source = "M3n747" }
+03021 = { path = "kz-DSC08504.jpg", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) lifting [Sinister](@/w/sinister.md) on the entrance ramp.", source = "Krzysztof Zych" }
 03030 = { path = "cos-ty-sie-w-siec-od-rivermana-ubral-czy-co.webp", caption = "Dziedzic at the feet of his [former master](@/w/sinister.md).", source = "M3n747" }
+03031 = { path = "kz-DSC08556.jpg", caption = "[Sinister](@/w/sinister.md) wielding a kendo stick.", source = "Krzysztof Zych" }
+03032 = { path = "kz-DSC08679.jpg", caption = "[Sinister](@/w/sinister.md) pins Dziedzic in the ring, in a Falls Count Anywhere match.", source = "Krzysztof Zych" }
 03040 = { path = "utasmowanie-syriusza.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) taped to the top rope.", source = "M3n747" }
 03050 = { path = "ej-to-wbrew-przepisom-bhp.webp", caption = "[Sinister](@/w/sinister.md) smears Dziedzic's blood on his own face.", source = "M3n747" }
 03060 = { path = "ten-stol-jawi-sie-rachitycznym.webp", caption = "A bloodied [Dziedzic](@/w/dziedzic.md) looks as [Sinister](@/w/sinister.md) narrowly escapes dropping onto a table.", source = "M3n747" }
@@ -36,19 +46,30 @@
 03100 = { path = "ten-pan-wygral-gratulujemy.webp", caption = "Syriusz Dziedzic wins the match and thus his freedom.", source = "M3n747" }
 
 04010 = { path = "marceli-przybyl-przypierdzielic.webp", caption = "[Marcelito's](@/w/marcelito.md) entrance.", source = "M3n747" }
+04011 = { path = "kz-DSC08817.jpg", caption = "[Bartosz Plata's](@/w/plata.md) energetic entrance.", source = "Krzysztof Zych" }
 04020 = { path = "wyraznie-targaja-nim-sprzeczne-emocje.webp", caption = "[Bartosz Plata](@/w/plata.md) poses for the crowd.", source = "M3n747" }
 04030 = { path = "is-pablo-is-party.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) comes in swinging.", source = "M3n747" }
 04040 = { path = "lesaka-chyba-nie-stac-bo-jest-wyraznie-mniej-gruby.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md).", source = "M3n747" }
 04050 = { path = "mozliwe-przelotne-opady-i-lekkie-zalesaczenia.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) spits water in the general direction of the fans.", source = "M3n747" }
 04060 = { path = "jutro-napisza-o-tym-w-gazecie-w-lokalnym-dodatku-do-dodatku.webp", caption = "Biuro Prasowe: [Tony Sheen](@/w/riverman.md), [Arek Paterek](@/w/arek-paterek.md), [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
 04070 = { path = "gangsterskie-znaki-bandy-niskiego-mintaja.webp", caption = "[Tony Sheen](@/w/riverman.md) points out the imbalance in the line-up of the two teams. Or perhaps talks about fish, who can tell.", source = "M3n747" }
+04071 = { path = "kz-DSC09066.jpg", caption = "[Tony Sheen](@/w/riverman.md) and [Eryk Lesak](@/w/eryk-lesak.md) attempt counting to three on their fingers.", source = "M3n747" }
 04080 = { path = "bartosz-plata-pani-dobrodziejka-narzedzie-do-konserwacji-powierzchni-plaskich.webp", caption = "Bartosz Plata turns on his friends.", source = "M3n747" }
+04089 = { path = "kz-DSC09111.jpg", caption = "[Sambor's](@/w/sambor.md) surprise entrance", source = "Krzysztof Zych" }
 04090 = { path = "odsiecz-samborska.webp", caption = "[Sambor](@/w/sambor.md) to the rescue.", source = "M3n747" }
 04100 = { path = "panowie-to-sie-nazywa-zeszyt-i-otwiera-sie-tak.webp", caption = "The members of Biuro Prasowe discuss strategy.", source = "M3n747" }
+04101 = { path = "kz-DSC09143.jpg", caption = "[Sambor](@/w/sambor.md) runs wildly into Bartosz Plata, while [Tony Sheen](@/w/riverman.md) and [Eryk Lesak](@/w/eryk-lesak.md) observe.", source = "Krzysztof Zych" }
+04102 = { path = "kz-DSC09272.jpg", caption = "[Bartosz Plata](@/w/eryk-lesak.md) bends Marcelito in half.", source = "Krzysztof Zych" }
+04103 = { path = "kz-DSC09224.jpg", caption = "[Arek Paterek](@/w/arek-paterek.md) shooting icy glares at the audience.", source = "Krzysztof Zych" }
+04104 = { path = "kz-DSC09258.jpg", caption = "[Bartosz Plata](@/w/plata.md) belly-flops onto Marcelito.", source = "Krzysztof Zych" }
 04110 = { path = "a-teraz-przeprowadzimy-ekstrakcje-osemek-przez-nozdrza.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments Marcelito.", source = "M3n747" }
+04111 = { path = "kz-DSC09361.jpg", caption = "[Eryk Lesak](@/w/eryk-lesak.md) delivers a Hammerblow to Sambor.", source = "Krzysztof Zych" }
+04112 = { path = "kz-DSC09376.jpg", caption = "[Sambor](@/w/sambor.md) dramatically hot-tags to Disco Pablo.", source = "Krzysztof Zych" }
 04120 = { path = "nie-zgasi-mu-swiatla-bo-ryby-z-oczywistych-przyczyn-nie-uzywaja-elektrycznosci.webp", caption = "Marcelito third-ropes Tony Sheen.", source = "M3n747" }
+04121 = { path = "kz-DSC09446.jpg", caption = "Bartosz Plata hits a flying lariat on Marcelito, himself stacked on Eryk Lesak's shoulders.", source = "Krzysztof Zych" }
 04130 = { path = "co-komu-po-biurze-skoro-i-tak-nikt-juz-prasy-nie-czyta.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md), [Arek Paterek](@/w/arek-paterek.md), [Bartosz Plata](@/w/plata.md) and [Tony Sheen](@/w/riverman.md) celebrate their victory.", source = "M3n747" }
 04140 = { path = "w-tym-miejscu-padaja-praslowianskie-przeklenstwa.webp", caption = "Disco Pablo faced with the angry [Sambor](@/w/sambor.md).", source = "M3n747" }
+04141 = { path = "kz-DSC09525.jpg", caption = "Sambor hits a Szczerbiec on Disco Pablo.", source = "Krzysztof Zych" }
 04150 = { path = "jak-zaloze-to-mnie-nie-pozna-i-dalej-bedziemy-kumplami.webp", caption = "Sambor looks for spiritual guidance in his mask.", source = "M3n747" }
 04160 = { path = "powinni-pogadac-przy-antalku-slowianskiego-miodu-to-by-sie-pogodzili.webp", caption = "Sambor pounds on Disco Pablo.", source = "M3n747" }
 04170 = { path = "pucuj-mi-buty-to-moze-kiedys-zostaniesz-milionerem.webp", caption = "It is safe to say that [Sambor](@/w/sambor.md) and Disco Pablo are no longer on speaking terms.", source = "M3n747" }
@@ -57,15 +78,19 @@
 05020 = { path = "przy-takim-brzuchu-to-mu-pas-niepotrzebny.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) with his [MZW Championship](@/c/mzw-championship.md).", source = "M3n747" }
 05030 = { path = "takie-piwo-to-najwyzej-do-podlewania-piwonii.webp", caption = "Marco Hammers partakes of some beer.", source = "M3n747" }
 
+06009 = { path = "kz-DSC09558.jpg", caption = "[Sam Della Valle](@/w/sam-rogers.md) fixes his hair at the last moment.", source = "Krzysztof Zych" }
 06010 = { path = "wloski-wloch-z-wloch.webp", caption = "[Sam Della Valle](@/w/sam-rogers.md) enters carrying a can of what just as well could be a deodorant, or a bear spray.", source = "M3n747" }
 06020 = { path = "there-is-absolutely-nothing-inappropriate-about-this-man.webp", caption = "[Boro's](@/w/boro.md) entrance is as sexy as ever.", source = "M3n747" }
 06030 = { path = "pszem-bardzo-kwiatuszka.webp", caption = "[Boro](@/w/boro.md) offers a rose to [Sam Della Valle](@/w/sam-rogers.md).", source = "M3n747" }
 06040 = { path = "somebody-better-call-the-chief-of-police.webp", caption = "Boro appears to enjoy Filip Fux's improper dancing a tad too much.", source = "M3n747" }
 06050 = { path = "mamy-lysego-szalikowca-w-domu.webp", caption = "[Chemik](@/w/chemik.md) enters the match.", source = "M3n747" }
+06051 = { path = "kz-DSC09673.jpg", caption = "[Filip Fux](@/w/filip-fux.md) runs in.", source = "Krzysztof Zych" }
+06052 = { path = "kz-DSC09731.jpg", caption = "[Sam Della Vale](@/w/sam-rogers.md) elbow-drops Filip Fux.", source = "Krzysztof Zych" }
 06060 = { path = "scuzi-wir-brauchen-fux-ausgeschlagen-ja-grazie.webp", caption = "Chemik asks Sam Della Valle to cooperate.", source = "M3n747" }
 06070 = { path = "panowie-zaczekaja-momencik-prosze.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) tactically laces his shoe.", source = "M3n747" }
 06080 = { path = "boro-boro.webp", caption = "Chemik about to hit Boro with his finisher, the Death Valley Driver.", source = "M3n747" }
 06090 = { path = "chemik-poszedl-z-torbami.webp", caption = "[Chemik](@/w/chemik.md) wins the contract briefcase.", source = "M3n747" }
+06091 = { path = "kz-DSC09878.jpg", caption = "Chemik walks away with the briefcase, towards Wejherowo.", source = "Krzysztof Zych" }
 
 06990 = { path = "fuel-of-the-dates.webp", caption = "Lightsaber show during the break.", source = "M3n747" }
 
@@ -75,9 +100,12 @@
 07040 = { path = "polski-charles-atlas.webp", caption = "[Wiktor Longman](@/w/wiktor-longman.md) flexes his muscles for the fans.", source = "M3n747" }
 07050 = { path = "max-love.webp", caption = "[Max Speed](@/w/max-speed.md) shows his love for the audience.", source = "M3n747" }
 07060 = { path = "round-1-fight.webp", caption = "[Max Speed](@/w/max-speed.md) and [Wiktor Longman](@/w/wiktor-longman.md) face off for the first time in three years.", source = "M3n747" }
-07070 = { path = "this-ones-for-the-ladies.webp", caption = "Wiktor Longman on his knees outside the ring. Sitting behind him, holding a phone, is [Istotna Martynka](@/w/istotna-martynka.md).", source = "M3n747" }
+07070 = { path = "this-ones-for-the-ladies.webp", caption = "Wiktor Longman on his knees outside the ring. Sitting behind him, holding a phone, is [Istotna Martynka](@/w/istotna-martynka.md) live-streaming the show.", source = "M3n747" }
+07071 = { path = "kz-DSC100036.jpg", caption = "Max speed dropped on the ring so hard, he rebounded.", source = "Krzysztof Zych" }
 07080 = { path = "poleze-sobie-tutaj-pomysle-o-zyciu.webp", caption = "[Max Speed](@/w/max-speed.md) has been thrown out of the ring by his opponent.", source = "M3n747" }
 07090 = { path = "sukhasana.webp", caption = "[Wiktor Longman](@/w/wiktor-longman.md) in the lotus position, or close enough.", source = "M3n747" }
+07091 = { path = "kz-DSC100201.jpg", caption = "[Wiktor Longman](@/w/wiktor-longman.md) delivers an F5 to Max Speed.", source = "Krzysztof Zych" }
+07092 = { path = "kz-DSC100239.jpg", caption = "[Wiktor Longman](@/w/wiktor-longman.md) sets up a sitout piledriver on Max Speed.", source = "Krzysztof Zych" }
 07100 = { path = "max-szybko-sie-wykrwawia.webp", caption = "Bloodied [Max Speed](@/w/max-speed.md) manhandled by Wiktor Longman.", source = "M3n747" }
 
 08010 = { path = "maximum-hug.webp", caption = "Max Speed and Wiktor Longman hug after their match.", source = "M3n747" }
@@ -92,6 +120,7 @@
 09080 = { path = "ciekawe-czy-odbiera-nim-sowieckie-sygnaly.webp", caption = "[Jakub](@/w/jakub.md) manhandles Trent Seven, as Sędzia Seweryn counts him out. Or perhaps talks about unicorns, it isn't clear.", source = "M3n747" }
 09090 = { path = "niegrzeczny-kubus-wyciska-prezenty-ze-sw-mikolaja.webp", caption = "[Jakub](@/w/jakub.md) chokes Trent against a rope, which [Sędzia Seweryn](@/w/sedzia-seweryn.md) finds unsportsmanlike.", source = "M3n747" }
 09100 = { path = "spoiler-nie-uda-mu-sie.webp", caption = "[Jakub](@/w/jakub.md) attempts a pin.", source = "M3n747" }
+09101 = { path = "kz-DSC100485.jpg", caption = "Trent Seven about to break Jakub's fingers.", source = "Krzysztof Zych" }
 09110 = { path = "zart-sam-cisnie-sie-na-usta-ale-nie.webp", caption = "Trent Seven was this close to victory, according to [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
 09120 = { path = "przebiegly-niczym-lis.webp", caption = "Jakub begs Trent for mercy…", source = "M3n747" }
 09130 = { path = "idealny-moment-na-zatrzasniecie-potrzasku.webp", caption = "…which is a ruse to hit the Englishman in the nethers…", source = "M3n747" }
@@ -99,7 +128,10 @@
 09150 = { path = "zara-dostanie-pasem-po-tylku.webp", caption = "With the referee out, [Jakub](@/w/jakub.md) looks to cheat.", source = "M3n747" }
 09160 = { path = "sewi-nie-umieraj.webp", caption = "Jakub doubts the semi-conscious Sędzia Seweryn and his two-count.", source = "M3n747" }
 09170 = { path = "czy-kiedykolwiek-w-ringu-ktos-na-stole-po-prostu-jadl.webp", caption = "[Jakub](@/w/jakub.md) prepares a table.", source = "M3n747" }
+09171 = { path = "kz-DSC100679.jpg", caption = "Milliseconds before breaking the table.", source = "Krzysztof Zych" }
+09172 = { path = "kz-DSC100693.jpg", caption = "Jakub thanks the fans for their support.", source = "Krzysztof Zych" }
 09180 = { path = "jakub-tym-razem-wygral-ale-na-jak-dlugo.webp", caption = "[Jakub](@/w/jakub.md) wins and retains his title.", source = "M3n747" }
+09181 = { path = "kz-DSC100818.jpg", caption = "And still [Legacy of Wrestling European Champion](@/c/low-european-championship.md), [Jakub](@/w/jakub.md).", source = "Krzysztof Zych" }
 09190 = { path = "jakub-just-sits-there-menacingly.webp", caption = "[Jakub](@/w/jakub.md) talks down to [Max Speed](@/w/max-speed.md). Or up, as it were.", source = "M3n747" }
 09200 = { path = "o-wlasnie-musze-nowa-wycieraczke-na-korytarzu-polozyc.webp", caption = "[Max Speed](@/w/max-speed.md) makes his ambitions clear.", source = "M3n747" }
 09210 = { path = "ekipa-antyjakubowcow.webp", caption = "Jakub argues with the fans. Sitting on the left in the grey jacket and holding up a phone is Karyna.", source = "M3n747" }
