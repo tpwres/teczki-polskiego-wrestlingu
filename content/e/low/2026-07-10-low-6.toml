@@ -65,7 +65,7 @@
 06060 = { path = "scuzi-wir-brauchen-fux-ausgeschlagen-ja-grazie.webp", caption = "Chemik asks Sam Della Valle to cooperate.", source = "M3n747" }
 06070 = { path = "panowie-zaczekaja-momencik-prosze.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) tactically laces his shoe.", source = "M3n747" }
 06080 = { path = "boro-boro.webp", caption = "Chemik about to hit Boro with his finisher, the Death Valley Driver.", source = "M3n747" }
-06090 = { path = "chemik-poszedl-z-torbami.webp", caption = "[Chemik](@/w/chemik.md) wins the contract briefcase.", source = "M3n747" }0
+06090 = { path = "chemik-poszedl-z-torbami.webp", caption = "[Chemik](@/w/chemik.md) wins the contract briefcase.", source = "M3n747" }
 
 06990 = { path = "fuel-of-the-dates.webp", caption = "Lightsaber show during the break.", source = "M3n747" }
 
@@ -82,37 +82,27 @@
 
 08010 = { path = "maximum-hug.webp", caption = "Max Speed and Wiktor Longman hug after their match.", source = "M3n747" }
 
+09010 = { path = "piekny-supelek-7-na-10.webp", caption = "Trent Seven.", source = "M3n747" }
+09020 = { path = "ujecie-godne-leni-riefenstahl.webp", caption = "[Jakub](@/w/jakub.md).", source = "M3n747" }
+09030 = { path = "w-sumie-czemu-zawsze-tylko-heele-wychodza-z-wykalaczkami-w-zebach.webp", caption = "[Jakub](@/w/jakub.md) poses for the crowd.", source = "M3n747" }
+09040 = { path = "0111b-razy-z-rzedu.webp", caption = "Trent Seven hits Jakub seven times.", source = "M3n747" }
+09050 = { path = "chodz-na-kolanka.webp", caption = "A dynamic shot of Jakub being thrown by Seven into the crowd.", source = "M3n747" }
+09060 = { path = "czy-to-krzeslo-jest-wolne-chcialbym-nim-strzelic-kolege.webp", caption = "The fight moves to the back seats.", source = "M3n747" }
+09070 = { path = "the-sewiweight-champion-of-poland.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) orders the wrestlers back into the ring.", source = "M3n747" }
+09080 = { path = "ciekawe-czy-odbiera-nim-sowieckie-sygnaly.webp", caption = [Jakub](@/w/jakub.md) manhandles Trent Seven, as Sędzia Seweryn counts him out. Or perhaps talks about unicorns, it isn't clear.", source = "M3n747" }
+09090 = { path = "niegrzeczny-kubus-wyciska-prezenty-ze-sw-mikolaja.webp", caption = "[Jakub](@/w/jakub.md) chokes Trent against a rope, which [Sędzia Seweryn](@/w/sedzia-seweryn.md) finds unsportsmanlike.", source = "M3n747" }
+09100 = { path = "spoiler-nie-uda-mu-sie.webp", caption = "[Jakub](@/w/jakub.md) attempts a pin.", source = "M3n747" }
+09110 = { path = "zart-sam-cisnie-sie-na-usta-ale-nie.webp", caption = "Trent Seven was this close to victory, according to [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "M3n747" }
+09120 = { path = "przebiegly-niczym-lis.webp", caption = "Jakub begs Trent for mercy…", source = "M3n747" }
+09130 = { path = "idealny-moment-na-zatrzasniecie-potrzasku.webp", caption = "…which is a ruse to hit the Englishman in the nethers…", source = "M3n747" }
+09140 = { path = "ino-ze-sam-wen-wpadl-wiec-no.webp", caption = "…but it backfires, as Seven proves to have _cojones_ of steel.", source = "M3n747" }
+09150 = { path = "zara-dostanie-pasem-po-tylku.webp", caption = "With the referee out, [Jakub](@/w/jakub.md) looks to cheat.", source = "M3n747" }
+09160 = { path = "sewi-nie-umieraj.webp", caption = "Jakub doubts the semi-conscious Sędzia Seweryn and his two-count.", source = "M3n747" }
+09170 = { path = "czy-kiedykolwiek-w-ringu-ktos-na-stole-po-prostu-jadl.webp", caption = ".", source = "M3n747" }
+09180 = { path = "jakub-tym-razem-wygral-ale-na-jak-dlugo.webp", caption = "[Jakub](@/w/jakub.md) wins and retains his title.", source = "M3n747" }
+09190 = { path = "jakub-just-sits-there-menacingly.webp", caption = "[Jakub](@/w/jakub.md) talks down to [Max Speed](@/w/max-speed.md). Or up, as it were.", source = "M3n747" }
+09200 = { path = "o-wlasnie-musze-nowa-wycieraczke-na-korytarzu-polozyc.webp", caption = [Max Speed](@/w/max-speed.md) makes his ambitions clear.", source = "M3n747" }
+09210 = { path = "ekipa-antyjakubowcow.webp", caption = "Jakub argues with the fans. Sitting on the left in the grey jacket and holding up a phone is Karyna.", source = "M3n747" }
 
-09010 = { path = ".webp", caption = "", source = "M3n747" }
-09020 = { path = ".webp", caption = "", source = "M3n747" }
-09030 = { path = ".webp", caption = "", source = "M3n747" }
-09040 = { path = ".webp", caption = "", source = "M3n747" }
-09050 = { path = ".webp", caption = "", source = "M3n747" }
-09060 = { path = ".webp", caption = "", source = "M3n747" }
-09070 = { path = ".webp", caption = "", source = "M3n747" }
-09080 = { path = ".webp", caption = "", source = "M3n747" }
-09090 = { path = ".webp", caption = "", source = "M3n747" }
-09100 = { path = ".webp", caption = "", source = "M3n747" }
-09110 = { path = ".webp", caption = "", source = "M3n747" }
-09120 = { path = ".webp", caption = "", source = "M3n747" }
-09130 = { path = ".webp", caption = "", source = "M3n747" }
-09140 = { path = ".webp", caption = "", source = "M3n747" }
-09150 = { path = ".webp", caption = "", source = "M3n747" }
-09160 = { path = ".webp", caption = "", source = "M3n747" }
-09170 = { path = ".webp", caption = "", source = "M3n747" }
-09180 = { path = ".webp", caption = "", source = "M3n747" }
-09190 = { path = ".webp", caption = "", source = "M3n747" }
-09200 = { path = ".webp", caption = "", source = "M3n747" }
-09210 = { path = ".webp", caption = "", source = "M3n747" }
-09220 = { path = ".webp", caption = "", source = "M3n747" }
-09230 = { path = ".webp", caption = "", source = "M3n747" }
-09240 = { path = ".webp", caption = "", source = "M3n747" }
-09250 = { path = ".webp", caption = "", source = "M3n747" }
-09260 = { path = ".webp", caption = "", source = "M3n747" }
-09270 = { path = ".webp", caption = "", source = "M3n747" }
-09280 = { path = ".webp", caption = "", source = "M3n747" }
-
-
-
-
-10010 = { path = ".webp", caption = ".", source = "M3n747" }
+10010 = { path = "adi-mowi-adieu.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md) closes the show.", source = "M3n747" }
+10020 = { path = "hala-po-gali.webp", caption = "View of the arena after the event.", source = "M3n747" }
