@@ -38,7 +38,7 @@ has_video = true
   - 'Andi ZickZack'
 - - '[El G](@/w/el-g.md)'
   - '[Luca Bjorn](@/w/luca-bjorn.md)'
-  - 'Nic Wesker'
+  - '[Nic Wesker](@/w/nic-wesker.md)'
   - 'Pedro'
   - 'Ricky Eagle'
   - s: Fatal 5-way International Showcase Match
@@ -84,7 +84,7 @@ has_video = true
 * Diana defeated Lucy Couture in a fairly short match, retaining her GLAM! Women's Championship.
 * Spartan defeated Flex Skywalker in a short match.
 * Sigma Boy xD defeated Andi ZickZack in a competitive, fast-paced match.
-* Skwarczyński proceeded to announce a Fatal 5-Way International Showcase Match including four Italian competitors and one from Austria - not revealed before the show. It featured two debuting stars: Nic Wesker from Austria and Ricky Eagle from Italy (mistakenly announced as Rick Eagle). El G won, stealing a victory from Luca Bjorn once again.
+* Skwarczyński proceeded to announce a Fatal 5-Way International Showcase Match including four Italian competitors and one from Austria - not revealed before the show. It featured two debuting stars: [Nic Wesker](@/w/nic-wesker.md) from Austria and Ricky Eagle from Italy (mistakenly announced as Rick Eagle). El G won, stealing a victory from Luca Bjorn once again.
 * In an impromptu match-up, Puncher retained his PTW Championship against Flamingo.
 * Okoński made his entrance for te usual charity auction of a commemorative T-shirt with signatures of PTW personnel. The winning bid was 500&nbsp;PLN. Okoński called out Caravaggio due to the result of the bet from the previous show - depending on the performance of Nietykalni or Okoński, either Caravaggio gets Okoński's logo tattooed, or Łukasz Okoński apologizes for insulting Caravaggio's late grandmother. Vincent proudly revealed that no tattoo was made. As punishment, Okoński brought out the returning Krampus as his opponent.
 * After unsuccessful comebacks, Caravaggio got squashed by Krampus.
