@@ -19,7 +19,7 @@ has_video = false
 * On 4.06.2026 PTW announced the first match of the show: [Boguś](@/w/bogus.md) vs [Daniel Razor](@/w/daniel-razor.md). Last year at [Ból Istnienia](@/e/ptw/2025-09-28-ptw-bol-istnienia.md) Boguś wanted to answer Razor's open challenge, but was denied the chance by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 * [Fabian](@/w/fabian.md), who skipped the [previous show](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), was announced on 5.06.2026 to make a spectacular return by throwing a "party above all parties" - the Fabian Festival.
 * On 9.06.2026 PTW announced [Krampus](@/w/krampus.md), with no further information at the time.
-* The next day came the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs Flex Skywalker, last seen in February at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md).
+* The next day came the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Flex Skywalker](@/w/flex-skywalker.md), last seen in February at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md).
 * Later the same day PTW announced that [Łukasz Okoński](@/w/lukasz-okonski.md) will open the show.
 * On 12.06.2026 PTW published a [video][misiek-vs-stol] of [Misiek](@/w/misiek.md) demanding a match against [Whiteblade](@/w/whiteblade.md) from [Łukasz Okoński](@/w/lukasz-okonski.md). On 15.06 the match was officially confirmed, with the Unsanctioned Match stipulation.
 * On 17.06.2026 came the announcement of [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md). Having lost his [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in [May](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), Brave has been increasingly jealous of Klakson's successes.
@@ -37,7 +37,7 @@ has_video = false
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: Okoński opens the show, Caravaggio interrupts.
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - 'Flex Skywalker'
+  - '[Flex Skywalker](@/w/flex-skywalker.md)'
 - - '[Spartan](@/w/spartan.md)'
   - g: Spartan announces a "MASSIVE" challenge for July's show.
 - - '[Boguś](@/w/bogus.md)'
@@ -81,7 +81,7 @@ has_video = false
 ### Highlights
 
 * Notably absent from the show was [Krampus](@/w/krampus.md), previously announced to be in action and included in promotional materials. The live stream presented a sloppily edited version of the poster, where Krampus looming in the background was replaced with [Misiek](@/w/misiek.md).
-* [Okoński](@/w/lukasz-okonski.md) opened the show with another dance performance. [Caravaggio](@/w/vincent-caravaggio.md) interrupted to demand a rematch for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), which quickly transitioned into his advertised match against Flex Skywalker.
+* [Okoński](@/w/lukasz-okonski.md) opened the show with another dance performance. [Caravaggio](@/w/vincent-caravaggio.md) interrupted to demand a rematch for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), which quickly transitioned into his advertised match against [Flex Skywalker](@/w/flex-skywalker.md).
 * After the match, [Spartan](@/w/spartan.md) entered the ring wearing summer clothes. He confirmed that he'd got time off for the current show, but the Chairman promised him a "MASSIVE" challenge for July's show.
 * [Boguś](@/w/bogus.md) defeated [Daniel Razor](@/w/daniel-razor.md) in a fairly quick match. He put his opponent over and celebrated his victory further. Thankful to Pawłowski for his advice, Boguś invited him to the ring to make his return to PTW programming after a five-month hiatus. Pawłowski, clearly in his old babyface persona, made his entrance and hugged Boguś and [Skwarczyński](@/w/krzysztof-skwarczynski.md). Boguś requested Pawłowski's services as his personal manager but before Pawłowski could decide, Okoński interrupted and denied him this opportunity, as the [Academy](@/o/ptw-academy.md) and PTW rookies needed Pawłowski more. Pawłowski took the mic, thanked the audience and also decided not to take Boguś's offer, but instead focus on the new generation.
 * Pawłowski announced another edition of Gold Rush Rumble for an upcoming August show. In addition, he announced a "Lucky Eight" social media competition, which would span the next eight weeks and include eight rookies (both male and female). The winner would be awarded a PTW contract, as well as a spot in the Rumble.
