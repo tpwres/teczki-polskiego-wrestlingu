@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "boro.webp", caption = "Boro's entrance, [Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md).", source = "Krzysztof Zych" }
 +++
 
 Boro, also known as Lady Killer, is a Polish wrestler currently working for [PpW Ewenement Wrestling](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He is also known for his time in [Prime Time Wrestling](@/o/ptw.md).
