@@ -13,7 +13,7 @@
 01020 = { path = "wiktor-tanczy-krakowiaka.webp", caption = "Wiktor D. enters the arena.", source = "M3n747" }
 01030 = { path = "wiktor-sie-stesknil.webp", caption = "Wiktor D. happy to see the ring.", source = "M3n747" }
 01040 = { path = "zwyciezca-dlugi-czlowiek.webp", caption = "[Wiktor D.](@/w/wiktor-longman.md) opens the show.", source = "M3n747" }
-01041 = { path = "kz-DSC08137.jpg", caption = "Trent Seven and Wiktor D. shake hands.", source = "Krzysztof Zych" }
+01041 = { path = "kz-DSC08137.jpg", caption = "Trent Seven and [Wiktor D.](@/w/wiktor-longman.md) shake hands.", source = "Krzysztof Zych" }
 01042 = { path = "kz-DSC08172.jpg", caption = "[Jakub](@/w/jakub.md) pointing a toothpick at the crowd.", source = "Krzysztof Zych" }
 01050 = { path = "dajcie-czlowiekowi-reke.webp", caption = "[Jakub](@/w/jakub.md) offers Trent Seven his hand.", source = "M3n747" }
 01060 = { path = "a-zabierze-caly-palec.webp", caption = "Trent Seven suggests that a single digit ought to be enough.", source = "M3n747" }
@@ -43,7 +43,7 @@
 03070 = { path = "chwycil-kozak-tatarzyna.webp", caption = "Sinister and Dziedzic pull each other by the hair…", source = "M3n747" }
 03080 = { path = "zaden-z-nich-sie-nie-utrzymal.webp", caption = "…and they both hit the table.", source = "M3n747" }
 03090 = { path = "panel-yaoi-to-nie-w-tej-sali.webp", caption = "Sinister about to attempt a pin on Syriusz Dziedzic.", source = "M3n747" }
-03100 = { path = "ten-pan-wygral-gratulujemy.webp", caption = "Syriusz Dziedzic wins the match and thus his freedom.", source = "M3n747" }
+03100 = { path = "ten-pan-wygral-gratulujemy.webp", caption = "[Syriusz Dziedzic](@/w/dziedzic.md) wins the match and thus his freedom.", source = "M3n747" }
 
 04010 = { path = "marceli-przybyl-przypierdzielic.webp", caption = "[Marcelito's](@/w/marcelito.md) entrance.", source = "M3n747" }
 04011 = { path = "kz-DSC08817.jpg", caption = "[Bartosz Plata's](@/w/plata.md) energetic entrance.", source = "Krzysztof Zych" }
