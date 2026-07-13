@@ -26,7 +26,7 @@ Karyna made her debut in [Prime Time Wrestling](@/o/ptw.md) at [Underground 14](
 
 ### Maniac Zone Wrestling and Legacy of Wrestling (2024-)
 
-After leaving PTW, Karyna - albeit no longer using this name - has been working at [MZW](@/o/mzw.md) and [Legacy](@/o/low.md) shows on timekeeper/bell duty.
+After [leaving PTW](@/a/ptw-exits.md), Karyna - albeit no longer using this name - moved to working timekeeper/bell duty at [MZW](@/o/mzw.md) and [Legacy](@/o/low.md) shows.
 
 ## In wrestling
 
