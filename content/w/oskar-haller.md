@@ -17,7 +17,7 @@ Oskar Haller is a rookie wrestler training in the [KPW School](@/o/szkola-kpw.md
 * Gimmicks/nicknames:
   - Rookie One {{ org_badge(orgs=['kpw']) }}
   - Oskar Fux {{ org_badge(orgs=['kpw']) }}
-  - Oskar Haller {{ org_badge(orgs=['kpw', 'ppw']) }}
+  - Oskar Haller {{ org_badge(orgs=['kpw', 'ppw', 'low']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
 
@@ -32,3 +32,7 @@ Rookie One also appeared as Oskar Fux at two side shows, in [Kadzidło](@/e/kpw/
 ### PpW Ewenemenet Wrestling (2026-)
 
 In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md).
+
+### Legacy of Wrestling (2026-)
+
+Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Enter the Dragon](@/e/low/2026-07-10-low-6.md), where he took part in the Dragon Gauntlet Match.
