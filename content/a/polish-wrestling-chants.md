@@ -46,7 +46,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Chcemy krwi") %}xt͡sˈɛmɨ krfˈi{% end %}
 * _Jedziesz z tą kurwą, hej [wrestler], jedziesz z tą kurwą_ - "Fuck this bitch up, [wrestler]": encouraging offense and insulting the opponent at the same time. \
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
-* _Męski seks_ - "Masculine sex": sometimes heard during a match between two good-looking, well-built, half-naked men. \
+* _Męski seks_ - "Masculine sex": heard during matches between good-looking, well-built, half-naked men. \
   {% ipa(tts="Męski seks") %}mˈɛ̃ski sˈɛks{% end %}
 * _Pokaż cycki_ - "Show your tits": a raunchy chant targeted at female performers (usually when the crowd gets noticeably intoxicated). \
   {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 
