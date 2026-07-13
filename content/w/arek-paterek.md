@@ -28,14 +28,14 @@ Arkadiusz Paterek started his career in professional wrestling working for [Prim
 
 After parting ways with Prime Time, Arek Paterek joined the new wrestling project ran by his ex-PTW colleagues: [Legacy of Wrestling](@/o/low.md). For Legacy's [inaugural show](@/e/low/2024-12-01-low-1.md) he worked as a commentator and guest host.
 
-At the [second show](@/e/low/2025-04-06-low-2.md), in addition to providing commentary, he introduced Legacy's new acting chairman, [Wiktor Longman](@/w/wiktor-longman.md), and also accompanied [Erik Šlotíř](@/w/erik-slotir.md) during his match, as a seemingly villainous manager. After the show Paterek announced the creation of a new stable called "Biuro Prasowe" (_Press Office_), with Erik becoming his first "client".
+At the [second show](@/e/low/2025-04-06-low-2.md), in addition to providing commentary, he introduced Legacy's new acting chairman, [Wiktor Longman](@/w/wiktor-longman.md), and also accompanied [Erik Šlotíř](@/w/erik-slotir.md) during his match, as a seemingly villainous manager. After the show Paterek announced the creation of a new stable called ["Biuro Prasowe"](@/tt/biuro-prasowe.md) (_Press Office_), with Erik becoming his first "client".
 
 ## In wrestling
 
 * Wrestlers managed:
   - [Erik Šlotíř](@/w/erik-slotir.md) (2025-)
 * Tag Teams and stables:
-  - Biuro Prasowe (2025-)
+  - [Biuro Prasowe](@/tt/biuro-prasowe.md) (2025-)
 * Entrance music:
   - "It's Only Me (The Wizard of Magicland)" by Barenaked Ladies
     {{ org_badge(org='low') }} (2024-) <br>
