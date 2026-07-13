@@ -23,6 +23,7 @@ has_video = false
 * On 10.07.2026 PTW announced [Vincent Caravaggio](@/w/vincent-caravaggio.md) (forced out of holiday by [Łukasz Okoński](@/w/lukasz-okonski.md)) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) (returning after an injury, last seen at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)).
 * On 11.07 the promotion informed that the opening match of the show is going to be [Fabian](@/w/fabian.md) vs [Boguś](@/w/bogus.md).
 * The next match was [Alex Brave](@/w/alex-brave.md) vs [Flex Skywalker](@/w/flex-skywalker.md), revealed on 13.07.2026.
+* Later the same day PTW announced a Tag Team Match between Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)) and [El G](@/w/el-g.md) & El Clavo.
 
 ## Predicted card
 
@@ -49,6 +50,10 @@ has_video = false
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Flex Skywalker](@/w/flex-skywalker.md)'
   - nc: upcoming
+- - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
+  - '[El G](@/w/el-g.md) & El Clavo'
+  - s: Tag Team Match
+    nc: upcoming
 {% end %}
 
 ### Highlights
