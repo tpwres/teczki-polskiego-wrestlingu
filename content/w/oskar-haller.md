@@ -35,4 +35,4 @@ In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05
 
 ### Legacy of Wrestling (2026-)
 
-Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Enter the Dragon](@/e/low/2026-07-10-low-6.md), where he took part in the Dragon Gauntlet Match.
+Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), where he faced [Marco Hammers](@/w/marco-hammers.md).
