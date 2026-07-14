@@ -7,3 +7,4 @@
 07 = { path = "fabian-vs-bogus.webp", caption = "Image announcing [Fabian](@/w/fabian.md) vs [Boguś](@/w/bogus.md).", source = "Official PTW Facebook" }
 08 = { path = "alex-brave-vs-flex-skywalker.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md) vs [Flex Skywalker](@/w/flex-skywalker.md).", source = "Official PTW Facebook" }
 09 = { path = "tag-team-mecz.webp", caption = "Image announcing [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md) vs [El G](@/w/el-g.md) & El Clavo.", source = "Official PTW Facebook" }
+10 = { path = "misiek-vs-stone-malone.webp", caption = "Image announcing [Misiek](@/w/misiek.md) vs Stone Malone.", source = "Official PTW Facebook" }

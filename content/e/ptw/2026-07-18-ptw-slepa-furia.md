@@ -24,6 +24,7 @@ has_video = false
 * On 11.07 the promotion informed that the opening match of the show is going to be [Fabian](@/w/fabian.md) vs [Boguś](@/w/bogus.md).
 * The next match was [Alex Brave](@/w/alex-brave.md) vs [Flex Skywalker](@/w/flex-skywalker.md), revealed on 13.07.2026.
 * Later the same day PTW announced a Tag Team Match between Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)) and [El G](@/w/el-g.md) & El Clavo.
+* The next day PTW announced [Misiek](@/w/misiek.md) vs Stone Malone from Scotland.
 
 ## Predicted card
 
@@ -54,6 +55,9 @@ has_video = false
   - '[El G](@/w/el-g.md) & El Clavo'
   - s: Tag Team Match
     nc: upcoming
+- - '[Misiek](@/w/misiek.md)'
+  - 'Stone Malone'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
@@ -63,3 +67,4 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457200)
+* [Stone Malone's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=28881)
