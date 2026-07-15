@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [22.556141, 51.269532]      
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Centrum Sportu Akademos",
+        "description": "Akademos Sports Centre, where [FRPW](@/o/frpw.md) held [a show](@/e/frpw/2026-10-17-frpw-lublin.md).",
+        "orgs": ["frpw"]
+    }
+}
