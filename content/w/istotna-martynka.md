@@ -16,9 +16,9 @@ Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, 
   - Istociara (at Istota Wrestlingu)
   - Istotna Martynka {{ org_badge(orgs=['ppw']) }}
   - Siostra Kimono {{ org_badge(orgs=['ppw']) }}
-  - "Szeku" Martynka {{ org_badge(orgs=['ppw']) }}
+  - "Szeku" Martynka {{ org_badge(orgs=['ppw', 'frpw']) }}
   - Referee Martyna {{ org_badge(orgs=['ppw']) }} (Japanese excursion)
-  - Gloria G Szek {{ org_badge(orgs=['dojo']) }}
+  - Gloria G Szek {{ org_badge(orgs=['frpw']) }}
 * Trained by:
   - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
@@ -40,7 +40,7 @@ On February 14th, 2026, it was announced that Istotna Martynka would make a one-
 
 At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka made her first in-ring appearance in PpW's main programming, joining the _25 Typa 25 Broni_ Rumble Match, in a losing effort.
 
-On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
+On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/frpw/2026-05-03-frpw-dojo-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
 
 ## Championships and accomplishments
 

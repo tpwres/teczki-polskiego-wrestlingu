@@ -17,7 +17,7 @@ Biesiad Strong, also known under numerous aliases, is a Polish wrestler best kno
 
 * Years active: 2013-present
 * Gimmicks/nicknames:
-  - Biesiad Strong {{ org_badge(orgs=['ppw', 'mzw', 'low']) }}
+  - Biesiad Strong {{ org_badge(orgs=['ppw', 'mzw', 'low', 'frpw']) }}
   - Steven Strong {{ org_badge(orgs=['dfw', 'ppw']) }}
   - Red Floorfiller {{ org_badge(orgs=['ppw']) }} (backyard era; masked)
   - KAT {{ org_badge(orgs=['ppw']) }} (backyard era)

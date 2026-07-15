@@ -6,6 +6,8 @@ authors = ["Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "boro.webp", caption = "Boro's entrance, [Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md).", source = "Krzysztof Zych" }
 +++
 
 Boro, also known as Lady Killer, is a Polish wrestler currently working for [PpW Ewenement Wrestling](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He is also known for his time in [Prime Time Wrestling](@/o/ptw.md).
@@ -15,8 +17,8 @@ Boro, also known as Lady Killer, is a Polish wrestler currently working for [PpW
 * Years active: 2017-2023; 2025-present
 * Gimmicks/Nicknames:
   - Bartosz Borowsky {{ org_badge(org='mzw') }}
-  - Lady Killer {{ org_badge(orgs=['mzw', 'low', 'ppw']) }}
-  - Boro {{ org_badge(orgs=['ptw', 'low']) }}
+  - Lady Killer {{ org_badge(orgs=['mzw', 'low', 'ppw', 'frpw']) }}
+  - Boro {{ org_badge(orgs=['ptw', 'low', 'mzw', 'ppw', 'frpw']) }}
 * Trained by:
   - MZW Academy (2016-2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)

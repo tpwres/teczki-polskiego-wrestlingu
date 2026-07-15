@@ -2,18 +2,19 @@
 title = "FRPW: Dojo Showcase #2"
 template = "event_page.html"
 authors = ["M3n747", "Sewi The Referee"]
+aliases = ["/e/dojo/2026-07-19-dojo-showcase-2"]
 [taxonomies]
-chronology = ["dojo"]
+chronology = ["frpw"]
 venue=["teatr-komuna"]
 [extra]
-orgs = ["dojo"]
+orgs = ["frpw"]
 city = "Warszawa"
 toclevel = 2
 has_video = false
 [extra.gallery]
 +++
 
-The second [Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna](@/v/teatr-komuna.md). Unlike the [first event](@/e/dojo/2026-05-03-dojo-showcase.md), this one is advertised as a Dojo show only, without the PpW branding. Instead, it is the first event organised solely by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) - an organisation which is the owner of Warszawska Szkoła Wrestlingu (formerly Ewenement Dojo).
+The second [Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna](@/v/teatr-komuna.md). Unlike the [first event](@/e/frpw/2026-05-03-frpw-dojo-showcase.md), this one is advertised as a Dojo show only, without the PpW branding. Instead, it is the first event organised solely by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) - an organisation which is the owner of Warszawska Szkoła Wrestlingu (formerly Ewenement Dojo).
 
 ## Build-up
 

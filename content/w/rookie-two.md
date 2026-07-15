@@ -16,7 +16,7 @@ Rookie Two is a rookie wrestler training in the [KPW School](@/o/szkola-kpw.md).
 * Years active: 2025-
 * Gimmicks/nicknames:
   - Rookie Two {{ org_badge(orgs=['kpw']) }}
-  - Szymon Kurczab {{ org_badge(orgs=['ppw']) }}
+  - Szymon Kurczab {{ org_badge(orgs=['ppw', 'frpw']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
 
@@ -28,4 +28,4 @@ Although he didn't have an official debut yet, Rookie Two had a few fights at KP
 
 ### PpW Ewenemenet Wrestling (2026-)
 
-Rookie Two was seen in the crowd at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), attending the show as a regular fan. Two months later he was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo-showcase.md) (as Szymon Kurczab), making his PpW debut in a match against [Jakub](@/w/jakub.md).
+Rookie Two was seen in the crowd at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), attending the show as a regular fan. Two months later he was announced to appear at [Dojo Showcase](@/e/frpw/2026-05-03-frpw-dojo-showcase.md) (as Szymon Kurczab), making his PpW debut in a match against [Jakub](@/w/jakub.md).
