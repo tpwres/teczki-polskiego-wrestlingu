@@ -18,9 +18,9 @@ Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw
 
 * Years active: 2017-present
 * Nicknames:
-  - "Polski Lis" (_Polish Fox_) Axel Fox {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
   - Amisz (_Amish_) {{ org_badge(orgs=['dfw', 'mzw']) }}
-  - Jakub {{ org_badge(orgs=['ppw']) }}
+  - "Polski Lis" (_Polish Fox_) Axel Fox {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+  - Jakub {{ org_badge(orgs=['ppw', 'mzw', 'low', 'frpw']) }}
   * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)

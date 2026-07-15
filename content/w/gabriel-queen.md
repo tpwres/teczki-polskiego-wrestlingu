@@ -16,7 +16,7 @@ Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenem
 
 * Years active: 2019-present
 * Gimmicks/nicknames:
-  - Gabriel Queen {{ org_badge(orgs=['ptw', 'ppw', 'low']) }}
+  - Gabriel Queen {{ org_badge(orgs=['ptw', 'ppw', 'low', 'frpw']) }}
   - Nathan Cross {{ org_badge(org='mzw') }}
   - Bonus CBD {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
