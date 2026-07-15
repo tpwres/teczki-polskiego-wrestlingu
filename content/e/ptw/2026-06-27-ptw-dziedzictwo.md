@@ -25,7 +25,7 @@ has_video = false
 * On 17.06.2026 came the announcement of [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md). Having lost his [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in [May](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), Brave has been increasingly jealous of Klakson's successes.
 * On 18.06.2026 PTW announced a match for the [PTW Women's Championship](@/c/ptw-womens-championship.md) between the reigning Champion [Diana Strong](@/w/diana-strong.md) and Emily Locke from the US.
 * On 22.06.2026 PTW announced a match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), between the reigning champions [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md)) and the American team Exodus (Jacked Josh & Body Bundy) - the current Full Impact Pro Wrestling Tag Team Champions.
-* On 23.06.2026 came the announcement of Nic Wesker vs Conte in a "Children's Day Match" (_Dzień Dziecka Mecz_), described as a "very unusual match aimed at the youngest members of the audience".
+* On 23.06.2026 came the announcement of [Nic Wesker](@/w/nic-wesker.md) vs Conte in a "Children's Day Match" (_Dzień Dziecka Mecz_), described as a "very unusual match aimed at the youngest members of the audience".
 * The next day the [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md) issued an open challenge for his title.
 * On 25.06.2026 the federation announced a Tag Team Match between [Damian Adler](@/w/damian-adler.md) and El Clavo, both with mystery partners. The workers were said to represent a different country each.
 * The following day, Swiss wrestler Red Jack confirmed himself as Adler's mystery partner.
@@ -47,7 +47,7 @@ has_video = false
   - '[Prezes Łukasz Okoński](@/w/lukasz-okonski.md)'
   - g: Boguś thanks Pawłowski and requests his services as manager, Okoński interrupts.
 - - 'Conte; [El G](@/w/el-g.md), adeptka Marta'
-  - 'Nic Wesker'
+  - '[Nic Wesker](@/w/nic-wesker.md)'
   - s: "Children's Day Match"
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
@@ -85,7 +85,7 @@ has_video = false
 * After the match, [Spartan](@/w/spartan.md) entered the ring wearing summer clothes. He confirmed that he'd got time off for the current show, but the Chairman promised him a "MASSIVE" challenge for July's show.
 * [Boguś](@/w/bogus.md) defeated [Daniel Razor](@/w/daniel-razor.md) in a fairly quick match. He put his opponent over and celebrated his victory further. Thankful to Pawłowski for his advice, Boguś invited him to the ring to make his return to PTW programming after a five-month hiatus. Pawłowski, clearly in his old babyface persona, made his entrance and hugged Boguś and [Skwarczyński](@/w/krzysztof-skwarczynski.md). Boguś requested Pawłowski's services as his personal manager but before Pawłowski could decide, Okoński interrupted and denied him this opportunity, as the [Academy](@/o/ptw-academy.md) and PTW rookies needed Pawłowski more. Pawłowski took the mic, thanked the audience and also decided not to take Boguś's offer, but instead focus on the new generation.
 * Pawłowski announced another edition of Gold Rush Rumble for an upcoming August show. In addition, he announced a "Lucky Eight" social media competition, which would span the next eight weeks and include eight rookies (both male and female). The winner would be awarded a PTW contract, as well as a spot in the Rumble.
-* For the Children's Day Match, Nik Wesker made an entrance carrying his signature vial, allegedly containing a deadly virus. Next up came Conte to a remixed Super Mario Bros theme. He wore a Luigi cap, while [El G](@/w/el-g.md) wore Mario's. They pointed to the stage and introduced Princess Peach (actually rookie Marta, as acknowledged by the commentary). "Mario" and "Peach" continued to cheer on "Luigi" throughout his match and celebrated his win together in the ring.
+* For the Children's Day Match, [Nic Wesker](@/w/nic-wesker.md) made an entrance carrying his signature vial, allegedly containing a deadly virus. Next up came Conte to a remixed Super Mario Bros theme. He wore a Luigi cap, while [El G](@/w/el-g.md) wore Mario's. They pointed to the stage and introduced Princess Peach (actually rookie Marta, as acknowledged by the commentary). "Mario" and "Peach" continued to cheer on "Luigi" throughout his match and celebrated his win together in the ring.
 * Notably, this was a contest of two video game universes, as Wesker wore ring gear with the [Umbrella Corporation][parasol] logo from the Resident Evil series.
 * [Alex Brave](@/w/alex-brave.md) was announced without the _Showtime_ prefix this time, but kept that gimmick for his match. [Klakson](@/w/cj-klakson.md) won with a backslide into a pin combination.
 * [Miyagi Sigma](@/tt/miyagi-sigma.md) retained in a fairly short match against Exodus.

@@ -16,7 +16,7 @@ Gustav Gryffin is a Polish wrestler from Bartoszyce, best known for his appearan
 
 * Years active: 2022-present
 * Nicknames/Gimmicks:
-  - Gustav Gryffin {{ org_badge(orgs=['ppw', 'mzw', 'low']) }}
+  - Gustav Gryffin {{ org_badge(orgs=['ppw', 'mzw', 'low', 'frpw']) }}
   - Hardcore Gustav {{ org_badge(org='ppw') }} (non-canon shows)
   - Gustav Pierdolec {{ org_badge(org='ppw') }} (non-canon shows)
   - Martinez Grabollo {{ org_badge(org='ppw') }} (non-canon shows)

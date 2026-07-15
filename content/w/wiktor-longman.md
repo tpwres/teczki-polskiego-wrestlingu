@@ -49,7 +49,9 @@ Longman made his return in October 2024, this time to [PpW](@/o/ppw.md), when he
 
 Initially Longman was supposed to challenge the [PpW Champion](@/c/ppw-championship.md) Gustav Gryffin in the main event of [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md). However, due to personal reasons he was pulled off the card and didn't appear at the show. His spot in the main event was taken by [Axel Fox](@/w/jakub.md) instead.
 
-At the [second Legacy show](@/e/low/2025-04-06-low-2.md), [Arkadiusz Paterek](@/w/arek-paterek.md) opened the show by introducing Longman as the organization's new _acting Chairman_ and ring announcer. 
+At the [second Legacy show](@/e/low/2025-04-06-low-2.md), [Arkadiusz Paterek](@/w/arek-paterek.md) opened the show by introducing Longman as the organization's new _acting Chairman_ and ring announcer.
+
+At [Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md) Wiktor Longman fought [Max Speed](@/w/max-speed.md) in a match harkening back to their first encounter at [PTW Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md), in which Longman defeated the debuting Speed via DQ. After the fight, Wiktor cut a promo saying this was the final match of his career - henceforth he'd only be active in non-wrestling roles.
 
 ## In wrestling
 

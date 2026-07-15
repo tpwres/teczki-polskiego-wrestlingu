@@ -20,7 +20,7 @@ Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler 
 * Gimmicks/nicknames:
   - Krueger {{ org_badge(org='mzw') }}
   - Hades {{ org_badge(org='ppw') }}
-  - Olgierd {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low', 'kpw']) }}
+  - Olgierd {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low', 'kpw', 'frpw']) }}
   - El Ogre {{ org_badge(orgs=['ptw', 'ppw']) }} (masked)
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)

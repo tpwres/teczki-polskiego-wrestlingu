@@ -14,7 +14,7 @@ Agentka Agatka is a Polish female manager and wrestler best known for her time i
 
 * Years active: 2024-present
 * Gimmicks/nicknames:
-  - Agentka Agatka (_Agent Agata_) {{ org_badge(org='ppw') }}
+  - Agentka Agatka (_Agent Agata_) {{ org_badge(orgs=['ppw', 'frpw']) }}
   - La Gatita {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
   - [Ewenement Dojo](@/o/dojo.md) (2024-)

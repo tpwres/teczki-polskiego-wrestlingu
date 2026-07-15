@@ -28,7 +28,7 @@ template = "event_page.html"
 venue = "teatr-komuna"
 collapse_gallery = true
 [extra.gallery]
-1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Facebook PPW Ewenement"}
+1 = { path = "ale-grzeje-poster.jpg", caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.", source = "Official PpW Facebook"}
 +++
 ```
 
@@ -39,7 +39,7 @@ The value is always a map (another list of key-value pairs), which **must contai
 
 * `path` must name a file in the page's images folder (see above). There is no way to link images from other articles, and copying them is the only solution for now.
 * `caption` is the text to display under the thumbnail in the gallery grid. Markdown can be used in this text, as shown in the example, so it can link to other pages. However, shortcodes and template markup cannot be used.
-* `source` is the attribution. While currently it's not displayed, we still want to collect it to have a grasp on where the images came from.
+* `source` is the attribution. While not strictly mandatory, it is considered good practice to credit the author of the picture.
 * `skip_art` (optional). If present and set to true, this image will be excluded from Artwall. Recommended to set for photos that are low-resolution, or screenshots containing mostly text.
 
 ### Events
@@ -65,7 +65,7 @@ The TOML format used in the front matter offers some flexibility. The same galle
 [extra.gallery.1]
 path = "ale-grzeje-poster.jpg"
 caption = "The show's official poster. Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md). The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory."
-source = "Facebook PPW Ewenement"
+source = "Official PpW Facebook"
 ```
 
 Notice the changes: key is now in square brackets, prefixed by `extra.gallery`. Each required map item is now on a separate line, and no commas are necessary to separate them.
@@ -80,7 +80,7 @@ caption = """\
   Top photo shows [Gustav Gryffin](@/w/gustav-gryffin.md) standing face to face with [Biesiad Strong](@/w/biesiad.md).
   The bottom one has [Jakob Sigmarsson](@/w/jakub-linde.md) and [Rafi](@/w/rafi.md) celebrating Gustav's victory.
 """
-source = "Facebook PPW Ewenement"
+source = "Official PpW Facebook"
 ```
 
 However, line breaks will not be preserved in the displayed text, unless `<br>` is used to force them.
@@ -118,6 +118,8 @@ A manifest file is just a text file in a supported format, typically TOML, that 
 The value of the `manifest` key is a path to the manifest file, which is resolved in the same fashion as all other internal links.
 It is recommended to keep the manifest file in the same directory with its page. In the example above, the manifest acoompanies an event page, and is accordingly put in the `e/low` directory.
 
+Note: the `manifest` key is optional and `[extra.gallery]` is enough for a gallery to work - provided it is a .toml file with exactly the same name as the corresponding .md file. For instance, a page named `2026-10-24-low-7.md` will display a gallery called `2026-10-24-low-7.toml`, but `2026-10-24-low-7-gallery.toml` will require the `manifest` key.
+
 The manifest file should have the following structure:
 
 ```toml
@@ -133,6 +135,13 @@ source = "Max Mustermann"
 
 The `path`, `caption` and `source` fields work exactly as described under [Gallery notation](#gallery-notation) above.
 `KEY` is any alphanumeric string, also described in that section, and can be any arbitrary string. However, for large galleries accompanying event pages, there's a recommended schema for keys, to help sort and maintain them.
+
+Alternatively, the following can be used:
+
+`01 = { path = "filename1.webp", caption = "Etaoin shrdlu.", source = "Alan Smithee" }`
+`02 = { path = "filename2.webp", caption = "Etaoin shrdlu.", source = "Alan Smithee" }`
+
+While both versions work, a single .toml file can use one or the other, but not both at the same time.
 
 ### Recommended schema for event pages
 
