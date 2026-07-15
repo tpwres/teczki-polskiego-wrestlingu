@@ -21,7 +21,8 @@ has_video = false
 * On 9.07.2026 PTW announced a match between [Nic Wesker](@/w/nic-wesker.md) and [Daniel Razor](@/w/daniel-razor.md).
 * Later the same day came the announcement of [CJ Klakson](@/w/cj-klakson.md) vs Stan the Slav.
 * On 10.07.2026 PTW announced [Vincent Caravaggio](@/w/vincent-caravaggio.md) (forced out of holiday by [Łukasz Okoński](@/w/lukasz-okonski.md)) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) (returning after an injury, last seen at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)).
-* On 11.07 the promotion informed that the opening match of the show is going to be [Fabian](@/w/fabian.md) vs [Boguś](@/w/bogus.md).
+* On 11.07.2026 the promotion informed that the opening match of the show is going to be [Fabian](@/w/fabian.md) vs [Boguś](@/w/bogus.md).
+* On 15.07.2026 PTW announced that [Łukasz Okoński](@/w/lukasz-okonski.md) will open the show.
 
 ## Predicted card
 
