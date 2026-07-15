@@ -30,8 +30,8 @@
     {% include "badges/twf.html" %}
   {% elif code == "splat" %}
     {% include "badges/splat.html" %}
-  {% elif code == "dojo" %}
-    {% include "badges/edojo.html" %}
+  {% elif code == "frpw" %}
+    {% include "badges/frpw.html" %}
   {% elif code == "ryucon" %}
     {% include "badges/ryu.html" %}
   {% elif code == "pyrkon" %}
@@ -84,8 +84,8 @@
     {% include "badges/twf.html" -%}
   {% elif code == "splat" -%}
     {% include "badges/splat.html" -%}
-  {% elif code == "dojo" -%}
-    {% include "badges/edojo.html" -%}
+  {% elif code == "frpw" %}
+    {% include "badges/frpw.html" %}
   {% elif code == "ryucon" -%}
     {% include "badges/ryu.html" -%}
   {% elif code == "pyrkon" -%}
@@ -171,6 +171,8 @@
       {% include "badges/piwg.html" %}
     {% elif org == "twf" %}
       {% include "badges/twf.html" %}
+    {% elif org == "frpw" %}
+      {% include "badges/frpw.html" %}
     {% else %}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};

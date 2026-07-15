@@ -2,12 +2,12 @@
 title = "Ewenement Dojo Showcase"
 template = "event_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski"]
-aliases = ["/e/ppw/2026-05-03-ewenement-dojo-showcase", "/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase"]
+aliases = ["/e/ppw/2026-05-03-ewenement-dojo-showcase", "/e/ppw/2026-05-03-ppw-ewenement-dojo-showcase", "/e/dojo/2026-05-03-dojo-showcase"]
 [taxonomies]
-chronology = ["ppw", "dojo"]
+chronology = ["ppw", "frpw"]
 venue = ["2kola"]
 [extra]
-orgs = ["ppw", "dojo"]
+orgs = ["ppw", "frpw"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
