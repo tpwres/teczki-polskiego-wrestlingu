@@ -14,7 +14,7 @@ Sambor is a Polish wrestler best known from his appearances in [Prime Time Wresl
 
 * Years active: 2023-present
 * Gimmicks/nicknames:
-  - Sambor {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }}
+  - Sambor {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low', 'frpw']) }}
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2019-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)

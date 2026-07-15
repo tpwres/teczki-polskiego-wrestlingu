@@ -18,7 +18,7 @@ Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](
 
 * Years active: 2010-present
 * Gimmicks/nicknames:
-  - Mister Z {{ org_badge(orgs=['ppw', 'mzw']) }}
+  - Mister Z {{ org_badge(orgs=['ppw', 'mzw', 'frpw']) }}
   - Jim Enerico {{ org_badge(orgs=['ppw']) }} (2015-2017)
   - Electrico {{ org_badge(orgs=['ppw']) }} (2015; later only at non-canon shows)
   - Cade Bruce {{ org_badge(orgs=['dfw', 'ppw']) }} (2017; later only at non-canon shows)
