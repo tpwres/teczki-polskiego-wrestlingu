@@ -1,5 +1,5 @@
 +++
-title = "FRPW: Wrestling w twoim mieście - Lublin"
+title = "FRPW: Wrestling w Twoim Mieście - Lublin"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-After two rookie showcases, in [May](@/e/frpw/2026-05-03-frpw-dojo-showcase.md) and [July](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), FRPW is going to hold a show in Lublin, dubbed _Wrestling w twoim mieście_ (eng. _Wrestling in your city_). The event will take place in the {{ map_pin(v="Centrum Sportu Akademos") }}Akademos Sports Centre.
+After two rookie showcases, in [May](@/e/frpw/2026-05-03-frpw-dojo-showcase.md) and [July](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), FRPW is going to hold a show in Lublin. The event, dubbed "Wrestling w Twoim Mieście" (_Wrestling in Your City_), will take place in the {{ map_pin(v="Centrum Sportu Akademos") }}Akademos Sports Centre.
 
 ## Build-up
 
