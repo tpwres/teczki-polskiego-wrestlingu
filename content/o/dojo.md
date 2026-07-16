@@ -9,6 +9,7 @@ chrono_root = ["dojo"]
 [extra]
 toclevel = 3
 hide_roster = true
+hide_events = true
 [extra.gallery]
 +++
 
@@ -85,7 +86,7 @@ In May 2026 the Dojo started to hold its own shows, dubbed _Dojo Showcases_, ind
 
 * [WSW's Website](https://fundacjarpw.pl/szkola-wrestlingu/)
 * [Facebook Page](https://www.facebook.com/profile.php?id=61560762345187)
-* [Instagram Page](https://www.instagram.com/wsw_dojo/))
+* [Instagram Page](https://www.instagram.com/wsw_dojo/)
 
 ## References
 

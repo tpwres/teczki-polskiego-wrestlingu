@@ -14,7 +14,7 @@ Tomczak is a Polish wrestler working for [Kombat Pro Wrestling](@/o/kpw.md).
 
 * Years active: 2023, 2025-present
 * Gimmicks/Nicknames:
-  - Tomczak {{ org_badge(orgs=['kpw', 'ppw']) }}
+  - Tomczak {{ org_badge(orgs=['kpw', 'ppw', 'frpw']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md)
 

@@ -1,5 +1,5 @@
 +++
-title = "Events by Ewenement Dojo"
+title = "Events by FRPW"
 sort_by = "date"
 paginate_by = 0
 render = false

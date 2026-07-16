@@ -87,42 +87,46 @@ fold_matchlist_at = 25 # Collapse the matchlist section on a talent or team page
 fold_crew_appearances = "auto"
 fold_crew_appearances_at = 25 # Collapse the crew appearances section of a talent page if has more than that many entries.
 
-[extra.org_styles.ppw]
-bg = '#5b007e'
-text_fg = '#c7c7c7'
+[extra.org_styles.ddw]
+bg = '#71171f'
+text_fg = '#fbf1c7'
 
-[extra.org_styles.mzw]
-bg = '#208315'
+[extra.org_styles.dfw]
+bg = '#a9100b'
+text_fg = '#fbf1c7'
+
+[extra.org_styles.frpw]
+bg = '#4747c2'
 text_fg = '#ffffff'
 
 [extra.org_styles.kpw]
 bg = '#133762'
 text_fg = '#ffffff'
 
-[extra.org_styles.ddw]
-bg = '#71171f'
-text_fg = '#fbf1c7'
+[extra.org_styles.mzw]
+bg = '#208315'
+text_fg = '#ffffff'
+
+[extra.org_styles.ppw]
+bg = '#5b007e'
+text_fg = '#c7c7c7'
+
+[extra.org_styles.ptw]
+bg = '#000'
+text_fg = '#ffffff'
+
+[extra.org_styles.ryucon]
+bg = '#e2e2e2'
+text_fg = '#590204'
 
 [extra.org_styles.tbw]
 bg = '#000'
 fg = '#8c8d87'
 text_fg = '#ffffff'
 
-[extra.org_styles.dfw]
-bg = '#a9100b'
-text_fg = '#fbf1c7'
-
-[extra.org_styles.ptw]
-bg = '#000'
-text_fg = '#ffffff'
-
 [extra.org_styles.twf]
 bg = '#4f8ebf'
 text_fg = '#ffffff'
-
-[extra.org_styles.ryucon]
-bg = '#e2e2e2'
-fg = '#590204'
 
 [extra.chronology]
 arena = "KPW Arena"
@@ -134,6 +138,5 @@ ledwo-legalne = "Ledwo Legalne"
 oldtown = "OldTown Festival"
 poznan-fair = "Poznań International Fair"
 project-basement = "Project Basement"
-# pyrkon = "Pyrkon"
 stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"

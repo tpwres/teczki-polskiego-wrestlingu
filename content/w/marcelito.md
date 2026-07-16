@@ -15,7 +15,7 @@ Marcelito is a Polish wrestler best known for his time in [Prime Time Wrestling]
 * Years active: 2021-present
 * Gimmicks/nicknames:
   - Marcel Budzianowski {{ org_badge(org='ptw') }} (2021)
-  - Marcelito {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }}
+  - Marcelito {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low', 'frpw']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
   - [Ewenement Dojo](@/o/dojo.md) (2024-)

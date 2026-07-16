@@ -1,0 +1,12 @@
+<div title="{{ hint_text }}" class="badge {% if ib %}ib{% endif %}{% if cnt is defined %}stretchy{% endif %}"
+     {% if cnt is defined %} style="flex-grow: {{ cnt/total }}; background: {{ bg }};" {% endif %}>
+  <a href='{{ get_url(path="@/o/frpw.md") }}' class="org-badge nu"
+     style="background: url({{ get_url(path='frpw-badge.svg') }}) no-repeat 0 0 / cover, #4747c2; background-position: center;"
+     title="{{ hint_text }}">
+     <span style="font-size: 1.1rem">FRPW</span>
+  </a>
+  <small style="color: {{ text_fg }}">{{ displayed_count|default(value="") }}</small>
+</div>
+{# ead5a5 light beige #}
+{# 333399 lapis lazuli #}
+{# 4747c2 light ultramarine blue #}

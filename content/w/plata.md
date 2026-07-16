@@ -15,7 +15,7 @@ Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), t
 * Years active: 2024-present
 * Gimmicks/nicknames:
   - _Rookie_ Bartosz {{ org_badge(orgs=['ppw']) }} (January-April 2025)
-  - Bartosz Plata {{ org_badge(orgs=['ppw', 'low']) }} (April 2025-)
+  - Bartosz Plata {{ org_badge(orgs=['ppw', 'low', 'frpw']) }} (April 2025-)
 * Trained by:
   - [Ewenement Dojo](@/o/dojo.md) (2024-)
  

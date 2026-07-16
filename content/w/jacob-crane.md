@@ -18,7 +18,7 @@ Jacob Crane is a Polish wrestler, best known for his appearances in [PpW Eweneme
 
 * Years active: 2016-present
 * Gimmicks/nicknames:
-  - "The Perfect Man" / "The Top Guy Everywhere" Jacob Crane {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }}
+  - "The Perfect Man" / "The Top Guy Everywhere" Jacob Crane {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'frpw']) }}
   -  _Rookie_ Jacob {{ org_badge(orgs=['mzw']) }} (early appearances)
   - Kuba Kamiński {{ org_badge(orgs=['mzw']) }} (early appearances)
   - Jacobs Krönung {{ org_badge(orgs=['ppw']) }} (non-canon shows)

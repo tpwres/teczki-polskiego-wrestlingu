@@ -15,7 +15,7 @@ Antoni Ocean is a Polish wrestler known for his time in [PpW Ewenement](@/o/ppw.
 * Years active: 2025-present
 * Gimmicks/nicknames:
   - _rookie_ Antek {{ org_badge(orgs=['ppw']) }} (August-September 2025)
-  - Antoni Ocean {{ org_badge(orgs=['ppw']) }} (September 2025-)
+  - Antoni Ocean {{ org_badge(orgs=['ppw', 'frpw']) }} (September 2025-)
 * Trained by:
   - [Ewenement Dojo](@/o/dojo.md) (2025-)
  
