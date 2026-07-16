@@ -19,7 +19,7 @@ has_video = true
 * On 10.07.2025 PTW announced a Hardcore Match between [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) and [Alex Brave](@/w/alex-brave.md).
 * The next day PTW announced [Sigma Boy xD](@/w/sigma-boy.md) vs Andi ZickZack from Austria, making his debut in Poland.
 * On 15.07.2025 PTW announced Daniel Razor vs ["Starboy" Nano Lopez](@/w/nano-lopez.md) for the vacated [PTW Underground Championship](@/c/ptw-underground-championship.md).
-* On 16.07.2025 PTW announced the debut of Austrian Flex Skywalker in a match with [Spartan](@/w/spartan.md).
+* On 16.07.2025 PTW announced the debut of Austrian [Flex Skywalker](@/w/flex-skywalker.md) in a match with [Spartan](@/w/spartan.md).
 * The day after, PTW announced another Polish debut: Lucy Couture from England, set to challenge [Diana Strong](@/w/diana-strong.md) for her GLAM! Championship.
 * On 19.07.2025 PTW announced [Serg Sullivan](@/w/serg-sullivan.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 * "Hottest free agent" [CJ Klakson](@/w/cj-klakson.md) teased a PTW debut over the prior week with multiple vignettes on his social media.
@@ -33,7 +33,7 @@ has_video = true
   - 'Lucy Couture'
   - c: 'GLAM! Championship Match'
 - - '[Spartan](@/w/spartan.md)'
-  - 'Flex Skywalker'
+  - '[Flex Skywalker](@/w/flex-skywalker.md)'
 - - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - 'Andi ZickZack'
 - - '[El G](@/w/el-g.md)'
@@ -82,7 +82,7 @@ has_video = true
 * The show started with a new "PTW Anthem" by a little-known rapper Buntownik (_The Rebel_).
 * In the opening promo by Nietykalni, Pawłowski rambled on about their achievements, berating Okoński and the referees. He announced an additional PTW show for the next Sunday (27.07), including an appearance by, and a meet'n'greet with, the AEW TBS Champion, [Mercedes Moné](@/w/mercedes-mone.md). The show's name was not revealed.
 * Diana defeated Lucy Couture in a fairly short match, retaining her GLAM! Women's Championship.
-* Spartan defeated Flex Skywalker in a short match.
+* Spartan defeated [Flex Skywalker](@/w/flex-skywalker.md) in a short match.
 * Sigma Boy xD defeated Andi ZickZack in a competitive, fast-paced match.
 * Skwarczyński proceeded to announce a Fatal 5-Way International Showcase Match including four Italian competitors and one from Austria - not revealed before the show. It featured two debuting stars: [Nic Wesker](@/w/nic-wesker.md) from Austria and Ricky Eagle from Italy (mistakenly announced as Rick Eagle). El G won, stealing a victory from Luca Bjorn once again.
 * In an impromptu match-up, Puncher retained his PTW Championship against Flamingo.

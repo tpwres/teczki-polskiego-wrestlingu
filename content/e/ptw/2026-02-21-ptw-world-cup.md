@@ -53,7 +53,7 @@ has_video = true
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '["Showtime" Alex Brave](@/w/alex-brave.md)'
-  - 'Flex Skywalker'
+  - '[Flex Skywalker](@/w/flex-skywalker.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Boguś](@/w/bogus.md)'
   - '[Bumper](@/w/fabian.md)'

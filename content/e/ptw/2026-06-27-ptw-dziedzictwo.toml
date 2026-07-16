@@ -2,7 +2,7 @@
 02 = { path = "bogus-vs-razor.webp", caption = "Image announcing [Boguś](@/w/bogus.md) vs [Daniel Razor](@/w/daniel-razor.md).", source = "Official PTW Facebook" }
 03 = { path = "fabeaux.webp", caption = "Image announcing [Fabian](@/w/fabian.md).", source = "Official PTW Facebook" }
 04 = { path = "krampus.webp", caption = "Image announcing [Krampus](@/w/krampus.md).", source = "Official PTW Facebook" }
-05 = { path = "flex-skywalker-vs-vincent-caravaggio.webp", caption = "Image announcing Flex Skywalker vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook" }
+05 = { path = "flex-skywalker-vs-vincent-caravaggio.webp", caption = "Image announcing [Flex Skywalker](@/w/flex-skywalker.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook" }
 06 = { path = "okonski.webp", caption = "Image announcing [Łukasz Okoński](@/w/lukasz-okonski.md).", source = "Official PTW Facebook" }
 07 = { path = "white-misiek-jak-w-zakopanem.webp", caption = "Image announcing [Whiteblade](@/w/whiteblade.md) vs [Misiek](@/w/misiek.md).", source = "Official PTW Facebook" }
 08 = { path = "brave-vs-klakson.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md).", source = "Official PTW Facebook" }

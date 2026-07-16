@@ -29,7 +29,7 @@ has_video = true
 {% card() %}
 - - '[Krampus](@/w/krampus.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-- - 'Flex Skywalker'
+- - '[Flex Skywalker](@/w/flex-skywalker.md)'
   - 'Andi ZickZack'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - s: Triple Threat Match
