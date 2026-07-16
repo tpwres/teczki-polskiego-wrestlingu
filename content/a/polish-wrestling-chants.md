@@ -46,6 +46,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Chcemy krwi") %}xt͡sˈɛmɨ krfˈi{% end %}
 * _Jedziesz z tą kurwą, hej [wrestler], jedziesz z tą kurwą_ - "Fuck this bitch up, [wrestler]": encouraging offense and insulting the opponent at the same time. \
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
+* _Męski seks_ - "Masculine sex": heard during matches between good-looking, well-built, half-naked men. \
+  {% ipa(tts="Męski seks") %}mˈɛ̃ski sˈɛks{% end %}
 * _Pokaż cycki_ - "Show your tits": a raunchy chant targeted at female performers (usually when the crowd gets noticeably intoxicated). \
   {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 
 * _Pokaż dupę_ - "Show your ass": when targeted at male performers it's rather a "What?!" chant signifying the persona is boring. Also something of a running joke targeted at [Adrian Zgórski](@/w/adrian-zgorski.md). \
@@ -60,6 +62,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
   {% ipa(tts="Urwij mu łeb") %}ˈurvij mˈu wˈɛp{% end %}
+* _Więcej seksu_ - "More sex": same as "Męski seks". \
+  {% ipa(tts="Więcej seksu") %}vʲˈɛnt͡sɛj sˈɛksu{% end %}
 * _Zabij go_ - "Kill him": encouraging offense. \
   {% ipa(tts="Zabij go") %}zˈabʲij ɡˈɔ{% end %}
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
@@ -70,6 +74,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]_ - "Leave [wrestler] alone, you bitch": when a babyface receives too much punishment. \
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek". \
   {% ipa(tts="Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]") %}zˈɔstaf &#91;vrɛstlˈɛra&#93;, tˈɨ kˈurvɔ, zˈɔstaf &#91;vrɛstlˈɛra&#93;{% end %} 🌶️🌶️
+* _Zrób mu z dupy buzię_ - "Make his ass into a face": a general, is somewhat nonsensical, encouragement of violent action. Note, that the word "buzia" is a rather childish term for a face, not typically expected in a context like this. \
+  {% ipa(tts="Zrób mu z dupy buzię") %}zrˈup mu z dˈupɨ bˈuʑɛ{% end %} 🌶️
 
 ## Referee
 
@@ -137,7 +143,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Karasie jedzą gówno") %}karˈaɕɛ jˈɛd͡ʑɔ̃ ɡˈuvnɔ{% end %} 🌶️
 * _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the hooligan [Olgierd](@/w/olgierd.md), or the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and Olgierd. \
   {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️
-* _Lis jest pod ochroną_ - "Fox is protected": when Axel Fox is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
+* _Lis jest pod ochroną_ - "Fox is protected": when [Axel Fox](@/w/jakub.md) is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
   {% ipa(tts="Lis jest pod ochroną") %}lˈis jɛst pɔt ɔxrˈɔnɔ̃{% end %}
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "fucktard" or "loser". \
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
