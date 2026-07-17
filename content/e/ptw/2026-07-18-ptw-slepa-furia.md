@@ -26,6 +26,8 @@ has_video = false
 * Later the same day PTW announced a Tag Team Match between Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)) and [El G](@/w/el-g.md) & El Clavo.
 * The next day PTW announced [Misiek](@/w/misiek.md) vs Stone Malone from Scotland.
 * On 15.07.2026 PTW announced that [Łukasz Okoński](@/w/lukasz-okonski.md) will open the show.
+* On 17.07.2026 the federation announced the crew of host/ring announcer [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md), referee [Klaudiusz](@/w/sedzia-klaudiusz.md) and commentator [Adam Goldschmidt](@/w/adam-goldschmidt.md).
+* It was followed a few hours later by the announcement of [Sawicki's](@/w/sawicki.md) confession. Sawicki was last seen at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) where he joined [Whiteblade](@/w/whiteblade.md) and [Damian Lambert's](@/w/damian-lambert.md) group, Proroctwo.
 
 ## Predicted card
 
@@ -56,9 +58,16 @@ has_video = false
   - '[El G](@/w/el-g.md) & El Clavo'
   - s: Tag Team Match
     nc: upcoming
+- - '[Sawicki](@/w/sawicki.md)'
+  - g: "Sawicki's confession."
+    nc: upcoming
 - - '[Misiek](@/w/misiek.md)'
   - 'Stone Malone'
   - nc: upcoming
+- credits:
+    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Marek'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md)'  
 {% end %}
 
 ### Highlights
