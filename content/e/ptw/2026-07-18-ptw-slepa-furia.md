@@ -60,7 +60,7 @@ has_video = false
     nc: upcoming
 - - '[Sawicki](@/w/sawicki.md)'
   - g: "Sawicki's confession."
-  - nc: upcoming
+    nc: upcoming
 - - '[Misiek](@/w/misiek.md)'
   - 'Stone Malone'
   - nc: upcoming
