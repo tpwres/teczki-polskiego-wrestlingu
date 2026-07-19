@@ -47,7 +47,7 @@ MCW has one singles championship, which was introduced in late 2019.
 {% championship() %}
 - - '[MCW Championship](@/c/mcw-championship.md)'
   - VACANT
-  - '[Jack Kalom](@/w/kalom.md)' left MCW and vacated the title
+  - '[Jack Kalom](@/w/kalom.md) left MCW and vacated the title'
 {% end %}
 
 ## Internet presence
