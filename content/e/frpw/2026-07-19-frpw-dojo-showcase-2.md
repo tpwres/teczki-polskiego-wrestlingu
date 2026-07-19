@@ -33,6 +33,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - 'adept Sawo'
 - - '[Max Speed](@/w/max-speed.md) & adeptka Yana'
   - '[Emil Völler](@/w/emil-voeller.md) & adeptka Maria'
+  - s: Mixed Tag Team Match
 - - 'Barbarossa'
   - '[Bartosz Plata](@/w/plata.md)'
 - - '[Boro](@/w/boro.md)'
@@ -41,10 +42,14 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - 'Gaba'
-  - g: true
+  - g: Kondzio joins Boro and Mutant as stablemate, Zmowa confronts them and presents Gaba as their new manager.
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ Kondzio the Cannonball'
   - '[Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Gaba'
   - s: Tag Team Match
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - 'Mikołaj "SKS"'
+  - '[Max Speed](@/w/max-speed.md)'
+  - g: Kids in-ring training session during the intermission.
 - - 'Mikołaj "SKS"'
   - '[Sambor](@/w/sambor.md)'
   - '[Szymon Kurczab](@/w/rookie-two.md)'
@@ -70,6 +75,8 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 
 ## Highlights
 
+* This show was intentionally different from [PpW](@/o/ppw.md) events, with all tickets seated, different lighting, and a PG language policy. Host [Joker](@/w/joker.md) reminded the PpW fans present to mind their language, which was mostly successful.
+* During the intermission, Head Coach Jacob Crane ran a basic wrestling training session, advertised as for kids between the ages of 7 and 15. There were six participants, all aged towards the younger side of this bracket, of which two were girls. The kids performed a few basic exercises together with the wrestlers, including squats, push-ups, forward and backward rolls, and an assisted jump onto the second rope in the corner to pose.
 * Rumble Match elimination order:
   1. Monster High Zuza & Sambor eliminated Gaba
   2. Emil Völler eliminated Szymon Kurczab
@@ -79,6 +86,8 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   6. Völler eliminated Julka
   7. Mikołaj "SKS" eliminated Marcelito
   8. Mikołaj eliminated Völler
+* [Bart Petro](@/w/bart-petro.md), better known recently for teaming with [CJ Klakson](@/w/cj-klakson.md) in PTW was a surprise appearance in the Rumble Match.
+* After the main event, Leon, still winded and panting, took the mic and praised all the rookies present, and the Foundations' efforts. He recalled that back when he wanted to become a wrestler, such level of professional guidance was not easily available.
 
 ## References
 
