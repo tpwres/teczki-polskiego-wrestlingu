@@ -179,11 +179,17 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
     en: '[PTW: Krew Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
     ed: 2026-05-23
 - - '"Starboy" Nano Lopez(c)'
-  - '???'
+  - '[El G](@/w/el-g.md) w/ Conte, adeptka Marta'
   - s: Singles Match
     en: '[PTW: Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
     ed: 2026-06-27
-    nc: upcoming
+- - '"Starboy" Nano Lopez(c)'
+  - '[Blaze](@/w/blaze.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - s: Four-Way Match
+    en: '[PTW: Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)'
+    ed: 2026-07-18
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c

@@ -1,5 +1,5 @@
 +++
-title = 'Jack Kalom'
+title = 'Kalom'
 template = "talent_page.html"
 authors = ["M3n747", "Szymon Iwulski"]
 [extra]
@@ -10,13 +10,14 @@ country = ["PL"]
 1 = { path = "jack-kalom.webp", caption = "Jack Kalom holding the [MCW Championship](@/c/mcw-championship.md) at [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md).", source = "Official MCW Facebook" }
 +++
 
-Jack Kalom is a Polish wrestler working for [Mine City Wrestling](@/o/mcw.md). His ringname appears to be a reference to [Cor Kalom][guru] - the final antagonist of video game _Gothic_, which is a cult classic in Poland.
+Kalom is a Polish wrestler currently working for [Prime Time Wrestling](@/o/ptw.md), and known for his time in [Mine City Wrestling](@/o/mcw.md) (as Jack Kalom). His ringname appears to be a reference to [Cor Kalom][guru] - the final antagonist of video game _Gothic_, which is a cult classic in Poland.
 
 ## Basic info 
 
 * Years active: 2023-present
 * Gimmicks/nicknames:
   - Jack Kalom {{ org_badge(orgs=['mcw']) }}
+  - Kalom {{ org_badge(orgs=['ptw']) }}
 
 ## Professional wrestling career
 
@@ -26,7 +27,7 @@ Jack Kalom debuted for MCW at [Damage Control](@/e/mcw/2023-12-16-mcw-damage-con
 
 ### Prime Time Wrestling (2026-present)
 
-In 2026, while still the MCW Champion, Kalom resurfaced as one of the rookies in [PTW's](@/o/ptw.md) Lucky 8 contest.
+In 2026, while still the MCW Champion, Kalom resurfaced as one of the rookies in [PTW's](@/o/ptw.md) Lucky 8 contest. He first appeared at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) in a segment with [Daniel Razor](@/w/daniel-razor.md). His joining PTW meant leaving MCW and vacating the MCW Championship.
 
 ## In wrestling
 
@@ -45,7 +46,7 @@ In 2026, while still the MCW Champion, Kalom resurfaced as one of the rookies in
 ## Championships and accomplishments
 
 * [Mine City Wrestling](@/o/mcw.md):
-  - [MCW Championship](@/o/mcw.md) (1 time; current)
+  - [MCW Championship](@/o/mcw.md) (1 time)
 
 ## Internet presence
 
