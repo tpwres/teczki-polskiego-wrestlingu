@@ -38,7 +38,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 - - '[Boro](@/w/boro.md)'
   - '[Mutant](@/w/mutant.md)'
   - 'Kondzio the Cannonball'
-  - '[Mister Z](@/w/mister-z.md)
+  - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - 'Gaba'
   - g: true
