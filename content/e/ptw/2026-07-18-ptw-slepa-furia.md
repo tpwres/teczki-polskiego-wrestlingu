@@ -34,12 +34,12 @@ has_video = true
 {% card() %}
 - - '[Arkadiusz "Pan" Pawłowski"](@/w/pan-pawlowski.md)'
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
-  - g: Pawłowski makes his return as ring announcer
+  - g: Pawłowski makes his return as a ring announcer.
 - - '[Boguś](@/w/bogus.md)'
-  - '[Fabian](@/w/fabian.md); Dominique VaDique'
-- - '[Fabian](@/w/fabian.md);'
+  - '[Fabian](@/w/fabian.md) w/ Dominique VaDique'
+- - '[Fabian](@/w/fabian.md)'
   - 'Dominique VaDique'
-  - g: 'Fabian fires VaDique, VaDique fires Fabian'
+  - g: 'Fabian fires VaDique, VaDique fires Fabian.'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
 - - '[Flex Skywalker](@/w/flex-skywalker.md)'
@@ -54,7 +54,7 @@ has_video = true
     s: Four-Way Match
 - - '[Sawicki](@/w/sawicki.md)'
   - '[Whiteblade](@/w/whiteblade.md)'
-  - g: "Sawicki's confession"
+  - g: "Sawicki's confession."
 - - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
   - '[El Hijo del G](@/w/el-g.md) & El Clavo'
   - s: Tag Team Match
@@ -73,7 +73,7 @@ has_video = true
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - '[Misiek](@/w/misiek.md)'
-  - g: Closing segment turns into Spartan's rampage
+  - g: "Closing segment turns into Spartan's rampage."
     Host, ring announcer: '[Arkadiusz "Pan" Pawłowski"](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Marek'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
