@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"Ślepa Furia" (_Blind Fury_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Ślepa Furia" (_Blind Fury_) was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build-up
 
@@ -29,42 +29,35 @@ has_video = false
 * On 17.07.2026 the federation announced the crew of host/ring announcer [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md), referee [Klaudiusz](@/w/sedzia-klaudiusz.md) and commentator [Adam Goldschmidt](@/w/adam-goldschmidt.md).
 * It was followed a few hours later by the announcement of [Sawicki's](@/w/sawicki.md) confession. Sawicki was last seen at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) where he joined [Whiteblade](@/w/whiteblade.md) and [Damian Lambert's](@/w/damian-lambert.md) group, Proroctwo.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Fabian](@/w/fabian.md)'
-  - '[Boguś](@/w/bogus.md)'
-  - nc: upcoming
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-  - '???'
-  - nc: upcoming
-- - '[Spartan](@/w/spartan.md)(c)'
-  - 'Jakk Selström'
-  - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
-- - '[Nic Wesker](@/w/nic-wesker.md)'
-  - '[Daniel Razor](@/w/daniel-razor.md)'
-  - nc: upcoming
-- - '[CJ Klakson](@/w/cj-klakson.md)'
-  - 'Stan the Slav'
-  - nc: upcoming
+{% card() %}
+- - '[Boguś](@/w/bogus.md)'
+  - '[Fabian](@/w/fabian.md)'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - nc: upcoming
-- - '[Alex Brave](@/w/alex-brave.md)'
-  - '[Flex Skywalker](@/w/flex-skywalker.md)'
-  - nc: upcoming
+- - '[Flex Skywalker](@/w/flex-skywalker.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Nic Wesker](@/w/nic-wesker.md)'
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)(c)'
+  - '[Blaze](@/w/blaze.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    s: Four-Way Match
+- - '[Sawicki](@/w/sawicki.md)'
+  - g: "Sawicki's confession."
 - - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
   - '[El G](@/w/el-g.md) & El Clavo'
   - s: Tag Team Match
-    nc: upcoming
-- - '[Sawicki](@/w/sawicki.md)'
-  - g: "Sawicki's confession."
-    nc: upcoming
 - - '[Misiek](@/w/misiek.md)'
   - 'Stone Malone'
-  - nc: upcoming
-- credits:
+- - '[CJ Klakson](@/w/cj-klakson.md)'
+  - 'Stan the Slav'
+- - '[Spartan](@/w/spartan.md)(c)'
+  - 'Jakk Selström'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Marek'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md)'  
@@ -72,7 +65,7 @@ has_video = false
 
 ### Highlights
 
-* TBD
+* [Kalom](@/w/kalom.md), formerly the [MCW Champion](@/c/mcw-championship.md), appeared at the show in a segment with [Daniel Razor](@/w/daniel-razor.md).
 
 ## References
 
