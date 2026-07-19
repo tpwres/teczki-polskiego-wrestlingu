@@ -14,7 +14,7 @@ has_video = false
 [extra.gallery]
 +++
 
-The second [Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna](@/v/teatr-komuna.md). Unlike the [first event](@/e/frpw/2026-05-03-frpw-dojo-showcase.md), this one is advertised as a Dojo show only, without the PpW branding. Instead, it is the first event organised solely by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) - an organisation which is the owner of Warszawska Szkoła Wrestlingu (formerly Ewenement Dojo).
+The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-komuna.md). Unlike the [first event](@/e/frpw/2026-05-03-frpw-dojo-showcase.md), this one was advertised as a Dojo show only, without the PpW branding. Instead, it was the first event organised solely by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) - an organisation which is the owner of Warszawska Szkoła Wrestlingu (formerly Ewenement Dojo).
 
 ## Build-up
 
@@ -26,14 +26,16 @@ The second [Dojo](@/o/dojo.md) showcase will be held in [Teatr Komuna](@/v/teatr
 * On 3.07.2026 the Dojo announced [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Gloria G Szek](@/w/istotna-martynka.md) & [Goblin](@/w/goblin.md) in a Mixed Tag Team.
 * On 5.07 [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) were announced to have a spot on the card, without further details.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '_rookie_ Sawo'
+
+
+
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
-  - nc: upcoming
-- - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '_rookie_ ???'
   - nc: upcoming
 - - '???'
   - '???'
