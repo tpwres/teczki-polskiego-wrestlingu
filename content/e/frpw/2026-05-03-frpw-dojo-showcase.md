@@ -58,7 +58,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
   - '["Ladykiller" Boro](@/w/boro.md) & [Muti](@/w/mutant.md)'
   - s: Tag Team Match
 - credits:
-    Host, Ring Announcer: '[Joker](@/w/michael-ht.md)'
+    Host, Ring Announcer: '[Joker](@/w/joker.md)'
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Sewi](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)'
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
