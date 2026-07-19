@@ -61,6 +61,8 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - s: Mixed Tag Team Match
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - g: Leon compliments the rookies and FRPW.
 - credits:
     Host, Ring Announcer: '[Joker](@/w/joker.md)'
     Referees: '[Sędzia Sewi](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)'
