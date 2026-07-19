@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -98,5 +98,6 @@ has_video = false
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457200)
 * [Stone Malone's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=28881)
+* [Official YouTube stream, requires paid subscription](https://www.youtube.com/watch?v=yf0ze77S5yE)
 
 [godzina]: https://www.youtube.com/watch?v=ZuXiosMADQs
