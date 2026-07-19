@@ -30,9 +30,9 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
-  - 'Adept Sawo'
-- - '[Max Speed](@/w/max-speed.md) & Adeptka Yana'
-  - '[Emil Völler](@/w/emil-voeller.md) & Adeptka Maria'
+  - 'adept Sawo'
+- - '[Max Speed](@/w/max-speed.md) & adeptka Yana'
+  - '[Emil Völler](@/w/emil-voeller.md) & adeptka Maria'
 - - 'Barbarossa'
   - '[Bartosz Plata](@/w/plata.md)'
 - - '[Boro](@/w/boro.md)'
@@ -52,8 +52,8 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - '[Emil Völler](@/w/emil-voeller.md)'
   - 'Monster High Zuza'
   - '[Marcelito](@/w/marcelito.md)'
-  - 'Adept Młody'
-  - 'Adeptka Julka'
+  - 'adept Młody'
+  - 'adeptka Julka'
   - '[Bart Petro](@/w/bart-petro.md)'
   - s: Rumble Match
 - - '[Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
