@@ -10,7 +10,7 @@ toclevel = 2
 has_video = true
 [extra.gallery.1]
 path = "2023-12-16-mcw-damage-control-plakat.jpg"
-caption = "Official poster. Pictured from left to right are: Chris Steeler, [RAV](@/w/rav.md), [Johny Vegas](@/w/johny-vegas.md), and [Jack Kalom](@/w/jack-kalom.md)."
+caption = "Official poster. Pictured from left to right are: Chris Steeler, [RAV](@/w/rav.md), [Johny Vegas](@/w/johny-vegas.md), and [Jack Kalom](@/w/kalom.md)."
 source = "Official MCW Facebook"
 +++
 
@@ -25,7 +25,7 @@ This was a charity event held at {{ map_pin(v="Szkoła Podstawowa nr 20") }}Prim
     n: 'Jack Kalom interevenes, attacks Chris Steeler, antagonises the referee and manhandles Johny Vegas, before demanding a fight against everyone.'
 - - '[RAV](@/w/rav.md)(c)'
   - 'Chris Steeler'
-  - '[Jack Kalom](@/w/jack-kalom.md)'
+  - '[Jack Kalom](@/w/kalom.md)'
   - '[Johny Vegas](@/w/johny-vegas.md)'
   - s: Fatal Four-Way Match
     c: '[MCW Championship](@/c/mcw-championship.md)'

@@ -17,7 +17,7 @@ MCW Championship is [Mine City Wrestling's](@/o/mcw.md) only title. Despite MCW 
 * First champion: [Johny Vegas](@/w/johny-vegas.md)
 * Most reigns: N/A
 * Longest reign: Johny Vegas (1127 days)
-* Shortest reign: Jack Kalom (1+ days)
+* Shortest reign: Jack Kalom (596 days)
 
 ## Belt design
 
@@ -54,12 +54,12 @@ The belt is made out of thin metal sheets with gold-and-black lettering and orna
     ed: 2022-10-15
 - - 'RAV(c)'
   - 'Chris Steeler'
-  - 'Jack Kalom'
+  - '[Jack Kalom](@/w/kalom.md)'
   - 'Johny Vegas'
   - s: Fatal Four-Way Match
     en: '[MCW Damage Control](@/e/mcw/2023-12-16-mcw-damage-control.md)'
     ed: 2023-12-16
-- - '[Jack Kalom](@/w/jack-kalom.md)'
+- - 'Jack Kalom'
   - 'RAV(c)'
   - s: No-DQ Match
     en: '[MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)'
@@ -71,9 +71,15 @@ The belt is made out of thin metal sheets with gold-and-black lettering and orna
 ### Champion #3: Jack Kalom
 
 {% free_card() %}
-- - '[Jack Kalom](@/w/jack-kalom.md)'
+- - '[Jack Kalom](@/w/kalom.md)'
   - '[RAV](@/w/rav.md)(c)'
   - s: No-DQ Match
     en: '[MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)'
     ed: 2024-11-16
 {% end %}
+
+**TOTAL:** 596 days.
+
+Jack Kalom left MCW for [PTW](@/o/ptw.md) in mid-2026, thus vacating the title. While the exact date of him leaving MCW isn't known, he posted a [video][kalom-odszedl] about joining PTW on 5.07.2026; this date was used to calculate the length of his reign.
+
+[kalom-odszedl]: https://www.instagram.com/kalom_ptw/reel/Daai0DCsw8G/

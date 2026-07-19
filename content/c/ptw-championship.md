@@ -174,7 +174,6 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW: Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)'
     ed: 2026-07-18
-    nc: upcoming
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt
