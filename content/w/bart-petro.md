@@ -14,7 +14,7 @@ Bart Petro is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 * Years active: 2025-present
 * Gimmicks/nicknames:
-  - Bart Petro{{ org_badge(orgs=['ptw']) }} (2025-present)
+  - Bart Petro{{ org_badge(orgs=['ptw', 'frpw']) }} (2025-present)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2019)
   - Revolution Pro Wrestling (2024-present)
@@ -29,6 +29,10 @@ Bart Petro trained with [Kombat Pro Wrestling](@/o/kpw.md), but never debuted th
 ### Prime Time Wrestling (2025-present)
 
 After training with KPW for a year, Bart moved to [Prime Time Wrestling](@/o/ptw.md) where he continued his trainings. Eventually he debuted at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md), where he joined [Blaze](@/w/blaze.md) in a Triple Threat Tag Team Match against [Dropper](@/w/whiteblade.md) & [Bumper](@/w/fabian.md) and [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md).
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Petro made a surprise appearance at [FRPW Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), taking part in a Rumble Match.
 
 ## In wrestling
 

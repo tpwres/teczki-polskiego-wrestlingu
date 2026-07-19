@@ -24,41 +24,59 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 * On 1.07.2026 came the announcement of a Rumble Match. While no participants were named, the post stated that anyone can be expected to appear: "both men and women, both known and experienced workers as well as just debuting rookies".
 * The next day the Dojo announced [Bartosz Plata](@/w/plata.md) vs Austrian wrestler Barbarossa. Barbarossa had previously appeared at [KPW Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md).
 * On 3.07.2026 the Dojo announced [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Gloria G Szek](@/w/istotna-martynka.md) & [Goblin](@/w/goblin.md) in a Mixed Tag Team.
-* On 5.07 [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) were announced to have a spot on the card, without further details.
+* On 5.07.2026 [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) were announced to have a spot on the card, without further details.
 
 ## Card
 
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '_rookie_ Sawo'
-
-
-
-- - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Oskar Alexander](@/w/oskar-alexander.md)'
-  - nc: upcoming
-- - '???'
-  - '???'
-  - '???'
-  - '???'
-  - s: Rumble match
-    nc: upcoming
-- - '[Bartosz Plata](@/w/plata.md)'
-  - 'Barbarossa'
-  - nc: upcoming
+- - '[Max Speed](@/w/max-speed.md) & _rookie_ Yana'
+  - '[Emil Völler](@/w/emil-voeller.md) & _rookie_ Maria'
+- - 'Barbarossa'
+  - '[Bartosz Plata](@/w/plata.md)'
+- - '[Boro](@/w/boro.md)'
+  - '[Mutant](@/w/mutant.md)'
+  - 'Kondzio the Cannonball'
+  - '[Mister Z](@/w/mister-z.md)
+  - '[Olgierd](@/w/olgierd.md)'
+  - 'Gaba'
+  - g: true
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ Kondzio the Cannonball'
+  - '[Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Gaba'
+  - s: Tag Team Match
+- - 'Mikołaj "SKS"'
+  - '[Sambor](@/w/sambor.md)'
+  - '[Szymon Kurczab](@/w/rookie-two.md)'
+  - 'Gaba'
+  - '[Emil Völler](@/w/emil-voeller.md)'
+  - 'Monster High Zuza'
+  - '[Marcelito](@/w/marcelito.md)'
+  - '_rookie_ Młody'
+  - '_rookie_ Julka'
+  - '[Bart Petro](@/w/bart-petro.md)'
+  - s: Rumble Match
 - - '[Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Gloria G Szek](@/w/istotna-martynka.md) & [Goblin](@/w/goblin.md)'
   - s: Mixed Tag Team Match
-    nc: upcoming
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '??? & ???'
-  - s: Tag Team Match
-    nc: upcoming
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+- credits:
+    Host, Ring Announcer: '[Joker](@/w/joker.md)'
+    Referees: '[Sędzia Sewi](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)'
 {% end %}
 
 ## Highlights
 
-* TBD
+* Rumble Match elimination order:
+  1. Monster High Zuza & Sambor eliminated Gaba
+  2. Emil Völler eliminated Szymon Kurczab
+  3. Marcelito eliminated Młody
+  4. Julka & Völler eliminated Sambor & Zuza
+  5. Marcelito eliminated Petro
+  6. Völler eliminated Julka
+  7. Mikołaj "SKS" eliminated Marcelito
+  8. Mikołaj eliminated Völler
 
 ## References
 
