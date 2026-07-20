@@ -74,6 +74,7 @@ has_video = true
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
   - '[Misiek](@/w/misiek.md)'
   - g: "Closing segment turns into Spartan's rampage."
+- credits:
     Host, ring announcer: '[Arkadiusz "Pan" Pawłowski"](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), Sędzia Marek'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
