@@ -15,13 +15,13 @@ Biuro Prasowe (_Press Office_), also known as Biuro Prasowe Arka Paterka (_Arek 
 
 ### Legacy of Wrestling (2025-)
 
-#### Formation and duo (2025)
+#### Formation and initial members (2025)
 
 In a lead-up to [Legacy of Wrestling Vol.2](@/e/low/2025-04-06-low-2.md), Legacy shared a [voice message][glosowa] from [Arek Paterek](@/w/arek-paterek.md). He claimed to fear for his safety in Legacy's current regime and requested the addition of an "inviolability clause" to his contract with the promotion.
 
 At the show proper, in addition to providing commentary, he introduced Legacy's new acting chairman, [Wiktor D.](@/w/wiktor-longman.md), and also accompanied [Erik Šlotíř](@/w/erik-slotir.md) during his match, posing as a seemingly villainous manager. After the show, Paterek [announced][otwarcie] the creation of a new stable called ["Biuro Prasowe"](@/tt/biuro-prasowe.md), with Erik becoming his first "client". In parallel, Paterek started his attempts to recruit [Sambor](@/w/sambor.md).
 
-At [Legacy vol. 3](@/e/low/2025-07-11-low-3.md), Paterek orchestrated a title match for Šlotíř, who faced Yaqoob and the [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) in an impromptu Triple Threat Match, won by the defending Champion. At the end of the show, [Arek Paterek](@/w/arek-paterek.md) was seen talking to [Sambor](@/w/sambor.md), telling him he surrounded himself with the wrong people. He then said that it can be very easily remedied, implying that he wants Sambor to join him and [Erik Šlotíř](@/w/erik-slotir.md) in [Biuro Prasowe](@/tt/biuro-prasowe.md).
+At [Legacy vol. 3](@/e/low/2025-07-11-low-3.md), Paterek orchestrated a title match for Šlotíř, who faced Yaqoob and the [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) in an impromptu Triple Threat Match, won by the defending Champion. At the end of the show, [Arek Paterek](@/w/arek-paterek.md) was seen talking to [Sambor](@/w/sambor.md), telling him he'd surrounded himself with the wrong people. He then said that it could be very easily remedied, implying he wanted Sambor to join him and [Erik Šlotíř](@/w/erik-slotir.md) at [Biuro Prasowe](@/tt/biuro-prasowe.md).
 
 Šlotíř was scheduled to represent Biuro in a 12 Weapons of Christmas Match against [Disco Pablo](@/w/disco-pablo.md) at [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md), but was forced to cancel due to an injury. The match still happened, with a surprise debut of MZW's [Tony Sheen](@/w/riverman.md) taking Erik's place. After the match, Sheen opened the twelfth, unused gift, revealing it to be Biuro's T-shirt. He put it on and confirmed joining the stable.
 
@@ -52,11 +52,9 @@ At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md), Riverman was 
 
 * [Erik Šlotíř](@/w/erik-slotir.md)
 
-
 ## In wrestling
 
 * Entrance music:
-
   - "Broken" by Mother Tongue
     {{ org_badge(orgs=['low']) }} (2026-) <br>
     {{ music(yt='NqtbSCjMGKM')}}
