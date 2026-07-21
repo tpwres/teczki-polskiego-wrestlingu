@@ -155,7 +155,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
 * _Siła przyjaźni_ - "Power of friendship": originally [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). Later used more widely, to cheer on any displays of friendship in the ring. \
   {% ipa(tts="Siła przyjaźni") %}ɕˈiwa pʃɨjˈaʑɲi{% end %}
-* _Tony Sk1n, chuj ci w ryj_ roughly: "Tony Sk1n, suck a dick". Used against [Tony Sk1n](@/w/tony-sk1n.md), as a mega heel in PpW. \
+* _Tony Sk1n, chuj ci w ryj_ - roughly: "Tony Sk1n, suck a dick". Used against [Tony Sk1n](@/w/tony-sk1n.md), as a mega heel in PpW. \
   {% ipa(tts="Tony Skin, chuj ci w ryj") %}tˈɔnɨ skˈin, xˈuj t͡ɕi w rˈɨj{% end %} 🌶️🌶️🌶️
 * _Wiedźmin 4_ - "Witcher 4": [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior. \
   {% ipa(tts="Wiedźmin cztery") %}vʲˈɛd͡ʑmin t͡ʃtˈɛrɨ{% end %}
