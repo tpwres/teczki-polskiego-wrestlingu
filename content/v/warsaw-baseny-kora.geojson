@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [21.080752, 52.220938]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Baseny Kora",
+        "description": "A swimming pool complex, the site of [PpW x Wixapol](@/e/ppw/2026-08-15-ppw-wixapol.md)."
+        "orgs": ["ppw"]
+    }
+}
