@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [23.05462, 52.27569]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Serpelice",
+        "description": "A village where [PpW @ Gryf Party](@/e/ppw/2026-06-20-ppw-at-gryf-party.md) took place.",
+        "orgs": ["ppw"]
+    }
+}
