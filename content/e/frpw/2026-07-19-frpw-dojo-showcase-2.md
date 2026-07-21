@@ -25,7 +25,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 * The next day the Dojo announced [Bartosz Plata](@/w/plata.md) vs Austrian wrestler Barbarossa. Barbarossa had previously appeared at [KPW Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md).
 * On 3.07.2026 the Dojo announced [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Gloria G Szek](@/w/istotna-martynka.md) & [Goblin](@/w/goblin.md) in a Mixed Tag Team.
 * On 5.07.2026 [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) were announced to have a spot on the card, without further details.
-* On 10.07.2026 FRPW announced, that the main event match will be sponsored by [Yatta.pl][yatta] - Polish comic book store chain focused on manga & anime.
+* On 10.07.2026 FRPW announced that the main event match would be sponsored by [Yatta.pl][yatta] - a Polish chain of comic book shops focused on manga and anime.
 
 ## Card
 
@@ -68,7 +68,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
-  - g: "Gustav presents the main event awards provided by sponsor."
+  - g: "Gustav presents main event awards provided by the sponsor."
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
 - - '[Leon Lato](@/w/leon-lato.md)'
@@ -92,7 +92,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   7. Mikołaj "SKS" eliminated Marcelito
   8. Mikołaj eliminated Völler
 * [Bart Petro](@/w/bart-petro.md), better known recently for teaming with [CJ Klakson](@/w/cj-klakson.md) in PTW was a surprise appearance in the Rumble Match.
-* Before main-event bell rang, one of [FRPW](@/o/frpw.md) board members: [Gustav Gryffin](@/w/gustav-gryffin.md), entered the ring to grant sponsored gifts for both of the competitors - a pratice known from Japaneese wrestling scene.
+* Before the main event bell rang, one of [FRPW](@/o/frpw.md) board members - [Gustav Gryffin](@/w/gustav-gryffin.md) - entered the ring to grant sponsored gifts to both of the competitors - a pratice imported from the Japaneese wrestling scene.
 * After the main event, Leon, still winded and panting, took the mic and praised all the rookies present, and the Foundations' efforts. He recalled that back when he wanted to become a wrestler, such level of professional guidance was not easily available.
 
 ## References
