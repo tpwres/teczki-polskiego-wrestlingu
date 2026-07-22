@@ -1,1 +1,2 @@
-01 = { path = "zeby-byl-plakat.webp", caption = "Official poster.", source = "Official PpW Facebook" }
+01 = { path = "zeby-byl-plakat.webp", caption = "Official poster featuring top left: [Isnorr](@/w/isnorr.md); bottom left: Biesiad; middle: [Olgierd](@/w/olgierd.md), top right: Oskar Alexander; bottom right: Mister Z.", source = "Official PpW Facebook" }
+02 = { path = "zeby-byla-zapowiedz.webp", caption = "Image announcing the show.", source = "Official PpW Facebook" }
