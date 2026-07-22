@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [21.182021, 51.786200]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Centrum Sportu i Rekreacji w Warce",
+        "description": "Sports and Recreation Centre in Warka, where [FRPW](@/o/frpw.md) held their [third show](@/e/frpw/2026-10-18-frpw-warka.md).",
+        "orgs": ["frpw"]
+    }
+}

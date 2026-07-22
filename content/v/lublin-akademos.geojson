@@ -2,7 +2,7 @@
     "type": "Feature",
     "geometry": {
         "type": "Point",
-        "coordinates": [22.556141, 51.269532]      
+        "coordinates": [22.556141, 51.269532]
     },
     "properties": {
         "type": "venue",
