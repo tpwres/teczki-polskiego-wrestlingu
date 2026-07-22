@@ -81,7 +81,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 ## Highlights
 
 * This show was intentionally different from [PpW](@/o/ppw.md) events, with all tickets seated, different lighting, and a PG language policy. Host [Joker](@/w/joker.md) reminded the PpW fans present to mind their language, which was mostly successful.
-* Additionally, the show featured no hardcore matches, no weapons of any kind, no blood.
+* Additionally, the show featured no hardcore matches, no weapons of any kind and no blood.
 * During the intermission, Head Coach Jacob Crane ran a basic wrestling training session, advertised as for kids between the ages of 7 and 15. There were six participants, all aged towards the younger side of this bracket, of which two were girls. The kids performed a few basic exercises together with the wrestlers, including squats, push-ups, forward and backward rolls, and an assisted jump onto the second rope in the corner to pose.
 * Rumble Match elimination order:
   1. Monster High Zuza & Sambor eliminated Gaba
