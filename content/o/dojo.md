@@ -8,8 +8,8 @@ aliases = ["/o/ewenement-dojo"]
 chrono_root = ["dojo"]
 [extra]
 toclevel = 3
-hide_roster = true
-hide_events = true
+hide_roster = false
+hide_events = false
 [extra.gallery]
 +++
 
