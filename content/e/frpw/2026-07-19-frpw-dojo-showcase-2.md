@@ -4,10 +4,10 @@ template = "event_page.html"
 authors = ["M3n747", "Sewi The Referee"]
 aliases = ["/e/dojo/2026-07-19-dojo-showcase-2"]
 [taxonomies]
-chronology = ["frpw"]
+chronology = ["frpw", "dojo"]
 venue=["teatr-komuna"]
 [extra]
-orgs = ["frpw"]
+orgs = ["frpw", "dojo"]
 city = "Warszawa"
 toclevel = 2
 has_video = false
