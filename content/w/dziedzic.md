@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Syriusz Dziedzic is a Polish wrestler best known for his time in [Legacy of Wrestling](@/o/low.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Prime Time Wrestling](@/o/ptw.md).
+Syriusz Dziedzic is a Polish inactive wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -55,12 +55,20 @@ At MZW's [next show](@/e/mzw/2025-03-29-mzw-forever.md) Dziedzic answered Legia 
 
 Dziedzic joined [Legacy of Wrestling](@/o/low.md), a Katowice-based project founded by ex-PTW peronnel, shortly after its inception. At [Legacy's first show](@/e/low/2024-12-01-low-1.md) the guest host [Sinister](@/w/sinister.md) added Dziedzic as an extra contender in [Chemik's](@/w/chemik.md) Open Challenge for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md), declaring it a Triple Threat Match. During the fight Sinister unexpectedly prevented Dziedzic from breaking Chemik's pinfall attempt, which caused him to get into a conflict with his former master.
 
+#### Title-chase
+
 At the [next show](@/e/low/2025-04-06-low-2.md) Dziedzic faced Sinister in a Singles Match, which determined contendership for the upcoming Legacy Championship. Sinister refused to fight Dziedzic and vowed that Dziedzic would win that match no matter what. The old mentor of Syriusz tanked the whole match first by avoiding the fight, then by allowing Dziedzic to beat him without any defence, just to perform a "Judas kiss" and hit Dziedzic in the groin, causing a disqualification and allowing Dziedzic to win. Despite the numerous setbacks Dziedzic was able to qualify for the Road to the Title finals and secure himself a spot in a Six-Way Elimination Match for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). During the match, which took place at [Four the Glory](@/e/low/2025-12-20-low-4.md), Dziedzic seemingly reverted back to his old gimmick, ditching white shirts and gear for his old black one from the early PTW days. This however didn't help him much, as he was eliminated by [Gabriel Queen](@/w/gabriel-queen.md).
+
+#### Feud with Sinister - encore
+
+At [LoW: Open Season](@/e/low/2026-05-24-low-5.md), [Sinister](@/w/sinister.md) came out after Dziedzic's match and berated him for losing once again. Dziedzic challenged him to a match at Ryucon to which Sinister agreed, but only under the condition that if he wins, Dziedzic will once again join him. Dziedzic countered with a stipulation of his own: if he wins, Sinister must quit Legacy forever.
+At [LoW: Enter the Dragon](@/e/low/2026-07-10-low-6.md), Dziedzic managed to beat Sinister in a _Falls Count Anywhere Match_. He won, thus securing his freedom and ending Sinister's career.
+Shortly after, he shared a long [post](https://www.instagram.com/p/DbEDM-OI6PD/) reminiscing on closing the chapter and announcing an indefinite hiatus from wrestling to take care of his personal well-being.
 
 ## In wrestling
 
 * Finishers:
-  - Spinning Heel Kick (2021-)
+  - _Rumbling_ (Spinning Heel Kick) (2021-)
 * Tag Teams and stables:
   - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2023-2024)
 * Entrance music:
@@ -70,10 +78,15 @@ At the [next show](@/e/low/2025-04-06-low-2.md) Dziedzic faced Sinister in a Sin
     {{ music(spot='4GssB27iJeqmfGxS94Tfij')}}
     {{ music(apple='1487801236?i=1487801237')}}
   - "GladWeHaveAnUnderstanding" by Bones
-    {{ org_badge(orgs=['ptw']) }} (2023-2024, - as part of Sinister Kingdom)<br>
+    {{ org_badge(orgs=['ptw']) }} (2023-2024, - as part of Sinister Kingdom, for group entrances)<br>
     {{ music(yt='dPGxYXWhCzM')}}
     {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
     {{ music(apple='1447553826?i=1447553830')}}
+  - "Puppet" by Stain the Canvas, Get Scared
+    {{ org_badge(orgs=['ptw']) }} (2023-2024, - as part of Sinister Kingdom)<br>
+    {{ music(yt='z94b88wZzI4')}}
+    {{ music(spot='7fFp5wxVb3oJxthl73J1pT')}}
+    {{ music(apple='1692990296?i=1692990301')}}
   - "Golden" by Huntr/X, Ejae, Audrey Nuna, Rei Ami & KPop Demon Hunters Cast<br>
     {{ org_badge(orgs=['low']) }} (2025)<br>
     {{ music(yt='9_bTl2vvYQg')}}
