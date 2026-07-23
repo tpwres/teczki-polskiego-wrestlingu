@@ -87,7 +87,7 @@ Shortly therafter Syriusz shared a long [post][syriusz-na-urlop] reminiscing on 
     {{ music(yt='z94b88wZzI4')}}
     {{ music(spot='7fFp5wxVb3oJxthl73J1pT')}}
     {{ music(apple='1692990296?i=1692990301')}}
-  - "Golden" by Huntr/X, Ejae, Audrey Nuna, Rei Ami & KPop Demon Hunters Cast<br>
+  - "Golden" by Huntr/X, Ejae, Audrey Nuna, Rei Ami & KPop Demon Hunters Cast
     {{ org_badge(orgs=['low']) }} (2025)<br>
     {{ music(yt='9_bTl2vvYQg')}}
     {{ music(spot='1CPZ5BxNNd0n0nF4Orb9JS')}}
