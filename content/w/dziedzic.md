@@ -95,7 +95,7 @@ Shortly therafter Syriusz shared a long [post][syriusz-na-urlop] reminiscing on 
 
 ### Shirts
 
-Beginning with the [inaugural Legacy show](@/e/low/2024-12-01-low-1.md), Dziedzic has changed his former mostly-black ring gear to a mostly-white one, wearing (usually) sleeveless shirts with unique texts printed on them, mostly in red. They were:
+Beginning with the [inaugural Legacy show](@/e/low/2024-12-01-low-1.md), Dziedzic changed his former mostly-black ring gear to a mostly-white one, wearing (usually) sleeveless shirts with unique texts printed on them, mostly in red. They were:
 
 * [Legacy of Wrestling](@/e/low/2024-12-01-low-1.md) - **SOFT & PROUD**. A jab at [Istociarz](@/w/istociarz.md), for repeatedly claiming that Dziedzic is not "tough enough".
 * [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) - **WŁOSY** (_HAIR_). When fighting [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md), both of them bald.
