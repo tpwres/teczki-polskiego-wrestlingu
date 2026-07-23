@@ -43,7 +43,7 @@ Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslo
 
 ### Legacy of Wrestling (2025-present)
 
-Erik Šlotíř made an unexpected return to Poland, debuting in [Legacy of Wrestling](@/o/low.md). At their [second show](@/e/low/2025-04-06-low-2.md) he was the fifth mystery competitor in a Fatal Five Way Match against [Biesiad](@/w/biesiad.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Shadow](@/w/shadow.md), which he won. He immediately associated himself with [Arek Paterek](@/w/arek-paterek.md) - Legacy's on-screen personality - who signed him to his stable called "Biuro Prasowe" (_Press Office_).
+Erik Šlotíř made an unexpected return to Poland, debuting in [Legacy of Wrestling](@/o/low.md). At their [second show](@/e/low/2025-04-06-low-2.md) he was the fifth mystery competitor in a Fatal Five Way Match against [Biesiad](@/w/biesiad.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Shadow](@/w/shadow.md), which he won. He immediately associated himself with [Arek Paterek](@/w/arek-paterek.md) - Legacy's on-screen personality - who signed him to his stable called ["Biuro Prasowe"](@/tt/biuro-prasowe.md) (_Press Office_).
 
 Arek Paterek quickly organised a championship opportunity for Erik at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md), where he faced Yaqoob and the [MZW Champion](@/c/mzw-championship.md) [Matt Buckna](@/w/matt-buckna.md) in a Triple Threat Match, won by the defending Champion.
 
@@ -58,7 +58,7 @@ In June 2025 Erik made his debut for [Maniac Zone Wrestling](@/o/mzw.md), where 
 * Finishers:
   - Diving Elbow Drop (2023-)
 * Tag Teams and stables:
-  - Biuro Prasowe (2025-2026)
+  - [Biuro Prasowe](@/tt/biuro-prasowe.md) (2025-2026)
 * Managers:
   - [Arkadiusz Paterek](@/w/arek-paterek.md) (2025-2026)
 * Entrance music:
