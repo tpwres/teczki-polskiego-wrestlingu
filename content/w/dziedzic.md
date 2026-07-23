@@ -8,11 +8,11 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Syriusz Dziedzic is a Polish inactive wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Syriusz Dziedzic is an inactive Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
-* Years active: 2021-present
+* Years active: 2021-2026
 * Gimmicks/nicknames:
   - Dziedzic {{ org_badge(orgs=['ptw']) }}
   - Syriusz Dziedzic {{ org_badge(orgs=['ptw', 'mzw', 'low']) }}
@@ -43,47 +43,47 @@ On May 31st 2024, Dziedzic appeared on the first episode of "No Gimmick Zone", a
 
 Three days later, on June 3rd, Dziedzic confirmed that he has been officially fired from Prime Time Wrestling, thus ending his time in the company.
 
-### Maniac Zone Wrestling (2024-)
+### Maniac Zone Wrestling (2024-2026)
 
 Four months after his release from PTW Dziedzic made his first in-ring appearance for [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md). He worked as a babyface and took part in a Triple Threat Match against [Biesiad](@/w/biesiad.md) and [Marcelito](@/w/marcelito.md) which he won, as well as in a Battle Royal later in the card, which was won by [Tony "The Riverman" Sheen](@/w/riverman.md). 
 
 At MZW's [next show](@/e/mzw/2025-03-29-mzw-forever.md) Dziedzic answered Legia Łysych's open challenge, with [Jędruś Bułecka](@/w/jedrus-bulecka.md) as his tag team partner, however, they were unable to secure a victory over the experienced tag team. Later on he entered a contender tournament for a championship contract briefcase by facing villainous [Aron Wake](@/w/aron-wake.md) at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md). He however lost by disqualification, when [Mister Z](@/w/mister-z.md) attacked Aron with a chair. Despite that, he was still granted an opportunity for the [MZW Championship](@/c/mzw-championship.md) against [Matt Buckna](@/w/matt-buckna.md) at [Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md), but he was unsucessful in that bout.
 
-### Legacy of Wrestling (2024-)
+### Legacy of Wrestling (2024-2026)
 
 #### Feud with Sinister
 
 Dziedzic joined [Legacy of Wrestling](@/o/low.md), a Katowice-based project founded by ex-PTW peronnel, shortly after its inception. At [Legacy's first show](@/e/low/2024-12-01-low-1.md) the guest host [Sinister](@/w/sinister.md) added Dziedzic as an extra contender in [Chemik's](@/w/chemik.md) Open Challenge for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md), declaring it a Triple Threat Match. During the fight Sinister unexpectedly prevented Dziedzic from breaking Chemik's pinfall attempt, which caused him to get into a conflict with his former master.
 
-#### Title-chase
+#### Title chase
 
 At the [next show](@/e/low/2025-04-06-low-2.md) Dziedzic faced Sinister in a Singles Match, which determined contendership for the upcoming Legacy Championship. Sinister refused to fight Dziedzic and vowed that Dziedzic would win that match no matter what. The old mentor of Syriusz tanked the whole match first by avoiding the fight, then by allowing Dziedzic to beat him without any defence, just to perform a "Judas kiss" and hit Dziedzic in the groin, causing a disqualification and allowing Dziedzic to win. Despite the numerous setbacks Dziedzic was able to qualify for the Road to the Title finals and secure himself a spot in a Six-Way Elimination Match for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md). During the match, which took place at [Four the Glory](@/e/low/2025-12-20-low-4.md), Dziedzic seemingly reverted back to his old gimmick, ditching white shirts and gear for his old black one from the early PTW days. This however didn't help him much, as he was eliminated by [Gabriel Queen](@/w/gabriel-queen.md).
 
 #### Feud with Sinister - encore
 
-At [LoW: Open Season](@/e/low/2026-05-24-low-5.md), [Sinister](@/w/sinister.md) came out after Dziedzic's match and berated him for losing once again. Dziedzic challenged him to a match at Ryucon to which Sinister agreed, but only under the condition that if he wins, Dziedzic will once again join him. Dziedzic countered with a stipulation of his own: if he wins, Sinister must quit Legacy forever.
-At [LoW: Enter the Dragon](@/e/low/2026-07-10-low-6.md), Dziedzic managed to beat Sinister in a _Falls Count Anywhere Match_. He won, thus securing his freedom and ending Sinister's career.
-Shortly after, he shared a long [post](https://www.instagram.com/p/DbEDM-OI6PD/) reminiscing on closing the chapter and announcing an indefinite hiatus from wrestling to take care of his personal well-being.
+At [Open Season](@/e/low/2026-05-24-low-5.md) [Sinister](@/w/sinister.md) came out after Dziedzic's match and berated him for losing once again. Dziedzic challenged his former master to a match at Ryucon to which Sinister agreed, but only under the condition that if he wins, Dziedzic will once again join him. Dziedzic countered with a stipulation of his own: if he wins, Sinister must quit Legacy forever. At [Enter the Dragon](@/e/low/2026-07-10-low-6.md) Dziedzic managed to beat Sinister in a Falls Count Anywhere Match. He won, thus securing his freedom and ending Sinister's career.
+
+Shortly therafter Syriusz shared a long [post][syriusz-na-urlop] reminiscing on closing the chapter and announcing an indefinite hiatus from wrestling to take care of his personal well-being.
 
 ## In wrestling
 
 * Finishers:
-  - _Rumbling_ (Spinning Heel Kick) (2021-)
+  - _Rumbling_ (Spinning Heel Kick) (2021-2026)
 * Tag Teams and stables:
   - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2023-2024)
 * Entrance music:
   - "Popular Monster" by Falling In Reverse
-    {{ org_badge(orgs=['ptw', 'mzw', 'low']) }} (2021-)<br>
+    {{ org_badge(orgs=['ptw', 'mzw', 'low']) }} (2021-2026)<br>
     {{ music(yt='jakpo7tj7Qw')}}
     {{ music(spot='4GssB27iJeqmfGxS94Tfij')}}
     {{ music(apple='1487801236?i=1487801237')}}
   - "GladWeHaveAnUnderstanding" by Bones
-    {{ org_badge(orgs=['ptw']) }} (2023-2024, - as part of Sinister Kingdom, for group entrances)<br>
+    {{ org_badge(orgs=['ptw']) }} (2023-2024 - as part of Sinister Kingdom, for group entrances)<br>
     {{ music(yt='dPGxYXWhCzM')}}
     {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
     {{ music(apple='1447553826?i=1447553830')}}
   - "Puppet" by Stain the Canvas, Get Scared
-    {{ org_badge(orgs=['ptw']) }} (2023-2024, - as part of Sinister Kingdom)<br>
+    {{ org_badge(orgs=['ptw']) }} (2023-2024 - as part of Sinister Kingdom)<br>
     {{ music(yt='z94b88wZzI4')}}
     {{ music(spot='7fFp5wxVb3oJxthl73J1pT')}}
     {{ music(apple='1692990296?i=1692990301')}}
@@ -112,3 +112,4 @@ At [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md) Dziedzic r
 
 [kiepoty]: https://en.wikipedia.org/wiki/Team_Rocket
 [kpop]: https://en.wikipedia.org/wiki/KPop_Demon_Hunters
+[syriusz-na-urlop]: https://www.instagram.com/p/DbEDM-OI6PD/
