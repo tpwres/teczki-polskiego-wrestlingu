@@ -5,7 +5,7 @@ authors = ["M3n747"]
 aliases = ["/e/ppw/2026-11-21-ppw-krakow"]
 [taxonomies]
 chronology = ["ppw"]
-<!-- venue = ["u smoka w jamie, czy gdzieś"] -->
+venue = ["u-smoka-w-jamie-czy-gdzies"]
 [extra]
 city = "Kraków"
 toclevel = 2
