@@ -9,6 +9,7 @@ venue=["nowy-harem"]
 city = "Gdynia"
 toclevel = 2
 has_video = false
+collapse_gallery = false
 [extra.gallery]
 +++
 

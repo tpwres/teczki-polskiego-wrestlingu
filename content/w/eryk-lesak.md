@@ -49,7 +49,7 @@ At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) Lesak got into a rivalry with 
 
 ### Legacy of Wrestling (2026-present)
 
-Lesak debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Syriusz Dziedzic](@/w/dziedzic.md). At the same show, he joined Biuro Prasowe.
+Lesak debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Syriusz Dziedzic](@/w/dziedzic.md). At the same show, he joined [Biuro Prasowe](@/tt/biuro-prasowe.md).
 
 ## International wrestling appearances 
 
@@ -61,7 +61,7 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
   - Spear (2019-)
 * Tag Teams and stables:
   - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
-  - Biuro Prasowe (2026-)
+  - [Biuro Prasowe](@/tt/biuro-prasowe.md) (2026-)
 * Entrance music:
   - "You’ve Got Another Thing Comin’" by Judas Priest
     {{ org_badge(orgs=['kpw']) }} (2019-2022) <br>
