@@ -1,5 +1,3 @@
-
-
 {% macro promolink_color(code, hint_text='', styles) %}
   {% set ib = true -%}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) -%}
@@ -7,38 +5,38 @@
   {% if code is starting_with("~") -%}
     {% set slug = code | replace(from="~", to="") -%}
   {% endif -%}
-  {% if code == "ddw" %}
-    {% include "badges/ddw.html" %}
-  {% elif code == "dfw" %}
-    {% include "badges/dfw.html" %}
-  {% elif code == "dojo" %}
-    {% include "badges/dojo.html" %}
-  {% elif code == "frpw" %}
-    {% include "badges/frpw.html" %}
-  {% elif code == "kpw" %}
-    {% include "badges/kpw.html" %}
-  {% elif code == "low" %}
-    {% include "badges/low.html" %}
-  {% elif code == "mcw" %}
-    {% include "badges/mcw.html" %}
-  {% elif code == "mzw" %}
-    {% include "badges/mzw.html" %}
-  {% elif code == "piwg" %}
-    {% include "badges/piwg.html" %}
-  {% elif code == "ppw" %}
-    {% include "badges/ppw.html" %}
-  {% elif code == "ptw" %}
-    {% include "badges/ptw.html" %}
-  {% elif code == "pxw" %}
-    {% include "badges/pxw.html" %}
-  {% elif code == "tbw" %}
-    {% include "badges/tbw.html" %}
-  {% elif code == "twf" %}
-    {% include "badges/twf.html" %}
-  {% elif code == "wsw" %}
-    {% include "badges/wsw.html" %}
-  {% elif code == "wwe" %}
-    {% include "badges/wwe.html" %}
+  {% if code == "ddw" -%}
+    {% include "badges/ddw.html" -%}
+  {% elif code == "dfw" -%}
+    {% include "badges/dfw.html" -%}
+  {% elif code == "dojo" -%}
+    {% include "badges/edojo.html" -%}
+  {% elif code == "frpw" -%}
+    {% include "badges/frpw.html" -%}
+  {% elif code == "kpw" -%}
+    {% include "badges/kpw.html" -%}
+  {% elif code == "low" -%}
+    {% include "badges/low.html" -%}
+  {% elif code == "mcw" -%}
+    {% include "badges/mcw.html" -%}
+  {% elif code == "mzw" -%}
+    {% include "badges/mzw.html" -%}
+  {% elif code == "piwg" -%}
+    {% include "badges/piwg.html" -%}
+  {% elif code == "ppw" -%}
+    {% include "badges/ppw.html" -%}
+  {% elif code == "ptw" -%}
+    {% include "badges/ptw.html" -%}
+  {% elif code == "pxw" -%}
+    {% include "badges/pxw.html" -%}
+  {% elif code == "tbw" -%}
+    {% include "badges/tbw.html" -%}
+  {% elif code == "twf" -%}
+    {% include "badges/twf.html" -%}
+  {% elif code == "wsw" -%}
+    {% include "badges/wsw.html" -%}
+  {% elif code == "wwe" -%}
+    {% include "badges/wwe.html" -%}
   {% elif code == "splat" -%}
     {% include "badges/splat.html" -%}
   {% elif code == "ryucon" -%}
@@ -66,74 +64,74 @@
 {# Params: career=dict(year => [[org, count], [org, count]]), year=int, styles=extra.styles #}
 {# Omits special orgs in two ways: excludes them from total and does not draw them. Not even the branch dispatch to badge templates should include special orgs. #}
 {% macro orgs_stretchy(career, year, styles) %}
-  {% set thisyear = career | get(key=year|as_str, default=[]|group_by(key=0)) %}
-  {% set_global total = 0 %}
-  {% for org, counts in thisyear %}
-    {% if config.extra.special_orgs is containing(org) %}{% continue %}{% endif %}
-    {% if counts is iterable %}
-      {% set m = counts|first %}{% set s = counts|nth(n=1) %}{% set c = counts|last %}
-      {% set_global total = total + m + s + c %}
-    {% elif counts is number %}{# Old usage but still relevant for teams #}
-      {% set_global total = total + counts %}
-    {% endif %}
-  {% endfor %}
-  {% for org, counts in thisyear %}
-    {% if counts is iterable %}
-      {% set m = counts|first %}{% set s = counts|nth(n=1) %}{% set c = counts|last %}
-      {% set cnt = m + s + c %}
-      {% if s == 0 and c == 0 %}
-        {% set displayed_count = m %}
+  {% set thisyear = career | get(key=year|as_str, default=[]|group_by(key=0)) -%}
+  {% set_global total = 0 -%}
+  {% for org, counts in thisyear -%}
+    {% if config.extra.special_orgs is containing(org) %}{% continue %}{% endif -%}
+    {% if counts is iterable -%}
+      {% set m = counts|first %}{% set s = counts|nth(n=1) %}{% set c = counts|last -%}
+      {% set_global total = total + m + s + c -%}
+    {% elif counts is number -%}{# Old usage but still relevant for teams #}
+      {% set_global total = total + counts -%}
+    {% endif -%}
+  {% endfor -%}
+  {% for org, counts in thisyear -%}
+    {% if counts is iterable -%}
+      {% set m = counts|first %}{% set s = counts|nth(n=1) %}{% set c = counts|last -%}
+      {% set cnt = m + s + c -%}
+      {% if s == 0 and c == 0 -%}
+        {% set displayed_count = m -%}
       {#% elif m == 0 and s == 0 %#}
          {#% set displayed_count = "::" ~ c %#}
-      {% elif c == 0 %}
-        {% set displayed_count = m ~ "-" ~ s %}
+      {% elif c == 0 -%}
+        {% set displayed_count = m ~ "-" ~ s -%}
       {% else %}
-        {% set displayed_count = m ~ "-" ~ s ~ "-" ~ c %}
-    {% endif %}
-    {% elif counts is number %}
-      {% set cnt = counts %}
-      {% set displayed_count = cnt %}
-    {% endif %}
-    {% if config.extra.special_orgs is containing(org) %}{% continue %}{% endif %}
-    {% set style = styles|get(key=org, default=[]|group_by(key=0)) %}
-    {% set hint_text = '' %}
-    {% set bg = style|get(key='bg', default='#000') %}
-    {% set fg = style|get(key='fg', default='#fff') %}
-    {% set text_fg = style|get(key='text_fg', default='#fff') %}
-    {% if org == "ddw" %}
-      {% include "badges/ddw.html" %}
-    {% elif org == "dfw" %}
-      {% include "badges/dfw.html" %}
-    {% elif org == "dojo" %}
-      {% include "badges/dojo.html" %}
-    {% elif org == "frpw" %}
-      {% include "badges/frpw.html" %}
-    {% elif org == "kpw" %}
-      {% include "badges/kpw.html" %}
-    {% elif org == "low" %}
-      {% include "badges/low.html" %}
-    {% elif org == "mcw" %}
-      {% include "badges/mcw.html" %}
-    {% elif org == "mzw" %}
-      {% include "badges/mzw.html" %}
-    {% elif org == "piwg" %}
-      {% include "badges/piwg.html" %}
-    {% elif org == "ppw" %}
-      {% include "badges/ppw.html" %}
-    {% elif org == "ptw" %}
-      {% include "badges/ptw.html" %}
-    {% elif org == "pxw" %}
-      {% include "badges/pxw.html" %}
-    {% elif org == "tbw" %}
-      {% include "badges/tbw.html" %}
-    {% elif org == "twf" %}
-      {% include "badges/twf.html" %}
-    {% elif org == "wsw" %}
-      {% include "badges/wsw.html" %}
-    {% elif org == "wwe" %}
-      {% include "badges/wwe.html" %}
+        {% set displayed_count = m ~ "-" ~ s ~ "-" ~ c -%}
+    {% endif -%}
+    {% elif counts is number -%}
+      {% set cnt = counts -%}
+      {% set displayed_count = cnt -%}
+    {% endif -%}
+    {% if config.extra.special_orgs is containing(org) %}{% continue %}{% endif -%}
+    {% set style = styles|get(key=org, default=[]|group_by(key=0)) -%}
+    {% set hint_text = '' -%}
+    {% set bg = style|get(key='bg', default='#000') -%}
+    {% set fg = style|get(key='fg', default='#fff') -%}
+    {% set text_fg = style|get(key='text_fg', default='#fff') -%}
+    {% if org == "ddw" -%}
+      {% include "badges/ddw.html" -%}
+    {% elif org == "dfw" -%}
+      {% include "badges/dfw.html" -%}
+    {% elif org == "dojo" -%}
+      {% include "badges/edojo.html" -%}
+    {% elif org == "frpw" -%}
+      {% include "badges/frpw.html" -%}
+    {% elif org == "kpw" -%}
+      {% include "badges/kpw.html" -%}
+    {% elif org == "low" -%}
+      {% include "badges/low.html" -%}
+    {% elif org == "mcw" -%}
+      {% include "badges/mcw.html" -%}
+    {% elif org == "mzw" -%}
+      {% include "badges/mzw.html" -%}
+    {% elif org == "piwg" -%}
+      {% include "badges/piwg.html" -%}
+    {% elif org == "ppw" -%}
+      {% include "badges/ppw.html" -%}
+    {% elif org == "ptw" -%}
+      {% include "badges/ptw.html" -%}
+    {% elif org == "pxw" -%}
+      {% include "badges/pxw.html" -%}
+    {% elif org == "tbw" -%}
+      {% include "badges/tbw.html" -%}
+    {% elif org == "twf" -%}
+      {% include "badges/twf.html" -%}
+    {% elif org == "wsw" -%}
+      {% include "badges/wsw.html" -%}
+    {% elif org == "wwe" -%}
+      {% include "badges/wwe.html" -%}
     {# NOTE: no badges for non-wrestling orgs like splat, ryucon or pyrkon #}
-    {% else %}
+    {% else -%}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};
                   background: {{ bg }};
@@ -142,6 +140,6 @@
         {{ style|get(key='text', default=org|upper) }}
         <small>{{ displayed_count|default(value="") }}</small>
       </div>
-    {% endif %}
-  {% endfor %}
+    {% endif -%}
+  {% endfor -%}
 {% endmacro %}
