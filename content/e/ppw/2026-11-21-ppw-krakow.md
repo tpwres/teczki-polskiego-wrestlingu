@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"PpW @ Kraków" (_working title_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place in an unannounced venue in Kraków.
+"PpW @ Kraków" (_working title_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place in an unannounced venue in Kraków. This will be the first PpW show to be held in the city.
 
 ## Build-up
 
