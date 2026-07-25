@@ -2,36 +2,40 @@
   {% set ib = false %}
   {% set style = styles|get(key=code, default=[]|group_by(key=0)) %}
   {% set text_fg = style|get(key='text_fg', default='#fff') %}
-  {% if code == "mcw" %}
-    {% include "badges/mcw.html" %}
-  {% elif code == "ddw" %}
+  {% if code == "ddw" %}
     {% include "badges/ddw.html" %}
-  {% elif code == "kpw" %}
-    {% include "badges/kpw.html" %}
-  {% elif code == "ppw" %}
-    {% include "badges/ppw.html" %}
-  {% elif code == "mzw" %}
-    {% include "badges/mzw.html" %}
-  {% elif code == "ptw" %}
-    {% include "badges/ptw.html" %}
-  {% elif code == "tbw" %}
-    {% include "badges/tbw.html" %}
   {% elif code == "dfw" %}
     {% include "badges/dfw.html" %}
-  {% elif code == "wwe" %}
-    {% include "badges/wwe.html" %}
-  {% elif code == "low" %}
-    {% include "badges/low.html" %}
-  {% elif code == "pxw" %}
-    {% include "badges/pxw.html" %}
-  {% elif code == "piwg" %}
-    {% include "badges/piwg.html" %}
-  {% elif code == "twf" %}
-    {% include "badges/twf.html" %}
-  {% elif code == "splat" %}
-    {% include "badges/splat.html" %}
+  {% elif code == "dojo" %}
+    {% include "badges/dojo.html" %}
   {% elif code == "frpw" %}
     {% include "badges/frpw.html" %}
+  {% elif code == "kpw" %}
+    {% include "badges/kpw.html" %}
+  {% elif code == "low" %}
+    {% include "badges/low.html" %}
+  {% elif code == "mcw" %}
+    {% include "badges/mcw.html" %}
+  {% elif code == "mzw" %}
+    {% include "badges/mzw.html" %}
+  {% elif code == "piwg" %}
+    {% include "badges/piwg.html" %}
+  {% elif code == "ppw" %}
+    {% include "badges/ppw.html" %}
+  {% elif code == "ptw" %}
+    {% include "badges/ptw.html" %}
+  {% elif code == "pxw" %}
+    {% include "badges/pxw.html" %}
+  {% elif code == "tbw" %}
+    {% include "badges/tbw.html" %}
+  {% elif code == "twf" %}
+    {% include "badges/twf.html" %}
+  {% elif code == "wsw" %}
+    {% include "badges/wsw.html" %}
+  {% elif code == "wwe" %}
+    {% include "badges/wwe.html" %}
+  {% elif code == "splat" %}
+    {% include "badges/splat.html" %}
   {% elif code == "ryucon" %}
     {% include "badges/ryu.html" %}
   {% elif code == "pyrkon" %}
@@ -56,36 +60,40 @@
   {% if code is starting_with("~") -%}
     {% set slug = code | replace(from="~", to="") -%}
   {% endif -%}
-  {% if code == "mcw" -%}
-    {% include "badges/mcw.html" -%}
-  {% elif code == "ddw" -%}
-    {% include "badges/ddw.html" -%}
-  {% elif code == "kpw" -%}
-    {% include "badges/kpw.html" -%}
-  {% elif code == "ppw" -%}
-    {% include "badges/ppw.html" -%}
-  {% elif code == "mzw" -%}
-    {% include "badges/mzw.html" -%}
-  {% elif code == "ptw" -%}
-    {% include "badges/ptw.html" -%}
-  {% elif code == "tbw" -%}
-    {% include "badges/tbw.html" -%}
-  {% elif code == "dfw" -%}
-    {% include "badges/dfw.html" -%}
-  {% elif code == "wwe" -%}
-    {% include "badges/wwe.html" -%}
-  {% elif code == "low" -%}
-    {% include "badges/low.html" -%}
-  {% elif code == "pxw" -%}
-    {% include "badges/pxw.html" -%}
-  {% elif code == "piwg" -%}
-    {% include "badges/piwg.html" -%}
-  {% elif code == "twf" -%}
-    {% include "badges/twf.html" -%}
-  {% elif code == "splat" -%}
-    {% include "badges/splat.html" -%}
+  {% if code == "ddw" %}
+    {% include "badges/ddw.html" %}
+  {% elif code == "dfw" %}
+    {% include "badges/dfw.html" %}
+  {% elif code == "dojo" %}
+    {% include "badges/dojo.html" %}
   {% elif code == "frpw" %}
     {% include "badges/frpw.html" %}
+  {% elif code == "kpw" %}
+    {% include "badges/kpw.html" %}
+  {% elif code == "low" %}
+    {% include "badges/low.html" %}
+  {% elif code == "mcw" %}
+    {% include "badges/mcw.html" %}
+  {% elif code == "mzw" %}
+    {% include "badges/mzw.html" %}
+  {% elif code == "piwg" %}
+    {% include "badges/piwg.html" %}
+  {% elif code == "ppw" %}
+    {% include "badges/ppw.html" %}
+  {% elif code == "ptw" %}
+    {% include "badges/ptw.html" %}
+  {% elif code == "pxw" %}
+    {% include "badges/pxw.html" %}
+  {% elif code == "tbw" %}
+    {% include "badges/tbw.html" %}
+  {% elif code == "twf" %}
+    {% include "badges/twf.html" %}
+  {% elif code == "wsw" %}
+    {% include "badges/wsw.html" %}
+  {% elif code == "wwe" %}
+    {% include "badges/wwe.html" %}
+  {% elif code == "splat" -%}
+    {% include "badges/splat.html" -%}
   {% elif code == "ryucon" -%}
     {% include "badges/ryu.html" -%}
   {% elif code == "pyrkon" -%}
@@ -145,34 +153,39 @@
     {% set bg = style|get(key='bg', default='#000') %}
     {% set fg = style|get(key='fg', default='#fff') %}
     {% set text_fg = style|get(key='text_fg', default='#fff') %}
-    {% if org == "mcw" %}
-      {% include "badges/mcw.html" %}
-    {% elif org == "ddw" %}
+    {% if org == "ddw" %}
       {% include "badges/ddw.html" %}
-    {% elif org == "kpw" %}
-      {% include "badges/kpw.html" %}
-    {% elif org == "ppw" %}
-      {% include "badges/ppw.html" %}
-    {% elif org == "mzw" %}
-      {% include "badges/mzw.html" %}
-    {% elif org == "ptw" %}
-      {% include "badges/ptw.html" %}
-    {% elif org == "tbw" %}
-      {% include "badges/tbw.html" %}
     {% elif org == "dfw" %}
       {% include "badges/dfw.html" %}
-    {% elif org == "wwe" %}
-      {% include "badges/wwe.html" %}
-    {% elif org == "low" %}
-      {% include "badges/low.html" %}
-    {% elif org == "pxw" %}
-      {% include "badges/pxw.html" %}
-    {% elif org == "piwg" %}
-      {% include "badges/piwg.html" %}
-    {% elif org == "twf" %}
-      {% include "badges/twf.html" %}
+    {% elif org == "dojo" %}
+      {% include "badges/dojo.html" %}
     {% elif org == "frpw" %}
       {% include "badges/frpw.html" %}
+    {% elif org == "kpw" %}
+      {% include "badges/kpw.html" %}
+    {% elif org == "low" %}
+      {% include "badges/low.html" %}
+    {% elif org == "mcw" %}
+      {% include "badges/mcw.html" %}
+    {% elif org == "mzw" %}
+      {% include "badges/mzw.html" %}
+    {% elif org == "piwg" %}
+      {% include "badges/piwg.html" %}
+    {% elif org == "ppw" %}
+      {% include "badges/ppw.html" %}
+    {% elif org == "ptw" %}
+      {% include "badges/ptw.html" %}
+    {% elif org == "pxw" %}
+      {% include "badges/pxw.html" %}
+    {% elif org == "tbw" %}
+      {% include "badges/tbw.html" %}
+    {% elif org == "twf" %}
+      {% include "badges/twf.html" %}
+    {% elif org == "wsw" %}
+      {% include "badges/wsw.html" %}
+    {% elif org == "wwe" %}
+      {% include "badges/wwe.html" %}
+    {# NOTE: no badges for non-wrestling orgs like splat, ryucon or pyrkon #}
     {% else %}
       <div class="badge stretchy"
            style="flex-grow: {{ cnt / total }};
