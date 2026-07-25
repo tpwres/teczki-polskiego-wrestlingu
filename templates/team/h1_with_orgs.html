@@ -4,7 +4,7 @@
     {% set orgs = page.extra.orgs | default(value=[]) %}
     {# XXX: Not sure if useful in this form #}
     {% for org in orgs %}
-      {{ macros::promolink_color_span(code=org, styles=config.extra.org_styles) }}
+      {{ macros::promolink_color(code=org, styles=config.extra.org_styles) }}
     {% endfor %}
   </span>
 </h1>
