@@ -34,7 +34,7 @@ Nü Wrestling was a show by [PpW Ewenement's](@/o/ppw.md) held in [2KOŁA Motorc
   - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - g: Gustav announces a longer hiatus due an to injury, Mister Z stripped Bad Trip of their titles.
 - - 'The Hardcors: [Biesiad](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Jakbu](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - s: Tornado Tag Team Match
 - - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Bartosz Plata](@/w/plata.md)'

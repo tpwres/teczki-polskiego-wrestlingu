@@ -82,7 +82,8 @@
 06010 = { path = "wloski-wloch-z-wloch.webp", caption = "[Sam Della Valle](@/w/sam-rogers.md) enters carrying a can of what just as well could be a hair, or a bear spray.", source = "M3n747" }
 06020 = { path = "there-is-absolutely-nothing-inappropriate-about-this-man.webp", caption = "[Boro's](@/w/boro.md) entrance is as sexy as ever.", source = "M3n747" }
 06030 = { path = "pszem-bardzo-kwiatuszka.webp", caption = "[Boro](@/w/boro.md) offers a rose to [Sam Della Valle](@/w/sam-rogers.md).", source = "M3n747" }
-06040 = { path = "somebody-better-call-the-chief-of-police.webp", caption = "Boro appears to enjoy Filip Fux's improper dancing a tad too much.", source = "M3n747" }
+06040 = { path = "you-must-obey-the-dance-commander.webp", caption = "[Boro](@/w/boro.md) sneakily slips in front of [Filip Fux](@/w/filip-fux.md).", source = "Krzysztof Zych" }
+06041 = { path = "somebody-better-call-the-chief-of-police.webp", caption = "Boro appears to enjoy Filip Fux's improper dancing a tad too much.", source = "M3n747" }
 06050 = { path = "mamy-lysego-szalikowca-w-domu.webp", caption = "[Chemik](@/w/chemik.md) enters the match.", source = "M3n747" }
 06051 = { path = "kz-DSC09673.jpg", caption = "[Filip Fux](@/w/filip-fux.md) runs in.", source = "Krzysztof Zych" }
 06052 = { path = "kz-DSC09731.jpg", caption = "[Sam Della Vale](@/w/sam-rogers.md) elbow-drops Filip Fux.", source = "Krzysztof Zych" }
@@ -103,6 +104,7 @@
 07070 = { path = "this-ones-for-the-ladies.webp", caption = "Wiktor Longman on his knees outside the ring. Sitting behind him, holding a phone, is [Istotna Martynka](@/w/istotna-martynka.md) live-streaming the show.", source = "M3n747" }
 07071 = { path = "kz-DSC100036.jpg", caption = "Max speed dropped on the ring so hard, he rebounded.", source = "Krzysztof Zych" }
 07080 = { path = "poleze-sobie-tutaj-pomysle-o-zyciu.webp", caption = "[Max Speed](@/w/max-speed.md) has been thrown out of the ring by his opponent.", source = "M3n747" }
+07081 = { path = "9-na-10.webp", caption = "[Wiktor Longman](@/w/wiktor-longman.md) waits as [Sędzia Michał](@/w/sedzia-michal.md) counts Max Speed out.", source = "Krzysztof Zych" }
 07090 = { path = "sukhasana.webp", caption = "[Wiktor Longman](@/w/wiktor-longman.md) in the lotus position, or close enough.", source = "M3n747" }
 07091 = { path = "kz-DSC100201.jpg", caption = "[Wiktor Longman](@/w/wiktor-longman.md) delivers an F5 to Max Speed.", source = "Krzysztof Zych" }
 07092 = { path = "kz-DSC100239.jpg", caption = "[Wiktor Longman](@/w/wiktor-longman.md) sets up a Sitout Piledriver on Max Speed.", source = "Krzysztof Zych" }

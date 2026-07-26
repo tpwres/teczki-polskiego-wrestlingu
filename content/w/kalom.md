@@ -8,6 +8,7 @@ toclevel = 2
 country = ["PL"]
 [extra.gallery]
 1 = { path = "jack-kalom.webp", caption = "Jack Kalom holding the [MCW Championship](@/c/mcw-championship.md) at [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md).", source = "Official MCW Facebook" }
+2 = { path = "kalom-lucky-8.webp", caption = "Kalom as a [PTW Academy](@/o/ptw-academy.md) rookie with his mentor, [Daniel Razor](@/w/daniel-razor.md).", source = "Official PTW Facebook" }
 +++
 
 Kalom is a Polish wrestler currently working for [Prime Time Wrestling](@/o/ptw.md), and known for his time in [Mine City Wrestling](@/o/mcw.md) (as Jack Kalom). His ringname appears to be a reference to [Cor Kalom][guru] - the final antagonist of video game _Gothic_, which is a cult classic in Poland.
