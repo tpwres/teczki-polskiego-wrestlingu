@@ -1,6 +1,7 @@
 +++
 title = "PTW Underground 23: Halloweenowy Łomot"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi The Referee", "M3n747"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["dworek-kozlow"]
