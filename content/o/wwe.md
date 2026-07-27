@@ -1,7 +1,7 @@
 +++
 title = "WWE"
+weight = 0
 template = "org_page.html"
-weight = 10
 [taxonomies]
 chrono_root = ["wwe"]
 [extra]
