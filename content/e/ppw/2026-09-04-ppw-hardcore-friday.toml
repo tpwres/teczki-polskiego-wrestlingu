@@ -1,12 +1,12 @@
 01 = { path = "zeby-byl-plakat.webp", caption = "Official poster featuring top left: [Vic Golden](@/w/vic-golden.md); bottom left: Biesiad; middle: [Olgierd](@/w/olgierd.md), top right: Oskar Alexander; bottom right: Mister Z.", source = "Official PpW Facebook" }
 02 = { path = "zeby-byla-zapowiedz.webp", caption = "Image announcing the show.", source = "Official PpW Facebook" }
-03 = { path = "zeby-byl-queen.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook" }
-04 = { path = "zeby-byl-biesiad.webp", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md).", source = "Official PpW Facebook" }
-05 = { path = "zeby-byl-blade.webp", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
-06 = { path = "zeby-byl-roman.webp", caption = "Image announcing [Laurance Roman](@/w/laurance-roman.md).", source = "Official PpW Facebook" }
-07 = { path = "zeby-byl-zeritus.webp", caption = "Image announcing [Zeritus](@/w/zeritus.md).", source = "Official PpW Facebook" }
-08 = { path = "zeby-byl-schreier.webp", caption = "Image announcing Nick Schreier.", source = "Official PpW Facebook" }
-09 = { path = "zeby-byl-golden.webp", caption = "Image announcing [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
-10 = { path = "zeby-byl-oskar.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official PpW Facebook" }
-11 = { path = "zeby-byl-mutant.webp", caption = "Image announcing [Mutant](@/w/mutant.md).", source = "Official PpW Facebook" }
-12 = { path = "zeby-byl-zet.webp", caption = "Image announcing [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook" }
+03 = { path = "zeby-byl-queen.jpg", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook" }
+04 = { path = "zeby-byl-biesiad.jpg", caption = "Image announcing [Biesiad Strong](@/w/biesiad.md).", source = "Official PpW Facebook" }
+05 = { path = "zeby-byl-blade.jpg", caption = "Image announcing [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
+06 = { path = "zeby-byl-roman.jpg", caption = "Image announcing [Laurance Roman](@/w/laurance-roman.md).", source = "Official PpW Facebook" }
+07 = { path = "zeby-byl-zeritus.jpg", caption = "Image announcing [Zeritus](@/w/zeritus.md).", source = "Official PpW Facebook" }
+08 = { path = "zeby-byl-schreier.jpg", caption = "Image announcing Nick Schreier.", source = "Official PpW Facebook" }
+09 = { path = "zeby-byl-golden.jpg", caption = "Image announcing [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
+10 = { path = "zeby-byl-oskar.jpg", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official PpW Facebook" }
+11 = { path = "zeby-byl-mutant.jpg", caption = "Image announcing [Mutant](@/w/mutant.md).", source = "Official PpW Facebook" }
+12 = { path = "zeby-byl-zet.jpg", caption = "Image announcing [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook" }
