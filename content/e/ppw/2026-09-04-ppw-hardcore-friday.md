@@ -16,9 +16,42 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) is an up
 
 ## Build-up
 
-* TBD
+* On 27.07.2026 PpW announced 10 wrestlers without match-ups: [Gabriel Queen](@/w/gabriel-queen.md), [Biesiad Strong](@/w/biesiad.md), [Johnny Blade](@/w/johnny-blade.md), [Laurance Roman](@/w/laurance-roman.md), [Zeritus](@/w/zeritus.md), Nick Schreier, [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Mutant](@/w/mutant.md) and [Mister Z](@/w/mister-z.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted = true) %}
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '???'
+  - nc: upcoming
+- - '[Biesiad Strong](@/w/biesiad.md)'
+  - '???'
+  - nc: upcoming
+- - '[Johnny Blade](@/w/johnny-blade.md)'
+  - '???'
+  - nc: upcoming
+- - '[Laurance Roman](@/w/laurance-roman.md)'
+  - '???'
+  - nc: upcoming
+- - '[Zeritus](@/w/zeritus.md)'
+  - '???'
+  - nc: upcoming
+- - 'Nick Schreier'
+  - '???'
+  - nc: upcoming
+- - '[Vic Golden](@/w/vic-golden.md)'
+  - '???'
+  - nc: upcoming
+- - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '???'
+  - nc: upcoming
+- - '[Mutant](@/w/mutant.md)'
+  - '???'
+  - nc: upcoming
+- - '[Mister Z](@/w/mister-z.md)'
+  - '???'
+  - nc: upcoming
+{% end %}
 
 ### Highlights
 
