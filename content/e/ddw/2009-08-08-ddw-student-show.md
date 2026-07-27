@@ -1,6 +1,7 @@
 +++
 title = "DDW Student Show"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["ddw"]
 venue = ["karuzela"]
