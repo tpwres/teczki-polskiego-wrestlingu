@@ -1,6 +1,7 @@
 +++
 title = "DDW Charity Event"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ddw"]
 [extra]
