@@ -20,7 +20,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) is an up
 
 ## Predicted card
 
-{% card(predicted = true) %}
+{% card(predicted=true) %}
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '???'
   - nc: upcoming
