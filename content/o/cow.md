@@ -7,6 +7,8 @@ authors = ["M3n747"]
 chrono_root = ["cow"]
 [extra]
 toclevel = 3
+hide_roster = true
+hide_events = true
 compact_event_list = true
 +++
 
