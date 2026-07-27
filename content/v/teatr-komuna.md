@@ -1,6 +1,7 @@
 +++
 title = "Teatr Komuna"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra.geo]
 coordinates = '52.226888/21.005237'
 orgs = ['ppw']

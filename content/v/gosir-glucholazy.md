@@ -1,6 +1,7 @@
 +++
 title = "GOSiR Głuchołazy"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra.geo]
 coordinates = '50.317579/17.385976'
 type = 'historical-venue'

@@ -1,6 +1,7 @@
 +++
 title = "2KOŁA Pub Motocyklowy"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra]
 year_list_start = 2019
 [extra.geo]

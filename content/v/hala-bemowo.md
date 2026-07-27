@@ -1,6 +1,7 @@
 +++
 title = "Hala Bemowo"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra.geo]
 coordinates = '52.257764,20.930489'
 orgs = ['ptw']

@@ -1,6 +1,7 @@
 +++
 title = "Facility at Ostrowskiego Street"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra]
 skip_event_list = true
 +++
