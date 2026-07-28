@@ -1,6 +1,7 @@
 +++
 title = "PpW Bijatyka Dla Piesków"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
