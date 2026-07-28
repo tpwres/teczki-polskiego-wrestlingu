@@ -234,7 +234,7 @@ class Match:
 
     @classmethod
     def parse_partners(cls, partners: list[str]) -> Iterable[Union[Participant, Team]]:
-        return [t for p in partners if (t := cls.parse_maybe_team(p))]
+        return [t for p in partners if (t := cls.parse_maybe_team(p.strip()))]
 
     plain_name_re = r"[-.'&\w\s]+"
     team_link_re = rf'''
