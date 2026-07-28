@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "petro-odszedł-z-ptw.webp", caption = "Petro's comment confirming he's left PTW. Q: &quot;Has Bart Petro been kicked out of the PTW roster for appearing at the FRPW show?&quot; Petro's answer: &quot;I've left a month ago, after failed attempts at negotiating appearances outside of PTW from time to time.&quot;", source = "Typowe WWE Facebook group", skip_art = true }
+1 = { path = "petro-odszedł-z-ptw.webp", caption = "Petro's comment confirming he's left PTW. Question: &quot;Has Bart Petro been kicked out of the PTW roster for appearing at the FRPW show?&quot; Petro's answer: &quot;I've left a month ago, after failed attempts at negotiating appearances outside of PTW from time to time.&quot;", source = "Typowe WWE Facebook group", skip_art = true }
 +++
 
 Bart Petro is a Polish wrestler best know for having worked for [Prime Time Wrestling](@/o/ptw.md).
