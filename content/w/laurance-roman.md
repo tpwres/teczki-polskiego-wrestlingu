@@ -1,12 +1,12 @@
 +++
 title = "Laurance Roman"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 country = ["DE"]
 +++
 
-Laurance Roman is a German wrestler from Dresden, known to Polish audiences from [Maniac Zone Wrestling](@/o/mzw.md) (2015-18) and [PpW Ewenement Wrestling](@/o/ppw.md) (since 2026). In his home country, he mainly appears in WXW, but also Dresden-based Thats Awesome Wrestling and Eastside Revolution Wrestling, and on the European scene in Austria, Hungary and Czechia.
+Laurance Roman is a German wrestler from Dresden, known to Polish audiences from [Maniac Zone Wrestling](@/o/mzw.md) (2015-18) and [PpW Ewenement Wrestling](@/o/ppw.md) (since 2026). In his home country he mainly appears in WXW, but also in Dresden-based Thats Awesome Wrestling and Eastside Revolution Wrestling, as well as on the European scene in Austria, Hungary and Czechia.
 
 ## Internet presence
 
