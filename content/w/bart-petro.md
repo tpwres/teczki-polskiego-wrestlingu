@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "petro-odszedł-z-ptw.webp", caption = "Petro's comment confirming he's left PTW.", source = "M3n747" }
 +++
 
-Bart Petro is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
+Bart Petro is a Polish wrestler best know for having worked for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
