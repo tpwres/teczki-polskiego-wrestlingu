@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "petro-odszedł-z-ptw.webp", caption = "Petro's comment confirming he's left PTW.", source = "M3n747" }
+1 = { path = "petro-odszedł-z-ptw.webp", caption = "Petro's comment confirming he's left PTW.", source = "Typowe WWE Facebook group" }
 +++
 
 Bart Petro is a Polish wrestler best know for having worked for [Prime Time Wrestling](@/o/ptw.md).
