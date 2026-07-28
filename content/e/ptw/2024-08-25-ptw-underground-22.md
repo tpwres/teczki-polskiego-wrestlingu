@@ -66,8 +66,8 @@ The announced dance performance was met with slight backlash from the fans onlin
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=402625)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=hAi2TGulats)
 * [Facebook post with the cover image](https://www.facebook.com/photo/?fbid=528941409458506&set=a.136592405360077), confirming dates and listing sponsors.
 * [Facebook post revealing the poster](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0KpJesZ3E1Jb3jpySUa71thS6qW4sGweLhzG9hWw1WivtihsxBWMAdLHnnYxnsM6cl)
 * [Facebook post announcing the ticket platform change](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0tdHu7WaJXLfDZi8dX57NLMjaP6keLDCBoj77mkr5FiSyrr9NwpVK84ESBsQ58vHil)
 * [Facebook post announcing a title match](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0KPxKzErHhSzLak5t3ciBXRPFRj2rMKgPMEMGGeJANJG4xZyzN8pFB55A2STS4N6il) between Maverick and Puncher
-* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=hAi2TGulats)
