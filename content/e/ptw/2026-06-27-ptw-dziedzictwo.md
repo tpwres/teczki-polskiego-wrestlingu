@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -102,6 +102,7 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=450401)
+* [Open access video: Vincent Caravaggio vs Flex Skywalker](https://www.youtube.com/watch?v=fYTH3Dpl3t8)
 * [Facebook post announcing the show][zapowiedz]
 * [Emily Locke's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=24745)
 * [Jacked Josh's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=24452)
