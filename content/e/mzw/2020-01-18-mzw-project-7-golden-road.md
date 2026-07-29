@@ -1,6 +1,7 @@
 +++
 title = "MZW Project 7: Golden Road"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["bakara"]
@@ -42,7 +43,7 @@ has_video = false
 ### Recap
 
 * [Damien Rothschild](@/w/damian-lambert.md) had to sit out the show due to an injury, leading to a minor change in the card. Alex Arthur, initially booked for a Three-Way Match against Rick Baxxter and Lady Killer, replaced Rothschild in the match against Matt Buckna.
-* Ring Rat's promo was interrupted by Anatolii, giving him a Big Boot. Anatolii was then attacked by Krueger, who in turn was chokeslammed by Hexia.
+* Ring Rat's promo was interrupted by Anatolii giving him a Big Boot. Anatolii was then attacked by Krueger, who in turn was chokeslammed by Hexia.
 * This was Hexia's final in-ring appearance.
 
 ## References

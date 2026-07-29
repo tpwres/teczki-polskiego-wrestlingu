@@ -1,6 +1,7 @@
 +++
 title = "MZW Champions War III"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
@@ -11,7 +12,7 @@ has_video = true
 [extra.gallery]
 +++
 
-The third Champions War event was held again in [Głuchołazy](@/v/gosir-glucholazy.md), even though the previous event [Beatdown II](@/e/mzw/2017-02-18-mzw-beatdown-2.md) was held at [Bakara](@/v/bakara.md) in Wrocław. Matches featured Czech and German wrestlers alongside MZW regulars.
+The third Champions War event was held again in [Głuchołazy](@/v/gosir-glucholazy.md), even though the previous event, [Beatdown II](@/e/mzw/2017-02-18-mzw-beatdown-2.md), was held at [Bakara](@/v/bakara.md) in Wrocław. Matches featured Czech and German wrestlers alongside MZW regulars.
 
 ## Card
 

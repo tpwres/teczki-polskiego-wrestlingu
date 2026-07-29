@@ -1,6 +1,7 @@
 +++
 title = "MZW+PpW Żadnych Granic"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "M3n747"]
 aliases = ["/e/ppw/2023-09-23-ppw_mzw-zadnych-granic"]
 [taxonomies]
 chronology = ["mzw","ppw"]
