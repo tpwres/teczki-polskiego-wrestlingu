@@ -50,7 +50,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
   - '[Rafał Orszak](@/w/rafael-kid.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Ten Man Battle Royal'
-- - 'Laurance Roman(c)'
+- - '[Laurance Roman](@/w/laurance-roman.md)(c)'
   - '[Shadow](@/w/shadow.md)'
   - c: 'Next Step Wrestling National Championship'
 - credits:
