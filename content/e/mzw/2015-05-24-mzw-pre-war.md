@@ -1,6 +1,7 @@
 +++
 title = "MZW Pre-War"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
