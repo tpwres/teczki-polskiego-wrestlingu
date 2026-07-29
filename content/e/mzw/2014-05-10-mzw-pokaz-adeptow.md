@@ -1,6 +1,7 @@
 +++
 title = "MZW Pokaz Adeptów"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["niedzwiedzica"]

@@ -1,6 +1,7 @@
 +++
 title = "MZW Wakacyjny Slam"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["opawa"]
