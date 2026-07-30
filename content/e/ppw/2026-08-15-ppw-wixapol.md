@@ -16,9 +16,16 @@ Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) is an upcoming event to
 
 ## Build-up
 
-* TBD
+* PpW began revealing the card on 29.07.2026, with an Ultraviolent Deathmatch between [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Johnny Blade](@/w/johnny-blade.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md)'
+  - s: 'Ultraviolent Deathmatch'
+    nc: upcoming
+{% end %}
 
 ### Highlights
 
