@@ -1,6 +1,7 @@
 +++
 title = "DDW @ Baltikon 2015"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ddw"]
 venue = ["zs1-sopot"]

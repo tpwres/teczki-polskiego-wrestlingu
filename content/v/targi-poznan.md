@@ -1,6 +1,7 @@
 +++
 title = "Międzynarodowe Targi Poznańskie"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chrono_root = ["targi-poznan"]
 [extra.geo]

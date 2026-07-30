@@ -1,6 +1,7 @@
 +++
 title = "Waldorffa 25"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra.geo]
 coordinates =  '52.258118,20.947787'
 type = 'historical-venue'

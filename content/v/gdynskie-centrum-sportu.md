@@ -1,6 +1,7 @@
 +++
 title = "Gdyńskie Centrum Sportu"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 aliases = ["/v/gdynia-sports-center"]
 [extra.geo]
 coordinates = '54.495277/18.532164'

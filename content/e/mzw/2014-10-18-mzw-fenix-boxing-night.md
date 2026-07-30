@@ -1,6 +1,7 @@
 +++
 title = "MZW @ Fenix Boxing Night"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["fenix-gniezno"]

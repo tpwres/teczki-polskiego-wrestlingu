@@ -1,6 +1,7 @@
 +++
 title = "PTW Performance Center"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra.geo]
 coordinates = '50.290252/19.002052'
 type = 'historical-venue'

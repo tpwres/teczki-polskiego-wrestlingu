@@ -1,6 +1,7 @@
 +++
 title = "DFW Charity Gauntlet Match"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
 [extra]

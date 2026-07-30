@@ -1,6 +1,7 @@
 +++
 title = "DFW Closed Showcase"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
 [extra]

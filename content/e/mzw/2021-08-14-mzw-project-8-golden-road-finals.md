@@ -1,6 +1,7 @@
 +++
 title = "MZW Project 8: Golden Road Finals"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Sewi The Referee", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["czasoprzestrzen"]

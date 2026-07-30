@@ -1,6 +1,7 @@
 +++
 title = "DFW @ Rajd Kopernikański 2016"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
 [extra]

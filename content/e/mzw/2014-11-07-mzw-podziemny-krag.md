@@ -1,6 +1,7 @@
 +++
 title = "MZW Podziemny Krąg"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["legnica"]

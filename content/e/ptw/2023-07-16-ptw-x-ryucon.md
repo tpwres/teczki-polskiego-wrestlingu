@@ -1,7 +1,7 @@
 +++
 title = "PTW x Ryucon 2"
 template = "event_page.html"
-author = ["Szymon Iwulski"]
+authors = ["Krzysztof Zych", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 chronology = ["ptw", "ryucon"]
 venue = ["tauron-arena"]

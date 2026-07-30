@@ -1,6 +1,7 @@
 +++
 title = "Czasoprzestrzeń"
 template = "venue_page.html"
+authors = ["Krzysztof Zych"]
 [extra.geo]
 coordinates = '51.105153/17.087245'
 type = 'historical-venue'

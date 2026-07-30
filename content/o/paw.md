@@ -121,6 +121,10 @@ The text reads "Another weekend. Another training session with "new" faces. And 
 Besides PAW trainees, multiple ex-PTW/MZW wrestlers can be seen: [Samson](@/w/samson.md), [Marco Hammers](@/w/marco-hammers.md), [Disco Pablo](@/w/disco-pablo.md), [Dziedzic](@/w/dziedzic.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Rafi Rarytas](@/w/rafi.md).
 {% end %}
 
+Two years later the school [moved][chrzastawa] again, this time to Chrząstawa Wielka near Wrocław.
+
 ## Internet presence
 
 * [PAW's Facebook Page](https://www.facebook.com/PolskaAkademiaWrestlingu)
+
+[chrzastawa]: https://www.facebook.com/PolskaAkademiaWrestlingu/posts/pfbid02FZErm2fZ8FHdLhMmPnjYPc3d1tDvetv8jroAoMuph7MZCkFenThfHyP2pYJEYPhTl

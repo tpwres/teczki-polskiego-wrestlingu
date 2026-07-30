@@ -1,6 +1,7 @@
 +++
 title = "DDW Pokaz Adeptów"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["ddw"]
 venue = ["pod-palma"]

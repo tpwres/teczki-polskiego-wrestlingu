@@ -1,6 +1,7 @@
 +++
 title = "PpW Mistrz Jest Tylko Jeden"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]

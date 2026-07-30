@@ -1,6 +1,7 @@
 +++
 title = "PpW Back to the OG"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
