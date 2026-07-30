@@ -1,6 +1,7 @@
 +++
 title = "MZW Champions War"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]

@@ -1,6 +1,7 @@
 +++
 title = "PpW Brak Mi Słów"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["waldorffa25"]

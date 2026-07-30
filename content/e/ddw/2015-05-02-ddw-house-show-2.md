@@ -1,6 +1,7 @@
 +++
 title = "DDW House Show #2"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ddw"]
 venue = ["gimnazjum-8-gdansk"]

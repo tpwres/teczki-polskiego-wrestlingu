@@ -1,6 +1,7 @@
 +++
 title = "PpW Czyste Intencje"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["waldorffa25"]

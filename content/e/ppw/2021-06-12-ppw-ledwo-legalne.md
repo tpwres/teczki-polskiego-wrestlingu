@@ -1,6 +1,7 @@
 +++
 title = "PpW Ledwo Legalne"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ppw", "ledwo-legalne"]
 venue = ["2kola"]

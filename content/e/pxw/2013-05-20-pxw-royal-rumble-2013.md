@@ -1,6 +1,7 @@
 +++
 title = "PXW Royal Rumble 2013"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["pxw"]
 [extra]

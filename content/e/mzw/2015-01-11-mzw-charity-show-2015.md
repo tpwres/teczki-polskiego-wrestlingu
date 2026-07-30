@@ -1,6 +1,7 @@
 +++
 title = "MZW Charity Show 2015"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]

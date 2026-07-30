@@ -1,6 +1,7 @@
 +++
 title = "DFW Christmas Brawl 2016"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
 [extra]

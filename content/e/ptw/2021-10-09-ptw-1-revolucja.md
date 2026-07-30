@@ -1,6 +1,7 @@
 +++
 title = "PTW #1: REVOLUCJA"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 chronology=["ptw"]
 venue=["moris-chorzow"]

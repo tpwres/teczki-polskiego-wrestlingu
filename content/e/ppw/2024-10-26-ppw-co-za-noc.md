@@ -21,7 +21,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 ## Build-up
 
 * PpW announced a collaboration event for the show. Before and during the event, there will be an opportunity to get a tattoo, courtesy of tattoo parlour Syrena (_Siren_).
-* To further bolster ticket sales, PpW introduced a student discount as well are "buy 5, get 1 free" discount.
+* To further bolster ticket sales, PpW introduced a student discount as well as "buy 5, get 1 free" discount.
 * Many PpW personalities announced new merchandise items to be available at the show.
 
 ### Storylines overview

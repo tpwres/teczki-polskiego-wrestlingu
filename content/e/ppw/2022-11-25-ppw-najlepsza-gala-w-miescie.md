@@ -1,6 +1,7 @@
 +++
 title = "PpW Najlepsza Gala w Mieście"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["waldorffa25"]

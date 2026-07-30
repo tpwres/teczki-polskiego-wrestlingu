@@ -1,6 +1,7 @@
 +++
 title = "DDW #5: Dzień Sądu"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ddw"]
 venue = ["gokis-katy-wroclawskie"]

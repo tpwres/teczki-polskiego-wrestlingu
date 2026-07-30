@@ -1,6 +1,7 @@
 +++
 title = "DFW Love Hurts, Wrestling Even More"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
 [extra]

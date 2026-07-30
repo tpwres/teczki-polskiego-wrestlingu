@@ -1,6 +1,7 @@
 +++
 title = "MZW Charity Show 2017"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
@@ -24,8 +25,7 @@ Attendance: estimated about 300
   - '[Shadow](@/w/shadow.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Szymon Siwiec](@/w/szymon-siwiec.md)'
   - s: 'Six Man Tag Team Elimination Match'
 - - '[Lider](@/w/lider.md)'
-  - '???'
-  - '???'
+  - '??? & ???'
   - s: 'Two On One Handicap Match'
 - - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md) & [Blue Thunder](@/w/blue-thunder.md) w/ Columbus'
   - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
