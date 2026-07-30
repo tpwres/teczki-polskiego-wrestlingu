@@ -8,7 +8,7 @@ venue=["rozbrat"]
 [extra]
 city = "Poznań"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -23,7 +23,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) was a show by [PpW Ewenement](@/o/
 * On 5.06 PpW announced [Jacob Crane](@/w/jacob-crane.md) vs ["Fox" Jakub](@/w/jakub.md). Crane submitted the leader of [Zmowa](@/tt/zmowa.md), [Mister Z](@/w/mister-z.md), at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), and now he aims to defeat the stable's next member.
 * In an [Instagram reel][kebaba] published on 6.06.2026, after dispatching [Zmowa](@/tt/zmowa.md) at [More Brutal than Metal 2](@/e/ppw/2026-06-04-ppw-mystic-more-brutal-than-metal.md), [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) were sharing a kebab at an outdoor table, and thinking about a dessert to go along with it. Goblin wanted some baklava, which was unfortunately not available. But the two figured out there should be some in Poznań.
   A day later, PpW announced they are indeed getting some Baklava: the German team of [Aytaç Bahar](@/w/aytac-bahar.md) and [Joshua Amaru](@/w/joshua-amaru.md), most recently seen at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) back in 2024.
-* On 9.06.2026 [Rodzina](@/tt/rodzina.md) represented by [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md), currently on their way to conquer PpW's tag team division, were given The Grind to clash against - a German tag team of Laurance Roman and Nick Schreier. Laurence had previously worked for [MZW](@/o/mzw.md), and Nick had also made an appearance at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
+* On 9.06.2026 [Rodzina](@/tt/rodzina.md) represented by [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md), currently on their way to conquer PpW's tag team division, were given The Grind to clash against - a German tag team of [Laurance Roman](@/w/laurance-roman.md) and Nick Schreier. Laurance had previously worked for [MZW](@/o/mzw.md), and Nick had also made an appearance at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).
 * The final match on the card, unveiled on 11.06.2026, was [Isnorr](@/w/isnorr.md) vs [Bartosz Plata](@/w/plata.md).
 
 ## Card
@@ -33,7 +33,7 @@ Inicjatywa Wrestling (_Wrestling Initiative_) was a show by [PpW Ewenement](@/o/
   - '["Fox" Jakub](@/w/jakub.md)'
   - r: Submission
 - - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - 'The Grind: Laurance Roman & Nick Schreier'
+  - 'The Grind: [Laurance Roman](@/w/laurance-roman.md) & Nick Schreier'
   - s: Tag Team Match
 - - '[Isnorr](@/w/isnorr.md)'
   - '[Bartosz Plata](@/w/plata.md)'
