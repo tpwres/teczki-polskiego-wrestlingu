@@ -17,6 +17,7 @@ Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) is an upcoming event to
 ## Build-up
 
 * PpW began revealing the card on 29.07.2026, with an Ultraviolent Deathmatch between [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Johnny Blade](@/w/johnny-blade.md).
+* On 31.07.2026 PpW announced [Tony Sheen](@/w/riverman.md), [Biesiad Strong](@/w/biesiad.md) & [Boro](@/w/boro.md) vs [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) in an 3-vs-3 Extreme Swimming Pool Elimination Match. The match will be won by the team whose opponents will be the first to fall into the pool.
 
 ## Predicted card
 
@@ -24,6 +25,10 @@ Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) is an upcoming event to
 - - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
   - s: 'Ultraviolent Deathmatch'
+    nc: upcoming
+- - '[Tony Sheen](@/w/riverman.md) & [Biesiad Strong](@/w/biesiad.md) & [Boro](@/w/boro.md)"
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)'
+  - s: 3-vs-3 Extreme Swimming Pool Elimination Match
     nc: upcoming
 {% end %}
 
