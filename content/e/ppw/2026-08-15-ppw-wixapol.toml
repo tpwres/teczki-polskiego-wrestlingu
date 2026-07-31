@@ -1,2 +1,3 @@
 001 = { path = "ppw-wixapol.webp", caption = 'Official poster.', source = "Official PpW Facebook" }
 002 = { path = "los-societas-de-las-poetas-ultraviolentas.webp", caption = 'Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) vs [Johnny Blade](@/w/johnny-blade.md).', source = "Official PpW Facebook" }
+003 = { path = "plusk.webp", caption = 'Image announcing [Tony Sheen](@/w/riverman.md), [Biesiad Strong](@/w/biesiad.md) & [Boro](@/w/boro.md) (top) vs [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) (bottom).', source = "Official PpW Facebook" }
