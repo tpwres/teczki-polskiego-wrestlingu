@@ -34,7 +34,7 @@ After training with KPW for a year, Bart moved to [Prime Time Wrestling](@/o/ptw
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Petro made a surprise appearance at [FRPW Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), taking part in a Rumble Match. About a week later he confirmed in a Facebook post that he had left Prime Time Wrestling a month prior, over failed negotiations of occasionally working outside of PTW.
+Petro made a surprise appearance at [FRPW Dojo Showcase #2](@/e/frpw/2026-07-19-frpw_wsw-dojo-showcase-2.md), taking part in a Rumble Match. About a week later he confirmed in a Facebook post that he had left Prime Time Wrestling a month prior, over failed negotiations of occasionally working outside of PTW.
 
 ## In wrestling
 
