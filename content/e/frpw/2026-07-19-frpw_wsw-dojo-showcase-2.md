@@ -2,7 +2,7 @@
 title = "FRPW: Dojo Showcase #2"
 template = "event_page.html"
 authors = ["M3n747", "Sewi The Referee"]
-aliases = ["/e/dojo/2026-07-19-dojo-showcase-2"]
+aliases = ["/e/dojo/2026-07-19-dojo-showcase-2", "/e/frpw/2026-07-19-frpw-dojo-showcase-2"]
 [taxonomies]
 chronology = ["frpw", "wsw"]
 venue=["teatr-komuna"]
