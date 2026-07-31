@@ -80,8 +80,8 @@ fold_crew_appearances = "auto"
 fold_crew_appearances_at = 20
 
 [extra.org_styles.cow]
-bg = '#c0c0c0'
-text_fg = '#0c0c0c'
+bg = '#7e69ac'
+text_fg = '#fcfc0c'
 
 [extra.org_styles.ddw]
 bg = '#71171f'
