@@ -24,7 +24,7 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 {% card(predicted=true) %}
 - - 'Shigehiro Irie'
   - '???'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ## Highlights

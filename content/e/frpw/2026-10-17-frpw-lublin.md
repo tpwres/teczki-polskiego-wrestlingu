@@ -24,7 +24,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 {% card(predicted=true) %}
 - - 'Shigehiro Irie'
   - '???'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ## Highlights
