@@ -17,9 +17,15 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 
 ## Build-up
 
-* TBD
+* On 1.08.2026 FRPW informed fans that Japanese wrestler Shigehiro Irie will appear at the shows in [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and Warka.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - 'Shigehiro Irie'
+  - '???'
+    nc: upcoming
+{% end %}
 
 ## Highlights
 
