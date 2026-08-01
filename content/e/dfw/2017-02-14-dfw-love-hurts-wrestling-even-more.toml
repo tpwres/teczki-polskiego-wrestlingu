@@ -1,9 +1,4 @@
 01 = { path = "dfw-love-hurts-poster.webp", caption = "Official poster featuring [Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md) and [Corin Maer](@/w/corin-mear.md).", source = "Official DFW Facebook" }
-
-02 = { path = ".webp", caption = "Image announcing .", source = "Official DFW Facebook" }
-03 = { path = ".webp", caption = "Image announcing .", source = "Official DFW Facebook" }
-04 = { path = ".webp", caption = "Image announcing .", source = "Official DFW Facebook" }
-05 = { path = ".webp", caption = "Image announcing .", source = "Official DFW Facebook" }
-06 = { path = ".webp", caption = "Image announcing .", source = "Official DFW Facebook" }
-07 = { path = ".webp", caption = "Image announcing .", source = "Official DFW Facebook" }
-08 = { path = ".webp", caption = "Image announcing .", source = "Official DFW Facebook" }
+02 = { path = "chris-hunter-vs-charlie.webp", caption = "Image announcing [Chris Hunter](@/w/chris-hunter.md) vs [Charlie](@/w/sedzia-karol-gorski.md).", source = "Official DFW Facebook" }
+03 = { path = "norris-rob-scaffold-vs-direk-faust.webp", caption = "Image announcing [Norris](@/w/isnorr.md) & [Rob Scaffold](@/w/rob-scaffold.md) vs [Direk](@/w/direk.md) & Faust.", source = "Official DFW Facebook" }
+04 = { path = "gauntlet-match.jpg", caption = "Image announcing ??? vs [Malmo Buruto](@/w/malmo-buruto.md) vs [Corin Mean](@/w/corin-mear.md) vs [PJ Blake](@/w/pj-blake.md) vs [Revage](@/w/rafael-kid.md) vs ??? vs ???.", source = "Official DFW Facebook" }
