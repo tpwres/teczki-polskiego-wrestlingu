@@ -46,6 +46,7 @@ Featuring a battle royale match to select the next contender for Revage's DFW ch
     s: Falls Count Anywhere Street Fight
 - credits:
     Ring announcer: '[PJ Blake](@/w/pj-blake.md)'
+    Referee: 'Sędzia Marcin'
 {% end %}
 
 Attendance: about 50, confirmed in a Facebook post \
