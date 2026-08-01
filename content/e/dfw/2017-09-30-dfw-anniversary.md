@@ -8,10 +8,7 @@ chronology = ["dfw"]
 city = "Toruń"
 toclevel = 2
 has_video = true
-[extra.gallery.poster]
-path = "dfw-anniversary-poster.webp"
-caption = "Official poster, featuring [Charlie](@/w/sedzia-karol-gorski.md), [Revage](@/w/rafael-kid.md), [Chris Hunter](@/w/chris-hunter.md), [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), Faust XIII, [Prince Victor](@/w/vic-golden.md), [Rob Scaffold](@/w/rob-scaffold.md)."
-source = "Facebook @DreamFactoryWrestling"
+[extra.gallery]
 +++
 
 Anniversary was an event that celebrated DFW's second anniversary, held on Saturday, September 30, 2017. The name was a bit of a stretch as it was the second anniversary, but only when counting from [DFW @ Kaszczorek](@/e/dfw/2015-09-20-dfw-showcase.md) which was DFW's second show rather than first. Counting from the first show, the second anniversary was instead much closer to [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md).
