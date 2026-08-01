@@ -5,7 +5,7 @@ template = "org_page.html"
 authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 aliases = ["/o/ewenement-dojo"]
 [taxonomies]
-chrono_root = ["dojo"]
+chrono_root = ["dojo", "wsw"]
 [extra]
 toclevel = 3
 hide_roster = false
