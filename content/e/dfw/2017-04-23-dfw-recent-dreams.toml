@@ -1,10 +1,7 @@
-01 = { path = "dfw-recent-dreams-poster-2.webp", caption = "Official poster, with [Revage](@/w/rafael-kid.md) and [Chris Hunter](@/w/chris-hunter.md)", source = "Official DFW Facebook" }
-02 = { path = "dfw-recent-dreams-poster.webp", caption = "Social media graphic announcing the event", source = "Official DFW Facebook" }
-
-03 = { path = ".webp", caption = "Image announcing .", source = "Official DFW Facebook" }
-
-04 = { path = "chris-hunter-vs-revage.webp", caption = "Image announcing [Chris Hunter](@/w/chris-hunter.md) vs [Revage](@/w/rafael-kid.md).", source = "Official DFW Facebook" }
-05 = { path = "amisz-vs-pj-blake.webp", caption = "Image announcing [Amisz](@/w/jakub.md) vs [PJ Blake](@/w/pj-blake.md).", source = "Official DFW Facebook" }
-06 = { path = "norris-vs-malmo-buruto.webp", caption = "Image announcing [Norris](@/w/isnorr.md) vs [Malmo Buruto](@/w/malmo-buruto.md).", source = "Official DFW Facebook" }
-07 = { path = "direk-vs-charlie.webp", caption = "Image announcing [Direk](@/w/direk.md) vs [Charlie](@/w/sedzia-karol-gorski.md).", source = "Official DFW Facebook" }
-08 = { path = "rob-scaffold-vs-corin-mear.webp", caption = "Image announcing [Rob Scaffold](@/w/rob-scaffold.md) vs [Corin Mean](@/w/corin-mear.md).", source = "Official DFW Facebook" }
+01 = { path = "dfw-recent-dreams-poster-2.webp", caption = "Official poster, with [Revage](@/w/rafael-kid.md) and [Chris Hunter](@/w/chris-hunter.md).", source = "Official DFW Facebook" }
+02 = { path = "dfw-recent-dreams-poster.webp", caption = "Social media image announcing the event.", source = "Official DFW Facebook" }
+03 = { path = "chris-hunter-vs-revage.webp", caption = "Image announcing [Chris Hunter](@/w/chris-hunter.md) vs [Revage](@/w/rafael-kid.md).", source = "Official DFW Facebook" }
+04 = { path = "amisz-vs-pj-blake.webp", caption = "Image announcing [Amisz](@/w/jakub.md) vs [PJ Blake](@/w/pj-blake.md).", source = "Official DFW Facebook" }
+05 = { path = "norris-vs-malmo-buruto.webp", caption = "Image announcing [Norris](@/w/isnorr.md) vs [Malmo Buruto](@/w/malmo-buruto.md).", source = "Official DFW Facebook" }
+06 = { path = "direk-vs-charlie.webp", caption = "Image announcing [Direk](@/w/direk.md) vs [Charlie](@/w/sedzia-karol-gorski.md).", source = "Official DFW Facebook" }
+07 = { path = "rob-scaffold-vs-corin-mear.webp", caption = "Image announcing [Rob Scaffold](@/w/rob-scaffold.md) vs [Corin Mean](@/w/corin-mear.md).", source = "Official DFW Facebook" }
