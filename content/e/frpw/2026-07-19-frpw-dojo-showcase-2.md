@@ -92,7 +92,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   6. Völler eliminated Julka
   7. Mikołaj "SKS" eliminated Marcelito
   8. Mikołaj eliminated Völler
-* [Bart Petro](@/w/bart-petro.md), previously appearing for [PTW](@/o/ptw.md) was a surprise contestant in the Rumble Match.
+* [Bart Petro](@/w/bart-petro.md), previously appearing for [PTW](@/o/ptw.md), was a surprise contestant in the Rumble Match.
 * Before the main event bell rang, [FRPW](@/o/frpw.md) Board Member [Gustav Gryffin](@/w/gustav-gryffin.md) entered the ring to hand bags with gifts to both of the competitors - a practice imported from the Japanese wrestling scene.
 * After the main event, Leon, still winded and panting, took the mic and praised all the rookies present, and the Foundations' efforts. He recalled that back when he wanted to become a wrestler, such level of professional guidance was not easily available.
 
