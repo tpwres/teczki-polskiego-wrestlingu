@@ -46,9 +46,10 @@ Featuring a battle royale match to select the next contender for Revage's DFW ch
     s: Falls Count Anywhere Street Fight
 - credits:
     Ring announcer: '[PJ Blake](@/w/pj-blake.md)'
+    Referee: 'Sędzia Marcin'
 {% end %}
 
-Attendance: about 50, confirmed in a Facebook post \
+Attendance: about 50, confirmed in a [Facebook post][50-osob].
 
 ### Recap
 
@@ -58,3 +59,5 @@ Attendance: about 50, confirmed in a Facebook post \
 ## References
 
 * [Full event on YouTube](https://www.youtube.com/watch?v=L_RpLlqJchY), with Polish commentary by Adrian Gawrychowski and Mateusz Mikołajczak
+
+[50-osob]: https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0KKZ1KrZQ3fgQAwT85kpzuf9LVvh3agSfSKEzpP7s7MUjKMX5VLAx1SQ1zP2bBGZvl
