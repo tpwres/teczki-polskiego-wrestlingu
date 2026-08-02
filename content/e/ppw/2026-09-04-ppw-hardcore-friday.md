@@ -24,7 +24,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) is an up
 {% card(predicted=true) %}
 - - '[Biesiad Strong](@/w/biesiad.md)'
   - '[Vic Golden](@/w/vic-golden.md)'
-  - Tables Match
+  - s: Tables Match
     nc: upcoming
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '???'
