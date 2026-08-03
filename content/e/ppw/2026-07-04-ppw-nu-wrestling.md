@@ -48,7 +48,7 @@ Nü Wrestling was a show by [PpW Ewenement's](@/o/ppw.md) held in [2KOŁA Motorc
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - g: Crane challenges Queen for his title.
 - - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - "['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)"
+  - '["Ladykiller" Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
 - credits:
