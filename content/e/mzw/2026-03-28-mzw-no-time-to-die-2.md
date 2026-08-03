@@ -39,7 +39,7 @@ No Time to Die 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow
   - s: Tag Team match
 - - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
-- - "['Fox' Jakub](@/w/jakub.md)(c)"
+- - '["Fox" Jakub](@/w/jakub.md)(c)'
   - '[Max Speed](@/w/max-speed.md)'
   - c: '[Legacy of Wrestling European Championship](@/c/low-european-championship.md)'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
