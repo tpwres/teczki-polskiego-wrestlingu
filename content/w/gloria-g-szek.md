@@ -29,7 +29,7 @@ Gloria G Szek is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [Pp
 
 In 2023, Martyna and her husband [Istociarz](@/w/istociarz.md) started a YouTube channel called Istota Wrestlingu (roughly _The Essence of Wrestling_) where they talked about the recent shows by various Polish promotions. As the channel grew, they started inviting wrestlers and other personalities from the Polish wrestling scene for interviews. At the same time they moved away from the pre-recorded format in favour of live streams, at which point they started wearing their trademark cat-like lucha libre masks.
 
-### PpW Ewenement Wrestling (2024-present)
+### PpW Ewenement Wrestling (2024-)
 
 #### Trainee and staff worker
 
