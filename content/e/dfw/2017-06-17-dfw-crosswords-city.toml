@@ -1,0 +1,5 @@
+01 = { path = "dfw-crosswords-city-plakat.webp", caption = "Official poster, featuring [Revage](@/w/rafael-kid.md) and [Direk](@/w/direk.md).", source = "Official DFW Facebook" }
+02 = { path = "chris-hunter.webp", caption = "Image announcing [Chris Hunter](@/w/chris-hunter.md).", source = "Official DFW Facebook" }
+03 = { path = "direk-vs-rob-scaffold.webp", caption = "Image announcing [Direk](@/w/direk.md) vs [Rob Scaffold](@/w/rob-scaffold.md).", source = "Official DFW Facebook" }
+04 = { path = "norris-vs-charlie.webp", caption = "Image announcing [Norris](@/w/isnorr.md) vs [Charlie](@/w/sedzia-karol-gorski.md).", source = "Official DFW Facebook" }
+05 = { path = "corin-mear-vs-revage-vs-pj-blake.webp", caption = "Image announcing [Corin Mear](@/w/corin-mear.md) vs [Revage](@/w/rafael-kid.md) vs [PJ Blake](@/w/pj-blake.md).", source = "Official DFW Facebook" }

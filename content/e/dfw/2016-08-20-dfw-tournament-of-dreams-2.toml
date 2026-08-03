@@ -1,0 +1,5 @@
+01 = { path = "dfw-tournament-of-dreams-poster.webp", caption = "Official poster. Top to bottom: [Corin Maer](@/w/corin-mear.md), [Pain Killer](@/w/pain-killer.md), [Chris Hunter](@/w/chris-hunter.md).", source = "Official DFW Facebook" }
+02 = { path = "corin-mear-vs-chris-hunter.webp", caption = "Image announcing [Corin Mean](@/w/corin-mear.md) vs [Chris Hunter](@/w/chris-hunter.md).", source = "Official DFW Facebook" }
+03 = { path = "charlie-vs-pj-blake.webp", caption = "Image announcing [Charlie](@/w/sedzia-karol-gorski.md) vs [PJ Blake](@/w/pj-blake.md).", source = "Official DFW Facebook" }
+04 = { path = "rob-scaffold-norris-vs-pain-killer-malmo-buruto.webp", caption = "Image announcing [Rob Scaffold](@/w/rob-scaffold.md) & [Norris](@/w/isnorr.md) vs [Pain Killer](@/w/pain-killer.md) & [Malmo Buruto](@/w/malmo-buruto.md).", source = "Official DFW Facebook" }
+05 = { path = "revage-vs-direk-or-not.webp", caption = "Image announcing [Revage](@/w/rafael-kid.md) vs Direk.", source = "Official DFW Facebook" }
