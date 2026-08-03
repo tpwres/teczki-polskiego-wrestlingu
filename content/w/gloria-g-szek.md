@@ -1,5 +1,5 @@
 +++
-title = "Istotna Martynka"
+title = "Gloria G Szek"
 template = "talent_page.html"
 authors = ["M3n747", "Sewi The Referee", "Szymon Iwulski"]
 [extra]
@@ -8,19 +8,20 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Istotna Martynka is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [PpW's](@/o/ppw.md) Director of Staff, a trainee of [Ewenement Dojo](@/o/dojo.md) and the wife of [Istociarz](@/w/istociarz.md). She makes occasional in-ring appearances as a wrestler and a referee.
+Gloria G Szek is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [PpW's](@/o/ppw.md) Director of Staff, a trainee of [Ewenement Dojo](@/o/dojo.md) and the wife of [Istociarz](@/w/istociarz.md). In addition to in-ring work as a wrestler, she made a couple of appearances as a referee.
 
 ## Basic info
-* Years active: N/A
+* Years active: 2026-
 * Gimmicks/nicknames:
   - Istociara (at Istota Wrestlingu)
-  - Istotna Martynka {{ org_badge(orgs=['ppw']) }}
   - Siostra Kimono {{ org_badge(orgs=['ppw']) }}
-  - "Szeku" Martynka {{ org_badge(orgs=['ppw', 'frpw']) }}
+  - Istotna Martynka {{ org_badge(orgs=['ppw']) }}
+  - Martynka {{ org_badge(orgs=['ppw']) }}
   - Referee Martyna {{ org_badge(orgs=['ppw']) }} (Japanese excursion)
-  - Gloria G Szek {{ org_badge(orgs=['frpw']) }}
+  - "Szeku" Martynka {{ org_badge(orgs=['ppw', 'frpw']) }}
+  - Gloria G Szek {{ org_badge(orgs=['frpw', 'ppw']) }}
 * Trained by:
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo/Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -34,13 +35,13 @@ In 2023, Martyna and her husband [Istociarz](@/w/istociarz.md) started a YouTube
 
 Istotna Martynka joined [Ewenement Dojo](@/o/dojo.md) at some point in 2024. She made her first - albeit unofficial - appearance in the ring at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md). On the first day of the show she accompanied other wrestlers as Siostra Kimono (_Sister Kimono_), and on the third day she fought in three matches - first winning the [PTW Intergender Championship](@/c/ptw-intergender-championship.md) from [Marco Hammers](@/w/marco-hammers.md), then losing it back to him, and finally taking part in a Royal Rumble.
 
-Besides that, Martynka also hold a position of PpW's Director of Staff, managing all of the staff workers during PpW events.
+Besides that, Martynka also holds a position of PpW's Director of Staff, managing all of the staff workers during PpW events.
 
-On February 14th, 2026, it was announced that Istotna Martynka would make a one-off referee appearance during PpW's [Japanese excursion in March](@/a/ppw-hardcore-friday-the-13th-tokyo.md) (as Referee Martyna). This turned out to be a two-off, however, as [another date](@/a/ppw-polska-gurom.md) was later added. 
+On 14th February 2026 it was announced that Istotna Martynka would make a one-off referee appearance during PpW's [Japanese excursion in March](@/a/ppw-hardcore-friday-the-13th-tokyo.md) (as Referee Martyna). This turned out to be a two-off, however, as [another date](@/a/ppw-polska-gurom.md) was later added. 
 
-At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka made her first in-ring appearance in PpW's main programming, joining the _25 Typa 25 Broni_ Rumble Match, in a losing effort.
+At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka made her first in-ring appearance in PpW's main programming, unexpectedly joining the 25 Typa 25 Broni Rumble Match, in a losing effort.
 
-On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
+On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). Beginning with [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) she would adopt a new ring name, Gloria G Szek.
 
 ## Championships and accomplishments
 

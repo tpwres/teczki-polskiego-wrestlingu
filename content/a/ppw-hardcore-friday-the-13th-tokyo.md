@@ -53,7 +53,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
     s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
 - credits:
-    Referee: '？？？ (???), [レフェリ・マルティナ](@/w/istotna-martynka.md) (Referee Martyna)'
+    Referee: '？？？ (???), [レフェリ・マルティナ](@/w/gloria-g-szek.md) (Referee Martyna)'
     Ring announcer: '？？？ (???)'
 {% end %}
 
@@ -61,7 +61,7 @@ Attendance: ca. 120
 
 ### Highlights
 
-* Unlike at the [previous show](@/a/ppw-polska-gurom.md), this time [Referee Martynka](@/w/istotna-martynka.md) counted pins in English.
+* Unlike at the [previous show](@/a/ppw-polska-gurom.md), this time [Referee Martynka](@/w/gloria-g-szek.md) counted pins in English.
 * Robert Star appeared to have sustained an injury early in his match after a dive outside the ring, as he was out of the action for the best part of the fight.
 * A failed spot from Olgierd vs Dale Patricks, in which a table doesn't break under Dale falling from the top turnbuckle, was featured in [Botchamania 529][botch-529], at 3:26 mark.
 

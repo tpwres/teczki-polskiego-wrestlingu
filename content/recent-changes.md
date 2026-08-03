@@ -273,7 +273,7 @@ template = "article.html"
   Author(s): M3n747 \
   Changes: `+1 -1` \
   Dojo Showcase #2
-- **Istotna Martynka (content/w/istotna-martynka.md)** \
+- **Istotna Martynka (content/w/gloria-g-szek.md)** \
   Author(s): M3n747 \
   Changes: `+4 -4` \
   Linki \

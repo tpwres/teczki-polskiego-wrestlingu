@@ -50,7 +50,7 @@ Ewenement Dojo / Warszawska Szkoła Wrestlingu:
 * [Antoni Ocean](@/w/antoni-ocean.md)
 * [Bartosz Plata](@/w/plata.md)
 * _rookie_ Gaba
-* [Gloria G Szek](@/w/istotna-martynka.md)
+* [Gloria G Szek](@/w/gloria-g-szek.md)
 * Julia Rave
 * _rookie_ Maciej
 * _rookie_ Maria
