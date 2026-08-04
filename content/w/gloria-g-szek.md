@@ -21,7 +21,7 @@ Gloria G Szek is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [Pp
   - "Szeku" Martynka {{ org_badge(orgs=['ppw', 'frpw']) }}
   - Gloria G Szek {{ org_badge(orgs=['frpw', 'ppw']) }}
 * Trained by:
-  - [Ewenement Dojo/Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
