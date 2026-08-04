@@ -21,7 +21,7 @@ manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
 - - '[Mira](@/w/mira.md)'
   - '[Kasandra](@/w/kasandra.md)'
 - - '[GREG](@/w/greg.md)'
-  - '[_rookie_ Rex Torpeda](@/w/krystian-malinowski.md)'
+  - '[adept Rex Torpeda](@/w/krystian-malinowski.md)'
   - '[_rookie_ Sawicki](@/w/sawicki.md)'
   - '[_rookie_ Damian Lambert](@/w/damian-lambert.md)'
   - 'adept Artur Dzwończak'
@@ -49,17 +49,17 @@ manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
 
 {% inline_fig(path="2015-03-14-ddw-house-show-1-battle-royal-1.jpg") %}
 Left to right: \
-_rookie_ [Sawicki](@/w/sawicki.md) (in the left corner) \
-_rookie_ [Rex Torpeda](@/w/krystian-malinowski.md) (kicking _rookie_ Sawicki) \
-[Greg](@/w/greg.md) (behind _rookie_ Rex Torpeda, in white T-shirt) \
-_rookie_ [Damian Lambert](@/w/damian-lambert.md) (being thrown out by Greg) \
+[_rookie_ Sawicki](@/w/sawicki.md) (in the left corner) \
+[adept Rex Torpeda](@/w/krystian-malinowski.md) (kicking _rookie_ Sawicki) \
+[Greg](@/w/greg.md) (behind adept Rex Torpeda, in white T-shirt) \
+[_rookie_ Damian Lambert](@/w/damian-lambert.md) (being thrown out by Greg) \
 adept Artur Dzwończak (in red shorts, against the ropes) \
 [Victor Rosetti](@/w/rosetti.md) (in black vest, attacking adept Artur Dzwończak) \
 [Boski Ostrowski](@/w/ostrowski.md) (in blue trousers) \
 [Mateusz Kowalski](@/w/mateusz-kakareko.md) (holding the top rope) \
-_rookie_ [Prince Victor](@/w/vic-golden.md) (attacking Mateusz Kowalski) \
+[_rookie_ Prince Victor](@/w/vic-golden.md) (attacking Mateusz Kowalski) \
 unknown (behind _rookie_ Prince Victor) \
-_rookie_ [David Oliwa](@/w/david-oliwa.md) (kneeling, in gaudy undies) \
+[_rookie_ David Oliwa](@/w/david-oliwa.md) (kneeling, in gaudy undies) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
 {% end %}
 
@@ -68,7 +68,7 @@ Left to right: \
 Mateusz Kowalski \
 _rookie_ Prince Victor \
 probably _rookie_ Sawicki, or the unknown contender \
-_rookie_ Rex Torpeda \
+adept Rex Torpeda \
 _rookie_ Damian Lambert \
 Greg \
 (Source: Krystian Malinowski)
