@@ -71,7 +71,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 
 * With this event, the ad-hoc team of Gustav and Goblin now has a name: "[Bad Trip](@/tt/bad-trip.md)", complete with merchandise.
 * Sambor was initially billed for the show, but did not make an appearance. Instead, the spot went to TOMCZAK in a surprise debut. The event therefore saw three [KPW](@/o/kpw.md) wrestlers in total, two of them for the first time in PpW.
-* Also present in the crowd was KPW's [Rookie Two](@/w/rookie-two.md).
+* Also present in the crowd was KPW's [Adept Dwa](@/w/adept-dwa.md).
 * Marcelito, paired with monster heel TOMCZAK, used some heel actions himself, choking one of the opponents in the corner with one of his green light strips. However, after their defeat, Tomczak confronted him and applied a devastating Chokeslam, ending their brief partnership.
 * The 3 Stages of Man stipulation, as declared by Marco in his promo, was a series of short contests between him and Boro, in order to prove who's more manly.
   - First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping and one-handed push-ups for extra flair.
