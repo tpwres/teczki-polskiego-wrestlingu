@@ -21,7 +21,7 @@ On 6.09.2025 KPW held an event in the village of {{ map_pin(v="Szkoła Podstawow
   - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - s: '[KPW Championship](@/c/kpw-championship.md)'
 - - '[Tomczak](@/w/tomczak.md)'
-  - 'The Rookies: [_rookie_ Adam](@/w/adam-wong.md) & [Rookie Two](@/w/rookie-two.md) & [Rookie Three](@/w/rookie-three.md)'
+  - 'The Rookies: [adept Adam](@/w/adam-wong.md) & [Rookie Two](@/w/rookie-two.md) & [Rookie Three](@/w/rookie-three.md)'
   - s: 3-on-1 Handicap Match
 - - '[Leon Lato](@/w/leon-lato.md)(c)'
   - '[Chemik](@/w/chemik.md)'
@@ -36,7 +36,7 @@ On 6.09.2025 KPW held an event in the village of {{ map_pin(v="Szkoła Podstawow
   - '[Filip Fux](@/w/filip-fux.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Oskar Fux](@/w/oskar-haller.md)'
-  - '[_rookie_ Adam](@/w/adam-wong.md)'
+  - '[adept Adam](@/w/adam-wong.md)'
   - '[Rookie Two](@/w/rookie-two.md)'
   - '[Rookie Three](@/w/rookie-three.md)'
   - '[Tomczak](@/w/tomczak.md)'

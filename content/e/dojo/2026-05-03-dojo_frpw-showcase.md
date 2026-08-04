@@ -29,14 +29,14 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
 {% card() %}
 - - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
-- - '[_rookie_ Gringo](@/w/jakub.md)'
-  - '_rookie_ Młody'
-  - _rookie_ Monster High Zuza
-  - _rookie_ Maciej
-  - _rookie_ Maria
+- - '[adept Gringo](@/w/jakub.md)'
+  - 'adept Młody'
+  - 'adeptka Monster High Zuza'
+  - 'adept Maciej'
+  - 'adeptka Maria'
   - '[Oskar Haller](@/w/oskar-haller.md)'
-  - _rookie_ Sawo
-  - _rookie_ Gaba
+  - 'adept Sawo'
+  - 'adeptka Gaba'
   - '[Markus Paskal](@/w/markus-paskal.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[TOMCZAK](@/w/tomczak.md)'
@@ -45,7 +45,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
 - - '[JAKUB](@/w/jakub.md)'
   - '[Szymon Kurczab](@/w/rookie-two.md)'
 - - '[Olgierd](@/w/olgierd.md)'
-  - 'Mikołaj "SKS"'
+  - 'adept Mikołaj "SKS"'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Biesiad](@/w/biesiad.md)'
   - g: Olgierd cuts a promo about Zmowa, Biesiad cuts in and a brawl ensues

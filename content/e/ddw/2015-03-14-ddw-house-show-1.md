@@ -24,7 +24,7 @@ manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
   - '[_rookie_ Rex Torpeda](@/w/krystian-malinowski.md)'
   - '[_rookie_ Sawicki](@/w/sawicki.md)'
   - '[_rookie_ Damian Lambert](@/w/damian-lambert.md)'
-  - '_rookie_ Artur Dzwończak'
+  - 'adept Artur Dzwończak'
   - '[Victor Rosetti](@/w/rosetti.md)'
   - '[Boski Ostrowski](@/w/ostrowski.md)'
   - '[Mateusz Kowalski](@/w/mateusz-kakareko.md)'
@@ -53,8 +53,8 @@ _rookie_ [Sawicki](@/w/sawicki.md) (in the left corner) \
 _rookie_ [Rex Torpeda](@/w/krystian-malinowski.md) (kicking _rookie_ Sawicki) \
 [Greg](@/w/greg.md) (behind _rookie_ Rex Torpeda, in white T-shirt) \
 _rookie_ [Damian Lambert](@/w/damian-lambert.md) (being thrown out by Greg) \
-_rookie_ Artur Dzwończak (in red shorts, against the ropes) \
-[Victor Rosetti](@/w/rosetti.md) (in black vest, attacking _rookie_ Artur Dzwończak) \
+adept Artur Dzwończak (in red shorts, against the ropes) \
+[Victor Rosetti](@/w/rosetti.md) (in black vest, attacking adept Artur Dzwończak) \
 [Boski Ostrowski](@/w/ostrowski.md) (in blue trousers) \
 [Mateusz Kowalski](@/w/mateusz-kakareko.md) (holding the top rope) \
 _rookie_ [Prince Victor](@/w/vic-golden.md) (attacking Mateusz Kowalski) \
