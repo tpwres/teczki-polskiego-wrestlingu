@@ -23,7 +23,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 * On 24.06.2026 the Dojo announced [Jacob Crane](@/w/jacob-crane.md) vs an unspecified rookie.
 * On 1.07.2026 came the news of a Rumble Match. While no participants were named, the post stated that anyone can be expected to appear: "both men and women, both known and experienced workers as well as just debuting rookies".
 * The next day the Dojo posted about [Bartosz Plata](@/w/plata.md) vs Austrian wrestler Barbarossa. Barbarossa had previously appeared at [KPW Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), and this would be his PpW/Dojo debut.
-* On 3.07.2026 the Dojo announced [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Gloria G Szek](@/w/istotna-martynka.md) & [Goblin](@/w/goblin.md) in a Mixed Tag Team.
+* On 3.07.2026 the Dojo announced [Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md) vs [Gloria G Szek](@/w/gloria-g-szek.md) & [Goblin](@/w/goblin.md) in a Mixed Tag Team.
 * On 5.07.2026 [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) were announced to have a spot on the card, without further details.
 * On 10.07.2026 FRPW shared that the main event match would be sponsored by [Yatta.pl][yatta] - a long-standing Polish chain of manga bookshops.
 
@@ -63,7 +63,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - '[Bart Petro](@/w/bart-petro.md)'
   - s: Rumble Match
 - - '[Agentka Agatka](@/w/agentka-agatka.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Gloria G Szek](@/w/istotna-martynka.md) & [Goblin](@/w/goblin.md)'
+  - '[Gloria G Szek](@/w/gloria-g-szek.md) & [Goblin](@/w/goblin.md)'
   - s: Mixed Tag Team Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Leon Lato](@/w/leon-lato.md)'

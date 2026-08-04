@@ -62,7 +62,7 @@ Teraz Albo Nigdy 2 (_Now Or Never 2_) was a show by [PpW Ewenement Wrestling](@/
   - '[Ladykiller](@/w/boro.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Marco Hardy](@/w/marco-hammers.md)'
-  - '[Martynka](@/w/istotna-martynka.md)'
+  - '[Martynka](@/w/gloria-g-szek.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Mutant](@/w/mutant.md)'

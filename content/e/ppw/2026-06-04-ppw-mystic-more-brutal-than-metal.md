@@ -32,7 +32,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
   - '[Progressive Mutant](@/w/mutant.md)'
   - s: Hardcore Metal Match
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
-  - '["Szeku" Martynka](@/w/istotna-martynka.md)'
+  - '["Szeku" Martynka](@/w/gloria-g-szek.md)'
 - - '[Sambor](@/w/sambor.md)'
   - 'Monster High Zuza'
 - - '[Goblin](@/w/goblin.md)'
@@ -56,7 +56,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
   - '[Sentinel](@/w/sentinel.md)'
   - r: Submission
 - - '[Bodyguard Michał](@/w/mutant.md) & Monster High Zuza'
-  - '["Szeku" Martynka](@/w/istotna-martynka.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+  - '["Szeku" Martynka](@/w/gloria-g-szek.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
   - s: Tag Team
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - 'Danny Roxx'
@@ -70,7 +70,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
   date: 2026-06-06
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Sentinel](@/w/sentinel.md)'
-- - '[Gabriel Queen](@/w/gabriel-queen.md) & [Martynka Martinella](@/w/istotna-martynka.md)'
+- - '[Gabriel Queen](@/w/gabriel-queen.md) & [Martynka Martinella](@/w/gloria-g-szek.md)'
   - 'Monster High Zuza & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: Tag Team Match
 - - '[Death Metal Biesiad](@/w/biesiad.md)'
@@ -100,7 +100,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - '[Sentinel](@/w/sentinel.md)'
-  - '["Szeku" Martynka](@/w/istotna-martynka.md)'
+  - '["Szeku" Martynka](@/w/gloria-g-szek.md)'
   - s: Battle Royal
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md), [Joker](@/w/joker.md)'
