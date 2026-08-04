@@ -43,6 +43,15 @@ At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka 
 
 On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). Beginning with [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) she would adopt a new ring name, Gloria G Szek.
 
+## In wrestling
+
+* Entrance music:
+  - "Just a Girl" by No Doubt
+    {{ org_badge(orgs=['ppw', 'dojo', 'frpw']) }} (2026-) <br>
+    {{ music(yt='PHzOOQfhPFg')}}
+    {{ music(spot='5lWRaa0fBxDE5yU91npPq7')}}
+    {{ music(apple='1440845400?i=1440845532')}}
+
 ## Championships and accomplishments
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
