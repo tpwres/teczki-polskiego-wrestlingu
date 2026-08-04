@@ -31,7 +31,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
   - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
 - - '[adept Gringo](@/w/jakub.md)'
   - 'adept Młody'
-  - 'adeptka Monster High Zuza'
+  - 'Monster High Zuza'
   - 'adept Maciej'
   - 'adeptka Maria'
   - '[Oskar Haller](@/w/oskar-haller.md)'
