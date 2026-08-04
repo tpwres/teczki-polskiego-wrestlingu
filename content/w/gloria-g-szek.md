@@ -47,7 +47,7 @@ On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03
 
 * Entrance music:
   - "Just a Girl" by No Doubt
-    {{ org_badge(orgs=['ppw', 'dojo', 'frpw']) }} (2026-) <br>
+    {{ org_badge(orgs=['ppw', 'frpw']) }} (2026-) <br>
     {{ music(yt='PHzOOQfhPFg')}}
     {{ music(spot='5lWRaa0fBxDE5yU91npPq7')}}
     {{ music(apple='1440845400?i=1440845532')}}
