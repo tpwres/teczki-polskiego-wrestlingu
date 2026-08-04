@@ -14,7 +14,7 @@ Boguś is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 * Years active: 2025-present
 * Gimmicks/nicknames:
-  - _rookie_ Boguś {{ org_badge(orgs=['ptw']) }} (July 2025-December 2025)
+  - adept Boguś {{ org_badge(orgs=['ptw']) }} (July 2025-December 2025)
   - Boguś {{ org_badge(orgs=['ptw']) }} (January 2026-)
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (202?-)

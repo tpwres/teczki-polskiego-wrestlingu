@@ -45,7 +45,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
 - - '[JAKUB](@/w/jakub.md)'
   - '[Szymon Kurczab](@/w/rookie-two.md)'
 - - '[Olgierd](@/w/olgierd.md)'
-  - 'adept Mikołaj "SKS"'
+  - 'Mikołaj "SKS"'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Biesiad](@/w/biesiad.md)'
   - g: Olgierd cuts a promo about Zmowa, Biesiad cuts in and a brawl ensues
