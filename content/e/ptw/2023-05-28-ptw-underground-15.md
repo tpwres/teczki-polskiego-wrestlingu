@@ -30,8 +30,8 @@ By the time of the event, Devlyn was touring the European independent scene, wit
 - - '["Top Gun" Samson](@/w/samson.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - r: DQ
-- - '[_rookie_ Kornel](@/w/vincent-caravaggio.md)'
-  - '_rookie_ Przemek'
+- - '[adept Kornel](@/w/vincent-caravaggio.md)'
+  - 'adept Przemek'
   - '[Disco Pablo](@/w/disco-pablo.md)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Axel Fox](@/w/jakub.md)'

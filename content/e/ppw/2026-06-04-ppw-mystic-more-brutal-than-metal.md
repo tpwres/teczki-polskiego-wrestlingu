@@ -34,7 +34,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '["Szeku" Martynka](@/w/gloria-g-szek.md)'
 - - '[Sambor](@/w/sambor.md)'
-  - 'Monster High Zuza'
+  - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
 - - '[Goblin](@/w/goblin.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
@@ -55,7 +55,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Sentinel](@/w/sentinel.md)'
   - r: Submission
-- - '[Bodyguard Michał](@/w/mutant.md) & Monster High Zuza'
+- - '[Bodyguard Michał](@/w/mutant.md) & [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
   - '["Szeku" Martynka](@/w/gloria-g-szek.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
   - s: Tag Team
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -71,7 +71,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Sentinel](@/w/sentinel.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md) & [Martynka Martinella](@/w/gloria-g-szek.md)'
-  - 'Monster High Zuza & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: Tag Team Match
 - - '[Death Metal Biesiad](@/w/biesiad.md)'
   - '[Black Metal Woody](@/w/johnny-blade.md)'
@@ -92,7 +92,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Sambor](@/w/sambor.md)'
-  - 'Monster High Zuza'
+  - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Jakub](@/w/jakub.md)'
   - '[Mutant](@/w/mutant.md)'
