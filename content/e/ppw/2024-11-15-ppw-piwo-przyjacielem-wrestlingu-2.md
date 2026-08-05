@@ -28,10 +28,10 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 - - '[Aron Wake](@/w/aron-wake.md)'
   - '[Sambor](@/w/sambor.md)'
   - s: Singles Match
-- - 'Rodzina Kimono: [Brat Kimono](@/w/goblin.md) & [Steven Kimono](@/w/biesiad.md) w/ [Siostra Kimono](@/w/istotna-martynka.md)'
+- - 'Rodzina Kimono: [Brat Kimono](@/w/goblin.md) & [Steven Kimono](@/w/biesiad.md) w/ [Siostra Kimono](@/w/gloria-g-szek.md)'
   - 'Turyści: Alvaro & [Ignacio](@/w/sedzia-kornel.md) w/ [Tomisław Apoloniusz Curuś-Bachleda Farrell](@/w/joker.md)'
   - s: Tag Team Match
-- - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md) & [Steven Kimono](@/w/biesiad.md) w/ [Siostra Kimono](@/w/istotna-martynka.md)'
+- - 'Bracia Kimono: [Brat Kimono](@/w/goblin.md) & [Steven Kimono](@/w/biesiad.md) w/ [Siostra Kimono](@/w/gloria-g-szek.md)'
   - 'The Feagers: [Bill Feager](@/w/feager.md) & Phil Feager'
   - s: Tag Team Match
 - - '[Isnorr](@/w/isnorr.md)(c)'
@@ -74,7 +74,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 - - '[Bill Feager](@/w/feager.md)'
   - '[Sambor](@/w/sambor.md)'
   - s: Singles Match
-- - '[Istotna Martynka](@/w/istotna-martynka.md)'
+- - '[Istotna Martynka](@/w/gloria-g-szek.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)(c) w/ [Olgierd](@/w/olgierd.md) & [Darko Hammers](@/w/joker.md)'
   - s: Singles Match
     c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md)'
@@ -95,7 +95,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Scarecrow](@/w/mister-z.md)'
   - s: ECW Rules Match
 - - '[Marco Hammers](@/w/marco-hammers.md) w/ [Olgierd](@/w/olgierd.md) & [Darko Hammers](@/w/joker.md)'
-  - '[Istotna Martynka](@/w/istotna-martynka.md)(c)'
+  - '[Istotna Martynka](@/w/gloria-g-szek.md)(c)'
   - s: Singles Match
     c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md)'
 - - '[Bonus CBD](@/w/gabriel-queen.md)'
@@ -121,7 +121,7 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
   - '[Marcelito](@/w/marcelito.md)'
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - '[Istotna Martynka](@/w/istotna-martynka.md)'
+  - '[Istotna Martynka](@/w/gloria-g-szek.md)'
   - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
   - s: Royal Rumble
     c: Golden Goat Trophy
