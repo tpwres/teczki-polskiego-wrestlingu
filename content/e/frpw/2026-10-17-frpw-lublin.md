@@ -3,7 +3,7 @@ title = "FRPW: Wrestling w Twoim Mieście - Lublin"
 template = "event_page.html"
 authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
-chronology = ["frpw"]
+chronology = ["frpw", "wrestling-w-twoim-miescie"]
 venue=["centrum-sportu-akademos"]
 [extra]
 orgs = ["frpw"]

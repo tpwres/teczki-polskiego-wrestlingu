@@ -3,7 +3,7 @@ title = "FRPW: Wrestling w Twoim Mieście - Krasnystaw"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
-chronology = ["frpw"]
+chronology = ["frpw", "wrestling-w-twoim-miescie"]
 venue=["mosir-krasnystaw"]
 [extra]
 orgs = ["frpw"]
