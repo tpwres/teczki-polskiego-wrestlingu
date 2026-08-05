@@ -38,6 +38,13 @@ Over the following weeks, Bumper's social media presented his transformation. Af
 * Tag Teams and Stables:
   - Bump & Drop (2025-)
 
+## Championships and accomplishments
+* [Prime Time Wrestling](@/o/ptw.md)
+  - Golden Fabian (3 times)
+    * Best Looking Wrestler (2026)
+    * Best Match in History (2026)
+    * Best Wrestler in History (2026)
+
 ## Internet presence
 
 * [Bumper's Instagram](https://www.instagram.com/bump_ptw/)

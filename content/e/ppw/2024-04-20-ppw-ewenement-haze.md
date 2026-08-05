@@ -24,7 +24,7 @@ The foreign guests for this event were:
 
 * German wrestler Nick Schreier. In 2021, Nick, in his third ever match recorded on Cagematch, appeared for [MZW](@/o/mzw.md) at [Project 8: Golden Road Finals](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md).
 * Danish wrestler Benny Bacchus, who competes mostly in Denmark and Sweden
-* German wrestlers Joshua Amaru and Aytac Bahar, returning as a tag team. Their previous appearance was at [Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
+* German wrestlers [Joshua Amaru](@/w/joshua-amaru.md) and [Aytaç Bahar](@/w/aytac-bahar.md), returning as a tag team. Their previous appearance was at [Mistrzowskie Rozdanie](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
 * Dominican wrestler Rambo, with 16 years of in-ring experience, mostly on the German scene. This is not his first time in Poland however: back in 2010 he appeared in a [tag team match](@/e/tbw/2010-06-05-tbw-2.md) for [Total Blast Wrestling](@/o/tbw.md).
 * Ukrainian wrestler Alex Arthur. While this is his first appearance for PpW, he already wrestled for MZW a number of times, starting in 2016.
 
@@ -45,7 +45,7 @@ The foreign guests for this event were:
   - '[Samson](@/w/samson.md)'
   - s: Three Way Dance
 - - "[Pure Gold](@/tt/pure-gold.md): [Vic Golden](@/w/vic-golden.md) & [Gabriel Queen](@/w/gabriel-queen.md)"
-  - 'Baklava Club: Aytac Bahar & Joshua Amaru'
+  - 'Baklava Club: [Aytaç Bahar](@/w/aytac-bahar.md) & [Joshua Amaru](@/w/joshua-amaru.md)'
   - s: Tag Team Match
 - - '[Goblin](@/w/goblin.md)'
   - Benny Bacchus
@@ -91,7 +91,7 @@ Samson attempts a top rope splash on Schreier, but Sigmarsson pulls Samson out o
 
 Winner: Gustav Gryffin
 
-#### Tag Team Match: Pure Gold (Gabriel Queen & Vic Golden) v Baklava Club (Aytac Bahar, Joshua Amaru)
+#### Tag Team Match: Pure Gold (Gabriel Queen & Vic Golden) v Baklava Club (Aytaç Bahar, Joshua Amaru)
 
 Timestamp: `1:19:50`
 

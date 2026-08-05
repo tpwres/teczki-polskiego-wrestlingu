@@ -29,7 +29,7 @@ has_video = true
 {% card() %}
 - - '[Krampus](@/w/krampus.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
-- - 'Flex Skywalker'
+- - '[Flex Skywalker](@/w/flex-skywalker.md)'
   - 'Andi ZickZack'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - s: Triple Threat Match
@@ -51,7 +51,7 @@ has_video = true
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
 - - '[CJ Klakson](@/w/cj-klakson.md)'
-  - 'Nic Wesker'
+  - '[Nic Wesker](@/w/nic-wesker.md)'
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '["The Enygma" Serg Sullivan](@/w/serg-sullivan.md) w/ "The Bat" Lesya Sullivan'
   - s: 'Casket match'

@@ -1,6 +1,7 @@
 +++
 title = "DFW Debut Show"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["dfw"]
 [extra]

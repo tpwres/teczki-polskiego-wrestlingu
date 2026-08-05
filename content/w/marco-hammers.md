@@ -19,7 +19,7 @@ Marco Hammers is a Polish wrestler best known for his time in [Prime Time Wrestl
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-2022)
   - [PTW Academy](@/o/ptw-academy.md) (2022-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -134,10 +134,10 @@ Marco started taking international bookings in 2022. That year he made a few app
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; final)
-* [PpW Ewenement](@/o/ppw.md):
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md)
+* [PpW Ewenement Wrestling](@/o/ppw.md):
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md)
   - PpW Tag Team Championship Tournament (2026)
-* Maniac Zone Wrestling:
+* [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (1 time; current)
 
 ## Internet presence

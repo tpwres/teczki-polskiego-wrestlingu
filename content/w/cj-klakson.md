@@ -48,12 +48,19 @@ Over the following months, Klakson worked exclusively against international comp
 * Signature moves:
   - _Fantastic slap_ (Overhand Chop)
   - _Rondo w Fordonie_ (Spinning Side Slam)
+* Tag Teams and stables:
+  - The Polish Stand, with [Bart Petro](@/w/bart-petro.md) (2026-)
 * Entrance music:
   - "Polska" by KULT
     {{ org_badge(orgs=['ptw']) }} (2025-)<br>
     {{ music(yt='K0NHY7wNDuM')}}
     {{ music(spot='1ngjjSd73Fgkcf3uOCGnxZ')}}
     {{ music(apple='1098856767?i=1098856826')}}
+  - "Życie jest piękne" by KULT
+    {{ org_badge(orgs=['ptw']) }} (2026-) (with [Bart Petro](@/w/bart-petro.md), as The Polish Stand)<br>
+    {{ music(yt='euM2Mu6VlVs')}}
+    {{ music(spot='0GSW8vwTTyk56SScQs0UIl')}}
+    {{ music(apple='1098788743?i=1098788934')}}
 
 ## References
 

@@ -295,11 +295,45 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Dog Collar Match
     en: '[PpW Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md)'
     ed: 2026-04-25
-- - '"Chain God" Olgierd (c)'
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '"Chain God" Olgierd (c)'
   - '"Polski Cieśla" Biesiad Strong'
   - s: Singles Match
     en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16
+{% end %}
+
+**Total: 161 days**, including the only confirmed defense outside of Poland.
+
+### Champion #10: Gabriel Queen
+
+{% free_card() %}
+- - '[Gabriel Queen](@/w/gabriel-queen.md)'
+  - '["Chain God" Olgierd](@/w/olgierd.md) (c)'
+  - '["Polski Cieśla" Biesiad Strong](@/w/biesiad.md)'
+  - s: Singles Match
+    en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    ed: 2026-05-16
+- - 'Gabriel Queen(c)'
+  - '[Vic Golden](@/w/vic-golden.md)'
+  - s: Singles Match
+    en: '[PpW Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md)'
+    ed: 2026-05-30
+- - 'Gabriel Queen(c)'
+  - 'Olgierd'
+  - s: Singles Match
+    en: '[PpW Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md)'
+    ed: 2026-06-13
+- - 'Gabriel Queen(c)'
+  - '[Maverick](@/w/maverick.md)'
+  - s: Singles Match
+    en: '[PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md)'
+    ed: 2026-07-04
+- - 'Gabriel Queen(c)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - s: Singles Match
+    en: '[PpW Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
+    ed: 2026-09-26
     nc: upcoming
 {% end %}
 

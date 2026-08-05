@@ -1,6 +1,7 @@
 +++
 title = "PpW Ledwo Legalne III"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 chronology = ["ppw", "ledwo-legalne"]
 venue=["waldorffa25"]

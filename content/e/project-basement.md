@@ -1,6 +1,7 @@
 +++
 title = "Project Basement"
 template = "chrono_root_list.html"
+authors = ["Krzysztof Zych"]
 weight = 0
 [extra]
 events_header = true

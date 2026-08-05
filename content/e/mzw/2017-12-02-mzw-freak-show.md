@@ -1,6 +1,7 @@
 +++
 title = "MZW Freak Show"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Sewi The Referee", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["bakara"]
@@ -12,11 +13,8 @@ has_video = true
 +++
 
 Freak Show was the second event held in [Bakara](@/v/bakara.md), and MZW's 21st event. The Battle Royal match is notable for featuring the debuts of several future MZW and PTW wrestlers:
-[Amisz](@/w/jakub.md), later known as [Axel Fox](@/w/jakub.md),
-Bartosz Borowski, later known as Ladykiller and [Boro](@/w/boro.md),
-[Kuba Kamiński](@/w/jacob-crane.md) (later [Jacob Crane](@/w/jacob-crane.md)),
-and [Rafał Orszak](@/w/rafael-kid.md) (future [Rafael Kid](@/w/rafael-kid.md)).
-Another new face, although an experienced wrestler by then, was [Damian Lambert](@/w/damian-lambert.md), previously in KPW, who returned from a brief excursion to Great Britain.
+[Amisz](@/w/jakub.md), [Bartosz Borowski](@/w/boro.md), [Kuba Kamiński](@/w/jacob-crane.md) and [Rafał Orszak](@/w/rafael-kid.md), all of whom would in time become popular workers on the Polish scene.
+Another new face, although an experienced wrestler by then, was [Damian Lambert](@/w/damian-lambert.md) (previously from [KPW](@/o/kpw.md)), who'd returned from a brief excursion to Great Britain.
 
 [Justin Joy](@/w/justin-joy.md), absent since [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md) more than a year before, also returned at this event.
 
@@ -50,7 +48,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
   - '[Rafał Orszak](@/w/rafael-kid.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Ten Man Battle Royal'
-- - 'Laurance Roman(c)'
+- - '[Laurance Roman](@/w/laurance-roman.md)(c)'
   - '[Shadow](@/w/shadow.md)'
   - c: 'Next Step Wrestling National Championship'
 - credits:

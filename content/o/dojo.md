@@ -1,31 +1,37 @@
 +++
-title = "Ewenement Dojo"
+title = "Warszawska Szkoła Wrestlingu"
 weight = 0
 template = "org_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
+aliases = ["/o/ewenement-dojo"]
 [taxonomies]
-chrono_root = ["ewenement-dojo"]
+chrono_root = ["dojo"]
 [extra]
 toclevel = 3
-hide_roster = true
+hide_roster = false
+hide_events = false
 [extra.gallery]
-1 = { path = "ewenement-dojo-logo.png", caption = "The Dojo's logo, depicting a folding chair wrapped in barbed wire.", source = "Facebook Ewenement Dojo" }
-2 = { path = "ewenement-dojo-post.webp", caption = "Facebook post announcing training with [Jacob Crane](@/w/jacob-crane.md), and mentioning the alumni.", source = "Facebook Ewenement Dojo" }
-3 = { path = "ewenement-dojo-biesiad.webp", caption = "Facebook post announcing training with [Biesiad Strong](@/w/biesiad.md), listing his MMA achievements.", source = "Facebook Ewenement Dojo" }
-4 = { path = "trener-fox-ewenement-dojo.webp", caption = "Facebook post announcing [Axel Fox](@/w/jakub.md) joining the dojo. The photo was taken at WxW Academy, whose logo is visible on the back wall.", source = "Facebook Ewenement Dojo" }
 +++
 
-Ewenement Dojo is the wrestling school associated with [PpW Ewenement](@/o/ppw.md).
+Warszawska Szkoła Wrestlingu (_Warsaw School of Wrestling_; formerly known as Ewenement Dojo) is a wrestling school associated with [Fundacja Rozwoju Polskiego Wrestlngu](@/o/frpw.md). From 2024 to July 2026 it was associated with [PpW Ewenement Wrestling](@/o/ppw.md).
 
 ## Basic info
 
 * Years active: July 2024-present (operated as PpW Dojo prior to 2024)
+* Locations:
+  1. Ewenement Dojo / Warszawska Szkoła Wrestlingu - Bartycka 116 street, Warsaw (July 2024-)
 * Coaching staff:
-  - [Jacob Crane](@/w/jacob-crane.md) - Head Coach
-  - [Biesiad Strong](@/w/biesiad.md) - Martial Arts Coach
-  - [Axel Fox](@/w/jakub.md) - Coach
-  - [Gustav Gryffin](@/w/gustav-gryffin.md) - Assistant Coach
-  - [Goblin](@/w/goblin.md) - Assistant Coach
+  * Active:
+    - [Jacob Crane](@/w/jacob-crane.md) - Head Coach
+    - [Gustav Gryffin](@/w/gustav-gryffin.md) - Assistant Coach
+    - [Goblin](@/w/goblin.md) - Assistant Coach
+  * Part-time:
+    - [Jakub](@/w/jakub.md) - Acting Head Coach (September 2024 - March 2026) / Guest Coach
+    - [Olgierd](@/w/olgierd.md) - Guest Coach
+  * Former:
+    - [Biesiad Strong](@/w/biesiad.md) - Martial Arts Coach (2024-2026)
+  * Seminary hosts:
+    - Shigehiro Irie (December 2025)
 
 ## Alumni
 
@@ -37,21 +43,30 @@ PpW Dojo:
 * [Gustav Gryffin](@/w/gustav-gryffin.md)
 * [Mister Z](@/w/mister-z.md)
 
-Ewenement Dojo:
+Ewenement Dojo / Warszawska Szkoła Wrestlingu:
 
 * [Agentka Agatka](@/w/agentka-agatka.md)
 * Alvaro (non-canon debut)
-* _rookie_ Andrzej (non-canon debut)
 * [Antoni Ocean](@/w/antoni-ocean.md)
 * [Bartosz Plata](@/w/plata.md)
-* [Istotna Martynka](@/w/istotna-martynka.md) (non-canon debut)
+* _rookie_ Gaba
+* [Gloria G Szek](@/w/gloria-g-szek.md)
+* Julia Rave
+* _rookie_ Maciej
+* _rookie_ Maria
+* Mikołaj "SKS"
+* _rookie_ Młody
+* Monster High Zuza
 * [Oskar Alexander](@/w/oskar-alexander.md)
+* _rookie_ Sawo
 * [Sędzia Kornel](@/w/sedzia-kornel.md)
 
 ## History
 
+### Ewenement Dojo
+
 The foundation of Ewenement Dojo was announced on June 8th 2024, at [PpW Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), and later followed by creating Facebook & Instagram profiles of the Dojo.
-Ewenement Dojo is an evolution of PpW Dojo, which previously operated semi-officially, and was partially closed for rookies.
+Ewenement Dojo was an evolution of PpW Dojo, which previously operated semi-officially, and was partially closed for rookies.
 In reality it was an auxiliary dojo with no consistent schedule, where PpW talent trained under [Jacob Crane](@/w/jacob-crane.md) and [Justin Joy](@/w/justin-joy.md).
 
 Preceding it was the Summer Wrestling Camp organised by PpW with Jacob Crane as Head Coach, fresh after his return from a three-month stint with Big Japan Wrestling.
@@ -63,9 +78,15 @@ The first fully Ewenement-grown talent who got a chance to debut at the Polish s
 
 Two of the first Ewenement Dojo graduates also made their non-PpW debuts, in a quick succession. [Oskar Alexander](@/w/oskar-alexander.md) made his [MZW](@/o/mzw.md) debut in a losing effort against [Shadow](@/w/shadow.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), while [Bartosz Plata](@/w/plata.md) debuted in [Legacy of Wrestling](@/o/low.md) as a part of a losing team in a six-man tag team main event of [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md).
 
+### Warszawska Szkoła Wrestlingu
+
+In May 2026 the Dojo started to hold its own shows, dubbed _Dojo Showcases_, independently of its mother promotion. In the early July Ewenement Dojo was rebranded as Warszawska Szkoła Wrestlingu to complete its separation from PpW as the school was effectively operated by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), which was formally established in May 2026.
+
 ## Internet presence
 
+* [WSW's Website](https://fundacjarpw.pl/szkola-wrestlingu/)
 * [Facebook Page](https://www.facebook.com/profile.php?id=61560762345187)
+* [Instagram Page](https://www.instagram.com/wsw_dojo/)
 
 ## References
 

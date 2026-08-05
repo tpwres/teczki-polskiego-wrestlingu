@@ -20,7 +20,7 @@ Sędzia Karol Górski, also known as Charlie Grayson and Madman Charlie, is a Po
 * Trained by:
   - MZW Academy (2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2021)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 

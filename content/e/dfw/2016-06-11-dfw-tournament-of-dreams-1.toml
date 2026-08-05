@@ -1,0 +1,5 @@
+01 = { path = "20160611-program.png", caption = "Leaflet of the parish festival, advertising wrestling among other attractions.", source = "Official DFW Facebook", skip_art = true}
+02 = { path = "chris-hunter-vs-revage.webp", caption = "Image announcing [Chris Hunter](@/w/chris-hunter.md) vs [Revage](@/w/rafael-kid.md).", source = "Official DFW Facebook" }
+03 = { path = "malmo-buruto-vs-corin-mear.webp", caption = "Image announcing [Malmo Buruto](@/w/malmo-buruto.md) vs [Corin Mean](@/w/corin-mear.md).", source = "Official DFW Facebook" }
+04 = { path = "pain-killer-vs-pj-blake.webp", caption = "Image announcing [Pain Killer](@/w/pain-killer.md) vs [PJ Blake](@/w/pj-blake.md).", source = "Official DFW Facebook" }
+05 = { path = "charlie-vs-norris.webp", caption = "Image announcing [Charlie](@/w/sedzia-karol-gorski.md) vs [Norris](@/w/isnorr.md).", source = "Official DFW Facebook" }

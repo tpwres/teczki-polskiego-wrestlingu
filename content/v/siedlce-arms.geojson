@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [22.289688, 52.171930]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Ośrodek Sportu ARMS",
+        "description": "ARMS Sports Centre, where [FRPW](@/o/frpw.md) held [a show](@/e/frpw/2026-10-03-frpw-siedlce.md).",
+        "orgs": ["frpw"]
+    }
+}

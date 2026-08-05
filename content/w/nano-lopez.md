@@ -78,7 +78,7 @@ From 2021 onwards Nano started making occasional appearances in independent fede
 * Tag Teams and stables:
   - [Nietykalni](@/tt/nietykalni.md) (2025-)
 * Entrance music:
-  - "Written In The Stars" by Tinie Tempah
+  - "Written in the Stars" by Tinie Tempah
     {{ org_badge(orgs=['ptw']) }} (2021-2025)  <br>
     {{ music(yt='YgFyi74DVjc')}}
     {{ music(spot='5e0dZqrrTaoj6AIL7VjnBM')}}

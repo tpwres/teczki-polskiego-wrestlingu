@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.996013, 50.083831]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Klub Kwadrat",
+        "description": "A music club where [Legacy of Wrestling](@/o/low.md) held their [seventh show](@/e/low/2026-10-24-low-7.md).",
+        "orgs": ["low"]
+    }
+}

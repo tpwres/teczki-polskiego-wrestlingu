@@ -1,6 +1,7 @@
 +++
 title = "PTW Underground 20"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]

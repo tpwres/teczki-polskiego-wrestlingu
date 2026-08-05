@@ -159,7 +159,7 @@ On June 9th, [Sambor](@/w/sambor.md) posted a [black and white photo](https://ww
 
 On Thursday June 13th, PTW have taken down the roster section of their page.
 
-In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawłowski confirmed that [Axel Fox](@/w/jakub.md), a popular babyface, had also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Just a month later Fox joined [PpW](@/o/ppw.md), becoming one of the coaches in PpW's rebranded [Ewenement Dojo](@/o/ewenement-dojo.md).
+In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th Pawłowski confirmed that [Axel Fox](@/w/jakub.md), a popular babyface, had also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Just a month later Fox joined [PpW](@/o/ppw.md), becoming one of the coaches in PpW's rebranded [Ewenement Dojo](@/o/dojo.md).
 
 #### Soft reboot: Ryucon, new co-owner
 
@@ -206,7 +206,7 @@ PTW increased the number of their championships: [Max Speed](@/w/max-speed.md) b
 
 #### Debuts and departures
 
-The year saw the debuts of many international wrestlers, such as [El G](@/w/el-g.md) and Ricky Eagle from Italy, Team Turbulence (Tommy Tornado & Tommy Torpedo), Andi ZickZack, Flex Skywalker and Nic Wesker from Austria, Lucy Couture from England, and most prominently, [Mercedes Moné](@/w/mercedes-mone.md) from the USA. Mercedes made an appearance at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), a show that was announced only eight days in advance. She faced [Diana Strong](@/w/diana-strong.md) in the main event, a match for the BestYa Women's Championship and the [PTW Women's Championship](@/c/ptw-womens-championship.md). Moné won the match, becoming the first PTW Women's Champion. She later appeared with the belts at AEW Forbidden Door in London, and continued to wear them in AEW as a part of her _Belt Collector_ gimmick.
+The year saw the debuts of many international wrestlers, such as [El G](@/w/el-g.md) and Ricky Eagle from Italy, Team Turbulence (Tommy Tornado & Tommy Torpedo), Andi ZickZack, Flex Skywalker and [Nic Wesker](@/w/nic-wesker.md) from Austria, Lucy Couture from England, and most prominently, [Mercedes Moné](@/w/mercedes-mone.md) from the USA. Mercedes made an appearance at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), a show that was announced only eight days in advance. She faced [Diana Strong](@/w/diana-strong.md) in the main event, a match for the BestYa Women's Championship and the [PTW Women's Championship](@/c/ptw-womens-championship.md). Moné won the match, becoming the first PTW Women's Champion. She later appeared with the belts at AEW Forbidden Door in London, and continued to wear them in AEW as a part of her _Belt Collector_ gimmick.
 
 A number of new Polish wrestlers made their debuts: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Sigma Boy xD](@/w/sigma-boy.md), [Daniel Razor](@/w/daniel-razor.md), Damian Adler and [CJ Klakson](@/w/cj-klakson.md) (both former [KPW school](@/o/szkola-kpw.md) trainees), as well as three PTW rookies: Boguś, Bumper and Dropper, in addition to a new commentary team of [Adam Goldschmidt](@/w/adam-goldschmidt.md) and [Krystian Smoleń](@/w/resivny.md). Additionally, two competitors who were presumed retired, made their PTW debuts at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md): [Damian Lambert](@/w/damian-lambert.md), returning from nearly six years of retirement, and [Sawicki](@/w/sawicki.md) who'd joined PTW five years prior.
 
@@ -217,7 +217,7 @@ On the international front, the Austrian sister promotion PTW:WWA has effectivel
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) and [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
-Talent were strictly prohibited from appearing in any other Polish rings and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
+Talent were [strictly prohibited](@/a/polish-forbidden-door.md) from appearing in any other Polish rings and any form of cooperation, either as a performer or in a backstage role, resulted in "firing" from PTW.
 One early example of that is [Jacob Crane](@/w/jacob-crane.md), ostensibly fired for "damaging the organization's image".
 That fact was one of the key factors leading to most of the [PTW exits](@/a/ptw-exits.md), where the talent wanted to have more freedom and be able to take bookings from other Polish organizations.
 This is similar to KPW's pre-[2024](@/e/low/2024-12-01-low-1.md) approach. Fans theorise that this isolationist attitude was inherited from [Don Roid's](@/w/don-roid.md) [DDW](@/o/ddw.md), where Pawłowski learned the ropes. Their negative attitude towards "backyards" like [PpW](@/o/ppw.md) is also shared with KPW (who seem to have relaxed their rigid stance slightly ever since their [first show with Legacy](@/e/low/2024-12-01-low-1.md)).
@@ -255,9 +255,9 @@ One noteworthy deal between PTW and a bigger promotion was an agreement with Imp
   - '[Spartan](@/w/spartan.md)'
   - Defeated [Puncher](@/w/puncher.md) at [PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
 - - '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - >
-    Defeated [L'Orda](@/tt/l-orda.md): [Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md) at  [PTW Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md).
+    Defeated [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) at  [PTW Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md).
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Defeated [Daniel Razor](@/w/daniel-razor.md) at [PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).'

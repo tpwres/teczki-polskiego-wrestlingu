@@ -26,7 +26,7 @@ Johnny Blade, also known under numerous aliases, is a Polish wrestler best known
   - Vins Michael $hot {{ org_badge(orgs=['ppw']) }}
 * Trained by:
   - PpW Dojo
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -111,7 +111,7 @@ On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursi
 
 ## Championships and accomplishments
 
-* [PpW Ewenement](@/o/ppw.md):
+* [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (2 times; inaugural)
   - VcV Hardcore Championship (1 time)
 

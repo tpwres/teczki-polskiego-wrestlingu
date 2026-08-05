@@ -1,6 +1,7 @@
 +++
 title = "MZW Project 1: New Beginning"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["bakara"]

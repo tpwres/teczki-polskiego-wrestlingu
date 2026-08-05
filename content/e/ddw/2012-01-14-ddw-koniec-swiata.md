@@ -11,7 +11,7 @@ toclevel = 2
 has_video = false
 [extra.gallery.00]
 path = "ddw-koniecswiata-poster.webp"
-caption = "Official show poster. In the top row: [Don Roid](@/w/don-roid.md), Omen, Big Van Walter. Between Roid and Omen in the middle row: Rob Cage. Bottom row: [Kamil Aleksander](@/w/kamil-aleksander.md), [Kevin Williams](@/w/kevin-williams.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)."
+caption = "Official show poster. In the top row: [Don Roid](@/w/don-roid.md), Omen, Big Van Walter. Between Roid and Omen in the middle row: Rob Cage; underneath Walter: ???. Bottom row: [Kamil Aleksander](@/w/kamil-aleksander.md), [Kevin Williams](@/w/kevin-williams.md), [Jędruś Bułecka](@/w/jedrus-bulecka.md)."
 source = "Jędruś Bułecka @ Facebook"
 +++
 

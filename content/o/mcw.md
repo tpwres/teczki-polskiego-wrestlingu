@@ -38,7 +38,7 @@ In addition to the events listed below, MCW also held two undated demonstrations
 
 ## Polish wrestling scene
 
-MCW is not involved in any cooperations on the Polish wrestling scene. Their only influence on the scene were a few ex-MCW wrestlers and trainees who joined PTW (and later moved to other federations), and information revealed by [Piotr Małecki](@/w/piotr-malecki.md), one of the owners of [Legacy of Wrestling](@/o/low.md), about failed ring rental negotiations. None of the current MCW talent is known to train in any of the wrestling schools in Poland, and the federation is seemingly isolated from the rest of the scene.
+MCW is not involved in any [cooperations](@/a/polish-forbidden-door.md) on the Polish wrestling scene. Their only influence on the scene were a few ex-MCW wrestlers and trainees who joined PTW (and later moved to other federations), and information revealed by [Piotr Małecki](@/w/piotr-malecki.md), one of the owners of [Legacy of Wrestling](@/o/low.md), about failed ring rental negotiations. None of the current MCW talent is known to train in any of the wrestling schools in Poland, and the federation is seemingly isolated from the rest of the scene.
 
 ## Championships
 
@@ -46,8 +46,8 @@ MCW has one singles championship, which was introduced in late 2019.
 
 {% championship() %}
 - - '[MCW Championship](@/c/mcw-championship.md)'
-  - Jack Kalom
-  - Defeated [RAV](@/w/rav.md) at [MCW Charytatywnie](@/e/mcw/2024-11-16-mcw-charytatywnie.md)
+  - VACANT
+  - '[Jack Kalom](@/w/kalom.md) left MCW and vacated the title'
 {% end %}
 
 ## Internet presence

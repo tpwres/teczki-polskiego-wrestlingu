@@ -8,14 +8,7 @@ chronology = ["dfw"]
 city = "Toruń"
 toclevel = 2
 has_video = true
-[extra.gallery.poster]
-path = "dfw-recent-dreams-poster-2.webp"
-caption = "Official poster, with [Revage](@/w/rafael-kid.md) and [Chris Hunter](@/w/chris-hunter.md)"
-source = "Facebook @DreamFactoryWrestling"
-[extra.gallery.sm-graphic]
-path = "dfw-recent-dreams-poster.webp"
-caption = "Social media graphic announcing the event"
-source = "Facebook @DreamFactoryWrestling"
+[extra.gallery]
 +++
 
 [DFW's](@/o/dfw.md) Recent Dreams was held on Sunday, April 23 2017, once again in the sports hall of Toruń's {{ map_pin(v="Copernicus University sports hall") }}university campus. The previous event to be held there was the second half of [Tournament of Dreams](@/e/dfw/2016-08-20-dfw-tournament-of-dreams-2.md).

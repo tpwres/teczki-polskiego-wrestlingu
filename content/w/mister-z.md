@@ -18,7 +18,7 @@ Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](
 
 * Years active: 2010-present
 * Gimmicks/nicknames:
-  - Mister Z {{ org_badge(orgs=['ppw', 'mzw']) }}
+  - Mister Z {{ org_badge(orgs=['ppw', 'mzw', 'frpw']) }}
   - Jim Enerico {{ org_badge(orgs=['ppw']) }} (2015-2017)
   - Electrico {{ org_badge(orgs=['ppw']) }} (2015; later only at non-canon shows)
   - Cade Bruce {{ org_badge(orgs=['dfw', 'ppw']) }} (2017; later only at non-canon shows)
@@ -27,7 +27,7 @@ Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](
   - Scarecrow {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
   - PpW Dojo
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -160,7 +160,7 @@ In August 2023 Mister Z made a singular international appearance during Passion 
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; inaugural)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural) - with [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)
   - PpW Tag Team Championship Tournament (2026)
 
    _Backyard Era Championships_:

@@ -54,12 +54,12 @@ At some time during Moné's reign, the belt [lost its black external plate][pas-
 - - '[Diana Strong](@/w/diana-strong.md)'
   - 'Amy Heartbeat'
   - s: 'Tournament First Round Match'
-    en: '[PTW Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)'
+    en: '[PTW: Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md)'
     ed: 2025-01-11
 - - 'Betty Boa'
   - 'Kiara'
   - s: 'Tournament First Round Match'
-    en: '[PTW Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
+    en: '[PTW: Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md)'
     ed: 2025-02-15
 - - 'Heidi Katrina'
   - 'Rhiannon Jade'
@@ -118,6 +118,11 @@ Never took place, as the tournament was cancelled.
   - s: Singles Match
     en: '[PTW: More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
     ed: 2026-03-29
+- - 'Diana Strong(c)'
+  - 'Emily Locke'
+  - s: Singles Match
+    en: '[PTW: Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
+    ed: 2026-06-27
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c

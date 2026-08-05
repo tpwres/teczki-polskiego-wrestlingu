@@ -1,6 +1,7 @@
 +++
 title = "MZW Project 5: Hero"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["czasoprzestrzen"]

@@ -75,6 +75,7 @@ def generate_calendar(events_dir: Path, accept_event: Predicate, title: Optional
 
         for org in page.orgs:
             org_page = lookup_org(org)
+            if not org_page: continue
             attn = vCalAddress(org_page.url)
             attn.params['CN'] = vText(org_page.full_name)
             attn.params['CUTYPE'] = 'GROUP'
@@ -104,6 +105,8 @@ def generate_calendar(events_dir: Path, accept_event: Predicate, title: Optional
 
 def lookup_org(code):
     path = Path('content/o') / f'{code}.md'
+    if not path.exists():
+        return None
     page = OrgPage(path, verbose=False)
     return Org(
         url=f'https://tpwres.pl/o/{code}',

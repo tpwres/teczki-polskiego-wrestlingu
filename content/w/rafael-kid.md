@@ -35,7 +35,7 @@ For the better part of 2018 and 2019, Kid performed mostly in multi-man and midc
 
 ### PpW Ewenement (2022)
 
-Rafael Kid made his debut in [PpW Ewenement](@/o/ppw.md) at [PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md), losing to his fellow ex-DFW and MZW collegue [Isnorr](@/w/isnorr.md). Kid was scheduled to face Aytac Bahar, however he was unexpectedly pulled off from the card. After that, Kid retired from wrestling.
+Rafael Kid made his debut in [PpW Ewenement](@/o/ppw.md) at [PpW Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md), losing to his fellow ex-DFW and MZW collegue [Isnorr](@/w/isnorr.md). Kid was scheduled to face Aytaç Bahar, however he was unexpectedly pulled off from the card. After that, Kid retired from wrestling.
 
 ## International wrestling appearances
 

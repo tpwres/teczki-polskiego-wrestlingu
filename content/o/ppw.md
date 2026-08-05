@@ -112,7 +112,7 @@ On 14.12.2025 PpW announced a [show](@/a/ppw-hardcore-friday-the-13th-tokyo.md) 
 
 In their backyard era, PpW were always well connected with the other non-professional organizations, and appearing on each other's events. The best documented example on hand is [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md), which featured three PpW wrestlers.
 
-As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a new era of collaboration, in which PpW is the central hub, as the most active organization. 
+As of 2023, a [co-branded show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with MZW started a [new era of collaboration](@/a/polish-forbidden-door.md), in which PpW is the central hub, as the most active organization. 
 After the wave of [PTW Exits](@/a/ptw-exits.md), many wrestlers chose to join their ranks, while also appearing in other organizations. In 2024, then PpW Champion Gustav Gryffin defended his title also in MZW and [Legacy](@/o/low.md).
 
 According to [Jędruś Bułecka](@/w/jedrus-bulecka.md), multiple people from PpW and [DFW](@/o/dfw.md) trained with MZW. Under one condition: MZW insisted that wrestlers who wanted to work for them could not perform in backyards, but were not stopped from appearing in other pro federations. 
@@ -143,7 +143,7 @@ In 2026, PpW wrestlers Olgierd, Mister Z and Biesiad were featured in an episode
 - Referee: [Sędzia Seweryn](@/w/sedzia-seweryn.md)
 - Talent show judges: Agnieszka Chylińska, Marcin Prokop, Julia Wieniawa, Agustin Egurrola
 
-See link in the References section below for the video. Also present backstage were [Istotna Martynka](@/w/istotna-martynka.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
+See link in the References section below for the video. Also present backstage were [Istotna Martynka](@/w/gloria-g-szek.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
 
 ### Independent and other
 
@@ -153,20 +153,20 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
 
 {% championship() %}
 - - '[PpW Championship](@/c/ppw-championship.md)'
-  - '[Olgierd](@/w/olgierd.md)'
+  - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - >
-    Defeated [Goblin](@/w/goblin.md) in a Chain God Realm Match at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+    Defeated [Olgierd](@/w/olgierd.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) after cashing in a #1 Contender Opportunity won earlier the same night.
 - - '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
   - '[Abdullah Kobayashi](@/w/abdullah-kobayashi.md)'
   - >
     Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
-  - > 
-    Defeated [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)) and Bad Trip ([Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
+  - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) & [Isnorr](@/w/isnorr.md)'
+  - >
+    Defeated ['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), competing for vacated titles.
 {% end %}
 
-Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md).
+Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md). A number of these backyard belts were presented at [Udawana Wystawa](@/a/udawana-wystawa.md).
 
 ## Internet presence
 
@@ -176,6 +176,7 @@ Back in the backyard years PpW promoted a great number of championships, which w
 * Instagram: [ppw_global][ppw-globalnie] (international)
 * YouTube: [OficjalnePPW](https://www.youtube.com/@OficjalnePPW)
 * [Official VOD][ppw-vod]
+* [Old VOD](https://www.dailymotion.com/user/PpW_Ewenement_VOD)
 
 ## References
 

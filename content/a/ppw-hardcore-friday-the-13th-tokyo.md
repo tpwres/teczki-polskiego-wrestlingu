@@ -42,7 +42,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - 'リアル・ファッキング・ディール [Z-さん](@/w/mister-z.md) ("The Real Fucking Deal" Mister Z)'
   - s: シンガポール・ケーン・マッチ (Singapore Cane Match)
 - - 'Okami: 神谷英慶  (Hideyoshi Kamitani) & 橋本大地 (Daichi Hashimoto)'
-  - 'Bad Trip: [ゴブリン](@/w/goblin.md) (Goblin) & [グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
+  - '[バッド・トリップ](@/tt/bad-trip.md): [ゴブリン](@/w/goblin.md) (Goblin) & [グスタフ・グリフィン](@/w/gustav-gryffin.md) (Gustav Gryffin)'
   - s: タッグマッチ (Tag Team Match)
 - - '[オルギエルト](@/w/olgierd.md)(c) (Olgierd)'
   - 'デイル・パトリックス (Dale Patricks)'
@@ -53,7 +53,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - c: '[PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md)'
     s: 'デスマッチ：ポーランド vs 日本 (Deathmatch: Poland vs Japan)'
 - credits:
-    Referee: '？？？ (???), [審判 マルティナ](@/w/istotna-martynka.md) (Referee Martyna)'
+    Referee: '？？？ (???), [レフェリ・マルティナ](@/w/gloria-g-szek.md) (Referee Martyna)'
     Ring announcer: '？？？ (???)'
 {% end %}
 
@@ -61,7 +61,7 @@ Attendance: ca. 120
 
 ### Highlights
 
-* Unlike at the [previous show](@/a/ppw-polska-gurom.md), this time [Referee Martynka](@/w/istotna-martynka.md) counted pins in English.
+* Unlike at the [previous show](@/a/ppw-polska-gurom.md), this time [Referee Martynka](@/w/gloria-g-szek.md) counted pins in English.
 * Robert Star appeared to have sustained an injury early in his match after a dive outside the ring, as he was out of the action for the best part of the fight.
 * A failed spot from Olgierd vs Dale Patricks, in which a table doesn't break under Dale falling from the top turnbuckle, was featured in [Botchamania 529][botch-529], at 3:26 mark.
 

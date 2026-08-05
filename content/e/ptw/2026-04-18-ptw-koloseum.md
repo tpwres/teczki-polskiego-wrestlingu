@@ -42,7 +42,7 @@ has_video = true
   - n: 'Piotrek was a "random" fan from the audience.'
 - - '[Whiteblade](@/w/whiteblade.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
-- - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - 'Synowie Lasu: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & [Misiek](@/w/misiek.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: '#1 Contenders Tag Team Match'
@@ -54,7 +54,7 @@ has_video = true
   - s: Gauntlet Match
     r: Submission
 - - '[Daniel Razor](@/w/daniel-razor.md)'
-  - '[Alex Brave](@/w/alex-brave.md)'
+  - '["Showtime" Alex Brave](@/w/alex-brave.md)'
   - s: Gauntlet Match
     r: DQ
 - - '[Sawicki](@/w/sawicki.md)'

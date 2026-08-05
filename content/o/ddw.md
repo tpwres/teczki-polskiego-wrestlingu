@@ -27,7 +27,7 @@ DDW held a couple of shows cooperating with the Hungarian wrestling scene, most 
 
 ## Polish wrestling scene
 
-When Do Or Die Wrestling became the first professional wrestling promotion in Poland with its own school, it set some ground rules. Due to the fact that previously there were only backyard federations in the country, Don Roid adapted a very conservative regime for his workers, absolutely banning any type of wrestling involvement in Poland outside of DDW. Exclusivity clauses weren't lifted even after the creation of another professional federations, such as [Maniac Zone Wrestling](@/o/mzw.md). This set up a precedent at the Polish wrestling scene, which was followed by every professional promotion in Poland up until 2023, when [PpW](@/o/ppw.md) and MZW co-created their show [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
+When Do Or Die Wrestling became the first professional wrestling promotion in Poland with its own school, it set some ground rules. Due to the fact that previously there were only backyard federations in the country, Don Roid adapted a [very conservative regime](@/a/polish-forbidden-door.md) for his workers, absolutely banning any type of wrestling involvement in Poland outside of DDW. Exclusivity clauses weren't lifted even after the creation of another professional federations, such as [Maniac Zone Wrestling](@/o/mzw.md). This set up a precedent at the Polish wrestling scene, which was followed by every professional promotion in Poland up until 2023, when [PpW](@/o/ppw.md) and MZW co-created their show [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).
 
 ## Championships
 

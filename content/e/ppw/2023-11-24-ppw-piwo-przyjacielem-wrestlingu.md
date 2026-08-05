@@ -1,10 +1,12 @@
 +++
 title = "PpW Piwo Przyjacielem Wrestlingu"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi The Referee", "M3n747"]
 [taxonomies]
 chronology = ["ppw", "beer-expo", "poznan-fair"]
 venue = ["targi-poznan"]
 [extra]
+end_date = "2023-11-25"
 hide_results = true
 city = "Poznań"
 toclevel = 2

@@ -17,7 +17,7 @@ Biesiad Strong, also known under numerous aliases, is a Polish wrestler best kno
 
 * Years active: 2013-present
 * Gimmicks/nicknames:
-  - Biesiad Strong {{ org_badge(orgs=['ppw', 'mzw', 'low']) }}
+  - Biesiad Strong {{ org_badge(orgs=['ppw', 'mzw', 'low', 'frpw']) }}
   - Steven Strong {{ org_badge(orgs=['dfw', 'ppw']) }}
   - Red Floorfiller {{ org_badge(orgs=['ppw']) }} (backyard era; masked)
   - KAT {{ org_badge(orgs=['ppw']) }} (backyard era)
@@ -26,7 +26,7 @@ Biesiad Strong, also known under numerous aliases, is a Polish wrestler best kno
   - Esteban Lucha {{ org_badge(orgs=['ppw']) }} (non-canon shows; masked)
 * Trained by:
   - PpW Dojo (2019-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -138,7 +138,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 
 ## Championships and accomplishments
 
-* [PpW Ewenement](@/o/ppw.md):
+* [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (2 times)
   - Turniej TypeShit (2025)
 

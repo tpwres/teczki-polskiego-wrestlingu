@@ -1,6 +1,7 @@
 +++
 title = "MZW in Smolec"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["smolec"]

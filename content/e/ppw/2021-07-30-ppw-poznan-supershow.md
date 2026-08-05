@@ -1,10 +1,12 @@
 +++
 title = "PpW Poznań Supershow 2021"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw", "beer-expo", "poznan-fair"]
 venue = ["targi-poznan"]
 [extra]
+end_date = "2021-07-31"
 hide_results = true
 city = "Poznań"
 toclevel = 2

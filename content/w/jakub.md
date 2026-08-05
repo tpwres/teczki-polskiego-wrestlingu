@@ -7,10 +7,9 @@ aliases = ["/w/axel-fox"]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
-[extra.gallery.1]
-path = "fox-is-ewenement.webp"
-caption = "Facebook graphic confirming that Axel Fox has joined PpW"
-source = "Facebook @OficjalnePPW"
+[extra.gallery]
+1 = { path = "fox-is-ewenement.webp", caption = "Image confirming that Axel Fox has joined PpW.", source = "Official PpW Facebook" }
+2 = { path = "jakub-ze-zlotem-legacy.webp", caption = "Jakub with the [Legacy of Wrestling European Championship](@/c/low-european-championship.md).", source = "Jarosław Olesiński / Official Legacy Facebook" }
 +++
 
 Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md) and [Dream Factory Wrestling](@/o/dfw.md).
@@ -19,13 +18,13 @@ Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw
 
 * Years active: 2017-present
 * Nicknames:
-  - "Polski Lis" (_Polish Fox_) Axel Fox {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
   - Amisz (_Amish_) {{ org_badge(orgs=['dfw', 'mzw']) }}
-  - Jakub {{ org_badge(orgs=['ppw']) }}
+  - "Polski Lis" (_Polish Fox_) Axel Fox {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+  - Jakub {{ org_badge(orgs=['ppw', 'mzw', 'low', 'frpw']) }}
   * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -81,7 +80,7 @@ Axel quickly joined the "Zmowa Przeciwko Zmowie" faction led by [Biesiad](@/w/bi
 During this period, Axel developed a personal rivalry against Mister Z, who frequently avoided direct confrontation, and viciously attacked him with a kendo stick.
 At [Co za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) Zmowa was defeated in an Ustawka Match, but Axel continued his rivarly with PpW's producer.
 
-Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/ewenement-dojo.md), and that he's now a full-time member of their roster.
+Shortly after Ale Grzeje, PpW announced that Axel Fox would become a permanent coach in [Ewenement Dojo](@/o/dojo.md), and that he's now a full-time member of their roster.
 
 #### Feud with Mister Z
 
@@ -188,7 +187,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time, inaugural, current)
   - Road to the Title Tournament (2025)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural) - with [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)
   - PpW Tag Team Championship Tournament (2026)
 
 ## Internet presence

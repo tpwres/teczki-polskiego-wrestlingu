@@ -10,7 +10,7 @@
 0101 = { path = "kinga-otwiera-gale.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
 0102 = { path = "patrzcie-mam-papierek.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) with his championship contract.", source = "M3n747" }
 0103 = { path = "on-po-prostu-chcialby-pluszowego-leona.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) chokes [Leon Lato](@/w/leon-lato.md).", source = "M3n747" }
-0104 = { path = "anton-lavey-obserwuje-z-cienia.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) apologises to Sędzia Alan for allowing his emotions to get the better of him. [Olgierd](@/w/olgierd.md) can be seen in the bottom-left corner, above Leon Lato's left foot", source = "M3n747" }
+0104 = { path = "anton-lavey-obserwuje-z-cienia.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) apologises to [Sędzia Alan](@/w/sedzia-alan.md) for allowing his emotions to get the better of him. [Olgierd](@/w/olgierd.md) can be seen in the bottom-left corner, above Leon Lato's left foot", source = "M3n747" }
 0105 = { path = "uwaga-na-nisko-przelatujace-lesaki.webp", caption = "Eryk Lesak attacks [Leon Lato](@/w/leon-lato.md) from the middle rope.", source = "M3n747" }
 0106 = { path = "lesak-obudz-sie-przegrales.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) on the club floor, after being thrown out of the ring.", source = "M3n747" }
 0107 = { path = "dzien-dobry-zbieram-podpisy-pod-petycja.webp", caption = "[Leon Lato](@/w/leon-lato.md) poses for the audience with his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) and Eryk Lesak's championship contract.", source = "M3n747" }
@@ -26,7 +26,7 @@
 0302 = { path = "oskar-haller.webp", caption = "[Oskar Haller's](@/w/oskar-haller.md) entrance.", source = "M3n747" }
 0303 = { path = "stary-ale-ci-spod-pach-capi.webp", caption = "Oskar Haller escapes Tomczak's iron grip.", source = "M3n747" }
 0304 = { path = "tomczakoglowy.webp", caption = "Oskar Haller about to hit a Powerbomb on Tomczak.", source = "M3n747" }
-0305 = { path = "usmiechnij-sie-zaraz-wyleci-ptaszek.webp", caption = "Sędzia Alan declares [Tomczak](@/w/tomczak.md) the winner.", source = "M3n747" }
+0305 = { path = "usmiechnij-sie-zaraz-wyleci-ptaszek.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) declares [Tomczak](@/w/tomczak.md) the winner.", source = "M3n747" }
 
 0401 = { path = "wyprany-w-pollenie.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "M3n747" }
 0402 = { path = "pod-ring-raz.webp", caption = "Chemik dives under the ring…", source = "M3n747" }
@@ -45,7 +45,7 @@
 0604 = { path = "nawet-sobie-spokojnie-posiedziec-nie-mozna.webp", caption = "Markus Paskal thrown at the seats by Callum Beck.", source = "M3n747" }
 0605 = { path = "a-teraz-na-druga-nozke.webp", caption = "Markus Paskal holds [Callum Beck](@/w/callum-beck.md) in a leg lock.", source = "M3n747" }
 0606 = { path = "szczyt-amplitudy-skoku.webp", caption = "Callum Beck mid-Swanton Bomb, about to hit Markus Paskal. To the left stands Sędzia Alan.", source = "M3n747" }
-0607 = { path = "cztery-piwa-prosze.webp", caption = "Sędzia Alan raises [Callum Beck's](@/w/callum-beck.md) hand in victory.", source = "M3n747" }
+0607 = { path = "cztery-piwa-prosze.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) raises [Callum Beck's](@/w/callum-beck.md) hand in victory.", source = "M3n747" }
 0608 = { path = "spoko-nastepnym-razem-sie-uda.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) with Markus Paskal after the fight.", source = "M3n747" }
 
 0701 = { path = "koles-kogos-klepnie.webp", caption = "[Greg](@/w/greg.md).", source = "M3n747" }
@@ -59,12 +59,12 @@
 0803 = { path = "mama-nie-mowila-ze-to-nieuprzejmie-pokazywac-palcem.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) lies to Zefir's mask.", source = "M3n747" }
 
 0901 = { path = "to-iest-jestyn.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) and Zefir's leg.", source = "M3n747" }
-0902 = { path = "pas-pasiak-i-pasek-tylko-brakuje-paskala.webp", caption = "Sędzia Alan presents the [KPW Championship](@/c/kpw-championship.md). In the background Krystian Malinowski exchanges pleasantries with Iestyn Rees.", source = "M3n747" }
+0902 = { path = "pas-pasiak-i-pasek-tylko-brakuje-paskala.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) presents the [KPW Championship](@/c/kpw-championship.md). In the background Krystian Malinowski exchanges pleasantries with Iestyn Rees.", source = "M3n747" }
 0903 = { path = "ideal-siegnal-parkietu.webp", caption = "[Zefir](@/w/zefir.md) on the floor.", source = "M3n747" }
 0904 = { path = "na-misia.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) crushes Zefir in a Bear Hug.", source = "M3n747" }
 0905 = { path = "papier-vs-nozyczki.webp", caption = "Shock, disbelief and despair on [Zefir's](@/w/zefir.md) mask as Sędzia Alan confirms a two-count.", source = "M3n747" }
 0906 = { path = "ej-stary-ale-ci-puls-podskoczyl.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) wins the [KPW Championship](@/c/kpw-championship.md), much to [Krystian Malinowski's](@/w/krystian-malinowski.md) delight.", source = "M3n747" }
-0907 = { path = "broken-beat-and-scarred.webp", caption = "Sedzia Alan and the medical staff worker check on Zefir, as [Iestyn Rees](@/w/iestyn-rees.md) poses with the Championship.", source = "M3n747" }
+0907 = { path = "broken-beat-and-scarred.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) and the medical staff worker check on Zefir, as [Iestyn Rees](@/w/iestyn-rees.md) poses with the Championship.", source = "M3n747" }
 
 1001 = { path = "usmiechnieta-kinga.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) closes the show.", source = "M3n747" }
 1002 = { path = "mama-paskala-3-16.webp", caption = "_Paskal's Mum 3:16_ T-shirt at the merch stand.", source = "M3n747" }

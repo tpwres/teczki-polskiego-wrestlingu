@@ -28,6 +28,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Kurwy i śmiecie, z miasta nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
 * _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
   {% ipa(tts="Wypierdalaj") %}vˌɨpʲɛrdˈalaj{% end %} 🌶️🌶️
+* _Sześćdziesiona_ - roughly "the sixty"; a reference to article 60, section 3, of the Polish criminal code, which allows for a reduced sentence in exchange for information on other people involved in the crime (i.e. snitching). Originates in criminal slang. \
+  {% ipa(tts="Sześćdziesiona") %}ʃˌɛʑd͡ʑɛɕˈɔna{% end %}
 
 ## Praise
 
@@ -44,6 +46,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Chcemy krwi") %}xt͡sˈɛmɨ krfˈi{% end %}
 * _Jedziesz z tą kurwą, hej [wrestler], jedziesz z tą kurwą_ - "Fuck this bitch up, [wrestler]": encouraging offense and insulting the opponent at the same time. \
   {% ipa(tts="Jedziesz z tą kurwą, hej [wrestler] jedziesz z tą kurwą") %}jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃, xˈɛj &#91;vrˈɛstlɛr&#93;, jˈɛd͡ʑɛʃ zˈɨ tˈɔ̃ kˈurvɔ̃{% end %} 🌶️🌶️
+* _Męski seks_ - "Masculine sex": heard during matches between good-looking, well-built, half-naked men. \
+  {% ipa(tts="Męski seks") %}mˈɛ̃ski sˈɛks{% end %}
 * _Pokaż cycki_ - "Show your tits": a raunchy chant targeted at female performers (usually when the crowd gets noticeably intoxicated). \
   {% ipa(tts="Pokaż cycki") %}pˈɔkaʃ t͡sˈɨt͡ski{% end %} 
 * _Pokaż dupę_ - "Show your ass": when targeted at male performers it's rather a "What?!" chant signifying the persona is boring. Also something of a running joke targeted at [Adrian Zgórski](@/w/adrian-zgorski.md). \
@@ -58,16 +62,20 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Trzecia lina") %}tʃˈɛt͡ɕa lˈina{% end %}
 * _Urwij mu łeb_ - "Rip his head off": generally encouraging violence. \
   {% ipa(tts="Urwij mu łeb") %}ˈurvij mˈu wˈɛp{% end %}
+* _Więcej seksu_ - "More sex": same as "Męski seks". \
+  {% ipa(tts="Więcej seksu") %}vʲˈɛnt͡sɛj sˈɛksu{% end %}
 * _Zabij go_ - "Kill him": encouraging offense. \
   {% ipa(tts="Zabij go") %}zˈabʲij ɡˈɔ{% end %}
 * _Zajeb go_ - "Fuck him up": also encouraging offensive action. \
   {% ipa(tts="Zajeb go") %}zˈajɛp ɡˈɔ{% end %} 🌶️ \
-  The local crowd at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md) also used their own regional version: "Ciulaj go".
+  The local crowd at [Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md) also used their own regional version: "Ciulaj go".
 * _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop (and later picked up by some other wrestlers as well). Most popular in Wrocław. In 2025, MZW [named a show](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) after this chant. \
   {% ipa(tts="Zjedz mu łeb") %}zjˈɛt͡s mˈu wˈɛp{% end %}
 * _Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]_ - "Leave [wrestler] alone, you bitch": when a babyface receives too much punishment. \
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek". \
   {% ipa(tts="Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]") %}zˈɔstaf &#91;vrɛstlˈɛra&#93;, tˈɨ kˈurvɔ, zˈɔstaf &#91;vrɛstlˈɛra&#93;{% end %} 🌶️🌶️
+* _Zrób mu z dupy buzię_ - "Make his ass into a face": a general, is somewhat nonsensical, encouragement of violent action. Note, that the word "buzia" is a rather childish term for a face, not typically expected in a context like this. \
+  {% ipa(tts="Zrób mu z dupy buzię") %}zrˈup mu z dˈupɨ bˈuʑɛ{% end %} 🌶️
 
 ## Referee
 
@@ -99,7 +107,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 ## Songs
 
-* _Mam tak samo jak ty_: [Sen o Warszawie][warszawa] by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin. Also a hymn of Legia Warszawa, so used by extension for babyface reception of [Legia Łysych](@/tt/legia-lysych.md).
+* _Mam tak samo jak ty_: [Sen o Warszawie][warszawa] by Czesław Niemen, sometimes sang before [PpW](@/o/ppw.md) shows begin. Also a hymn of Legia Warszawa, so used by association for reception of [Legia Łysych](@/tt/legia-lysych.md). [Olgierd](@/w/olgierd.md) also used it for an extended entrance in [Poznań](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md).
 * _Nie rzucim ziemi skąd nasz ród_: [Rota][rota], a 1908 patriotic poem by Maria Konopnicka. Sometimes heard in matches involving German heels.
 * _Pan kiedyś stanął nad brzegiem_: this is [Barka](https://en.wikipedia.org/wiki/Lord,_You_Have_Come_to_the_Lakeshore), a religious song that was especially liked by the Polish Pope John Paul&nbsp;II. Fans may start to randomly sing it at 21:37 (9:37&nbsp;PM), the exact hour of his death. It is not in the Pope's memory, however, but rather the opposite - mocking his cult deeply enshrined in Polish Catholicism.
   Also often sang for [Greg](@/w/greg.md) from [Kombat Pro Wrestling](@/o/kpw.md) in his Pope of Polish Wrestling gimmick, which he seems to enjoy.
@@ -119,23 +127,23 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Bartoszyce, a gdzie to kurwa jest") %}bˌartɔʃˈɨt͡sɛ, ˈa ɡd͡ʑˈɛ tˈɔ kˈurva jˈɛst?{% end %} 🌶️🌶️
 * _Bartoszyce, my wiemy gdzie to jest_ - "{% map_pin(v="Bartoszyce") %}Bartoszyce{% end %}, we know where it is": used after Gustav's face-turn. \
   {% ipa(tts="Bartoszyce, my wiemy gdzie to jest") %}bˌartɔʃˈɨt͡sɛ, mɨ vʲˈɛmɨ ɡd͡ʑˈɛ tɔ jˈɛst.{% end %}
-* _Bóg jest łysy_ - "God is bald": [Ricardo Diesel](@/w/ricardo-diesel.md)'s signature bald head. \
+* _Bóg jest łysy_ - "God is bald": [Ricardo Diesel's](@/w/ricardo-diesel.md) signature bald head. \
   {% ipa(tts="Bóg jest łysy") %}bˈuk jˈɛst wˈɨsɨ{% end %} \
   Also _Bóg ma wąsa_ - "God has a moustache", when he grew one. \
   {% ipa(tts="Bóg ma wąsa") %}bˈuk mˈa vˈɔ̃sa{% end %}
-* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland, from which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) was sometimes billed. A stadium chant against their football clubs. \
+* _Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi_ - "Up the arse of Łódź, the bitch ain't gonna mind": insulting Łódź, a city in central Poland, from which [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) was sometimes billed. A stadium chant against their football clubs. The melody, like many stadium chants, is similar to [Guantanamera][guantanamera]. \
   {% ipa(tts="Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi") %}xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi{% end %} 🌶️🌶️🌶️
 * _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire. \
   {% ipa(tts="Facet w gaciach") %}fˈat͡sɛt vˈɨ ɡˈat͡ɕax{% end %}
 * _Golden to pała, wygląda mi na pedała_ - "Golden's a jackass, looks to me like a faggot": used against [Vic Golden](@/w/vic-golden.md). \
   {% ipa(tts="Golden to pała, wygląda mi na pedała") %}ɡˈɔldɛn tɔ pˈawa, vɨɡlˈɔnda mi na pɛdˈawa{% end %}
-* _Goldenowi liże jaja, Oskar to faja_ - "He licks Golden's balls, Oskar's a prick": used against [Oskar Alexander](@/w/oskar-alexander.md), in tag team with [Vic Golden](@/w/vic-golden.md). \
+* _Goldenowi liże jaja, Oskar to faja_ - "He licks Golden's balls, Oskar's a prick": used against [Oskar Alexander](@/w/oskar-alexander.md), in tag team with [Vic Golden](@/w/vic-golden.md). To the tune of [Freed From Desire][ffd]. \
   {% ipa(tts="Goldenowi liże jaja, Oskar to faja") %}ɡˌɔldɛnˈɔvi lˈiʒɛ jˈaja, ˈɔskar tɔ fˈaja{% end %}
 * _Karasie jedzą gówno_ - "[Crucian carps][carassius-carassius] eat shit": used against ["The Riverman" Tony Sheen](@/w/riverman.md), matching his fisherman gimmick. The chant comes from a Polish copypasta. \
   {% ipa(tts="Karasie jedzą gówno") %}karˈaɕɛ jˈɛd͡ʑɔ̃ ɡˈuvnɔ{% end %} 🌶️
-* _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md). \
+* _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the hooligan [Olgierd](@/w/olgierd.md), or the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and Olgierd. \
   {% ipa(tts="Legia to stara kurwa") %}lˈɛɡja tˈɔ stˈara kˈurva{% end %} 🌶️🌶️🌶️
-* _Lis jest pod ochroną_ - "Fox is protected": when Axel Fox is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
+* _Lis jest pod ochroną_ - "Fox is protected": when [Axel Fox](@/w/jakub.md) is being attacked by an opponent. This chants suggests that the fox is a protected species, whereas in fact the red fox (_Vulpes vulpes_) is listed as "Least Concern" on the [IUCN Red List][zagrozone-gatunki]. \
   {% ipa(tts="Lis jest pod ochroną") %}lˈis jɛst pɔt ɔxrˈɔnɔ̃{% end %}
 * _Mister Zjeb_ - [Mister Z](@/w/mister-z.md): _zjeb_ roughly means "fucktard" or "loser". \
   {% ipa(tts="Mister Zjeb") %}mˈistɛr zjˈɛp{% end %} 🌶️
@@ -147,7 +155,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
 * _Siła przyjaźni_ - "Power of friendship": originally [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). Later used more widely, to cheer on any displays of friendship in the ring. \
   {% ipa(tts="Siła przyjaźni") %}ɕˈiwa pʃɨjˈaʑɲi{% end %}
-* _Tony Sk1n, chuj ci w ryj_ roughly: "Tony Sk1n, suck a dick". Used against [Tony Sk1n](@/w/tony-sk1n.md), as a mega heel in PpW. \
+* _Tony Sk1n, chuj ci w ryj_ - roughly: "Tony Sk1n, suck a dick". Used against [Tony Sk1n](@/w/tony-sk1n.md), as a mega heel in PpW. \
   {% ipa(tts="Tony Skin, chuj ci w ryj") %}tˈɔnɨ skˈin, xˈuj t͡ɕi w rˈɨj{% end %} 🌶️🌶️🌶️
 * _Wiedźmin 4_ - "Witcher 4": [Sambor](@/w/sambor.md), referring to his attire and gimmick of a Slavic warrior. \
   {% ipa(tts="Wiedźmin cztery") %}vʲˈɛd͡ʑmin t͡ʃtˈɛrɨ{% end %}
@@ -169,3 +177,5 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 [warszawa]: https://www.youtube.com/watch?v=ePNUSmH3dMI
 [sto-lat]: https://en.wikipedia.org/wiki/Sto_lat
 [carassius-carassius]: https://en.wikipedia.org/wiki/Crucian_carp
+[ffd]: https://youtu.be/p3l7fgvrEKM
+[guantanamera]: https://youtu.be/w3W63ReQ87M

@@ -1,0 +1,15 @@
+01 = { path = "ptw-dziedzictwo-plakat.webp", caption = "Official poster featuring, top: [Nano Lopez](@/w/nano-lopez.md), [Krampus](@/w/krampus.md), [Spartan](@/w/spartan.md); bottom: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Daniel Razor](@/w/daniel-razor.md), [Miyagi Shida](@/w/miyagi-shida.md), [Sigma Boy xD](@/w/sigma-boy.md).", source = "Official PTW Facebook" }
+02 = { path = "bogus-vs-razor.webp", caption = "Image announcing [Boguś](@/w/bogus.md) vs [Daniel Razor](@/w/daniel-razor.md).", source = "Official PTW Facebook" }
+03 = { path = "fabeaux.webp", caption = "Image announcing [Fabian](@/w/fabian.md).", source = "Official PTW Facebook" }
+04 = { path = "krampus.webp", caption = "Image announcing [Krampus](@/w/krampus.md).", source = "Official PTW Facebook" }
+05 = { path = "flex-skywalker-vs-vincent-caravaggio.webp", caption = "Image announcing [Flex Skywalker](@/w/flex-skywalker.md) vs [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook" }
+06 = { path = "okonski.webp", caption = "Image announcing [Łukasz Okoński](@/w/lukasz-okonski.md).", source = "Official PTW Facebook" }
+07 = { path = "white-misiek-jak-w-zakopanem.webp", caption = "Image announcing [Whiteblade](@/w/whiteblade.md) vs [Misiek](@/w/misiek.md).", source = "Official PTW Facebook" }
+08 = { path = "brave-vs-klakson.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md) vs [CJ Klakson](@/w/cj-klakson.md).", source = "Official PTW Facebook" }
+09 = { path = "diana-strong-vs-emily-locke.webp", caption = "Image announcing [Diana Strong](@/w/diana-strong.md) vs Emily Locke.", source = "Official PTW Facebook" }
+10 = { path = "ekipa.webp", caption = "Image announcing the crew, top: [Krystian Smoleń](@/w/resivny.md), [Adam Goldschmidt](@/w/adam-goldschmidt.md); bottom: [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md), [Sędzia Herno](@/w/sedzia-herno.md).", source = "Official PTW Facebook" }
+11 = { path = "miyagi-sigma-vs-exodus.webp", caption = "Image announcing [Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md) vs Jacked Josh & Body Bundy.", source = "Official PTW Facebook" }
+12 = { path = "nic-wesker-vs-conte.webp", caption = "Image announcing [Nic Wesker](@/w/nic-wesker.md) vs Conte.", source = "Official PTW Facebook" }
+13 = { path = "nano-lopez.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md).", source = "Official PTW Facebook" }
+14 = { path = "adler-unknown-vs-el-clavo-unknown.webp", caption = "Image announcing [Damian Adler](@/w/damian-adler.md) & ??? vs El Clavo & ???.", source = "Official PTW Facebook" }
+15 = { path = "misioctwo.webp", caption = "The poorly edited poster, with [Misiek](@/w/misiek.md) replacing Krampus.", source = "Official PTW YouTube" }

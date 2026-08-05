@@ -26,9 +26,9 @@
 2005 = { path = "wyszechrady-wygraly.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md) celebrate their victory. In the background, referee [Krystian Czekaj](@/w/krystian-czekaj.md) appears to be contemplating his life choices.", source = "M3n747" }
 
 3001 = { path = "sedzia-w-cieniu-lesaka.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
-3002 = { path = "alan-ale-nie-delon.webp", caption = "Sędzia Alan.", source = "M3n747" }
+3002 = { path = "alan-ale-nie-delon.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md).", source = "M3n747" }
 3003 = { path = "markus-paskal.webp", caption = "[Markus Paskal's](@/w/markus-paskal.md) entrance.", source = "M3n747" }
-3004 = { path = "lesak-po-weekendowym-kursie-chiropraktyki.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) holds [Markus Paskal's](@/w/markus-paskal.md) head in an iron grip, as Sędzia Alan oversees the action.", source = "M3n747" }
+3004 = { path = "lesak-po-weekendowym-kursie-chiropraktyki.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) holds [Markus Paskal's](@/w/markus-paskal.md) head in an iron grip, as [Sędzia Alan](@/w/sedzia-alan.md) oversees the action.", source = "M3n747" }
 3005 = { path = "bardzo-duzo-niutonow-na-metr-kwadratowy.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) torments [Markus Paskal](@/w/markus-paskal.md), while [Chemik](@/w/chemik.md) delivers a promo. In front of the ring stands Paskal's mother.", source = "M3n747" }
 3006 = { path = "z-ta-pania-lepiej-nie-zadzierac.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) and [Chemik](@/w/chemik.md) attempt to intimidate Paskal's mother, without much success.", source = "M3n747" }
 
@@ -45,10 +45,10 @@
 6001 = { path = "chemik-bardzo-chcial.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "M3n747" }
 6002 = { path = "ale-to-gregowi-wyszlo.webp", caption = "[Greg's](@/w/greg.md) victory.", source = "M3n747" }
 
-7001 = { path = "prezes-pewnie-ma-sedziego-w-kieszeni.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) cuts a promo. To the left stands Sędzia Alan.", source = "M3n747" }
+7001 = { path = "prezes-pewnie-ma-sedziego-w-kieszeni.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) cuts a promo. To the left stands [Sędzia Alan](@/w/sedzia-alan.md).", source = "M3n747" }
 
 8001 = { path = "zarzad-cznia-epistolografie.webp", caption = "[Michał Fux](@/w/michal-fux.md) enters carrying a guitar. In the foreground lies a letter torn by Krystian Malinowski, purportedly written to him by Zefir.", source = "M3n747" }
-8002 = { path = "mi-chal-i-jemu-tez-chal.webp", caption = "[Michał Fux](@/w/michal-fux.md) with a wink and a smile, and new ring gear. In the back stands Sędzia Alan.", source = "M3n747" }
+8002 = { path = "mi-chal-i-jemu-tez-chal.webp", caption = "[Michał Fux](@/w/michal-fux.md) with a wink and a smile, and new ring gear. In the back stands [Sędzia Alan](@/w/sedzia-alan.md).", source = "M3n747" }
 8003 = { path = "nie-mam-zielonego-pojecia-kto-to-moze-byc.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) makes his entrance.", source = "M3n747" }
 8004 = { path = "drabiny-rzucili.webp", caption = "Ron Corvus looks for a weapon under the ring.", source = "Tomek O." }
 8005 = { path = "magyar-boleny.webp", caption = "[Ron Corvus](@/w/ron-corvus.md) cracks open a can of Polish beer.", source = "M3n747" }

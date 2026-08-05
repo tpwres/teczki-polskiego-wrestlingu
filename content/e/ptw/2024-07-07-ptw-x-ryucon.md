@@ -50,7 +50,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 * While Nano was still on the stage, out came Erik Ŝlotir. In his promo, he prompted Nano to get physical, but Pawłowski separated them. Both sign their contracts and the match is on.
 * Spartan was the only one present to sign for his match. He mentions that there were [300 Spartans at Thermopylae][wiki-thermopylae], but there's only one of him… so he needs fans to be his army. He got the fans to pop and bark for him.
 * Next was Caravaggio, again as the only competitor for his match. In his rambling promo, he focused on insulting the fans.
-* The Fatal Four Way for PTW Contract match competitors entered. Blaze, [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md) were present, but it was confirmed that Maverick will also compete.
+* The Fatal Four Way for PTW Contract match competitors entered. Blaze, [Luca Bjorn](@/w/luca-bjorn.md) and [Rust](@/w/rust.md) were present, but it was confirmed that [Maverick](@/w/maverick.md) will also compete.
   Bjorn and Rust are a heel tag team, and they put down Blaze on the mic, but also confirmed that it's every man for himself.
   Blaze cut a babyface promo, declaring he's made a lot of progress since losing a Contract Battle Royal (at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md)), and that now he's going to finally earn his contract.
 * Diana Strong turned up next. Immediately signed the contract, and cut a babyface promo. She hypes the importance of her match, trash-talks Iva and gave an inspiring message to her fans: "you can climb every mountain with enough effort".
@@ -71,7 +71,7 @@ In a typical fashion for these ceremonies, wrestlers came out to random songs, n
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
   - s: Tables Match
-- - 'Maverick'
+- - '[Maverick](@/w/maverick.md)'
   - '[Luca Bjorn](@/w/luca-bjorn.md)'
   - '[Rust](@/w/rust.md)'
   - '[Blaze](@/w/blaze.md)'

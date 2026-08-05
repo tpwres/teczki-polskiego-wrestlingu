@@ -8,7 +8,7 @@ venue = ["dworek-kozlow"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -24,7 +24,7 @@ Other foreign guests were already seen on Ryucon previously: Hungarian wrestlers
 ## Build-up
 
 * On July 19 2024, PTW updated their Facebook cover photo, confirming dates for both the camp and the show. The training camp will start on Sunday August 18, and the show is to be held on the next Sunday, August 25.
-* On August 8th, the official poster was revealed, prominently featuring Maverick and [Puncher](@/w/puncher.md) suggesting a main event between the two. A couple of days later, on August 13, this was announced as a title match for the WWA Championship.
+* On August 8th, the official poster was revealed, prominently featuring [Maverick](@/w/maverick.md) and [Puncher](@/w/puncher.md) suggesting a main event between the two. A couple of days later, on August 13, this was announced as a title match for the WWA Championship.
 * PTW officially confirmed the show would not be aired live, but taped to be later aired on Fite/Triller, YouTube and an undisclosed TV station. This marks PTW's TV debut as well as the first time they tape a show - all prior shows were either live, or not broadcast at all.
 * PTW also announced a dance performance, by a hitherto unknown dance group. The group was billed as "Las Atomicas", a direct reference to the Powerpuff Girls, which was a nickname previously reserved for PAKA. An Instagram account for this group was created shortly before the show, and had a single picture of three girls in rather revealing clothing.
 
@@ -54,7 +54,7 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
 - - '[Spartan](@/w/spartan.md)'
   - 'Svedberg'
 - - '[Puncher](@/w/puncher.md)'
-  - 'Maverick'
+  - '[Maverick](@/w/maverick.md)'
   - c: 'WWA Championship'
 - credits:
     Host, Ring Announcer, General Manager: '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
@@ -66,8 +66,8 @@ The announced dance performance was met with slight backlash from the fans onlin
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=402625)
+* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=hAi2TGulats)
 * [Facebook post with the cover image](https://www.facebook.com/photo/?fbid=528941409458506&set=a.136592405360077), confirming dates and listing sponsors.
 * [Facebook post revealing the poster](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0KpJesZ3E1Jb3jpySUa71thS6qW4sGweLhzG9hWw1WivtihsxBWMAdLHnnYxnsM6cl)
 * [Facebook post announcing the ticket platform change](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0tdHu7WaJXLfDZi8dX57NLMjaP6keLDCBoj77mkr5FiSyrr9NwpVK84ESBsQ58vHil)
 * [Facebook post announcing a title match](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0KPxKzErHhSzLak5t3ciBXRPFRj2rMKgPMEMGGeJANJG4xZyzN8pFB55A2STS4N6il) between Maverick and Puncher
-* [Fancam by Istota Wrestlingu](https://www.youtube.com/watch?v=hAi2TGulats)

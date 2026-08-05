@@ -42,7 +42,7 @@ Besides the PTW Tag Team Championship won by Boro - who never defended it in a m
 
 #### Zieloni after Prime Time Wrestling
 
-After the departure of Zieloni from PTW, sooner or later all of in-ring active members of the faction joined [PpW Ewenement](@/o/ppw.md) - with Sewi The Ref, Axel Fox and [Aron Wake](@/w/aron-wake.md) being the latest additions, making their official debut at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). Both Crane and Fox became coaches of PpW's [Ewenement Dojo](@/o/ewenement-dojo.md), and the Greens apparently became well-integrated with the OG PpW workers. 
+After the departure of Zieloni from PTW, sooner or later all of in-ring active members of the faction joined [PpW Ewenement](@/o/ppw.md) - with Sewi The Ref, Axel Fox and [Aron Wake](@/w/aron-wake.md) being the latest additions, making their official debut at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). Both Crane and Fox became coaches of PpW's [Ewenement Dojo](@/o/dojo.md), and the Greens apparently became well-integrated with the OG PpW workers. 
 
 Some of the Greens even made amends with the MZW owner, Shadow. This allowed workers such as Aron Wake, Olgierd and Sewi to return to Maniac Zone Wrestling in October 2024, almost exacly three years after the Green Revolution. Multiple Greens also joined [Legacy of Wrestling](@/o/low.md), reuniting with many ex-PTW originals who also left Pawłowski's federation.
 
@@ -55,7 +55,7 @@ One of the few moments when Zieloni received a shout-out in an in-ring segment w
 ## Members
 
 * [Aron Wake](@/w/aron-wake.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-* [Axel Fox](@/w/jakub.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+* [Jakub](@/w/jakub.md) {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
 * [Boro](@/w/boro.md) {{ org_badge(orgs=['mzw', 'ptw', 'low', 'ppw']) }}
 * [Gabriel Queen](@/w/gabriel-queen.md) {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }}
 * [Isnorr](@/w/isnorr.md) {{ org_badge(orgs=['mzw', 'ppw']) }}
@@ -75,7 +75,8 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-  - [PpW Championship](@/c/ppw-championship.md) (1 time; current) - Olgierd
+  - [PpW Championship](@/c/ppw-championship.md) (2 times; current) - Olgierd (1), Gabriel Queen (1; current)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - Jakub (1), Vic Golden (1; current)
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time) - Isnorr
   - Golden Goat Trophy (2023) - Gabriel Queen (as Bonus CBD)
 * [Prime Time Wrestling](@/o/ptw.md):
@@ -94,8 +95,8 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
   - Rookie's Battle Royal (2019) - Aron Wake
   - Project Basement Trophy (2021) - Aron Wake
 * [Legacy of Wrestling](@/o/low.md):
-  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - Axel Fox
-  - Road to the Title Tournament (2025) - Axel Fox
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - Jakub
+  - Road to the Title Tournament (2025) - Jakub
 
 ## Trivia
 

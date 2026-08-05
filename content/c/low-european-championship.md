@@ -103,13 +103,29 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
 - - 'Jakub(c)'
   - 'Max Speed'
   - s: Singles Match
-    en: '[No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
+    en: '[MZW No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md)'
     ed: 2026-03-28
 - - 'Jakub(c)'
   - '[Filip Fux](@/w/filip-fux.md)'
-  - c: Singles Match
+  - s: Singles Match
     en: '[Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md)'
     ed: 2026-05-24
+- - 'Jakub(c)'
+  - '[Boro](@/w/boro.md)'
+  - '[Sambor](@/w/sambor.md)'
+  - s: Three-Way Match
+    en: '[MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md)'
+    ed: 2026-06-20
+- - 'Jakub(c)'
+  - 'Trent Seven'
+  - s: Singles Match
+    en: '[Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md)'
+    ed: 2026-07-10
+- - 'Jakub(c)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - s: Singles Match
+    en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
+    ed: 2026-07-24
     nc: upcoming
 {% end %}
 

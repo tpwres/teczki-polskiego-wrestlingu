@@ -21,7 +21,7 @@ Sędzia Seweryn (known as Sewi The Referee) is a Polish wrestling referee active
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) 2018-2021
   - [PTW Academy](@/o/ptw-academy.md) 2021-2024
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) 2024-present
+  - [Ewenement Dojo](@/o/dojo.md) 2024-present
 
 ## Professional wrestling career
 

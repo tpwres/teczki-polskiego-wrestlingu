@@ -21,7 +21,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
 ## Build-up
 
 * PpW announced a collaboration event for the show. Before and during the event, there will be an opportunity to get a tattoo, courtesy of tattoo parlour Syrena (_Siren_).
-* To further bolster ticket sales, PpW introduced a student discount as well are "buy 5, get 1 free" discount.
+* To further bolster ticket sales, PpW introduced a student discount as well as "buy 5, get 1 free" discount.
 * Many PpW personalities announced new merchandise items to be available at the show.
 
 ### Storylines overview
@@ -157,7 +157,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * [Gustav Gryffin](@/w/gustav-gryffin.md) admits that Samson is one of the toughest opponents in his career, but he was confident that he would defeat the Beast of Będzin. Gustav invites Samson to join ["Zmowa"](@/tt/zmowa.md). He also issues an open challenge to anyone, be it at [PpW](@/o/ppw.md), [MZW](@/o/mzw.md) or [Legacy](@/o/low.md).
 * [Samson](@/w/samson.md) admits that Gutsav indeed "whooped his ass" without any shenanigans, so he feels lost and is unsure about his future in the ring, as "aapart of him died in the ring tonight". He apologies to all of his fans for failing in tonight's bout, and can't promise that he will be on the next show.
 * [Marcelito](@/w/marcelito.md) admits that Oskar Alexander did a good job, but due to the fact that he wasn't pinned he would like a singles match against him in the future.
-* [Aron Wake](@/w/aron-wake.md) says that [Ewenement Dojo](@/o/ewenement-dojo.md) is currently the best pro wrestling school in Poland, and Oskar Alexander is a good example of that. Despite his loss in the match, Aron says that he's still got it, and wants to prove more in the future.
+* [Aron Wake](@/w/aron-wake.md) says that [Ewenement Dojo](@/o/dojo.md) is currently the best pro wrestling school in Poland, and Oskar Alexander is a good example of that. Despite his loss in the match, Aron says that he's still got it, and wants to prove more in the future.
 * [Sambor](@/w/sambor.md) simply states that he is here to stay despite losing in his PpW debut. He congratulates Oskar on his win, but claims that he would win if it weren't for Aron Wake, who became his target after that Four-Way Match.
 * [Oskar Alexander](@/w/oskar-alexander.md) arrives with his "Talent Agent", but her name was not stated. He disses the PpW Fanatics for not cheering during the maiden vicory of career. His agent states that Oskar has bright future before him, and she is in talks with [PpW's promotor](@/w/mister-z.md) to provide the best offers for her client.
 * Beer-drinking [Bill Feager](@/w/feager.md) denies that the fight with Alex was a "long awaited challenge". Then he shoots on "Mister Zjeb" and his booking decisions, as well as on Alex Arthur who "bolted out from his fight" at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md). He also shoots on his critiques who say that he can't wrestle, as he claims that their opinion does not matter since he was a PpW Champion for over 130 days.

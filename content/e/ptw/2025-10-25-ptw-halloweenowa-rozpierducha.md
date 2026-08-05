@@ -21,7 +21,7 @@ has_video = true
 * On 14.10.2025, Pawłowski [confirmed][konfirmacja] the stakes for the 4 on 4 match. If Team Okoński wins, all the members earn title shots. If they lose, however, they will be forever banned from competing for gold. It is unclear whether the stakes extend to all PTW titles, or only the ones that each of Team Okoński's members is recently going after.
 * On 15.10.2025 PTW announced [Miyagi Shida](@/w/miyagi-shida.md) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 * On 16.10.2025 PTW announced [CJ Klakson](@/w/cj-klakson.md) is going to host an open challenge, where he's going to deliver his signature _manto_ (roughly "beatdown").
-* On 19.10.2025 PTW announced Andi ZickZack vs Nic Wesker in a Halloween Hardcore Match.
+* On 19.10.2025 PTW announced Andi ZickZack vs [Nic Wesker](@/w/nic-wesker.md) in a Halloween Hardcore Match.
 * On 20.10.2025 PTW announced the return of [Sawicki](@/w/sawicki.md), who made his PTW debut at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md).
 * On 21.10.2025 PTW announced an International Showcase Tag Team Match between the British team The Lancadores (Kenny B. & M.R.D.) vs Italians Ivan Sanzio & Davide Adami of Street Creed.
 * On 23.10.2025 PTW officially confirmed the main event: Team Okoński ([Łukasz Okoński](@/w/lukasz-okonski.md), [Nano Lopez](@/w/nano-lopez.md), [Spartan](@/w/spartan.md) & [Sigma Boy xD](@/w/sigma-boy.md)) vs [Nietykalni](@/tt/nietykalni.md) ([Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Puncher](@/w/puncher.md) & [Alex Brave](@/w/alex-brave.md)) in a 4 vs 4 Elimination Match.
@@ -39,7 +39,7 @@ has_video = true
 - - '[Sawicki](@/w/sawicki.md)'
   - '[Bumper](@/w/fabian.md)'
 - - 'Andi ZickZack'
-  - 'Nic Wesker'
+  - '[Nic Wesker](@/w/nic-wesker.md)'
   - s: Halloween Hardcore Match
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'

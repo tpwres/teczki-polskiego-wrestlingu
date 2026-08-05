@@ -30,7 +30,7 @@ has_video = true
 * The poster for the show included [Diana Strong](@/w/diana-strong.md) and Moné side by side, suggesting their match might be for the GLAM! Championship, currently held by Diana.
 * On 23.07.2025 PTW [announced][wiela-pasow-bydzie] that the stakes of Diana vs Mercedes will be "more than one championship belt", although no further details were given.
 * On 24.07.2025, Italian partner federation BestYa Slam [confirmed][pas-wloski] that their new Women's Championship will be on the line.
-* On 25.07.2025 PTW announced a new tag team to compete for the [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md): Miyagi Sigma, consisting of [Miyagi Shida](@/w/miyagi-shida.md) and [Sigma Boy xD](@/w/sigma-boy.md), taking on the current champions, [Royal Rebels](@/tt/royal-rebels.md).
+* On 25.07.2025 PTW announced a new tag team to compete for the [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md): [Miyagi Sigma](@/tt/miyagi-sigma.md), consisting of [Miyagi Shida](@/w/miyagi-shida.md) and [Sigma Boy xD](@/w/sigma-boy.md), taking on the current champions, [Royal Rebels](@/tt/royal-rebels.md).
 * On 26.07.2025 PTW [confirmed the prices][meet-n-greet] for the meet'n'greet with Mercedes Moné: $50 or 180&nbsp;PLN, paid on entry.
 * Right before the show, BestYa Slam posted an [interview][pasy-ziemi-wloskiej-i-wolski] with Diana Strong on their social media, where she talked about the match with Moné.
   They mentioned the championships that are going to be contested, which are shown hanging on the ring ropes in the background: BestYa Women's Championship and [PTW Women's Championship](@/c/ptw-womens-championship.md).
@@ -44,7 +44,7 @@ has_video = true
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: "Okoński and Pawłowski bicker about which Chairman should open the show. Pawłowski confirms that the Women's Championship Tournament is no more."
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)(c)'
-  - 'Miyagi Sigma: [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: 'Tag Team Match'
     c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)(c)'

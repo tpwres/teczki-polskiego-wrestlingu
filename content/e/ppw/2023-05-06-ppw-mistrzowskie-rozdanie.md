@@ -1,6 +1,7 @@
 +++
 title = "PpW Mistrzowskie Rozdanie"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["waldorffa25"]
@@ -21,7 +22,7 @@ Mistrzowskie Rozdanie (roughly _A Champion's Hand_, as in a hand of cards) was a
   - r: 'DQ'
     n: "The match was initially restarted after Osamu's botched interference. Later, Gryffin ignored a rope break during submission, leading to a DQ."
 - - '[Isnorr](@/w/isnorr.md)'
-  - 'Joshua Amaru'
+  - '[Joshua Amaru](@/w/joshua-amaru.md)'
 - - 'Feyyaz Aguila'
   - 'Dominik Fischer'
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -32,7 +33,7 @@ Mistrzowskie Rozdanie (roughly _A Champion's Hand_, as in a hand of cards) was a
   - r: 'KO'
     c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Steve Kuningas](@/w/steve-kuningas.md)'
-  - 'Aytac Bahar'
+  - '[Aytaç Bahar](@/w/aytac-bahar.md)'
   - '[Bill Feager](@/w/feager.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: "[PpW Championship](@/c/ppw-championship.md) #1 Contender's Fatal Four Way Match"

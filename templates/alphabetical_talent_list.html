@@ -29,7 +29,7 @@
   {% set al = alpha_variants|get(key=letter, default=[letter]) %}
   {% for av in al %}
     {% for name_pair in head_names %}
-      {% set talent_name = name_pair[1]|replace(from='"', to='')|trim_start_matches(pat='The ') %}
+      {% set talent_name = name_pair[1]|replace(from='"', to='')|trim_start_matches(pat='The ') |upper %}
       {% if talent_name is starting_with(av) %}
         {% set_global talents = talents|concat(with=[name_pair]) %}
       {% endif %}

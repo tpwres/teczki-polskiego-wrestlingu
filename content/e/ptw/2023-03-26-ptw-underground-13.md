@@ -1,6 +1,7 @@
 +++
 title = "PTW Underground 13"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 chronology = ["ptw", "underground"]
 venue = ["ptw-targowa"]

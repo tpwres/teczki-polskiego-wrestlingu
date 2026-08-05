@@ -8,10 +8,7 @@ chronology = ["dfw"]
 city = "Toruń"
 toclevel = 2
 has_video = true
-[extra.gallery.poster]
-path = "dfw-anniversary-poster.webp"
-caption = "Official poster, featuring [Charlie](@/w/sedzia-karol-gorski.md), [Revage](@/w/rafael-kid.md), [Chris Hunter](@/w/chris-hunter.md), [Norris](@/w/isnorr.md), [Direk](@/w/direk.md), Faust XIII, [Prince Victor](@/w/vic-golden.md), [Rob Scaffold](@/w/rob-scaffold.md)."
-source = "Facebook @DreamFactoryWrestling"
+[extra.gallery]
 +++
 
 Anniversary was an event that celebrated DFW's second anniversary, held on Saturday, September 30, 2017. The name was a bit of a stretch as it was the second anniversary, but only when counting from [DFW @ Kaszczorek](@/e/dfw/2015-09-20-dfw-showcase.md) which was DFW's second show rather than first. Counting from the first show, the second anniversary was instead much closer to [Crosswords City](@/e/dfw/2017-06-17-dfw-crosswords-city.md).
@@ -46,9 +43,10 @@ Featuring a battle royale match to select the next contender for Revage's DFW ch
     s: Falls Count Anywhere Street Fight
 - credits:
     Ring announcer: '[PJ Blake](@/w/pj-blake.md)'
+    Referee: 'Sędzia Marcin'
 {% end %}
 
-Attendance: about 50, confirmed in a Facebook post \
+Attendance: about 50, confirmed in a [Facebook post][50-osob].
 
 ### Recap
 
@@ -58,3 +56,5 @@ Attendance: about 50, confirmed in a Facebook post \
 ## References
 
 * [Full event on YouTube](https://www.youtube.com/watch?v=L_RpLlqJchY), with Polish commentary by Adrian Gawrychowski and Mateusz Mikołajczak
+
+[50-osob]: https://www.facebook.com/DreamFactoryWrestling/posts/pfbid0KKZ1KrZQ3fgQAwT85kpzuf9LVvh3agSfSKEzpP7s7MUjKMX5VLAx1SQ1zP2bBGZvl

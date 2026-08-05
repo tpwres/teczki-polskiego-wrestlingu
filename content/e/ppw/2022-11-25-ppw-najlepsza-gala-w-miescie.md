@@ -1,6 +1,7 @@
 +++
 title = "PpW Najlepsza Gala w Mieście"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["waldorffa25"]
@@ -21,7 +22,7 @@ The event name, which translates to "The Best Show in Town", is a reference to t
 - - '[Kapitan Bazooka](@/w/kapitan-bazooka.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
 - - 'Feyyaz Aguila'
-  - 'Joshua Amaru'
+  - '[Joshua Amaru](@/w/joshua-amaru.md)'
 - - '[Mister Z](@/w/mister-z.md) & [Ricardo Diesel](@/w/ricardo-diesel.md)'
   - '[Madman Charlie](@/w/sedzia-karol-gorski.md) & [Tony Sk1n](@/w/tony-sk1n.md) w/ [Osamu](@/w/osamu.md)'
   - s: 'Tag Team Match'

@@ -1,6 +1,7 @@
 +++
 title = "PpW Piwa I Igrzysk"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["waldorffa25"]
@@ -21,11 +22,11 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
 - - '[Mister Z](@/w/mister-z.md)'
   - 'Feyyaz Aguila'
   - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contendership Quarter Final Match'
-- - 'Aytac Bahar'
+- - '[Aytaç Bahar](@/w/aytac-bahar.md)'
   - '[Adam Wong](@/w/adam-wong.md)'
   - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contendership Quarter Final Match'
 - - '[Bill Feager](@/w/feager.md)'
-  - 'Joshua Amaru'
+  - '[Joshua Amaru](@/w/joshua-amaru.md)'
   - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contendership Quarter Final Match'
 - - '[Steve Kuningas](@/w/steve-kuningas.md)'
   - '[Isnorr](@/w/isnorr.md)'

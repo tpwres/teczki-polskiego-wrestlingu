@@ -1,6 +1,7 @@
 +++
 title = "PXW Extreme Hell 2011"
 template = "event_page.html"
+authors = ["M3n747"]
 [taxonomies]
 chronology = ["pxw"]
 [extra]

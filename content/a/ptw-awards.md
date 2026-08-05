@@ -334,7 +334,7 @@ The third edition of the PTW Awards was [announced][nagrody-2025] on Christmas D
 
 ##### Tag Team of the Year
 1. [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) - 37 votes
-2. Miyagi Sigma ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) - 29 votes
+2. [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) - 29 votes
 3. [L'Orda](@/tt/l-orda.md) ([Luca Bjorn](@/w/luca-bjorn.md) & [Rust](@/w/rust.md)) - 10 votes
 
 ##### Shock of the Year

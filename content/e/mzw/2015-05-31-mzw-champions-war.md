@@ -1,6 +1,7 @@
 +++
 title = "MZW Champions War"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["gosir-glucholazy"]
@@ -18,7 +19,7 @@ The event is infamous on the Polish wrestling scene for having female performer 
 Some fans in the Internet wrestling community now mockingly referred to the organisation as "Maniac Zgon Wrestling" (_zgon_ being the Polish word for death or demise).
 
 MZW briefly paused their activities following the event, to return later the same year in [Opawa](@/e/mzw/2015-09-05-mzw-bieg-wopisty.md).
-Hexia appeared again for MZW more than a year later, and continued to wrestle until 2018, mostly in a team with [Mr B](@/w/mr-b.md). However, MZW held no women's matches since.
+Hexia appeared again for MZW more than a year later, and continued to wrestle until 2018, mostly in a team with [Mr B](@/w/mr-b.md). However, MZW has held no women's matches since.
 
 ## Card
 
@@ -34,8 +35,8 @@ Hexia appeared again for MZW more than a year later, and continued to wrestle un
   - c: 'Belgium Pro Wrestling Federation Championship'
     s: 'Tag Team Match'
 - - >
-    Waschbären Auf Koffein: [Franz Engel](@/w/franz-engel.md) & Laurance Roman
-    + Catch Connection: [Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md)
+    Waschbären Auf Koffein: [Franz Engel](@/w/franz-engel.md) & [Laurance Roman](@/w/laurance-roman.md)
+    + [Catch Connection](@/tt/catch-connection.md): [Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md)
   - >
     Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md) & [The Grannatic](@/w/the-grannatic.md)
     + [Dynamite Dave](@/w/dynamite-dave.md) + Ilja Dragunov

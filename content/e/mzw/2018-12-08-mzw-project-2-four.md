@@ -1,6 +1,7 @@
 +++
 title = "MZW Project 2: Four"
 template = "event_page.html"
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["czasoprzestrzen"]
@@ -44,13 +45,13 @@ has_video = true
 ### Recap
 
 * Wilfried Dietrich was announced to face [Apollo Anderson](@/w/apollo-anderson.md), but was replaced by [Deti Black](@/w/dieter-schwartz.md).
-* [Lady Killer](@/w/boro.md) refused to enter the ring with [Asmund](@/w/asmund.md), leading to the match declared a no-contest.
-* Dobroniak won by a Gentleman Jarvis-style sleeper hold on Axel, and a very quiet three count
-* [Justin Joy](@/w/justin-joy.md) vs Christopher Anthony was to be a singles match, but Justin invited Asmund to participate
-* Lady Killer unsuccessfully intervened against Asmund
-* Buckna and Crane fought with kendo sticks, chairs, and outside the building
+* [Lady Killer](@/w/boro.md) refused to enter the ring with [Asmund](@/w/asmund.md), leading to the match being declared a no-contest.
+* Dobroniak won by a Gentleman Jarvis-style Sleeper Hold on Axel, and a very quiet three count.
+* [Justin Joy](@/w/justin-joy.md) vs Christopher Anthony was to be a singles match, but Justin invited Asmund to participate.
+* Lady Killer unsuccessfully intervened against Asmund.
+* Buckna and Crane fought with kendo sticks, chairs, and outside the building.
 * In the main event, all opponents arrived to the ring on a cruiser motorcycle.
-* While [Shadow](@/w/shadow.md) pins Crane, Rothschild puts an armbar on Kid, who tapped out immediately, before ref counted the pin. However, referee did not see the tap out, and awarded the win to Shadow. The angry Rothschild hit Shadow with a steel chair.
+* As [Shadow](@/w/shadow.md) was pinning Crane, Rothschild put an Armbar on Kid who tapped out immediately, before ref counted the pin. However, the referee did not see the tap-out and awarded the win to Shadow. The angry Rothschild hit Shadow with a steel chair.
 
 ## References
 

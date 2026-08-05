@@ -1,6 +1,7 @@
 +++
 title = "MZW Project Basement #3"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["mzw", "project-basement"]
 venue = ["ostrowskiego-wroclaw"]

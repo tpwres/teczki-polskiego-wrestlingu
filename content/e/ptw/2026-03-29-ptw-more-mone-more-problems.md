@@ -57,7 +57,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - 'The Polish Stand: [CJ Klakson](@/w/cj-klakson.md) & [Bart Petro](@/w/bart-petro.md)'
   - s: Tag Team Match
 - - '[Spartan](@/w/spartan.md)'
-  - '[Alex Brave](@/w/alex-brave.md)'
+  - '["Showtime" Alex Brave](@/w/alex-brave.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: The Brave Show
 - - '[Diana Strong](@/w/diana-strong.md)'

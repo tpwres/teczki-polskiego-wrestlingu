@@ -14,18 +14,19 @@ toclevel=2
 
 +++
 
-The PpW Tag Team Championship is the tag team division title introduced by [PpW Ewenement Wrestling](@/o/ppw.md) in 2025 at [Wjazd na rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). A tournament to crown the inaugural Champions began at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) and is set to conclude at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
+The PpW Tag Team Championship is the tag team division title introduced by [PpW Ewenement Wrestling](@/o/ppw.md) in 2025 at [Wjazd na rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). A tournament to crown the inaugural Champions began at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) and concluded at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).
 
 <!-- more -->
 
 ## Statistics
 
-* First champion: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md))
-* Most reigns: Zmowa (1)
-* Longest reign: Zmowa (1+ days)
-* Oldest champion: Marco Hammers (28 years, 363 days)
-* Youngest champion: Mister Z (25 years, 292 days)
-* Heaviest champion: Marco Hammers (94 kg)
+* First champions: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md))
+* Most reigns: Zmowa / [Bad Trip](@/tt/bad-trip.md) / [Rodzina](@/tt/rodzina.md) (1) 
+* Longest reign: Zmowa (77 days)
+* Shortest reign: Bad Trip (49 days)
+* Oldest champion: [Robert Star](@/w/robert-star.md) (31 years, 356 days)
+* Youngest champion: [Oskar Alexander](@/w/oskar-alexander.md) (23 years, 207 days)
+* Heaviest champion: Robert Star (106 kg)
 * Lightest champion: Jakub "Fox" (80 kg)
 
 ## History
@@ -37,7 +38,7 @@ In addition, [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md)
 
 The tournament seemingly involved the [Freebird Rule][freebird-rule]. Oskar Alexander advanced to the finals with Vic Golden and later fought Gustav & Goblin together with [Gabriel Queen](@/w/gabriel-queen.md). This was supposedly Rodzina's designed representation for the finals, but later it was [confirmed][queena-nie-bedzie] that due to Queen's obstruction, he would not be joining Alexander in the finals. Instead, a new member of Rodzina would fight for the title. That member was revealed to be [Filip Fux](@/w/filip-fux.md).
 
-The tournament finals took place at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where Rodzina, Zmowa and Bad Trip (Gustav Gryffin & Goblin) faced each other in a Triple Threat Tag Team Tables Elimination Match. Zmowa won the fight, crowning all the members of the stable as inaugural PpW Tag Team Champions.
+The tournament finals took place at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where Rodzina, Zmowa and [Bad Trip](@/tt/bad-trip.md) (Gustav Gryffin & Goblin) faced each other in a Triple Threat Tag Team Tables Elimination Match. Zmowa won the fight, crowning all the members of the stable as inaugural PpW Tag Team Champions.
 
 ## Belt design
 
@@ -85,7 +86,7 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 
 {% free_card() %}
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
-  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - s: Triple Threat Tag Team Tables Elimination Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
@@ -98,7 +99,7 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
 
 {% free_card() %}
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
-  - 'Bad Trip: [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Filip Fux](@/w/filip-fux.md)'
   - s: Triple Threat Tag Team Tables Elimination Match
     en: '[PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md)'
@@ -111,9 +112,45 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
 - - 'Bad Trip: Goblin & Gustav Gryffin'
   - 'Zmowa: Marco Hammers & Jakub(c)'
   - s: Tag Team Match
-    en: '[Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
     ed: 2026-05-16
-    nc: upcoming
+{% end %}
+
+**Total: 77 days**
+
+### Champions #2: Bad Trip: Gustav Gryffin & Goblin
+
+{% free_card() %}
+- - '[Bad Trip](@/tt/bad-trip.md): [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[Zmowa](@/tt/zmowa.md): [Marco Hammers](@/w/marco-hammers.md) & [Jakub](@/w/jakub.md)(c)'
+  - s: Tag Team Match
+    en: '[PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md)'
+    ed: 2026-05-16
+- - 'Bad Trip: Goblin & Gustav Gryffin(c)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md) & [Leon Lato](@/w/leon-lato.md)'
+  - s: Tag Team Match
+    en: '[PpW Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md)'
+    ed: 2026-05-30
+- - 'Bad Trip: Goblin & Gustav Gryffin(c)'
+  - 'A Bite of Baklava: [Aytaç Bahar](@/w/aytac-bahar.md) & [Joshua Amaru](@/w/joshua-amaru.md)'
+  - s: Tag Team Match
+    en: '[PpW Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md)'
+    ed: 2026-06-13
+{% end %}
+
+**Total: 49 days**
+
+The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) due to Gustav Gryffin's injury forcing him on a prolonged hiatus.
+
+### Champions #3: Rodzina: Vic Golden & Oskar Alexander
+
+{% free_card() %}
+- - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+  - "['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)"
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: Tag Team Match
+    en: '[PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md)'
+    ed: 2026-07-04
 {% end %}
 
 ## References

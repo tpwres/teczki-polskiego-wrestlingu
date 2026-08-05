@@ -19,13 +19,13 @@ Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler 
 * Years active: 2016-present
 * Gimmicks/nicknames:
   - Krueger {{ org_badge(org='mzw') }}
-  - Hades {{ org_badge(org='ppw') }} (later also as Olgierd)
-  - Olgierd {{ org_badge(orgs=['ptw', 'low']) }}
+  - Hades {{ org_badge(org='ppw') }}
+  - Olgierd {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low', 'kpw', 'frpw']) }}
   - El Ogre {{ org_badge(orgs=['ptw', 'ppw']) }} (masked)
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
-  - [Ewenement Dojo](@/o/ewenement-dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -110,6 +110,10 @@ At [Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) Olgierd defeated [Mar
 
 In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. He intervened in a match between his partner Marco Hammers and [Filip Fux](@/w/filip-fux.md) later the same night, which led to Legia Łysych vs [Bracia Fux](@/tt/bracia-fux.md) at [LoW vol.2](@/e/low/2025-04-06-low-2.md), in which they were defeated by the reigning and defending [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md). At [Four the Glory](@/e/low/2025-12-20-low-4.md) Olgierd defeated his old coach and rival [Shadow](@/w/shadow.md) in a Non-Title Match during his first fight as the PpW Champion.
 
+### Kombat Pro Wrestling (2026-present)
+
+In April 2026 Olgierd was present at [KPW Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) as a security/staff member. Two months later he was booked for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) in a match against [Filip Fux](@/w/filip-fux.md), thus becoming the first Polish wrestler to work for all active (as of 2026) Polish pro federations: [PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md).
+
 ## International wrestling appearances
 
 From 2024 onwards Olgierd began to take bookings at the European independent circuit. He started making rather regular appearances in Austria, Hungary and Germany, sometimes working with his Legia Łysych partner, Marco Hammers.
@@ -155,9 +159,9 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
 
 ## Championships and accomplishments
 
-* [PpW Ewenement](@/o/ppw.md):
-  - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural; current) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Marco Hammers](@/w/marco-hammers.md)
+* [PpW Ewenement Wrestling](@/o/ppw.md):
+  - [PpW Championship](@/c/ppw-championship.md) (1 time)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Marco Hammers](@/w/marco-hammers.md)
   - PpW Tag Team Championship Tournament (2026)
 
   _Backyard Era Championships_:

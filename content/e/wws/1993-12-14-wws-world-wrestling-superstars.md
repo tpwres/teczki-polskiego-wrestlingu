@@ -1,6 +1,7 @@
 +++
 title = "World Wrestling Superstars"
 template = "event_page.html"
+authors = ["Krzysztof Zych"]
 [taxonomies]
 chronology = ["international", "wws"]
 venue = ["torwar"]
