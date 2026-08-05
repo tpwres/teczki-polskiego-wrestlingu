@@ -62,7 +62,7 @@ No Time to Die 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow
 ### Highlights
 
 * The new venue's main room was just wide enough to fit the ring, sandwiched between the walls with little room on the sides. The audience was thus split into two sections, divided by the ring. Both standing places and seats were available. One of the entrances into the room doubled as the Gorilla position.
-* [Aron Wake](@/w/aron-wake.md) attended the show as an audience member, as did [Istotna Martynka](@/w/istotna-martynka.md).
+* [Aron Wake](@/w/aron-wake.md) attended the show as an audience member, as did [Istotna Martynka](@/w/gloria-g-szek.md).
 * [Adrian Zgórski](@/w/adrian-zgorski.md) received the customary chants of ["pokaż dupę!"](@/a/polish-wrestling-chants.md#calls-to-action) (_show your ass!_). This time, however, he responded by taking off his usual shirt and revealing a T-shirt with cartoon buttocks and a text reading "Pokaż doope" (_Show your arze_), in MZW green colors. The T-shirt was available at the merch stand.
 * As Adrian was beginning to announce the first match, [Tony Sheen](@/w/riverman.md) (accompanied by [Arek Paterek](@/w/arek-paterek.md)) came out and demanded a spot in the main event. Paterek then prevented Adrian from reading his card with the actual participants, and inserted Tony into the match.
 * [Mister Z](@/w/mister-z.md) came out with the contract briefcase he won at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
