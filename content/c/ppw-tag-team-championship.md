@@ -146,7 +146,7 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
 
 {% free_card() %}
 - - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - "['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)"
+  - '["Ladykiller" Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - s: Tag Team Match
     en: '[PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md)'
     ed: 2026-07-04
