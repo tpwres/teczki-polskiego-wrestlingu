@@ -27,5 +27,6 @@ As of 2025, the main prize of the Gold Rush Rumble varies. For first edition of 
 |---|---|---|---|
 | Gold Rush Rumble (2024) | 2024-02-03 | [PTW #5: Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) | [Puncher](@/w/puncher.md) |
 | Gold Rush Rumble (2025) | 2025-06-28 | [PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) | [Nano Lopez](@/w/nano-lopez.md) |
+| Gold Rush Rumble (2026) | 2026-08-28 | [PTW: Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) | TBD |
 
 [royal-rumble]: https://en.wikipedia.org/wiki/Royal_Rumble_match
