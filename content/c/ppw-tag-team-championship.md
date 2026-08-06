@@ -146,11 +146,16 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
 
 {% free_card() %}
 - - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - "['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)"
-  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-    s: Tag Team Match
+  - '["Ladykiller" Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - s: Tag Team Match
     en: '[PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md)'
     ed: 2026-07-04
+- - 'Rodzina: Vic Golden & Oskar Alexander(c)'
+  - '[Leon Lato](@/w/leon-lato.md) & [Max Speed](@/w/max-speed.md)'
+  - s: Tag Team Match
+    en: '[PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md)'
+    ed: 2026-08-15
+    nc: upcoming
 {% end %}
 
 ## References
