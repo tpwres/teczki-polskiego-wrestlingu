@@ -45,7 +45,7 @@ The name of the show comes from a viral [YouTube video](https://youtu.be/k0nnjEm
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: Strap Match
     r: Technical Knock-Out
-- - '[_rookie_ Oskar](@/w/oskar-alexander.md)'
+- - '[adept Oskar](@/w/oskar-alexander.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Sambor](@/w/sambor.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
@@ -118,7 +118,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * [Marcelito](@/w/marcelito.md) makes his face entrance first.
 * Second of the babyfaces - [Aron Wake](@/w/aron-wake.md) - makes his entrance shortly after Marcelito.
 * [Sambor](@/w/sambor.md) makes his mysterious heel entrance, and also his PpW debiut.
-* The final spot in the Fatal-Four Way match belongs to [_rookie_ Oskar](@/w/oskar-alexander.md), who makes his ambiguous entrance to "Zacznij od Bacha" song by Zbigniew Wodecki. He also wears characteristic heart-shaped sunglasses, resembling those given away by Łukasz Okoński - one of [PTW's](@/o/ptw.md) co-owners.
+* The final spot in the Fatal-Four Way match belongs to [adept Oskar](@/w/oskar-alexander.md), who makes his ambiguous entrance to "Zacznij od Bacha" song by Zbigniew Wodecki. He also wears characteristic heart-shaped sunglasses, resembling those given away by Łukasz Okoński - one of [PTW's](@/o/ptw.md) co-owners.
 * The match starts with a beatdown of babyfaces perpetrated by Oskar and Sambor. The two soon after begin their own strike exchange, which is won by the Slavic warrior, Sambor.
 * Oskar then leaves the ring after a running knee strike, just to be accompanied by Sambor seconds later after he recieves a double dropkick from the babyfaces.
 * After Marcelito joins the heels at the ringside, Aron stands tall after a top rope dive. Wake then proceeds to score a pin on Marcelito, who quickly kicks out.

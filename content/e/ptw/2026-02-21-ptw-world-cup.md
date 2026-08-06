@@ -56,7 +56,7 @@ has_video = true
   - '[Flex Skywalker](@/w/flex-skywalker.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Boguś](@/w/bogus.md)'
-  - '[Bumper](@/w/fabian.md)'
+  - '[adept Bumper](@/w/fabian.md)'
   - 'Jordan Wolff'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'

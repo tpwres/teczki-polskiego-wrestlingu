@@ -49,16 +49,16 @@ Ewenement Dojo / Warszawska Szkoła Wrestlingu:
 * Alvaro (non-canon debut)
 * [Antoni Ocean](@/w/antoni-ocean.md)
 * [Bartosz Plata](@/w/plata.md)
-* _rookie_ Gaba
+* adeptka Gaba
 * [Gloria G Szek](@/w/gloria-g-szek.md)
 * Julia Rave
-* _rookie_ Maciej
-* _rookie_ Maria
+* adept Maciej
+* adeptka Maria
 * Mikołaj "SKS"
-* _rookie_ Młody
+* adept Młody
 * Monster High Zuza
 * [Oskar Alexander](@/w/oskar-alexander.md)
-* _rookie_ Sawo
+* adept Sawo
 * [Sędzia Kornel](@/w/sedzia-kornel.md)
 
 ## History
@@ -74,7 +74,7 @@ Preceding it was the Summer Wrestling Camp organised by PpW with Jacob Crane as 
 For the first time in the Polish wrestling history, it was announced that the training sessions will be held mainly on a weekly basis instead of weekend-only two day training regimes.
 This change was inspired by German dojos such as wXw Academy, as well as martial arts dojos.
 
-The first fully Ewenement-grown talent who got a chance to debut at the Polish scene was [Oskar Alexander](@/w/oskar-alexander.md), who debuted as Adept Oskar (_rookie_ Oskar) before "earning" his ringname. Following him were [Bartosz Plata](@/w/plata.md) and [Antoni Ocean](@/w/antoni-ocean.md).
+The first fully Ewenement-grown talent who got a chance to debut at the Polish scene was [Oskar Alexander](@/w/oskar-alexander.md), who debuted as Adept Oskar (adept Oskar) before "earning" his ringname. Following him were [Bartosz Plata](@/w/plata.md) and [Antoni Ocean](@/w/antoni-ocean.md).
 
 Two of the first Ewenement Dojo graduates also made their non-PpW debuts, in a quick succession. [Oskar Alexander](@/w/oskar-alexander.md) made his [MZW](@/o/mzw.md) debut in a losing effort against [Shadow](@/w/shadow.md) at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), while [Bartosz Plata](@/w/plata.md) debuted in [Legacy of Wrestling](@/o/low.md) as a part of a losing team in a six-man tag team main event of [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md).
 

@@ -32,10 +32,10 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
   - g: "Jakub makes the Battle Royal a match for the [Legacy gold](@/c/low-european-championship.md) title shot. Boro and Sambor insert themselves into the fight despite Jakub's protests."
 - - '[Boro](@/w/boro.md)'
   - '[Sambor](@/w/sambor.md)'
-  - '_rookie_ Adrian'
-  - '_rookie_ Maciej'
-  - '_rookie_ Marek'
-  - '_rookie_ Stefan'
+  - 'adept Adrian'
+  - 'adept Maciej'
+  - 'adept Marek'
+  - 'adept Stefan'
   - s: Battle Royal Match
     nc: Double elimination
     n: Boro and Sambor eliminate each other at the same time.
@@ -72,10 +72,10 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
 * Due to uncertain weather conditions the decition was made to move the show indoors. Shortly before the show was to begin a heavy thunderstorm broke out; as a result, the start of the event was delayed by 20 minutes.
 * Shadow spoke for the first time in many years, appearing as an authority figure to declare the [Legacy of Wrestling European Championship](@/c/low-european-championship.md) Match a Three-Way Match against [Sambor](@/w/sambor.md) and [Boro](@/w/boro.md).
 * Battle Royal elimination order:
-  1. _rookie_ Marek
-  2. _rookie_ Adrian
-  3. _rookie_ Maciej
-  4. _rookie_ Stefan
+  1. adept Marek
+  2. adept Adrian
+  3. adept Maciej
+  4. adept Stefan
   5. Sambor & Boro
 * Before his match, [Syriusz Dziedzic](@/w/dziedzic.md) urged the crowd to cheer for [Sędzia Michał](@/w/sedzia-michal.md). The match between him and [Max Speed](@/w/max-speed.md) saw many slips and trips and at one point, Dziedzic appeared to have injured his knee. This was however a 
 * During the break, [Adi](@/w/adrian-zgorski.md) entertained the crowd by performing a couple of one-handed cartwheels.
