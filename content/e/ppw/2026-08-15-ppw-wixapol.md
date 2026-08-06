@@ -19,6 +19,7 @@ Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) is an upcoming event to
 * PpW began revealing the card on 29.07.2026, with an Ultraviolent Deathmatch between [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and [Johnny Blade](@/w/johnny-blade.md).
 * On 31.07.2026 PpW announced [Tony Sheen](@/w/riverman.md), [Biesiad Strong](@/w/biesiad.md) & [Boro](@/w/boro.md) vs [Mister Z](@/w/mister-z.md), [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) in a 3-vs-3 Extreme Swimming Pool Elimination Match. The match will be won by the team whose opponents will be the first to fall into the pool.
 * The second match, announced on 3.08.2026, was a Triple Threat Match in which [Agentka Agatka](@/w/agentka-agatka.md) will face [Gloria G Szek](@/w/gloria-g-szek.md) and the debuting Kalyana. Kalyana was previously seen at [FRPW Dojo Showcase 2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), as rookie Yana.
+* On 6.08.2026 PpW announced a Tag Team Match for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) between the reigning Champions representing [Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md), and the duo of challengers: [Leon Lato](@/w/leon-lato.md) & [Max Speed](@/w/max-speed.md).
 
 ## Predicted card
 
@@ -35,6 +36,11 @@ Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) is an upcoming event to
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Gloria G Szek](@/w/gloria-g-szek.md)'
   - s: Triple Threat Match
+    nc: upcoming
+- - '[Leon Lato](@/w/leon-lato.md) & [Max Speed](@/w/max-speed.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)(c)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: Tag Team Match
     nc: upcoming
 {% end %}
 
