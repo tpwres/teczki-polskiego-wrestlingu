@@ -23,7 +23,7 @@ In July 2026 FRPW also officially rebranded Ewenement Dojo - a Warsaw-based wres
 
 ### Wrestling in Your City
 
-In mid-2026 FRPW began announcing dates for their "Wrestling w Twoim Mieście" (_Wrestling in Your City_) tour, taking shows to cities that had no wrestling before.
+In mid-2026 FRPW began announcing dates for their ["Wrestling w Twoim Mieście"](@/e/frpw-wrestling-w-twoim-miescie.md) (_Wrestling in Your City_) tour, taking shows to cities that had no wrestling before.
 
 ## Other ventures
 

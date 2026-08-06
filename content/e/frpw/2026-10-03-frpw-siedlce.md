@@ -3,7 +3,7 @@ title = "FRPW: Wrestling w Twoim Mieście - Siedlce"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
-chronology = ["frpw"]
+chronology = ["frpw", "wrestling-w-twoim-miescie"]
 venue=["osrodek-sportu-arms"]
 [extra]
 orgs = ["frpw"]
