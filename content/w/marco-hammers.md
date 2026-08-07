@@ -1,7 +1,7 @@
 +++
 title = "Marco Hammers"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -12,7 +12,7 @@ Marco Hammers is a retired Polish wrestler best known for his time in [Prime Tim
 
 ## Basic info
 
-* Years active: 2022-present
+* Years active: 2022-2026
 * Gimmicks/nicknames:
   - Marco "Łysy" Hammers {{ org_badge(orgs=['ptw', 'ppw', 'low', 'mzw']) }}
   - Marco Hardy {{ org_badge(orgs=['ppw']) }}  (2025-2026)
