@@ -79,9 +79,13 @@ At [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), Marco made his de
 
 The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), issuing an open challenge. The challenge was answered by a makeshift team of [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md), who lost to Legia.
 
+## Marco's injury and retirement (2026)
+
+In August 2026 [Marco Hammers](@/w/marco-hammers.md) was forced to retire from in-ring competition due to a serious neck injury.
+
 ## Members
 
-* [Marco Hammers](@/w/marco-hammers.md) - 2023-
+* [Marco Hammers](@/w/marco-hammers.md) - 2023-2026
 * [Olgierd](@/w/olgierd.md) - 2023-
 * [Karyna](@/w/karyna.md) - valet ([Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) - [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md))
 
