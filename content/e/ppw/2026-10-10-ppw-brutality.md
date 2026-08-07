@@ -1,5 +1,5 @@
 +++
-title = "PpW @ Mińska 65"
+title = "PpW Brutality"
 template = "event_page.html"
 authors = ["M3n747"]
 aliases = ["/e/ppw/2026-10-10-ppw-minska-65"]
@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"PpW @ Mińska 65" (_working title_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw.
+"PpW Brutality" is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw.
 
 ## Build-up
 
