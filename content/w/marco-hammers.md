@@ -94,7 +94,7 @@ This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Ma
 
 ### Injury and retirement
 
-On 7.08.2026 Marco published a [post][marcontuzja] on Facebook, informing fans that his neck injury he sustained at [PpW Ledwo Legalne 6](@/e/low/2026-05-16-ppw-ledwo-legalne-6.md) is not healing. Since continuing to wrestle would put him at risk of paralysis, Marco was forced to step away from in-ring competition, instead focusing on other ventures. He did not, however, vacate his [MZW Championship](@/c/mzw-championship.md), saying he would look for a different way to pass it on to the next Champion.
+On 7.08.2026 Marco published a [post][marcontuzja] on Facebook, informing fans that his neck injury he sustained at [PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) is not healing. Since continuing to wrestle would put him at risk of paralysis, Marco was forced to step away from in-ring competition, instead focusing on other ventures. He did not, however, vacate his [MZW Championship](@/c/mzw-championship.md), saying he would look for a different way to pass it on to the next Champion.
 
 ## International wrestling appearances 
 
