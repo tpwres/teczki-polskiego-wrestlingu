@@ -31,7 +31,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
   - '[Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md)'
 - - '[adept Gringo](@/w/jakub.md)'
   - 'adept Młody'
-  - 'Monster High Zuza'
+  - 'adeptka Monster High Zuza'
   - 'adept Maciej'
   - 'adeptka Maria'
   - '[Oskar Haller](@/w/oskar-haller.md)'
@@ -45,7 +45,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
 - - '[JAKUB](@/w/jakub.md)'
   - '[Szymon Kurczab](@/w/rookie-two.md)'
 - - '[Olgierd](@/w/olgierd.md)'
-  - 'Mikołaj "SKS"'
+  - 'adept Mikołaj "SKS"'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Biesiad](@/w/biesiad.md)'
   - g: Olgierd cuts a promo about Zmowa, Biesiad cuts in and a brawl ensues
