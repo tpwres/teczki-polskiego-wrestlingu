@@ -51,12 +51,12 @@ Ewenement Dojo / Warszawska Szkoła Wrestlingu:
 * [Bartosz Plata](@/w/plata.md)
 * adeptka Gaba
 * [Gloria G Szek](@/w/gloria-g-szek.md)
-* Julia Rave
+* adeptka Julka
 * adept Maciej
 * adeptka Maria
-* Mikołaj "SKS"
+* adept Mikołaj "SKS"
 * adept Młody
-* Monster High Zuza
+* [adeptka Monster High Zuza](@/w/monster-high-zuza.md)
 * [Oskar Alexander](@/w/oskar-alexander.md)
 * adept Sawo
 * [Sędzia Kornel](@/w/sedzia-kornel.md)
