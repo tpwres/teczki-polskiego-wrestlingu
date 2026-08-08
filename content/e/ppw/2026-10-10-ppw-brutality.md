@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"PpW Brutality" is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw.
+"PpW Brutality" is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw. The name of the show, much like the Hardcore Friday series, is a throwback to the promotion's [backyard](@/e/ppw/2015-10-10-ppw-brutality-2015.md) [era](@/e/ppw/2017-03-25-ppw-brutality-17.md).
 
 ## Build-up
 
