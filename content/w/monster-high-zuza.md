@@ -1,5 +1,5 @@
 +++
-title = "Monster High Zuza"
+title = "adeptka Monster High Zuza"
 template = "talent_page.html"
 authors = ["M3n747"]
 [extra]
