@@ -20,7 +20,7 @@ has_video = true
   - '[Isnorr](@/w/isnorr.md)'
   - g: New [PpW Championship](@/c/ppw-championship.md) revealed.
 - - '[Axel Fox](@/w/jakub.md)'
-  - '[_rookie_ Oskar](@/w/oskar-alexander.md)'
+  - '[adept Oskar](@/w/oskar-alexander.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - s: Ustawka bez sprzętu (_No weapons hooligan street fight_)
