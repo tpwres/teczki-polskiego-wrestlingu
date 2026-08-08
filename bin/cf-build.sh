@@ -1,10 +1,9 @@
 #! /bin/bash
 # set -x
+set -euo pipefail
 
-install_zola() {
-	asdf plugin add zola https://github.com/salasrod/asdf-zola
-	asdf install zola 0.20.0
-	asdf global zola 0.20.0
+mise_from_npx() {
+  npx exec -- mise run bootstrap
 }
 
 lint() {
@@ -31,7 +30,7 @@ create_config() {
 setup_seo() {
   # Find the last-modified dates of all files under content/
   # Edit each file inline, inserting updated= into front matter
-  git fetch --unshallow
+  git fetch --unshallow $(git branch --show-current)
   git ls-files content/ | \
   grep -Ev '_index\.md$' | \
   while read FILE; do
@@ -56,8 +55,19 @@ build() {
   cp data/mapdata.json public/map_objects.json
 }
 
-lint
-install_zola
+# lint
+# install_zola
+
+echo "===== ENV"
+env
+echo "==== ls"
+ls -lha
+echo "==== mise"
+mise_from_npx
+echo "==== config"
 create_config
+echo "==== config"
 setup_seo
+echo "==== build"
 build
+

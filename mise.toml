@@ -1,0 +1,12 @@
+[tools]
+zola = "0.22.1"
+node = "24"
+python = "3.14"
+uv = "0.10"
+
+[tasks.npm-install]
+run = "npm install"
+
+[tasks.bootstrap]
+depends = ["npm-install"]
+
