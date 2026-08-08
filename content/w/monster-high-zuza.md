@@ -22,4 +22,4 @@ Adeptka Monster High Zuza is a rookie training with [Warszawska Szkoła Wrestlin
 
 ### Training and first appearances (202?-present)
 
-Zuza began training with Ewenement Dojo/WSW at some point in 2025 or 2026. She made her first in-ring appearance at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo-frpw-showcase.md) in the Next Big Thing Battle Royal, from which she ended up being eliminated. She followed her initial attempt with four matches at [More Brutal than Metal 2](@/e/ppw/2026-06-04-ppw-mystic-more-brutal-than-metal.md) and then [Dojo Showcase 2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), all of which she lost.
+Zuza began training with Ewenement Dojo/WSW at some point in 2025 or 2026. She made her first in-ring appearance at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo-frpw-showcase.md) in the Next Big Thing Battle Royal, from which she ended up being eliminated. She followed her initial attempt with four matches at [More Brutal Than Metal 2](@/e/ppw/2026-06-04-ppw-mystic-more-brutal-than-metal.md) and then [Dojo Showcase 2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), all of which she lost.
