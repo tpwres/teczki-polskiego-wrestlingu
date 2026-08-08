@@ -3,8 +3,8 @@
 
 install_zola() {
 	asdf plugin add zola https://github.com/salasrod/asdf-zola
-	asdf install zola 0.20.0
-	asdf global zola 0.20.0
+	asdf install zola 0.22.1
+	asdf global zola 0.22.1
 }
 
 lint() {
