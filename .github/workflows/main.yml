@@ -13,13 +13,15 @@ jobs:
           tool_versions: |
             zola 0.22.1
             node 24
-      - uses: astral-sh/setup-uv@v6
-        name: Install UV
-        with:
-          version: latest
-          python-version: '3.13.3'
-          activate-environment: true
-          enable-cache: true
+            python 3.14
+            uv 0.10
+      # - uses: astral-sh/setup-uv@v6
+      #   name: Install UV
+      #   with:
+      #     version: latest
+      #     python-version: '3.13.3'
+      #     activate-environment: true
+      #     enable-cache: true
       # - name: Install Node
       #   uses: actions/setup-node@v4
       #   with:
