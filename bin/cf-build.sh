@@ -27,6 +27,7 @@ create_config() {
 }
 
 setup_seo() {
+  set -x
   # Find the last-modified dates of all files under content/
   # Edit each file inline, inserting updated= into front matter
   git fetch --depth=50 origin $(git branch --show-current)
