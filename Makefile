@@ -16,7 +16,7 @@ METADATA=data/all_matches.json \
          data/all_photos.json \
          data/photo_taggings.json \
          data/mapdata.json
-PLOTS=data/zieloni.svg data/chronology-2.svg
+PLOTS=static/zieloni.svg static/chronology-2.svg
 CAL=static/calendar.ics \
     static/calendar-ptw.ics \
     static/calendar-kpw.ics \
@@ -65,11 +65,11 @@ $(ROSTERS) &: content/e/**/*.md
 clean-plot:
 	rm -rf $(PLOTS)
 
-data/chronology-2.svg: const/chronology_2.csv
-	bin/build-mg  $< $@
+static/chronology-2.svg: const/chronology_2.csv
+	uv run --group plot bin/build-mg  $< $@
 
-data/zieloni.svg: const/zieloni.csv
-	bin/build-mg  $< $@
+static/zieloni.svg: const/zieloni.csv
+	uv run --group plot bin/build-mg  $< $@
 
 static/calendar.ics: content/e/**/*.md
 	bin/build-calendar > $@
