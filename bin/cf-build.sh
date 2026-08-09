@@ -29,7 +29,7 @@ create_config() {
 setup_seo() {
   # Find the last-modified dates of all files under content/
   # Edit each file inline, inserting updated= into front matter
-  git fetch --unshallow $(git branch --show-current)
+  git fetch --depth=50 origin $(git branch --show-current)
   git ls-files content/ | \
   grep -Ev '_index\.md$' | \
   while read FILE; do
