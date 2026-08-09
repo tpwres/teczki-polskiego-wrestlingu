@@ -1,7 +1,7 @@
 [tools]
 zola = "0.22.1"
-node = "24"
-python = "3.14"
+node = "22" # Matching cloudflare
+python = "3.13" # Matching cloudflare
 uv = "0.10"
 
 [tasks.npm-install]

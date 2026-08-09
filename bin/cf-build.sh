@@ -2,14 +2,23 @@
 # set -x
 set -euo pipefail
 
+MISE=node_modules/mise/bin/mise
+
+asdf_to_mise() {
+  while read -r pkg versions; do
+    [[ "$pkg" =~ ^#|^$ ]] && continue # skip comments and empty
+    for ver in $versions; do
+      path=$(asdf where "$pkg" "$ver" 2>/dev/null) && $MISE ln "$pkg@$ver" "$path"
+    done
+  done
+}
 mise_from_nodemodules() {
-  cat $HOME/.tool-versions
   sed -i '/^dart-sass-embedded/d' $HOME/.tool-versions
-  sed -i '/hugo/d' $HOME/.tool-versions
+  asdf_to_mise < $HOME/.tool-versions
   echo "== doctor"
-  node_modules/mise/bin/mise doctor || true
+  $MISE doctor || true
   echo "== bootstrap"
-  node_modules/mise/bin/mise run bootstrap
+  $MISE run bootstrap
 }
 
 lint() {
