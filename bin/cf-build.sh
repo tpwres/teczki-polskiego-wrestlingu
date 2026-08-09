@@ -29,19 +29,13 @@ create_config() {
 }
 
 setup_seo() {
+  set -x
   # Find the last-modified dates of all files under content/
   # Edit each file inline, inserting updated= into front matter
   BRANCH=${CF_PAGES_BRANCH:-main}
   git fetch --unshallow origin "$BRANCH" || git fetch --depth=100 origin "$BRANCH"
   git log --pretty=format:"D %as" -name-only -- content/ \|
     $MISE exec -- uv run python3 src/bin/add_timestamps.py
-  # git ls-files content/ | \
-  # grep -Ev '_index\.md$' | \
-  # while read FILE; do
-  #     git log --pretty="$FILE %as" -1 -- "$FILE"
-  # done | while read FILE MTIME; do
-  #     sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/" "$FILE"
-  # done
 
   if [[ -n "$CF_PAGES" ]]; then
     case $CF_PAGES_BRANCH in
