@@ -38,7 +38,16 @@ setup_seo() {
       sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/" "$FILE"
   done
 
-  export SITEMAP_ROOT=${SITEMAP_ROOT_URL:-$BASE_URL}
+  if [[ -n "$CF_PAGES" ]]; then
+    case $CF_PAGES_BRANCH in
+      main)
+        export BASE_URL=https://tpwres.pl
+        ;;
+      *)
+        export BASE_URL=$CF_PAGES_URL
+        ;;
+    esac
+  fi
   envsubst < templates/sitemap_template.xml > templates/sitemap.xml
   envsubst < templates/robots_template.txt > templates/robots.txt
 }
