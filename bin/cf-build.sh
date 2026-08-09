@@ -3,6 +3,7 @@
 set -euo pipefail
 
 MISE=node_modules/mise/bin/mise
+export NO_COLOR=1
 
 asdf_to_mise() {
   while read -r pkg versions; do
@@ -32,13 +33,15 @@ setup_seo() {
   # Edit each file inline, inserting updated= into front matter
   BRANCH=${CF_PAGES_BRANCH:-main}
   git fetch --unshallow origin "$BRANCH" || git fetch --depth=100 origin "$BRANCH"
-  git ls-files content/ | \
-  grep -Ev '_index\.md$' | \
-  while read FILE; do
-      git log --pretty="$FILE %as" -1 -- "$FILE"
-  done | while read FILE MTIME; do
-      sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/" "$FILE"
-  done
+  git log --pretty=format:"D %as" -name-only -- content/ \|
+    uv run python3 src/bin/add_timestamps.py
+  # git ls-files content/ | \
+  # grep -Ev '_index\.md$' | \
+  # while read FILE; do
+  #     git log --pretty="$FILE %as" -1 -- "$FILE"
+  # done | while read FILE MTIME; do
+  #     sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/" "$FILE"
+  # done
 
   if [[ -n "$CF_PAGES" ]]; then
     case $CF_PAGES_BRANCH in
@@ -57,7 +60,7 @@ setup_seo() {
 build() {
   $MISE exec -- uv run make -j$(nproc) all plot index
 
-  zola -c build_cloudflare_config.toml build
+  $MISE exec -- zola -c build_cloudflare_config.toml build
   install -t public data/appearances_v2.json data/all_matches.json data/all_photos.json data/talent_photos.json
   cp data/mapdata.json public/map_objects.json
 }
