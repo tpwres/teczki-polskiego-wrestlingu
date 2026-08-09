@@ -34,7 +34,7 @@ setup_seo() {
   BRANCH=${CF_PAGES_BRANCH:-main}
   git fetch --unshallow origin "$BRANCH" || git fetch --depth=100 origin "$BRANCH"
   git log --pretty=format:"D %as" -name-only -- content/ \|
-    uv run python3 src/bin/add_timestamps.py
+    $MISE exec -- uv run python3 src/bin/add_timestamps.py
   # git ls-files content/ | \
   # grep -Ev '_index\.md$' | \
   # while read FILE; do
