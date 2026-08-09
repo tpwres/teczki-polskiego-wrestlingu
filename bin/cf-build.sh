@@ -3,7 +3,12 @@
 set -euo pipefail
 
 mise_from_nodemodules() {
-  node_modules/mise/bin/mise doctor
+  cat $HOME/.tool-versions
+  sed -i '/^dart-sass-embedded/d' $HOME/.tool-versions
+  sed -i '/hugo/d' $HOME/.tool-versions
+  echo "== doctor"
+  node_modules/mise/bin/mise doctor || true
+  echo "== bootstrap"
   node_modules/mise/bin/mise run bootstrap
 }
 
@@ -59,12 +64,7 @@ build() {
 # lint
 # install_zola
 
-echo "===== ENV"
-env
-echo "==== ls"
-ls -lha
 echo "==== mise"
-cat ~/.tool-versions
 mise_from_nodemodules
 echo "==== config"
 create_config
