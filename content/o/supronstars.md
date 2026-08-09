@@ -1,13 +1,14 @@
 +++
 title = "SupronStars"
 weight = 0
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 template = "org_page.html"
 [extra]
 hide_roster = true
 hide_events = true
 [taxonomies]
 chrono_root = ["ss"]
+[extra.gallery]
 +++
 
 SupronStars was the first, semi-professional, wrestling federation in Poland, active in the early 1990s. 
@@ -19,6 +20,7 @@ After learning about professional wrestling from TV during his visit to the Unit
 ## References
 
 * [MyWrestling's article about history of SupronStars](https://mywrestling.com.pl/historia-polskiego-wrestlingu-1-supronstars-gala-w-torwarze-ppwf)
+* [An Ambitious Pro Wrestling Tour of the Soviet Union in 1990](https://phil-lions-research.blogspot.com/2026/07/supron-ussr-tour.html?m=1)
 
 [komar]: https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Komar
 [gorniak]: https://en.wikipedia.org/wiki/Edyta_G%C3%B3rniak
