@@ -27,7 +27,6 @@ create_config() {
 }
 
 setup_seo() {
-  set -x
   # Find the last-modified dates of all files under content/
   # Edit each file inline, inserting updated= into front matter
   BRANCH=${CF_PAGES_BRANCH:-main}
@@ -55,7 +54,7 @@ setup_seo() {
 }
 
 build() {
-  make -j$(nproc) all plot index
+  uv run make -j$(nproc) all plot index
 
   zola -c build_cloudflare_config.toml build
   install -t public data/appearances_v2.json data/all_matches.json data/all_photos.json data/talent_photos.json
