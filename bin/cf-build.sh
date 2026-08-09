@@ -15,9 +15,6 @@ asdf_to_mise() {
 mise_from_nodemodules() {
   sed -i '/^dart-sass-embedded/d' $HOME/.tool-versions
   asdf_to_mise < $HOME/.tool-versions
-  echo "== doctor"
-  $MISE doctor || true
-  echo "== bootstrap"
   $MISE run bootstrap
 }
 
@@ -26,19 +23,6 @@ lint() {
 }
 
 create_config() {
-  # In CF Workers, the base url in previews is either
-  # <sha-prefix>-<workername>.<domain>.workers.dev or <branchname>-<workername>.<domain>.workers.dev
-  # where the prefix is usually 8 hexdigits long. The branch name is found in $WORKERS_CI_BRANCH,
-  # and the worker name in $WRANGLER_CI_OVERRIDE_NAME, both provided by Workers Builds env.
-  case $WORKERS_CI_BRANCH in
-      main)
-          export BASE_URL=https://$PRODUCTION_URL
-          ;;
-      *)
-          export BASE_URL=https://$WORKERS_CI_BRANCH-$WRANGLER_CI_OVERRIDE_NAME.$WORKERS_DOMAIN
-          ;;
-  esac
-
   envsubst < cloudflare-config.toml > build_cloudflare_config.toml
 }
 
@@ -63,22 +47,14 @@ build() {
   make -j$(nproc) all plot index
 
   zola -c build_cloudflare_config.toml build
-  cp data/appearances_v2.json public/
-  cp data/all_matches.json public/
-  cp data/all_photos.json public/
-  cp data/talent_photos.json public/
+  install -t public data/appearances_v2.json data/all_matches.json data/all_photos.json data/talent_photos.json
   cp data/mapdata.json public/map_objects.json
 }
 
-# lint
-# install_zola
 
-echo "==== mise"
 mise_from_nodemodules
-echo "==== config"
+# lint
 create_config
-echo "==== config"
 setup_seo
-echo "==== build"
 build
 
