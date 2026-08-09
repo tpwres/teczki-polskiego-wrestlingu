@@ -2,8 +2,9 @@
 # set -x
 set -euo pipefail
 
-mise_from_npx() {
-  HOME=$(mktemp -d) npm exec mise run bootstrap
+mise_from_nodemodules() {
+  node_modules/mise/bin/mise doctor
+  node_modules/mise/bin/mise run bootstrap
 }
 
 lint() {
@@ -63,7 +64,8 @@ env
 echo "==== ls"
 ls -lha
 echo "==== mise"
-mise_from_npx
+cat ~/.tool-versions
+mise_from_nodemodules
 echo "==== config"
 create_config
 echo "==== config"
