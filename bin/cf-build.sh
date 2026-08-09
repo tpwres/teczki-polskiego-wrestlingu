@@ -12,7 +12,8 @@ asdf_to_mise() {
     done
   done
 }
-mise_from_nodemodules() {
+
+bootstrap_mise() {
   sed -i '/^dart-sass-embedded/d' $HOME/.tool-versions
   asdf_to_mise < $HOME/.tool-versions
   $MISE run bootstrap
@@ -54,7 +55,7 @@ setup_seo() {
 }
 
 build() {
-  uv run make -j$(nproc) all plot index
+  $MISE exec -- uv run make -j$(nproc) all plot index
 
   zola -c build_cloudflare_config.toml build
   install -t public data/appearances_v2.json data/all_matches.json data/all_photos.json data/talent_photos.json
@@ -62,7 +63,7 @@ build() {
 }
 
 
-mise_from_nodemodules
+bootstrap_mise
 # lint
 create_config
 setup_seo
