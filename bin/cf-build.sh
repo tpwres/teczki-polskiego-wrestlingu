@@ -3,7 +3,7 @@
 set -euo pipefail
 
 mise_from_npx() {
-  npx exec -- mise run bootstrap
+  HOME=$(mktemp -d) npm exec mise run bootstrap
 }
 
 lint() {
