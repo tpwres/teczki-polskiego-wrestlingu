@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Bumper is a wrestler working for [Prime Time Wrestling](@/o/ptw.md).
+Fabian is a wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 

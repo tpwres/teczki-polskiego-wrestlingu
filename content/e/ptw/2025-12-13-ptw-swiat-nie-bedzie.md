@@ -40,7 +40,7 @@ has_video = true
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Łukasz Okoński announces Miyagi Sigma #1 Tag Team Contenders Match, gets interrpunted by Pawłowski.
 - - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
-  - 'Drop & Bump: [Dropper](@/w/whiteblade.md) & [Bumper](@/w/fabian.md)'
+  - 'Drop & Bump: [adept Dropper](@/w/whiteblade.md) & [adept Bumper](@/w/fabian.md)'
   - '[Blaze](@/w/blaze.md) & [Bart Petro](@/w/bart-petro.md)'
   - s: Triple Threat Tag Team Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
