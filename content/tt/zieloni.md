@@ -105,7 +105,7 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
 
 ## Timeline
 
-{% embed_svg(path="data/zieloni.svg") %}
+{% embed_svg(path="static/zieloni.svg") %}
 Members of Zieloni wrestled all over the Polish scene.
 {% end %}
 
