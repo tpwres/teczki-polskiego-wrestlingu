@@ -11,7 +11,7 @@ toclevel = 2
 [extra.gallery]
 +++
 
-Road to Royal Rumble is an upcoming 2027 European tour by [WWE](@/o/wwe.md), leading up to that year's edition of the major PPV. It will consist of eight shows in Belgium, the Netherlands, the UK, Sweden, Hungary, Ireland and Poland. The Polish show will take place in the {{ map_pin(v="Prezero Arena") }}Prezero Arena in Gliwice. 
+Road to Royal Rumble is an upcoming 2027 European tour by [WWE](@/o/wwe.md), leading up to that year's edition of the major PPV. It will consist of eight shows in Belgium, the Netherlands, the UK, Sweden, Hungary, Ireland and Poland. The Polish show will take place in the {{ map_pin(v="PreZero Arena") }}PreZero Arena in Gliwice. 
 
 ## Build-up
 
