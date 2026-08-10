@@ -6,8 +6,8 @@
     },
     "properties": {
         "type": "venue",
-        "name": "Prezero Arena",
-        "description": "Prezero Arena in Gliwice, where [WWE](@/o/wwe.mc) held their [2027 Road to Royal Rumble show](@/e/wwe/2027-01-16-wwe-road-to-royal-rumble.md).",
+        "name": "PreZero Arena",
+        "description": "PreZero Arena in Gliwice, where [WWE](@/o/wwe.mc) held their [2027 Road to Royal Rumble show](@/e/wwe/2027-01-16-wwe-road-to-royal-rumble.md).",
         "orgs": ["wwe"]
     }
 }
