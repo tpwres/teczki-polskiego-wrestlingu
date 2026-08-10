@@ -1,25 +1,25 @@
 +++
 title = "Marco Hammers"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
 +++
 
-Marco Hammers is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md). He also made appearances in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Marco Hammers is a retired Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md) and [PpW Ewenement](@/o/ppw.md). He also made appearances in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
-* Years active: 2022-present
+* Years active: 2022-2026
 * Gimmicks/nicknames:
   - Marco "Łysy" Hammers {{ org_badge(orgs=['ptw', 'ppw', 'low', 'mzw']) }}
-  - Marco Hardy {{ org_badge(orgs=['ppw']) }}  (2025-)
+  - Marco Hardy {{ org_badge(orgs=['ppw']) }}  (2025-2026)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-2022)
   - [PTW Academy](@/o/ptw-academy.md) (2022-2024)
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-2026)
 
 ## Professional wrestling career
 
@@ -55,7 +55,7 @@ This championship was a DIY cardboard belt, nevertheless he claimed it to be an 
 This rivalry progressed into an Intergender Tag Team Match at [PTW #6: Total Blast To The Past](@/e/ptw/2024-05-11-ptw-6.md), where Diana Strong and British wrestler Heidi Katrina lost to the bald men again.
 Ultimately, this was Marco's final appearance in Prime Time Wrestling, as he was part of the [talent exodus](@/a/ptw-exits.md) in June 2024.
 
-### PpW Ewenement (2024-present)
+### PpW Ewenement (2024-2026)
 
 #### Zmowa
 
@@ -77,11 +77,11 @@ Despite Zmowa's defeat at Co Za Noc, Marco remained in the stable, often facing 
 
 After his partner from Legia Łysych, Olgierd, won the PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Marco focused on helping the rest of Zmowa to get their hands on the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). He teamed up with Zmowa's newest member [Jakub "Fox"](@/w/jakub.md) in an attempt to prevent [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) from getting into the picture, however with no success. Nevertheless, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) Zmowa (represented by Jakub and Mister Z) won the final bout to become the inaugural PpW Tag Team Champions, and thanks to the [Freebird Rule][freebird-rule], he also got the right to call himself a Champion.
 
-### Maniac Zone Wrestling (2024-present)
+### Maniac Zone Wrestling (2024-2026)
 
 In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he faced and was defeated by another ex-PTW wrestler, [Samson](@/w/samson.md). At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych took on [Syriusz Dziedzic](@/w/dziedzic.md) and an MZW veteran [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a victorious Tag Team Match.
 
-### Legacy of Wrestling (2024-present)
+### Legacy of Wrestling (2024-2026)
 
 #### Feud with Filip Fux
 
@@ -92,6 +92,10 @@ Marco won this match after Olgierd's distraction, and in a post-match beatdown h
 
 This came to fruition at the [second show](@/e/low/2025-04-06-low-2.md), when Marco and Olgierd faced the Fux Brothers for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) in the main event, but they were unable to defeat them.
 
+### Injury and retirement
+
+On 7.08.2026 Marco published a [post][marcontuzja] on Facebook, informing fans that his chronic neck injury he'd sustained at some point in the past is not healing. Since continuing to wrestle would put him at risk of paralysis, Marco was forced to step away from in-ring competition, instead focusing on other ventures. He did not, however, vacate his [MZW Championship](@/c/mzw-championship.md), saying he would look for a different way to pass it on to the next Champion.
+
 ## International wrestling appearances 
 
 Marco started taking international bookings in 2022. That year he made a few appearances for Austrian Rings of Europe, as well as for BODYSLAM! Pro Wrestling in Denmark. From 2023 onwards he, along with his tag team partner [Olgierd](@/w/olgierd.md), took more bookings, most notably for German and Hungarian federations such as Eastside Revolution Wrestling and Passion Pro Wrestling.
@@ -99,23 +103,23 @@ Marco started taking international bookings in 2022. That year he made a few app
 ## In wrestling
 
 * Finishers:
-  - _Testoslam_ (Falling slam) (2022-)
-  - Fisherman Driver (2024-)
+  - _Testoslam_ (Falling slam) (2022-2026)
+  - Fisherman Driver (2024-2026)
 * Tag Teams and stables:
-  - [Legia Łysych](@/tt/legia-lysych.md) (2023-)
-  - [Zmowa](@/tt/zmowa.md) (2024-)
+  - [Legia Łysych](@/tt/legia-lysych.md) (2023-2026)
+  - [Zmowa](@/tt/zmowa.md) (2024-2026)
 * Entrance music:
   - "Now You're a Man" by DVDA
-    {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2022-present)<br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'mzw', 'low']) }} (2022-2026)<br>
     {{ music(yt='851BqHMCaeM')}}
     {{ music(spot='30bm4o7Lurgswlokf1uEIf')}}
   - "Fopa i Nietakt" by Słoń/Mikser, feat. WSRH
-    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-present, in tag team with [Olgierd](@/w/olgierd.md))<br>
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-2026, in tag team with [Olgierd](@/w/olgierd.md))<br>
     {{ music(yt='jt_2gXNBlqU')}}
     {{ music(spot='1OxIrwfSDCCYRWXAmcpM5g')}}
     {{ music(apple='1509575453?i=1509575457')}}
   - "Dawaj na Ring" by Pudzian Band
-    {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
+    {{ org_badge(orgs=['ppw']) }} (2025-2026)<br>
     {{ music(yt='b5I4ql_XI24')}}
     {{ music(spot='1pEycy236yvpnzWkfKjolm')}}
     {{ music(apple='1129943880?i=1129944200')}}
@@ -125,7 +129,7 @@ Marco started taking international bookings in 2022. That year he made a few app
     {{ music(spot='0p9YTj9YGtBSWg1z6DxKNm')}}
     {{ music(apple='621624800?i=621624895')}}
     - "HUNDRED JOINTS" by Pharmacist & Cloudymane
-    {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
+    {{ org_badge(orgs=['ppw']) }} (2025-2026, as part of [Zmowa](@/tt/zmowa.md)) <br>
     {{ music(yt='7cXmA6CiW-g')}}
     {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
     {{ music(apple='1606979069?i=1606979070')}}
@@ -148,6 +152,8 @@ Marco started taking international bookings in 2022. That year he made a few app
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=26808)
 * [Interview with "Marco Hardy"](https://www.instagram.com/reel/DMYA9Z0oWrW/)
+* [Marco on his injury and retirement][marcontuzja]
 
 [legia-warszawa]: https://en.wikipedia.org/wiki/Legia_Warsaw
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
+[marcontuzja]: https://www.facebook.com/marco.wrestling/posts/pfbid034XpMtJYreTCnerbY6CbmRBSb58YYb8UZM4g3UvCTU7FX53t2CgM7wAfdXWaWt1fEl
