@@ -1,2 +1,11 @@
 001 = { path = "ppw-chaos-na-rewirach.webp", caption = 'Official poster, featuring [Mutant](@/w/mutant.md).', source = "Official PpW Facebook" }
 002 = { path = "kran-krolowej.webp", caption = 'Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Gabriel Queen](@/w/gabriel-queen.md).', source = "Official PpW Facebook" }
+003 = { path = "the-hardcors-na-rewirach.jpg", caption = 'Image announcing [Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md).', source = "Official PpW Facebook" }
+004 = { path = "gabriel-queen-na-rewirach.jpg", caption = 'Image announcing [Gabriel Queen](@/w/gabriel-queen.md).', source = "Official PpW Facebook" }
+005 = { path = "goblin-na-rewirach.jpg", caption = 'Image announcing [Goblin](@/w/goblin.md).', source = "Official PpW Facebook" }
+006 = { path = "zmowa-na-rewirach.jpg", caption = 'Image announcing [Olgierd](@/w/olgierd.md), [Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md).', source = "Official PpW Facebook" }
+007 = { path = "rodzina-na-rewirach.jpg", caption = 'Image announcing [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Isnorr](@/w/isnorr.md) and [Vic Golden](@/w/vic-golden.md).', source = "Official PpW Facebook" }
+008 = { path = "boro-i-mutant-na-rewirach.jpg", caption = 'Image announcing [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md).', source = "Official PpW Facebook" }
+009 = { path = "jacob-crane-na-rewirach.jpg", caption = 'Image announcing [Jacob Crane](@/w/jacob-crane.md).', source = "Official PpW Facebook" }
+010 = { path = "max-speed-na-rewirach.jpg", caption = 'Image announcing [Max Speed](@/w/max-speed.md).', source = "Official PpW Facebook" }
+011 = { path = "leon-lato-na-rewirach.jpg", caption = 'Image announcing [Leon Lato](@/w/leon-lato.md).', source = "Official PpW Facebook" }
