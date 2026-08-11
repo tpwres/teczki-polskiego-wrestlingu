@@ -66,7 +66,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
 ## Highlights
 
 * Upon Marcelito's entrance, fans greeted him with "Cuck!" chants, to his obvious displeasure. This was a reference to [Boro](@/w/boro.md) and [Mutant's](@/w/mutant.md) [video][cuck], where the latter, now serving as a bodyguard to Boro, answers a knock on the door. We see Marcelito start to ask for something, but Mutant slams the door back on him, and reports "some cuck" back to his boss.
-* Upon winning the Next Big Thing Battle Royale, Adept Gringo took the mic. Before he could talk, a mocking call from the audience posited that he must be red-headed. This prompted the rest of the room to chant "[Isnorr](@/w/isnorr.md)" at him, despite the masked figure clearly not matching Isnorr's height. He then cut a brief promo in a high-pitched voice, and proceeded to remove his black gear, revealing that of [JAKUB's](@/w/jakub.md) underneath, followed by his mask. Continuing his promo in a normal voice, he challenged Szymon Kurczab to a match.
+* Upon winning the Next Big Thing Battle Royale, adept Gringo took the mic. Before he could talk, a mocking call from the audience posited that he must be red-headed. This prompted the rest of the room to chant "[Isnorr](@/w/isnorr.md)" at him, despite the masked figure clearly not matching Isnorr's height. He then cut a brief promo in a high-pitched voice, and proceeded to remove his black gear, revealing that of [JAKUB's](@/w/jakub.md) underneath, followed by his mask. Continuing his promo in a normal voice, he challenged Szymon Kurczab to a match.
 
 ## References
 
