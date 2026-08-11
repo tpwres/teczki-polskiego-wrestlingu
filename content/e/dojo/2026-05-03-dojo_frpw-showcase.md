@@ -18,7 +18,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
 
 ## Build-up
 
-* For this show, PpW extended an offer to all active wrestlers from the Polish scene, encouraging them to sign up for the event. The first non-PpW worker to respond was [Szymon Kurczab](@/w/rookie-two.md) from [Kombat Pro Wrestling](@/o/kpw.md), known in his parent promotion as Rookie Two - on 26.04.2026 he was announced to face [Jakub](@/w/jakub.md). Szymon had previously attended [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) as a regular audience member.
+* For this show, PpW extended an offer to all active wrestlers from the Polish scene, encouraging them to sign up for the event. The first non-PpW worker to respond was [Szymon Kurczab](@/w/adept-dwa.md) from [Kombat Pro Wrestling](@/o/kpw.md), known in his parent promotion as Adept Dwa - on 26.04.2026 he was announced to face [Jakub](@/w/jakub.md). Szymon had previously attended [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) as a regular audience member.
 * On 27.04.2026, a women's match was announced. [Martynka](@/w/gloria-g-szek.md) - now billed with an added "Szeku" nickname - is going to make her singles debut against [Agentka Agatka](@/w/agentka-agatka.md). This marks the first women's match between two Polish performers in over six years - last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).
 * Also on that day, PpW personality [Joker](@/w/joker.md) stated he would return to the ring announcing role. Previously, he announced matches in PpW pre-shows.
 * The next day another match was announced. After [PpW Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), [Mutant](@/w/mutant.md) has been obliged to serve as [Boro's](@/w/boro.md) bodyguard. The duo is going to test their alliance against the team of [Bartosz Plata](@/w/plata.md) & [Max Speed](@/w/max-speed.md).
@@ -43,7 +43,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
   - s: 'Next Big Thing Battle Royale'
     x: [1] # Don't make Gringo an official alias
 - - '[JAKUB](@/w/jakub.md)'
-  - '[Szymon Kurczab](@/w/rookie-two.md)'
+  - '[Szymon Kurczab](@/w/adept-dwa.md)'
 - - '[Olgierd](@/w/olgierd.md)'
   - 'adept Mikołaj "SKS"'
 - - '[Olgierd](@/w/olgierd.md)'
@@ -66,7 +66,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
 ## Highlights
 
 * Upon Marcelito's entrance, fans greeted him with "Cuck!" chants, to his obvious displeasure. This was a reference to [Boro](@/w/boro.md) and [Mutant's](@/w/mutant.md) [video][cuck], where the latter, now serving as a bodyguard to Boro, answers a knock on the door. We see Marcelito start to ask for something, but Mutant slams the door back on him, and reports "some cuck" back to his boss.
-* Upon winning the Next Big Thing Battle Royale, Rookie Gringo took the mic. Before he could talk, a mocking call from the audience posited that he must be red-headed. This prompted the rest of the room to chant "[Isnorr](@/w/isnorr.md)" at him, despite the masked figure clearly not matching Isnorr's height. He then cut a brief promo in a high-pitched voice, and proceeded to remove his black gear, revealing that of [JAKUB's](@/w/jakub.md) underneath, followed by his mask. Continuing his promo in a normal voice, he challenged Szymon Kurczab to a match.
+* Upon winning the Next Big Thing Battle Royale, Adept Gringo took the mic. Before he could talk, a mocking call from the audience posited that he must be red-headed. This prompted the rest of the room to chant "[Isnorr](@/w/isnorr.md)" at him, despite the masked figure clearly not matching Isnorr's height. He then cut a brief promo in a high-pitched voice, and proceeded to remove his black gear, revealing that of [JAKUB's](@/w/jakub.md) underneath, followed by his mask. Continuing his promo in a normal voice, he challenged Szymon Kurczab to a match.
 
 ## References
 

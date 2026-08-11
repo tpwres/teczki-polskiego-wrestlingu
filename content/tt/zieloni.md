@@ -92,7 +92,7 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
     * Newcomer of the Year - Vic Golden (2022)
 * [Maniac Zone Wrestling](@/o/mzw.md):
   - [MZW Championship](@/c/mzw-championship.md) (1 time) - Rafael Kid
-  - Rookie's Battle Royal (2019) - Aron Wake
+  - Rookies' Battle Royal (2019) - Aron Wake
   - Project Basement Trophy (2021) - Aron Wake
 * [Legacy of Wrestling](@/o/low.md):
   - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - Jakub
