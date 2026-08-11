@@ -42,7 +42,7 @@ In October 1991 Supron considered a second tour of the ex-Soviet republics, but 
 ## References
 
 * [MyWrestling's article about history of SupronStars](https://mywrestling.com.pl/historia-polskiego-wrestlingu-1-supronstars-gala-w-torwarze-ppwf) (in Polish)
-* [An Ambitious Pro Wrestling Tour of the Soviet Union in 1990](https://phil-lions-research.blogspot.com/2026/07/supron-ussr-tour.html) (in English)
+* [An Ambitious Pro Wrestling Tour of the Soviet Union in 1990](https://phil-lions-research.blogspot.com/2026/07/supron-ussr-tour.html) by Phil Lions (in English)
 
 [generalna-gubernia]: https://en.wikipedia.org/wiki/General_Government
 [komar]: https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Komar
