@@ -46,7 +46,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
   - nc: upcoming
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '???'
-  - nc: upcoming
+  - nc: upcoming 
 {% end %}
 
 ## References
