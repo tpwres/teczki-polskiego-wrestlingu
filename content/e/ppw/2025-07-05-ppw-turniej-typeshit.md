@@ -64,7 +64,7 @@ Turniej TypeShit (_Tournament-Type Shit_) was a show by [PpW Ewenement Wrestling
 
 * Zmowa entered with Mister Z proudly brandishing the briefcase he won at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) one week prior.
 * Olgierd announced in his promo that he is now aiming for the [PpW Championship](@/c/ppw-championship.md), while Gustav has to "step into the shadows" for now.
-* After defeating Rookie Antek, Mister Z told Olgierd and Marco to hold him down, and decked the rookie with his briefcase. Then he handed it over to Gustav to do the same, which he did, but with visible hesitation and slight discomfort.
+* After defeating adept Antek, Mister Z told Olgierd and Marco to hold him down, and decked the rookie with his briefcase. Then he handed it over to Gustav to do the same, which he did, but with visible hesitation and slight discomfort.
 * Michael HT came out with Marco Hammers to announce that Marco's tournament opportunity is a gauntlet match.
 * During his match with Agentka Agatka, fans ribbed the ultra-masculine, misogynist Marco with "Baba cię bije" (_A woman is beating you up_), to which he responded that her place is in the kitchen. Picking up on this, Agatka declared mid-maneouver that her place is not in the kitchen, but on the third rope, to great audience pop.
 * Later in the match, Agatka hit Marco with a running hip attack. In a comedic spot, Marco seemed to actually be aroused by it and requested more, to her disgusted reaction.

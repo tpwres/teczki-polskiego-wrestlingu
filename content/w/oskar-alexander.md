@@ -25,7 +25,7 @@ Oskar Alexander is a Polish wrestler best known for his time in [PpW Ewenement](
 
 ### PpW Ewenement (2024-present)
 
-#### Training and debut as Rookie Oskar
+#### Training and debut as adept Oskar
 
 Oskar Alexander started his wrestling training in [Ewenement Dojo](@/o/dojo.md) - a training facility operated mostly by PpW-affiliated wrestlers, with [Jacob Crane](@/w/jacob-crane.md) as the head coach.
 In the span of a few months he became ready for his in-ring debut.

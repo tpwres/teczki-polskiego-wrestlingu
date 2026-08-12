@@ -28,7 +28,7 @@ Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenem
 ### Maniac Zone Wrestling (2018-2021)
 
 Gabriel Queen started his pro wrestling career as Nathan Cross, at the MZW academy, training under [Justin Joy](@/w/justin-joy.md), [Asmund](@/w/asmund.md) and [Shadow](@/w/shadow.md).
-He made his debut in a Rookie Battle Royal at [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), ending runner-up to eventual winner [Aron Wake](@/w/aron-wake.md).
+He made his debut in a Rookies' Battle Royal at [MZW Project 6: Death & Glory](@/e/mzw/2019-08-24-mzw-project-6-death-and-glory.md), ending runner-up to eventual winner [Aron Wake](@/w/aron-wake.md).
 His singles match debut was a couple months later, at [MZW Project 7: Golden Road](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), where he was defeated by [Axel Fox](@/w/jakub.md).
 During that time, he also became the one of founding members of "[The Greens](@/tt/zieloni.md)".
 He also made appearances at MZW's taped shows during the COVID-19 pandemic, a series of episodes titled [MZW Project Basement](@/e/project-basement.md), where he was managed by [Isnorr](@/w/isnorr.md).

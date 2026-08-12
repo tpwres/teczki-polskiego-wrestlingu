@@ -111,7 +111,7 @@ Timestamps refer to the YouTube video linked in the [References](#references) se
 * After the victory, Gustav celebrates in the ring for awhile, listening to the crowd's "Get the fuck out!" chants and booing.
 * During a short brake between matches the ring is cleared by PpW's referees and staff to get rid of the leather belts.
 
-#### Fatal Four-Way Match: Sambor vs Marcelito v Aron Wake v Rookie Oskar
+#### Fatal Four-Way Match: Sambor vs Marcelito v Aron Wake v adept Oskar
 
 * Michael HT announces the second fight of the night, while [Referee Karol Górski](@/w/sedzia-karol-gorski.md) already waits in the ring.
 * Timestamp: `2:11:32`
