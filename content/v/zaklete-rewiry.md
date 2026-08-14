@@ -4,7 +4,7 @@ template = "venue_page.html"
 authors = ["M3n747"]
 [extra.geo]
 coordinates = '51.090521/17.065718'
-orgs = ['mzw']
+orgs = ['ppw']
 [extra.gallery]
 1 = { path = "zajete-teriery.webp", caption = "Outside view of the venue after [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md).", source = "M3n747" }
 +++
