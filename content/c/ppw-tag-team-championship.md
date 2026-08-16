@@ -155,7 +155,6 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
   - s: Tag Team Match
     en: '[PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md)'
     ed: 2026-08-15
-    nc: upcoming
 {% end %}
 
 ## References
