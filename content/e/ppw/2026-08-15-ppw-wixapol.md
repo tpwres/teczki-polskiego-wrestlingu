@@ -61,4 +61,6 @@ Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) is an upcoming event to
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=460542)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-x-wixapol-wrestling-rave-na-basenie-08-15-2026-22-24-23) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02ALHWCmiRutmgjFE4HiiUFEcbWAoLAYPxPuv1KNdmC571Ffoz2XQtSZZPzLUr4nq8l)
