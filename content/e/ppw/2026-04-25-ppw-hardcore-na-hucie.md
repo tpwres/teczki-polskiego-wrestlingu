@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["Szymon Iwulski", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["ppw"]
-venue = ["P23"]
+venue = ["p23"]
 [extra]
 city = "Katowice"
 toclevel = 2
