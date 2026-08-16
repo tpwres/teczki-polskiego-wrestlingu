@@ -30,7 +30,7 @@ Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) is an upcoming event to
   - 'Kalyana'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - s: Triple Threat Match
-- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)'
+- - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) w/ Gaba'
   - '[Tony Sheen](@/w/riverman.md) & [Biesiad Strong](@/w/biesiad.md) & [Boro](@/w/boro.md)'
   - s: 3-vs-3 Extreme Swimming Pool Elimination Match
 - - '[Isnorr](@/w/isnorr.md)'
