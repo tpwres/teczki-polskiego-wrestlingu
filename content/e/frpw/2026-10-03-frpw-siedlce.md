@@ -17,9 +17,18 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 
 ## Build-up
 
-* TBD
+* On 3.08.2026 FRPW announced the HeelTurn Invitational Tournament for the HeelTurn Trophy (the details of which were not specified).
+* The next day the first four entrants were revealed, including [Olgierd](@/w/olgierd.md).
+* The frist tournament match-up to be published was [Olgierd](@/w/olgierd.md) vs [Oskar Alexander](@/w/oskar-alexander.md), psoted on 17.08.2026.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - s: HeelTurn Invitational Tournament
+    nc: upcoming
+{% end %}
 
 ## Highlights
 

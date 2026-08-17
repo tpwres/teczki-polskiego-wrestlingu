@@ -1,1 +1,4 @@
 01 = { path = "frpw-siedlce-plakat.webp", caption = "Official poster featuring [Jacob Crane](@/w/jacob-crane.md) vs adept Sawo (left) and [Leon Lato](@/w/leon-lato.md) vs Oskar Alexander (right).", source = "Official FRPW Facebook" }
+02 = { path = "zapowiedz.webp", caption = "Image announcing the HeelTurn Invitational Tournament.", source = "Official FRPW Facebook" }
+03 = { path = "olgierd.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md).", source = "Official FRPW Facebook" }
+04 = { path = "olgierd-vs-oskar-alexander.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
