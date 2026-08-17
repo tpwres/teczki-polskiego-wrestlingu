@@ -19,6 +19,7 @@ has_video = false
 * The poster, released on 6.08.2026, promised a 20-Man Gold Rush Rumble Match.
 * On 15.08.2026 PTW announced that the match to open the show will be [Spartan](@/w/spartan.md) vs [Misiek](@/w/misiek.md) for the [PTW Championship](@/c/ptw-championship.md).
 * The first Gold Rush entrant, announced on 16.08.2026, was [CJ Klakson](@/w/cj-klakson.md).
+* The second entrant, revealed the next day, was [Nano Lopez](@/w/nano-lopez.md).
 
 ## Predicted card
 
@@ -28,7 +29,7 @@ has_video = false
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
-  - '???'
+  - '[Nano Lopez](@/w/nano-lopez.md)'
   - '???'
   - '???'
   - '???'
