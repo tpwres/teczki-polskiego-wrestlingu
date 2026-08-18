@@ -20,6 +20,7 @@ has_video = false
 * On 15.08.2026 PTW announced that the match to open the show will be [Spartan](@/w/spartan.md) vs [Misiek](@/w/misiek.md) for the [PTW Championship](@/c/ptw-championship.md).
 * The first Gold Rush entrant, announced on 16.08.2026, was [CJ Klakson](@/w/cj-klakson.md).
 * The second entrant, revealed the next day, was [Nano Lopez](@/w/nano-lopez.md).
+* The third: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), on 18.08.2026.
 
 ## Predicted card
 
@@ -30,7 +31,7 @@ has_video = false
     nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
-  - '???'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - '???'
   - '???'
   - '???'
