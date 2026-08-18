@@ -28,7 +28,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 - - 'Shigehiro Irie'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - nc: upcoming
-- - '[Boro](@/w/boro.md) & Mutant'
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - '???'
   - nc: upcoming
 - - 'Kalyana'

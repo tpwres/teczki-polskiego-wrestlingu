@@ -27,7 +27,7 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 - - 'Shigehiro Irie'
   - '???'
   - nc: upcoming
-- - '[Boro](@/w/boro.md) & Mutant'
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - '???'
   - nc: upcoming
 - - 'Kalyana'
