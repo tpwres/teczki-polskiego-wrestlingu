@@ -14,8 +14,8 @@ Kalyana is a Ukrainian wrestler best known for working with [Fundacja Rozwoju Po
 
 * Years active: 2026-
 * Gimmicks/nicknames:
-  - adeptka Yana {{ org_badge(orgs=['frpw']) }}
-  - Kalyana {{ org_badge(orgs=['frpw', 'ppw') }}
+  - adeptka Yana {{ org_badge(orgs=['frpw']) }} (2026)
+  - Kalyana {{ org_badge(orgs=['frpw', 'ppw']) }} (2026-present)
 * Trained by:
   - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (202?-)
 

@@ -2,5 +2,5 @@
 02 = { path = "shige-san.webp", caption = "Image announcing Shigehiro Irie.", source = "Official FRPW Facebook" }
 03 = { path = "shige-vs-crane.webp", caption = "Image announcing Shigehiro Irie vs [Jacob Crane](@/w/jacob-crane.md).", source = "Official FRPW Facebook" }
 04 = { path = "mutant-boro.webp", caption = "Image announcing [Mutant](@/w/mutant.md) & [Boro](@/w/boro.md).", source = "Official FRPW Instagram" }
-05 = { path = "kalyana.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md).", source = "Official FRPW Instagram" }
+05 = { path = "kalyana.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md).", source = "Official FRPW Instagram", skip_art = true }
 99 = { path = "plakaty-wieszajo.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) at the venue, putting up posters for the show.", source = "Official FRPW Facebook" }
