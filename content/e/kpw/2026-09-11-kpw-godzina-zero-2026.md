@@ -19,12 +19,16 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 
 * At [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) [Markus Paskal](@/w/markus-paskal.md) scored his first victory. His mentor, [Kamil Aleksander](@/w/kamil-aleksander.md), then told him that his final test would be fighting him at Godzina Zero.
 * At the same show [Greg](@/w/greg.md) forced [Krystian Malinowski](@/w/krystian-malinowski.md) to give him the title match by prostrating himself in the ring and refusing to get up.
+* The relations between the [Fux Brothers](@/tt/bracia-fux.md) have been deteriorating since losing the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), and their confrontation at the [last show](@/e/kpw/2026-06-26-kpw-arena-34.md) ended with [Filip](@/w/filip-fux.md) attacking [Michał](@/w/michal-fux.md). Thus, on 18.08.2026 KPW announced a match between the two brothers.
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[Markus Paskal](@/w/markus-paskal.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - nc: upcoming
+- - '[Michał Fux](@/w/michal-fux.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
   - nc: upcoming
 - - '[Greg](@/w/greg.md)'
   - '[Iestyn Rees](@/w/iestyn-rees.md)(c)'
