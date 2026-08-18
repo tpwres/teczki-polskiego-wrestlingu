@@ -155,6 +155,12 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
   - s: Tag Team Match
     en: '[PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md)'
     ed: 2026-08-15
+- - 'Rodzina: Vic Golden & Oskar Alexander(c)'
+  - 'The Hardcores: [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - s: Tag Team Match
+    en: '[PpW Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
+    ed: 2026-09-26
+    nc: upcoming
 {% end %}
 
 ## References
