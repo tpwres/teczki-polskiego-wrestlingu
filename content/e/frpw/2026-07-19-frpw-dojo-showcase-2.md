@@ -32,7 +32,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - 'adept Sawo'
-- - '[Max Speed](@/w/max-speed.md) & adeptka Yana'
+- - '[Max Speed](@/w/max-speed.md) & [adeptka Yana](@/w/kalyana.md)'
   - '[Emil Völler](@/w/emil-voeller.md) & adeptka Maria'
   - s: Mixed Tag Team Match
 - - 'Barbarossa'
