@@ -12,9 +12,13 @@ hide_events = true
 compact_event_list = true
 +++
 
-Center of Wrestling is a Polish multi-format wrestling project founded in mid-2026 by ex-[DFW](@/o/dfw.md) workers.
+Center of Wrestling is a Polish multi-format wrestling project founded in mid-2026 by ex-[DFW](@/o/dfw.md) workers and currently based in Grudziądz. They share multimedia content related to international pro-wrestling, as well as training videos. Down the line, the aim is to hold a proper wrestling show.
 
 ## History
+
+### Formation.
+
+Chris Hunter, PJ Blake, Corin Mear and Pain Killer
 
 Tu coś o tym że naprawili ring, szukali ludzi na FB i że Paterek się losowo pojawił na treningu w [tamtym filmiku][paterek-w-garazu], kanał YT koło września, show bliżej końca roku.
 
