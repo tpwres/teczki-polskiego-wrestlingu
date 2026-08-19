@@ -2,7 +2,7 @@
 title = "Center of Wrestling"
 weight = 0
 template = "org_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chrono_root = ["cow"]
 [extra]
@@ -16,7 +16,7 @@ Center of Wrestling is a Polish multi-format wrestling project founded in mid-20
 
 ## History
 
-### Formation.
+### Formation
 
 Chris Hunter, PJ Blake, Corin Mear and Pain Killer
 
