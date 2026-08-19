@@ -21,6 +21,8 @@ has_video = false
 * The first Gold Rush entrant, announced on 16.08.2026, was [CJ Klakson](@/w/cj-klakson.md).
 * The second entrant, revealed the next day, was [Nano Lopez](@/w/nano-lopez.md).
 * The third: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), on 18.08.2026.
+* Later the same day came the announcement of [Daniel Razor](@/w/daniel-razor.md) vs [Fabian](@/w/fabian.md) in a Singles Match.
+* Fourth Gold Rush Rumble entrant was [Vincent Caravaggio](@/w/vincent-caravaggio.md), announced the next day.
 
 ## Predicted card
 
@@ -29,10 +31,13 @@ has_video = false
   - '[Misiek](@/w/misiek.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
     nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Fabian](@/w/fabian.md)'
+  - nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - '???'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '???'
   - '???'
   - '???'
