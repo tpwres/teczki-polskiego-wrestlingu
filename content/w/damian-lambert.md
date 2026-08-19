@@ -27,7 +27,7 @@ Damian Lambert - also known as Damien Rothschild - is a Polish wrestler currentl
 
 ### Do Or Die Wrestling (2015)
 
-Damian Lambert made his wrestling debut in [Do Or Die Wrestling](@/o/ddw.md) in March 2015 at their [House Show](@/e/ddw/2015-03-14-ddw-house-show-1.md). In total he made two appearances for DDW - both in Rookie Battle Royal Matches - before DDW folded its operations.
+Damian Lambert made his wrestling debut in [Do Or Die Wrestling](@/o/ddw.md) in March 2015 at their [House Show](@/e/ddw/2015-03-14-ddw-house-show-1.md). In total he made two appearances for DDW - both in Rookies' Battle Royal Matches - before DDW folded its operations.
 
 ### Kombat Pro Wrestling (2015-2016)
 

@@ -9,8 +9,8 @@
 0205 = { path = "cant-spell-niemiec-without-nie.webp", caption = "…who in turn are chased off by Filip Fux and Michał Fux.", source = "M3n747" }
 
 0301 = { path = "4-kilogramy-obywatela-mniej.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) misses his chance to use the championship contract.", source = "M3n747" }
-0302 = { path = "eryk-lesak-gnebi-przyszlosc-federacji-oraz-narodu.webp", caption = "Lesak vents his frustration on Rookie Three.", source = "M3n747" }
-0303 = { path = "adept-leci-na-lesaka.webp", caption = "Rookie Three launches himself at Eryk Lesak.", source = "M3n747" }
+0302 = { path = "eryk-lesak-gnebi-przyszlosc-federacji-oraz-narodu.webp", caption = "Lesak vents his frustration on Adept Trzy.", source = "M3n747" }
+0303 = { path = "adept-leci-na-lesaka.webp", caption = "Adept Trzy launches himself at Eryk Lesak.", source = "M3n747" }
 0304 = { path = "i-usmiech-do-kamery-poprosze.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) emerges victorious.", source = "M3n747" }
 
 0401 = { path = "blue-collar-worker.webp", caption = "[Chemik](@/w/chemik.md) cuts a promo. To the right stands Kinga Miotke.", source = "M.E.G." }
@@ -29,13 +29,13 @@
 0701 = { path = "erik-asmus.webp", caption = "Erik Asmus.", source = "M3n747" }
 0702 = { path = "a-nie-mowilem-ze-nie-bedzie-niemiec.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) declares [Michał Fux](@/w/michal-fux.md) the winner of the match.", source = "M3n747" }
 
-0801 = { path = "doberek-mysma-powrestlowac-chcieli.webp", caption = "[Rookie One](@/w/oskar-haller.md) and [Rookie Two](@/w/rookie-two.md) address the Chairman.", source = "M3n747" }
+0801 = { path = "doberek-mysma-powrestlowac-chcieli.webp", caption = "[Adept Jeden](@/w/oskar-haller.md) and [Adept Dwa](@/w/adept-dwa.md) address the Chairman.", source = "M3n747" }
 0802 = { path = "no-sluchajta-wy-mie-tu-teraz.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) responds.", source = "M3n747" }
 0803 = { path = "pojdz-dziecie-ja-cie-wrestlowac-kaze.webp", caption = "[Chemik](@/w/chemik.md) comes out of his brief retirement to fight one of the rookies.", source = "M3n747" }
 
-0901 = { path = "chemik-zrobil-tak-ze-bolalo.webp", caption = "[Rookie One](@/w/oskar-haller.md) reels from [Chemik's](@/w/chemik.md) strong offence.", source = "M3n747" }
-0902 = { path = "polez-odsapnij-sobie-a-potem-go-rozwal.webp", caption = "Rookie Two checks on Rookie One, thrown out of the ring by his opponent.", source = "M3n747" }
-0903 = { path = "raz-dwa-trzy-i-pozamiatane.webp", caption = "Rookie One scores a surprise victory over Chemik with a quick roll-up.", source = "M3n747" }
+0901 = { path = "chemik-zrobil-tak-ze-bolalo.webp", caption = "[Adept Jeden](@/w/oskar-haller.md) reels from [Chemik's](@/w/chemik.md) strong offence.", source = "M3n747" }
+0902 = { path = "polez-odsapnij-sobie-a-potem-go-rozwal.webp", caption = "Adept Dwa checks on Adept Jeden, thrown out of the ring by his opponent.", source = "M3n747" }
+0903 = { path = "raz-dwa-trzy-i-pozamiatane.webp", caption = "Adept Jeden scores a surprise victory over Chemik with a quick roll-up.", source = "M3n747" }
 
 1001 = { path = "gacie-bez-faceta.webp", caption = "A fan with David Oliwa's old undies.", source = "M3n747" }
 1002 = { path = "miszcze-podobno.webp", caption = "[Ricky Sky](@/w/ricky-sky.md) and [David Oliwa](@/w/david-oliwa.md) pose in front of the ring.", source = "M3n747" }

@@ -39,7 +39,7 @@ MZW Project 8 was announced on 29.02.2020, set to take place on 25.04.2020. A fe
   -  '[_rookie_ Rafi Rarytas](@/w/rafi.md)'
   -  '???'
   -  '???'
-  -  s: 'Seven Man Rookies Battle Royal'
+  -  s: "Seven-Man Rookies' Battle Royal"
 - - '[Rafael Kid](@/w/rafael-kid.md)'
   - '[Aron Wake](@/w/aron-wake.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'

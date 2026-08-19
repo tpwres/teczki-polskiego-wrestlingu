@@ -193,4 +193,8 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) is established.
 * [Olgierd](@/w/olgierd.md) is booked for a match at [KPW Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), which marks two significant milestones: it makes him the first active wrestler from another promotion to work for [KPW](@/o/kpw.md), and the first Polish wrestler to have worked for all active federations in the country as of 2026 ([PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md)).
 * [Center of Wrestling](@/o/cow.md) is established.
+
+#### 2027
+
+* [WWE](@/o/wwe.md) return with [Road to Royal Rumble Live Show](@/e/wwe/2027-01-16-wwe-road-to-royal-rumble.md), this time in Gliwice.
 {% end %}

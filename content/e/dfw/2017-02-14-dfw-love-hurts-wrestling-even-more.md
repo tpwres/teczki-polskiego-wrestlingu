@@ -8,10 +8,7 @@ chronology = ["dfw"]
 city = "Toruń"
 toclevel = 2
 has_video = true
-[extra.gallery.poster]
-path = "dfw-love-hurts-poster.webp"
-caption = "Official poster featuring [Chris Hunter](@/w/chris-hunter.md), [PJ Blake](@/w/pj-blake.md), [Revage](@/w/rafael-kid.md) and [Corin Maer](@/w/corin-mear.md)."
-source = "Facebook @DreamFactoryWrestling"
+[extra.gallery]
 +++
 
 This was the DFW Valentine's day event of 2017. Held once again in {{ map_pin(v="ZSGH Toruń") }}ZSGH which previously saw wrestling during its [Open Days](@/e/dfw/2016-04-22-dfw-zsgh-open-days.md), this event is notable for being the debut of [DFW's](@/o/dfw.md) first and only female wrestler Hekate.

@@ -75,7 +75,7 @@ The tube was signed by the following people:
 - [Tomczak](@/w/tomczak.md)
 - [Wiktor Longman](@/w/wiktor-longman.md)
 
-When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't wish to unify with people who are beneath him. [Zefir](@/w/zefir.md) refused as well, but did not say why.
+When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't wish to unify with people who are beneath him. [Zefir](@/w/zefir.md) declined as well, but did not say why.
 
 ## Signatures on the second tube
 
@@ -83,10 +83,12 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Agentka Agatka](@/w/agentka-agatka.md) (first to sign the second tube)
 - [Antoni Ocean](@/w/antoni-ocean.md)
 - [Boro](@/w/boro.md)
+- [Gloria G Szek](@/w/gloria-g-szek.md)
 - [Hexia](@/w/hexia.md)
 - [Istociarz](@/w/istociarz.md)
 - [Joker](@/w/joker.md)
 - [Kamil Aleksander](@/w/kamil-aleksander.md)
+- [Karyna](@/w/karyna.md)
 - [Krzysztof Foryst](@/w/krzysztof-zasada.md)
 - [Marcelito](@/w/marcelito.md)
 - [Markus Paskal](@/w/markus-paskal.md)

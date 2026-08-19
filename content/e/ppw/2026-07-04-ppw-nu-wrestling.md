@@ -29,7 +29,7 @@ Nü Wrestling was a show by [PpW Ewenement's](@/o/ppw.md) held in [2KOŁA Motorc
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Gloria G Szek](@/w/istotna-martynka.md)'
+  - '[Gloria G Szek](@/w/gloria-g-szek.md)'
 - - '[Bad Trip](@/tt/bad-trip.md): [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - g: Gustav announces a longer hiatus due an to injury, Mister Z stripped Bad Trip of their titles.
@@ -48,7 +48,7 @@ Nü Wrestling was a show by [PpW Ewenement's](@/o/ppw.md) held in [2KOŁA Motorc
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - g: Crane challenges Queen for his title.
 - - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - "['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)"
+  - '["Ladykiller" Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
 - credits:

@@ -24,7 +24,7 @@ No Time to Die 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow
 * On 16.03.2026 [Oskar Alexander](@/w/oskar-alexander.md) issued an open challenge "to show all the fans his pride and greatness".
 * In a [video][matta-nie-bedzie] posted on 23.03.2026 Matt Buckna explained that he won't be able to attend the show after all due to a recent shoulder injury. [Tony Sheen](@/w/riverman.md), in his [response][tony-poplynal] posted the next day, berated Buckna for not putting in the effort and addressed the federation's management to give him the match against Gustav Gryffin for the MZW Championship instead.
 * On 25.03.2026 MZW [announced][matt-bez-pasa] that since Matt Buckna won't defend his title at the show, the MZW Championship is hereby vacated and Gustav will face another opponent in a match to determine the new Champion.
-* The next day MZW announced [Febus 'The Wolf'](@/w/apollo-anderson.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).
+* The next day MZW announced [Febus "The Wolf"](@/w/apollo-anderson.md) vs [Syriusz Dziedzic](@/w/dziedzic.md).
 
 ## Card
 
@@ -37,9 +37,9 @@ No Time to Die 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow
 - - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - '[Shadow](@/w/shadow.md) & [Marcelito](@/w/marcelito.md)'
   - s: Tag Team match
-- - "[Febus 'The Wolf'](@/w/apollo-anderson.md)"
+- - '[Febus "The Wolf"](@/w/apollo-anderson.md)'
   - '[Syriusz Dziedzic](@/w/dziedzic.md)'
-- - "['Fox' Jakub](@/w/jakub.md)(c)"
+- - '["Fox" Jakub](@/w/jakub.md)(c)'
   - '[Max Speed](@/w/max-speed.md)'
   - c: '[Legacy of Wrestling European Championship](@/c/low-european-championship.md)'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
@@ -62,12 +62,12 @@ No Time to Die 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow
 ### Highlights
 
 * The new venue's main room was just wide enough to fit the ring, sandwiched between the walls with little room on the sides. The audience was thus split into two sections, divided by the ring. Both standing places and seats were available. One of the entrances into the room doubled as the Gorilla position.
-* [Aron Wake](@/w/aron-wake.md) attended the show as an audience member, as did [Istotna Martynka](@/w/istotna-martynka.md).
+* [Aron Wake](@/w/aron-wake.md) attended the show as an audience member, as did [Istotna Martynka](@/w/gloria-g-szek.md).
 * [Adrian Zgórski](@/w/adrian-zgorski.md) received the customary chants of ["pokaż dupę!"](@/a/polish-wrestling-chants.md#calls-to-action) (_show your ass!_). This time, however, he responded by taking off his usual shirt and revealing a T-shirt with cartoon buttocks and a text reading "Pokaż doope" (_Show your arze_), in MZW green colors. The T-shirt was available at the merch stand.
 * As Adrian was beginning to announce the first match, [Tony Sheen](@/w/riverman.md) (accompanied by [Arek Paterek](@/w/arek-paterek.md)) came out and demanded a spot in the main event. Paterek then prevented Adrian from reading his card with the actual participants, and inserted Tony into the match.
 * [Mister Z](@/w/mister-z.md) came out with the contract briefcase he won at [MZW Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
 * After [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md) entered the ring, the lights suddenly went out. When they came back on, [Shadow](@/w/shadow.md) and [Marcelito](@/w/marcelito.md) were waiting perched on the turnbuckles.
-* [Syriusz Dziedzic](@/w/dziedzic.md) cut a promo in which he talked about him discovering wrestling, what it meant to him, how he decided to become a wrestler and the Champion. He ended by saying "Dajcie mi tego jebanego wilka, dajcie mi całą watahę!" (_Give me that fucking wolf, give me the entire wolfpack!_), referencing [Febus 'The Wolf'](@/w/apollo-anderson.md) and his old tag team [Wataha](@/tt/wataha.md).
+* [Syriusz Dziedzic](@/w/dziedzic.md) cut a promo in which he talked about him discovering wrestling, what it meant to him, how he decided to become a wrestler and the Champion. He ended by saying "Dajcie mi tego jebanego wilka, dajcie mi całą watahę!" (_Give me that fucking wolf, give me the entire wolfpack!_), referencing [Febus "The Wolf"](@/w/apollo-anderson.md) and his old tag team [Wataha](@/tt/wataha.md).
 * The promo was mocked by the audience, who saw it as meandering and boring. One of the fans countered "Dajcie mi wilka!" (_Give me the wolf!_) with "Nie dam ci BLIKa!" (_I'm not giving you any BLIK!_), playing on certain similarity between "wilk" (_wolf_) and ["BLIK"][blik]. BLIK is a popular Polish mobile payment system allowing for direct money transfers between two users via a one-time code.
 * Adrian Zgórski introduced [Jakub](@/w/jakub.md) as _Jakub "Fox"_, promting the [Legacy Champion](@/c/low-european-championship.md) to stare him down and whisper something into his ear for quite a while. Adrian then re-did the introduction, this time referring to him as _The man nicknamed "Fox" - Jakub!… … … "Fox"!_. Angered, Jakub went after Adrian, who quickly removed himself from the ring.
 * [Oskar Alexander](@/w/oskar-alexander.md) cut a heel promo, calling for an opponent to answer his open challenge (quietly hoping for [Jędruś Bułecka](@/w/jedrus-bulecka.md)). Behind his back, [Bartosz Plata](@/w/plata.md), who until this moment had been present at ringside, as a member of the security team, removed his uniform to reveal wrestling gear underneath, and stepped into the ring to face Oskar.

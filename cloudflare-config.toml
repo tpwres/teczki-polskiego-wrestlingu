@@ -26,11 +26,6 @@ taxonomies =  [
 [search]
 index_format = "elasticlunr_json"
 
-[markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
-
 [slugify]
 paths_keep_dates = true
 
@@ -132,6 +127,10 @@ text_fg = '#ffffff'
 bg = '#4f8ebf'
 text_fg = '#ffffff'
 
+[extra.org_styles.wsw]
+bg = '#f4a232'
+text_fg = '#000'
+
 [extra.chronology]
 arena = "KPW Arena"
 backyardmania = "Backyardmania"
@@ -144,3 +143,4 @@ poznan-fair = "Poznań International Fair"
 project-basement = "Project Basement"
 stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"
+wrestling-w-twoim-miescie = "FRPW Wrestling w Twoim Mieście"

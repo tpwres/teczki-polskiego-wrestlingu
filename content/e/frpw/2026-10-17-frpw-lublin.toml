@@ -1,1 +1,4 @@
-01 = { path = "frpw-lublin-plakat.webp", caption = "Official poster featuring [Sentinel](@/w/sentinel.md) executing a flying move on [Max Speed](@/w/max-speed.md) and [Antoni Ocean](@/w/antoni-ocean.md) holding [Gustav Gryffin](@/w/gustav-gryffin.md) in a headlock.", source = "Official FRPW Instagram" }
+01 = { path = "frpw-lublin-plakat.webp", caption = "Official poster featuring [Sentinel](@/w/sentinel.md) executing a flying move on [Max Speed](@/w/max-speed.md) (left) and [Antoni Ocean](@/w/antoni-ocean.md) holding [Gustav Gryffin](@/w/gustav-gryffin.md) in a headlock (right).", source = "Official FRPW Instagram" }
+02 = { path = "shige-san.webp", caption = "Image announcing Shigehiro Irie.", source = "Official FRPW Facebook" }
+03 = { path = "shige-vs-crane.webp", caption = "Image announcing Shigehiro Irie vs [Jacob Crane](@/w/jacob-crane.md).", source = "Official FRPW Facebook" }
+99 = { path = "plakaty-wieszajo.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) at the venue, putting up posters for the show.", source = "Official FRPW Facebook" }

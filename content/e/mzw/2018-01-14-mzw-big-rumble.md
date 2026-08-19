@@ -33,7 +33,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - Ezeny
   - '[Hexia](@/w/hexia.md)'
   - Kent
-  - '[_rookie_ Jacob](@/w/jacob-crane.md)'
+  - '[adept Jacob](@/w/jacob-crane.md)'
   - '[Laurance Roman](@/w/laurance-roman.md)'
   - Marcel Koniecki
   - '[Matt Buckna](@/w/matt-buckna.md)'

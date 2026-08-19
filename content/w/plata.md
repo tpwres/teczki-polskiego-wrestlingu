@@ -14,10 +14,10 @@ Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), t
 
 * Years active: 2024-present
 * Gimmicks/nicknames:
-  - _Rookie_ Bartosz {{ org_badge(orgs=['ppw']) }} (January-April 2025)
+  - adept Bartosz {{ org_badge(orgs=['ppw']) }} (January-April 2025)
   - Bartosz Plata {{ org_badge(orgs=['ppw', 'low', 'frpw']) }} (April 2025-)
 * Trained by:
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
  
 ## Professional wrestling career
 
@@ -25,11 +25,11 @@ Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), t
 
 #### Training and debut
 
-Bartosz - traditionally billed as _rookie_ Bartosz at the first stages of his career - started his in-ring career in 2024 by training at [Ewenement Dojo](@/o/dojo.md). Coached by wrestlers such as [Jacob Crane](@/w/jacob-crane.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/jakub.md), he made his first appearance at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) exhibition show in Poznań. His official debut in front of the [PpW](@/o/ppw.md) audience took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in a pre-show match against the victorious [Sambor](@/w/sambor.md), as well as Sentinel, Wonder Haze and Atilla. 
+Bartosz - traditionally billed as adept Bartosz at the first stages of his career - started his in-ring career in 2024 by training at [Ewenement Dojo](@/o/dojo.md). Coached by wrestlers such as [Jacob Crane](@/w/jacob-crane.md), [Gustav Gryffin](@/w/gustav-gryffin.md), [Goblin](@/w/goblin.md) and [Axel Fox](@/w/jakub.md), he made his first appearance at [Piwo Przyjacielem Wrestlingu 2](@/e/ppw/2024-11-15-ppw-piwo-przyjacielem-wrestlingu-2.md) exhibition show in Poznań. His official debut in front of the [PpW](@/o/ppw.md) audience took place at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) in a pre-show match against the victorious [Sambor](@/w/sambor.md), as well as Sentinel, Wonder Haze and Atilla. 
 
 #### Run as a rookie
 
-With _rookie_ still part of his billing Bartosz continued to appear regularly, besides the [20 Typa 20 Broni Rumble Match](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), mostly in open challenge matches. This spawned a regular "O kurwa, to Bartek Plata!" (_Oh fuck, it's Bartek Plata!_) commentary reaction at his entrance. After losing in an open challenge against [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in an interview he emphasized his willingness to make a name for himself, not as a rookie anymore, but under his real name: Bartosz Plata. In the same interview, Plata requested a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). This request was granted, after he teamed up with [Marcelito](@/w/marcelito.md) to defeat Hungarian wrestlers Danny Roxx and Atilla.
+With adept still part of his billing Bartosz continued to appear regularly, besides the [20 Typa 20 Broni Rumble Match](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), mostly in open challenge matches. This spawned a regular "O kurwa, to Bartek Plata!" (_Oh fuck, it's Bartek Plata!_) commentary reaction at his entrance. After losing in an open challenge against [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md), in an interview he emphasized his willingness to make a name for himself, not as a rookie anymore, but under his real name: Bartosz Plata. In the same interview, Plata requested a match at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md). This request was granted, after he teamed up with [Marcelito](@/w/marcelito.md) to defeat Hungarian wrestlers Danny Roxx and Atilla.
 
 #### Beginnings of a proper singles run
 

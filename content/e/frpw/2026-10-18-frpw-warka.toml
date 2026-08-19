@@ -1,1 +1,2 @@
-01 = { path = "frpw-warka-plakat.webp", caption = "Official poster featuring [Jacob Crane](@/w/jacob-crane.md) vs Filip Fux and Goblin vs Leon Lato.", source = "Heelturn.pl" }
+01 = { path = "frpw-warka-plakat.webp", caption = "Official poster featuring [Jacob Crane](@/w/jacob-crane.md) vs Filip Fux (left) and Goblin vs Leon Lato (right).", source = "Heelturn.pl" }
+02 = { path = "shige-san.webp", caption = "Image announcing Shigehiro Irie.", source = "Official FRPW Facebook" }

@@ -143,7 +143,7 @@ In 2026, PpW wrestlers Olgierd, Mister Z and Biesiad were featured in an episode
 - Referee: [Sędzia Seweryn](@/w/sedzia-seweryn.md)
 - Talent show judges: Agnieszka Chylińska, Marcin Prokop, Julia Wieniawa, Agustin Egurrola
 
-See link in the References section below for the video. Also present backstage were [Istotna Martynka](@/w/istotna-martynka.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
+See link in the References section below for the video. Also present backstage were [Istotna Martynka](@/w/gloria-g-szek.md), [Johnny Blade](@/w/johnny-blade.md) and [Michael HT](@/w/michael-ht.md), seen commenting on the match in brief camera cuts. The date refers to the episode's premiere on TVN, just several hours before [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), where Michael HT made references to their appearance.
 
 ### Independent and other
 

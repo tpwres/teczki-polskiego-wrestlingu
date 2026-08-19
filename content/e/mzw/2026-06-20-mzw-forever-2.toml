@@ -14,7 +14,7 @@
 1001 = { path = "czlowiek-wykalaczka.webp", caption = "[Jakub's](@/w/jakub.md) entrance.", source = "M3n747" }
 1002 = { path = "rudy-z-rozowym.webp", caption = "Jakub receives a rose from [Boro](@/w/boro.md).", source = "M3n747" }
 
-2001 = { path = "konflikt-pokolen.webp", caption = "_Rookies_ Adrian, Maciej and Marek gang up on Sambor, while _rookie_ Stefan attacks Boro.", source = "M3n747" }
+2001 = { path = "konflikt-pokolen.webp", caption = "Adepci Adrian, Maciej and Marek gang up on Sambor, while adept Stefan attacks Boro.", source = "M3n747" }
 2002 = { path = "ladny-macie-ring-byloby-szkoda-gdybyscie-z-niego-wypadli.webp", caption = "Sambor and Boro eliminate one another.", source = "M3n747" }
 
 3001 = { path = "normalnie-zaraz-nas-czeka-dyskusja-shadowa-z-zefirem.webp", caption = "[Shadow](@/w/shadow.md) tells Jakub that the Legacy Championship Match is still on.", source = "M3n747" }
