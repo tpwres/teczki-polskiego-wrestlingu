@@ -5,3 +5,4 @@
 05 = { path = "polski-niedzwiedz.webp", caption = "Image announcing [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).", source = "Official PTW Facebook" }
 06 = { path = "daniel-razor-vs-fabian.webp", caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs [Fabian](@/w/fabian.md).", source = "Official PTW Facebook" }
 07 = { path = "vincent-caravaggio.webp", caption = "Image announcing [Vincent Caravaggio](@/w/vincent-caravaggio.md).", source = "Official PTW Facebook" }
+08 = { path = "bogus.webp", caption = "Image announcing [Boguś](@/w/bogus.md).", source = "Official PTW Facebook" }

@@ -23,6 +23,7 @@ has_video = false
 * The third: [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), on 18.08.2026.
 * Later the same day came the announcement of [Daniel Razor](@/w/daniel-razor.md) vs [Fabian](@/w/fabian.md) in a Singles Match.
 * Fourth Gold Rush Rumble entrant was [Vincent Caravaggio](@/w/vincent-caravaggio.md), announced the next day.
+* [Boguś](@/w/bogus.md) was the fifth, made known of 20.08.2026.
 
 ## Predicted card
 
@@ -38,7 +39,7 @@ has_video = false
   - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '???'
+  - '[Boguś](@/w/bogus.md)'
   - '???'
   - '???'
   - '???'
