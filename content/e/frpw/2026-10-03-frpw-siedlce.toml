@@ -1,1 +1,12 @@
 01 = { path = "frpw-siedlce-plakat.webp", caption = "Official poster featuring [Jacob Crane](@/w/jacob-crane.md) vs adept Sawo (left) and [Leon Lato](@/w/leon-lato.md) vs Oskar Alexander (right).", source = "Official FRPW Facebook" }
+02 = { path = "zapowiedz.webp", caption = "Image announcing the HeelTurn Invitational Tournament.", source = "Official FRPW Facebook" }
+03 = { path = "olgierd.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md).", source = "Official FRPW Facebook" }
+04 = { path = "bart-petro.webp", caption = "Image announcing [Bart Petro](@/w/bart-petro.md).", source = "Official FRPW Facebook" }
+05 = { path = "goblin.webp", caption = "Image announcing [Goblin](@/w/goblin.md).", source = "Official FRPW Facebook" }
+06 = { path = "oskar-alexander.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
+07 = { path = "bartosz-plata.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md).", source = "Official FRPW Facebook" }
+08 = { path = "tomczak.webp", caption = "Image announcing [Tomczak](@/w/tomczak.md).", source = "Official FRPW Facebook" }
+09 = { path = "bartosz-plata-vs-tomczak.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md) vs [Tomczak](@/w/tomczak.md).", source = "Official FRPW Instagram" }
+10 = { path = "kalyana.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md).", source = "Official FRPW Instagram" }
+11 = { path = "bart-petro-vs-goblin.webp", caption = "Image announcing [Bart Petro](@/w/bart-petro.md) vs [Goblin](@/w/goblin.md).", source = "Official FRPW Instagram" }
+12 = { path = "olgierd-vs-oskar-alexander.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
