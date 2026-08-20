@@ -37,7 +37,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
     nc: upcoming
 - - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - '???'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Highlights
