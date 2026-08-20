@@ -24,6 +24,7 @@ has_video = false
 * Later the same day came the announcement of [Daniel Razor](@/w/daniel-razor.md) vs [Fabian](@/w/fabian.md) in a Singles Match.
 * Fourth Gold Rush Rumble entrant was [Vincent Caravaggio](@/w/vincent-caravaggio.md), announced the next day.
 * [Boguś](@/w/bogus.md) was the fifth, made known of 20.08.2026.
+* A few hours later PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) match betwen the reigning Champions [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and the German duo Skyfall (Mike Solaris & Evan Eclipse). Mike Solaris previously worked at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md).
 
 ## Predicted card
 
@@ -56,6 +57,11 @@ has_video = false
   - '???'
   - '???'
   - s: 20-Man Gold Rush Rumble Match
+    nc: upcoming
+- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
+  - 'Skyfall: Mike Solaris & Evan Eclipse'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: Tag Team Match
     nc: upcoming
 {% end %}
 
