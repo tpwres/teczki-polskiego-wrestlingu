@@ -8,7 +8,7 @@ venue = ["p23"]
 [extra]
 city = "Katowice"
 toclevel = 2
-has_video = true
+has_video = false
 [extra.gallery]
 +++
 
