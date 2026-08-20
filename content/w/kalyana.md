@@ -23,4 +23,4 @@ Kalyana is a Ukrainian wrestler best known for working with [Fundacja Rozwoju Po
 
 ### Training and first appearances (202?-present)
 
-Kalyana began training with Ewenement Dojo/WSW at some point in 2025 or 2026. She made her first in-ring appearance at [Ewenement Dojo Showcase 2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) in an intergender Mixed Tag Team Match. She followed her initial attempt with additional appearnces for FRPW at their [tour of Poland](@/e/frpw-wrestling-w-twoim-miescie.md).
+Kalyana began training with Ewenement Dojo/WSW at some point in 2025 or 2026. She made her first in-ring appearance at [Ewenement Dojo Showcase 2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) in an intergender Mixed Tag Team Match. She followed her initial attempt with additional appearances for FRPW at their [tour of Poland](@/e/frpw-wrestling-w-twoim-miescie.md).
