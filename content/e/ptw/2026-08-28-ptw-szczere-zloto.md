@@ -25,6 +25,7 @@ has_video = false
 * Fourth Gold Rush Rumble entrant was [Vincent Caravaggio](@/w/vincent-caravaggio.md), announced the next day.
 * [Boguś](@/w/bogus.md) was the fifth, made known of 20.08.2026.
 * A few hours later PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) match betwen the reigning Champions [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and the German duo Skyfall (Mike Solaris & Evan Eclipse). Mike Solaris previously worked at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md).
+* [Whiteblade](@/w/whiteblade.md) was announced for the Gold Rush Rumble on 21.08.2026.
 
 ## Predicted card
 
@@ -41,7 +42,7 @@ has_video = false
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Boguś](@/w/bogus.md)'
-  - '???'
+  - '[Whiteblade](@/w/whiteblade.md)'
   - '???'
   - '???'
   - '???'
