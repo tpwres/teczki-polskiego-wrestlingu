@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) is an upcoming event to be held in cooperation between PpW and Polish rave group Wixapol. The event will take place at {{ map_pin(v="Baseny Kora") }}Baseny Kora, a swimming pool complex in Warsaw.
+Wrestling Rave Na Basenie (_Wrestling Rave at the Pool_) was an event held in cooperation between PpW and Polish rave group Wixapol. The event took place at {{ map_pin(v="Baseny Kora") }}Baseny Kora, a swimming pool complex in Warsaw.
 
 ## Build-up
 
