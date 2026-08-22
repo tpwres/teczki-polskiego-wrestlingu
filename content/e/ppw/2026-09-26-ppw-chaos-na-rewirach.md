@@ -34,7 +34,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
     s: Tag Team Match
     nc: upcoming
 - - '[Rodzina](@/tt/rodzina.md): [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md)'
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - s: Tag Team Match
     nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
