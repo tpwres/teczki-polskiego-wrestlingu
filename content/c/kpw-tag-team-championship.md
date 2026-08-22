@@ -224,6 +224,12 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag-Team Match
     en: '[KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md)'
     ed: 2026-01-16
+- - 'Team Visegrad: ??? & ??? (c)'
+  - '[Chemik](@/w/chemik.md) & ???'
+  - s: Tag-Team Match
+    en: '[KPW Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)'
+    ed: 2026-09-11
+    nc: upcoming
 {% end %}
 
 While the titles were won by David Oliwa & Ricky Sky, Lukáš Mottl was also recognised as a champion in accordance with the [Freebird Rule][freebird-rule].

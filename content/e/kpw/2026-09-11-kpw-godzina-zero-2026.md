@@ -22,6 +22,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * The relations between the [Fux Brothers](@/tt/bracia-fux.md) have been deteriorating since losing the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), and their confrontation at the [last show](@/e/kpw/2026-06-26-kpw-arena-34.md) ended with [Filip](@/w/filip-fux.md) attacking [Michał](@/w/michal-fux.md). Thus, on 18.08.2026 KPW announced a match between the two brothers.
 * On 20.08.2026 [Eryk Lesak](@/w/eryk-lesak.md) announced his involvement in a [Facebook post][tournee-lesaka-2] with upcoming dates of his appearances.
 * [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) faced one another a few times in the past, including at [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), where Leon won by chaining Tomczak outside the ring for a forced count-out, and [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), where Lato removed the monster heel's mask. The resulting bad blood between the two led to the announcement of KPW's first Dog Collar Match on 21.08.2026.
+* On 22.08.2026 KPW released a [video][telefon-do-przyjaciela] of [Krystian Malinowski](@/w/krystian-malinowski.md) calling [Chemik](@/w/chemik.md) to inform him that he'll have a match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) against [Team Visegrad](@/tt/team-visegrad.md), but needs to find himself a tag-team partner. [Eryk Lesak](@/w/eryk-lesak.md), who was Chemik's first choice, was said by Malinowski to be unavailable due to him having a [Championship](@/c/kpw-old-town-championship.md) match of his own.
 
 ## Predicted card
 
@@ -36,12 +37,18 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
   - '[Iestyn Rees](@/w/iestyn-rees.md)(c)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
     nc: upcoming
-- - '[Eryk Lesak](@/w/eryk-lesak.md)'
+- - '[Eryk Lesak](@/w/eryk-lesak.md)(c)'
   - '???'
-  - nc: upcoming
+  - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
+    nc: upcoming
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - s: Dog Collar match
+    nc: upcoming
+- - '[Team Visegrad](@/tt/team-visegrad.md): ??? & ???(c)'
+  - '[Chemik](@/w/chemik.md) & ???'
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+    s: Tag-Team Match
     nc: upcoming
 {% end %}
 
@@ -54,3 +61,4 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * TBD
 
 [tournee-lesaka-2]: https://www.facebook.com/ErykLesak/posts/pfbid02g2mHCeysju7oah1uDG4wmMuwz4EuGV8KRxWmTyfEnwUp5PtX92vz6pzbDrTcxUQDl
+[telefon-do-przyjaciela]: https://www.facebook.com/reel/894148243501528
