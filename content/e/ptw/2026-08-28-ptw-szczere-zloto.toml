@@ -8,3 +8,4 @@
 08 = { path = "bogus.webp", caption = "Image announcing [Boguś](@/w/bogus.md).", source = "Official PTW Facebook" }
 09 = { path = "miyagi-sigma-vs-skyfall.webp", caption = "Image announcing [Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md) vs Evan Eclipse & Mike Solaris.", source = "Official PTW Facebook" }
 10 = { path = "whiteblade.webp", caption = "Image announcing [Whiteblade](@/w/whiteblade.md).", source = "Official PTW Facebook" }
+11 = { path = "alex-brave.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md).", source = "Official PTW Facebook" }
