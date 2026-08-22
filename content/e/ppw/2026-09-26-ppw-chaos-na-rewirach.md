@@ -19,6 +19,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * At the [previous show](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Jacob Crane](@/w/jacob-crane.md) challenged [Gabriel Queen](@/w/gabriel-queen.md) for his [PpW Championship](@/c/ppw-championship.md), which the reigning Champion accepted. The match was officially confirmed on 8.07.2026.
 * A post published on 11.08.2026 announced the participation of The Hardcors ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), [Gabriel Queen](@/w/gabriel-queen.md), [Goblin](@/w/goblin.md), [Zmowa](@/tt/zmowa.md) ([Olgierd](@/w/olgierd.md), [Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md)), [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Isnorr](@/w/isnorr.md) and [Mister Z](@/w/mister-z.md)), [Boro](@/w/boro.md), [Mutant](@/w/mutant.md), [Jacob Crane](@/w/jacob-crane.md), [Max Speed](@/w/max-speed.md) and [Leon Lato](@/w/leon-lato.md).
 * On 18.08.2026 PpW announced a match for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), with The Hardcors ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) challenging the reigning Champions, [Rodzina](@/tt/rodzina.md) (represented by [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)).
+* On 21.08.2026 the previously announced tag teams of Boro & Mutant and [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md) (representing Rodzina) were pitted against one another.
 
 ## Predicted card
 
@@ -32,18 +33,17 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
+- - '[Rodzina](@/tt/rodzina.md): [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md)'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - s: Tag Team Match
+    nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
   - '???'
   - nc: upcoming
 - - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - '???'
-  - nc: upcoming
-- - '[Rodzina](@/tt/rodzina.md): [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md)'
-  - '???'
-  - nc: upcoming
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '???'
-  - nc: upcoming
+  - s: Tag Team Match
+    nc: upcoming
 - - '[Max Speed](@/w/max-speed.md)'
   - '???'
   - nc: upcoming
