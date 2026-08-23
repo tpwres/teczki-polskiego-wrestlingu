@@ -23,6 +23,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * On 20.08.2026 [Eryk Lesak](@/w/eryk-lesak.md) announced his involvement in a [Facebook post][tournee-lesaka-2] with upcoming dates of his appearances.
 * [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) faced one another a few times in the past, including at [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), where Leon won by chaining Tomczak outside the ring for a forced count-out, and [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), where Lato removed the monster heel's mask. The resulting bad blood between the two led to the announcement of KPW's first Dog Collar Match on 21.08.2026.
 * On 22.08.2026 KPW released a [video][telefon-do-przyjaciela] of [Krystian Malinowski](@/w/krystian-malinowski.md) calling [Chemik](@/w/chemik.md) to inform him that he'll have a match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) against [Team Visegrad](@/tt/team-visegrad.md), but needs to find himself a tag-team partner. [Eryk Lesak](@/w/eryk-lesak.md), who was Chemik's first choice, was said by Malinowski to be unavailable due to him having a [Championship](@/c/kpw-old-town-championship.md) match of his own.
+* On 23.08.2026 KPW announced that Zefir - who'd won the [KPW Championship](@/c/kpw-championship.md) #1 Contendership at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) - will join Greg and [Iestyn Rees](@/w/iestyn-rees.md) in the fight for the main title. This marks the first time a bout for the federation's primary gold will be a Three-Way Match.
 
 ## Predicted card
 
@@ -33,9 +34,11 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 - - '[Michał Fux](@/w/michal-fux.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - nc: upcoming
-- - '[Greg](@/w/greg.md)'
-  - '[Iestyn Rees](@/w/iestyn-rees.md)(c)'
+- - '[Iestyn Rees](@/w/iestyn-rees.md)(c)'
+  - '[Greg](@/w/greg.md)'
+  - '[Zefir](@/w/zefir.md)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
+    s: Three-Way Match
     nc: upcoming
 - - '[Eryk Lesak](@/w/eryk-lesak.md)(c)'
   - '???'
