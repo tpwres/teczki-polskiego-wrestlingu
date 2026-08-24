@@ -24,13 +24,15 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) faced one another a few times in the past, including at [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), where Leon won by chaining Tomczak outside the ring for a forced count-out, and [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), where Lato removed the monster heel's mask. The resulting bad blood between the two led to the announcement of KPW's first Dog Collar Match on 21.08.2026.
 * On 22.08.2026 KPW released a [video][telefon-do-przyjaciela] of [Krystian Malinowski](@/w/krystian-malinowski.md) calling [Chemik](@/w/chemik.md) to inform him that he'll have a match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) against [Team Visegrad](@/tt/team-visegrad.md), but needs to find himself a tag-team partner. [Eryk Lesak](@/w/eryk-lesak.md), who was Chemik's first choice, was said by Malinowski to be unavailable due to him having a [Championship](@/c/kpw-old-town-championship.md) match of his own.
 * On 23.08.2026 KPW announced that Zefir - the winner of the #1 Contendership at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) - will join Greg and [Iestyn Rees](@/w/iestyn-rees.md) in the fight for the [main title](@/c/kpw-championship.md). This marks the first time a bout for the federation's primary gold will be a Three-Way Match.
+* A [video][karierowicze] released on 24.08.2026 added a stipulation to Paskal's match with Kamil: Career vs Career. This is only the second time this stipulation was used, the first being [Piękny Kawaler](@/w/piekny-kawaler.md) vs [Robert Star](@/w/robert-star.md) at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[Markus Paskal](@/w/markus-paskal.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-  - nc: upcoming
+  - s: Career vs Career Match
+    nc: upcoming
 - - '[Michał Fux](@/w/michal-fux.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - nc: upcoming
@@ -65,3 +67,4 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 
 [tournee-lesaka-2]: https://www.facebook.com/ErykLesak/posts/pfbid02g2mHCeysju7oah1uDG4wmMuwz4EuGV8KRxWmTyfEnwUp5PtX92vz6pzbDrTcxUQDl
 [telefon-do-przyjaciela]: https://www.facebook.com/reel/894148243501528
+[karierowicze]: https://www.facebook.com/reel/2012992306026762
