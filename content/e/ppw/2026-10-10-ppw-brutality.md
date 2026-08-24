@@ -17,12 +17,12 @@ has_video = false
 
 ## Build-up
 
-* The first worker to be announced (on 24.08.2026) was Shigehiro Irie. He was last seen in 2025 at [Duch Świąt, Śmak Krwi](@/e/ppw/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+* The first worker to be announced (on 24.08.2026) was [Shigehiro Irie](@/w/shigehiro-irie.md). He was last seen in 2025 at [Duch Świąt, Śmak Krwi](@/e/ppw/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
-- - 'Shigehiro Irie'
+- - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
   - '???'
   - nc: upcoming
 {% end %}
