@@ -24,7 +24,7 @@ Shigehiro Irie made a single appearance at [KPW Arena 21: Stara Szkoła](@/e/kpw
 
 ### PpW Ewenement Wrestling (2025-)
 
-Shigehiro debuted for PpW at [Duch Świąt, Śmak Krwi](@/e/ppw/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), defeating [Gustav Gryffin](@/w/gustav-gryffin.md). He returned nearly a year later at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md).
+Shigehiro debuted for PpW at [Duch Świąt, Śmak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), defeating [Gustav Gryffin](@/w/gustav-gryffin.md). He returned nearly a year later at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md).
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
