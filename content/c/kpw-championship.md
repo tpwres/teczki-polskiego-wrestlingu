@@ -283,7 +283,8 @@ At Arena XXX, [Krystian Malinowski](@/w/krystian-malinowski.md) stripped [Zefir]
     ed: 2026-04-24
 - - 'Iestyn Rees(c)'
   - '[Greg](@/w/greg.md)'
-  - s: Singles Match
+  - 'Zefir'
+  - s: Three-Way Match
     en: '[KPW Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)'
     ed: 2026-09-11
     nc: upcoming
