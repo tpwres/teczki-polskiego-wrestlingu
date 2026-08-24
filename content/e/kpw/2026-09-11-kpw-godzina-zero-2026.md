@@ -66,5 +66,5 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * TBD
 
 [tournee-lesaka-2]: https://www.facebook.com/ErykLesak/posts/pfbid02g2mHCeysju7oah1uDG4wmMuwz4EuGV8KRxWmTyfEnwUp5PtX92vz6pzbDrTcxUQDl
-[telefon-do-przyjaciela]: https://www.facebook.com/reel/894148243501528
-[karierowicze]: https://www.facebook.com/reel/2012992306026762
+[telefon-do-przyjaciela]: https://www.youtube.com/watch?v=pKBW91BzT6U
+[karierowicze]: https://www.youtube.com/watch?v=JJHJUq71TmE
