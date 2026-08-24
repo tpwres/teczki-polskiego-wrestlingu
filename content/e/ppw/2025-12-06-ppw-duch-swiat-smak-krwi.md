@@ -16,7 +16,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
 
 ## Build-up
 
-* The show was announced on 6.11.2025, alongside two Japanese wrestlers: Akane Fujita in her Polish debut, and Shigehiro Irie, previously seen at [KPW Arena 21](@/e/kpw/2023-02-24-kpw-arena-21.md).
+* The show was announced on 6.11.2025, alongside two Japanese wrestlers: Akane Fujita in her Polish debut, and [Shigehiro Irie](@/w/shigehiro-irie.md), previously seen at [KPW Arena 21](@/e/kpw/2023-02-24-kpw-arena-21.md).
 * On 10.11.2025 PpW released a [video][lysa-pala] in which [Goblin](@/w/goblin.md) challenged [Olgierd](@/w/olgierd.md) for his title, leaving his opponent the choice of stipulation.
 * On 12.11.2025 PpW published another [video][dila-przerwali], in which [Mister Z](@/w/mister-z.md) put [Vic Golden](@/w/vic-golden.md) in a match with [Gabriel Queen](@/w/gabriel-queen.md), forcing him to accept Queen's Loser Leaves PpW challenge from [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 * Queen vs Golden was officially confirmed on 13.11.2025, with the stipulation expanded to a Loser Leaves PpW Bullrope & Chairs Match.
@@ -59,7 +59,7 @@ Duch Świąt, Smak Krwi (_The Spirit of Christmas, the Taste of Blood_) was a sh
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md), [Axel Fox](@/w/jakub.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md), [Biesiad](@/w/biesiad.md)'
   - s: Tag Team Match
-- - 'Shigehiro Irie'
+- - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Goblin](@/w/goblin.md)(c)'
