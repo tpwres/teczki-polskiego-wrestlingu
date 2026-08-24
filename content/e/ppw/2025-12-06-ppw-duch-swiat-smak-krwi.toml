@@ -1,7 +1,7 @@
-001 = { path = "ppw-duch-swiat-smak-krwi.webp", caption = "Official poster featuring [Santa Biesiad](@/w/biesiad.md). In the bottom-left corner are the faces of Akane Fujita and Shigehiro Irie.", source = "Official PpW Facebook" }
+001 = { path = "ppw-duch-swiat-smak-krwi.webp", caption = "Official poster featuring [Santa Biesiad](@/w/biesiad.md). In the bottom-left corner are the faces of Akane Fujita and [Shigehiro Irie](@/w/shigehiro-irie.md).", source = "Official PpW Facebook" }
 002 = { path = "gabrys-i-wiciu.webp", caption = "Image announcing [Gabriel Queen](@/w/gabriel-queen.md) vs [Vic Golden](@/w/vic-golden.md).", source = "Official PpW Facebook" }
 003 = { path = "goblinus-i-olgierdzik.webp", caption = "Image announcing [Goblin](@/w/goblin.md) vs [Olgierd](@/w/olgierd.md).", source = "Official PpW Facebook" }
-004 = { path = "gusutabu-kun-vs-shige-sama.webp", caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs Shigehiro Irie.", source = "Official PpW Facebook" }
+004 = { path = "gusutabu-kun-vs-shige-sama.webp", caption = "Image announcing [Gustav Gryffin](@/w/gustav-gryffin.md) vs [Shigehiro Irie](@/w/shigehiro-irie.md).", source = "Official PpW Facebook" }
 005 = { path = "agatka-vs-akane-chan.webp", caption = "Image announcing [Agentka Agatka](@/w/agentka-agatka.md) vs Akane Fujita.", source = "Official PpW Facebook" }
 006 = { path = "mareczek-i-jasiu.webp", caption = "Image announcing [Marco Hammers](@/w/marco-hammers.md) vs [Johnny Blade](@/w/johnny-blade.md).", source = "Official PpW Facebook" }
 007 = { path = "10-kola-nie-mylic-z-piecioma-pubami.webp", caption = "Image announcing the Battle Royal.", source = "Official PpW Facebook" }

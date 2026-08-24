@@ -17,7 +17,7 @@ PpW Hardcore Friday the 13th 東京 (_Tokyo_) was a show by [PpW Ewenement Wrest
 
 <!-- more -->
 
-On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md). The two guests had worked for multiple Japanese federations - including BJW, which [Jacob Crane](@/w/jacob-crane.md) joined in 2024.
+On 6.12.2025 [Shigehiro Irie](@/w/shigehiro-irie.md) and Akane Fujita appeared at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md). The two guests had worked for multiple Japanese federations - including BJW, which [Jacob Crane](@/w/jacob-crane.md) joined in 2024.
 
 ## Build-up
 
@@ -36,7 +36,7 @@ On 6.12.2025 Shigehiro Irie and Akane Fujita appeared at [Duch Świąt, Smak Krw
   - '[ガーブリーエル・クィーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - s: シングルマッチ (Singles Match)
 - - '余所者 (The Outsiders): 藤田ミノル (Minoru Fujita) & 大門寺崇 (So Daimonji) & [ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane)'
-  - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & 入江茂弘 (Shigehiro Irie)'
+  - 'Team PpW: [スタニスワフ・ヴァン・ドブロニャク](@/w/stanislaw-van-dobroniak.md) (Stanisław Van Dobroniak) & [ロバート・スター](@/w/robert-star.md) (Robert Star) & [入江茂弘](@/w/shigehiro-irie.md) (Shigehiro Irie)'
   - s: 6 人タッグマッチ ノー・ホルズ・バード・フォルズ・カウント・エニウェア  (6 Man Tag Team Match No Holds Barred Falls Count Anywhere)
 - - '伊東竜二 (Ryuji Ito)'
   - 'リアル・ファッキング・ディール [Z-さん](@/w/mister-z.md) ("The Real Fucking Deal" Mister Z)'

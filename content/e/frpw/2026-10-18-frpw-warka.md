@@ -17,14 +17,14 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 
 ## Build-up
 
-* On 1.08.2026 FRPW informed fans that Japanese wrestler Shigehiro Irie will appear at the shows in [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and Warka.
+* On 1.08.2026 FRPW informed fans that Japanese wrestler [Shigehiro Irie](@/w/shigehiro-irie.md) will appear at the shows in [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and Warka.
 * 7.08.2026 saw the announcement of [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md).
 * On 13.08.2026, [Kalyana's](@/w/kalyana.md) appearance at the show was announced.
 
 ## Predicted card
 
 {% card(predicted=true) %}
-- - 'Shigehiro Irie'
+- - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
   - '???'
   - nc: upcoming
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'

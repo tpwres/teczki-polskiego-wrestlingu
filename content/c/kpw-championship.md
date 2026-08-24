@@ -163,7 +163,7 @@ Following [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) (where the title wasn't
     en: '[KPW Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md)'
     ed: 2022-09-17
 - - 'Greg (c)'
-  - 'Shigehiro Irie'
+  - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
   - s: Singles match
     en: '[KPW Arena 21: Stara Szkoła](@/e/kpw/2023-02-24-kpw-arena-21.md)'
     ed: 2023-02-24
