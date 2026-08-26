@@ -33,3 +33,14 @@ path = "nazi-spine.jpg"
 caption = "Example of machine-translated subtitles in an NJPW show, aired on 25.05.2025:<br/>_Oh no no no no_<br/>_Did not take this Nazi spine_"
 source = "Extreme Sports Channel"
 skip_art = true
+
+[07]
+path = "dzien-dobry-paul.webp"
+caption = "[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) and Paul Wight."
+source = "dziendobry.tvn.pl"
+
+[08]
+path = "zefir-z-chemikiem-by-to-lepiej-zrobili.webp"
+caption = "Misiek and [Sigma Boy xD](@/w/sigma-boy.md) face off, as Arkadiusz Pawłowski and Paul Wight observe. On the left Fabian and Nano Lopez wait their turn."
+source = "dziendobry.tvn.pl"
+skip_art = true
