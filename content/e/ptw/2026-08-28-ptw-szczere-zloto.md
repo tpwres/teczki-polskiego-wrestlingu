@@ -28,7 +28,7 @@ has_video = false
 * [Whiteblade](@/w/whiteblade.md) was announced for the Gold Rush Rumble on 21.08.2026.
 * [Alex Brave](@/w/alex-brave.md), the day after.
 * [Sawicki](@/w/sawicki.md) on 23.08.2026.
-* On 26.08.2026 PTW posted an image of the Lucky 8 contestants, including [Kalom](@/w/jack-kalom.md). The winner of the competition will sign the contract with the promotion and earn a spot in the Gold Rush Rumble.
+* On 26.08.2026 PTW posted an image of the Lucky 8 contestants, including [Kalom](@/w/kalom.md). The winner of the competition will sign the contract with the promotion and earn a spot in the Gold Rush Rumble.
 
 ## Predicted card
 
