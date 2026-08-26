@@ -22,9 +22,10 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * The relations between the [Fux Brothers](@/tt/bracia-fux.md) have been deteriorating since losing the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), and their confrontation at the [last show](@/e/kpw/2026-06-26-kpw-arena-34.md) ended with [Filip](@/w/filip-fux.md) attacking [Michał](@/w/michal-fux.md). Thus, on 18.08.2026 KPW announced a match between the two brothers.
 * On 20.08.2026 [Eryk Lesak](@/w/eryk-lesak.md) announced his involvement in a [Facebook post][tournee-lesaka-2] with upcoming dates of his appearances.
 * [Leon Lato](@/w/leon-lato.md) and [Tomczak](@/w/tomczak.md) faced one another a few times in the past, including at [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), where Leon won by chaining Tomczak outside the ring for a forced count-out, and [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), where Lato removed the monster heel's mask. The resulting bad blood between the two led to the announcement of KPW's first Dog Collar Match on 21.08.2026.
-* On 22.08.2026 KPW released a [video][telefon-do-przyjaciela] of [Krystian Malinowski](@/w/krystian-malinowski.md) calling [Chemik](@/w/chemik.md) to inform him that he'll have a match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) against [Team Visegrad](@/tt/team-visegrad.md), but needs to find himself a tag-team partner. [Eryk Lesak](@/w/eryk-lesak.md), who was Chemik's first choice, was said by Malinowski to be unavailable due to him having a [Championship](@/c/kpw-old-town-championship.md) match of his own.
+* On 22.08.2026 KPW released a [video][telefon-do-przyjaciela] of Krystian Malinowski calling [Chemik](@/w/chemik.md) to inform him that he'll have a match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) against [Team Visegrad](@/tt/team-visegrad.md), but needs to find himself a tag-team partner. [Eryk Lesak](@/w/eryk-lesak.md), who was Chemik's first choice, was said by Malinowski to be unavailable due to him having a [Championship](@/c/kpw-old-town-championship.md) match of his own.
 * On 23.08.2026 KPW announced that Zefir - the winner of the #1 Contendership at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) - will join Greg and [Iestyn Rees](@/w/iestyn-rees.md) in the fight for the [main title](@/c/kpw-championship.md). This marks the first time a bout for the federation's primary gold will be a Three-Way Match.
 * A [video][karierowicze] released on 24.08.2026 added a stipulation to Paskal's match with Kamil: Career vs Career. This is only the second time this stipulation was used, the first being [Piękny Kawaler](@/w/piekny-kawaler.md) vs [Robert Star](@/w/robert-star.md) at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md). The match was officially confirmed the next day.
+* In a [video][walka-o-kontrakt] published on 26.08.2026 Krystian Malinowski stated that the three rookies: [Adept Dwa](@/w/adept-dwa.md), [Adept Trzy](@/w/adept-trzy.md) and Adept Cztery will face each other in a Three-Way Match. The winner will sign a contract and join the KPW roster, while the others will "shut their mouths once and for all and get back to their duties".
 
 ## Predicted card
 
@@ -55,6 +56,11 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag-Team Match
     nc: upcoming
+- - '[Adept Dwa](@/w/adept-dwa.md)'
+  - '[Adept Trzy](@/w/adept-trzy.md)'
+  - 'Adept Cztery'
+  - s: Contract Three-Way Match
+    nc: upcoming
 {% end %}
 
 ### Highlights
@@ -68,3 +74,4 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 [tournee-lesaka-2]: https://www.facebook.com/ErykLesak/posts/pfbid02g2mHCeysju7oah1uDG4wmMuwz4EuGV8KRxWmTyfEnwUp5PtX92vz6pzbDrTcxUQDl
 [telefon-do-przyjaciela]: https://www.youtube.com/watch?v=pKBW91BzT6U
 [karierowicze]: https://www.youtube.com/watch?v=JJHJUq71TmE
+[walka-o-kontrakt]: https://www.youtube.com/watch?v=qzVg3d6cVxk
