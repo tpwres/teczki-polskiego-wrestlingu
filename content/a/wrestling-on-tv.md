@@ -3,13 +3,12 @@ title = "Wrestling on Polish TV"
 template = "article.html"
 aliases = ["/a/tv"]
 weight = 0
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 category = ["History"]
 [extra]
 toclevel = 3
 [extra.gallery]
-manifest = "@/a/wrestling-on-tv-gallery.toml"
 +++
 
 Polish wrestling has only very recently gained any media attention and coverage. It has never been very popular
@@ -94,6 +93,10 @@ On 28.04.2025 KPW [announced][kombat-tv] that their old YouTube programme, Komba
 
 Following the cancellation of airing of WWE shows, Extreme returned to broadcasting AEW shows and also began airing NJPW events. The latter were shown with machine-translated subtitles using speech-to-text technology, resulting in very low-quality translation.
 
+## 2026
+
+The 25.08.2026 episode of "Dzień Dobry TVN" featured an [interview with American wrestler Paul Wight][the-giant] from AEW (best known as the Big Show in WWF/WWE; originally the Giant in WCW). In his segment, Paul talked about the basic workings of wrestling, some of its behind the scenes aspects, and what it means to be a pro wrestler. Also present in the studio was [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) who added some observations of his own, and four PTW workers who staged a brief fight: [Misiek](@/w/misiek.md), [Sigma Boy xD](@/w/sigma-boy.md), [Fabian](@/w/fabian.md) and [Nano Lopez](@/w/nano-lopez.md).
+
 ## References
 
 * [Article by SixKiller of Attitude Forum](https://web.archive.org/web/20210804014112/https://www.wrestling.pl/12-groszy-3-dlaczego-nie-chce-wrestlingu-w-polskiej-telewizji.html) criticizing all Polish wrestling commentary at the time (on Archive.org)
@@ -101,7 +104,6 @@ Following the cancellation of airing of WWE shows, Extreme returned to broadcast
 * [Old Polish TV Wikia][staratelewizja-2007] page for Friday, Jul 6 2007, lists TNA wrestling on Eurosport
 * [Article on WirtualneMedia from 2009][wmedia-eurosport] advertising wrestling on Eurosport
 * [Telemagazyn's archive of Eurosport listings](https://telemagazyn.pl/stacje/eurosport-1/archiwum), other channels also available
-
 
 [extreme-low-1]: https://www.extreme.com/pl/program/legacy-of-wrestling/
 [extreme-low-2]: https://www.facebook.com/legacyofwrestlingpl/posts/pfbid02mTUKt1pcAtvxPxFZASu4UHCEWbPLnbmnuDe219qYvB41kXG8rXLdyfMPefFbky3gl
@@ -119,3 +121,4 @@ Following the cancellation of airing of WWE shows, Extreme returned to broadcast
 [aew-warner]: https://www.polsatmedia.pl/Aktualnosc_6786/All-Elite-Wrestling-Emitowany-W-Polsce-Wylacznie-W-Warner-TV_1825161/index.html
 [kombat-tv]: https://www.facebook.com/photo/?fbid=1003326585259914&set=a.517136233878954
 [mzw-tvp3-opole]: https://youtu.be/ECnTkYD6w2g&t=2232
+[the-giant]: https://dziendobry.tvn.pl/zdrowie/sport-i-fitness/sekrety-wrestlingu-na-czym-polega-czy-zawodnicy-udaja-st9205001
