@@ -21,6 +21,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 * The next day Shigehiro Irie was given a match against [Jacob Crane](@/w/jacob-crane.md). 
 * 7.08.2026 saw the announcement of [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md).
 * On 13.08.2026, [Kalyana's](@/w/kalyana.md) appearance at the show was announced.
+* On 27.08.2026 FRPW announced that Japanese wrestler Akane Fujita will be present at the shows in Lublin and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
 
 ## Predicted card
 
@@ -32,6 +33,9 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
   - '???'
   - nc: upcoming
 - - '[Kalyana](@/w/kalyana.md)'
+  - '???'
+  - nc: upcoming
+- - 'Akane Fujita'
   - '???'
   - nc: upcoming
 {% end %}
