@@ -95,7 +95,7 @@ Following the cancellation of airing of WWE shows, Extreme returned to broadcast
 
 ## 2026
 
-The 25.08.2026 episode of "Dzień Dobry TVN" featured an [interview with American wrestler Paul Wight][the-giant] from AEW (best known as The Big Show in WWF/WWE; originally The Giant in WCW). In his segment, Paul talked about the basic workings of wrestling, some of its behind the scenes aspects, and what it means to be a pro wrestler. Also present in the studio was [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) who added some observations of his own, and four PTW workers who staged a brief fight: [Misiek](@/w/misiek.md), [Sigma Boy xD](@/w/sigma-boy.md), [Fabian](@/w/fabian.md) and [Nano Lopez](@/w/nano-lopez.md).
+The 25.08.2026 episode of "Dzień Dobry TVN" featured an [interview with American wrestler Paul Wight][the-giant] from AEW (best known as the Big Show in WWF/WWE; originally the Giant in WCW). In his segment, Paul talked about the basic workings of wrestling, some of its behind the scenes aspects, and what it means to be a pro wrestler. Also present in the studio was [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) who added some observations of his own, and four PTW workers who staged a brief fight: [Misiek](@/w/misiek.md), [Sigma Boy xD](@/w/sigma-boy.md), [Fabian](@/w/fabian.md) and [Nano Lopez](@/w/nano-lopez.md).
 
 ## References
 
