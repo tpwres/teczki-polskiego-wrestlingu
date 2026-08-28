@@ -15,7 +15,7 @@ Dieter Schwartz is a German wrestler best known for his appearances in [Maniac Z
 * Years active: 2017-present
 * Gimmicks/nicknames:
   - Deti Black {{ org_badge(orgs=['mzw']) }} (2018-2021)
-  - Dieter Schwartz {{ org_badge(orgs=['mzw', 'low']) }} 
+  - Dieter Schwartz {{ org_badge(orgs=['mzw', 'low', 'frpw']) }} 
 
 ## Professional wrestling career
 
@@ -26,6 +26,10 @@ Dieter Schwartz (then known as Deti Black) made his first appearance in Poland i
 ### Legacy of Wrestling (2025)
 
 In July 2025 Dieter made his debut in [Legacy of Wrestling](@/o/low.md) at their [third show](@/e/low/2025-07-11-low-3.md), where he was defeated by [Axel Fox](@/w/jakub.md).
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Dieter debuted in [FRPW](@/o/frpw.md) at the [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), in a match against [Jacob Crane](@/w/jacob-crane.md).
 
 ## In wrestling
 
