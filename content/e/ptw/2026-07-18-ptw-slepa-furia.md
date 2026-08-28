@@ -99,6 +99,7 @@ has_video = true
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457200)
 * [Official YouTube stream](https://www.youtube.com/watch?v=yf0ze77S5yE) (requires paid subscription)
+* [Open access video: Boguś vs Fabian](https://www.youtube.com/watch?v=bMbbAduNQkM)
 * [Stone Malone's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=28881)
 
 [godzina]: https://www.youtube.com/watch?v=ZuXiosMADQs

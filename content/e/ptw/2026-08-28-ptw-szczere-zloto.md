@@ -36,7 +36,6 @@ has_video = false
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Misiek](@/w/misiek.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-    nc: upcoming
 - - '[Daniel Razor](@/w/daniel-razor.md)'
   - '[Fabian](@/w/fabian.md)'
   - nc: upcoming
@@ -67,6 +66,11 @@ has_video = false
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
     nc: upcoming
+- credits:
+    Host, ring announcer: '[Arkadiusz "Pan" Pawłowski"](@/w/pan-pawlowski.md)'
+    Referees: '[Sędzia Herno](@/w/sedzia-herno.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Chairman: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 {% end %}
 
 ### Highlights
@@ -76,3 +80,4 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=458830)
+* [Open access video: Spartan vs Misiek](https://www.youtube.com/watch?v=nF17-ARVZII)
