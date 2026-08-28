@@ -5,7 +5,7 @@ authors = ["M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
-country = ["PL"]
+country = ["ZZ"]
 [extra.gallery]
 +++
 
