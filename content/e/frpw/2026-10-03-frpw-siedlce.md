@@ -25,6 +25,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 * On 14.08.2026 the second tournament pair was revealed to be [Bart Petro](@/w/bart-petro.md) vs [Goblin](@/w/goblin.md).
 * The third tournament match-up to be published was [Olgierd](@/w/olgierd.md) vs [Oskar Alexander](@/w/oskar-alexander.md), posted on 17.08.2026.
 * The fourth and final match-up in the first leg of the tournament was [Leon Lato](@/w/leon-lato.md) vs [Jakub](@/w/jakub.md), announced on 20.08.2026.
+* On 28.08.2026 came the announcement of [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).
 
 ## Predicted card
 
@@ -47,6 +48,9 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
     nc: upcoming
 - - '[Kalyana](@/w/kalyana.md)'
   - '???'
+  - nc: upcoming
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
   - nc: upcoming
 {% end %}
 
