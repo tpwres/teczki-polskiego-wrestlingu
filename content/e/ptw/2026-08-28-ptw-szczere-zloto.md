@@ -44,7 +44,7 @@ has_video = false
     s: Tag Team Match
 - - 'Damian Miller'
   - 'adept Filip'
-- - '[Kalom](@/w/jack-kalom.md)'
+- - '[Kalom](@/w/kalom.md)'
   - 'Pierre'
   - 'Gwiezdny Marek'
   - '???'
@@ -83,7 +83,7 @@ has_video = false
 
 ### Highlights
 
-* The Lucky 8 competition ended in a draw. [Kalom](@/w/jack-kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster.
+* The Lucky 8 competition ended in a draw. [Kalom](@/w/kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster.
 * Nikki Steel debuted in the Gold Rush Rumble Match.
 * This event saw the return of [Iskra](@/w/iskra.md), last seen at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
 
@@ -98,7 +98,7 @@ has_video = false
 7. [El Clavo](@/w/el-clavo.md)
 8. Nikki Steel
 9. [Vincent Caravaggio](@/w/vincent-caravaggio.md)
-10. [Kalom](@/w/jack-kalom.md)
+10. [Kalom](@/w/kalom.md)
 11. Pierre
 12. [Karol "Iskra" Górski](@/w/iskra.md)
 13. [Sawicki](@/w/sawicki.md)
