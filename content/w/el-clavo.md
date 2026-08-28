@@ -5,6 +5,8 @@ authors = ["M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
+country = ["PL"]
+[extra.gallery]
 +++
 
 El Clavo (_The Nail_) is a masked luchador working for [Prime Time Wrestling](@/o/ptw.md).
