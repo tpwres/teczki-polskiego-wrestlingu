@@ -58,7 +58,7 @@ has_video = true
   - s: Gauntlet Match
     r: DQ
 - - '[Sawicki](@/w/sawicki.md)'
-  - 'El Clavo'
+  - '[El Clavo](@/w/el-clavo.md)'
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
@@ -71,10 +71,6 @@ has_video = true
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
-
-### Recap
-
-* TBD 
 
 ## References
 

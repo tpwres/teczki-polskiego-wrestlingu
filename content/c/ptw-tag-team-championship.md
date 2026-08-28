@@ -249,7 +249,6 @@ While Boro never defended the title, he was also recognized as a champion per th
   - s: Tag Team Match
     en: '[PTW: Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
     ed: 2026-08-28
-    nc: upcoming
 {% end %}
 
 [freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

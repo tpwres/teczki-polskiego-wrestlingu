@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"Szczere Złoto" (_Pure Gold_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). The name of the event refers to the annual [Gold Rush Rumble Match](@/a/ptw-gold-rush-rumble.md) set to take place at the event, while following in the footsteps of [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) and [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). The name also invokes [Pure Gold](@/tt/pure-gold.md) - a tag team of [Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md), active in PTW in 2022-23; whether intentionally or not, is unknown.
+"Szczere Złoto" (_Pure Gold_) was a show by [Prime Time Wrestling](@/o/ptw.md). The name of the event refers to the annual [Gold Rush Rumble Match](@/a/ptw-gold-rush-rumble.md) set that took place at the event, while following in the footsteps of [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) and [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). The name also invokes [Pure Gold](@/tt/pure-gold.md) - a tag team of [Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md), active in PTW in 2022-23; whether intentionally or not, is unknown.
 
 ## Build-up
 
@@ -30,42 +30,50 @@ has_video = false
 * [Sawicki](@/w/sawicki.md) on 23.08.2026.
 * On 26.08.2026 PTW posted an image of the Lucky 8 contestants, including [Kalom](@/w/kalom.md). The winner of the competition will sign the contract with the promotion and earn a spot in the Gold Rush Rumble.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Misiek](@/w/misiek.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-- - '[Daniel Razor](@/w/daniel-razor.md)'
-  - '[Fabian](@/w/fabian.md)'
-  - nc: upcoming
-- - '[CJ Klakson](@/w/cj-klakson.md)'
-  - '[Nano Lopez](@/w/nano-lopez.md)'
-  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - '[Boguś](@/w/bogus.md)'
-  - '[Whiteblade](@/w/whiteblade.md)'
-  - '[Alex Brave](@/w/alex-brave.md)'
-  - '[Sawicki](@/w/sawicki.md)'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - s: 20-Man Gold Rush Rumble Match
-    nc: upcoming
+- - '[Fabian](@/w/fabian.md)'
+  - '[Daniel Razor](@/w/daniel-razor.md)'
 - - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
   - 'Skyfall: Mike Solaris & Evan Eclipse'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
-    nc: upcoming
+- - 'Damian Miller'
+  - 'adept Filip'
+- - '[Kalom](@/w/jack-kalom.md)'
+  - 'Pierre'
+  - 'Gwiezdny Marek'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - g: 'Lucky 8 competition'
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
+  - '[Nano Lopez](@/w/nano-lopez.md)'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - '[Boguś](@/w/bogus.md)'
+  - '[Whiteblade](@/w/whiteblade.md)'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - '[Sawicki](@/w/sawicki.md)'
+  - '[Blaze](@/w/blaze.md)'
+  - '[El Clavo](@/w/el-clavo.md)'
+  - 'Nikki Steel'
+  - '[Kalom](@/w/jack-kalom.md)'
+  - 'Pierre'
+  - '[Karol "Iskra" Górski](@/w/iskra.md)'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - '[Misiek](@/w/misiek.md)'
+  - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - '[Fabian](@/w/fabian.md)'
+  - 'Gwiezdny Marek'
+  - s: 20-Man Gold Rush Rumble Match
 - credits:
     Host, ring announcer: '[Arkadiusz "Pan" Pawłowski"](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Herno](@/w/sedzia-herno.md)'
@@ -75,7 +83,32 @@ has_video = false
 
 ### Highlights
 
-* TBD
+* The Lucky 8 competition ended in a draw. [Kalom](@/w/jack-kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster.
+* Nikki Steel debuted in the Gold Rush Rumble Match.
+* This event saw the return of [Iskra](@/w/iskra.md), last seen at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
+
+### Gold Rush Rumble entrances
+
+1. [Boguś](@/w/bogus.md)
+2. [Alex Brave](@/w/alex-brave.md)
+3. [Nano Lopez](@/w/nano-lopez.md)
+4. [Blaze](@/w/blaze.md)
+5. [Whiteblade](@/w/whiteblade.md)
+6. [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)
+7. [El Clavo](@/w/el-clavo.md)
+8. Nikki Steel
+9. [Vincent Caravaggio](@/w/vincent-caravaggio.md)
+10. [Kalom](@/w/jack-kalom.md)
+11. Pierre
+12. [Karol "Iskra" Górski](@/w/iskra.md)
+13. [Sawicki](@/w/sawicki.md)
+14. [Sigma Boy xD](@/w/sigma-boy.md)
+15. [CJ Klakson](@/w/cj-klakson.md)
+16. [Misiek](@/w/misiek.md)
+17. [Daniel Razor](@/w/daniel-razor.md)
+18. [Miyagi Shida](@/w/miyagi-shida.md)
+19. [Fabian](@/w/fabian.md)
+20. Gwiezdny Marek
 
 ## References
 
