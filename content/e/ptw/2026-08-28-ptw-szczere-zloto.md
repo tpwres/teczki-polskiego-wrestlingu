@@ -64,7 +64,7 @@ has_video = false
   - '[Blaze](@/w/blaze.md)'
   - '[El Clavo](@/w/el-clavo.md)'
   - 'Nikki Steel'
-  - '[Kalom](@/w/jack-kalom.md)'
+  - '[Kalom](@/w/kalom.md)'
   - 'Pierre'
   - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
