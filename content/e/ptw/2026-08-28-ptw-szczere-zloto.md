@@ -85,7 +85,7 @@ has_video = false
 
 ### Highlights
 
-* Before the championship match, [Spartan](@/w/spartan.md) took a mic for a brief promo. He further established his heelturn and declared PTW: WWA Championship worthless, throwing it away and telling Pawłowski 'to give it to some German, Austrian or Spaniard' as he doesn't give a shit anymore. He further declared his intent to stay [PTW Champion](@/c/ptw-championship.md) forever.
+* Before the Championship match, [Spartan](@/w/spartan.md) took a mic for a brief promo. He further established his heel turn and declared the PTW: WWA Championship worthless, throwing it away and telling Pawłowski to "give it to some German, Austrian or Spaniard", as he "doesn't give a shit any more". He further declared his intent to stay the [PTW Champion](@/c/ptw-championship.md) forever.
 * The Lucky 8 competition ended in a draw. [Kalom](@/w/kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster and earned their spots in Gold Rush Rumble match.
 * Nikki Steel debuted in the Gold Rush Rumble Match.
 * This event saw the return of [Iskra](@/w/iskra.md), last seen at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
