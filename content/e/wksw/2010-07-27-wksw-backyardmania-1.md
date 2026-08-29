@@ -25,7 +25,7 @@ Following the inception of [Do Or Die Wrestling](@/o/ddw.md) just the year befor
   - s: Hardcore Match
 {% end %}
 
-### Highlights
+### Notes
 
 * TLK flew in from Scotland, much to everybody's surprise.
 * VebVe vs TLK included thumb tacks, traffic cones and shopping carts. TLK bled profusely.
