@@ -32,9 +32,10 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
     c: '[DDW International Championship](@/c/ddw-international-championship.md)'
 {% end %}
 
-The event was later released on DVD, in very limited numbers. Fans could purchase the disc by e-mailing [Don Roid](@/w/don-roid.md).
+### Notes
 
-It was the last DDW show to be held in [Karuzela club](@/v/karuzela.md).
+* The event was later released on DVD, in very limited numbers. Fans could purchase the disc by e-mailing [Don Roid](@/w/don-roid.md).
+* It was the last DDW show to be held in [Karuzela club](@/v/karuzela.md).
 
 ## References
 

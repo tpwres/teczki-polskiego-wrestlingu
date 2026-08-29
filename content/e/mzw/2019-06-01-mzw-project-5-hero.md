@@ -41,7 +41,9 @@ has_video = false
     Referees: '[Sędzia Matt2Hot](@/w/matt2hot.md), [Sędzia Tobias](@/w/sedzia-tobias.md)'
 {% end %}
 
-This was the final show to be hosted by Tomasz Warchoł.
+### Notes
+
+* This was the final show to be hosted by Tomasz Warchoł.
 
 ## References
 

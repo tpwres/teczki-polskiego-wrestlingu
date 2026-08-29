@@ -72,7 +72,7 @@ It is also the first MZW show to feature ex-PTW wrestlers [Dziedzic](@/w/dziedzi
     Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Adi came out clasping hands with the audience, earning him "Pan Pawłowski" chants in reference to the way [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) makes his entrance. Once in the ring, Adi was urged by the audience to drop to his knees - again, in the manner of Pawłowski - which he did.
 * Before the show started [Rafi](@/w/rafi.md) came out to the ring and announced his retirement from the in-ring competition, although he didn't specify a reason. Instead, he served as a referee for about half of the matches.

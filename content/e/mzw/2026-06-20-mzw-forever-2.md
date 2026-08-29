@@ -1,7 +1,7 @@
 +++
 title = "MZW Forever 2"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["mzw"]
 venue = ["stacja-miedzyrzecka"]
@@ -69,7 +69,7 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
 
 ### Highlights
 
-* Due to uncertain weather conditions the decition was made to move the show indoors. Shortly before the show was to begin a heavy thunderstorm broke out; as a result, the start of the event was delayed by 20 minutes.
+* Due to uncertain weather conditions the decition was made to move the show indoors. Shortly before the show was to begin, a heavy thunderstorm broke out; as a result, the start of the event was delayed by 20 minutes.
 * Shadow spoke for the first time in many years, appearing as an authority figure to declare the [Legacy of Wrestling European Championship](@/c/low-european-championship.md) Match a Three-Way Match against [Sambor](@/w/sambor.md) and [Boro](@/w/boro.md).
 * Battle Royal elimination order:
   1. adept Marek
@@ -77,7 +77,7 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
   3. adept Maciej
   4. adept Stefan
   5. Sambor & Boro
-* Before his match, [Syriusz Dziedzic](@/w/dziedzic.md) urged the crowd to cheer for [Sędzia Michał](@/w/sedzia-michal.md). The match between him and [Max Speed](@/w/max-speed.md) saw many slips and trips and at one point, Dziedzic appeared to have injured his knee. This was however a 
+* Before his match, [Syriusz Dziedzic](@/w/dziedzic.md) urged the crowd to cheer for [Sędzia Michał](@/w/sedzia-michal.md). The match between him and [Max Speed](@/w/max-speed.md) saw many slips and trips and at one point, Dziedzic appeared to have injured his knee. This was however a ruse on his part.
 * During the break, [Adi](@/w/adrian-zgorski.md) entertained the crowd by performing a couple of one-handed cartwheels.
 * Three-Way Match between [Bartosz Plata](@/w/plata.md), [Disco Pablo](@/w/disco-pablo.md) and [Mutant](@/w/mutant.md) was billed as the show's _Co-main event_. 
 * [Marco Hammers](@/w/marco-hammers.md) reenacted his entrance routine from [Legacy of Wrestling: Open Season](@/e/low/2026-05-24-low-5.md). Continuing the injury angle, he came out wearing a neck brace, got himself hyped up and removed it before entering the ring. The neckbrace was given to a lucky fan.
