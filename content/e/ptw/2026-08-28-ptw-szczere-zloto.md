@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"Szczere Złoto" (_Pure Gold_) was a show by [Prime Time Wrestling](@/o/ptw.md). The name of the event refers to the annual [Gold Rush Rumble Match](@/a/ptw-gold-rush-rumble.md) set that took place at the event, while following in the footsteps of [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) and [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). The name also invokes [Pure Gold](@/tt/pure-gold.md) - a tag team of [Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md), active in PTW in 2022-23; whether intentionally or not, is unknown.
+"Szczere Złoto" (_Pure Gold_) was a show by [Prime Time Wrestling](@/o/ptw.md). The name of the event refers to the annual [Gold Rush Rumble Match](@/a/ptw-gold-rush-rumble.md) set that took place at the event, while following in the footsteps of [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) and [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). Coincidentally, the name also invokes [Pure Gold](@/tt/pure-gold.md) - a tag team of [Vic Golden](@/w/vic-golden.md) and [Gabriel Queen](@/w/gabriel-queen.md), active in PTW in 2022-23.
 
 ## Build-up
 
@@ -34,7 +34,7 @@ has_video = false
 
 {% card() %}
 - - '[Spartan](@/w/spartan.md)'
-  - g: 'Spartan vacates PTW: WWA Championship'
+  - g: 'Spartan vacates PTW: WWA Championship.'
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Misiek](@/w/misiek.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
@@ -44,17 +44,26 @@ has_video = false
   - 'Skyfall: Mike Solaris & Evan Eclipse'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
-- - 'Damian Miller'
-  - 'adept Filip'
-- - '[Kalom](@/w/kalom.md)'
+- - '[Arkadiusz "Pan" Pawłowski"](@/w/pan-pawlowski.md)'
+  - '[Kalom](@/w/kalom.md)'
+  - '[Daniel Razor](@/w/daniel-razor.md)'
   - 'Pierre'
+  - '[Fabian](@/w/fabian.md)'
   - 'Gwiezdny Marek'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - '???'
-  - g: 'Lucky 8 competition'
+  - '[Miyagi Shida](@/w/miyagi-shida.md)'
+  - 'adeptka Paula'
+  - '[Sigma Boy xD](@/w/sigma-boy.md)'
+  - 'adeptka Marta'
+  - '[Alex Brave](@/w/alex-brave.md)'
+  - 'adept Emil'
+  - '[Whiteblade](@/w/whiteblade.md)'
+  - 'adept Dante'
+  - '[Boguś](@/w/bogus.md)'
+  - 'adept Filip'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: 'Lucky 8 winner reveal'
+- - 'Damian Miller'
+  - 'adept Filip' 
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'
   - '[Nano Lopez](@/w/nano-lopez.md)'
@@ -80,14 +89,17 @@ has_video = false
     Host, ring announcer: '[Arkadiusz "Pan" Pawłowski"](@/w/pan-pawlowski.md)'
     Referees: '[Sędzia Herno](@/w/sedzia-herno.md)'
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
-    Chairman: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
+    Chairman, Gold Rush Rumble Special Guest Referee: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
+    Guest commentary for Gold Rush Rumble: '[Spartan](@/w/spartan.md)'
 {% end %}
 
 ### Highlights
 
-* Before the Championship match, [Spartan](@/w/spartan.md) took a mic for a brief promo. He further established his heel turn and declared the PTW: WWA Championship worthless, throwing it away and telling Pawłowski to "give it to some German, Austrian or Spaniard", as he "doesn't give a shit any more". He further declared his intent to stay the [PTW Champion](@/c/ptw-championship.md) forever.
-* The Lucky 8 competition ended in a draw. [Kalom](@/w/kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster and earned their spots in Gold Rush Rumble match.
-* Nikki Steel debuted in the Gold Rush Rumble Match.
+* Before the Championship match, [Spartan](@/w/spartan.md) took the mic for a brief promo. He further established his heel turn and declared the PTW: WWA Championship worthless, throwing it away and telling Pawłowski to "give it to some German, Austrian or Spaniard", as he "doesn't give a shit any more". He further declared his intent to stay the [PTW Champion](@/c/ptw-championship.md) forever.
+* At the show, the results of The Lucky 8 contest that happened over previous weeks on social media, were revealed. All the rookies and their mentors entered the ring dressed fancily and each was told their place in their final ranking, along with some pep talk from Pawłowski. The reveal continued until the final three, where it turned out to be a draw. [Kalom](@/w/kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster and earned their spots in Gold Rush Rumble match.
+* After the winner reveal, the mystery man from the previous show made his entrance and introduced himself as Damian Miller. After a rambling heel promo, he decided to face one of the rookies, choosing the smallest one who ranked last in the contest - Filip, ironically calling him "the toughest-looking one". This resulted in an impromptu squash match.
+* Post-match, Miller continued to punish Filip, but showing unusual compassion, Vincent Caravaggio made the save and checked on beaten Filip before leaving the ring.
+* Nikki Steel, a Munich-based female wrestler, debuted in the Gold Rush Rumble Match.
 * This event saw the return of [Iskra](@/w/iskra.md), last seen at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
 
 ### Gold Rush Rumble entrances
@@ -117,3 +129,4 @@ has_video = false
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=458830)
 * [Open access video: Spartan vs Misiek](https://www.youtube.com/watch?v=nF17-ARVZII)
+* [Nikki Steel's Instagram profile](https://www.instagram.com/_nikki_steel_/)
