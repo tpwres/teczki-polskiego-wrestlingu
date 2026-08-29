@@ -31,9 +31,9 @@ Only two matches were held, with the main event seeing Norris defend his champio
     Commentary: '[Mateusz Mikołajczak](@/w/sedzia-matek.md), Stanisław Stachowiak'
 {% end %}
 
-### Recap
+### Highlights
 
-* In the final moments, we see Norris hang Rob in a tree of woe position, head down in a beer crate. Norris then lands a coast-to-coast jump into the crate. Scaffold fails to get up on his feet, and Norris is declared the last man standing, retaining the belt. His opponent is carried out on a stretcher in a dramatic ending, although the announcer fails to make it credible.
+* In the final moments, we see Norris hang Rob in a Tree of Woe position, head down in a beer crate. Norris then lands a Coast-to-Coast jump into the crate. Scaffold fails to get up on his feet, and Norris is declared the last man standing, retaining the belt. His opponent is carried out on a stretcher in a dramatic ending, although the announcer fails to make it credible.
 
 ## References
 
