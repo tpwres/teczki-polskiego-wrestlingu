@@ -54,7 +54,7 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), Yawara'
 {% end %}
 
-### Recap
+### Highlights
 
 * With a table and two chairs set up in the ring, [Bill Feager](@/w/feager.md), [Steve Kuningas](@/w/steve-kuningas.md) and [Mister Z](@/w/mister-z.md) entered to have a staredown and contract signing for the main event.
 * The El Paso Outlaw Match saw [Goblin](@/w/goblin.md) straddle a hobby horse, wearing a pink cowboy hat and shooting cap guns into the crowd. A botched table spot was successfully repeated post fight, to the crowd's great joy. The botch and the repetition made it to Botchamania's Facebook page, and later to [Botchamania 489](https://youtu.be/lGThcHUL5g0?t=516).

@@ -38,7 +38,7 @@ Gala Na Hali (_An Event in a Gym Hall_) was an early PpW show from the backyard 
     Commentary: 'Roger Kevin'
 {% end %}
 
-### Recap
+### Highlights
 
 * The commentator was only present in the recap section at the beginning.
 * The fights had non-diegetinc music added in post, including the [John Cena theme][cena-za-kilo].

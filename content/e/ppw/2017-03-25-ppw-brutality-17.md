@@ -40,7 +40,7 @@ This was the final PpW show to use the old DIY ring.
     Referees: '???, [Miłosz](@/w/mister-z.md), [Olgierd](@/w/olgierd.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * One of the fans kept drumming on a plastic roadblock barrier since the start of the main event. Perhaps fed up with it, Harcore Icon ended up throwing Johnny Blade at him.
 * Midway through the main event, the referee hit Hardcore Icon with a light tube, prompting Johnny Blade to attack the ref.

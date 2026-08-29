@@ -40,9 +40,9 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-### Aftermath
+### Highlights
 
-This was [Jacob Crane](@/w/jacob-crane.md)'s last PTW appearance. He was later officially released in August 2022.
+* This was [Jacob Crane](@/w/jacob-crane.md)'s last PTW appearance. He was later officially released in August 2022.
 
 ## References
 

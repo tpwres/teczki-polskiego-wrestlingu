@@ -48,7 +48,7 @@ British wrestler Jonny Storm returned for a match against [Axel Fox](@/w/jakub.m
     Post-match inteview segments: Tobiasz "Skyver" Korzybski
 {% end %}
 
-### Recap
+### Highlights
 
 * [Syriusz Dziedzic](@/w/dziedzic.md) was previously kidnapped and held captive by [Sinister](@/w/sinister.md). In this return, he became Sinister's ally, with a new look, theme song and a more aggressive moveset.
 * In a post-match interview, [Sinister](@/w/sinister.md) answered all questions on behalf of [Dziedzic](@/w/dziedzic.md), without allowing him to speak. Sinister announced that the next [Underground show](@/e/ptw/2023-07-30-ptw-underground-16.md) is when Dziedzic's baptism is going to be held.

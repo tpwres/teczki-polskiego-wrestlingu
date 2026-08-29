@@ -45,7 +45,7 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
 {% end %}
 
-### Aftermath
+### Highlights
 
 * Despite being announced for the show, Jack Harrop did not appear due to an injury. Instead, [Chris X](@/w/chris-x.md) was moved to the main event, and [Jacob Crane](@/w/jacob-crane.md) was added to the card as [Bill Feager's](@/w/feager.md) opponent.
 * [Feager](@/w/feager.md) won the right to face [Steve Kuningas](@/w/steve-kuningas.md) for the [PpW Championship](@/o/ppw.md#championships).

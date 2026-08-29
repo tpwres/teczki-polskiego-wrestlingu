@@ -33,7 +33,7 @@ Neomania II was [PpW's](@/o/ppw.md) early backyard show that took place on an un
     Commentary: '???, ???'
 {% end %}
 
-### Recap
+### Highlights
 
 * Red Dorada vs Angel Guerrero is presented in a 4:3 aspect ratio, whereas [Red Power](@/w/rob-scaffold.md) vs [Mister Z](@/w/mister-z.md) is in 3:4. Judging by the cameraman's shadow, the main event was filmed with a phone held in portrait mode.
 * According to the [PpW Wikia][ppw-wiki-neo-2], RoodWood and Red Dorada are the same person (also known as Mati), and his fight against Angel Guerrero was the first video uploaded to the PpW YouTube channel.

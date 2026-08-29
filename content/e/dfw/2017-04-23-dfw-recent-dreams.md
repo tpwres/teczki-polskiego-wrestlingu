@@ -35,7 +35,7 @@ With five matches on the card, this was a big event by DFW's standards. In the m
     Commentary: 'Seth Donner, Marcel Koniecki, Adrian Gawrychowski'
 {% end %}
 
-### Recap
+### Highlights
 
 * Corin Mear's bodypaint was inspired by the main character Aang from "Avatar: The Last Airbender" animated series.
 * After his match, Rob Scaffold assumed cameraman duties, and can be sometimes seen on footage from the other cameras, filming from the left side of the ring (from the audience's POV).

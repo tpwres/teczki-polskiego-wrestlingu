@@ -64,7 +64,7 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
-### Aftermath
+### Highlights
 
 * This turned out to be [Moloch's](@/w/moloch.md) last match in KPW, although he was booked for the [following event](@/e/kpw/2019-11-16-kpw-arena-15.md).
 * This show marked the last time Boski Ostrowski appeared as a babyface. Starting with Arena 15 he adopted a more serious heel persona, renaming himself Boski 2.0.

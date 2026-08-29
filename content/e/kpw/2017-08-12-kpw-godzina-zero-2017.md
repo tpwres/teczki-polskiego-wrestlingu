@@ -57,7 +57,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * An early pin attempt by [Kaszub](@/w/kaszub.md) is miscounted to three. The bell rang, but the fight went on regardless, and the ref soon restarted the match.
 * [Alisa](@/w/alisa.md), who now joined the Kawaleria faction, enters with a baseball bat and attacks [Mira](@/w/mira.md) mid-dance. The fight was declared a no-contest after a referee bump.

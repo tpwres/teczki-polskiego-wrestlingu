@@ -86,7 +86,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Speedball immediately won the Polish crowd's support. Delivered his signature fast kicks and running tornado kick.
 * After the Nina vs [Diana](@/w/diana-strong.md) match, Pawłowski leaked plans to introduce a [women's title](@/c/ptw-womens-championship.md).

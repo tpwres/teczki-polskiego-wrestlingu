@@ -47,7 +47,7 @@ Crossing Roads 2016 was an early backyard era [PpW](@/o/ppw.md) show, held outdo
     Commentary: '???, ???'
 {% end %}
 
-### Recap
+### Highlights
 
 * A turnbuckle broke early on in the first match.
 * Black Orion tagged in Automatico who promptly tagged himself out, declining to change his partner.

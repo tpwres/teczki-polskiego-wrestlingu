@@ -63,7 +63,7 @@ has_video = true
     Commentary: '[Krystian "Resivny" Smoleń](@/w/resivny.md), [Adam Goldschmidt](@/w/adam-goldschmidt.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * [Diana Strong](@/w/diana-strong.md) made a short appearance to congratulate Heidi on her win. The bracket for the tournament is still unclear, but it seems they will face each other down the line.
 

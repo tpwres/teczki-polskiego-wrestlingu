@@ -40,12 +40,11 @@ KPW held a wrestling exhibition during the event on the penultimate day. Wrestli
 
 Attendance: estimated 200.
 
-### Recap
+### Highlights
 
-- Lambert attacked [Kaszub](@/w/kaszub.md) before the opening bell, then left the ring to find a chair and kendo stick. The arsenal used was even wider - lighting tubes, a ladder and a baseball bat. The bleeding Lambert powerbombed Kaszub onto a large lighting tube to win.
-- [Kamil Aleksander](@/w/kamil-aleksander.md) countered Korpo's Deadline into a pin.
-- People cheer Kawaler during his entrance, as he's billed from the nearby area, only to
-  turn on him once he calls them dirty and smelly, and the festival a place of filth. Kawaler dominates, first punishing [Bianca](@/w/bianca.md), then Robert. Bianca performs a stinkface on Kawaler to great reactions. Oliwa enters to even the odds, but gets a low blow while his team was distracted.
+* Lambert attacked [Kaszub](@/w/kaszub.md) before the opening bell, then left the ring to find a chair and kendo stick. The arsenal used was even wider - lighting tubes, a ladder and a baseball bat. The bleeding Lambert powerbombed Kaszub onto a large lighting tube to win.
+* [Kamil Aleksander](@/w/kamil-aleksander.md) countered Korpo's Deadline into a pin.
+* People cheer Kawaler during his entrance, as he's billed from the nearby area, only to turn on him once he calls them dirty and smelly, and the festival a place of filth. Kawaler dominates, first punishing [Bianca](@/w/bianca.md), then Robert. Bianca performs a stinkface on Kawaler to great reactions. Oliwa enters to even the odds, but gets a low blow while his team was distracted.
 
 ## References
 

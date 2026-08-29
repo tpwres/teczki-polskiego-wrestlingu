@@ -62,7 +62,7 @@ Another big (literally) feature of the event was Polish Giant, an up-and-coming 
 
 Attendance: about 120
 
-### Aftermath
+### Highlights
 
 * Polish Giant turned out to be poorly trained and dangerous in the ring, and might have exaggerated his pro wrestling resume.
 * [Don Roid](@/w/don-roid.md) claimed that the Giant was unprofessional and a diva, and clashed with him about money.

@@ -23,7 +23,7 @@ This was an early backyard show by [Pomerania Indy Wrestling Group](@/o/piwg.md)
     nc: '?'
 {% end %}
 
-#### Recap
+#### Highlights
 
 * According to the [recap thread][recap-na-atti] on Attitude Forum, Du-Ray and Crazy Lunatic were attacked backstage by [Rider](@/w/asmund.md) and Evolution (who at that point didn't yet have an idea for a ring name).
 * According to a post by Rider in the same thread, Scorpion had little to no skills and was gassed after just two mintues, making everyone angry.

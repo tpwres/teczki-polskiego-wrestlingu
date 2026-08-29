@@ -65,7 +65,7 @@ All three championships were defended and two changed hands. The Magnificent Sev
     Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * This was the last event to feature the original OldTown championship belt. From [Arena 23](@/e/kpw/2023-11-24-kpw-arena-23.md) onwards, it was replaced by a more conventional leather plate design.
 * In the Battle Royal finale, Leon Lato faced Chemik again, after being defeated in their singles match.

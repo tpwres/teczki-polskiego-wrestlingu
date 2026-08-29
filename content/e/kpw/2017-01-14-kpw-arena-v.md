@@ -37,7 +37,7 @@ The main event featured British wrestler Pastor William Eaver, a former PROGRESS
     Special Referee: '[Bianca](@/w/bianca.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * [Bianca](@/w/bianca.md) was the special referee for the main event, and featured on the show poster in a ref's attire. Previously she'd refereed Kawaler vs [Robert Star](@/w/robert-star.md) at [Arena 3](@/e/kpw/2016-06-11-kpw-arena-3.md).
 * Eaver initially won by pinfall, but [Bianca](@/w/bianca.md) later reversed the decision and restarted the match as Kawaler was seen grabbing the ropes.

@@ -107,7 +107,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * The show was initially advertised as a four-day event, however this turned out to be a mistake on the organiser's part.
 * Keeping with the theme of the festival, each day featured a match between wrestlers representing different genres of metal music.

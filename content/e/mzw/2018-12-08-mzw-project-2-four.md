@@ -42,7 +42,7 @@ has_video = true
     Referee: '[Sędzia Matt2Hot](@/w/matt2hot.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Wilfried Dietrich was announced to face [Apollo Anderson](@/w/apollo-anderson.md), but was replaced by [Deti Black](@/w/dieter-schwartz.md).
 * [Lady Killer](@/w/boro.md) refused to enter the ring with [Asmund](@/w/asmund.md), leading to the match being declared a no-contest.
@@ -57,4 +57,4 @@ has_video = true
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=322461)
 * [Full match: Tournament Final 4-way](https://www.youtube.com/watch?v=31_PIi22v6o)
-* [Recap video](https://www.youtube.com/watch?v=8LKMTYPzaIU)
+* [Highlights video](https://www.youtube.com/watch?v=8LKMTYPzaIU)

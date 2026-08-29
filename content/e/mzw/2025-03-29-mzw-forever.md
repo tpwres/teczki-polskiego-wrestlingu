@@ -68,7 +68,7 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
     Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * [Isnorr](@/w/isnorr.md), who broke his arm [two weeks prior](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), was present in the audience. During the break in the show he interviewed fans for the Istota Wrestlingu podcast.
 * This was [Goblin's](@/w/goblin.md) debut in MZW. He was supposed to appear at the [previous show](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), but could not make it.

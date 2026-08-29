@@ -49,21 +49,21 @@ has_video = true
 
 Attendance: about 300
 
-### Recap
+### Highlights
 
-- Two new girls in catsuits accompany the debuting [Moloch](@/w/moloch.md) to the ring. One of them will later make an in-ring debut as [Diana](@/w/diana-strong.md). The other one is Laura, who later trained with [PTW](@/o/ptw.md) but never debuted.
-- Ditching the old persona of Kowalski, [Mateusz Kakareko](@/w/mateusz-kakareko.md) became more aggressive, using a Taekwondo-based style, and broke his losing streak.
-- Greg "christened" members of the Kawaleria stable by spitting water on them. This would later become part of his character.
-- [Kamil Aleksander](@/w/kamil-aleksander.md)'s mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)
-- Zasada was eliminated first, then [Kamil Aleksander](@/w/kamil-aleksander.md). With the balance now favouring Team Greg, [Adam Bravo](@/w/adam-bravo.md) pulls out a betrayal by laying down for a pin, showing his middle fingers to Kawaleria.
-- Pannache eliminated [Rosetti](@/w/rosetti.md), but ultimately Dawid had to face Greg and [Sawicki](@/w/sawicki.md) alone.
-- Kawaler delays the match with a very long entry in his new gear, preceded by a body double decoy in his previous attire. Greg would copy this years later during [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).
-- [Bianca](@/w/bianca.md) interrupted the opening bell with her music. Grabbed the mic to present a counter to Kawaler's blackmail photos: some of her own, depicting his private parties. These showed him and Greg in a naughty position, both wearing skirts. The audience laughed at the fuming, embarassed heels. Bianca forced both to swear an oath to never again try blackmailing her.
-- Lumberjacks ensured that Kawaler couldn't flee the ring easily, as is his tactic. Same for Robert, who was also roughed up each time. Random group brawls ensued.
-- Ref bump by Kawaler denies Robert a win by submission. Later, Kawaler hits a chairshot, but the ref is unable to count past two.
-- Kawaler invites his butler [Chemik](@/w/chemik.md) to start pouring out vodka, but [Ron Corvus](@/w/ron-corvus.md) interrupts.
-- In the scramble, [Moloch](@/w/moloch.md) briefly fought [Gracjan Korpo](@/w/gracjan-korpo.md). They would have a proper fight on the next event.
-- Corvus cleared the ring by piledriving members of Kawaleria one at a time. Kawaler is dragged into the ring by force. One powerbomb through a table later, we have a new KPW Champion, ending Kawaler's reign.
+* Two new girls in catsuits accompany the debuting [Moloch](@/w/moloch.md) to the ring. One of them will later make an in-ring debut as [Diana](@/w/diana-strong.md). The other one is Laura, who later trained with [PTW](@/o/ptw.md) but never debuted.
+* Ditching the old persona of Kowalski, [Mateusz Kakareko](@/w/mateusz-kakareko.md) became more aggressive, using a Taekwondo-based style, and broke his losing streak.
+* Greg "christened" members of the Kawaleria stable by spitting water on them. This would later become part of his character.
+* [Kamil Aleksander](@/w/kamil-aleksander.md)'s mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)
+* Zasada was eliminated first, then [Kamil Aleksander](@/w/kamil-aleksander.md). With the balance now favouring Team Greg, [Adam Bravo](@/w/adam-bravo.md) pulls out a betrayal by laying down for a pin, showing his middle fingers to Kawaleria.
+* Pannache eliminated [Rosetti](@/w/rosetti.md), but ultimately Dawid had to face Greg and [Sawicki](@/w/sawicki.md) alone.
+* Kawaler delays the match with a very long entry in his new gear, preceded by a body double decoy in his previous attire. Greg would copy this years later during [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).
+* [Bianca](@/w/bianca.md) interrupted the opening bell with her music. Grabbed the mic to present a counter to Kawaler's blackmail photos: some of her own, depicting his private parties. These showed him and Greg in a naughty position, both wearing skirts. The audience laughed at the fuming, embarassed heels. Bianca forced both to swear an oath to never again try blackmailing her.
+* Lumberjacks ensured that Kawaler couldn't flee the ring easily, as is his tactic. Same for Robert, who was also roughed up each time. Random group brawls ensued.
+* Ref bump by Kawaler denies Robert a win by submission. Later, Kawaler hits a chairshot, but the ref is unable to count past two.
+* Kawaler invites his butler [Chemik](@/w/chemik.md) to start pouring out vodka, but [Ron Corvus](@/w/ron-corvus.md) interrupts.
+* In the scramble, [Moloch](@/w/moloch.md) briefly fought [Gracjan Korpo](@/w/gracjan-korpo.md). They would have a proper fight on the next event.
+* Corvus cleared the ring by piledriving members of Kawaleria one at a time. Kawaler is dragged into the ring by force. One powerbomb through a table later, we have a new KPW Champion, ending Kawaler's reign.
 
 ## References
 

@@ -29,7 +29,7 @@ MCW Charytatywnie (roughly: _MCW for Charity_) was a 2024 [Mine City Wrestling](
     s: No-DQ Match
 {% end %}
 
-### Recap
+### Highlights
 
 * The show accompanied other events. During the fights, people can be seen walking around, including a couple of mascots and some people in karate gi.
 * The entire show was shot with a single camera, leading to some "cinematic" pans around the ring to catch a better angle.

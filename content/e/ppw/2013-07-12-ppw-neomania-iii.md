@@ -39,7 +39,7 @@ The show was held outdoors at three different locations: a local playground, a "
     Commentary: '???, [Johnny Blade](@/w/johnny-blade.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * The fights were commented live by the cameramen. Twice during the opening match the cameraman can be heard whispering to [Sin Cara](@/w/sin-cara.md), telling him the next move.
 * The main event was the only match to have a referee. In the other fights the three-count was done either by the cameraman, or the wrestlers themselves.

@@ -47,8 +47,7 @@ For this event, PTW invited Belgian wrestler Mike D. Vecchio, a regular in many 
     Referees: '[Sędzia Matek](@/w/sedzia-matek.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-
-### Recap
+### Highlights
 
 * In a promo before his match, Puncher teased the audience by showing interest in a manga book. He then proceeded to tear it up and crush the pages, and derided the audience for enjoying it.
 * For this event, unique entrance graphics were used, sometimes with character portraits done in a manga style. Samson altered his entrance routine - instead of entering in his signature military jacket, he wore a headband and a green "forest camo" poncho, with kendo stick in hand.

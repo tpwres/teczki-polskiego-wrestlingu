@@ -26,7 +26,7 @@ has_video = true
 
 Audience: estimated 20
 
-### Recap
+### Highlights
 
 * The opening segment sets up the tag team match, only to be interrupted by newcomer Joey Riddic. Joey proceeds to insult each of the four wrestlers present, and announces himself to be the best. PJ Black enters, and challenges him because he doesn't have a match planned yet.
 * After the match, Joey changes out of his ring gear, and assumes referee duties for the remainder of the event. This was his only match for DFW.

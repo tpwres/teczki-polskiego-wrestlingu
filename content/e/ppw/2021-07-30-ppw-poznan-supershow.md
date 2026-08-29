@@ -84,7 +84,7 @@ Some matches featured wrestlers poorly disguised with masks, fighting as another
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Isnorr pulled a large hammer from under the ring, and used it to attack Esteban, to later win with a spear on the stunned opponent.
 * Johnny found a large construciton stapler under the ring. Warned by the ref that using it on his opponent would result in a DQ, Johnny stapled a card to his own chest. Later, he hit Adam with a kendo stick while the ref was looking away, and pinned him for the win.

@@ -29,7 +29,7 @@ Christmas Brawl was held on December 6th, 2016, which was a Tuesday. December 6t
   - s: '[DFW Championship](@/c/dfw-championship.md) #1 Contender Match'
 {% end %}
 
-### Recap
+### Highlights
 
 * Norris scored the first pinfall. Revage then applied a chokehold outside the ring, and managed to beat the referee's ten count to equalize the score and later win with a stomp from the top turnbuckle.
 * Hunter issued an open challenge for his DFW Championship title, which was answered by Pain Killer. Direk, who was still gunning for the title, could only challenge after winning his contender match.

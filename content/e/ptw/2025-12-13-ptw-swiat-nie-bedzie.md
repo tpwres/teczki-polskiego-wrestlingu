@@ -67,7 +67,7 @@ has_video = true
     Timekeeper: '[Boguś](@/w/bogus.md)'
  {% end %}
 
-### Recap
+### Highlights
 
 * Nano Lopez retains his championship after distracting the referee, illegally poking Klakson's eyes and hitting him with his Last Plane to Spain.
 * After the match, Nano cuts a short promo and is attacked by a masked character. After hitting Nano with his own Last Plane to Spain, he reveals himself to be Daniel Razor, now with short hair, who wants to reclaim the Underground Championship back from "Starboy". Pan Pawłowski intervenes and moves Razor's hardcore match up the card, as the next fight.

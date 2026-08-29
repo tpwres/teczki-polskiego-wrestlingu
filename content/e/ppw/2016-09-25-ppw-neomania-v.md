@@ -41,7 +41,7 @@ Neomania V was PpW's backyard show held outdoors at [Winogronowa 17](@/v/winogro
     Commentary: 'Kevin Kevin, Roger Kevin, Adrian Gawrychowski, [Jakub "Gruby" Kamiński](@/w/jacob-crane.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * An image posted to the [Facebook event][fb-event] announced one of the wrestlers as Red Dorada, but in the official video he's referred to as Mati.
 * Kevin Kevin answered a phone call while commenting the first match; he can be heard talking to his wife alongside Roger Kevin's commentary of the fight.
