@@ -38,7 +38,15 @@ Spartan returned over a year later during [Gold Rush](@/e/ptw/2024-02-03-ptw-5-g
 
 Pawłowski's heel turn caused Spartan to step onto a war path with the villainous General Manager. He allied himself with PTW's co-owner, [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md), to fend off both Arkadiusz and the members of his new stable, [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_), consisting of Pawłowski, Puncher and [Royal Rebels](@/tt/royal-rebels.md) - a team of [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md). They feuded for the next few shows with Spartan trying to lay his hands on Puncher. 
 
-At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) Team Okoński faced Nietykalni in an Elimination Tag Team Match, with one of the stakes of the match being the possibility of a Championship opportunity for Spartan. However, during the match [Nano Lopez](@/w/nano-lopez.md) betrayed his teammates by striking Spartan with a chair, allowing Nietyklani to score a victory. Spartan's ban didn't last long, as at PTW's [next show](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Okoński faced Pan Pawłowski and Puncher in a Three Stages of Hell Match, which he won and once again allowed Spartan to face Puncher for the PTW Championship at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
+At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md) Team Okoński faced Nietykalni in an Elimination Tag Team Match, with one of the stakes of the match being the possibility of a Championship opportunity for Spartan. However, during the match [Nano Lopez](@/w/nano-lopez.md) betrayed his teammates by striking Spartan with a chair, allowing Nietykalni to score a victory. Spartan's ban didn't last long, as at PTW's [next show](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Okoński faced Pan Pawłowski and Puncher in a Three Stages of Hell Match, which he won and once again allowed Spartan to face Puncher for the PTW Championship at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
+
+Despite multiple shenenigans and tricks pulled off by Puncher's manager Pan Pawłowski, the match finally ended with Spartan standing tall over defeated Puncher, thus ending his 679 days long reign and Pawłowski's run as the Chairman. In addition, Spartan won a PTW: WWA Championship.
+
+After months of defending PTW Championship, Spartan was feeling discarded by Okoński, whose loyal soldier he once was. Chairman reinstating Pawłowski into the federation was a final straw and at [PTW Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) he turned heel.
+
+In the closing segment of the show, he made an unnanounced entrance and took the mic, proceeding to blame Okoński for using him as his soldier and later completely ignoring him, to the point of rehiring former villain Pawłowski without any notice. He slapped Okoński, slammed Skwarczyński onto the mat and got his hands on Pawłowski. Members of the roster unsuccesfully entered to stop Spartan's rampage, in the following order: [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md). Then [Misiek](@/w/misiek.md) entered to face off against Spartan, who finally left the ring. After a brief consultation with the Chairman, Pawłowski announced that Misiek would challenge Spartan for the [PTW Championship](@/c/ptw-championship.md) at the very next show.
+
+At [PTW: Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md), Spartan vacated the PTW: WWA Championship, deeming it unworthy of his time. He retained the PTW Championship against Misiek, later joining commentary for Gold Rush Rumble and eventually confronting the winner and his next contender - [Vincent Caravaggio](@/w/vincent-caravaggio.md).
 
 ## International wrestling appearances
 
@@ -54,13 +62,14 @@ In addition to his work in Poland, Spartan also made a few appearances on the Hu
     {{ music(yt='ppF8MYxnFy8')}}
     {{ music(spot='4K6HcWgBi3mfbzpmsUK5sU')}}
     {{ music(apple='1654286940?i=1654286941')}}
-  - "Spartan Theme" by Independent Contractor
+  - "Spartan Theme" by Unknown artist
     {{ org_badge(orgs=['ptw']) }} (2024-) <br>
 
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
   - [PTW Championship](@/c/ptw-championship.md) (1 time; current)
+  - PTW: WWA Championship (1 time)
   - [PTW Awards](@/a/ptw-awards.md) (2 times):
     * Finisher of the Year (2025)
     * Feud of the Year (2025) - as part of Team Okoński
