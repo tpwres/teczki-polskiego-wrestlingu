@@ -1,7 +1,7 @@
 +++
 title = "PTW: Szczere Złoto"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747, Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -33,6 +33,8 @@ has_video = false
 ## Card
 
 {% card() %}
+- - '[Spartan](@/w/spartan.md)'
+  - g: 'Spartan vacates PTW: WWA Championship'
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Misiek](@/w/misiek.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
@@ -83,7 +85,8 @@ has_video = false
 
 ### Highlights
 
-* The Lucky 8 competition ended in a draw. [Kalom](@/w/kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster.
+* Before the championship match, [Spartan](@/w/spartan.md) took a mic for a brief promo. He further established his heelturn and declared PTW: WWA Championship worthless, throwing it away and telling Pawłowski 'to give it to some German, Austrian or Spaniard' as he doesn't give a shit anymore. He further declared his intent to stay [PTW Champion](@/c/ptw-championship.md) forever.
+* The Lucky 8 competition ended in a draw. [Kalom](@/w/kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster and earned their spots in Gold Rush Rumble match.
 * Nikki Steel debuted in the Gold Rush Rumble Match.
 * This event saw the return of [Iskra](@/w/iskra.md), last seen at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
 
