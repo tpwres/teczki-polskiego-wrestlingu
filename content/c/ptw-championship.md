@@ -179,7 +179,6 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW: Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
     ed: 2026-08-28
-    nc: upcoming
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

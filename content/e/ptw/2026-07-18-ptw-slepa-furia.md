@@ -23,7 +23,7 @@ has_video = true
 * On 10.07.2026 PTW announced [Vincent Caravaggio](@/w/vincent-caravaggio.md) (forced out of holiday by [Łukasz Okoński](@/w/lukasz-okonski.md)) vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) (returning after an injury, last seen at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)).
 * On 11.07.2026 the promotion informed that the opening match of the show is going to be [Fabian](@/w/fabian.md) vs [Boguś](@/w/bogus.md).
 * The next match was [Alex Brave](@/w/alex-brave.md) vs [Flex Skywalker](@/w/flex-skywalker.md), revealed on 13.07.2026.
-* Later the same day PTW announced a Tag Team Match between Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)) and [El G](@/w/el-g.md) & El Clavo.
+* Later the same day PTW announced a Tag Team Match between Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)) and [El G](@/w/el-g.md) & [El Clavo](@/w/el-clavo.md).
 * The next day PTW announced [Misiek](@/w/misiek.md) vs Stone Malone from Scotland.
 * On 15.07.2026 PTW announced that [Łukasz Okoński](@/w/lukasz-okonski.md) will open the show.
 * On 17.07.2026 the federation announced the crew of host/ring announcer [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md), referee [Klaudiusz](@/w/sedzia-klaudiusz.md) and commentator [Adam Goldschmidt](@/w/adam-goldschmidt.md).
@@ -56,8 +56,13 @@ has_video = true
   - '[Whiteblade](@/w/whiteblade.md)'
   - g: "Sawicki's confession."
 - - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
-  - '[El Hijo del G](@/w/el-g.md) & El Clavo'
+  - '[El Hijo del G](@/w/el-g.md) & [El Clavo](@/w/el-clavo.md)'
   - s: Tag Team Match
+- - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
+  - 'Synowie Lasu: [Misiek](@/w/misiek.md) & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - '[El G](@/w/el-g.md) & [El Clavo](@/w/el-clavo.md)'
+  - 'Well-Dressed Mystery Man'
+  - g: 'Post-match brawl.'
 - - '[Misiek](@/w/misiek.md)'
   - 'Stone Malone'
 - - '[CJ Klakson](@/w/cj-klakson.md)'
@@ -90,7 +95,8 @@ has_video = true
 * A [PTW Underground Championship](@/c/ptw-underground-championship.md) Open Challenge was set up for Champions only. Thus, it became a Champion vs Champion vs Champion vs Champion match, as ["Starboy" Nano Lopez](@/w/nano-lopez.md) successfully defended against both the [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md), as well as the XWP Champion [Blaze](@/w/blaze.md).
 * Before the break, commentators proceeded to talk on-screen about the events of the show so far. Throughout the show, [Adam Goldschmidt](@/w/adam-goldschmidt.md) was comically overselling [Herno's](@/w/sedzia-herno.md) attack on him from "[Godzina z Goldschmidtem][godzina]" YouTube show, even wearing a neckbrace. After getting into contact with Arkadiusz Pawłowski, starstruck Goldschmidt declared a miracle had happened due to Pawłowski's "blessing" and ditched the neckbrace for the rest of the show.
 * As Proroctwo made their entrance for the announced Tag Team Match, [Sawicki](@/w/sawicki.md) debuted a new persona, wearing white fur robe, paint covering half of his face and a new music (Rammstein's "Engel"). He took the mic and explained his attack on Synowie Lasu, firstly seeming regretful and requesting penance. He interviewed a random crowd member to give him penance, but before she could speak, he took the mic away and declared that the attack was earned so no penance is needed. Then, Sawicki proceeded to tell a tale of his career, painting himself as a "little white bear". The story ended with his loss against the "big, stinky grizzly bear" (Misiek) and then the brutal reality set in. As his weak Sawicki persona was over, he would soon present a "new, stronger and more terrifying" name for himself. He declared that he would stop speaking forever, letting his actions speak for him. Sawicki mentioned that [Prorok Lambert](@/w/damian-lambert.md) was a false prophet, but the prophecy is intact and the end of the world is still coming.
-* For a tag team match, El G presented a _luchador enmascarado_ persona of _El Hijo del G_ to match El Clavo. During the match, he was unmasked, revealing [El G's](@/w/el-g.md) face to nobody's surprise.
+* For a tag team match, El G presented a _luchador enmascarado_ persona of _El Hijo del G_ to match [El Clavo](@/w/el-clavo.md). During the match, he was unmasked, revealing [El G's](@/w/el-g.md) face to nobody's surprise.
+* Post-match, a brawl broke out. After Proroctwo continued their assault on the babyface team, Synowie Lasu interfered. In the brawl that ensued, both teams brawled out and [El G](@/w/el-g.md) was left barely conscious in the ring. Suddenly, a well-dressed mystery man entered the ring, speared El G and laid him out with a Powerbomb. At the next show, he made an official debut, revealing himself as Damian Miller.
 * After [CJ Klakson's](@/w/cj-klakson.md) win, Pawłowski proceeded to celebrate Klakson's birthday. Frustrated with the loss, Stan the Slav attacked Klakson and received a birthday cake to his face. Klakson took the mic and declared himself for Gold Rush Rumble 2026, happening at the next show.
 * Spartan retained against Jakk Selström.
 * In the closing segment, Pawłowski and Okoński presented a big announcement about Krzysztof Skwarczyński. As he would become a father, he would be out of PTW for the near future. [Spartan](@/w/spartan.md) entered as well, seemingly to congratulate the new father. However, he blamed Okoński for using him as his soldier and later completely ignoring him, to the point of rehiring former villain Pawłowski without any notice. He slapped Okoński, slammed Skwarczyński onto the mat and got his hands on Pawłowski. Members of the roster unsuccesfully entered to stop Spartan's rampage, in the following order: [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md). Then [Misiek](@/w/misiek.md) entered to face off against Spartan, who finally left the ring. After a brief consultation with the Chairman, Pawłowski announced that Misiek would challenge Spartan for the [PTW Championship](@/c/ptw-championship.md) at the very next show.
@@ -99,6 +105,7 @@ has_video = true
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457200)
 * [Official YouTube stream](https://www.youtube.com/watch?v=yf0ze77S5yE) (requires paid subscription)
+* [Open access video: Boguś vs Fabian](https://www.youtube.com/watch?v=bMbbAduNQkM)
 * [Stone Malone's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=28881)
 
 [godzina]: https://www.youtube.com/watch?v=ZuXiosMADQs
