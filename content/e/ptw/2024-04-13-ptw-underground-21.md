@@ -35,14 +35,16 @@ It was the go-home show for [PTW #6 Total Blast From The Past](@/e/ptw/2024-05-1
   - '[Olgierd](@/w/olgierd.md)'
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
-  - g: Longman's confession
+  - g: Longman's confession.
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - '[Taras](@/w/taras.md)'
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Karol "Iskra" Górski](@/w/iskra.md)'
 - - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[S. Rafał](@/w/alex-brave.md)'
-  - g: true
+  - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - g: Rafał offers Iskra his friendship, asks to form a tag team and names himself Alex Brave. Pablo attacks Brave, Longman attacks Pablo.
 - - '[Marco "Łysy" Hammers](@/w/marco-hammers.md)'
   - '[Diana Strong](@/w/diana-strong.md)'
   - c: '[PTW Intergender Championship](@/c/ptw-intergender-championship.md) (unsanctioned)'
