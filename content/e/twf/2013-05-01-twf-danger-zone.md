@@ -25,9 +25,10 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
     Special Guest Referee: '[Hero](@/w/pj-blake.md)'
 {% end %}
 
-The show's announcement post also mentions two promos, but due to the lack of full show footage it is unknown whose promos they were.
+### Notes
 
-Hero was the Special Guest Referee for Sharky vs Gangsta.
+* The show's announcement post also mentions two promos, but due to the lack of full show footage it is unknown whose promos they were.
+* Hero was the Special Guest Referee for Sharky vs Gangsta.
 
 ## References
 
