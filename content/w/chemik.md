@@ -34,7 +34,7 @@ In his butler persona, he continued to associate with Kawaleria for the next few
 
 #### The Gregorian Branch
 
-At [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), after Piękny Kawaler's final match, Greg introduced his new [Pope Pijus I Greg](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#aftermath) persona.
+At [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), after Piękny Kawaler's final match, Greg introduced his new [Pope Pijus I Greg](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#highlights) persona.
 Chemik also adopted a new gimmick, donning altar boy's robes, and started accompanying Greg, carrying a thurible, imitating Catholic rites as he entered the ringside.
 
 Initially starting with a losing streak, at [Arena 17](2021-08-21-kpw-arena-17.md) Chemik swore an oath of celibacy to Pope Greg, vowing "not to touch a woman" until he scored three victories.
