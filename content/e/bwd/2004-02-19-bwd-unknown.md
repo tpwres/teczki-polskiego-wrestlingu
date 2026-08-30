@@ -37,11 +37,11 @@ This was a show by [Backyard Wrestling Division](@/o/bwd.md). The exact number o
     nc: '?'
 {% end %}
 
-### Recap
+### Notes
 
 * The BWD website announced the day and the month, but the year was only discerned from the date a later comment by Kid Crusher, posted to the BWD guestbook.
 * The provisional card was announced alongside the date. The comment by Kid Crusher corrected one of the items on the card, meaning others might be incorrect as well.
-* Crusher's comment says "as far as I know there was a show yesterday, and according to what I remember, I'm the one who fought KAT" (_o ile wiem to wczoraj byla gala i wedlug tego co pamietam to ja walczylem z katem_).
+* A comment by Crusher says "as far as I know there was a show yesterday, and according to what I remember, I'm the one who fought KAT" (_o ile wiem to wczoraj byla gala i wedlug tego co pamietam to ja walczylem z katem_).
 * The initial announcement said there could be other people in the Royal Rumble. Whether or not there were, is unknown.
 
 ## References

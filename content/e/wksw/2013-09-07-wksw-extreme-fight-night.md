@@ -32,7 +32,9 @@ has_video = false
   - nc: '?'
 {% end %}
 
-According to the source the opener was not a 1-on-1 match, but no further details are known.
+### Notes
+
+* According to the source the opener was not a 1-on-1 match, but no further details are known.
 
 ## References
 
