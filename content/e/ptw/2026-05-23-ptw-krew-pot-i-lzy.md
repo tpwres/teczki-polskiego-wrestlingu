@@ -60,7 +60,7 @@ has_video = true
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * As usual, [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md) opened the show plugging the sponsors. He was joined by [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md), accompanied by a dance group.
 * [Spartan](@/w/spartan.md) beat [Blaze](@/w/blaze.md) in a friendly competition to retain the [PTW Championship](@/c/ptw-championship.md) in the opener. They celebrated together afterwards.

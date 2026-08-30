@@ -52,7 +52,7 @@ By the time of the event, Devlyn was touring the European independent scene, wit
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * After the opening match, Skyver conducted an interview with [Rafi](@/w/rafi.md) Rarytas, who declares that he will make [Wiktor Longman](@/w/wiktor-longman.md) accept the "power of friendship", challenging him to a match. [Iskra](@/w/iskra.md) interrupted with a promo, and started beating on Rafi, bell is rang for an impromptu match. Rafi hit his finisher on Iskra, immediately pinning him for a win. According to commentary, this was the shortest ever PTW match, lasting all of 9 seconds.
 * [Marcelito](@/w/marcelito.md) lost due to interference from [Iskra](@/w/iskra.md). GM Pawłowski grabbed the microphone and announced a rematch on the upcoming Mystery, and Iskra not getting a match as punishment.

@@ -37,7 +37,7 @@ has_video = true
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * [Nano Lopez](@/w/nano-lopez.md) appeared with one arm in a sling, addressing his health and potential retirement. Promised to fight [Sinister Kingdom](@/tt/sinister-kingdom.md) after returning from injury.
 * This was originally to be the go-home show for [PTW #5 Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md), however that show was postponed, from December till February next year.

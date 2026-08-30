@@ -65,7 +65,7 @@ has_video = true
     Timekeeper: '[Boguś](@/w/bogus.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Street Creed worked the match as heels, whereas The Lancadores (with their manager Tori Fox) played babyfaces.
 * Post-match, the heels tried to put an exclamation mark on their victory, continuing the beatdown on The Lancadores. Tori Fox thwarted their attempts, disposing of both Street Creed members.

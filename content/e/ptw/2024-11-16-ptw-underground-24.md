@@ -42,7 +42,7 @@ Returning were also Italian wrestlers [Luca Bjorn](@/w/luca-bjorn.md) and [Rust]
 
 ### Aftermath
 
-* Post-show, the current champion Puncher, and new #1 contender Spartan faced off. This ended with Puncher attacking PTW's co-owner [Łukasz Okoński](@/w/lukasz-okonski.md) and putting him through a table.
+* Post-show, the current champion Puncher and the new #1 contender Spartan faced off. This ended with Puncher attacking PTW's co-owner [Łukasz Okoński](@/w/lukasz-okonski.md) and putting him through a table.
 
 ## References
 

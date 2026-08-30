@@ -60,7 +60,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
     Special Guest Commentary: '[Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * At the beginning, PTW revealed the new Tag Team Championship belts, to mixed reactions.
 * [Marco Hammers](@/w/marco-hammers.md) intervened on [Olgierd](@/w/olgierd.md)'s behalf, helping him secure the win. They formed a tag team, and declared their wish to challenge for the PTW Tag Team Championship.

@@ -61,7 +61,9 @@ For the first time ever, PTW introduced VIP tickets for an Underground show, in 
     Referee: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
 {% end %}
 
-The announced dance performance was met with slight backlash from the fans online. Ultimately it never happened, and the Instagram account was quietly removed.
+### Notes
+
+* The announced dance performance was met with slight backlash from the fans online. Ultimately it never happened, and the Instagram account was quietly removed.
 
 ## References
 

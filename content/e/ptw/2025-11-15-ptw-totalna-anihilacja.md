@@ -63,7 +63,9 @@ has_video = true
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
-Shida's opponent was changed at the last minute to the French wrestler Stanislas Cartier.
+### Notes
+
+* Shida's opponent was changed at the last minute to the French wrestler Stanislas Cartier.
 
 ## References
 

@@ -61,7 +61,7 @@ It was the go-home show for [PTW #6 Total Blast From The Past](@/e/ptw/2024-05-1
 
 Due to Balik working solo commentary, the show saw a lot of guest commentators.
 
-### Full report
+### Recap
 
 As usual, Pawłowski makes a full entrance to open the show. Once again, he goes back to the practice of clapping for sponsors, but now adding a clap appreciating the fans as well.
 
