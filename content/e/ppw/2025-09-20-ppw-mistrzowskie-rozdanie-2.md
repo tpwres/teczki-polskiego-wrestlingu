@@ -68,7 +68,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
     Guest commentary: '[Isnorr](@/w/isnorr.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Present in the audience was [Isnorr](@/w/isnorr.md), proudly wearing his [ZLN GNG Championship](@/tt/zieloni.md#trivia). He was also invited to the commentary booth for Oskar & Agatka vs Dobroniak & Blade.
 * After adept Antek entered for Bartosz Plata's Trial match, Joker announced that, because this was the third Trial, PpW decided on making it a triple threat match with a new opponent.

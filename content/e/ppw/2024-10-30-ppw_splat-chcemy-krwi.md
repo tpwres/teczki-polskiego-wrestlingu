@@ -49,7 +49,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
     Sound: '[Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Gustav cuts a promo about how the PpW booker and owner Mister Z called him in the middle of the night to book him for this show. Next, his opponent enters, wearing black trunks and a black lucha mask, whom Gustav initially failed to recognize.
 * The match pitted two champions against each other: Gustav with his new, white PpW championship belt, and Mister Z, wearing the previous, black-strapped version, the same one Gustav retired at [Hardcore Friday 2](@/e/ppw/2024-09-20-ppw-hardcore-friday-2.md). Host Michael HT announced this to be a title belt unification match.
@@ -59,7 +59,7 @@ PpW also teased only two fights on their social media: [Johnny Blade](@/w/johnny
   Fans accept it as part of the "different reality" and start chanting for Biesiad. In comes Oskar Alexander, dressed in Biesiad's signature camo pants, black T-shirt, and with his hair down, imitating Biesiad's entrance routine.
   Olgierd is incensed, says he wants the real Biesiad. Then the proper AC/DC version of the theme hits and Michael HT starts announcing Biesiad, but Biesiad throws a chair into the ring and starts brawling immediately, cutting off the announcement and music.
 * The opponents battle with chairs and kendo sticks, and Olgierd forms a temporary alliance with Oskar.
-* At one point, with Oskar laid out on a table, Biesiad introduces a ladder by throwing it at his opponent
+* At one point, with Oskar laid out on a table, Biesiad introduces a ladder by throwing it at his opponent.
 * Winner: Biesiad by pinfall on Oskar after crashing him through a table.
 * Like at the [previous event](@/e/ppw/2024-10-26-ppw-co-za-noc.md), Isnorr came out carrying an axe.
 * Fox and Isnorr brawl out in the crowd, on stairs, and at the bar, including a jump from the counter by Fox.

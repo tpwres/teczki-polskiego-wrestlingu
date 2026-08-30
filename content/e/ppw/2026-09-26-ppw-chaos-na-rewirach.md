@@ -52,6 +52,10 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
   - nc: upcoming
 {% end %}
 
+### Highlights
+
+* TBD
+
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457201)

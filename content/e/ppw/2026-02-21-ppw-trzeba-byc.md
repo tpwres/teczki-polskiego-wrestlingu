@@ -59,7 +59,7 @@ The [announcement post][byc-albo-nie-byc] promised a "new standard which will sh
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * The live stream initially suffered from major audio issues, including Windows system sounds of a USB device being unplugged and plugged back in. The issue persisted until around halfway through the Triple Threat Match.
 * The show was streamed live using a single camera.

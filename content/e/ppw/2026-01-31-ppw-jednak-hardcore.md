@@ -62,7 +62,7 @@ Jednak Hardcore (_Hardcore After All_) was a show by [PpW Ewenement Wrestling](@
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * This time, [Istociarz](@/w/istociarz.md) handled commentary solo.
 * Before the show, PpW started a poll for the [Axel Fox](@/w/jakub.md) vs [Gustav Gryffin](@/w/gustav-gryffin.md) stipulation. It was possible to vote by scanning one of the QR codes posted around the arena.

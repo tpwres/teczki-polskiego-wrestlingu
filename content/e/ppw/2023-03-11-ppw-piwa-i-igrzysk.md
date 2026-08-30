@@ -49,7 +49,7 @@ In the main event, Dobroniak came to the ring with both the [PpW Ultraviolent Ch
 
 Attendance: 600
 
-### Recap
+### Aftermath
 
 * Before closing the show, [Kapitan Bazooka](@/w/kapitan-bazooka.md) confronted [Biesiad Strong](@/w/biesiad.md) in the ring, setting up their match at the [next event](@/e/ppw/2023-05-06-ppw-mistrzowskie-rozdanie.md).
 

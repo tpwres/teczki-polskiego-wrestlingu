@@ -47,7 +47,9 @@ This was likely the first PpW event open for general public, as opposed to frien
     Referee: '[Sędzia Matek](@/w/sedzia-matek.md)'
 {% end %}
 
-Note: Although the results of this show are unavailable, Mister Z was still the champion at the [next show](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), indicating his victory here.
+### Notes
+
+* Although the results of this show are unavailable, Mister Z was still the champion at the [next show](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), indicating his victory here.
 
 ## References
 

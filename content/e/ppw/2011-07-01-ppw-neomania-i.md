@@ -35,7 +35,7 @@ According to [Johnny Blade](@/w/johnny-blade.md), the name of the event derives 
     nc: '?'
 {% end %}
 
-### Recap
+### Notes
 
 * The only surviving video from the event is Ultimo Combo vs La Parka (Który nie jest prawdziwym La Parką ale to szczegół).
 * According to the [PpW Wikia][ppw-wiki-neo-1], the full name of this version of La Parka appears to be "La Parka (Który nie jest prawdziwym La Parką ale to szczegół)". This translates to "La Parka (Who isn't the real La Parka, but that's a minor detail)". (The name was shortened in this entry for technical reasons.)

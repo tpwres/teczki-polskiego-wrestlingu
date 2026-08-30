@@ -34,7 +34,7 @@ Backyard Total War was a backyard-era PpW event, featuring wrestlers from other 
     Referees: '???, [Le Santo](@/w/rob-scaffold.md), [Biesiad](@/w/biesiad.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * All fights except the main event are presented as highly edited highlight reels instead of full matches.
 * One of the fans recorded the show by holding up a laptop computer.
