@@ -72,7 +72,6 @@ The foreign guests for this event were:
 
 ### Recap
 
-{% timeline() %}
 Show opens with host "OG" Michael HT entering the ring. He hypes up the crowd.
 Referee Karol Górski is introduced and the announcements for first match start.
 
@@ -326,9 +325,8 @@ Michael HT is reluctant to enter the ring once again, but eventually decides to.
   and not just executive producer, he lifts the stipulation. \
   Due to a contract between Mandecky and Z, should anything happens to Mandecky, Z legally succeeds him as the PpW owner. \
   Regarding Bazooka, he denies ordering him to attack Mandecky - Mandecky is treating everyone like dogs, so Bazooka just had enough.
-  Closing comment from Z - are you all happy that I don't have a belt? But I have PpW! He flips off the camera.
+  Closing comment from Z: "Are you all happy that I don't have a belt? But I have PpW!" He flips off the camera.
 * Alex Arthur: He feels like after a good fight. He likes the Ultraviolent belt, he showed he can hang with Dobroniak, so he wants a rematch down the line. Joker suggests a triple threat including Johnny and Arthur loves the idea. He leaves with a PpW chant toward the camera.
-{% end %}
 
 ## References
 
