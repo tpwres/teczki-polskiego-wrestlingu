@@ -86,7 +86,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Speedball immediately won the Polish crowd's support. Delivered his signature fast kicks and running tornado kick.
 * After the Nina vs [Diana](@/w/diana-strong.md) match, Pawłowski leaked plans to introduce a [women's title](@/c/ptw-womens-championship.md).
@@ -157,7 +157,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
 47. Puncher pins Axel Fox to win
 
 Mutant was last seen in PTW at their [very first event](@/e/ptw/2021-10-09-ptw-1-revolucja.md) in 2021.
-Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another character who made his debut at the first event, then showed up on first two Underground events and disappeared.
+Taxi Złotówa was officially suspended by Pawłowski. Arczi Czajka is another character who made his debut at the first event, then showed up at the first two Underground events and disappeared.
 
 ## References
 

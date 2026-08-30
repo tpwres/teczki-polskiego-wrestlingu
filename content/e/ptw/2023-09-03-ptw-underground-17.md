@@ -26,13 +26,15 @@ has_video = true
 - - '[Olgierd](@/w/olgierd.md) w/ [Karyna](@/w/karyna.md)'
   - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - s: 'Underground Street Fight'
+- - '[Sędzia Rafał](@/w/alex-brave.md)'
+  - g: Rafał talks about his love of wrestling, request to be reinstated as a wrestler rather than a referee.
 - - '[Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Salomon Strid'
 - - '[Krampus](@/w/krampus.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Axel Fox](@/w/jakub.md)'
   - '[Rafi Rarytas](@/w/rafi.md)'
-  - s: 'Impromptu match'
+  - n: 'Impromptu match'
 - - '[Dziedzic](@/w/dziedzic.md)'
   - '["Top Gun" Samson](@/w/samson.md)'
 - credits:
@@ -42,9 +44,9 @@ has_video = true
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### Trivia
+### Notes
 
-The Underground Street Fight match set the record of the longest match in PTW history, at 1 hour, 10 minutes and 45 seconds. The match was initially the show opener, but during the course of the fight, wrestlers left the building, camera in tow. Outside, [Olgierd](@/w/olgierd.md) put [Gabriel Queen](@/w/gabriel-queen.md) inside the trunk of his car, forced referee Seweryn into the passenger seat, and drove off. The show carried on, and later Olgierd and Gabriel returned to finish their match in the ring.
+* The Underground Street Fight match set the record of the longest match in PTW history, at 1 hour, 10 minutes and 45 seconds. The match was initially the show opener, but during the course of the fight, wrestlers left the building, camera in tow. Outside, [Olgierd](@/w/olgierd.md) put [Gabriel Queen](@/w/gabriel-queen.md) inside the trunk of his car, forced referee Seweryn into the passenger seat, and drove off. The show carried on, and later Olgierd and Gabriel returned to finish their match in the ring.
 
 ## References
 

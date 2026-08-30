@@ -51,7 +51,7 @@ This was the go-home show for [PTW #3: Legends](@/e/ptw/2022-11-26-ptw-3-legends
     Commentary: '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-### Recap
+### Aftermath
 
 * In a post-match segment, Bad Bones continued to beat Samson with a baseball bat. Security tried to stop him, also got beat down. Pawłowski officially fired Bad Bones.
 

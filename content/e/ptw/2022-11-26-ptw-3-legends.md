@@ -68,7 +68,7 @@ By far the most were from the United Kingdom: "The Villain" Marty Scurll, Primat
     English commentary: '[Santino](@/w/santino.md), [Lewis Costello](@/w/lewis-costello.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Santino was named the new co-owner of Prime Time Wrestling by Pawłowski. Bad Bones, officially released on the previous show, entered the ring to attack Santino, but was quickly escorted out by security.
 * After Hendry vs Seven, the Kinguin mascot, previously wading among the audience and posing for photos, entered the ring area and started to circle it erraticaly. Hendry inspected it, and revealed that it was Taxi Złotówa wearing it. Złotówa prostrated and begged Pawłowski to reinstate him. Pawłowski refused, and Złotówa was dragged out by security.

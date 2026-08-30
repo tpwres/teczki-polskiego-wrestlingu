@@ -46,7 +46,7 @@ PTW Underground 16 was an event by [PTW](@/o/ptw.md) that took place on July 30,
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Before the show, PTW announced that [Sinister](@/w/sinister.md) is going to "baptize" his new ally/underling [Syriusz Dziedzic](@/w/dziedzic.md). For this segment, the ring was decorated with white balloons, like for a typical baptism party, and a table with a bucket standing on it was placed in the middle. In contrast to the white balloons, both the tablecloth and bucket were black.
 * [Sinister](@/w/sinister.md) cut a promo, proclaiming to rid [Syriusz Dziedzic](@/w/dziedzic.md) of his "old, defiled name". Announced that "there is no Syriusz [Dziedzic](@/w/dziedzic.md) anymore, there's only Dziedzic", confirming a name change for the latter.
