@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.588221, 53.021726]
+    },
+    "properties": {
+        "type": "historical-venue",
+        "name": "Zespół Szkół Samochodowych w Toruniu",
+        "description": "Automotive Vocational School in Toruń, the location of [a show](@/e/twf/2013-05-11-twf-pokaz-w-szkole-samochodowej.md) by [TWF](@/o/twf.md).",
+        "orgs": ["twf"]
+    }
+}

@@ -10,7 +10,7 @@ toclevel = 2
 has_video = false
 +++
 
-TWF: Pokaz w Szkole Samochodowej w Toruniu (_Showcase in the Automotive Vocational School in Toruń_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 21st, 2013. It took place in one of Toruń's trade schools.
+TWF: Pokaz w Szkole Samochodowej w Toruniu (_Showcase in the Automotive Vocational School in Toruń_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on March 21st, 2013. It took place in one of Toruń's {{ map_pin(v="Zespół Szkół Samochodowych w Toruniu") }}trade schools.
 
 {{ skip_card() }}
 
