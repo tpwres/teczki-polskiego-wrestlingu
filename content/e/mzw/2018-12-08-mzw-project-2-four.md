@@ -42,7 +42,7 @@ has_video = true
     Referee: '[Sędzia Matt2Hot](@/w/matt2hot.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Wilfried Dietrich was announced to face [Apollo Anderson](@/w/apollo-anderson.md), but was replaced by [Deti Black](@/w/dieter-schwartz.md).
 * [Lady Killer](@/w/boro.md) refused to enter the ring with [Asmund](@/w/asmund.md), leading to the match being declared a no-contest.
