@@ -54,7 +54,7 @@ More Brutal Than Metal was a two-day show accompanying [Mystic Festival 2025][my
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Each day there were suppsed to be four 20-minute segments, an hour apart. In practice, however, that plan wasn't adhered to very strictly.
 * Despite being announced for the tag team match as Goblin's partner, Biesiad was replaced by Axel Fox.

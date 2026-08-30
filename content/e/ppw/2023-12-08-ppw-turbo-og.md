@@ -45,10 +45,10 @@ This was also the PpW debut of former [PTW](@/o/ptw.md) wrestler [Rafi Rarytas](
     Referees: '[Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Borys](@/w/sedzia-borys.md)'
 {% end %}
 
-### Aftermath
+### Highlights
 
 * Despite being announced for the show, Jack Harrop did not appear due to an injury. Instead, [Chris X](@/w/chris-x.md) was moved to the main event, and [Jacob Crane](@/w/jacob-crane.md) was added to the card as [Bill Feager's](@/w/feager.md) opponent.
-* [Feager](@/w/feager.md) won the right to face [Steve Kuningas](@/w/steve-kuningas.md) for the [PpW Championship](@/o/ppw.md#championships).
+* [Feager](@/w/feager.md) won the right to face [Steve Kuningas](@/w/steve-kuningas.md) for the [PpW Championship](@/c/ppw-championship.md).
 * [Goblin](@/w/goblin.md) won by using Green Mist on Gustav, while [Osamu](@/w/osamu.md) unsuccessfully tried to interfere in their match. After the bell, the angry Gustav accosted referee Borys. Once again [Osamu](@/w/osamu.md) interfered, this time defending the referee, but that ended his alliance with Gustav, and he received a beatdown for it. [Jakob Sigmarsson](@/w/jakub-linde.md) appeared, revealing himself as Gustav's trainer and new ally.
 * [Mister Z](@/w/mister-z.md) defeated [Asara](@/w/asara.md) with a kick to his privates and some well-placed chairs.
 * Biesiad and [Isnorr](@/w/isnorr.md) took the fight outside and shot fireworks at each other, among other weapons. Chris X interfered against Biesiad, following their rivalry from [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).

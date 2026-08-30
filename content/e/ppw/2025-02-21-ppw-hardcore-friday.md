@@ -72,7 +72,7 @@ Hardcore Friday 21.000 was a show by [PpW Ewenement](@/o/ppw.md), held on Friday
     Guest Commentary: '[Goblin](@/w/goblin.md), [Olgierd](@/w/olgierd.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * This was the first PpW event to be streamed live at the [PpW VOD][ppw-vod], after the [previous show](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) experienced technical difficulties and streamed on YouTube instead.
 * The live stream went offline a few times throughout the show, including during the final minutes of the opening match.

@@ -30,7 +30,7 @@ The date of 31.07 was chosen arbitrarily for the purposes of this entry and does
     Commentary: '???, ???'
 {% end %}
 
-### Recap
+### Highlights
 
 * The video starts with a recap from earlier shows: in the first one [Mystic Tiger](@/w/rob-scaffold.md) defeated [Dark Black Skull](@/w/mister-z.md) with a Hurricanrana and won Pas Skulla (_Skull's Belt_), and in [the other](@/e/ppw/2013-07-12-ppw-neomania-iii.md) [Mister Z](@/w/mister-z.md) beat [Jeff](@/w/michael-ht.md) for the backyard-era version of the PpW Championship.
 * The video then cuts to a wrestler in Mister Z's mask doing push-ups in his room, in which he addresses Mystic Tiger and recalls losing to him after being hit with a Hurricanrana. This introduced continuity errors with the two excerpts from earlier shows, plus at one point the person in the mask can be seen to have long hair - suggesting it was somebody else under that mask, as Mister Z typically had short hair.

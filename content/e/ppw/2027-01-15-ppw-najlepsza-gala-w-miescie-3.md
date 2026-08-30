@@ -22,7 +22,7 @@ Najlepsza Gala W Mieście 3 (_The Best Show in Town 3_) is an upcoming event by 
 
 ### Highlights
 
-TBD
+* TBD
 
 ## References
 

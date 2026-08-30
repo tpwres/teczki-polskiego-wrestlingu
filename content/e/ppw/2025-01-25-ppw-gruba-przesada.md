@@ -88,7 +88,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
     Commentary: '[Joker](@/w/joker.md), [Istociarz](@/w/istociarz.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * This was to be the first show to be streamed live on the new [PpW VOD][ppw-vod]. However, due to technical difficulties with Vimeo, the show was streamed on YouTube instead.
 * The commentary was provided by Joker, joined by Antek from the [Istota Wrestlingu][istota] podcast, under the name _[Istociarz](@/w/istociarz.md)_.
