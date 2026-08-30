@@ -76,7 +76,7 @@ There were a significant number of foreign talent at this event, including some 
     Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Before the Magnificent Seven match began, the wrestlers took turns on the microphone, starting with Rosetti, for whom the mic didn't work and his promo couldn't be heard.
   After Hans Schulte insulted Zefir, the masked luchador grabbed the mic and for a moment it seemed like he was going to say something, but he drop-kicked Schulte instead.

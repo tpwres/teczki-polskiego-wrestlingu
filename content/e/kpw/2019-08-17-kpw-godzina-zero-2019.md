@@ -64,15 +64,15 @@ In the woman's match, we got another debut: [Diana](@/w/diana-strong.md), who pr
     Ring announcer: '[Kinga Różańska](@/w/kinga-miotke.md)'
 {% end %}
 
-### Aftermath
+### Highlights
 
 * This turned out to be [Moloch's](@/w/moloch.md) last match in KPW, although he was booked for the [following event](@/e/kpw/2019-11-16-kpw-arena-15.md).
 * This show marked the last time Boski Ostrowski appeared as a babyface. Starting with Arena 15 he adopted a more serious heel persona, renaming himself Boski 2.0.
 * When Kawaler's music hit, [Greg](@/w/greg.md) walked out instead and spoke in Latin: "Annuntio vobis gaudium magnum; habemus Papam" (_I announce to you with great joy: we have a Pope_). This is the traditional announcement used when the Papal Conclave has successfully selected a new Pope. Then he continued with "Sanctae Romanae Ecclesiae Cardinalem: Kawaler" and left the ring.
 * Kawaler appeared on a balcony like a priest before the pulpit, wearing long hooded robes and delivered a sermon deriding [Robert Star](@/w/robert-star.md) and announcing the end of Robert's career.
 * After the main event, Kawaler extended his hand to Robert, who reluctantly accepted it. Kawaler then lifted Robert's arm in a victory pose, only to land a surprise kick seconds later. Wrestlers present at ringside - Bianca, Reinbakh, [David Oliwa](@/w/david-oliwa.md) and [Kamil Aleksander](@/w/kamil-aleksander.md) - intervened, punishing Kawaler and hitting him with their signature. They struck a victory pose with Kawaler literally under Robert's heel.
-* Behind their backs, Greg entered the ring and appeared to help Kawaler. However, to everyone's surpise, instead of helping him out of the ring, he landed a surprise attack, betraying his former leader.
-* When the announcer was closing the show, she was interrupted by someone coughing. This turned out to be [Chemik](@/w/chemik.md), standing on the same balcony that Kawaler delivered his speech from. He repeated the _Annuntio vobis_ phrase, this time naming Greg as the bishop of Rome. Greg entered the pulpit, to "Year Zero" by Ghost, and announced himself as the new pope of Polish wrestling under the name _Pijus I Greg_ ("pijus" being a pun on both Pius, the name of many popes, but also a somewhat archaic Polish word for _drunkard_).
+* Behind their backs, Greg entered the ring and appeared to help Kawaler. However, to everyone's surpise, instead of helping him out of the ring, he landed a sneak attack, betraying his former leader.
+* When the announcer was closing the show, she was interrupted by someone coughing. This turned out to be [Chemik](@/w/chemik.md), standing on the same balcony that Kawaler delivered his speech from. He repeated the "Annuntio vobis" phrase, this time naming Greg as the bishop of Rome. Greg entered the pulpit, to "Year Zero" by Ghost, and announced himself as the new pope of Polish wrestling under the name _Pijus I Greg_ ("pijus" being a pun on both Pius, the name of many popes, but also a somewhat archaic Polish word for _drunkard_).
 
 ## References
 
