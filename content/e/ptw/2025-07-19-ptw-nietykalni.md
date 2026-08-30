@@ -77,7 +77,7 @@ has_video = true
     Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * The show started with a new "PTW Anthem" by a little-known rapper Buntownik (_The Rebel_).
 * In the opening promo by Nietykalni, Pawłowski rambled on about their achievements, berating Okoński and the referees. He announced an additional PTW show for the next Sunday (27.07), including an appearance by, and a meet'n'greet with, the AEW TBS Champion, [Mercedes Moné](@/w/mercedes-mone.md). The show's name was not revealed.

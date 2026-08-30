@@ -35,7 +35,7 @@ has_video = false
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Battle Royal was won by Daniel Razor. Other members of the final five were: [Sigma Boy xD](@/w/sigma-boy.md), [Serg Sullivan](@/w/serg-sullivan.md), [Max Speed](@/w/max-speed.md) and Ben Rodgers. The battle royal included "kilkanaście" (a range above 10 or 11, but below 20) competitors, both PTW wrestlers and rookies.
 * Pulling a double duty, Max Speed defeated Ben Rodgers in what was an "incredibly fast-paced match" as per the report, to retain the [PTW Underground Championship](@/c/ptw-underground-championship.md).
