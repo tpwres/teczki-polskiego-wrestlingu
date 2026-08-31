@@ -134,5 +134,6 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 * Cagematch event pages - [day 1](https://www.cagematch.net/?id=1&nr=455636), [day 2](https://www.cagematch.net/?id=1&nr=455095), [day 3](https://www.cagematch.net/r/?id=1&nr=455094)
 * [Announcement post](https://www.facebook.com/FestivalMystic/posts/pfbid02NtnnM1pWYMP4dryYeuUM8JvUwj8Kx4Tg7Coy7NLcnkbXjHVwZR2rnsA5ruxqNNr2l)
 * [Video - Jacob Crane vs Antoni Ocean (day 3)](https://www.youtube.com/watch?v=WO4r-KxKNC8)
+* [Video - Battle Royal (day 3)](https://www.youtube.com/watch?v=hNFsZspFduA)
 
 [mystic]: https://www.mysticfestival.pl/
