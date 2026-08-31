@@ -70,6 +70,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=452340)
 * [Facebook event page](https://www.facebook.com/events/870211932713857) for the seminar, also announces the showcase
 * [Facebook event page of the showcase itself](https://fb.me/e/7vSnXqETn)
 * [Instagram post](https://www.instagram.com/p/DW7bljdDL4y/) with the announcement

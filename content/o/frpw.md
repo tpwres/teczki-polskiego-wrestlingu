@@ -36,3 +36,7 @@ Beside functioning as a federation and a foundation, FRPW also hosts a "Heel Tur
 * [FRPW's Facebook](https://www.facebook.com/profile.php?id=61590741692093)
 * [Heel Turn's Website](https://heelturn.pl)
 * [Heel Turn's Instagram](https://www.instagram.com/heelturn_brand/)
+
+## References
+
+* [FRPW on CageMatch](https://www.cagematch.net/?id=8&nr=4579)
