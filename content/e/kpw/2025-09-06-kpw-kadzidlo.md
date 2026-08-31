@@ -52,6 +52,7 @@ On 6.09.2025 KPW held an event in the village of {{ map_pin(v="Szkoła Podstawow
 Attendance: ca. 100 (source: Cagematch)
 
 ### Highlights
+
 * It is unknown whether or not [Eryk Lesak](@/w/eryk-lesak.md) cashed in his championship contract he won at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
 * For [Tomczak](@/w/tomczak.md) vs Adepci, which harkened back to their match from GZ'25, [Adept Jeden](@/w/oskar-haller.md) was replaced by [Adam](@/w/adam-wong.md). He was the first to be eliminated by Tomczak.
 * [Michał Fux](@/w/michal-fux.md) did not appear at this show; instead, Filip teamed up with an [Oskar Fux](@/w/oskar-haller.md) (repackaged Adept Jeden from GZ'25), wearing the same Fux trousers.

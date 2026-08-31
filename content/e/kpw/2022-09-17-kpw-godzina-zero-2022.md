@@ -81,7 +81,7 @@ The foreign guests for the event were:
     Commentary: '[Krystian Czekaj](@/w/krystian-czekaj.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Three Stages of Hell was a best 2 out of 3 falls match, but with stipulations changing after each pinfall. The stipulations were chosen at random by Chairman Krystian Malinowski. This resulted in the opening as a Submission Match, followed by a Texas Chain Match, and finally a Hardcore Match.
 * Rosetti was quick to cash in his title opportunity on the badly beaten and tired David Oliwa, and grabbed the second belt for his faction.

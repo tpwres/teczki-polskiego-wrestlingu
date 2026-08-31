@@ -53,7 +53,7 @@ The venue for this event was the [Hall of Sports](@/v/gdynskie-centrum-sportu.md
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * [Rosetti](@/w/rosetti.md) distracts Jordan, and [Sawicki](@/w/sawicki.md) low blows him from behind.
 * [Piękny Kawaler](@/w/piekny-kawaler.md) enters the ring with his entire stable [Kawaleria](@/tt/kawaleria.md) dressed in dark robes and holding flaming torches.

@@ -79,7 +79,8 @@ This is the third KPW show, following [Arena V](@/e/kpw/2017-01-14-kpw-arena-v.m
     Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
 {% end %}
 
-### Recap
+### Highlights
+
 * [Kinga Miotke](@/w/kinga-miotke.md) opened the show and introduced [Zefir](@/w/zefir.md), who came out and cut a lengthy promo stating that after proving himself and winning the [KPW Championship](@/c/kpw-championship.md), he now has something to say and that he intends for his name to be forever associated with the title.
 * [Leon Lato](@/w/leon-lato.md) then came out to the ring and told Zefir "to his face… or rather, to his mask" that their fight had nothing to do with their friendship, but rather it was about proving who's the best. He then told Zefir to be ready for him, to which Zefir answered that he was - and since Leon was as well, the two agreed to fight right away.
 * [Krystian Czekaj](@/w/krystian-czekaj.md) was greeted with ["sędzia chuj"](@/a/polish-wrestling-chants.md#referee) chants as soon as Zefir asked him into the ring.
