@@ -214,6 +214,12 @@ On the other hand, the reigning [PTW Underground Champion](@/c/ptw-underground-c
 
 On the international front, the Austrian sister promotion PTW:WWA has effectively closed down. [Krampus](@/w/krampus.md), WWA's owner, remained on good terms with PTW and appeared at a couple of shows, bringing some Austrian talent with him. At the same time, PTW established cooperation with the Italian promotion BestYa Wrestling.
 
+### 2026
+
+#### Termination of Pawłowski
+
+On 1.09.2026 PTW published an [official statement][pawel-zwolniony] of Pawłowski's termination from PTW, although no reasons were given. This left [Łukasz Okoński](@/w/lukasz-okonski.md) as the sole proprietor of Prime Time Wrestling.
+
 ## Polish wrestling scene
 
 PTW's initial roster was built from wrestlers previously appearing in [MZW](@/o/mzw.md), [KPW](@/o/kpw.md), [MCW](@/o/mcw.md) and [PpW](@/o/ppw.md), however PTW itself is known for its lack of interaction with other federations in Poland.
@@ -313,3 +319,4 @@ On 2.07.2025 fans noticed that the official PTW website was replaced with a gene
 [kasa-okonia]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0iFqn83h3b4kKVnnR5RcDMLf1aPgsgKMXp4h3xVRw5PdZ9cqHYHWPdLPMXh1qvjfkl?comment_id=562428546715279&reply_comment_id=995528549068105&__cft__[0]=AZU-ng20dgCTd4R68-RE0tWxjAqUCkQQXtMgnqZYDZ79CNiykw--ebu8H72faUFBHMD-l4TSQpypqQa79nmMzI8u5dfdmOzthKmkv8LpJ9sLJkNNK6NeIZU97lU3GAaEQyGcMUqaDhbudKdN0PcJi1L_vhgzdaE_OUKb1hmCpfstwc0yocNcrVO_5rz_RSMYM9U&__tn__=R]-R
 [santino-seminar]: https://www.facebook.com/events/4026337867610745/
 [biggest-match]: https://www.facebook.com/photo?fbid=894964626189514&set=a.136592408693410
+[pawel-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JcWNEJ1GQ9VAiAUwTU5kpJbSYUterXZ5Cxug7DkGHup45Fb8jQfHEiFqfoTz4HTMl

@@ -192,6 +192,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * PpW holds [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo, in cooperation with Big Japan Pro Wrestling and other local promotions. [Abdullah Kobayashi](@/w/abdullah-kobayashi.md) wins the vacant [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), marking the first time a Polish title changed hands outside of Poland.
 * [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) is established.
 * [Olgierd](@/w/olgierd.md) is booked for a match at [KPW Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), which marks two significant milestones: it makes him the first active wrestler from another promotion to work for [KPW](@/o/kpw.md), and the first Polish wrestler to have worked for all active federations in the country as of 2026 ([PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md)).
+* Arkadiusz Pawłowski is fired from [Prime Time Wrestling](@/o/ptw.md), [Łukasz Okoński](@/w/lukasz-okonski.md) is the sole owner of PTW.
 
 #### 2027
 
