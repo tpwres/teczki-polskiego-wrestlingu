@@ -101,6 +101,7 @@ has_video = false
 * Post-match, Miller continued to punish Filip, but showing unusual compassion, Vincent Caravaggio made the save and checked on beaten Filip before leaving the ring.
 * Nikki Steel, a Munich-based female wrestler, debuted in the Gold Rush Rumble Match.
 * This event saw the return of [Iskra](@/w/iskra.md), last seen at [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md).
+* This was be the final PTW event to feature Pawłowski.
 
 ### Gold Rush Rumble entrances
 
