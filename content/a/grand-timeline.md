@@ -39,16 +39,15 @@ An even more condensed version, in the form of a timeline graph covering the mod
 
 #### 1974
 
-* [Andrzej Supron](@/w/andrzej-supron.md) travels to USA, discovers pro wrestling on TV. Later meets Killer Kowalski and Ivan Putski, two wrestlers of Polish origin. Putski convinces Supron to try and start presenting pro wrestling in Poland.
+* [Andrzej Supron](@/w/andrzej-supron.md) travels to USA, discovers pro wrestling on TV. Later meets Killer Kowalski and/or Ivan Putski, two wrestlers of Polish origin, who convince(s) Supron to try and start presenting pro wrestling in Poland.
 
 #### 1980s
 
 * Supron wins silver medal in classical wrestling in the Moscow Olympics of 1980.
-Later, assembles a team of athletes, trains them (despite having no pro wrestling training himself), and stages a couple of events in Warsaw and Poznań in the early '90s.
 
-#### 1990
+#### 1989
 
-* Andrzej Supron starts [SupronStars](@/o/supronstars.md). The group tours poland and ex-Soviet republics.
+* Andrzej Supron assembles a team of athletes, trains them (despite having no pro wrestling training himself) and starts [SupronStars](@/o/supronstars.md). The group tours Poland (incliding a couple of events in Warsaw and Poznań in the early '90s) and ex-Soviet republics.
 
 #### 1993
 
@@ -56,7 +55,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 1999
 
-* [Paweł Borkowski](@/w/pawel-borkowski.md) contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They create [Polish Pro-Wrestling Federation](@/o/ppwf.md), which only manages to hold training sessions, but no shows due to lack of interest.
+* [Paweł Borkowski](@/w/pawel-borkowski.md) contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They establish [Polish Pro-Wrestling Federation](@/o/ppwf.md), which only manages to hold training sessions, but no shows due to lack of interest.
 * Andrzej Supron buys a ring for PPWF.
 
 #### 2000-2005
