@@ -13,7 +13,7 @@ compact_event_list = true
 [extra.gallery]
 +++
 
-Center of Wrestling is a Polish multi-format wrestling project founded in mid-2026 by ex-[DFW](@/o/dfw.md) workers and currently based in Grudziądz. They share multimedia content related to Polish international pro-wrestling, as well as training videos. Down the line, the aim is to hold a proper wrestling show.
+Center of Wrestling is a Polish multi-format wrestling project founded in mid-2026 by ex-[DFW](@/o/dfw.md) workers and currently based in Grudziądz. They share multimedia content related to Polish and international pro-wrestling, as well as training videos. Down the line, the aim is to hold a proper wrestling show.
 
 ## History
 
@@ -30,5 +30,6 @@ Tu coś o tym że naprawili ring, szukali ludzi na FB i że Paterek się losowo 
 * [Official Youtube channel](https://www.youtube.com/@CentrumWrestlingu)
 
 ## References
-[What is CoW - YouTube video](https://youtu.be/y5HEAomOO6E?is=OHPAYhz6Al9ECfCf)
+* [Video: What is CoW](https://youtu.be/y5HEAomOO6E?is=OHPAYhz6Al9ECfCf)
+
 [paterek-w-garazu]: https://www.instagram.com/p/DZkd2EWoJ6n/
