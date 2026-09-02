@@ -1,4 +1,9 @@
 [01]
+path = "the-first-moo.webp"
+caption = "Facebook post announcing CoW."
+source = "Wrestling Polska @ Facebook"
+
+[02]
 path = "krowie-na-ringu.webp"
-caption = "[Johnny Blade](@/w/johnny-blade.md) and [Biesiad Strong](@/w/biesiad.md) with ??? in the COW ring."
+caption = "[Johnny Blade](@/w/johnny-blade.md) and [Biesiad Strong](@/w/biesiad.md) with ??? in the CoW ring."
 source = "Official COW Instagram"

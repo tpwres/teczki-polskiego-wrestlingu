@@ -1,4 +1,4 @@
-<img width="710" height="689" alt="image" src="https://github.com/user-attachments/assets/63c10861-fefb-4f47-8b7b-388f7fdebff9" />+++
++++
 title = "Center of Wrestling"
 weight = 0
 template = "org_page.html"
@@ -19,11 +19,11 @@ Center of Wrestling is a Polish multi-format wrestling project founded in mid-20
 
 ### Formation
 
-On 26.06.2025 Chris Hunter wrote a post on DFW's Facebook stating a friend is trying to renovate the promotion's ring, which has fallen into disrepair. The post was accompanied by a link to a crowdfunding website, collecting money for the restoration. By the end of May 2026 the ring's renovation was completed and DFW published a [video][ring-gotowy] showing [Chris Hunter](@/w/chris-hunter.md), [Pain Killer](@/w/pain-killer.md), [Corin Mear](@/w/corin-mear.md) and [PJ Blake](@/w/pj-blake.md) meeting up around the ring for the first time in eight years. Chris Hunter also clarified that as of 2026 DFW does not exist, "but who knows what the fate might bring about".
+On 26.06.2025 Chris Hunter wrote a post on DFW's Facebook page stating that his friend was trying to renovate the promotion's ring, which had fallen into disrepair. The post was accompanied by a link to a crowdfunding website, collecting money for the restoration. By the end of May 2026 the ring's renovation was completed and DFW published a [video][ring-gotowy] showing [Chris Hunter](@/w/chris-hunter.md), [Pain Killer](@/w/pain-killer.md), [Corin Mear](@/w/corin-mear.md) and [PJ Blake](@/w/pj-blake.md) meeting up around the ring for the first time in eight years. Chris Hunter also clarified that as of 2026 DFW did not exist, "but who knows what the fate might bring about".
 
-Afterwards, the renovated ring and 4 ex-DFW wrestlers made a cameo appearance in [Arek Paterek's video][paterek-w-garazu], with Blake presenting the other 3 as his "trainees" and offering their services to Paterek, who was looking for mercenaries for his team. Not long after, on 5.07.2026, a recruitment post for new organization was shared in wrestling fan groups on Facebook, including [Wrestling Polska](https://www.facebook.com/groups/wrestlingpolska/permalink/28188112374128676/). Over the following weeks, the organization launched their social media and started posting the first materials: training videos and coverage of Polish and foreign English shows.
+Afterwards, the renovated ring and four ex-DFW wrestlers made a cameo appearance in [Arek Paterek's video][paterek-w-garazu], with Blake presenting the other three as his "trainees" and offering their services to Paterek, who was looking for mercenaries for his team. Not long after, on 5.07.2026, a recruitment post for a new organization was shared on wrestling fan groups on Facebook, including [Wrestling Polska][wp-ale-inne-wp]. Over the following weeks the organization launched their social media and started posting materials: training videos and coverage of Polish and international shows.
 
-On 1.09.2026, CoW shared their first Youtube video, with Chris Hunter and Corin Mear sharing their mission statement - to bring wrestling in any shape or form, from the fans, to the fans. Following the "wrestling beyond boundaries" idea, they aim to make their first, undisclosed show a crossover between Polish promotions.
+On 1.09.2026 CoW shared their first Youtube video, in which Chris Hunter and Corin Mear shared their mission statement: to bring wrestling, in any shape and form, from the fans to the fans. Following the "wrestling beyond boundaries" idea, they said their aim is to make their first, undisclosed show a crossover between Polish promotions.
 
 ## Internet presence
 
@@ -37,3 +37,4 @@ On 1.09.2026, CoW shared their first Youtube video, with Chris Hunter and Corin 
 
 [paterek-w-garazu]: https://www.instagram.com/p/DZkd2EWoJ6n/
 [ring-gotowy]: https://www.youtube.com/watch?v=95nPfDIQHkA
+[wp-ale-inne-wp]: https://www.facebook.com/groups/wrestlingpolska/permalink/28188112374128676/
