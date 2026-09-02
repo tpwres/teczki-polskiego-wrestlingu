@@ -1,8 +1,8 @@
 +++
 title = "Total Blast Wrestling"
+weight = 0
 template = "org_page.html"
 authors = ["Krzysztof Zych"]
-weight = 2
 [extra]
 toclevel = 3
 compact_event_list = true
