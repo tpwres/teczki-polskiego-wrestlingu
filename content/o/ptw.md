@@ -218,7 +218,7 @@ On the international front, the Austrian sister promotion PTW:WWA has effectivel
 
 #### Termination of Pawłowski
 
-On 1.09.2026 PTW published an [official statement][pawel-zwolniony] of [Pawłowski's](@/w/pan-pawlowski.md) termination from PTW, although no reasons were given. This left [Łukasz Okoński](@/w/lukasz-okonski.md), who aquired full equity, as the sole proprietor of Prime Time Wrestling. Okoński added in a [video][okon-wyjasnia] posted the next day that the creative process would be agreed upon with members of the roster, rather than decided by Okoński himself.
+On 1.09.2026 PTW published an [official statement][pawel-zwolniony] of [Pawłowski's](@/w/pan-pawlowski.md) termination from PTW, although no specific reasons were given. This left [Łukasz Okoński](@/w/lukasz-okonski.md), who acquired full ownership, as the sole proprietor of Prime Time Wrestling. In a [video][okon-wyjasnia] posted the next day, Okoński added that the creative process will now be shared with members of the roster, rather than handling it by himself.
 
 ## Polish wrestling scene
 
