@@ -21,7 +21,7 @@ After leaving [Kombat Pro Wrestling](@/o/kpw.md) in disgrace, [Arkadiusz "Pan" P
 
 ### The 2021 launch
 
-On June 28, 2021, [Pawłowski](@/w/pan-pawlowski.md), announced the launch of his own wrestling promotion, promising "a new quality of entertainment". 
+On June 28, 2021, [Pawłowski](@/w/pan-pawlowski.md), announced the launch of his own wrestling promotion - co-founded with the help of Marcin "Rzeźnik" Rzeźniczek - promising "a new quality of entertainment". 
 He soon posted a [trailer][trailer-1-ptw] featuring himself and glimpses of various wrestlers.
 Over the course of the summer, training events have been held and social media promotion continued.
 Eventually, the organization announced it was going to hold their first official event in October (preceded by a smaller show closed to the public), and revealed the booked wrestlers.
