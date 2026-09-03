@@ -81,6 +81,8 @@ We ask for our decisions to be respected and we thank all the wrestlers, employe
 Prime Time Wrestling
 {% end %}
 
+The next day Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski wasn't fired, but the termination was an amicable process that both parties agreed to. He also pointed out that there was no conflict between Pawłowski and himself.
+
 ## International wrestling appearances
 
 In 2024 Pan Pawłowski cooperated with [Krampus](@/w/krampus.md) - one of the Austrian wrestlers working for PTW - in an effort to create Wrestling World Austria, which was later transformed into PTW:WWA - Prime Time Wrestling's "sister company". Arkadiusz worked there as an announcer, before the project was shut down in October 2024. 
@@ -135,3 +137,4 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 [rings-of-pawel]: https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl
 [mw-pawel]: https://www.youtube.com/live/D4kwKCFbY9c?si=XxJ7CL7-1kn863hd&t=5868
 [pawel-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JcWNEJ1GQ9VAiAUwTU5kpJbSYUterXZ5Cxug7DkGHup45Fb8jQfHEiFqfoTz4HTMl
+[okon-wyjasnia]: https://www.facebook.com/reel/1377064001215338

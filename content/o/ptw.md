@@ -218,7 +218,7 @@ On the international front, the Austrian sister promotion PTW:WWA has effectivel
 
 #### Termination of Pawłowski
 
-On 1.09.2026 PTW published an [official statement][pawel-zwolniony] of [Pawłowski's](@/w/pan-pawlowski.md) termination from PTW, although no reasons were given. This left [Łukasz Okoński](@/w/lukasz-okonski.md) as the sole proprietor of Prime Time Wrestling.
+On 1.09.2026 PTW published an [official statement][pawel-zwolniony] of [Pawłowski's](@/w/pan-pawlowski.md) termination from PTW, although no reasons were given. This left [Łukasz Okoński](@/w/lukasz-okonski.md), who aquired full equity, as the sole proprietor of Prime Time Wrestling. Okoński added in a [video][okon-wyjasnia] posted the next day that the creative process would be agreed upon with members of the roster, rather than decided by Okoński himself.
 
 ## Polish wrestling scene
 
@@ -320,3 +320,4 @@ On 2.07.2025 fans noticed that the official PTW website was replaced with a gene
 [santino-seminar]: https://www.facebook.com/events/4026337867610745/
 [biggest-match]: https://www.facebook.com/photo?fbid=894964626189514&set=a.136592408693410
 [pawel-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JcWNEJ1GQ9VAiAUwTU5kpJbSYUterXZ5Cxug7DkGHup45Fb8jQfHEiFqfoTz4HTMl
+[okon-wyjasnia]: https://www.facebook.com/reel/1377064001215338
