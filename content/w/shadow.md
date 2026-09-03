@@ -10,6 +10,7 @@ country = ["PL"]
 1 = { path = "shadow.jpg", caption = "Shadows's entrance, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 2 = { path = "terry-shadow.jpg", caption = "Terry Shadow, as seen at [PXW Smash 20.06.2011](@/e/pxw/2011-06-20-pxw-smash.md).", source = "Polish Backyard Archives @ YouTube" }
 3 = { path = "shadow-piekny-i-mlody.webp", caption = "Terry Shadow after his fight at [PXW Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md).", source = "AttitudePL @ YouTube" }
+4 = { path = "shadou-w-cieniu-emerytury.webp", caption = "Image announcing Shadow's final appearances.", source = "shadowiseverywhere @ Instagram" }
 +++
 
 Shadow is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he occasionally works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
@@ -65,6 +66,10 @@ He cemented that by making his PpW debut a couple of months later at [PpW Miasto
 ### Legacy of Wrestling (2024-present)
 
 In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), and faced [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md). He returned for the [second show](@/e/low/2025-04-06-low-2.md) to take part in the Fatal Five-Way Match, albeit unsuccessfully.
+
+### Retirement (2026)
+
+On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from in-ring action due to a chronic hip injury sustained in a fight. Before ending his career as an active wrestler, he decided to make final three appearances in three promotions most important to him: Eastside Revolution Wrestling, Legacy of Wrestling, and lastly in Maniac Zone Wrestling.
 
 ## International wrestling appearances
 
