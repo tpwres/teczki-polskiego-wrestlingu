@@ -81,7 +81,7 @@ We ask for our decisions to be respected and we thank all the wrestlers, employe
 Prime Time Wrestling
 {% end %}
 
-The next day Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski wasn't fired, but the termination was an amicable process that both parties agreed to. He also pointed out that there was no conflict between Pawłowski and himself.
+Two days later Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski wasn't fired, but the termination was an amicable process that both parties agreed to. He also pointed out that there was no conflict between Pawłowski and himself.
 
 ## International wrestling appearances
 
