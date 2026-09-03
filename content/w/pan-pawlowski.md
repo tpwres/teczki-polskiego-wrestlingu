@@ -110,7 +110,7 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
   - [Nietykalni](@/tt/nietykalni.md) (2025-2026)
 * Entrance music:
   - "Throne" by Bring Me the Horizon
-    {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2024, 2026) <br>
     {{ music(yt='Ow_qI_F2ZJI')}}
     {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
     {{ music(apple='1021582747?i=1021582761')}}
