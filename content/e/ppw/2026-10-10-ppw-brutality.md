@@ -18,13 +18,15 @@ has_video = false
 ## Build-up
 
 * The first worker to be announced (on 24.08.2026) was [Shigehiro Irie](@/w/shigehiro-irie.md). He was last seen in 2025 at [Duch Świąt, Śmak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
+* On 2.09.2026 Irie was given an opponent - [Robert Star](@/w/robert-star.md) - whom he'll face in a Super Heavyweight Showcase Match.
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
-  - '???'
-  - nc: upcoming
+  - '[Robert Star](@/w/robert-star.md)'
+  - s: Super Heavyweight Showcase
+    nc: upcoming
 {% end %}
 
 ### Highlights
