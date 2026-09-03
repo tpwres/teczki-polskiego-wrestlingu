@@ -36,7 +36,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) is an up
 - - 'The Grind: [Laurance Roman](@/w/laurance-roman.md) & Nick Schreier + [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)'
   - s: 3-vs-3 Match
-  - nc: upcoming
+    nc: upcoming
 - - '[Mutant](@/w/mutant.md)'
   - '???'
   - nc: upcoming
