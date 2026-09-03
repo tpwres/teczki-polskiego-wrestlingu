@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "shadow.jpg", caption = "Shadows's entrance, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 2 = { path = "terry-shadow.jpg", caption = "Terry Shadow, as seen at [PXW Smash 20.06.2011](@/e/pxw/2011-06-20-pxw-smash.md).", source = "Polish Backyard Archives @ YouTube" }
 3 = { path = "shadow-piekny-i-mlody.webp", caption = "Terry Shadow after his fight at [PXW Backyardmania III](@/e/pxw/2012-07-24-pxw-backyardmania-3.md).", source = "AttitudePL @ YouTube" }
-4 = { path = "shadou-w-cieniu-emerytury.webp", caption = "Image announcing Shadow's final appearances.", source = "shadowiseverywhere @ Instagram" }
+4 = { path = "shadou-w-cieniu-emerytury.webp", caption = "Shadow's post announcing his retirement and final appearances.", source = "shadowiseverywhere @ Instagram" }
 +++
 
 Shadow is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he occasionally works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
