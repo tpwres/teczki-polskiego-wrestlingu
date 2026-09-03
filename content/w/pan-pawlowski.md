@@ -76,7 +76,7 @@ OFFICIAL ANNOUNCEMENT: \
 Prime Time Wrestling informs that on the day of 23.08.2026 the contract between the federation and its founder Arkadiusz Pawłowski was terminated. \
 This decision means the end of his cooperation with the organisation and a change in the federation's ownership structure. \
 From this moment on, Łukasz Okoński remains the owner of Prime Time Wrestling, and every decision pertaining to the federation are made by Łukasz and his creative team. \
-At the same time we wish to emphasize that PTW remains an active ogranisation that consistently implements its ideas and expands. \
+At the same time we wish to emphasize that PTW remains an active organisation that consistently implements its ideas and expands. \
 We ask for our decisions to be respected and we thank all the wrestlers, employees and most of all the fans for constant support. \
 Prime Time Wrestling
 {% end %}
