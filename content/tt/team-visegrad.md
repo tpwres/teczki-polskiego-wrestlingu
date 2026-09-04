@@ -23,6 +23,8 @@ Team Visegrad debuted in KPW at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzi
 * [Ricky Sky](@/w/ricky-sky.md)
 * [Lukáš Mottl](@/w/skull-evil.md)
 
+Although not a member of the team, Johan Otto was chosen by David Oliwa to take his place in a match at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md), when Oliwa was unable to compete due to an injury.
+
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
