@@ -27,6 +27,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * A [video][karierowicze] released on 24.08.2026 added a stipulation to Paskal's match with Kamil: Career vs Career. This is only the second time this stipulation was used, the first being [Piękny Kawaler](@/w/piekny-kawaler.md) vs [Robert Star](@/w/robert-star.md) at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md). The match was officially confirmed the next day.
 * In a [video][walka-o-kontrakt] published on 26.08.2026 Krystian Malinowski stated that the three rookies: [Adept Dwa](@/w/adept-dwa.md), [Adept Trzy](@/w/adept-trzy.md) and Adept Cztery will face each other in a Three-Way Match. The winner will sign a contract and join the KPW roster, while the others will "shut their mouths once and for all and get back to their duties". The match was officially confirmed on 28.08.2026.
 * On 4.09.2026 KPW announced that due to [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md) still recovering from injuries, [Team Visegrad](@/tt/team-visegrad.md) will be represented by [Lukáš Mottl](@/w/lukas-mottl.md) and Johan Otto. Otto is an Austrian wrestler working in European Wrestling Association, among other places, personally chosed by Oliwa to take his place in this match.
+* On 5.09.2026 Lesak was given an opponent - Nitro Green from Denmark, debuting in Poland. In 2019, in Romanian promotion RWA, Nitro Green was the final opponent faced by [Piękny Kawaler](@/w/piekny-kawaler.md) at the end of his in-ring career.
 
 ## Predicted card
 
@@ -45,7 +46,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
     s: Three-Way Match
     nc: upcoming
 - - '[Eryk Lesak](@/w/eryk-lesak.md)(c)'
-  - '???'
+  - 'Nitro Green'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
     nc: upcoming
 - - '[Leon Lato](@/w/leon-lato.md)'
@@ -70,7 +71,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 
 ## References
 
-* TBD
+* [Nitro Green's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=16907)
 
 [tournee-lesaka-2]: https://www.facebook.com/ErykLesak/posts/pfbid02g2mHCeysju7oah1uDG4wmMuwz4EuGV8KRxWmTyfEnwUp5PtX92vz6pzbDrTcxUQDl
 [telefon-do-przyjaciela]: https://www.youtube.com/watch?v=pKBW91BzT6U
