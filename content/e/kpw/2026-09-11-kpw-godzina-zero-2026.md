@@ -26,6 +26,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * On 23.08.2026 KPW announced that Zefir - the winner of the #1 Contendership at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) - will join Greg and [Iestyn Rees](@/w/iestyn-rees.md) in the fight for the [main title](@/c/kpw-championship.md). This marks the first time a bout for the federation's primary gold will be a Three-Way Match.
 * A [video][karierowicze] released on 24.08.2026 added a stipulation to Paskal's match with Kamil: Career vs Career. This is only the second time this stipulation was used, the first being [Piękny Kawaler](@/w/piekny-kawaler.md) vs [Robert Star](@/w/robert-star.md) at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md). The match was officially confirmed the next day.
 * In a [video][walka-o-kontrakt] published on 26.08.2026 Krystian Malinowski stated that the three rookies: [Adept Dwa](@/w/adept-dwa.md), [Adept Trzy](@/w/adept-trzy.md) and Adept Cztery will face each other in a Three-Way Match. The winner will sign a contract and join the KPW roster, while the others will "shut their mouths once and for all and get back to their duties". The match was officially confirmed on 28.08.2026.
+* On 4.09.2026 KPW announced that due to [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md) still recovering from injuries, [Team Visegrad](@/tt/team-visegrad.md) will be represented by [Lukáš Mottl](@/w/skull-evil.md) and Johan Otto. Otto is an Austrian wrestler working in European Wrestling Association, among other places, personally chosed by Oliwa to take his place in this match.
 
 ## Predicted card
 
@@ -51,7 +52,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
   - '[Tomczak](@/w/tomczak.md)'
   - s: Dog Collar match
     nc: upcoming
-- - '[Team Visegrad](@/tt/team-visegrad.md): ??? & ???(c)'
+- - '[Team Visegrad](@/tt/team-visegrad.md): [Lukáš Mottl](@/w/skull-evil.md) & Johan Otto(c)'
   - '[Chemik](@/w/chemik.md) & ???'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag-Team Match
