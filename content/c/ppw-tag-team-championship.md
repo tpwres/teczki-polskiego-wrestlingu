@@ -36,7 +36,7 @@ The tournament consisted of semi-finals with both [Rodzina](@/tt/rodzina.md) and
 
 In addition, [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) were forced to become a tag team and at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) they fought Rodzina's representation for the opportunity to join the finals. After their win, Gustav & Goblin were denied their opportunity by [Mister Z](@/w/mister-z.md) and forced to fight another match for the same chance the same night, this time against Zmowa's other representation of [Axel Fox](@/w/jakub.md) & [Marco Hammers](@/w/marco-hammers.md). After succesfully defeating the next team, Gustav & Goblin have officially been added to the finals.
 
-The tournament seemingly involved the [Freebird Rule][freebird-rule]. Oskar Alexander advanced to the finals with Vic Golden and later fought Gustav & Goblin together with [Gabriel Queen](@/w/gabriel-queen.md). This was supposedly Rodzina's designed representation for the finals, but later it was [confirmed][queena-nie-bedzie] that due to Queen's obstruction, he would not be joining Alexander in the finals. Instead, a new member of Rodzina would fight for the title. That member was revealed to be [Filip Fux](@/w/filip-fux.md).
+The tournament seemingly involved the [Freebird Rule](@/a/freebird-rule.md). Oskar Alexander advanced to the finals with Vic Golden and later fought Gustav & Goblin together with [Gabriel Queen](@/w/gabriel-queen.md). This was supposedly Rodzina's designed representation for the finals, but later it was [confirmed][queena-nie-bedzie] that due to Queen's obstruction, he would not be joining Alexander in the finals. Instead, a new member of Rodzina would fight for the title. That member was revealed to be [Filip Fux](@/w/filip-fux.md).
 
 The tournament finals took place at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where Rodzina, Zmowa and [Bad Trip](@/tt/bad-trip.md) (Gustav Gryffin & Goblin) faced each other in a Triple Threat Tag Team Tables Elimination Match. Zmowa won the fight, crowning all the members of the stable as inaugural PpW Tag Team Champions.
 
@@ -95,7 +95,7 @@ NOTE: Both Zmowa and Rodzina were already part of the finals and never put their
 
 ### Champions #1: Zmowa: Mister Z, Jakub "Fox", Marco Hammers & Olgierd
 
-NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] that the Championships belong to Zmowa as a whole, invoking the [Freebird Rule][freebird-rule].
+NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] that the Championships belong to Zmowa as a whole, invoking the [Freebird Rule](@/a/freebird-rule.md).
 
 {% free_card() %}
 - - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Jakub "Fox"](@/w/jakub.md)'
@@ -170,5 +170,4 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
 
 [pas-wwe-tag-team]: https://en.wikipedia.org/wiki/WWE_Tag_Team_Championship
 [zet-potwierdza]: https://www.facebook.com/reel/2122277141945558
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
 [queena-nie-bedzie]: https://www.instagram.com/p/DTs_vmZignE/

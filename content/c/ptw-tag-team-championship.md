@@ -40,7 +40,7 @@ Along with the title, Pawłowski announced an upcoming tag team tournament, to c
 This tournament happened during Undergrounds [10](@/e/ptw/2023-01-28-ptw-underground-10.md) and
 [11](@/e/ptw/2023-01-29-ptw-underground-11.md) (first round), [12](@/e/ptw/2023-02-26-ptw-underground-12.md), and [13](@/e/ptw/2023-03-26-ptw-underground-13.md) (semi finals).
 The final match was contested on [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), where PAKA defeated Pure Gold in a tables match.
-While Boro did not participate in that match, he was also recognized as a champion in accordance with the [Freebird Rule][freebird-rule].
+While Boro did not participate in that match, he was also recognized as a champion in accordance with the [Freebird Rule](@/a/freebird-rule.md).
 
 ## Belt design
 
@@ -129,7 +129,7 @@ The new version appears much slimmer and smaller than the first one. The main pl
 
 **TOTAL:** 223 days.
 
-While Boro never defended the title, he was also recognized as a champion per the [Freebird Rule][freebird-rule].
+While Boro never defended the title, he was also recognized as a champion per the [Freebird Rule](@/a/freebird-rule.md).
 
 ### Champions #2: Budapest Bastards: Renegade & Nitro
 
@@ -250,5 +250,3 @@ While Boro never defended the title, he was also recognized as a champion per th
     en: '[PTW: Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
     ed: 2026-08-28
 {% end %}
-
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

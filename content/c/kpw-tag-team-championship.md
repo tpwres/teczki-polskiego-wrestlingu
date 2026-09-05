@@ -214,17 +214,17 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag-Team Match
     en: '[KPW Arena XXX: Dekada](@/e/kpw/2025-11-14-kpw-arena-xxx.md)'
     ed: 2025-11-14
-- - 'Team Visegrad: David Oliwa & Ricky Sky (c)'
+- - 'Team Visegrad: David Oliwa & [Lukáš Mottl](@/w/lukas-mottl.md) (c)'
   - 'Adept Dwa & Adept Trzy'
   - s: Tag-Team Match
     en: '[KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md)'
     ed: 2026-01-16
-- - 'Team Visegrad: David Oliwa & Ricky Sky (c)'
+- - 'Team Visegrad: David Oliwa & Lukáš Mottl (c)'
   - 'Adept Jeden & [Leon Lato](@/w/leon-lato.md)'
   - s: Tag-Team Match
     en: '[KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md)'
     ed: 2026-01-16
-- - 'Team Visegrad: [Lukáš Mottl](@/w/skull-evil.md) & Johan Otto (c)'
+- - 'Team Visegrad: Lukáš Mottl & Johan Otto (c)'
   - '[Chemik](@/w/chemik.md) & ???'
   - s: Tag-Team Match
     en: '[KPW Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)'
@@ -232,10 +232,8 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
     nc: upcoming
 {% end %}
 
-While the titles were won by David Oliwa & Ricky Sky, Lukáš Mottl was also recognised as a champion in accordance with the [Freebird Rule][freebird-rule]. While not officially a member of Team Visegrad, Johan Otto replaced David Oliwa in a match due to the latter's injury.
+While the titles were won by David Oliwa & Ricky Sky, Lukáš Mottl was also recognised as a champion in accordance with the [Freebird Rule](@/a/freebird-rule.md). While not officially a member of Team Visegrad, Johan Otto replaced David Oliwa in a match due to the latter's injury.
 
 ## References
 
 * Detailed [KPW champions list](https://pl.wikipedia.org/wiki/Wikipedysta:M3n747/brudnopis/mistrzowiekpw) on Wikipedia (in Polish)
-
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
