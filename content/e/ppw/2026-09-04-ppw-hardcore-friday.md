@@ -24,7 +24,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 
 {% card() %}
 - - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Olgierd](@/w/olgierd.md) & Rozalia Nyx'
-  - g: 'Jakub informs Olgierd that he has a different partner for tonight'
+  - g: 'Jakub informs Olgierd that he has a different partner for tonight.'
 - - 'The Grind: [Laurance Roman](@/w/laurance-roman.md) & Nick Schreier'
   - '[Jakub](@/w/jakub.md) & [Maverick](@/w/maverick.md)'
   - s: Maverick's Zmowa Tryout Tag Team Match
@@ -37,7 +37,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
-  - g: 'Queen gives an open challenge, Goblin answers, Zmowa interrupt'
+  - g: 'Queen issues an open challenge, Goblin answers, Zmowa interrupt.'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
@@ -47,7 +47,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
   - s: Hardcore Tag Team Match
 - - 'Turyści: [Sędzia Kornel](@/w/sedzia-kornel.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md), Janek, Karol, Młody'
-  - g: 'Turyści bid farewell to Sędzia Kornel - dark segment'
+  - g: 'Turyści bid farewell to Sędzia Kornel (dark segment).'
 - credits:
     Host, Ring Announcer: "[Michael HT](@/w/michael-ht.md)"
     Referees: "[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)"
@@ -57,12 +57,12 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 ### Highlights
 
 * Despite being announced, [Mutant](@/w/mutant.md) and [Zeritus](@/w/zeritus.md) did not appear.
-* [Gustav Gryffin](@/w/gustav-gryffin.md), who's sidelined from competition due to injury, made his commentary debut.
-* For the opening tag team match, it seemed as if [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md) were about to compete. Cutting off the announcement, Jakub informed Olgierd that actually, it was a tryout match for [Maverick](@/w/maverick.md), who wants to join Zmowa and Olgierd's role for this match is only a cheerleader. Olgierd, having none of it, stormed off alongside his manager.
-* Maverick failed his tryout and got laid out by Jakub with brass knuckles to the face
-* [Sędzia Kornel](@/w/sedzia-kornel.md), prompted by the audience to show his bicep, tore off the sleaves of his referee shirt. For the remainder of the show, he refereed sleeveless.
-* [Gabriel Queen](@/w/gabriel-queen.md) cut a promo, changing his [PpW Championship](@/c/ppw-championship.md) match against [Jacob Crane](@/w/jacob-crane.md) into _30 minute Iron Man match_ and tore him down for being absent. To be better than Crane, Queen issued an open challenge, quickly answered by [Goblin](@/w/goblin.md). This never came into fruition, as Zmowa interrupted. Goblin & Queen made fun of Olgierd so quickly getting over losing [Marco Hammers](@/w/marco-hammers.md) and replacing him with a _szon_(roughly: _hoe_). This prompted Olgierd to snap, the brawl ensued and the main event tag team match was set up.
-* After the show went off the air, [Konrad "Joker" Grzesikiewicz](@/w/joker.md) left the DJ booth to make an in-ring announcement. He invited all members of the Turyści backstage faction including [Sędzia Kornel](@/w/sedzia-kornel.md) to the ring. It was announced that this is Kornel's last show in Warsaw for considerable future, as he is relocating to United Kingdom. Kornel took the mic to say that his last 4 years with PpW were the best years of his life. He promised to come back with even bigger bicep than now, tearing off his referee shirt.
+* [Gustav Gryffin](@/w/gustav-gryffin.md), sidelined from competition due to an injury, made his commentary debut.
+* For the opening tag team match, it seemed as if [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md) were about to compete. Cutting off the announcement, Jakub informed Olgierd that it actually was a tryout match for [Maverick](@/w/maverick.md), who wanted to join Zmowa, and Olgierd's role for this match was only as a cheerleader. Olgierd, having none of it, stormed off alongside his manager.
+* Maverick failed his tryout and got laid out by Jakub with brass knuckles to the face.
+* [Sędzia Kornel](@/w/sedzia-kornel.md), prompted by the audience to show his bicep, tore off the sleeves of his referee shirt. For the remainder of the show, he refereed sleeveless.
+* [Gabriel Queen](@/w/gabriel-queen.md) cut a promo, changing his [PpW Championship](@/c/ppw-championship.md) match against [Jacob Crane](@/w/jacob-crane.md) at the [next show](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach) to a 30 Minute Iron Man Match and tore him down for being absent. To be better than Crane, Queen issued an open challenge, quickly answered by [Goblin](@/w/goblin.md). This match never came into fruition, however, as Zmowa interrupted. Goblin & Queen made fun of Olgierd for so quickly getting over losing [Marco Hammers](@/w/marco-hammers.md) and replacing him with a _szon_(roughly "hoe"). This prompted Olgierd to snap; a brawl ensued and the main event tag team match was set up.
+* After the show went off the air, [Konrad "Joker" Grzesikiewicz](@/w/joker.md) left the DJ booth to make an in-ring announcement. He invited all members of the Turyści backstage faction, including [Sędzia Kornel](@/w/sedzia-kornel.md), to the ring. It was announced that this is Kornel's final show in Warsaw for the forseeable future, as he is relocating to the United Kingdom. Kornel took the mic to say that his last four years with PpW were the best years of his life. He promised to come back with an even bigger bicep, tearing off his referee shirt.
 
 ## References
 
