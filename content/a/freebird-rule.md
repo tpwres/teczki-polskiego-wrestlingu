@@ -5,6 +5,8 @@ weight = 0
 authors = ["M3n747"]
 [taxonomies]
 category = ["Polish wrestling scene"]
+[extra]
+toclevel = 3
 +++
 
 The [Freebird Rule][freebird-rule] - named after the American tag team [the Fabulous Freebirds][freebirds] - is an angle where three or more members of a team or stable are considered equal Champions, even if they didn't personally contribute to winning a tag team title. This "rule" is also in effect on the Polish scene.
