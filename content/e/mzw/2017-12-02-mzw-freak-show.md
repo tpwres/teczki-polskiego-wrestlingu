@@ -21,7 +21,7 @@ Another new face, although an experienced wrestler by then, was [Damian Lambert]
 ## Card
 
 {% card() %}
-- - '[Skull Evil](@/w/skull-evil.md)'
+- - '[Skull Evil](@/w/lukas-mottl.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Triple Threat Match'
