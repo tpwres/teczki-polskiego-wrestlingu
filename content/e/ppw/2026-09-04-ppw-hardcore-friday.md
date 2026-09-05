@@ -46,7 +46,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 - - '[Gabriel Queen](@/w/gabriel-queen.md) & [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
   - s: Hardcore Tag Team Match
-- - 'Turyści: '[Sędzia Kornel](@/w/sedzia-kornel.md)', [Konrad "Joker" Grzesikiewicz](@/w/joker.md), Janek, Karol, Młody'
+- - 'Turyści: [Sędzia Kornel](@/w/sedzia-kornel.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md), Janek, Karol, Młody'
   - g: 'Turyści bid farewell to Sędzia Kornel - dark segment'
 - credits:
     Host, Ring Announcer: "[Michael HT](@/w/michael-ht.md)"
