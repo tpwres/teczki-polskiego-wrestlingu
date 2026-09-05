@@ -267,7 +267,7 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
     en: '[KPW Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md)'
     ed: 2026-06-26
 - - 'Eryk Lesak(c)'
-  - '???'
+  - 'Nitro Green'
   - s: Singles Match
     en: '[KPW Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)'
     ed: 2026-09-11
