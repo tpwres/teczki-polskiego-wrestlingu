@@ -1,5 +1,5 @@
 +++
-title = "Skull Evil"
+title = "Lukáš Mottl"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [extra]
@@ -8,7 +8,7 @@ toclevel = 2
 country = ["CZ"]
 +++
 
-Skull Evil is a Czech wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) between 2016 and 2018. Outside of Poland, he occasionally works as part of a tag team with [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md).
+Lukáš Mottl - also known as Skull Evil - is a Czech wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) between 2016 and 2018. Outside of Poland, he occasionally works as part of [Team Visegrad](@/tt/team-visegrad.md) tag team with [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md).
 
 ## Basic info
 

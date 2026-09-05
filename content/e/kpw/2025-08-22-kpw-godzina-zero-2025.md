@@ -26,7 +26,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
 * The main event - [Hans Schulte](@/w/hans-schulte.md) vs [Zefir](@/w/zefir.md) for the [KPW Championship](@/c/kpw-championship.md) - was officially confirmed on 11.08.2025.
 * The Handicap Match between [Tomczak](@/w/tomczak.md) and three as-yet unnamed rookies was confirmed two days later.
 * On 15.08.2025 KPW announced [Eryk Lesak](@/w/eryk-lesak.md) vs Crowchester, who was last seen at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).
-* On 18.08.2025 [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/skull-evil.md) was announced. Mottl made his KPW debut at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md) earlier that year, but this will be his first mainline KPW show. Previously, he'd made a number of appearances (as Skull Evil) for [Maniac Zone Wrestling](@/o/mzw.md) and one for [PpW Ewenement Wrestling](@/o/ppw.md).
+* On 18.08.2025 [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/lukas-mottl.md) was announced. Mottl made his KPW debut at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md) earlier that year, but this will be his first mainline KPW show. Previously, he'd made a number of appearances (as Skull Evil) for [Maniac Zone Wrestling](@/o/mzw.md) and one for [PpW Ewenement Wrestling](@/o/ppw.md).
 * The following day saw the announcement of debutant [Markus Paskal](@/w/markus-paskal.md), a graduate of the [KPW Wrestling School](@/o/szkola-kpw.md), vs [Veit Müller](@/w/veit-mueller.md).
 * Lastly, on 20.08.2025, KPW announced a 13-Man Championship Contract Battle Royal. This replaces the Magnificent Seven Ladder Match, a staple of most Godzina Zero shows held in previous years.
 * On the day before the show, KPW released a [video][motywacja-oliwy] in which David Oliwa addressed [Filip & Michał Fux](@/tt/bracia-fux.md), stating that because they took away his chance at the [KPW Championship](@/c/kpw-championship.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), he will now take what's most important to them: their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md). [Ricky Sky](@/w/ricky-sky.md) then added (in Slovak) that it won't be just their titles, but also their fans, their joy and their name: they'll no longer be (in English) "Fux Brothers", but rather (in Polish) "Shit Brothers" (_Nebudú to Fux Brothers - budú Gówno Brothers_).
@@ -49,7 +49,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   - 'Adepci: [Adept Jeden](@/w/oskar-haller.md) & [Adept Dwa](@/w/adept-dwa.md) & [Adept Trzy](@/w/adept-trzy.md)'
   - s: 3-on-1 Handicap Match
 - - '[Greg](@/w/greg.md)'
-  - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
+  - '["Skull Evil" Lukáš Mottl](@/w/lukas-mottl.md)'
 - - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - '[Chemik](@/w/chemik.md)'
   - 'Crowchester'
@@ -60,7 +60,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   - '[Markus Paskal](@/w/markus-paskal.md)'
   - '[Michał Fux](@/w/michal-fux.md)'
   - '[Ricky Sky](@/w/ricky-sky.md)'
-  - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
+  - '["Skull Evil" Lukáš Mottl](@/w/lukas-mottl.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - '[Veit Müller](@/w/veit-mueller.md)'
   - s: '13-Man Championship Contract Battle Royal'
@@ -79,7 +79,7 @@ Attendance: ca. 300 (source: Cagematch)
 ### Highlights
 
 * [Michał Fux](@/w/michal-fux.md) sustained an injury during the match, which forced him to leave [Filip Fux](@/w/filip-fux.md) to fend for himself for a long while. Later in the match, he came back with a bandaged left hand to aid his brother in the fight.
-* When Michał pinned [Ricky Sky](@/w/ricky-sky.md), [Lukáš Mottl](@/w/skull-evil.md) came out of the backstage and placed Ricky's leg on the bottom rope, forcing a rope break. The local crowd, unfamiliar with the character (though he did appear earlier that year at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md)), chanted "[Kim ty jesteś](@/a/polish-wrestling-chants.md#intros)" (_Who are you?_).
+* When Michał pinned [Ricky Sky](@/w/ricky-sky.md), [Lukáš Mottl](@/w/lukas-mottl.md) came out of the backstage and placed Ricky's leg on the bottom rope, forcing a rope break. The local crowd, unfamiliar with the character (though he did appear earlier that year at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md)), chanted "[Kim ty jesteś](@/a/polish-wrestling-chants.md#intros)" (_Who are you?_).
 * After winning the second match, [Veit Müller](@/w/veit-mueller.md) extended his hand to [Markus Paskal](@/w/markus-paskal.md) and hugged him, only to then deliver a surprise attack.
 * Present in the audience were Markus Paskal's mother and friends, who prepared a large banner to cheer him on. After the fight, Paskal cut a brief promo thanking the fans for giving him a chance to prove himself and apologising for wasting that chance. He ended by thanking his mother, prompting the crowd to chant "Mum!"
 * Upon entering the ring, [Eryk Lesak](@/w/eryk-lesak.md) insulted and tore down Paskal's banner.
@@ -96,7 +96,7 @@ Attendance: ca. 300 (source: Cagematch)
   5. [Greg](@/w/greg.md)
   6. [Ricky Sky](@/w/ricky-sky.md)
   7. [Filip Fux](@/w/filip-fux.md)
-  8. [Lukáš Mottl](@/w/skull-evil.md)
+  8. [Lukáš Mottl](@/w/lukas-mottl.md)
   9. [Michał Fux](@/w/michal-fux.md)
   10. [Veit Müller](@/w/veit-mueller.md)
   11. [Eryk Lesak](@/w/eryk-lesak.md) (see explanation below)

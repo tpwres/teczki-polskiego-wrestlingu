@@ -8,7 +8,7 @@ orgs = ["kpw"]
 [extra.gallery]
 +++
 
-Team Visegrad are a Polish-Czech-Slovakian tag team consisting of [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md) and [Lukáš Mottl](@/w/skull-evil.md).
+Team Visegrad are a Polish-Czech-Slovakian tag team consisting of [David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md) and [Lukáš Mottl](@/w/lukas-mottl.md).
 Although they mostly work in the Austrian promotion European Wrestling Association, they also appeared in [Kombat Pro Wrestling](@/o/kpw.md).
 
 ## History
@@ -21,7 +21,7 @@ Team Visegrad debuted in KPW at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzi
 
 * [David Oliwa](@/w/david-oliwa.md)
 * [Ricky Sky](@/w/ricky-sky.md)
-* [Lukáš Mottl](@/w/skull-evil.md)
+* [Lukáš Mottl](@/w/lukas-mottl.md)
 
 ## Championships and accomplishments
 
