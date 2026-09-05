@@ -57,7 +57,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 ### Highlights
 
 * Despite being announced, [Mutant](@/w/mutant.md) and [Zeritus](@/w/zeritus.md) did not appear.
-* Injured [Gustav Gryffin](@/w/gustav-gryffin.md) made his commentary debut
+* [Gustav Gryffin](@/w/gustav-gryffin.md), who's sidelined from competition due to injury, made his commentary debut.
 * For the opening tag team match, it seemed as if [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md) were about to compete. Cutting off the announcement, Jakub informed Olgierd that actually, it was a tryout match for [Maverick](@/w/maverick.md), who wants to join Zmowa and Olgierd's role for this match is only a cheerleader. Olgierd, having none of it, stormed off alongside his manager.
 * Maverick failed his tryout and got laid out by Jakub with brass knuckles to the face
 * [Sędzia Kornel](@/w/sedzia-kornel.md), prompted by the audience to show his bicep, tore off the sleaves of his referee shirt. For the remainder of the show, he refereed sleeveless.
