@@ -24,7 +24,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 
 {% card() %}
 - - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Olgierd](@/w/olgierd.md) & Rozalia Nyx'
-  - g: Jakub informs Olgierd that he has a different partner for tonight
+  - g: 'Jakub informs Olgierd that he has a different partner for tonight'
 - - 'The Grind: [Laurance Roman](@/w/laurance-roman.md) & Nick Schreier'
   - '[Jakub](@/w/jakub.md) & [Maverick](@/w/maverick.md)'
   - s: Maverick's Zmowa Tryout Tag Team Match
@@ -37,7 +37,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
-  - g: Queen gives an open challenge, Goblin answers, Zmowa interrupt
+  - g: 'Queen gives an open challenge, Goblin answers, Zmowa interrupt'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
 - - '[Biesiad Strong](@/w/biesiad.md)'
@@ -46,8 +46,8 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 - - '[Gabriel Queen](@/w/gabriel-queen.md) & [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
   - s: Hardcore Tag Team Match
-- - Turyści: '[Sędzia Kornel](@/w/sedzia-kornel.md)', [Konrad "Joker" Grzesikiewicz](@/w/joker.md), Janek, Karol, Młody
-  - g: Turyści bid farewell to Sędzia Kornel - dark segment
+- - 'Turyści: '[Sędzia Kornel](@/w/sedzia-kornel.md)', [Konrad "Joker" Grzesikiewicz](@/w/joker.md), Janek, Karol, Młody'
+  - g: 'Turyści bid farewell to Sędzia Kornel - dark segment'
 - credits:
     Host, Ring Announcer: "[Michael HT](@/w/michael-ht.md)"
     Referees: "[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)"
