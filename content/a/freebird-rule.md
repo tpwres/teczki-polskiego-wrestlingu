@@ -21,7 +21,7 @@ The [Freebird Rule][freebird-rule] - named after the American tag team [the Fabu
 
 ### Team Visegrad
 
-[David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md), forming [Team Visegrad](@/tt/team-visegrad.md), won the [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md). [Lukáš Mottl](@/w/skull-evil.md), the third member of the team, defended the title at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) (in two matches, back-to-back) and at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md). The latter event also saw the addition of Johan Otto, replacing Oliwa who was unable to compete due to an injury.
+[David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md), forming [Team Visegrad](@/tt/team-visegrad.md), won the [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md). [Lukáš Mottl](@/w/lukas-mottl.md), the third member of the team, defended the title at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) (in two matches, back-to-back) and at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md). The latter event also saw the addition of Johan Otto, replacing Oliwa who was unable to compete due to an injury.
 
 ## PpW Ewenement Wrestling
 
