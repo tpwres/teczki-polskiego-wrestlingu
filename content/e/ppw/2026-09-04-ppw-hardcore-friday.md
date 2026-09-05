@@ -1,7 +1,7 @@
 +++
 title = "PpW Hardcore Friday: Żeby Było Ci Dobrze"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747, Szymon Iwulski"]
 [taxonomies]
 chronology = ["ppw"]
 venue=["2kola"]
