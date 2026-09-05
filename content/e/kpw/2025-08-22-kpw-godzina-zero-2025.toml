@@ -4,9 +4,9 @@
 0003 = { path = "hans-schulte-vs-zefir.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md) vs [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
 0004 = { path = "tomczak-vs-adepci.webp", caption = "Image announcing [Tomczak](@/w/tomczak.md) vs Adepci [Trzy](@/w/adept-trzy.md), [Jeden](@/w/oskar-haller.md) & [Dwa](@/w/adept-dwa.md).", source = "Official KPW Facebook" }
 0005 = { path = "lesak-vs-crowchester.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs Crowchester.", source = "Official KPW Facebook" }
-0006 = { path = "greg-vs-mottl.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/skull-evil.md).", source = "Official KPW Facebook" }
+0006 = { path = "greg-vs-mottl.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/lukas-mottl.md).", source = "Official KPW Facebook" }
 0007 = { path = "1N-na-m2.webp", caption = "Image announcing [Markus Paskal](@/w/markus-paskal.md) vs [Veit Müller](@/w/veit-mueller.md).", source = "Official KPW Facebook" }
-0008 = { path = "battle-royal.webp", caption = "Image announcing the 13-Man Battle Royal. Left to right, top row: Markus Paskal, [Ricky Sky](@/w/ricky-sky.md), Crowchester, [David Oliwa](@/w/david-oliwa.md), [Veit Müller](@/w/veit-mueller.md), [Lukáš Mottl](@/w/skull-evil.md), [Eryk Lesak](@/w/eryk-lesak.md); bottom row: [Michał Fux](@/w/michal-fux.md), [Chemik](@/w/chemik.md), [Leon Lato](@/w/leon-lato.md), [Tomczak](@/w/tomczak.md), [Greg](@/w/greg.md), [Filip Fux](@/w/filip-fux.md).", source = "Official KPW Facebook" }
+0008 = { path = "battle-royal.webp", caption = "Image announcing the 13-Man Battle Royal. Left to right, top row: Markus Paskal, [Ricky Sky](@/w/ricky-sky.md), Crowchester, [David Oliwa](@/w/david-oliwa.md), [Veit Müller](@/w/veit-mueller.md), [Lukáš Mottl](@/w/lukas-mottl.md), [Eryk Lesak](@/w/eryk-lesak.md); bottom row: [Michał Fux](@/w/michal-fux.md), [Chemik](@/w/chemik.md), [Leon Lato](@/w/leon-lato.md), [Tomczak](@/w/tomczak.md), [Greg](@/w/greg.md), [Filip Fux](@/w/filip-fux.md).", source = "Official KPW Facebook" }
 1001 = { path = "filip-slucha.webp", caption = "[Filip Fux](@/w/filip-fux.md):<br />&quot;Who's the best?&quot;", source = "M3n747" }
 1002 = { path = "michal-pokazuje.webp", caption = "[Michał Fux](@/w/michal-fux.md):<br />&quot;You're the best!&quot;", source = "M3n747" }
 1003 = { path = "ricky-pali-sie-do-ringu.webp", caption = "Ricky Sky rushes into the ring to give David Oliwa a hand, but is stopped by [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
@@ -31,12 +31,12 @@
 5005 = { path = "no-i-w-pizdu-wyladowal.webp", caption = "[Adept Trzy](@/w/adept-trzy.md) seconds later.", source = "M3n747" }
 5006 = { path = "raz-dwa-i-po-karkach.webp", caption = "Tomczak prepares to suplex Adept Dwa and Adept Jeden.", source = "M3n747" }
 5007 = { path = "od-pucybuta-do-wrestlera.webp", caption = "When it comes to Adept Jeden, [Tomczak](@/w/tomczak.md) puts his foot down. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) counts him out.", source = "M3n747" }
-6001 = { path = "o-taaaka-na-motylka-zlowilem.webp", caption = "[Greg's](@/w/greg.md) entrance. [Krystian Czekaj](@/w/krystian-czekaj.md) to the left, [Lukáš Mottl](@/w/skull-evil.md) to the right.", source = "M3n747" }
-6002 = { path = "zastrzele-cie-wlosami.webp", caption = "Greg and [Lukáš Mottl](@/w/skull-evil.md) test their might.", source = "M3n747" }
+6001 = { path = "o-taaaka-na-motylka-zlowilem.webp", caption = "[Greg's](@/w/greg.md) entrance. [Krystian Czekaj](@/w/krystian-czekaj.md) to the left, [Lukáš Mottl](@/w/lukas-mottl.md) to the right.", source = "M3n747" }
+6002 = { path = "zastrzele-cie-wlosami.webp", caption = "Greg and [Lukáš Mottl](@/w/lukas-mottl.md) test their might.", source = "M3n747" }
 6003 = { path = "profesjonalna-ocena-sytuacji.webp", caption = "Piękny Kawaler checks on the camera operator; in the background Greg attacks Lukáš Mottl.", source = "M3n747" }
 6004 = { path = "ach-jak-ja-cierpie-miejze-litosc.webp", caption = "[Greg](@/w/greg.md) being choked by Lukáš Mottl.", source = "M3n747" }
 6005 = { path = "zostaw-juz-grzesia-lukaszku.webp", caption = "Krystian Czekaj pulls Lukáš Mottl away from Greg.", source = "M3n747" }
-6006 = { path = "proste-rozwiazanie.webp", caption = "[Lukáš Mottl](@/w/skull-evil.md) unties padding from a turnbuckle.", source = "M3n747" }
+6006 = { path = "proste-rozwiazanie.webp", caption = "[Lukáš Mottl](@/w/lukas-mottl.md) unties padding from a turnbuckle.", source = "M3n747" }
 6007 = { path = "rece-ktore-pinuja.webp", caption = "[Greg](@/w/greg.md) triumphs over Lukáš Mottl.", source = "M3n747" }
 7001 = { path = "bitwa-o-papierek.webp", caption = "Battle Royal about to commence. Left to right: Veit Müller, Eryk Lesak, Chemik, [Filip Fux](@/w/filip-fux.md), [Michał Fux](@/w/michal-fux.md), [Leon Lato](@/w/leon-lato.md), [Markus Paskal](@/w/markus-paskal.md), [Krystian Czekaj](@/w/krystian-czekaj.md) (holding a Championship contract), Greg, Lukáš Mottl, David Oliwa, Ricky Sky. Behind the latter two are visible Tomczak's legs; Crowchester is not seen in this photo.", source = "M3n747" }
 7002 = { path = "leon-piwo.webp", caption = "[Leon Lato](@/w/leon-lato.md) graciously accepts a beer.", source = "M3n747" }

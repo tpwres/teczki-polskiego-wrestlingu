@@ -24,7 +24,7 @@ manifest = "@/e/mzw/2017-02-18-mzw-beatdown-2-gallery.toml"
 - - '[Asmund](@/w/asmund.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
 - - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
-  - '[Skull Evil](@/w/skull-evil.md)'
+  - '[Skull Evil](@/w/lukas-mottl.md)'
   - s: 'Hardcore Flag Match'
 - - 'Posse in Effect: [Rick Baxxter](@/w/rick-baxxter.md), [The Grannatic](@/w/the-grannatic.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md), Marcus Monere'

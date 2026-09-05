@@ -27,7 +27,7 @@ has_video = true
   - '[Red Thunder](@/w/red-thunder.md)'
   - r: 'DQ'
 - - '[Asmund](@/w/asmund.md)'
-  - '[Skull Evil](@/w/skull-evil.md)'
+  - '[Skull Evil](@/w/lukas-mottl.md)'
   - s: Submission Match
 - - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - '[Kripto](@/w/kripto.md) & [Red Thunder](@/w/red-thunder.md)'
@@ -56,7 +56,7 @@ has_video = true
 * Dobroniak was attacked by [Kripto](@/w/kripto.md), causing the match to end with a DQ in Dobroniak's favour.
 * After the match, Dobroniak cut a short promo calling Red Thunder a "red monkey" (_czerwona małpa_) - perhaps in reference to a 2006 incident in which the [Polish president][kaczor] called a journalist a "monkey in red" (_małpa w czerwonym_) during a press conference in Brussels, unaware that his words were picked up by microphones.
 * In the promo, Bułecka & Dobroniak formed a tag team and challenged Kripto & Red Thunder to a match. [Tomasz Warchoł](@/w/tomasz-warchol.md) approved, and then presented the [MZW Tag Team Championship belts](@/c/mzw-tag-team-championship.md), which he announced as the stakes of that match.
-* [Asmund](@/w/asmund.md) vs [Skull Evil](@/w/skull-evil.md) was the first Submission Match in MZW's history.
+* [Asmund](@/w/asmund.md) vs [Skull Evil](@/w/lukas-mottl.md) was the first Submission Match in MZW's history.
 * This was Skull Evil's Polish debut. According to the commentary, he was the first Czech wrestler to fight in Poland.
 * When announcing the match, [Tomasz Warchoł](@/w/tomasz-warchol.md) said "The fight is a Submission Match, in which the winner is the contender who gives up" (_Pojedynek to Submission Match, w którym wygrywa zawodnik, który się podda_). There were a few chuckles from the audience, but Tomasz didn't correct himself.
 * Jędruś and Dobroniak played rock-paper-scissors to determine who'd go first, with Bułecka winning the privilege.

@@ -16,7 +16,7 @@ has_video = false
 
 This event was a sideshow accompanying IV Bieg WOP-isty (a cross-country half-marathon event), held in {{ map_pin(v="Opawa") }}Opawa, a small village near Lubawka, close to the Polish-Czech border. The name of the event stirred a minor controversy due to the use of a mild expletive "zajebisty" (roughly _effin' awesome_), however that was beyond MZW's control.
 
-No card is available for the show, however the announced workers included [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Asmund](@/w/asmund.md), [Skull Evil](@/w/skull-evil.md), [Szymon Siwiec](@/w/szymon-siwiec.md), [Shadow](@/w/shadow.md), [Red Thunder](@/w/red-thunder.md) and [Szymon Kolanus](@/w/blue-thunder.md). The referee was [Manny](@/w/manny.md).
+No card is available for the show, however the announced workers included [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Asmund](@/w/asmund.md), [Skull Evil](@/w/lukas-mottl.md), [Szymon Siwiec](@/w/szymon-siwiec.md), [Shadow](@/w/shadow.md), [Red Thunder](@/w/red-thunder.md) and [Szymon Kolanus](@/w/blue-thunder.md). The referee was [Manny](@/w/manny.md).
 
 {{ skip_card() }}
 
