@@ -75,7 +75,7 @@ Despite Zmowa's defeat at Co Za Noc, Marco remained in the stable, often facing 
 
 ### PpW Tag Team Champion
 
-After his partner from Legia Łysych, Olgierd, won the PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Marco focused on helping the rest of Zmowa to get their hands on the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). He teamed up with Zmowa's newest member [Jakub "Fox"](@/w/jakub.md) in an attempt to prevent [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) from getting into the picture, however with no success. Nevertheless, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) Zmowa (represented by Jakub and Mister Z) won the final bout to become the inaugural PpW Tag Team Champions, and thanks to the [Freebird Rule][freebird-rule], he also got the right to call himself a Champion.
+After his partner from Legia Łysych, Olgierd, won the PpW Championship at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), Marco focused on helping the rest of Zmowa to get their hands on the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). He teamed up with Zmowa's newest member [Jakub "Fox"](@/w/jakub.md) in an attempt to prevent [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) from getting into the picture, however with no success. Nevertheless, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) Zmowa (represented by Jakub and Mister Z) won the final bout to become the inaugural PpW Tag Team Champions, and thanks to the [Freebird Rule](@/a/freebird-rule.md), he also got the right to call himself a Champion.
 
 ### Maniac Zone Wrestling (2024-2026)
 
@@ -155,5 +155,4 @@ Marco started taking international bookings in 2022. That year he made a few app
 * [Marco on his injury and retirement][marcontuzja]
 
 [legia-warszawa]: https://en.wikipedia.org/wiki/Legia_Warsaw
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
 [marcontuzja]: https://www.facebook.com/marco.wrestling/posts/pfbid034XpMtJYreTCnerbY6CbmRBSb58YYb8UZM4g3UvCTU7FX53t2CgM7wAfdXWaWt1fEl

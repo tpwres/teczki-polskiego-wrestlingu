@@ -98,7 +98,7 @@ At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najleps
 
 With Biesiad out of the picture, Olgierd foucsed on recovery before his PpW title defence at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo. Following Johnny Blade's post-match declaration at [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), however, Olgierd vowed to grant Blade his first and last opportunity to face him for the PpW Championship after the Japanese tour.
 
-In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) which, thanks to the [Freebird Rule][freebird-rule], also meant that Olgierd became a _de facto_ double champion, despite not participating in any of the qualifying matches for the Tag Team titles.
+In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) which, thanks to the [Freebird Rule](@/a/freebird-rule.md), also meant that Olgierd became a _de facto_ double champion, despite not participating in any of the qualifying matches for the Tag Team titles.
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
@@ -179,4 +179,3 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
 * [Profile on the restored PpW Wiki](http://ppw-fandom.tpwres.pl/hades)
 
 [zielony-las]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

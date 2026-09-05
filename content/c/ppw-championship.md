@@ -331,7 +331,7 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     ed: 2026-07-04
 - - 'Gabriel Queen(c)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
-  - s: Singles Match
+  - s: 30 Minute Iron Man Match
     en: '[PpW Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
     ed: 2026-09-26
     nc: upcoming

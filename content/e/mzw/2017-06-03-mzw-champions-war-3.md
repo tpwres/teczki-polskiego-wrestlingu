@@ -21,7 +21,7 @@ The third Champions War event was held again in [Głuchołazy](@/v/gosir-gluchol
   - '???'
 - - '[Dynamite Dave](@/w/dynamite-dave.md)'
   - '[Christopher Anthony](@/w/christopher-anthony.md)'
-- - '[Skull Evil](@/w/skull-evil.md)'
+- - '[Skull Evil](@/w/lukas-mottl.md)'
   - '[Szymon Siwiec](@/w/szymon-siwiec.md)'
 - - '[Catch Connection](@/tt/catch-connection.md): [Alexander Reich](@/w/alex-ace.md) & [Ronny Kessler](@/w/ronny-kessler.md)'
   - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md) & [Blue Thunder](@/w/blue-thunder.md)'

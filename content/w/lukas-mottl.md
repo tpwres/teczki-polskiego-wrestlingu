@@ -1,5 +1,5 @@
 +++
-title = "Skull Evil"
+title = "Lukáš Mottl"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [extra]
@@ -8,7 +8,7 @@ toclevel = 2
 country = ["CZ"]
 +++
 
-Skull Evil is a Czech wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) between 2016 and 2018. Outside of Poland, he occasionally works as part of a tag team with [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md).
+Lukáš Mottl - also known as Skull Evil - is a Czech wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md) between 2016 and 2018. Outside of Poland, he occasionally works as part of [Team Visegrad](@/tt/team-visegrad.md) tag team with [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md).
 
 ## Basic info
 
@@ -31,7 +31,7 @@ Skull Evil made yet another appearance on the Polish wrestling scene when he was
 
 Skull Evil made his debut in [Kombat Pro Wrestling](@/o/kpw.md) at [Pyrkon 2025](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md), where he faced [Zefir](@/w/zefir.md) in a hardcore match. It was the first time Skull Evil wrestled in Poland under his real name, Lukáš Mottl.
 
-At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) [Team Visegrad](@/tt/team-visegrad.md), of which Mottl is a member, won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). Although the match was won by [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md), Lukáš Mottl is also recognised as a full Champion in accordance with the [Freebird Rule][freebird-rule]. He defended the title alongside Oliwa at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), in two matches in a row.
+At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) [Team Visegrad](@/tt/team-visegrad.md), of which Mottl is a member, won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). Although the match was won by [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md), Lukáš Mottl is also recognised as a full Champion in accordance with the [Freebird Rule](@/a/freebird-rule.md). He defended the title alongside Oliwa at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), in two matches in a row.
 
 ## In wrestling
 
@@ -50,5 +50,3 @@ At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) [Team Visegr
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24028)
-
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

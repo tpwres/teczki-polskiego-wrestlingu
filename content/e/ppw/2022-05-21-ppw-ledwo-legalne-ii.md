@@ -33,7 +33,7 @@ Returning was also Czech wrestler Viking, Hardcore Champion of Prague-based VcV 
 - - '[Adam Wong](@/w/adam-wong.md)'
   - '[Bill Feager](@/w/feager.md)'
 - - '[Asara](@/w/asara.md)'
-  - '[Skull Evil](@/w/skull-evil.md)'
+  - '[Skull Evil](@/w/lukas-mottl.md)'
   - r: 'DQ'
 - - '[Biesiad Strong](@/w/biesiad.md)(c)'
   - '[Osamu](@/w/osamu.md)'
@@ -53,7 +53,7 @@ Returning was also Czech wrestler Viking, Hardcore Champion of Prague-based VcV 
 ### Highlights
 
 * The commentary was only present in the Wong vs Feager fight, which was presented as highlights instead of a full match.
-* [Skull Evil](@/w/skull-evil.md) was disqualified after attacking the referee.
+* [Skull Evil](@/w/lukas-mottl.md) was disqualified after attacking the referee.
 * The legs of one of the table were broken and wouldn't hold correctly in place, so [Biesiad](@/w/biesiad.md) simply dumped the table on Osamu.
 * [Tony Sk1n](@/w/tony-sk1n.md) interfered and attacked Biesiad during his match with [Osamu](@/w/osamu.md), but Biesiad quickly disposed of him.
 

@@ -43,7 +43,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - '[Ronzen](@/w/ronny-kessler.md)'
   - Sebastien
-  - '[Skull Evil](@/w/skull-evil.md)'
+  - '[Skull Evil](@/w/lukas-mottl.md)'
   - Tony Steel
   - Valeria
   - s: 'MZW Championship #1 Contender 26 Man Royal Rumble Match'
