@@ -45,13 +45,28 @@
 308 = { path = "gm-john-hammer.webp", caption = "Gauntlet Match<br />John Hammer.", source = "Jędruś Bułecka's private archives" }
 309 = { path = "gm-the-greatest-vs-john-hammer.webp", caption = "Gauntlet Match<br />The Greatest vs John Hammer.", source = "Jędruś Bułecka's private archives" }
 310 = { path = "gm-the-greatest-vs-rider.webp", caption = "Gauntlet Match<br />The Greatest vs Rider.", source = "Jędruś Bułecka's private archives" }
+311 = { path = "gm-rider-i-the-greatest-w-narozniku.webp", caption = "Gauntlet Match<br />A rare alternate camera angle: Rider attacks The Greatest in the corner.", source = "Jędruś Bułecka's private archives" }
+312 = { path = "gm-the-greatest-dostaje-chokeslama.webp", caption = "Gauntlet Match<br />Rider hits The Greatest with a powerful Chokeslam.", source = "Jędruś Bułecka's private archives" }
+313 = { path = "gm-rider-vs-don-roid.webp.webp", caption = "Gauntlet Match<br />Rider vs Don Roid.", source = "Jędruś Bułecka's private archives" }
+314 = { path = "gm-dziwaczny-atak-dona-roida.webp", caption = "Gauntlet Match<br />Don Roid pulls off an unusual attack on Rider.", source = "Jędruś Bułecka's private archives" }
+315 = { path = "gm-don-ron-z-trzeciej-liny.webp", caption = "Gauntlet Match<br />Don Roid hits a top rope Cannonball on Rider, Dirtbag and Pawłowski.", source = "Jędruś Bułecka's private archives" }
+316 = { path = "gm-roid-splash.webp", caption = "Gauntlet Match<br />.Don Roid with a Roid Splash on Rider.", source = "Jędruś Bułecka's private archives" }
+317 = { path = "gm-nie-ma-bardziej-obitego-od-pana-pawlowskiego.webp", caption = "Gauntlet Match<br />Rider accidentally pummels Pawłowski.", source = "Jędruś Bułecka's private archives" }
+318 = { path = "gm-joe-legend.webp", caption = "Gauntlet Match<br />[Joe Legend](@/w/joe-legend.md).", source = "Jędruś Bułecka's private archives" }
+319 = { path = "gm-don-roid-vs-joe-legend.webp", caption = "Gauntlet Match<br />Don Roid vs Joe Legend.", source = "Jędruś Bułecka's private archives" }
 
 
-311 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
-312 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
-313 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
-314 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
-315 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+320 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+321 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+322 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+323 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+324 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+325 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+326 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+327 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+328 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+329 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
+330 = { path = ".webp", caption = "Gauntlet Match<br />.", source = "Jędruś Bułecka's private archives" }
 
 
 901 = { path = "jtv-01.webp", caption = "DDW on Japanese television.", source = "DonRoid @ YouTube" }

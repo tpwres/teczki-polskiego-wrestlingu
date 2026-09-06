@@ -45,19 +45,20 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
   - 'Jon Hammer'
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
     s: 'Ten Man Gauntlet Match'
-
-
-
-- - 'The Greatest'
-  - '[Rider](@/w/asmund.md) w/ Dirtbag & [Pan Pawłowski](@/w/pan-pawlowski.md)'
+- - '[Rider](@/w/asmund.md) w/ Dirtbag & [Pan Pawłowski](@/w/pan-pawlowski.md)'
+  - 'The Greatest'
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
+    s: 'Ten Man Gauntlet Match'
+- - '[Don Roid](@/w/don-roid.md)'
+  - '[Rider](@/w/asmund.md) w/ Dirtbag & [Pan Pawłowski](@/w/pan-pawlowski.md)'
+    s: 'Ten Man Gauntlet Match'
+
+- - '[Don Roid](@/w/don-roid.md)'
+  - '[Joe Legend](@/w/joe-legend.md)'
     s: 'Ten Man Gauntlet Match'
 
 
-
-- - '[Joe Legend](@/w/joe-legend.md)'
-  - '[Don Roid](@/w/don-roid.md)'
-  - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
+- - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - 'Jon Hammer'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Rider](@/w/asmund.md)'
@@ -68,12 +69,11 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
     Ring announcer: 'Edyta Świerczyńska'
 {% end %}
 
-
-### Recap
+### Highlights
 
 * Initially the show was planned for 17.04.2010, however the date was pushed to May due to a period of national mourning following the [Smoleńsk disaster][smolensk-wiki] on 10.04.2010.
 * The official poster featured Chris Botherway and Adam Polak, who didn't appear at the show - possibly due to the changed date.
-* Ring announcer Edyta can be seen swaying to the theme songs of some of the wrestlers, like John Hammer, Don Roid and Kamil Aleksander. She also received some chants 
+* Ring announcer Edyta can be seen swaying to the theme songs of some of the wrestlers, like John Hammer, Don Roid and Kamil Aleksander. She also received some chants.
 * Jon Hammer unintentionally eliminated himself while eliminating The Greatest.
 * Battle Royal order of eliminations:
   1. Klarys by Rider
@@ -94,8 +94,13 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 * Shortly after Klarys defeatet Dirtbag, Rob Cage ran into the ring and attacked the winner, transitioning into the next fight.
 * The referee from the previous fight had already left the ring, but the other official didn't yet come to take his place, meaning the bulk of the match was merely a brawl. Only after Cage fell Klarys with a DDT did the new referee come into the ring, prompting an angry reaction from Rob. The English wrestler then pinned Klarys and the referee moved to count but, remembering that the match hadn't officially begun yet, gestured for the bell (again eliciting an angry response from Cage) and only then started counting. Even though it was only a two-count, Rob's music started playing for a few seconds, causing the audience to chant "You fucked up!".
 * When The Greatest won his fight against John Hammer, Jędruś Bułecka's music played briefly before the correct theme came on.
+* During Rider vs The Greatest, Dirtbag distracted the referee while Pawłowski attacked The Greatest, who was about to jump at Rider from the top rope. Despite the interference, The Greatest still managed to pull off a successful Swanton Bomb, only for the situation to repeat itself moments later.
+* Dirtbag and Pawłowski stayed near the ring for Rider vs Don Roid, seeking opportune moments to tip the scales in favour of their preferred contender.
+* Don Roid bled during this match.
+* At one point Rider's trousers ripped at the buttocks, prompting the crowd to chant "Zaszyj se spodnie!" (_Sew up your trousers!_) and "Nic tam nie ma!" (_There's nothing there!_).
+* Rider tried attacking Roid while he was harassed by Pawłowski but Roid ducked out of the way at the last moment, causing Rider's fist to hit Pawłowski instead.
 * 
-* 116447 // audio delay +2000
+* 151296
 * 
 * It was the last DDW show to be held in [Karuzela club](@/v/karuzela.md).
 * The event was later released as a two-disc DVD set, in very limited numbers. In addition to the show, the set also contained bonus materials (mostly promos). Fans could purchase it for 35&nbsp;PLN by e-mailing [Don Roid](@/w/don-roid.md).
