@@ -71,6 +71,6 @@ has_video = true
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=421707)
 * [Facebook post with results](https://www.facebook.com/photo/?fbid=693763572976288&set=a.136592408693410)
-* [Full show on YouTUbe](https://www.youtube.com/watch?v=-2w0SyTzH8Y&t=10057s) (requires paid subscription)
+* [Full show on YouTube](https://www.youtube.com/watch?v=-2w0SyTzH8Y&t=10057s) (requires paid subscription)
 
 [fb-event]:https://www.facebook.com/events/s/gala-pro-wrestlingu-ptw-wiosen/960299786207108/

@@ -2,7 +2,13 @@
 # May repeat with different aliases. It is an error if a name is used both as name and as alias.
 # Alternatively: "main name": [list, of, aliases] (or in block form with dashes)
 # Think of this as formatted the same way you see it on the name list: main name first, then list of aliases.
-Andrzej: Młody # rookie Andrzej from Piwo Przyjacielem Wrestlingu 2 = rookie Młody from Dojo Showcase
+#
+adept Andrzej: # adept Andrzej from Piwo Przyjacielem Wrestlingu 2 = adept Młody from Dojo Showcase
+  - adept Młody
+  - Młody
+Adept Cztery: Policeman # KPW Arena 32, Pyrkon 2026
+adeptka Julka: Julia Rave # PpW @ Gryf Party
+Alvaro: Karol #Tourist Alvaro from Piwo Przyjacielem Wrestlingu 2 resufaced for Kornel's farewell at Żeby było ci dobrze
 Black Phantom: The Black Phantom
 Conte: Conte McStevenson
 Damien Sandow: Damien Mizdow
@@ -21,7 +27,7 @@ Red Dorada:
   - Mati
   - RoodWood
 Rambo: Salsakid Rambo
-Rookie Four: Policeman # KPW Arena 32, Pyrkon 2026
 Scorpio: Scorpion # PIWG
 Vamp: Vampirro
 Wade Barrett: Bad News Barrett
+Well-Dressed Mystery Man: Damian Miller # PTW: Ślepa furia

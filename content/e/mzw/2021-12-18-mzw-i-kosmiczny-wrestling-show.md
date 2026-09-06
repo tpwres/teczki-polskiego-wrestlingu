@@ -17,7 +17,7 @@ It is known that performers to appear at the show included [Deti Black](@/w/diet
 
 {{ skip_card() }}
 
-No card is available, as the show was removed from Facebook due to poor audio/video quality, and no other sources are known to exist.
+No card is available, as the show was removed from Facebook due to poor audio/video quality, and no other publicly available sources are known to exist.
 
 ## References
 

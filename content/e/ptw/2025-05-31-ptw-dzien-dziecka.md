@@ -77,7 +77,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * In the opening segment, Okoński, accompanied by an unnamed female valet, brought out Spartan and both referees. He gave praise to each of them, reinstated Spartan and bade farewell to everyone, seemingly leaving PTW.
 * Conte, who'd requested a match prior to the show, came out to challenge Spartan. Spartan won with a _Spartan Bomb_.

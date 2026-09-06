@@ -44,7 +44,7 @@ Most matches were between one wrestler from KPW and one from HCW, a Hungarian wr
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Until the final match, the score was tied. After Kamil Aleksander scored the winning point, a physical cup was presented to the winners, and the Polish wrestlers celebrated in the ring. The Hungarian team entered, congratulated them and joined the celebration.
 * Once the Hungarians left, faces Kamil Aleksander, Robert Star and Kaszub celebrated facing the audience. Behind them, heels Piękny Kawaler, Greg and Luxus stood silently and then attacked, leading to a post-event brawl.

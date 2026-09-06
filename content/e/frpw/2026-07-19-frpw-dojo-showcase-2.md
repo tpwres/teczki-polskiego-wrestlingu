@@ -32,7 +32,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - 'adept Sawo'
-- - '[Max Speed](@/w/max-speed.md) & adeptka Yana'
+- - '[Max Speed](@/w/max-speed.md) & [adeptka Yana](@/w/kalyana.md)'
   - '[Emil Völler](@/w/emil-voeller.md) & adeptka Maria'
   - s: Mixed Tag Team Match
 - - 'Barbarossa'
@@ -42,21 +42,21 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - 'Kondzio the Cannonball'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - 'Gaba'
+  - 'adeptka Gaba'
   - g: Kondzio joins Boro and Mutant as stablemate, Zmowa confronts them and presents Gaba as their new manager.
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ Kondzio the Cannonball'
-  - '[Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Gaba'
+  - '[Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ adeptka Gaba'
   - s: Tag Team Match
 - - '[Jacob Crane](@/w/jacob-crane.md)'
-  - 'Mikołaj "SKS"'
+  - 'adept Mikołaj "SKS"'
   - '[Max Speed](@/w/max-speed.md)'
   - g: Kids in-ring training session during the intermission.
-- - 'Mikołaj "SKS"'
+- - 'adept Mikołaj "SKS"'
   - '[Sambor](@/w/sambor.md)'
-  - '[Szymon Kurczab](@/w/rookie-two.md)'
-  - 'Gaba'
+  - '[Szymon Kurczab](@/w/adept-dwa.md)'
+  - 'adeptka Gaba'
   - '[Emil Völler](@/w/emil-voeller.md)'
-  - 'Monster High Zuza'
+  - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - 'adept Młody'
   - 'adeptka Julka'
@@ -98,6 +98,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=458623)
 * [Facebook event page](https://www.facebook.com/profile.php?id=61560762345187)
 
 [yatta]: https://yatta.pl

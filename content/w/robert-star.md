@@ -76,7 +76,7 @@ At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he managed to wi
 
 Robert himself was unable to win his match against the defending champion [Goblin](@/w/goblin.md), even though Rodzina once again tried to help their fellow member to gain advantage.
 
-At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule][freebird-rule], however, Robert was recognised as a full Champion alongside every member of Rodzina.
+At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Robert was recognised as a full Champion alongside every member of Rodzina.
 
 ### Legacy of Wrestling (2025)
 
@@ -133,5 +133,3 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15651)
 * [Facebook post saying BYE BYE](https://www.facebook.com/photo/?fbid=839973208139393&set=pb.100063801633257.-2207520000) from December 2023
 * [PpW's Facebook post announcing Robert](https://www.facebook.com/OficjalnePPW/posts/pfbid02GSspE1SNetocUY2kWnC9LhDdsKYSGgh17G4h2bV4Q3CaRgLkziMrC6JDPkCYWBVnl)
-
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

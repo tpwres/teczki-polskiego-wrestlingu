@@ -33,7 +33,7 @@ The exact date of the event isn't known. The videos were uploaded on 9.04, 14.05
     Commentary: '[Johnny Blade](@/w/johnny-blade.md), [Rob Scaffold](@/w/rob-scaffold.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * The fights were quite heavily edited, with every transition being a quick crossfade instead of a simple cut. Some moves were show twice, from different angles.
 * Additionally, there was no on-location sound. Music was added in post-production instead, resulting in a music video-like final effect.

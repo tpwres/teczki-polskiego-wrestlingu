@@ -48,7 +48,7 @@ Brak Mi Słów (_I Have No Words_) was a show by [PpW Ewenement Wrestling](@/o/p
     Referees: '[Sędzia Gocha](@/w/sedzia-borys.md)'
 {% end %}
 
-### Trivia
+### Notes
 
 * On 12.08.2022 [Prime Time Wrestling](@/o/ptw.md) fired [Jacob Crane](@/w/jacob-crane.md) via a [Facebook post][jakuba-wywalili], to which he responded with "I have no words". The name of this show was a nod to Crane, who appeared on the card.
 

@@ -1,6 +1,6 @@
 0000 = { path = "plakat.webp", caption = "[Justin Joy](@/w/justin-joy.md) on the offical poster.", source = "Official MZW Facebook" }
 0001 = { path = "justin-joy-vs-shadow.webp", caption = "Image announcing [Justin Joy](@/w/justin-joy.md) vs [Shadow](@/w/shadow.md).", source = "Official MZW Facebook" }
-0002 = { path = "asmund-vs-skullevil.webp", caption = "Image announcing [Asmund](@/w/asmund.md) vs [Skull Evil](@/w/skull-evil.md).", source = "Official MZW Facebook" }
+0002 = { path = "asmund-vs-skullevil.webp", caption = "Image announcing [Asmund](@/w/asmund.md) vs [Skull Evil](@/w/lukas-mottl.md).", source = "Official MZW Facebook" }
 0003 = { path = "szymon-siwiec-challenge.webp", caption = "Image announcing Szymon Siwiec.", source = "Official MZW Facebook" }
 0004 = { path = "svd-vs-red-thunder.webp", caption = "Image announcing [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) (with [Jędruś Bułecka](@/w/jedrus-bulecka.md)) vs [Red Thunder](@/w/red-thunder.md).", source = "Official MZW Facebook" }
 0005 = { path = "aleksandra-osowska-vs-dominika-janus.webp", caption = "Image announcing kickboxers Aleksandra Osowska vs Dominika Janus.", source = "Official MZW Facebook" }
@@ -21,7 +21,7 @@
 4004 = { path = "dobroniak-szkaluje-red-thundera.webp", caption = "[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) shows [Red Thunder](@/w/red-thunder.md) what he thinks of him. To the far right, [Jędruś Bułecka](@/w/jedrus-bulecka.md) observes the action.", source = "Jędruś Bułecka's private archives" }
 4005 = { path = "gips-syntetyczny.webp", caption = "Jędruś Bułecka attacks Kripto with his bandaged hand.", source = "Jędruś Bułecka's private archives" }
 4006 = { path = "kowal-za-pasem.webp", caption = "[Tomasz Warchoł](@/w/tomasz-warchol.md) presents the brand-new [MZW Tag Team Championships](@/c/mzw-tag-team-championship.md), to the left stands referee [Manny](@/w/manny.md). In the background behind them, wearing a red-and-white shirt, sits Kowal from Attitude Forum, at one point a trainee of [MCW](@/o/mcw.md).", source = "Jędruś Bułecka's private archives" }
-5001 = { path = "czeska-czaszeczka.webp", caption = "[Skull Evil](@/w/skull-evil.md).", source = "Jędruś Bułecka's private archives" }
+5001 = { path = "czeska-czaszeczka.webp", caption = "[Skull Evil](@/w/lukas-mottl.md).", source = "Jędruś Bułecka's private archives" }
 5002 = { path = "asmund.webp", caption = "[Asmund](@/w/asmund.md).", source = "Jędruś Bułecka's private archives" }
 6001 = { path = "mloda-nigdy-tej-reki-juz-nie-umyje.webp", caption = "Stanisław Van Dobroniak high-fives the same girl who'd distained the German.", source = "Jędruś Bułecka's private archives" }
 6002 = { path = "tance-hulanka.webp", caption = "♪ _In a stone cellar…_ ♪", source = "Jędruś Bułecka's private archives" }

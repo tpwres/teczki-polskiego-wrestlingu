@@ -34,7 +34,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 - - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '["Szeku" Martynka](@/w/gloria-g-szek.md)'
 - - '[Sambor](@/w/sambor.md)'
-  - 'Monster High Zuza'
+  - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
 - - '[Goblin](@/w/goblin.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
@@ -55,7 +55,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Sentinel](@/w/sentinel.md)'
   - r: Submission
-- - '[Bodyguard Michał](@/w/mutant.md) & Monster High Zuza'
+- - '[Bodyguard Michał](@/w/mutant.md) & [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
   - '["Szeku" Martynka](@/w/gloria-g-szek.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
   - s: Tag Team
 - - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -71,7 +71,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Sentinel](@/w/sentinel.md)'
 - - '[Gabriel Queen](@/w/gabriel-queen.md) & [Martynka Martinella](@/w/gloria-g-szek.md)'
-  - 'Monster High Zuza & [Gustav Gryffin](@/w/gustav-gryffin.md)'
+  - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md) & [Gustav Gryffin](@/w/gustav-gryffin.md)'
   - s: Tag Team Match
 - - '[Death Metal Biesiad](@/w/biesiad.md)'
   - '[Black Metal Woody](@/w/johnny-blade.md)'
@@ -92,7 +92,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Gustav Gryffin](@/w/gustav-gryffin.md)'
   - '[Sambor](@/w/sambor.md)'
-  - 'Monster High Zuza'
+  - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Jakub](@/w/jakub.md)'
   - '[Mutant](@/w/mutant.md)'
@@ -107,7 +107,7 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * The show was initially advertised as a four-day event, however this turned out to be a mistake on the organiser's part.
 * Keeping with the theme of the festival, each day featured a match between wrestlers representing different genres of metal music.
@@ -134,5 +134,6 @@ More Brutal Than Metal 2 was a three-day show accompanying [Mystic Festival 2026
 * Cagematch event pages - [day 1](https://www.cagematch.net/?id=1&nr=455636), [day 2](https://www.cagematch.net/?id=1&nr=455095), [day 3](https://www.cagematch.net/r/?id=1&nr=455094)
 * [Announcement post](https://www.facebook.com/FestivalMystic/posts/pfbid02NtnnM1pWYMP4dryYeuUM8JvUwj8Kx4Tg7Coy7NLcnkbXjHVwZR2rnsA5ruxqNNr2l)
 * [Video - Jacob Crane vs Antoni Ocean (day 3)](https://www.youtube.com/watch?v=WO4r-KxKNC8)
+* [Video - Battle Royal (day 3)](https://www.youtube.com/watch?v=hNFsZspFduA)
 
 [mystic]: https://www.mysticfestival.pl/

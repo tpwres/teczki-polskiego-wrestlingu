@@ -63,7 +63,8 @@ REVOLUCJA (_Revolution_) was the inaugural show by [Prime Time Wrestling](@/o/pt
     Panel guests: 'Sylwia Cross, Paweł "Trybson" Trybała'
 {% end %}
 
-### Recap
+### Notes
+
 * Taking part in the pre-show panel and later present in the audience were Polish celebrities, mainly known from YouTube and Internet presence: Lil Masti, WuWunio, AdBuster, Yoczook and Mateusz Grabowski.
 
 ## References

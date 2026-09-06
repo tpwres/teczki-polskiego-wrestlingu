@@ -14,7 +14,7 @@ Vincent Caravaggio is a Polish pro-wrestler performing for [Prime Time Wrestling
 
 * Years active: 2023-present
 * Gimmicks/nicknames:
-  - _rookie_ Kornel  {{ org_badge(orgs=['ptw']) }} (2023, cameo appearance)
+  - adept Kornel  {{ org_badge(orgs=['ptw']) }} (2023, cameo appearance)
   - Vincent Caravaggio {{ org_badge(orgs=['ptw']) }} (2023-present)
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2022-present)
@@ -68,6 +68,7 @@ From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łuk
 * [Prime Time Wrestling](@/o/ptw.md):  
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Alex Brave](@/w/alex-brave.md))
   - [PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (2025)
+  - [Gold Rush Rumble](@/a/ptw-gold-rush-rumble.md) (2026)
   - [PTW Awards](@/a/ptw-awards.md) (4 times):
     * Newcomer of the Year (2024)
     * Progress of the Year (2025)

@@ -31,7 +31,7 @@ This was a charity event held at {{ map_pin(v="Szkoła Podstawowa nr 20") }}Prim
     c: '[MCW Championship](@/c/mcw-championship.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * In a show of awareness rarely seen on the Polish wrestling scene, in his promo before the match RAV said "We have many cool federations: [KPW](@/o/kpw.md), [MZW](@/o/mzw.md), [PpW](@/o/ppw.md), [PTW](@/o/ptw.md)".
 

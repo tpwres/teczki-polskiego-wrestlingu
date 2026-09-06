@@ -3,7 +3,7 @@ title = "FRPW: Wrestling w Twoim Mieście - Lublin"
 template = "event_page.html"
 authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
-chronology = ["frpw"]
+chronology = ["frpw", "wrestling-w-twoim-miescie"]
 venue=["centrum-sportu-akademos"]
 [extra]
 orgs = ["frpw"]
@@ -17,14 +17,26 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 
 ## Build-up
 
-* On 1.08.2026 FRPW informed fans that Japanese wrestler Shigehiro Irie will appear at the shows in Lublin and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
+* On 1.08.2026 FRPW informed fans that Japanese wrestler [Shigehiro Irie](@/w/shigehiro-irie.md) will appear at the shows in Lublin and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
 * The next day Shigehiro Irie was given a match against [Jacob Crane](@/w/jacob-crane.md). 
+* 7.08.2026 saw the announcement of [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md).
+* On 13.08.2026, [Kalyana's](@/w/kalyana.md) appearance at the show was announced.
+* On 27.08.2026 FRPW announced that Japanese wrestler Akane Fujita will be present at the shows in Lublin and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
-- - 'Shigehiro Irie'
+- - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
+  - nc: upcoming
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - '???'
+  - nc: upcoming
+- - '[Kalyana](@/w/kalyana.md)'
+  - '???'
+  - nc: upcoming
+- - 'Akane Fujita'
+  - '???'
   - nc: upcoming
 {% end %}
 

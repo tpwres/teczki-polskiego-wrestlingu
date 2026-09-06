@@ -29,7 +29,7 @@ Ropeless was an early PpW show from the backyard era, held outdoors at [Winogron
     nc: Video ends before the winner is decided
 {% end %}
 
-### Recap
+### Notes
 
 * The show was recorded using two cameras - one shooting in 16:9 and the other in 4:3 with noticeably lower picture quality, resulting in a very uneven look of the video. Both cameras seem to have used fish-eye lenses, judging by the apparent deformation of ring posts near the edges of the frame.
 * There was no referee; counting was done by one of the cameramen.

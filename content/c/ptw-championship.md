@@ -113,7 +113,7 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
     en: '[PTW: Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
     ed: 2025-06-28
 - - 'Puncher(c)'
-  - '_rookie_ Bumper, _rookie_ Dropper, _rookie_ Boguś'
+  - '[adept Bumper](@/w/fabian.md), [adept Dropper](@/w/whiteblade.md), [adept Boguś](@/w/bogus.md)'
   - s: Three-On-One Handicap match
     en: '[PTW: All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
     ed: 2025-07-27
@@ -174,6 +174,11 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW: Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)'
     ed: 2026-07-18
+- - 'Spartan(c)'
+  - '[Misiek](@/w/misiek.md)'
+  - s: Singles Match
+    en: '[PTW: Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
+    ed: 2026-08-28
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

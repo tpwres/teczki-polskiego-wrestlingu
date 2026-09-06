@@ -42,7 +42,7 @@ The sixth Underground show was held on Sunday, June 26th 2022, at the [PTW Perfo
 
 ### Aftermath
 
-This was [Jacob Crane](@/w/jacob-crane.md)'s last PTW appearance. He was later officially released in August 2022.
+* This was [Jacob Crane's](@/w/jacob-crane.md) last PTW appearance. He was later officially released in August 2022.
 
 ## References
 

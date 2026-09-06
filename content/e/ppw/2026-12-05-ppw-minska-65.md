@@ -23,7 +23,7 @@ has_video = false
 
 ### Highlights
 
-TBD
+* TBD
 
 ## References
 

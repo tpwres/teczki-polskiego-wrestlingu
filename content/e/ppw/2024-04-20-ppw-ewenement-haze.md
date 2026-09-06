@@ -70,7 +70,7 @@ The foreign guests for this event were:
     Commentary: 'Szymon "Modzel" Modzelewski, [Konrad "Joker" Grzesikiewicz](@/w/joker.md)'
 {% end %}
 
-### Full report
+### Recap
 
 Show opens with host "OG" Michael HT entering the ring. He hypes up the crowd.
 Referee Karol Górski is introduced and the announcements for first match start.
@@ -310,7 +310,7 @@ Dobroniak celebrates over laid out opponent and referee and makes his leave. Bla
 
 Michael HT is reluctant to enter the ring once again, but eventually decides to. He announces that Jerry "Rich" Mandecky has been driven away outside Warsaw by a masked assailant named Kapitan Bazooka. He announces the next show, [Ledwo Legalne 4](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md), "soon".
 
-Additional interviews, once again conducted by Joker:
+#### Additional interviews conducted by Joker:
 
 * Stanisław Van Dobroniak: brags about his win and his title run, nearly 600 days long. He's full of himself, calls himself a god, warlord, and king.
 * Biesiad Strong: Joker asks him how many conspiracies he has thwarted, Strong jokingly remarks that all of them and one more.
@@ -325,7 +325,7 @@ Additional interviews, once again conducted by Joker:
   and not just executive producer, he lifts the stipulation. \
   Due to a contract between Mandecky and Z, should anything happens to Mandecky, Z legally succeeds him as the PpW owner. \
   Regarding Bazooka, he denies ordering him to attack Mandecky - Mandecky is treating everyone like dogs, so Bazooka just had enough.
-  Closing comment from Z - are you all happy that I don't have a belt? But I have PpW! He flips off the camera.
+  Closing comment from Z: "Are you all happy that I don't have a belt? But I have PpW!" He flips off the camera.
 * Alex Arthur: He feels like after a good fight. He likes the Ultraviolent belt, he showed he can hang with Dobroniak, so he wants a rematch down the line. Joker suggests a triple threat including Johnny and Arthur loves the idea. He leaves with a PpW chant toward the camera.
 
 ## References

@@ -37,7 +37,7 @@
 4005 = { path = "chcialby-wrestlingowy-debiut-pewnie.webp", caption = "The man with the &quot;police licence&quot; keeps an eye on defendant Zefir.", source = "M3n747" }
 4006 = { path = "byl-taki-film-z-johnem-travolta-i-nicolasem-cageem.webp", caption = "[Defendant Zefir](@/w/zefir.md) states his name for the record.", source = "M3n747" }
 4007 = { path = "carthago-delenda-est.webp", caption = "[Prosecutor Chemik](@/w/chemik.md) presents his case to [judge Malinowski](@/w/krystian-malinowski.md). [Assistant Kinga](@/w/kinga-miotke.md) does not appear to share Chemik's enthusiasm.", source = "Ville Paananen" }
-4008 = { path = "pamietam-jak-w-jednym-filmie-ksiadz-krzywoprzysiagl-na-swoj-egzemplarz-moby-dicka.webp", caption = "[Rookie Two](@/w/rookie-two.md) swears to the truthfulness of his testimoty on the Bible held by [assistant Kinga](@/w/kinga-miotke.md). In the foreground sits prosecutor Chemik.", source = "Ville Paananen" }
+4008 = { path = "pamietam-jak-w-jednym-filmie-ksiadz-krzywoprzysiagl-na-swoj-egzemplarz-moby-dicka.webp", caption = "[Adept Dwa](@/w/adept-dwa.md) swears to the truthfulness of his testimoty on the Bible held by [assistant Kinga](@/w/kinga-miotke.md). In the foreground sits prosecutor Chemik.", source = "Ville Paananen" }
 4009 = { path = "teczka-jak-u-tyminskiego.webp", caption = "[Advocate Fux](@/w/filip-fux.md) resorts to presenting evidence from this briefcase, resting on the table in front of [defendant Zefir](@/w/zefir.md). The shady man in a police uniform stands at his post, and [assistant Kinga](@/w/kinga-miotke.md) observes the proceedings.", source = "M3n747" }
 4010 = { path = "zakladaj-maske-i-gramy-w-butelke.webp", caption = "Advocate Fux presents the glass bottle and ski mask found in Michał Fux's suitcase.", source = "M3n747" }
 4011 = { path = "dobra-to-ja-krece-pierwszy.webp", caption = "[Prosecutor Chemik](@/w/chemik.md) tries on the ski mask.", source = "M3n747" }
@@ -53,10 +53,10 @@
 5004 = { path = "leon-lato-wyszedl.webp", caption = "[Leon Lato](@/w/leon-lato.md) wins.", source = "Ville Paananen" }
 
 6001 = { path = "z-liny-wloskiej-do-polski.webp", caption = "Guido Buriani.", source = "M3n747" }
-6002 = { path = "adept-1.webp", caption = "[Rookie One](@/w/oskar-haller.md).", source = "M3n747" }
-6003 = { path = "adepcie-chytajze-linem-ino-raz.webp", caption = "[Rookie One](@/w/oskar-haller.md) makes for a rope break.", source = "M3n747" }
-6004 = { path = "il-corpo-schiacciato.webp", caption = "[Rookie One](@/w/oskar-haller.md) body slams Guido Buriani.", source = "M3n747" }
-6005 = { path = "mieszkam-blisko-ulicy-imienia-tego-pana-nie-nie-przy-ul-adepta-1.webp", caption = "Rookie One intruduces himself to [Krystian Malinowski](@/w/krystian-malinowski.md) and the fans as [Oskar Haller](@/w/oskar-haller.md).", source = "Ville Paananen" }
+6002 = { path = "adept-1.webp", caption = "[Adept Jeden](@/w/oskar-haller.md).", source = "M3n747" }
+6003 = { path = "adepcie-chytajze-linem-ino-raz.webp", caption = "[Adept Jeden](@/w/oskar-haller.md) makes for a rope break.", source = "M3n747" }
+6004 = { path = "il-corpo-schiacciato.webp", caption = "[Adept Jeden](@/w/oskar-haller.md) body slams Guido Buriani.", source = "M3n747" }
+6005 = { path = "mieszkam-blisko-ulicy-imienia-tego-pana-nie-nie-przy-ul-adepta-1.webp", caption = "Adept Jeden intruduces himself to [Krystian Malinowski](@/w/krystian-malinowski.md) and the fans as [Oskar Haller](@/w/oskar-haller.md).", source = "Ville Paananen" }
 
 7001 = { path = "nie-masz-szans-hans.webp", caption = "[Hans Schulte](@/w/hans-schulte.md), with referee [Krystian Czekaj](@/w/krystian-czekaj.md) in the background.", source = "M3n747" }
 7002 = { path = "czekam-na-wiatr-co-rozgoni.webp", caption = "[Zefir](@/w/zefir.md).", source = "M3n747" }

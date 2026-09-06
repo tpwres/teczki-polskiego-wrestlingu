@@ -19,7 +19,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 * A [video][gobliffin] published by PpW on Christmas Day 2025 saw [Gustav Gryffin](@/w/gustav-gryffin.md) convince [Goblin](@/w/goblin.md) to join him against [Rodzina](@/tt/rodzina.md) in a fight for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
 * The first officially announced match, revealed on 13.01.2026, was [Gabriel Queen](@/w/gabriel-queen.md) vs [Justin Joy](@/w/justin-joy.md). The two previously teamed up at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
 * At [PpW Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), [Goblin](@/w/goblin.md) & [Gustav Gryffin](@/w/gustav-gryffin.md) earned their _Golden Opportunity_ to be added into the tournament finals.
-* In [Rodzina's](@/tt/rodzina.md) [promo][promocja-rodzinna] recorded for social media, it was confirmed that [Oskar Alexander](@/w/oskar-alexander.md) would be representing Rodzina in the finals, along with a new, not yet revealed family member. As it was [Vic Golden](@/w/vic-golden.md) who advanced to the finals, it seems that the tournament involves the classic [Freebird Rule][freebird-rule] in some form.
+* In [Rodzina's](@/tt/rodzina.md) [promo][promocja-rodzinna] recorded for social media, it was confirmed that [Oskar Alexander](@/w/oskar-alexander.md) would be representing Rodzina in the finals, along with a new, not yet revealed family member. As it was [Vic Golden](@/w/vic-golden.md) who advanced to the finals, it seems that the tournament involves the classic [Freebird Rule](@/a/freebird-rule.md) in some form.
 * At [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), [Filip Fux](@/w/filip-fux.md), still an active [KPW](@/o/kpw.md) wrestler, joined Rodzina, seemingly making him the "new member" to fight for the Tag Team titles.
 * On 1.02.2026 PpW [confirmed][main-event-fuxem] Fux's addition to the tag team main event. They also disclosed the stipulation: a Tables Elimination Match with Tornado rules (every member of each team is active, no DQ), elimination happens by putting any member of the opposing team through the table, breaking it. The last team standing will become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md).
 * A match between [Marco Hammers](@/w/marco-hammers.md) and [Ladykiller](@/w/boro.md) was announced on 6.07.2026.
@@ -52,7 +52,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Emil Völler](@/w/emil-voeller.md)'
   - s: International Hardcore Match
-    r: submission
+    r: Submission
 - - '[Johnny Blade](@/w/johnny-blade.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - g: Johnny demands Olgierd give him a Championship match
@@ -71,7 +71,7 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 
 * With this event, the ad-hoc team of Gustav and Goblin now has a name: "[Bad Trip](@/tt/bad-trip.md)", complete with merchandise.
 * Sambor was initially billed for the show, but did not make an appearance. Instead, the spot went to TOMCZAK in a surprise debut. The event therefore saw three [KPW](@/o/kpw.md) wrestlers in total, two of them for the first time in PpW.
-* Also present in the crowd was KPW's [Rookie Two](@/w/rookie-two.md).
+* Also present in the crowd was KPW's [Adept Dwa](@/w/adept-dwa.md).
 * Marcelito, paired with monster heel TOMCZAK, used some heel actions himself, choking one of the opponents in the corner with one of his green light strips. However, after their defeat, Tomczak confronted him and applied a devastating Chokeslam, ending their brief partnership.
 * The 3 Stages of Man stipulation, as declared by Marco in his promo, was a series of short contests between him and Boro, in order to prove who's more manly.
   - First, a race to do 30 push-ups, which Boro forfeited early, but Marco continued and even did jumping and one-handed push-ups for extra flair.
@@ -92,7 +92,6 @@ Dwa Na Dwa (_Two by Two_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md),
 
 [zurueck-nach-breslau]: https://www.facebook.com/photo/?fbid=1425053469625041&set=a.499910772139320
 [gobliffin]: https://www.facebook.com/reel/762445460199074
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule
 [main-event-fuxem]: https://www.facebook.com/photo?fbid=1476600561136998&set=a.499910772139320
 [promocja-rodzinna]: https://www.instagram.com/p/DTs_vmZignE/
 [johnny-postmatch]: https://www.instagram.com/p/DVEkNuBCk67/

@@ -45,7 +45,7 @@ Neomania IV was PpW's early backyard show, held in the empty lot at Winogronowa 
     Commentary: 'John the Motherfucker King, Rogerek'
 {% end %}
 
-### Recap
+### Highlights
 
 * According to the entry on [PpW wikia][neo-4-wikia], the show took place on 5.09.2015, which was a Friday. However, during Extreme Floorfiller vs KAT, a commentator stated "today is Thursday".
 * The white balance for most of the video was set incorrectly, resulting in a blown out image.

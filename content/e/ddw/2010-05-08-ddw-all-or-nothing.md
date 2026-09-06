@@ -116,7 +116,6 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 * [Facebook post][smolensk-fb] informing of the change of date
 * [Video: DDW on Japanese TV][jp-tv], on Don Roid's YouTube channel
 
-
 [smolensk-wiki]: https://en.wikipedia.org/wiki/Smolensk_air_disaster
 [smolensk-fb]: https://www.facebook.com/DoOrDieWrestling/posts/pfbid034FCFdi51qNR6T1zr54MrA8JGJcuXuyTKU44uqNLGZ94xRLZMxsdpzuvU5EjJimp2l
 [dvd]: https://www.facebook.com/DoOrDieWrestling/posts/pfbid02LScyzHCX6o7oq9trX9xweprjXgiDghkymCuYV43nB6SBchLEYvqzvvynFWoZttirl

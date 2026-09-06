@@ -32,7 +32,7 @@ In the main event, Revage faced Chris Hunter in a rematch from the [previous sho
 
 Audience: estimated 50
 
-### Recap
+### Highlights
 
 * The main event featured an accidental ref bump by Hunter. With the referee out of action, chairs were introduced to the ring, and after dropping Revage through them, Hunter pinned and counted to three himself.
   The match continued, and Revage landed a diving stomp just as the referee was back on his feet, winning by three-count.

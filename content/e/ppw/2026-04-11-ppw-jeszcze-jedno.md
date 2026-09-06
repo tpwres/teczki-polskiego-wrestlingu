@@ -61,7 +61,7 @@ Jeszcze Jedno (roughly _Just One More Thing_) was an event by [PpW Ewenement Wre
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Present in the chat during the live stream was somebody with the screen name "Piekny Kawaler". Whether or not this was the actual [Piękny Kawaler](@/w/piekny-kawaler.md), is unknown.
 * Oskar Alexander attempted to help Filip Fux by handing him his crutch, but he was stopped by Gabriel Queen and Agentka Agatka, despite being seemingly on the same side.

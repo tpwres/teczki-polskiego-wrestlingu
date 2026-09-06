@@ -25,9 +25,11 @@ has_video = true
   - g: "Steven's promo"
 {% end %}
 
-## References
+### Notes
 
-According to the source, there was no commentary during this show. Steven attacked a masked person early in the show, probably before the first match. During his closing promo, Steven (a champion) was masked himself.
+* According to the source, there was no commentary during this show. Steven attacked a masked person early in the show, probably before the first match. During his closing promo, Steven (a champion) was masked himself.
+
+## References
 
 * [Highlights video](https://www.youtube.com/watch?v=Hegr9XhSVpM)
 * [Post at WrestleFans forum](https://wrestlefans.pl/forum/viewtopic.php?f=295&t=38942)

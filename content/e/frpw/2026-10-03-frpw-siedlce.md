@@ -3,7 +3,7 @@ title = "FRPW: Wrestling w Twoim Mieście - Siedlce"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
-chronology = ["frpw"]
+chronology = ["frpw", "wrestling-w-twoim-miescie"]
 venue=["osrodek-sportu-arms"]
 [extra]
 orgs = ["frpw"]
@@ -17,9 +17,42 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 
 ## Build-up
 
-* TBD
+* On 3.08.2026 FRPW announced the HeelTurn Invitational Tournament for the HeelTurn Trophy (the details of which were not specified).
+* The next day the first four entrants were revealed: [Leon Lato](@/w/leon-lato.md), [Jakub](@/w/jakub.md), [Olgierd](@/w/olgierd.md) and [Bart Petro](@/w/bart-petro.md).
+* The other four entrants were revealed on 8.08.2026, and were [Goblin](@/w/goblin.md), [Oskar Alexander](@/w/oskar-alexander.md), [Bartosz Plata](@/w/plata.md) and [Tomczak](@/w/tomczak.md)
+* On 11.08.2026 FRPW announced the first tournament match-up: [Bartosz Plata](@/w/plata.md) vs [Tomczak](@/w/tomczak.md).
+* On 13.08.2026, [Kalyana's](@/w/kalyana.md) appearance at the show was announced.
+* On 14.08.2026 the second tournament pair was revealed to be [Bart Petro](@/w/bart-petro.md) vs [Goblin](@/w/goblin.md).
+* The third tournament match-up to be published was [Olgierd](@/w/olgierd.md) vs [Oskar Alexander](@/w/oskar-alexander.md), posted on 17.08.2026.
+* The fourth and final match-up in the first leg of the tournament was [Leon Lato](@/w/leon-lato.md) vs [Jakub](@/w/jakub.md), announced on 20.08.2026.
+* On 28.08.2026 came the announcement of [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Bartosz Plata](@/w/plata.md)'
+  - '[Tomczak](@/w/tomczak.md)'
+  - s: HeelTurn Invitational Tournament, Round 1
+    nc: upcoming
+- - '[Bart Petro](@/w/bart-petro.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - s: HeelTurn Invitational Tournament, Round 1
+    nc: upcoming
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - s: HeelTurn Invitational Tournament, Round 1
+    nc: upcoming
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Jakub](@/w/jakub.md)'
+  - s: HeelTurn Invitational Tournament, Round 1
+    nc: upcoming
+- - '[Kalyana](@/w/kalyana.md)'
+  - '???'
+  - nc: upcoming
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
+  - nc: upcoming
+{% end %}
 
 ## Highlights
 

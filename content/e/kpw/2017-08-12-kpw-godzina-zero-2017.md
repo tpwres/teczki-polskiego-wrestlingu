@@ -57,7 +57,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
     Referee: '[Krystian Malinowski](@/w/krystian-malinowski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * An early pin attempt by [Kaszub](@/w/kaszub.md) is miscounted to three. The bell rang, but the fight went on regardless, and the ref soon restarted the match.
 * [Alisa](@/w/alisa.md), who now joined the Kawaleria faction, enters with a baseball bat and attacks [Mira](@/w/mira.md) mid-dance. The fight was declared a no-contest after a referee bump.
@@ -66,7 +66,7 @@ The other challenger was Welsh wrestler Wild Boar, by then already a veteran of 
 * Kaszub interferes in [Greg](@/w/greg.md) vs Fynn, to distract the referee from counting the pinned Greg. After the match, Fynn cuts a promo in English, and suddenly switches to Polish, to the crowd's stunned reactions.
 * Joey Ozbourne enters and antagonizes the crowd perfectly. Robert enters with some sort of military entourage. A chair appeared, and the referee did nothing to stop it, which led to Robert landing on some thumbtacks.
 * The Magnificent Seven match was supposed to have seven participants, but [Gracjan Korpo](@/w/gracjan-korpo.md) added himself unceremoniously. The stipulation was basically same as Money In The Bank. Lots of great TLC action.
-* The womens match got the most difficult slot to fill, and mostly did not deliver.
+* The women's match got the most difficult slot to fill, and mostly did not deliver.
 * Boar had to fight not only Kawaler, but the whole faction as well, and later took a drop in the crotch by Alisa.
 
 ## References

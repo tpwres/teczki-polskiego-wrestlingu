@@ -27,7 +27,7 @@ has_video = true
 * On 22.06.2026 PTW announced a match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), between the reigning champions [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Sigma Boy xD](@/w/sigma-boy.md) & [Miyagi Shida](@/w/miyagi-shida.md)) and the American team Exodus (Jacked Josh & Body Bundy) - the current Full Impact Pro Wrestling Tag Team Champions.
 * On 23.06.2026 came the announcement of [Nic Wesker](@/w/nic-wesker.md) vs Conte in a "Children's Day Match" (_Dzień Dziecka Mecz_), described as a "very unusual match aimed at the youngest members of the audience".
 * The next day the [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md) issued an open challenge for his title.
-* On 25.06.2026 the federation announced a Tag Team Match between [Damian Adler](@/w/damian-adler.md) and El Clavo, both with mystery partners. The workers were said to represent a different country each.
+* On 25.06.2026 the federation announced a Tag Team Match between [Damian Adler](@/w/damian-adler.md) and [El Clavo](@/w/el-clavo.md), both with mystery partners. The workers were said to represent a different country each.
 * The following day, Swiss wrestler Red Jack confirmed himself as Adler's mystery partner.
 
 ## Card
@@ -60,7 +60,7 @@ has_video = true
   - '[Daniel Razor](@/w/daniel-razor.md)'
   - g: Fabian Festival.
 - - '[Damian Adler](@/w/damian-adler.md) & Red Jack'
-  - 'El Clavo & Davide Adami'
+  - '[El Clavo](@/w/el-clavo.md) & Davide Adami'
   - s: Tag Team Match
 - - '[Nano Lopez](@/w/nano-lopez.md)(c)'
   - '[El G](@/w/el-g.md) w/ Conte, adeptka Marta'
@@ -94,7 +94,7 @@ has_video = true
   - Best match in history: Fabian
   - Best wrestler in history: Fabian
 * Fabian thanked Daniel Razor for looking so bad that it made Fabian look "fucking awesome" (_zajebiście_). Insulted, Razor ran into the ring and laid Fabian out, crashing the festival. Razor proceeded to demolish the decorations.
-* For the tag team match, El Clavo was joined by Italian wrestler returning to PTW, Davide Adami. This match saw the debut of a new referee: Sędzia Marek, seemingly replacing the absent [Herno](@/w/sedzia-herno.md). After their win, Adler wanted to unmask the prone El Clavo, but Red Jack stopped him.
+* For the tag team match, [El Clavo](@/w/el-clavo.md) was joined by Italian wrestler returning to PTW, Davide Adami. This match saw the debut of a new referee: Sędzia Marek, seemingly replacing the absent [Herno](@/w/sedzia-herno.md). After their win, Adler wanted to unmask the prone El Clavo, but Red Jack stopped him.
 * [El G](@/w/el-g.md), previously serving as part of Conte's entourage, answered [Nano Lopez's](@/w/nano-lopez.md) Open Challenge. He was accompanied by "Luigi" and "Princess Peach". After a competitive match-up, Lopez retained.
 * Diana retained her Championship in a relatively short match against American independent wrestler Emily Locke.
 * As [Whiteblade](@/w/whiteblade.md) was making his entrance for the main event Unsanctioned Match, [Misiek](@/w/misiek.md) attacked him on the stage. This match involved several weapons: chairs, kendo sticks, guard rails and even lighttubes. At one point in the match, Misiek exclaimed _Zjem mu łeb!_ ("I'll eat his head!") and started to do just that - a practice mostly associated with [MZW](@/o/mzw.md) [audience chants](@/a/polish-wrestling-chants.md#calls-to-action). Misiek won te grueling match with a Package Piledriver.

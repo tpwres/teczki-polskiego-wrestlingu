@@ -40,7 +40,7 @@ has_video = true
   - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)'
   - g: Łukasz Okoński announces Miyagi Sigma #1 Tag Team Contenders Match, gets interrpunted by Pawłowski.
 - - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
-  - 'Drop & Bump: [Dropper](@/w/whiteblade.md) & [Bumper](@/w/fabian.md)'
+  - 'Drop & Bump: [adept Dropper](@/w/whiteblade.md) & [adept Bumper](@/w/fabian.md)'
   - '[Blaze](@/w/blaze.md) & [Bart Petro](@/w/bart-petro.md)'
   - s: Triple Threat Tag Team Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
@@ -67,7 +67,7 @@ has_video = true
     Timekeeper: '[Boguś](@/w/bogus.md)'
  {% end %}
 
-### Recap
+### Highlights
 
 * Nano Lopez retains his championship after distracting the referee, illegally poking Klakson's eyes and hitting him with his Last Plane to Spain.
 * After the match, Nano cuts a short promo and is attacked by a masked character. After hitting Nano with his own Last Plane to Spain, he reveals himself to be Daniel Razor, now with short hair, who wants to reclaim the Underground Championship back from "Starboy". Pan Pawłowski intervenes and moves Razor's hardcore match up the card, as the next fight.

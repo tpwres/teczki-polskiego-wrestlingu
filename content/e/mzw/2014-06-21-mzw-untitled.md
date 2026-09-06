@@ -42,7 +42,9 @@ source = "Official MZW Facebook"
     Host, Ring Announcer: Filip Cieśliński
 {% end %}
 
-Matches from this event are briefly shown in the first act of [American Dream](@/a/amerykanski-sen.md).
+### Notes
+
+* Matches from this event are briefly shown in the first act of [American Dream](@/a/amerykanski-sen.md).
 
 ## References
 

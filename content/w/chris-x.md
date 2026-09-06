@@ -25,7 +25,7 @@ Chris X is a retired Polish pro wrestler, best known for his appearances in [Man
 ### Maniac Zone Wrestling (2021-2023)
 
 Chris X made his debut working for [Maniac Zone Wrestling](@/o/mzw.md) at [Project 8](@/e/mzw/2021-08-14-mzw-project-8-golden-road-finals.md) - the first show after the COVID-19 pandemic.
-He was one of the entrants in a Rookie Battle Royal, which was won by Michael Payne.
+He was one of the entrants in a Rookies' Battle Royal, which was won by Michael Payne.
 He made his Singles Match debut against Rubix at MZW's next show, [Game On](@/e/mzw/2023-03-11-mzw-game-on.md), which was held one and a half years later.
 His last appearance for MZW took place at [Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), where he faced [Biesiad Strong](@/w/biesiad.md) in a losing effort.
 

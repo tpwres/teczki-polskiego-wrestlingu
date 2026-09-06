@@ -27,7 +27,7 @@ The event featured a Christmas-themed street fight between [Olgierd](@/w/olgierd
 - - '[Diana Strong](@/w/diana-strong.md)'
   - Violet Nyte
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - g: true
+  - g: Caravaggio hypes himself up and insults the audience; announces the beginning of the "Vincent Caravaggio era".
 - - '[Erik Šlotíř](@/w/erik-slotir.md)'
   - '[Marcelito](@/w/marcelito.md)'
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md)' 

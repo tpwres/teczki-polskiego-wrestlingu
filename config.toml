@@ -124,7 +124,6 @@ text_fg = '#ffffff'
 bg = '#f4a232'
 text_fg = '#000'
 
-
 [extra.chronology]
 arena = "KPW Arena"
 backyardmania = "Backyardmania"
@@ -137,3 +136,4 @@ poznan-fair = "Poznań International Fair"
 project-basement = "Project Basement"
 stocznia-gdanska = "Stocznia Gdańska"
 underground = "PTW Underground"
+wrestling-w-twoim-miescie = "FRPW Wrestling w Twoim Mieście"

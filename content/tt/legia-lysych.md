@@ -66,7 +66,7 @@ Despite that setback, Legia committed to Zmowa's efforts, becoming a valuable as
 
 At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) Olgierd finally defeated [Goblin](@/w/goblin.md) to become the PpW Champion for the first time in his career. Despite an injury he suffered at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) in a match against Biesiad Strong, he continued his reign preventing any Polish wrestler from competing for it, until the title becomes a World Championship after the [shows](@/a/ppw-polska-gurom.md) in [Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 
-In the meantime, Marco - along with fellow Zmowa members, Mister Z and [Jakub "Fox"](@/w/jakub.md) - competed in the Tag Team division to secure the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). This concluded at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), where Zmowa (represented by Jakub and Mister Z) claimed the titles for all of their members thanks to the [Freebird Rule][freebird-rule].
+In the meantime, Marco - along with fellow Zmowa members, Mister Z and [Jakub "Fox"](@/w/jakub.md) - competed in the Tag Team division to secure the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). This concluded at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md), where Zmowa (represented by Jakub and Mister Z) claimed the titles for all of their members thanks to the [Freebird Rule](@/a/freebird-rule.md).
 
 ### Legacy of Wrestling (2024-present)
 
@@ -79,9 +79,13 @@ At [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), Marco made his de
 
 The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), issuing an open challenge. The challenge was answered by a makeshift team of [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md), who lost to Legia.
 
+## Marco's injury and retirement (2026)
+
+In August 2026 [Marco Hammers](@/w/marco-hammers.md) was forced to retire from in-ring competition due to a serious neck injury.
+
 ## Members
 
-* [Marco Hammers](@/w/marco-hammers.md) - 2023-
+* [Marco Hammers](@/w/marco-hammers.md) - 2023-2026
 * [Olgierd](@/w/olgierd.md) - 2023-
 * [Karyna](@/w/karyna.md) - valet ([Underground 15](@/e/ptw/2023-05-28-ptw-underground-15.md) - [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md))
 
@@ -108,4 +112,3 @@ The two made their official MZW tag team debut at [MZW Forever](@/e/mzw/2025-03-
   - [PTW Intergender Championship](@/c/ptw-intergender-championship.md) (2 times; inaugural; final) - [Marco Hammers](@/w/marco-hammers.md) (2)
 
 [legia-warszawa]:https://en.wikipedia.org/wiki/Legia_Warsaw
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

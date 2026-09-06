@@ -7,23 +7,23 @@
 0006 = { path = "hans-vs-tom.webp", caption = "Image announcing [Hans Schulte](@/w/hans-schulte.md) vs Tom LaRuffa.", source = "Official KPW Facebook" }
 0007 = { path = "leon-lato.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md).", source = "Official KPW Facebook" }
 0008 = { path = "paskalesak.webp", caption = "Image announcing [Markus Paskal](@/w/markus-paskal.md) vs [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official KPW Facebook" }
-0009 = { path = "wyszechrady.webp", caption = "Image announcing [Lukáš Mottl](@/w/skull-evil.md) & [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
+0009 = { path = "wyszechrady.webp", caption = "Image announcing [Lukáš Mottl](@/w/lukas-mottl.md) & [David Oliwa](@/w/david-oliwa.md).", source = "Official KPW Facebook" }
 0010 = { path = "michal-fux-vs-ron-corvus.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Ron Corvus](@/w/ron-corvus.md).", source = "Official KPW Facebook" }
 
 0101 = { path = "kinga.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
 0102 = { path = "suddenly-krzeslo.webp", caption = "Filip Fux emerges from underneath the ring to strike Tomczak in the back with a chair.", source = "M3n747" }
 0103 = { path = "suddenly-malinowski.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) changes the plans.", source = "M3n747" }
-0104 = { path = "suddenly-adepci.webp", caption = "Tomczak gets back on his feet, while Rookies Two, Three and One are instructed by Krystian Malinowski to remove Filip Fux from the ring.", source = "M3n747" }
+0104 = { path = "suddenly-adepci.webp", caption = "Tomczak gets back on his feet, while Adepci Dwa, Trzy and Jeden are instructed by Krystian Malinowski to remove Filip Fux from the ring.", source = "M3n747" }
 
-1001 = { path = "lukaszowi-skapnelo-mistrzostwo.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md).", source = "M3n747" }
-1002 = { path = "i-point-at-rookie-two-is-my-finger-not-rookie-two-himself.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md) mock Rookie Two.", source = "Tomek O." }
+1001 = { path = "lukaszowi-skapnelo-mistrzostwo.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/lukas-mottl.md).", source = "M3n747" }
+1002 = { path = "i-point-at-rookie-two-is-my-finger-not-rookie-two-himself.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/lukas-mottl.md) mock Adept Dwa.", source = "Tomek O." }
 1003 = { path = "od-stop-po-piety-wszedl-napiety-mordercze-na-nim-instrumenty.webp", caption = "More guys, more undies!", source = "M3n747" }
  
-2001 = { path = "miecz-swietny.webp", caption = "[Rookie One](@/w/oskar-haller.md) fends off David Oliwa and [Lukáš Mottl](@/w/skull-evil.md) with a kendo stick.", source = "M3n747" }
-2002 = { path = "lato-z-jedynka.webp", caption = "[Leon Lato](@/w/leon-lato.md) takes the side of [Rookie One](@/w/oskar-haller.md). In the background is [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
-2003 = { path = "technicznie-rzecz-biorac-liczy-sie-jako-pin.webp", caption = "[David Oliwa](@/w/david-oliwa.md) pins [Rookie One](@/w/oskar-haller.md), counted by Krystian Czekaj. In the corners stand Leon Lato and [Lukáš Mottl](@/w/skull-evil.md).", source = "M3n747" }
+2001 = { path = "miecz-swietny.webp", caption = "[Adept Jeden](@/w/oskar-haller.md) fends off David Oliwa and [Lukáš Mottl](@/w/lukas-mottl.md) with a kendo stick.", source = "M3n747" }
+2002 = { path = "lato-z-jedynka.webp", caption = "[Leon Lato](@/w/leon-lato.md) takes the side of [Adept Jeden](@/w/oskar-haller.md). In the background is [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+2003 = { path = "technicznie-rzecz-biorac-liczy-sie-jako-pin.webp", caption = "[David Oliwa](@/w/david-oliwa.md) pins [Adept Jeden](@/w/oskar-haller.md), counted by Krystian Czekaj. In the corners stand Leon Lato and [Lukáš Mottl](@/w/lukas-mottl.md).", source = "M3n747" }
 2004 = { path = "sneaky-oliwa.webp", caption = "David Oliwa sneaks up on Leon Lato.", source = "M3n747" }
-2005 = { path = "wyszechrady-wygraly.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/skull-evil.md) celebrate their victory. In the background, referee [Krystian Czekaj](@/w/krystian-czekaj.md) appears to be contemplating his life choices.", source = "M3n747" }
+2005 = { path = "wyszechrady-wygraly.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and [Lukáš Mottl](@/w/lukas-mottl.md) celebrate their victory. In the background, referee [Krystian Czekaj](@/w/krystian-czekaj.md) appears to be contemplating his life choices.", source = "M3n747" }
 
 3001 = { path = "sedzia-w-cieniu-lesaka.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
 3002 = { path = "alan-ale-nie-delon.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md).", source = "M3n747" }

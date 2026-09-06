@@ -1,10 +1,23 @@
 #! /bin/bash
 # set -x
+set -euo pipefail
 
-install_zola() {
-	asdf plugin add zola https://github.com/salasrod/asdf-zola
-	asdf install zola 0.20.0
-	asdf global zola 0.20.0
+MISE=node_modules/mise/bin/mise
+export NO_COLOR=1
+
+asdf_to_mise() {
+  while read -r pkg versions; do
+    [[ "$pkg" =~ ^#|^$ ]] && continue # skip comments and empty
+    for ver in $versions; do
+      path=$(asdf where "$pkg" "$ver" 2>/dev/null) && $MISE ln "$pkg@$ver" "$path"
+    done
+  done
+}
+
+bootstrap_mise() {
+  sed -i '/^dart-sass-embedded/d' $HOME/.tool-versions
+  asdf_to_mise < $HOME/.tool-versions
+  $MISE run bootstrap
 }
 
 lint() {
@@ -12,52 +25,44 @@ lint() {
 }
 
 create_config() {
-  # In CF Workers, the base url in previews is either
-  # <sha-prefix>-<workername>.<domain>.workers.dev or <branchname>-<workername>.<domain>.workers.dev
-  # where the prefix is usually 8 hexdigits long. The branch name is found in $WORKERS_CI_BRANCH,
-  # and the worker name in $WRANGLER_CI_OVERRIDE_NAME, both provided by Workers Builds env.
-  case $WORKERS_CI_BRANCH in
-      main)
-          export BASE_URL=https://$PRODUCTION_URL
-          ;;
-      *)
-          export BASE_URL=https://$WORKERS_CI_BRANCH-$WRANGLER_CI_OVERRIDE_NAME.$WORKERS_DOMAIN
-          ;;
-  esac
-
   envsubst < cloudflare-config.toml > build_cloudflare_config.toml
 }
 
 setup_seo() {
+  set -x
   # Find the last-modified dates of all files under content/
   # Edit each file inline, inserting updated= into front matter
-  git fetch --unshallow
-  git ls-files content/ | \
-  grep -Ev '_index\.md$' | \
-  while read FILE; do
-      git log --pretty="$FILE %as" -1 -- "$FILE"
-  done | while read FILE MTIME; do
-      sed -i "0,/+++/s//&\nupdated = \"$MTIME\"/" "$FILE"
-  done
+  BRANCH=${CF_PAGES_BRANCH:-main}
+  git fetch --unshallow origin "$BRANCH" || git fetch --depth=100 origin "$BRANCH"
+  git log --pretty=format:"D %as" -name-only -- content/ \|
+    $MISE exec -- uv run python3 src/bin/add_timestamps.py
 
-  export SITEMAP_ROOT=${SITEMAP_ROOT_URL:-$BASE_URL}
+  if [[ -n "$CF_PAGES" ]]; then
+    case $CF_PAGES_BRANCH in
+      main)
+        export BASE_URL=https://tpwres.pl
+        ;;
+      *)
+        export BASE_URL=$CF_PAGES_URL
+        ;;
+    esac
+  fi
   envsubst < templates/sitemap_template.xml > templates/sitemap.xml
   envsubst < templates/robots_template.txt > templates/robots.txt
 }
 
 build() {
-  make -j$(nproc) all plot index
+  $MISE exec -- uv run make -j$(nproc) all plot index
 
-  zola -c build_cloudflare_config.toml build
-  cp data/appearances_v2.json public/
-  cp data/all_matches.json public/
-  cp data/all_photos.json public/
-  cp data/talent_photos.json public/
+  $MISE exec -- zola -c build_cloudflare_config.toml build
+  install -t public data/appearances_v2.json data/all_matches.json data/all_photos.json data/talent_photos.json
   cp data/mapdata.json public/map_objects.json
 }
 
-lint
-install_zola
+
+bootstrap_mise
+# lint
 create_config
 setup_seo
 build
+
