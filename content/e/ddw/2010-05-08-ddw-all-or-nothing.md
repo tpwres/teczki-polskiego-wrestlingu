@@ -51,10 +51,12 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
     s: 'Ten Man Gauntlet Match'
 - - '[Don Roid](@/w/don-roid.md)'
   - '[Rider](@/w/asmund.md) w/ Dirtbag & [Pan Pawłowski](@/w/pan-pawlowski.md)'
+  - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
     s: 'Ten Man Gauntlet Match'
 
 - - '[Don Roid](@/w/don-roid.md)'
   - '[Joe Legend](@/w/joe-legend.md)'
+  - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
     s: 'Ten Man Gauntlet Match'
 
 
