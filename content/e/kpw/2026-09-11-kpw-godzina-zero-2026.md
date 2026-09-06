@@ -28,6 +28,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * In a [video][walka-o-kontrakt] published on 26.08.2026 Krystian Malinowski stated that the three rookies: [Adept Dwa](@/w/adept-dwa.md), [Adept Trzy](@/w/adept-trzy.md) and Adept Cztery will face each other in a Three-Way Match. The winner will sign a contract and join the KPW roster, while the others will "shut their mouths once and for all and get back to their duties". The match was officially confirmed on 28.08.2026.
 * On 4.09.2026 KPW announced that due to [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md) still recovering from injuries, [Team Visegrad](@/tt/team-visegrad.md) will be represented by [Lukáš Mottl](@/w/lukas-mottl.md) and Johan Otto. Otto is an Austrian wrestler working in European Wrestling Association, among other places, personally chosed by Oliwa to take his place in this match.
 * On 5.09.2026 Lesak was given an opponent - Nitro Green from Denmark, debuting in Poland. In 2019, in Romanian promotion RWA, Nitro Green was the final opponent faced by [Piękny Kawaler](@/w/piekny-kawaler.md) at the end of his in-ring career.
+* In a [video][kpw-live] released on 6.09.2026 [Krystian Malinowski](@/w/krystian-malinowski.md) stated that this show will stream live on KPW's YouTube channel - a first for the promotion.
 
 ## Predicted card
 
@@ -77,3 +78,4 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 [telefon-do-przyjaciela]: https://www.youtube.com/watch?v=pKBW91BzT6U
 [karierowicze]: https://www.youtube.com/watch?v=JJHJUq71TmE
 [walka-o-kontrakt]: https://www.youtube.com/watch?v=qzVg3d6cVxk
+[kpw-live]: https://www.facebook.com/reel/4345866628960294
