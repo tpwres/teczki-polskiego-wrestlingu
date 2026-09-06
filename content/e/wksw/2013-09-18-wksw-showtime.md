@@ -27,7 +27,9 @@ has_video = false
     nc: '?'
 {% end %}
 
-According to the source, a worker called Silnoręki (_Strong-Handed_) appeared during the main event, coming out to David Master's music.
+### Notes
+
+* According to the source, a worker called Silnoręki (_Strong-Handed_) appeared during the main event, coming out to David Master's music.
 
 ## References
 

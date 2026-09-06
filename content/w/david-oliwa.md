@@ -70,7 +70,7 @@ In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at thei
 
 ## International wrestling appearances 
 
-David also works abroad in such promotions as Austria-based European Wrestling Association (in a tag team with [Ricky Sky](@/w/ricky-sky.md) and [Skull Evil](@/w/skull-evil.md)) and Pro Wrestling Österreich, Germany's Power Of Wrestling (where he won the Tag Team Championship with Sky) and others.
+David also works abroad in such promotions as Austria-based European Wrestling Association (in a tag team with [Ricky Sky](@/w/ricky-sky.md) and [Skull Evil](@/w/lukas-mottl.md)) and Pro Wrestling Österreich, Germany's Power Of Wrestling (where he won the Tag Team Championship with Sky) and others.
 
 ## In wrestling
 
@@ -106,7 +106,7 @@ David also works abroad in such promotions as Austria-based European Wrestling A
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Ricky Sky](@/w/ricky-sky.md) & [Lukáš Mottl](@/w/skull-evil.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Ricky Sky](@/w/ricky-sky.md) & [Lukáš Mottl](@/w/lukas-mottl.md)
 
 ## Internet presence
 

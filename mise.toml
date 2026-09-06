@@ -1,0 +1,12 @@
+[tools]
+zola = "0.22.1"
+node = "22" # Matching cloudflare
+python = "3.13" # Matching cloudflare
+uv = "0.10"
+
+[tasks.npm-install]
+run = "npm install"
+
+[tasks.bootstrap]
+depends = ["npm-install"]
+

@@ -23,7 +23,9 @@ has_video = false
   - nc: '?'
 {% end %}
 
-According to the source, some masked figures attacked (presumably one of the contenders) during the main event, and knocked out the referee.
+### Notes
+
+* According to the source, some masked figures attacked (presumably one of the contenders) during the main event, and knocked out the referee.
 
 ## References
 

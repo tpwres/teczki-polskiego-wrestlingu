@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [23.160271, 50.980274]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Miejski Ośrodek Sportu i Rekreacji w Krasnymstawie",
+        "description": "Municipal Sports and Recreation Center in Krasnystaw, the location of [FRPW's](@/o/frpw.md) [fourth show](@/e/frpw/2026-11-28-frpw-krasnystaw.md).",
+        "orgs": ["frpw"]
+    }
+}

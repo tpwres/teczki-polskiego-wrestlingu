@@ -33,7 +33,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
 ## Card
 
 {% card() %}
-- - '[_rookie_ Antek](@/w/antoni-ocean.md)'
+- - '[adept Antek](@/w/antoni-ocean.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: 'Wielkie Testy Platy - Pre-show Triple Threat Match'
@@ -68,10 +68,10 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
     Guest commentary: '[Isnorr](@/w/isnorr.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Present in the audience was [Isnorr](@/w/isnorr.md), proudly wearing his [ZLN GNG Championship](@/tt/zieloni.md#trivia). He was also invited to the commentary booth for Oskar & Agatka vs Dobroniak & Blade.
-* After Rookie Antek entered for Bartosz Plata's Trial match, Joker announced that, because this was the third Trial, PpW decided on making it a triple threat match with a new opponent.
+* After adept Antek entered for Bartosz Plata's Trial match, Joker announced that, because this was the third Trial, PpW decided on making it a triple threat match with a new opponent.
   Enter [Max Speed](@/w/max-speed.md) in his unannounced PpW debut.
 * Somewhat unusually, Marco Hammers entered the ring without Olgierd, nor did the match see any interference.
 * Gustav delivered a massive Spinebuster to Mister Z, and later an 11-200 (Angels Wings) to Marco. 11-200 is the postal code for Bartoszyce, his hometown and the target of a [popular chant](@/a/polish-wrestling-chants.md#wrestler-specific).

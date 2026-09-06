@@ -7,24 +7,10 @@ jobs:
     permissions: { issues: write, pull-requests: write }
     steps:
       - uses: actions/checkout@v4
-      - name: Install zola
-        uses: taiki-e/install-action@v2
+      - name: Install mise and dependencies
+        uses: jdx/mise-action@v4
         with:
-          tool: zola
-      - uses: astral-sh/setup-uv@v6
-        name: Install UV
-        with:
-          version: latest
-          python-version: '3.13.3'
-          activate-environment: true
-          enable-cache: true
-      - name: Install Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-          cache: npm
-      - name: Install nodejs modules
-        run: npm install
+          bootstrap: true
       - name: Build metadata
         run: |
           uv run make all plot

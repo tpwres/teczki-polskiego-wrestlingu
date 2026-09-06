@@ -10,7 +10,7 @@ country = ["SK"]
 1 = { path = "ricky-sky.jpg", caption = "Ricky Sky's entrance, [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).", source = "M3n747" }
 +++
 
-Ricky Sky is a Slovakian wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He also made a one-off appearance in [PpW Ewenement](@/o/ppw.md). Outside of Poland, he occasionally works as part of a tag team with [David Oliwa](@/w/david-oliwa.md) and [Skull Evil](@/w/skull-evil.md).
+Ricky Sky is a Slovakian wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md). He also made a one-off appearance in [PpW Ewenement](@/o/ppw.md). Outside of Poland, he occasionally works as part of a tag team with [David Oliwa](@/w/david-oliwa.md) and [Skull Evil](@/w/lukas-mottl.md).
 
 ## Basic info
 
@@ -45,7 +45,7 @@ Ricky Sky returned to KPW in 2025 and along with [David Oliwa](@/w/david-oliwa.m
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [David Oliwa](@/w/david-oliwa.md) & [Lukáš Mottl](@/w/skull-evil.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [David Oliwa](@/w/david-oliwa.md) & [Lukáš Mottl](@/w/lukas-mottl.md)
 
 ## References
 

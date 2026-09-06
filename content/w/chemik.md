@@ -34,7 +34,7 @@ In his butler persona, he continued to associate with Kawaleria for the next few
 
 #### The Gregorian Branch
 
-At [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), after Piękny Kawaler's final match, Greg introduced his new [Pope Pijus I Greg](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#aftermath) persona.
+At [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), after Piękny Kawaler's final match, Greg introduced his new [Pope Pijus I Greg](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md#highlights) persona.
 Chemik also adopted a new gimmick, donning altar boy's robes, and started accompanying Greg, carrying a thurible, imitating Catholic rites as he entered the ringside.
 
 Initially starting with a losing streak, at [Arena 17](2021-08-21-kpw-arena-17.md) Chemik swore an oath of celibacy to Pope Greg, vowing "not to touch a woman" until he scored three victories.
@@ -53,7 +53,7 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Greg lost hi
 
 After this defection from Greg, Chemik focused on defending his OldTown Championship. He defeated Michael Schenkenberg at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), but after his victory he was confronted by [Filip Fux](@/w/filip-fux.md), which led to their Street Fight at [the next show](@/e/kpw/2025-04-11-kpw-arena-28.md). Chemik managed to emerge victorious from that bout, and defended the title again at the [next show](@/e/kpw/2025-06-20-kpw-arena-29.md) versus Luca De Leone. However, two months later he lost the Championship to [Leon Lato](@/w/leon-lato.md) at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md).
 
-At [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md) Chemik declared that as long as [Zefir](@/w/zefir.md) and Leon Lato were Champions, and the audience was full of loosers, his feet would never touch the KPW ring again. He punctuated his words by leaving his wrestling boots in the ring upon exit. However, he un-retired himself later at the same show when KPW's Chairman [Krystian Malinowski](@/w/krystian-malinowski.md) proposed a hefty cash bonus for defeating [Rookie One](@/w/oskar-haller.md). However, Chemik failed to beat the rookie, thus not earning the extra money.
+At [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md) Chemik declared that as long as [Zefir](@/w/zefir.md) and Leon Lato were Champions, and the audience was full of loosers, his feet would never touch the KPW ring again. He punctuated his words by leaving his wrestling boots in the ring upon exit. However, he un-retired himself later at the same show when KPW's Chairman [Krystian Malinowski](@/w/krystian-malinowski.md) proposed a hefty cash bonus for defeating [Adept Jeden](@/w/oskar-haller.md). However, Chemik failed to beat the rookie, thus not earning the extra money.
 
 At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) he aligned himself with his old teammate Lesak against [Markus Paskal](@/w/markus-paskal.md) (and his mother). Not having much experience, Markus got himself some backup in the form of the returning [Kamil Aleksander](@/w/kamil-aleksander.md), with a tag team match scheduled for [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
 

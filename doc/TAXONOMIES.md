@@ -22,6 +22,7 @@ On their talent page, if they have one, it will show on the right of the title.
 On the alphabetical talent list it will show to the left of their name.
 In the All-Time Roster section of an organization's page, it will show to the left of their name.
 
+For wrestlers with their own articles but unknown countries of origin, use code `ZZ` (Unknown/Missing).
 
 ### Example
 

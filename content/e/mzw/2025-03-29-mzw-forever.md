@@ -68,9 +68,9 @@ MZW Forever was show by [Maniac Zone Wrestling](@/o/mzw.md), once again held in 
     Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
-* [Isnorr](@/w/isnorr.md), who broke his arm [two weeks prior](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), was present in the audience. During the break in the show he interviewed fans for the Istota Wrestlingu podcast.
+* [Isnorr](@/w/isnorr.md), who'd broken his arm [two weeks prior](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md), was present in the audience. During the break in the show he interviewed fans for the Istota Wrestlingu podcast.
 * This was [Goblin's](@/w/goblin.md) debut in MZW. He was supposed to appear at the [previous show](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), but could not make it.
 * The event saw an unexpected return of [Apollo Anderson](@/w/apollo-anderson.md), in a new Wolf gimmick.
 * [Syriusz Dziedzic](@/w/dziedzic.md) answered Legia's open challenge, with [Jędruś Bułecka](@/w/jedrus-bulecka.md) as his tag team partner. This was Jędruś's second appearance after making a surprise return the show before.

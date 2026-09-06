@@ -33,7 +33,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - Ezeny
   - '[Hexia](@/w/hexia.md)'
   - Kent
-  - '[_rookie_ Jacob](@/w/jacob-crane.md)'
+  - '[adept Jacob](@/w/jacob-crane.md)'
   - '[Laurance Roman](@/w/laurance-roman.md)'
   - Marcel Koniecki
   - '[Matt Buckna](@/w/matt-buckna.md)'
@@ -43,7 +43,7 @@ The rumble winner was slated to face [Asmund](@/w/asmund.md) for the MZW Champio
   - '[Rick Baxxter](@/w/rick-baxxter.md)'
   - '[Ronzen](@/w/ronny-kessler.md)'
   - Sebastien
-  - '[Skull Evil](@/w/skull-evil.md)'
+  - '[Skull Evil](@/w/lukas-mottl.md)'
   - Tony Steel
   - Valeria
   - s: 'MZW Championship #1 Contender 26 Man Royal Rumble Match'

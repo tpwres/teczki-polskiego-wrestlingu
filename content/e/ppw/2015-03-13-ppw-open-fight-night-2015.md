@@ -36,7 +36,7 @@ The exact date of the event isn't known. The videos were uploaded on 13.03 and 2
   - '[Epic Angel Guerrero](@/w/angel-guerrero.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * The fights took place on mattresses covered with an old carpet, placed on the grass.
 * There was no referee; the three-count was done by camera operators.

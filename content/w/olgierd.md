@@ -98,7 +98,7 @@ At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najleps
 
 With Biesiad out of the picture, Olgierd foucsed on recovery before his PpW title defence at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo. Following Johnny Blade's post-match declaration at [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), however, Olgierd vowed to grant Blade his first and last opportunity to face him for the PpW Championship after the Japanese tour.
 
-In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) which, thanks to the [Freebird Rule][freebird-rule], also meant that Olgierd became a _de facto_ double champion, despite not participating in any of the qualifying matches for the Tag Team titles.
+In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) which, thanks to the [Freebird Rule](@/a/freebird-rule.md), also meant that Olgierd became a _de facto_ double champion, despite not participating in any of the qualifying matches for the Tag Team titles.
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
@@ -112,7 +112,7 @@ In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/b
 
 ### Kombat Pro Wrestling (2026-present)
 
-In April 2026 Olgierd was present at [KPW Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) as a security/staff member. Two months later he was booked for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) in a match against [Filip Fux](@/w/filip-fux.md), thus becoming the first Polish wrestler to work for all active (as of 2026) Polish pro federations: [PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md).
+In June 2026 Olgierd was booked for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) in a match against [Filip Fux](@/w/filip-fux.md), thus becoming the first Polish wrestler to work for all active (as of 2026) Polish pro federations: [PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md).
 
 ## International wrestling appearances
 
@@ -179,4 +179,3 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
 * [Profile on the restored PpW Wiki](http://ppw-fandom.tpwres.pl/hades)
 
 [zielony-las]: https://en.wikipedia.org/wiki/Battle_of_Grunwald
-[freebird-rule]: https://prowrestling.fandom.com/wiki/Freebird_Rule

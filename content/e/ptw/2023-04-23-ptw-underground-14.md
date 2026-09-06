@@ -52,7 +52,7 @@ The 14th Underground event by [PTW](@/o/ptw.md) was held on Sunday, April 2023 a
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Seweryn](@/w/sedzia-seweryn.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Fed up with not scoring a single win, [Syriusz Dziedzic](@/w/dziedzic.md) storyline-quit PTW after his match.
 * In a pre-match comedic segment, a promo by Hammers was interrupted by "Dr Fox", in a white lab coat, who offered to cure Hammers's baldness. After Marco's refusal, Dr Fox dropped the disguise to reveal himself as [Axel Fox](@/w/jakub.md), and the match started.

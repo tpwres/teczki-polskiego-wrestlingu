@@ -37,7 +37,7 @@ has_video = true
   - s: Daniel Razor's Open Challenge
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Sawicki](@/w/sawicki.md)'
-  - '[Bumper](@/w/fabian.md)'
+  - '[adept Bumper](@/w/fabian.md)'
 - - 'Andi ZickZack'
   - '[Nic Wesker](@/w/nic-wesker.md)'
   - s: Halloween Hardcore Match
@@ -51,7 +51,7 @@ has_video = true
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: Lambert promises changes after his recent loss. Pawłowski gives him a match.
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - '[Dropper](@/w/whiteblade.md)'
+  - '[adept Dropper](@/w/whiteblade.md)'
 - - '[Nietykalni](@/tt/nietykalni.md): [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) & [Dawid "Puncher" Seńko](@/w/puncher.md)'
   - 'Team Okoński: [Łukasz Okoński](@/w/lukasz-okonski.md) & [Spartan](@/w/spartan.md) & ["Starboy" Nano Lopez](@/w/nano-lopez.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - s: '4 on 4 Tag Team Elimination Match'
@@ -65,7 +65,7 @@ has_video = true
     Timekeeper: '[Boguś](@/w/bogus.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Street Creed worked the match as heels, whereas The Lancadores (with their manager Tori Fox) played babyfaces.
 * Post-match, the heels tried to put an exclamation mark on their victory, continuing the beatdown on The Lancadores. Tori Fox thwarted their attempts, disposing of both Street Creed members.

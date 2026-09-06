@@ -69,7 +69,7 @@ Wjazd Na Rewir (roughly _Home Turf Invasion_) was a show by [PpW Ewenement Wrest
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Kornel](@/w/sedzia-kornel.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * There was a table set in the middle of the ring with something on in, covered in black cloth. [Michael HT](@/w/michael-ht.md) opened the show, making no comment on the fact. After a few minutes he was joined by [Joker](@/w/joker.md) and together they unveiled a new title: the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). Michael then announced a tournament to crown the inaugural Champions, starting with [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md).
 * [Oskar Alexander](@/w/oskar-alexander.md) assisted [Agentka Agatka](@/w/agentka-agatka.md) by pulling her out of the way of [Johnny Blade](@/w/johnny-blade.md), jumping from the top rope.

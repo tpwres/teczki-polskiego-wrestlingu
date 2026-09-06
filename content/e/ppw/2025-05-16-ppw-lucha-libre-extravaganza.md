@@ -48,7 +48,7 @@ The announced competitors include non-canon lucha personas of familiar PpW stars
     Host: '[Michael HT](@/w/michael-ht.md)'
 {% end %}
 
-### Recap & notes
+### Highlights & notes
 
 * Luchadores spent all of the show at ringside, cheering both the _rudos_ and the _tecnicos_.
 * Although every performer wore a mask, they were mostly wearing their usual ring-gear, allowing fans to easily recognize their regular personas.

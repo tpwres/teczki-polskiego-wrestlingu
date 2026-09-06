@@ -19,7 +19,7 @@ has_video = true
   - 'RJ Kolda'
   - c: 'VcV Championship'
 - - '[Prince Victor](@/w/vic-golden.md)'
-  - '[Skull Evil](@/w/skull-evil.md)'
+  - '[Skull Evil](@/w/lukas-mottl.md)'
   - '[Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: 'Triple Threat Match'
 - - '[Red Thunder](@/w/red-thunder.md)'

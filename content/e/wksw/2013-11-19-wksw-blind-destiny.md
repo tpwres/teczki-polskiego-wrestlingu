@@ -30,9 +30,10 @@ The date of the show wasn't explicitly stated in the available source. The date 
     nc: '?'
 {% end %}
 
-According to the source, the Wołów Champion had sustained an injury, but no further details were given. Present at the show was [Tony "Aparycja" Sheen](@/w/riverman.md) who started a feud with Scott Collins.
+### Notes
 
-KL is a user of the WrestleFans forum who commented in threads about the WKSW shows; in his post on this show he explicitly referred to his own promo.
+* According to the source, the Wołów Champion had sustained an injury, but no further details were given. Present at the show was [Tony "Aparycja" Sheen](@/w/riverman.md) who started a feud with Scott Collins.
+* KL is a user of the WrestleFans forum who commented in threads about the WKSW shows; in his post on this show he explicitly referred to his own promo.
 
 ## References
 

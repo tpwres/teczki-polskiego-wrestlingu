@@ -50,7 +50,7 @@ The event was held on the same day as a footbal match between Arka Gdynia and G√
     Ring announcer: '[Arkadiusz Paw≈Çowski](@/w/pan-pawlowski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Two self-proclaimed rock stars face each other in the ring. [Rosetti](@/w/rosetti.md) bosses [Robert Star](@/w/robert-star.md) around, to his annoyance. Finally he earns a slap to the face, to great applause.
 * Oliwa was unable to lift his heavy-set opponent, and used a frog splash to finish.

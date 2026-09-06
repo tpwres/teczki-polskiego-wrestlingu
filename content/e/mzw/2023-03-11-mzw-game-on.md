@@ -34,7 +34,7 @@ Game ON was the first [Maniac Zone Wrestling](@/o/mzw.md) show after the COVID-1
     Referee: '[Tony Sheen](@/w/riverman.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * This show saw the debut of [Adi](@/w/adrian-zgorski.md) as the ring announcer, and of [Tony Sheen](@/w/riverman.md) as the referee.
 * After the main event, Matt Buckna came out of the backstage, stared the victorious Zeritus down and told him "You, me - next time!", implying a match between the two at the [next show](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md). This angle, however, was seemingly dropped.

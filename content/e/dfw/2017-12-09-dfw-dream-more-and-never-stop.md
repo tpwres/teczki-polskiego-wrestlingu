@@ -31,7 +31,7 @@ The nonprofit focuses on helping parents and schools fill children's time with e
   - s: Best 2 Out Of 3 Falls Match
 {% end %}
 
-### Recap
+### Highlights
 
 * At one moment in the second match, Corin Mear called in some children from the audience to the ring. They held down Cade Bruce's legs apart, so that Corin could deliver a top rope headbutt to the crotch.
 * Pain Killer entered through the window, jumping down onto the ring. Unusually for him, he was dressed in white, not black, and also not the heel character. Malmo Buruto intervened in their fight attacking Pain Killer, but since it was a No DQ match, this had no consequences. \

@@ -70,7 +70,7 @@ Around 90 minutes after this show was announced, [KPW](@/o/kpw.md) posted to Fac
     Commentary: '[Istociarz](@/w/istociarz.md), [Isnorr](@/w/isnorr.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Upon his entrance, and also later after winning the match, Mutant received "Bóg Jest Łysy" (_God Is Bald_) [chants](@/a/polish-wrestling-chants.md#wrestler-specific), previously used to praise [Ricardo Diesel](@/w/ricardo-diesel.md).
 * Michael HT announced Mutant as "Jebany Kurwa Mutant" (roughly _Bloody Fucking Mutant_), also on both occasions. In the video, the text just says Mutant.

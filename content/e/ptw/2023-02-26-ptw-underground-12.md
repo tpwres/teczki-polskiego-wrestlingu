@@ -47,9 +47,9 @@ In the [inaugural tournament](https://www.facebook.com/PrimeTimeWrestlingPL/post
     Commentary: '[Arek Paterek](@/w/arek-paterek.md), [Piotr "ShowOff" Małecki](@/w/piotr-malecki.md), [Łukasz "Balik" Baliński](@/w/lukasz-balinski.md)'
 {% end %}
 
-### Recap
+### Notes
 
-* Hammers vs Lopez did not start, due to Remo interfering during Lopez's entrance, laying him out, and later chasing Hammers out of the ring.
+* Hammers vs Lopez did not start due to Remo interfering during Lopez's entrance, laying him out, and later chasing Hammers out of the ring.
 
 ## References
 

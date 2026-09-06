@@ -18,7 +18,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
 
 * At [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md) [Zefir](@/w/zefir.md) defeated [Veit Müller](@/w/veit-mueller.md), earning a title shot for the [KPW Championship](@/c/kpw-championship.md) at Godzina Zero 2025.
 * Likewise, at the same show, [Leon Lato](@/w/leon-lato.md) earned his title shot for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) by defeating [Tomczak](@/w/tomczak.md).
-* On 18.07.2025 KPW released a [video][młodzi-wilcy] in which a group of 13 rookies addressed [chairman Malinowski](@/w/krystian-malinowski.md), stating they're fed up with being bullied by [Tomczak](@/w/tomczak.md) and demanding a match against him. The group included [Adam Wong](@/w/adam-wong.md), the rookie manhandled by Tomczak at [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), and three women, hinting at the first match to include female talent in [five years](@/e/kpw/2020-02-01-kpw-arena-16.md).
+* On 18.07.2025 KPW released a [video][młodzi-wilcy] in which a group of 13 rookies addressed [Chairman Malinowski](@/w/krystian-malinowski.md), stating they're fed up with being bullied by [Tomczak](@/w/tomczak.md) and demanding a match against him. The group included [Adam Wong](@/w/adam-wong.md), the rookie manhandled by Tomczak at [Arena 29](@/e/kpw/2025-06-20-kpw-arena-29.md), and three women, hinting at the first match to include female talent in [five years](@/e/kpw/2020-02-01-kpw-arena-16.md).
 * On 23.07.2025 [Krystian Malinowski](@/w/krystian-malinowski.md) [replied][malinowski-odpowiada], saying that the idea of rookies facing Tomczak is so absurd he's willing to agree. However, he stated that only three of the "rebels" will get to do the honours and that the lucky ones will be decided in a battle royal to be held "in a moment".
 * Two days later KPW posted a [video][zwyciezka-trojka] of the battle royal, with the three winners being congratulated - but also warned - by [Krystian Malinowski](@/w/krystian-malinowski.md).
 * On 2.08.2025 [Chemik](@/w/chemik.md) vs Lato for the KPW OldTown Championship was officially confirmed.
@@ -26,7 +26,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
 * The main event - [Hans Schulte](@/w/hans-schulte.md) vs [Zefir](@/w/zefir.md) for the [KPW Championship](@/c/kpw-championship.md) - was officially confirmed on 11.08.2025.
 * The Handicap Match between [Tomczak](@/w/tomczak.md) and three as-yet unnamed rookies was confirmed two days later.
 * On 15.08.2025 KPW announced [Eryk Lesak](@/w/eryk-lesak.md) vs Crowchester, who was last seen at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md).
-* On 18.08.2025 [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/skull-evil.md) was announced. Mottl made his KPW debut at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md) earlier that year, but this will be his first mainline KPW show. Previously, he'd made a number of appearances (as Skull Evil) for [Maniac Zone Wrestling](@/o/mzw.md) and one for [PpW Ewenement Wrestling](@/o/ppw.md).
+* On 18.08.2025 [Greg](@/w/greg.md) vs [Lukáš Mottl](@/w/lukas-mottl.md) was announced. Mottl made his KPW debut at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md) earlier that year, but this will be his first mainline KPW show. Previously, he'd made a number of appearances (as Skull Evil) for [Maniac Zone Wrestling](@/o/mzw.md) and one for [PpW Ewenement Wrestling](@/o/ppw.md).
 * The following day saw the announcement of debutant [Markus Paskal](@/w/markus-paskal.md), a graduate of the [KPW Wrestling School](@/o/szkola-kpw.md), vs [Veit Müller](@/w/veit-mueller.md).
 * Lastly, on 20.08.2025, KPW announced a 13-Man Championship Contract Battle Royal. This replaces the Magnificent Seven Ladder Match, a staple of most Godzina Zero shows held in previous years.
 * On the day before the show, KPW released a [video][motywacja-oliwy] in which David Oliwa addressed [Filip & Michał Fux](@/tt/bracia-fux.md), stating that because they took away his chance at the [KPW Championship](@/c/kpw-championship.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), he will now take what's most important to them: their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md). [Ricky Sky](@/w/ricky-sky.md) then added (in Slovak) that it won't be just their titles, but also their fans, their joy and their name: they'll no longer be (in English) "Fux Brothers", but rather (in Polish) "Shit Brothers" (_Nebudú to Fux Brothers - budú Gówno Brothers_).
@@ -46,10 +46,10 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   - '[Chemik](@/w/chemik.md)(c)'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
 - - '[Tomczak](@/w/tomczak.md)'
-  - 'The Rookies: [Rookie One](@/w/oskar-haller.md) & [Rookie Two](@/w/rookie-two.md) & [Rookie Three](@/w/rookie-three.md)'
+  - 'Adepci: [Adept Jeden](@/w/oskar-haller.md) & [Adept Dwa](@/w/adept-dwa.md) & [Adept Trzy](@/w/adept-trzy.md)'
   - s: 3-on-1 Handicap Match
 - - '[Greg](@/w/greg.md)'
-  - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
+  - '["Skull Evil" Lukáš Mottl](@/w/lukas-mottl.md)'
 - - '[Eryk Lesak](@/w/eryk-lesak.md)'
   - '[Chemik](@/w/chemik.md)'
   - 'Crowchester'
@@ -60,7 +60,7 @@ Godzina Zero (_Zero Hour_) 2025 was the eighth annual KPW supershow, held since 
   - '[Markus Paskal](@/w/markus-paskal.md)'
   - '[Michał Fux](@/w/michal-fux.md)'
   - '[Ricky Sky](@/w/ricky-sky.md)'
-  - '["Skull Evil" Lukáš Mottl](@/w/skull-evil.md)'
+  - '["Skull Evil" Lukáš Mottl](@/w/lukas-mottl.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - '[Veit Müller](@/w/veit-mueller.md)'
   - s: '13-Man Championship Contract Battle Royal'
@@ -79,13 +79,13 @@ Attendance: ca. 300 (source: Cagematch)
 ### Highlights
 
 * [Michał Fux](@/w/michal-fux.md) sustained an injury during the match, which forced him to leave [Filip Fux](@/w/filip-fux.md) to fend for himself for a long while. Later in the match, he came back with a bandaged left hand to aid his brother in the fight.
-* When Michał pinned [Ricky Sky](@/w/ricky-sky.md), [Lukáš Mottl](@/w/skull-evil.md) came out of the backstage and placed Ricky's leg on the bottom rope, forcing a rope break. The local crowd, unfamiliar with the character (though he did appear earlier that year at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md)), chanted "[Kim ty jesteś](@/a/polish-wrestling-chants.md#intros)" (_Who are you?_).
+* When Michał pinned [Ricky Sky](@/w/ricky-sky.md), [Lukáš Mottl](@/w/lukas-mottl.md) came out of the backstage and placed Ricky's leg on the bottom rope, forcing a rope break. The local crowd, unfamiliar with the character (though he did appear earlier that year at [Pyrkon](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md)), chanted "[Kim ty jesteś](@/a/polish-wrestling-chants.md#intros)" (_Who are you?_).
 * After winning the second match, [Veit Müller](@/w/veit-mueller.md) extended his hand to [Markus Paskal](@/w/markus-paskal.md) and hugged him, only to then deliver a surprise attack.
 * Present in the audience were Markus Paskal's mother and friends, who prepared a large banner to cheer him on. After the fight, Paskal cut a brief promo thanking the fans for giving him a chance to prove himself and apologising for wasting that chance. He ended by thanking his mother, prompting the crowd to chant "Mum!"
 * Upon entering the ring, [Eryk Lesak](@/w/eryk-lesak.md) insulted and tore down Paskal's banner.
 * Crowchester came out to heel heat, unlike during his previous appearance at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). During the course of the match, however, he managed to get the audience on his side.
 * The fight between [Chemik](@/w/chemik.md) and [Leon Lato](@/w/leon-lato.md) briefly moved out of the ring and near the merch stand. Leon took the opportunity to grab a handful of Chemik's postcards and whack him on the head with them, before giving the cards to the fans. The postcards depict Chemik replacing [Jakub Wejher][wejher] on a statue located in Wejherowo's historical market square.
-* The three rookies facing [Tomczak](@/w/tomczak.md) weren't given individual introductions or names. The crowd quickly took to calling them "[Rookie One](@/w/oskar-haller.md)", "[Rookie Two](@/w/rookie-two.md)" and "[Rookie Three](@/w/rookie-three.md)" (_Adept Jeden_, _Adept Dwa_ and _Adept Trzy_), numbering them after the order in which they went against Tomczak.
+* The three rookies facing [Tomczak](@/w/tomczak.md) weren't given individual introductions or names. The crowd quickly took to calling them "[Adept Jeden](@/w/oskar-haller.md)", "[Adept Dwa](@/w/adept-dwa.md)" and "[Adept Trzy](@/w/adept-trzy.md)" (_Rookie One_, _Rookie Two_ and _Rookie Three_), numbering them after the order in which they went against Tomczak.
 * Before the match started, [Krystian Malinowski](@/w/krystian-malinowski.md) came out and cut a brief promo berating the rookies for rebelling against Tomczak, which in Malinowski's eyes means rebelling against himself and KPW. He then told Tomczak to teach the rookies a lesson they wouldn't forget.
 * Lukáš Mottl tried cheating by removing the padding from a turnbuckle, only to hit it head-first himself.
 * The elimination order during the Battle Royal was as follows:
@@ -96,7 +96,7 @@ Attendance: ca. 300 (source: Cagematch)
   5. [Greg](@/w/greg.md)
   6. [Ricky Sky](@/w/ricky-sky.md)
   7. [Filip Fux](@/w/filip-fux.md)
-  8. [Lukáš Mottl](@/w/skull-evil.md)
+  8. [Lukáš Mottl](@/w/lukas-mottl.md)
   9. [Michał Fux](@/w/michal-fux.md)
   10. [Veit Müller](@/w/veit-mueller.md)
   11. [Eryk Lesak](@/w/eryk-lesak.md) (see explanation below)

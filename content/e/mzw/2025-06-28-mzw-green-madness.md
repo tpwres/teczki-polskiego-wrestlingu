@@ -65,7 +65,7 @@ The show was announced along with the poster depicting [Aron Wake](@/w/aron-wake
     Host, Ring Announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md)'
 {% end %}
 
-### Recap
+### Highlights
 
 * Present in the audience was [Vic Golden](@/w/vic-golden.md).
 * [Oskar Alexander](@/w/oskar-alexander.md) delivered a long-winded promo dissing [Shadow](@/w/shadow.md) and the city of Wrocław. When the bell rang, Shadow went straight for a roll-up followed by an immediate three-count, ending the match in just a few seconds.

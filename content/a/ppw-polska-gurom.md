@@ -17,22 +17,22 @@ PpW x 上野: Polska Gurom! (roughly _PpW x Ueno: Poland Rulz_) was a show by [P
 
 <!-- more -->
 
-Although the show in Ueno Park falls on an earlier date, it was announced nearly two months later, on 9.02.2026.
+Although the show in Ueno Park fell on an earlier date, it was announced nearly two months later, on 9.02.2026.
 
 ## Build-up
 
 * On 9.02.2026 [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) posted to his [Instagram][stani] that he will make his Japanese debut at this show.
-* Dale Patricks & [Olgierd](@/w/olgierd.md) vs [Jacob Crane](@/w/jacob-crane.md) & Shigehiro Irie, as well as [Gabriel Queen](@/w/gabriel-queen.md) vs a mystery opponent, were announced via BJW's website at an unspecified date.
+* Dale Patricks & [Olgierd](@/w/olgierd.md) vs [Jacob Crane](@/w/jacob-crane.md) & [Shigehiro Irie](@/w/shigehiro-irie.md), as well as [Gabriel Queen](@/w/gabriel-queen.md) vs a mystery opponent, were announced via BJW's website at an unspecified date.
 
 ## Card
 
 {% card() %}
 - - '[オルギエルト](@/w/olgierd.md) (Olgierd) & デイル・パトリックス (Dale Patricks)'
-  - '[ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane) & 入江茂弘 (Shigehiro Irie)'
+  - '[ジェイコブ・クレイン](@/w/jacob-crane.md) (Jacob Crane) & [入江茂弘](@/w/shigehiro-irie.md) (Shigehiro Irie)'
   - s: 'PpW ルール・ハードコア・タッグチーム戦 (PpW Rules Hardcore Tag Team Match)'
 - - '橋本大地 (Daichi Hashimoto)'
   - '[ガブリエル・クイーン](@/w/gabriel-queen.md) (Gabriel Queen)'
-- - '入江茂弘 (Shigehiro Irie)'
+- - '[入江茂弘](@/w/shigehiro-irie.md) (Shigehiro Irie)'
   - '橋本大地 (Daichi Hashimoto)'
   - '[ガブリエル・クイーン](@/w/gabriel-queen.md) (Gabriel Queen)'
   - '[ロバート・スター](@/w/robert-star.md) (Robert Star)'

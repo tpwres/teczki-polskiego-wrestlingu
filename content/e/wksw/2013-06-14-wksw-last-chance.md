@@ -26,7 +26,9 @@ The date of the show wasn't explicitly stated in the available source. The date 
     Commentary: '???, ???'
 {% end %}
 
-According to the source, also present at the event was Kreweta, who hit Chudy with a belt.
+### Notes
+
+* According to the source, also present at the event was Kreweta, who hit Chudy with a belt.
 
 ## References
 
