@@ -81,7 +81,7 @@ We ask for our decisions to be respected and we thank all the wrestlers, employe
 Prime Time Wrestling
 {% end %}
 
-Two days later Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski wasn't fired, but the termination was an amicable process that both parties agreed to. He also pointed out that there was no conflict between Pawłowski and himself.
+Two days later Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski wasn't fired, but the termination was an amicable process that both parties agreed to. He also pointed out that there was no conflict between Pawłowski and himself. According to [PTW's official website][strona-ptw], Pawłowski remains active as a coach with [PTW Academy](@/o/ptw-academy.md).
 
 ## International wrestling appearances
 
@@ -138,3 +138,4 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 [mw-pawel]: https://www.youtube.com/live/D4kwKCFbY9c?si=XxJ7CL7-1kn863hd&t=5868
 [pawel-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JcWNEJ1GQ9VAiAUwTU5kpJbSYUterXZ5Cxug7DkGHup45Fb8jQfHEiFqfoTz4HTMl
 [okon-wyjasnia]: https://www.facebook.com/reel/1377064001215338
+[strona-ptw]: https://ptwrestling.pl/akademia-ptw
