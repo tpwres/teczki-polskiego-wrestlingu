@@ -52,7 +52,7 @@ _Listed in alphabetical order:_
 
 * [Alex Brave](@/w/alex-brave.md)
 * Arczi Czajka
-* Bart Petro
+* [Bart Petro](@/w/bart-petro.md)
 * [Boguś](@/w/bogus.md)
 * [Bumper](@/w/fabian.md)
 * [CJ Klakson](@/w/cj-klakson.md)
