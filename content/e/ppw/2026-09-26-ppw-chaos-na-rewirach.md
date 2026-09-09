@@ -21,6 +21,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * On 18.08.2026 PpW announced a match for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), with The Hardcors ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) challenging the reigning Champions, [Rodzina](@/tt/rodzina.md) (represented by [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)).
 * On 21.08.2026 the previously announced tag teams of Boro & Mutant and [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md) (representing Rodzina) were pitted against one another.
 * On 5.09.2026 Queen vs Crane was changed from a Singles Match to a 30 Minute Iron Man Match, marking the first time the stipulation will be used by a Polish pro federation. (A few Iron Man matches were held in the backyard era: a PpW's [Brutality 2015](@/e/ppw/2015-10-10-ppw-brutality-2015.md) and [Backyard Total War](@/e/ppw/2016-07-18-ppw-backyard-total-war.md), as well as [TWF's](@/o/twf.md) [Day of DOOM!](@/e/twf/2012-06-03-twf-day-of-doom.md).)
+* On 8.09.2026 published a [video][wiekizm] of [Antoni Ocean](@/w/antoni-ocean.md) complaining about PpW being ruled by "old farts" (_stare dziady_), such as [Jakub](@/w/jakub.md) whom he challenged to a fight in order to take his place. The match was officially confirmed the next day.
 
 ## Predicted card
 
@@ -52,6 +53,9 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '???'
   - nc: upcoming
+- - '[Jakub](@/w/jakub.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
@@ -62,3 +66,5 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457201)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02oM1up2dTNEnV1JLwT7mDYrCcbJLTeErEUjxxHgQYGEsFjSyUZgPNw3vMcc9Wui1Wl)
+
+[wiekizm]: https://www.facebook.com/reel/1410396644355230
