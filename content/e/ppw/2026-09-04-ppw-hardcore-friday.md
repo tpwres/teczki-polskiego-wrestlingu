@@ -67,6 +67,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457839)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-hardcore-friday-zeby-bylo-ci-dobrze-09-04-2026-20-29-12) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid0chz3MJ2t4hoiyAh11tY6xJgMhdxwxm3iK4uyVYueDnuo86atgrkV1huXupmWkJe5l)
 
 [biesiad-na-stole]: https://www.facebook.com/reel/1377909574444851
