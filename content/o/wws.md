@@ -1,7 +1,7 @@
 +++
 title = "World Wrestling Superstars"
+weight = 0
 template = "org_page.html"
-weight = 9
 [taxonomies]
 chrono_root = ["wws"]
 [extra]
