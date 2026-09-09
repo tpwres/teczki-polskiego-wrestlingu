@@ -5,4 +5,5 @@
 05 = { path = "kalyana.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md).", source = "Official FRPW Instagram", skip_art = true }
 06 = { path = "akane-fujita.webp", caption = "Image announcing Akane Fujita.", source = "Official FRPW Facebook" }
 07 = { path = "max-speed-lubi-warke.webp", caption = "Image announcing [Max Speed](@/w/max-speed.md).", source = "Official FRPW Facebook", skip_art = true }
+08 = { path = "gdzie-wrestlerki-cztery-tam-tag-teamy-dwa.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md) & [Agentka Agatka](@/w/agentka-agatka.md) vs Akane Fujita & [Gloria G Szek](@/w/gloria-g-szek.md).", source = "Official FRPW Facebook" }
 99 = { path = "plakaty-wieszajo.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) at the venue, putting up posters for the show.", source = "Official FRPW Facebook" }
