@@ -22,6 +22,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 * 7.08.2026 saw the announcement of [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md).
 * On 13.08.2026, [Kalyana's](@/w/kalyana.md) appearance at the show was announced.
 * On 27.08.2026 FRPW announced that Japanese wrestler Akane Fujita will be present at the shows in Lublin and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
+* On 8.09.2026 FRPW announced [Max Speed](@/w/max-speed.md) will appear at shows in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), Lublin and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
 
 ## Predicted card
 
@@ -36,6 +37,9 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
   - '???'
   - nc: upcoming
 - - 'Akane Fujita'
+  - '???'
+  - nc: upcoming
+- - '[Max Speed](@/w/max-speed.md)'
   - '???'
   - nc: upcoming
 {% end %}
