@@ -24,7 +24,7 @@ has_video = false
 - - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - 'Proroctwo: [Sawicki](@/w/sawicki.md) & [Whiteblade](@/w/whiteblade.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    s: #1 Contendership Tag Team Match
+    s: '#1 Contendership Tag Team Match'
     nc: upcoming
 {% end %}
 
