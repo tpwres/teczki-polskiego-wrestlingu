@@ -13,7 +13,7 @@ has_video = true
 
 Backyardmania III was a cross-promotion supershow, hosted by PXW in their {{ map_pin(v="Grunwaldzka 5") }}usual spot in Głuchołazy. The previous two Backyardmanias were organised by [WFW](@/o/wksw.md), but since the group obtained a professional ring, they were busy with their own preparations and didn't want to get involved in such events. PXW was the only federation with the means and the will to put the show together; as a result of the change in organisers, the third show took place in PXW'w ring instead of on mattresses.
 
-Similarly to [Backyardmania II](@/e/wksw/2011-07-01-wksw-backyardmania-2.md), this also was a multi-day event. N!ko ("with a group of experts") from Attitude Forum recorded a commentary, which was released as a separate download. The file, however, is no longer publicly available.
+Similarly to [Backyardmania II](@/e/wksw/2011-07-01-wksw-backyardmania-2.md), this also was a multi-day event. N!ko ("with a group of experts") from Attitude Forum recorded commentary, which was released as a separate download. The file, however, is no longer publicly available.
 
 ## Card
 
