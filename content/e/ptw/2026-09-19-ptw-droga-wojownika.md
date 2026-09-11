@@ -16,9 +16,17 @@ has_video = false
 
 ## Build-up
 
-* TBD
+* The first match-up was revealed on 10.09.2026: a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) #1 Contendership Tag Team Match between [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) and Proroctwo ([Sawicki](@/w/sawicki.md) & [Whiteblade](@/w/whiteblade.md)).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Proroctwo: [Sawicki](@/w/sawicki.md) & [Whiteblade](@/w/whiteblade.md)'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: '#1 Contendership Tag Team Match'
+    nc: upcoming
+{% end %}
 
 ### Highlights
 
