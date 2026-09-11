@@ -57,6 +57,10 @@ At [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md) Chemik declared that as long
 
 At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) he aligned himself with his old teammate Lesak against [Markus Paskal](@/w/markus-paskal.md) (and his mother). Not having much experience, Markus got himself some backup in the form of the returning [Kamil Aleksander](@/w/kamil-aleksander.md), with a tag team match scheduled for [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
 
+#### Tag Team Champion
+
+Chemik faced [Team Visegrad](@/tt/team-visegrad.md) ([Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md). His unexpected partner, who revealed himself at the last moment before the match, was [Oskar Haller](@/w/oskar-haller.md). Despite not getting along, the duo won the titles.
+
 ### Legacy of Wrestling (2024-present)
 
 On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md) at the [first Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md). The challenge was initially anwsered by [Sambor](@/w/sambor.md), but the guest host of the show - [Sinister](@/w/sinister.md) - added [Dziedzic](@/w/dziedzic.md) to the mix. Nevertheless, Chemik managed to emerge victorious and keep his title.
@@ -97,6 +101,7 @@ From 2024 onwards Chemik made a few appearances for Finland-based federation SLA
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Oskar Haller](@/w/oskar-haller.md)
 * [Legacy of Wrestling](@/o/low.md):
   - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) Contract Six-Man Gauntlet Match (2026)
 

@@ -34,52 +34,49 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
 ## Card
 
 {% card() %}
-- - '[Markus Paskal](@/w/markus-paskal.md)'
-  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-  - s: Career vs Career Match
-    nc: upcoming
-- - '[Michał Fux](@/w/michal-fux.md)'
-  - '[Filip Fux](@/w/filip-fux.md)'
-  - nc: upcoming
 - - '[Eryk Lesak](@/w/eryk-lesak.md)(c)'
   - 'Nitro Green'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-    nc: upcoming
-- - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Tomczak](@/w/tomczak.md)'
-  - s: Dog Collar match
-    nc: upcoming
-- - '[Team Visegrad](@/tt/team-visegrad.md): [Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto(c)'
-  - '[Chemik](@/w/chemik.md) & ???'
-  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
-    s: Tag-Team Match
-    nc: upcoming
 - - '[Adept Dwa](@/w/adept-dwa.md)'
   - '[Adept Trzy](@/w/adept-trzy.md)'
   - 'Adept Cztery'
   - s: KPW Contract Three-Way Match
-    nc: upcoming
-- - '???'
-  - 'Nitro Green'
-  - '[Lukáš Mottl](@/w/lukas-mottl.md)'
+- - '[Markus Paskal](@/w/markus-paskal.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
-  - 'Johan Otto'
-  - '[Eryk Lesak](@/w/eryk-lesak.md)'
-  - '???'
+  - s: Career vs Career Match
+- - '[Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md)'
+  - '[Team Visegrad](@/tt/team-visegrad.md): [Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto(c)'
+  - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
+    s: Tag-Team Match
+- - '[Leon Lato](@/w/leon-lato.md)'
   - '[Tomczak](@/w/tomczak.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
+  - s: Dog Collar match
+- - '[Filip Fux](@/w/filip-fux.md)'
   - '[Michał Fux](@/w/michal-fux.md)'
+- - '[Michał Fux](@/w/michal-fux.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Oskar Haller](@/w/oskar-haller.md)'
+  - '[Eryk Lesak](@/w/eryk-lesak.md)'
+  - 'Johan Otto'
   - '[Markus Paskal](@/w/markus-paskal.md)'
-  - '[Filip Fux](@/w/filip-fux.md)'
+  - 'Nitro Green'
   - '[Chemik](@/w/chemik.md)'
+  - '[Lukáš Mottl](@/w/lukas-mottl.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Adept Dwa](@/w/adept-dwa.md)' 
+  - '[Tomczak](@/w/tomczak.md)'
+  - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
+  - '[Rosetti](@/w/rosetti.md)'
   - s: 'Championship Contract Battle Royal'
-    nc: upcoming
 - - '[Iestyn Rees](@/w/iestyn-rees.md)(c)'
   - '[Greg](@/w/greg.md)'
   - '[Zefir](@/w/zefir.md)'
   - c: '[KPW Championship](@/c/kpw-championship.md)'
     s: Three-Way Match
-    nc: upcoming
+- credits:
+    Referee: '[Sędzia Alan](@/w/sedzia-alan.md)'
+    Ring announcer: '[Kinga Miotke](@/w/kinga-miotke.md)'
+    Commentary: '[Rosetti](@/w/rosetti.md), [Arek Paterek](@/w/arek-paterek.md)'
 {% end %}
 
 ### Highlights

@@ -66,6 +66,7 @@ In 2023 Michał made his first appearance outside of Poland, when he worked one 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Filip Fux](@/w/filip-fux.md)
   - KPW Championship No. 1 Contender Tournament (2025)
+  - Championship Contract Battle Royal (2025)
 
 ## Internet presence
 

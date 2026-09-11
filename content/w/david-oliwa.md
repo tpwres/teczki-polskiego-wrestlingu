@@ -58,9 +58,9 @@ After spending the first half of 2023 in the midcard, David seemingly started ge
 
 #### Tag Team Champion
 
-At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with his partner [Ricky Sky](@/w/ricky-sky.md) (as [Team Visegrad](@/tt/team-visegrad.md)), Oliwa won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating [Bracia Fux](@/tt/bracia-fux.md).
+At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with his partner [Ricky Sky](@/w/ricky-sky.md) (as [Team Visegrad](@/tt/team-visegrad.md)), Oliwa won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating [Bracia Fux](@/tt/bracia-fux.md). Although Team Visegrad had been active in Austria since 2021, Godzina Zero 2025 was their official Polish debut.
 
-Although Team Visegrad had been active in Austria since 2021, Godzina Zero 2025 was their official Polish debut.
+Team Visegrad - represented by [Lukáš Mottl](@/w/lukas-mottl.md) and Johan Otto, due to Oliwa and Sky's injuries - lost their titles to [Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md) at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md).
 
 ### Legacy of Wrestling (2025)
 
@@ -106,7 +106,7 @@ David also works abroad in such promotions as Austria-based European Wrestling A
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Ricky Sky](@/w/ricky-sky.md) & [Lukáš Mottl](@/w/lukas-mottl.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Ricky Sky](@/w/ricky-sky.md) & [Lukáš Mottl](@/w/lukas-mottl.md)
 
 ## Internet presence
 

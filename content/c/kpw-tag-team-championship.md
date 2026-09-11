@@ -224,15 +224,26 @@ Wild Boar was injured a couple of days before the event and was replaced by Tomm
   - s: Tag-Team Match
     en: '[KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md)'
     ed: 2026-01-16
-- - 'Team Visegrad: Lukáš Mottl & Johan Otto (c)'
-  - '[Chemik](@/w/chemik.md) & ???'
+- - '[Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md)'
+  - 'Team Visegrad: Lukáš Mottl & Johan Otto (c)'
   - s: Tag-Team Match
     en: '[KPW Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)'
     ed: 2026-09-11
-    nc: upcoming
 {% end %}
 
+**TOTAL:** 385 days.
+
 While the titles were won by David Oliwa & Ricky Sky, Lukáš Mottl was also recognised as a champion in accordance with the [Freebird Rule](@/a/freebird-rule.md). While not officially a member of Team Visegrad, Johan Otto replaced David Oliwa in a match due to the latter's injury.
+
+### Champions #6: Chemik & Oskar Haller
+
+{% free_card() %}
+- - '[Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md)'
+  - '[Team Visegrad](@/tt/team-visegrad.md): [Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto (c)'
+  - s: Tag-Team Match
+    en: '[KPW Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)'
+    ed: 2026-09-11
+{% end %}
 
 ## References
 

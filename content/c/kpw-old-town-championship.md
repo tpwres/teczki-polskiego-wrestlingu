@@ -271,7 +271,6 @@ At Arena 20, Darius won the match by count-out, thus Rosetti retained the title.
   - s: Singles Match
     en: '[KPW Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)'
     ed: 2026-09-11
-    nc: upcoming
 {% end %}
 
 ## References
