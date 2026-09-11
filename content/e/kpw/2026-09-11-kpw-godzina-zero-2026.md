@@ -8,12 +8,12 @@ venue=["nowy-harem"]
 [extra]
 city = "Gdynia"
 toclevel = 2
-has_video = false
+has_video = true
 collapse_gallery = false
 [extra.gallery]
 +++
 
-Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held since 2016. Unlike most previous editions, GZ'26 will be held in September.
+Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2016. Unlike most previous editions, GZ'26 was held in September.
 
 ## Build-up
 
@@ -31,9 +31,9 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 * In keeping with something of a tradition of recent years, on 6.09.2026 KPW announced a Championship Contract Battle Royal, the winner of which will be able to challenge any Champion for any title, at any time within a year following the victory.
 * In a [video][kpw-live] released on 6.09.2026 [Krystian Malinowski](@/w/krystian-malinowski.md) stated that this show will stream live on KPW's YouTube channel - a first for the promotion.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Markus Paskal](@/w/markus-paskal.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - s: Career vs Career Match
@@ -88,6 +88,7 @@ Godzina Zero (_Zero Hour_) 2026 will be the ninth annual KPW supershow, held sin
 
 ## References
 
+* [Video: official live stream](https://www.youtube.com/watch?v=bzvI4Ly9k2I)
 * [Nitro Green's Cagematch profile](https://www.cagematch.net/r/?id=2&nr=16907)
 
 [tournee-lesaka-2]: https://www.facebook.com/ErykLesak/posts/pfbid02g2mHCeysju7oah1uDG4wmMuwz4EuGV8KRxWmTyfEnwUp5PtX92vz6pzbDrTcxUQDl
