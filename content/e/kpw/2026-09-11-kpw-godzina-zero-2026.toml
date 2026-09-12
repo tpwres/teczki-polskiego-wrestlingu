@@ -1,49 +1,64 @@
-0000 = { path = "kpw-godzina-zero-2026-plakat.webp", caption = "Official poster, featuring [Greg](@/w/greg.md), [Iestyn Rees](@/w/iestyn-rees.md) and [Zefir](@/w/zefir.md).", source = "kpwrestling.pl / Official KPW Facebook" }
-0001 = { path = "cholera-a-ja-na-te-gale-z-bratem-ide.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Filip Fux](@/w/filip-fux.md).", source = "kpwrestling.pl / Official KPW Facebook" }
-0002 = { path = "czterej-pancerni-i-lesak.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook" }
-0003 = { path = "tomczaki-wyprowadzamy-na-smyczy.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Tomczak](@/w/tomczak.md).", source = "Official KPW Facebook" }
-0004 = { path = "grestynefir.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Iestyn Rees](@/w/iestyn-rees.md) vs [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
-0005 = { path = "paskaleksander.webp", caption = "Image announcing [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Markus Paskal](@/w/markus-paskal.md).", source = "Official KPW Facebook" }
-0006 = { path = "adepci-2-3-i-4-to-razem-9.webp", caption = "Image announcing [Adept Trzy](@/w/adept-trzy.md), [Adept Trzy](@/w/adept-trzy.md) and Adept Cztery.", source = "Official KPW Facebook" }
-0007 = { path = "wyszechrady-tezeusza.webp", caption = "Image announcing ??? & [Chemik](@/w/chemik.md) vs [Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto.", source = "Official KPW Facebook" }
-0008 = { path = "zielony-i-szybki.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs Nitro Green.", source = "Official KPW Facebook" }
-0009 = { path = "battle-royal-bez-sera.webp", caption = "Image announcing the Battle Royal. Left to right, top: ???, Nitro Green, [Lukáš Mottl](@/w/lukas-mottl.md), [Kamil Aleksander](@/w/kamil-aleksander.md), Johan Otto, [Eryk Lesak](@/w/eryk-lesak.md), ???; bottom: [Tomczak](@/w/tomczak.md), [Leon Lato](@/w/leon-lato.md), [Michał Fux](@/w/michal-fux.md), [Markus Paskal](@/w/markus-paskal.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md).", source = "Official KPW Facebook" }
+00000 = { path = "kpw-godzina-zero-2026-plakat.webp", caption = "Official poster, featuring [Greg](@/w/greg.md), [Iestyn Rees](@/w/iestyn-rees.md) and [Zefir](@/w/zefir.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+00001 = { path = "cholera-a-ja-na-te-gale-z-bratem-ide.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs [Filip Fux](@/w/filip-fux.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+00002 = { path = "czterej-pancerni-i-lesak.webp", caption = "Image announcing [Eryk Lesak's](@/w/eryk-lesak.md) upcoming appearances.", source = "ErykLesak @ Facebook" }
+00003 = { path = "tomczaki-wyprowadzamy-na-smyczy.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Tomczak](@/w/tomczak.md).", source = "Official KPW Facebook" }
+00004 = { path = "grestynefir.webp", caption = "Image announcing [Greg](@/w/greg.md) vs [Iestyn Rees](@/w/iestyn-rees.md) vs [Zefir](@/w/zefir.md).", source = "Official KPW Facebook" }
+00005 = { path = "paskaleksander.webp", caption = "Image announcing [Kamil Aleksander](@/w/kamil-aleksander.md) vs [Markus Paskal](@/w/markus-paskal.md).", source = "Official KPW Facebook" }
+00006 = { path = "adepci-2-3-i-4-to-razem-9.webp", caption = "Image announcing [Adept Trzy](@/w/adept-trzy.md), [Adept Trzy](@/w/adept-trzy.md) and Adept Cztery.", source = "Official KPW Facebook" }
+00007 = { path = "wyszechrady-tezeusza.webp", caption = "Image announcing ??? & [Chemik](@/w/chemik.md) vs [Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto.", source = "Official KPW Facebook" }
+00008 = { path = "zielony-i-szybki.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs Nitro Green.", source = "Official KPW Facebook" }
+00009 = { path = "battle-royal-bez-sera.webp", caption = "Image announcing the Battle Royal. Left to right, top: ???, Nitro Green, [Lukáš Mottl](@/w/lukas-mottl.md), [Kamil Aleksander](@/w/kamil-aleksander.md), Johan Otto, [Eryk Lesak](@/w/eryk-lesak.md), ???; bottom: [Tomczak](@/w/tomczak.md), [Leon Lato](@/w/leon-lato.md), [Michał Fux](@/w/michal-fux.md), [Markus Paskal](@/w/markus-paskal.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md).", source = "Official KPW Facebook" }
 
-0010 = { path = "jeszcze-nie-ma-ale-niedlugo-bedzie.webp", caption = "The ring before the start of the show.", source = "M3n747" }
-0020 = { path = "kinga-ale-nie-elektrycznych-gitar.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
+00100 = { path = "jeszcze-nie-ma-ale-niedlugo-bedzie.webp", caption = "The ring before the start of the show.", source = "M3n747" }
+00200 = { path = "kinga-ale-nie-elektrycznych-gitar.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
 
-0110 = { path = "lesak-az-sie-oplul-z-wrazenia.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
-0120 = { path = "promocja-jeden-lesak-w-cenie-dwoch.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) cuts a promo.", source = "M3n747" }
-0130 = { path = "taki-to-ma-fajnie-placa-mu-za-wystep-i-jeszcze-napije-sie-za-frajer.webp", caption = "Nitro Green helps himself to a fan's beer.", source = "M3n747" }
-0140 = { path = "pridej-se-ke-mne-a-ja-dokoncim-tvuj-vycvik.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) offers Nitro Green his hand.", source = "M3n747" }
-0150 = { path = "largo-la-grande-tak-kiedys-zrobil-guybrushowi-threepwoodowi.webp", caption = "Eryk Lesak holds Nitro Green in a Delayed Vertical Suplex.", source = "M3n747" }
-0160 = { path = "wyglada-troche-jak-chris-hemsworth-a-troche-jak-tom-araya.webp", caption = "Eryk Lesak unsuccessfully tries to submit Nitro Green with a Chokehold.", source = "M3n747" }
-0170 = { path = "lesak-wygral-jedno-stare-miasto.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) wins, says [Sędzia Alan](@/w/sedzia-alan.md).", source = "M3n747" }
+01010 = { path = "lesak-az-sie-oplul-z-wrazenia.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
+01020 = { path = "promocja-jeden-lesak-w-cenie-dwoch.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) cuts a promo.", source = "M3n747" }
+01030 = { path = "taki-to-ma-fajnie-placa-mu-za-wystep-i-jeszcze-napije-sie-za-frajer.webp", caption = "Nitro Green helps himself to a fan's beer.", source = "M3n747" }
+01040 = { path = "pridej-se-ke-mne-a-ja-dokoncim-tvuj-vycvik.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) offers Nitro Green his hand.", source = "M3n747" }
+01050 = { path = "largo-la-grande-tak-kiedys-zrobil-guybrushowi-threepwoodowi.webp", caption = "Eryk Lesak holds Nitro Green in a Delayed Vertical Suplex.", source = "M3n747" }
+01060 = { path = "wyglada-troche-jak-chris-hemsworth-a-troche-jak-tom-araya.webp", caption = "Eryk Lesak unsuccessfully tries to submit Nitro Green with a Chokehold.", source = "M3n747" }
+01070 = { path = "lesak-wygral-jedno-stare-miasto.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) wins, says [Sędzia Alan](@/w/sedzia-alan.md).", source = "M3n747" }
 
-0210 = { path = "cala-afera-o-kawalek-papieru.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) presents the KPW contract. To the left stands Adept Cztery, to the right [Adept Trzy](@/w/adept-trzy.md)", source = "M3n747" }
-0220 = { path = "619-powodow-na-zdobycie-kontraktu.webp", caption = "Adept Trzy hits Adept Cztery with a 6-1-9.", source = "M3n747" }
-0230 = { path = "tu-jest-pacha.webp", caption = "Sędzia Alanawards the vitory - and the KPW contract - to [Adept Dwa](@/w/adept-dwa.md).", source = "M3n747" }
-0240 = { path = "2x3.webp", caption = "A show of respect between [Adept Dwa](@/w/adept-dwa.md) and Adept Trzy…", source = "M3n747" }
-0250 = { path = "2x4.webp", caption = "…as well as Adept Dwa and Adept Cztery.", source = "M3n747" }
-0260 = { path = "dobra-to-teraz-tylko-nauczyc-sie-czytac.webp", caption = "[Adept Dwa](@/w/adept-dwa.md) with the contract.", source = "M3n747" }
+02010 = { path = "cala-afera-o-kawalek-papieru.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) presents the KPW contract. To the left stands Adept Cztery, to the right [Adept Trzy](@/w/adept-trzy.md)", source = "M3n747" }
+02020 = { path = "619-powodow-na-zdobycie-kontraktu.webp", caption = "Adept Trzy hits Adept Cztery with a 6-1-9.", source = "M3n747" }
+02030 = { path = "tu-jest-pacha.webp", caption = "Sędzia Alanawards the vitory - and the KPW contract - to [Adept Dwa](@/w/adept-dwa.md).", source = "M3n747" }
+02040 = { path = "2x3.webp", caption = "A show of respect between [Adept Dwa](@/w/adept-dwa.md) and Adept Trzy…", source = "M3n747" }
+02050 = { path = "2x4.webp", caption = "…as well as Adept Dwa and Adept Cztery.", source = "M3n747" }
+02060 = { path = "dobra-to-teraz-tylko-nauczyc-sie-czytac.webp", caption = "[Adept Dwa](@/w/adept-dwa.md) with the contract.", source = "M3n747" }
 
-0310 = { path = "kamil-aleksander.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md).", source = "M3n747" }
-0320 = { path = "markus-paskal.webp", caption = "[Markus Paskal](@/w/markus-paskal.md).", source = "M3n747" }
-0330 = { path = "stara-szkola-chodzenia-po-linie.webp", caption = "Kamil Aleksander goes Old School on Markus Paskal.", source = "M3n747" }
-0340 = { path = "well-i-mean-obviously.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) locks Kamil Aleksander's leg in a Leg Lock.", source = "M3n747" }
-0350 = { path = "prosze-pana-a-kamil-zepsul-line.webp", caption = "Kamil Aleksander goes for a rope break.", source = "M3n747" }
-0360 = { path = "zara-go-lupnie.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) about to slam Markus Paskal onto the ring.", source = "M3n747" }
-0370 = { path = "cos-sie-konczy-cos-sie-zaczyna.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) stands victorious over defeated Kamil Aleksander, as [Sędzia Alan](@/w/sedzia-alan.md) awards him the victory.", source = "M3n747" }
-0380 = { path = "przegral-ale-tak-jakby-wygral.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) and [Markus Paskal](@/w/markus-paskal.md) in the ring together one last time.", source = "M3n747" }
+03010 = { path = "kamil-aleksander.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md).", source = "M3n747" }
+03020 = { path = "markus-paskal.webp", caption = "[Markus Paskal](@/w/markus-paskal.md).", source = "M3n747" }
+03030 = { path = "stara-szkola-chodzenia-po-linie.webp", caption = "Kamil Aleksander goes Old School on Markus Paskal.", source = "M3n747" }
+03040 = { path = "well-i-mean-obviously.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) locks Kamil Aleksander's leg in a Leg Lock.", source = "M3n747" }
+03050 = { path = "prosze-pana-a-kamil-zepsul-line.webp", caption = "Kamil Aleksander goes for a rope break.", source = "M3n747" }
+03060 = { path = "zara-go-lupnie.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) about to slam Markus Paskal onto the ring.", source = "M3n747" }
+03070 = { path = "cos-sie-konczy-cos-sie-zaczyna.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) stands victorious over defeated Kamil Aleksander, as [Sędzia Alan](@/w/sedzia-alan.md) awards him the victory.", source = "M3n747" }
+03080 = { path = "przegral-ale-tak-jakby-wygral.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) and [Markus Paskal](@/w/markus-paskal.md) in the ring together one last time.", source = "M3n747" }
 
-0410 = { path = "pozegnanie-z-aleksandrem.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) says goodbye to the fans…", source = "M3n747" }
-0420 = { path = "rachu-ciachu-i-po-chodaku.webp", caption = "…cuts through the shoelaces…", source = "M3n747" }
-0430 = { path = "zawsze-moze-za-10-lat-kupic-nowe-sznurowki.webp", caption = "…and leaves his boots behind.", source = "M3n747" }
+04010 = { path = "pozegnanie-z-aleksandrem.webp", caption = "[Kamil Aleksander](@/w/kamil-aleksander.md) says goodbye to the fans…", source = "M3n747" }
+04020 = { path = "rachu-ciachu-i-po-chodaku.webp", caption = "…cuts through the shoelaces…", source = "M3n747" }
+04030 = { path = "zawsze-moze-za-10-lat-kupic-nowe-sznurowki.webp", caption = "…and leaves his boots behind.", source = "M3n747" }
 
-0510 = { path = ".webp", caption = ".", source = "M3n747" }
-0610 = { path = ".webp", caption = ".", source = "M3n747" }
-0710 = { path = ".webp", caption = ".", source = "M3n747" }
-0800 = { path = ".webp", caption = ".", source = "M3n747" }
-0910 = { path = ".webp", caption = ".", source = "M3n747" }
-1010 = { path = ".webp", caption = ".", source = "M3n747" }
-1110 = { path = ".webp", caption = ".", source = "M3n747" }
+05010 = { path = ".webp", caption = ".", source = "M3n747" }
+05020 = { path = ".webp", caption = ".", source = "M3n747" }
+05030 = { path = ".webp", caption = ".", source = "M3n747" }
+05040 = { path = ".webp", caption = ".", source = "M3n747" }
+05050 = { path = ".webp", caption = ".", source = "M3n747" }
+05060 = { path = ".webp", caption = ".", source = "M3n747" }
+05070 = { path = ".webp", caption = ".", source = "M3n747" }
+05080 = { path = ".webp", caption = ".", source = "M3n747" }
+05090 = { path = ".webp", caption = ".", source = "M3n747" }
+05100 = { path = ".webp", caption = ".", source = "M3n747" }
+05110 = { path = ".webp", caption = ".", source = "M3n747" }
+05120 = { path = ".webp", caption = ".", source = "M3n747" }
+05130 = { path = ".webp", caption = ".", source = "M3n747" }
+05140 = { path = ".webp", caption = ".", source = "M3n747" }
+05150 = { path = ".webp", caption = ".", source = "M3n747" }
+
+06010 = { path = ".webp", caption = ".", source = "M3n747" }
+07010 = { path = ".webp", caption = ".", source = "M3n747" }
+08000 = { path = ".webp", caption = ".", source = "M3n747" }
+09010 = { path = ".webp", caption = ".", source = "M3n747" }
+10010 = { path = ".webp", caption = ".", source = "M3n747" }
+11010 = { path = ".webp", caption = ".", source = "M3n747" }
