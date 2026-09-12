@@ -54,6 +54,8 @@ At [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) an induction ceremony was held
 
 Prior to the demotion, Rosetti was one of the most experienced [KPW](@/o/kpw.md) wrestlers remaining on the active roster, next to [Greg](@/w/greg.md) and [David Oliwa](@/w/david-oliwa.md), with roots in [Do Or Die Wrestling](@/o/ddw.md). Outside of storyline, Rosetti's move away from ring action was caused by an injury sustained a few shows prior.
 
+At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Rosetti took part in the Battle Royal - ordered into the ring by [Krystian Malinowski](@/w/krystian-malinowski.md) - but was quickly eliminated.
+
 ### Legacy of Wrestling (2025)
 
 On 10.11.2025 [Legacy](@/o/low.md) announced Rosetti as a guest commentator at their [fourth](@/e/low/2025-12-20-low-4.md) show.
