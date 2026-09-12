@@ -8,3 +8,28 @@
 0007 = { path = "wyszechrady-tezeusza.webp", caption = "Image announcing ??? & [Chemik](@/w/chemik.md) vs [Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto.", source = "Official KPW Facebook" }
 0008 = { path = "zielony-i-szybki.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs Nitro Green.", source = "Official KPW Facebook" }
 0009 = { path = "battle-royal-bez-sera.webp", caption = "Image announcing the Battle Royal. Left to right, top: ???, Nitro Green, [Lukáš Mottl](@/w/lukas-mottl.md), [Kamil Aleksander](@/w/kamil-aleksander.md), Johan Otto, [Eryk Lesak](@/w/eryk-lesak.md), ???; bottom: [Tomczak](@/w/tomczak.md), [Leon Lato](@/w/leon-lato.md), [Michał Fux](@/w/michal-fux.md), [Markus Paskal](@/w/markus-paskal.md), [Filip Fux](@/w/filip-fux.md), [Chemik](@/w/chemik.md).", source = "Official KPW Facebook" }
+
+0010 = { path = "jeszcze-nie-ma-ale-niedlugo-bedzie.webp", caption = "The ring before the start of the show.", source = "M3n747" }
+0020 = { path = "kinga-ale-nie-elektrycznych-gitar.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
+
+0101 = { path = "lesak-az-sie-oplul-z-wrazenia.webp", caption = "[Eryk Lesak's](@/w/eryk-lesak.md) entrance.", source = "M3n747" }
+0102 = { path = "promocja-jeden-lesak-w-cenie-dwoch.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) cuts a promo.", source = "M3n747" }
+0103 = { path = "taki-to-ma-fajnie-placa-mu-za-wystep-i-jeszcze-napije-sie-za-frajer.webp", caption = "Nitro Green helps himself to a fan's beer.", source = "M3n747" }
+0104 = { path = "pridej-se-ke-mne-a-ja-dokoncim-tvuj-vycvik.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) offers Nitro Green his hand.", source = "M3n747" }
+0105 = { path = "largo-la-grande-tak-kiedys-zrobil-guybrushowi-threepwoodowi.webp", caption = "Eryk Lesak holds Nitro Green in a Delayed Vertical Suplex.", source = "M3n747" }
+0106 = { path = "wyglada-troche-jak-chris-hemsworth-a-troche-jak-tom-araya.webp", caption = "Eryk Lesak unsuccessfully tries to submit Nitro Green with a Chokehold.", source = "M3n747" }
+0107 = { path = "lesak-wygral-jedno-stare-miasto.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) wins, says [Sędzia Alan](@/w/sedzia-alan.md).", source = "M3n747" }
+
+
+
+
+0200 = { path = ".webp", caption = ".", source = "M3n747" }
+0300 = { path = ".webp", caption = ".", source = "M3n747" }
+0400 = { path = ".webp", caption = ".", source = "M3n747" }
+0500 = { path = ".webp", caption = ".", source = "M3n747" }
+0600 = { path = ".webp", caption = ".", source = "M3n747" }
+0700 = { path = ".webp", caption = ".", source = "M3n747" }
+0800 = { path = ".webp", caption = ".", source = "M3n747" }
+0900 = { path = ".webp", caption = ".", source = "M3n747" }
+1000 = { path = ".webp", caption = ".", source = "M3n747" }
+1100 = { path = ".webp", caption = ".", source = "M3n747" }
