@@ -20,14 +20,13 @@
 0160 = { path = "wyglada-troche-jak-chris-hemsworth-a-troche-jak-tom-araya.webp", caption = "Eryk Lesak unsuccessfully tries to submit Nitro Green with a Chokehold.", source = "M3n747" }
 0170 = { path = "lesak-wygral-jedno-stare-miasto.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) wins, says [Sędzia Alan](@/w/sedzia-alan.md).", source = "M3n747" }
 
-0210 = { path = ".webp", caption = ".", source = "M3n747" }
-0220 = { path = ".webp", caption = ".", source = "M3n747" }
-0230 = { path = ".webp", caption = ".", source = "M3n747" }
-0240 = { path = ".webp", caption = ".", source = "M3n747" }
-0250 = { path = ".webp", caption = ".", source = "M3n747" }
-0260 = { path = ".webp", caption = ".", source = "M3n747" }
-0270 = { path = ".webp", caption = ".", source = "M3n747" }
-0280 = { path = ".webp", caption = ".", source = "M3n747" }
+0210 = { path = "cala-afera-o-kawalek-papieru.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) presents the KPW contract. To the left stands Adept Cztery, to the right [Adept Trzy](@/w/adept-trzy.md)", source = "M3n747" }
+0220 = { path = "619-powodow-na-zdobycie-kontraktu.webp", caption = "Adept Trzy hits Adept Cztery with a 6-1-9.", source = "M3n747" }
+0230 = { path = "tu-jest-pacha.webp", caption = "Sędzia Alanawards the vitory - and the KPW contract - to [Adept Dwa](@/w/adept-dwa.md).", source = "M3n747" }
+0240 = { path = "2x3.webp", caption = "A show of respect between [Adept Dwa](@/w/adept-dwa.md) and Adept Trzy…", source = "M3n747" }
+0250 = { path = "2x4.webp", caption = "…as well as Adept Dwa and Adept Cztery.", source = "M3n747" }
+0260 = { path = "dobra-to-teraz-tylko-nauczyc-sie-czytac.webp", caption = "[Adept Dwa](@/w/adept-dwa.md) with the contract.", source = "M3n747" }
+
 
 
 
