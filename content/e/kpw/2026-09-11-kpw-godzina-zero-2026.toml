@@ -40,16 +40,17 @@
 04020 = { path = "rachu-ciachu-i-po-chodaku.webp", caption = "…cuts through the shoelaces…", source = "M3n747" }
 04030 = { path = "zawsze-moze-za-10-lat-kupic-nowe-sznurowki.webp", caption = "…and leaves his boots behind.", source = "M3n747" }
 
-05010 = { path = ".webp", caption = ".", source = "M3n747" }
-05020 = { path = ".webp", caption = ".", source = "M3n747" }
-05030 = { path = ".webp", caption = ".", source = "M3n747" }
-05040 = { path = ".webp", caption = ".", source = "M3n747" }
-05050 = { path = ".webp", caption = ".", source = "M3n747" }
-05060 = { path = ".webp", caption = ".", source = "M3n747" }
-05070 = { path = ".webp", caption = ".", source = "M3n747" }
-05080 = { path = ".webp", caption = ".", source = "M3n747" }
-05090 = { path = ".webp", caption = ".", source = "M3n747" }
-05100 = { path = ".webp", caption = ".", source = "M3n747" }
+05010 = { path = "chemik-nie-wiadomo-skad.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "M3n747" }
+05020 = { path = "ty-oskar-ja-chemik.webp", caption = "Oskar Haller wants to team up with reluctant Chemik.", source = "M3n747" }
+05030 = { path = "living-on-a-prayer.webp", caption = "Chemik consults with the higher power, leaving [Kinga Miotke](@/w/kinga-miotke.md) somewhat amused ([Sędzia Alan](@/w/sedzia-alan.md), not so much).", source = "M3n747" }
+05040 = { path = "johan-kabaretowicz.webp", caption = "Johan Otto.", source = "M3n747" }
+05050 = { path = "tuse-powrestluj.webp", caption = "[Lukáš Mottl](@/w/lukas-mottl.md).", source = "M3n747" }
+05060 = { path = "dwoch-panow-trzyma-trzeciego-pana.webp", caption = "Johan Otto and [Lukáš Mottl](@/w/lukas-mottl.md) hold Oskar Haller in a Double Delayed Vertical Suplex.", source = "M3n747" }
+05070 = { path = "oddawaj-buta.webp.webp", caption = "Johan Otto keeps Chemik from tagging in [Oskar Haller](@/w/oskar-haller.md).", source = "M3n747" }
+05080 = { path = "niemalze-renesansowa-kompozycja-obrazu.webp", caption = "Johan Otto argues with [Sędzia Alan](@/w/sedzia-alan.md), while [Chemik](@/w/chemik.md) attempts to clobber Lukáš Mottl with his [Legacy of Wrestling](@/o/low.md) contract briefcase…", source = "M3n747" }
+05090 = { path = "ah-miejze-litosc-nad-biednym-mottlkiem.webp", caption = "…but Oskar Haller stops him.", source = "M3n747" }
+05100 = { path = "dobra-teraz-ostroznie-na-schodach.webp", caption = "Lukáš Mottl and Johan Otto gang up on Chemik.", source = "M3n747" }
+
 05110 = { path = ".webp", caption = ".", source = "M3n747" }
 05120 = { path = ".webp", caption = ".", source = "M3n747" }
 05130 = { path = ".webp", caption = ".", source = "M3n747" }
