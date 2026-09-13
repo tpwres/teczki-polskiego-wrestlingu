@@ -34,4 +34,4 @@ has_video = false
 
 ## References
 
-* TBD
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=462215)
