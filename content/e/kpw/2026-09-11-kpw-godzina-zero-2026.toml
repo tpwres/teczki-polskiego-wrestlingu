@@ -50,14 +50,20 @@
 05080 = { path = "niemalze-renesansowa-kompozycja-obrazu.webp", caption = "Johan Otto argues with [Sędzia Alan](@/w/sedzia-alan.md), while [Chemik](@/w/chemik.md) attempts to clobber Lukáš Mottl with his [Legacy of Wrestling](@/o/low.md) contract briefcase…", source = "M3n747" }
 05090 = { path = "ah-miejze-litosc-nad-biednym-mottlkiem.webp", caption = "…but Oskar Haller stops him.", source = "M3n747" }
 05100 = { path = "dobra-teraz-ostroznie-na-schodach.webp", caption = "Lukáš Mottl and Johan Otto gang up on Chemik.", source = "M3n747" }
+05110 = { path = "chemik-dwupasowy.webp", caption = "Chemik tries to claim both Championship belts for himself…", source = "M3n747" }
+05120 = { path = "cos-ci-nie-pasuje-typie.webp", caption = "…but [Oskar Haller](@/w/oskar-haller.md) takes an issue with it…", source = "M3n747" }
+05130 = { path = "no-niech-ci-bedzie-ze-obaj-wygralismy.webp", caption = "…however Sędzia Alan reconciles them.", source = "M3n747" }
 
-05110 = { path = ".webp", caption = ".", source = "M3n747" }
-05120 = { path = ".webp", caption = ".", source = "M3n747" }
-05130 = { path = ".webp", caption = ".", source = "M3n747" }
-05140 = { path = ".webp", caption = ".", source = "M3n747" }
-05150 = { path = ".webp", caption = ".", source = "M3n747" }
+06010 = { path = "cepki-i-buty-w-sam-raz-horror-szol-do-kopania.webp", caption = ".", source = "M3n747" }
+06020 = { path = "chonotu.webp", caption = "Tomczak pulls Leon Lato from under the ring.", source = "M3n747" }
+06030 = { path = "om-no-nom-ale-smaczny-lancuch.webp", caption = "[Tomczak](@/w/tomczak.md) chokes Leon Lato with the steel chain.", source = "M3n747" }
+06040 = { path = "calkiem-spoko-sruba.webp", caption = "Turnbuckle with the padding removed by Tomczak.", source = "M3n747" }
+06050 = { path = "tutaj-powinien-byc-tomczak.webp", caption = "Tomczak's end of the chain wrapped around a rope.", source = "M3n747" }
+06060 = { path = "haj-fajw.webp", caption = "[Tomczak](@/w/tomczak.md) taps out.", source = "M3n747" }
+06070 = { path = "niby-juz-wrzesien-ale-wziaz-lato.webp", caption = "[Leon Lato](@/w/leon-lato.md) wins.", source = "M3n747" }
 
-06010 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
 07010 = { path = ".webp", caption = ".", source = "M3n747" }
 08000 = { path = ".webp", caption = ".", source = "M3n747" }
 09010 = { path = ".webp", caption = ".", source = "M3n747" }
