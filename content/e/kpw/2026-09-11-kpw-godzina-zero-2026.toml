@@ -68,7 +68,14 @@
 07040 = { path = "to-nie-tak-mialo-byc.webp", caption = "[Filip Fux](@/w/filip-fux.md) wins.", source = "M3n747" }
 07050 = { path = "krzeslo.webp", caption = "The steel chair.", source = "M3n747" }
 
-08000 = { path = ".webp", caption = ".", source = "M3n747" }
+08010 = { path = "kolega-to-jakos-fajnie-podsumowal-ale-juz-nie-pamietam-jak.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) inserts himself into the Battle Royal.", source = "M3n747" }
+08020 = { path = "dawno-tego-pana-nie-bylo.webp", caption = "[Rosetti](@/w/rosetti.md) ordered to participate by Chairman Malinowski.", source = "M3n747" }
+08030 = { path = "sopocki-solid-snake.webp", caption = "The right Malinowski in the right place.", source = "M3n747" }
+08040 = { path = "piwo-i-przy-okazji-rosetti.webp", caption = "[Rosetti](@/w/rosetti.md) promptly eliminated from the match.", source = "M3n747" }
+08050 = { path = "tamuj-in-rychlo.webp", caption = "Oskar Haller, pushed out of the ring by [Eryk Lesak](@/w/eryk-lesak.md) into Chemik's hands, tells his partner to throw him back into the fray (he didn't).", source = "M3n747" }
+08060 = { path = "filip-sie-fuksem-utrzymal.webp", caption = "Filip Fux hangs on by a foot.", source = "M3n747" }
+08070 = { path = "michal-zwycieski.webp", caption = "[Michał Fux](@/w/michal-fux.md) wins.", source = "M3n747" }
+
 09010 = { path = ".webp", caption = ".", source = "M3n747" }
 10010 = { path = ".webp", caption = ".", source = "M3n747" }
 11010 = { path = ".webp", caption = ".", source = "M3n747" }
