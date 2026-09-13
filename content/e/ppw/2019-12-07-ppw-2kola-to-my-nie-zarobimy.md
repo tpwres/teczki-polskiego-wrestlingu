@@ -17,9 +17,9 @@ caption = "Official poster, showing a burnt down truck (probably a Mercedes T1) 
 source = "Official PpW Facebook"
 +++
 
-This was likely the first PpW event open for general public, as opposed to friends and insiders that comprised the audiences in the prior years.
+This was PpW's first show to be held in [2KOŁA](@/v/2kola.md) motorcycle pub, which would become their regular venue going forward.
 
-"2 koła" is Polish for "2 wheels", a fitting name for a [motorcycle-themed pub](@/v/2kola.md) in which the event was held. It is also a slang term for "2 thousand" in the context of money - thus the name of the event can be understood as "We Ain't Gonna Make 2GRAND".
+"2 koła" is Polish for "2 wheels" - a fitting name given the pub's theme. It is also a slang term for "2 thousand" in the context of money - thus the name of the event can be understood as "We Ain't Gonna Make 2GRAND".
 
 ## Card
 

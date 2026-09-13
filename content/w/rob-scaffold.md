@@ -13,7 +13,7 @@ Rob Scaffold is a retired Polish wrestler best known for his time in [PpW Ewenem
 
 ## Basic info
 
-* Years active: 2015-2023
+* Years active: 2010-2023
 * Gimmicks/nicknames:
   - Rob Scaffold {{ org_badge(orgs=['ppw', 'dfw']) }}
   - Automatico {{ org_badge(orgs=['ppw']) }}
@@ -22,11 +22,11 @@ Rob Scaffold is a retired Polish wrestler best known for his time in [PpW Ewenem
 
 ## Professional wrestling career
 
-### PpW Ewenement (2015-2023)
+### PpW Ewenement (2010-2023)
 
 #### Backyard era
 
-Rob Scaffold was one of the original wrestlers who joined [PpW Ewenement](@/o/ppw.md) in their backyard era. His first registered appearance took place during [PpW Ropeless](@/e/ppw/2015-05-01-ppw-ropeless.md) in May 2015. During his early years he was known as Rob Hardy - a persona greatly inspired by Jeff Hardy. From October 2015 he made most of his official appearances as Rob Scaffold, but he also performed as a masked persona, Automatico, when he won the PpW Light Heavyweight Championship. He also won the PpW Tag Team Championship while teaming with Black Orion, an alter ego of [Johnny Blade](@/w/johnny-blade.md) - as "2 Chamy" (roughly _2 Jerks_). 
+Rob Scaffold was one of the original wrestlers who founded [PpW Ewenement](@/o/ppw.md) in their backyard era (which he also co-owned for the entirety of his career). His first registered appearance took place during [PpW Neomania](@/e/ppw/2011-07-01-ppw-neomania-i.md) in July 2011. During his early years he used a couple of aliases (mostly masked), including Rob Hardy - a persona greatly inspired by Jeff Hardy. From October 2015 he made most of his official appearances as Rob Scaffold, but he also performed as a masked persona, Automatico, when he won the PpW Light Heavyweight Championship. He also won the PpW Tag Team Championship while teaming with Black Orion, an alter ego of [Johnny Blade](@/w/johnny-blade.md) - as "2 Chamy" (roughly _2 Jerks_). 
 
 #### Professional PpW Era
 

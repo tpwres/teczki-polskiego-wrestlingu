@@ -34,7 +34,7 @@ Johnny Blade, also known under numerous aliases, is a Polish wrestler best known
 
 #### Backyard era
 
-Johnny Blade was one of the founding members of [PpW](@/o/ppw.md) back in 2010/2011, along with his fellow classmates. Since the creation of this backyard group, Johnny was one of the wrestlers who made numerous appearances at early PpW shows. Like his fellow wrestlers, he worked under multiple gimmicks and aliases, often wearing a mask.
+Johnny Blade was one of the founding members of [PpW](@/o/ppw.md) back in 2010/2011, along with [Rob Scaffold](@/w/rob-scaffold.md). Since the creation of this backyard group, Johnny was one of the wrestlers who made numerous appearances at early PpW shows. Like his fellow wrestlers, he worked under multiple gimmicks and aliases, often wearing a mask.
 
 In his early days, his main persona was a masked luchador called Ultimo Combo. It was used from the earliest days of PpW, until about 2016. Occasionally, he also performed under a comedic gimmick of "the worst high-flyer in PpW" Angel Guerrero, as an unmasked authority persona Vins Michael $hot, and "Human" - a short-lived horror gimmick of a mutant.
 From 2016 to 2019 he also worked under his more tag-team oriented gimmick of [Automatico's](@/w/rob-scaffold.md) cousin: Black Orion.
