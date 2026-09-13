@@ -62,9 +62,12 @@
 06060 = { path = "haj-fajw.webp", caption = "[Tomczak](@/w/tomczak.md) taps out.", source = "M3n747" }
 06070 = { path = "niby-juz-wrzesien-ale-wziaz-lato.webp", caption = "[Leon Lato](@/w/leon-lato.md) wins.", source = "M3n747" }
 
+07010 = { path = "ej-ale-fajna-bluza.webp", caption = "[Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
+07020 = { path = "fux-vs-fux.webp", caption = "[Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md) face each other, moments before [Sędzia Alan](@/w/sedzia-alan.md) starts the fight.", source = "M3n747" }
+07030 = { path = "mam-podobne-tylko-wygodniejsze.webp", caption = "[Michał Fux](@/w/michal-fux.md) torn between his righteous desire to smash Filip's head with the steel chair, and the realisation that it would make for an awkward family dinner on Sunday.", source = "M3n747" }
+07040 = { path = "to-nie-tak-mialo-byc.webp", caption = "[Filip Fux](@/w/filip-fux.md) wins.", source = "M3n747" }
+07050 = { path = "krzeslo.webp", caption = "The steel chair.", source = "M3n747" }
 
-
-07010 = { path = ".webp", caption = ".", source = "M3n747" }
 08000 = { path = ".webp", caption = ".", source = "M3n747" }
 09010 = { path = ".webp", caption = ".", source = "M3n747" }
 10010 = { path = ".webp", caption = ".", source = "M3n747" }
