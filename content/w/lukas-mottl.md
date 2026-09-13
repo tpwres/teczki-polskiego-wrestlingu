@@ -31,7 +31,9 @@ Skull Evil made yet another appearance on the Polish wrestling scene when he was
 
 Skull Evil made his debut in [Kombat Pro Wrestling](@/o/kpw.md) at [Pyrkon 2025](@/e/kpw/2025-06-14-kpw-pyrkon-2025.md), where he faced [Zefir](@/w/zefir.md) in a hardcore match. It was the first time Skull Evil wrestled in Poland under his real name, Lukáš Mottl.
 
-At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) [Team Visegrad](@/tt/team-visegrad.md), of which Mottl is a member, won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). Although the match was won by [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md), Lukáš Mottl is also recognised as a full Champion in accordance with the [Freebird Rule](@/a/freebird-rule.md). He defended the title alongside Oliwa at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), in two matches in a row.
+At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) [Team Visegrad](@/tt/team-visegrad.md), of which Mottl is a member, won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md). Although the match was won by [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md), Lukáš Mottl was also recognised as a full Champion in accordance with the [Freebird Rule](@/a/freebird-rule.md). He defended the title alongside Oliwa at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), in two matches in a row.
+
+Team Visegrad - represented by Lukáš Mottl and Johan Otto, due to Oliwa and Sky's injuries - lost their titles to [Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md) at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md).
 
 ## In wrestling
 
@@ -41,7 +43,7 @@ At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) [Team Visegr
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)
 
 ## Internet presence
 

@@ -30,6 +30,10 @@ After parting ways with Prime Time, Arek Paterek joined the new wrestling projec
 
 At the [second show](@/e/low/2025-04-06-low-2.md), in addition to providing commentary, he introduced Legacy's new acting chairman, [Wiktor Longman](@/w/wiktor-longman.md), and also accompanied [Erik Šlotíř](@/w/erik-slotir.md) during his match, as a seemingly villainous manager. After the show Paterek announced the creation of a new stable called ["Biuro Prasowe"](@/tt/biuro-prasowe.md) (_Press Office_), with Erik becoming his first "client".
 
+### Kombat Pro Wrestling (2026)
+
+Arek Paterek appeared at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) as a commentator. Previously he was present at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) as an "ordinary" audience member (although his presence was acknowledged).
+
 ## In wrestling
 
 * Wrestlers managed:

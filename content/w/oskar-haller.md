@@ -29,6 +29,10 @@ Adept Jeden ("Rookie One") made his first appearance at [Godzina Zero 2025](@/e/
 
 Adept Jeden also appeared as Oskar Fux at two side shows, in [Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md) and [Trzebień](@/e/kpw/2025-09-13-kpw-talon-smackdown.md), where he took the place of [Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md) respectively. At [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) Adept Jeden defeated Guido Buriani earning his place in the KPW roster, as well as his proper ring name: Oskar Haller. His first match as a full-time member of KPW took place a month later at [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md), where he faced his nemesis [Tomczak](@/w/tomczak.md), but lost.
 
+#### Tag Team Champion
+
+At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) [Chemik](@/w/chemik.md) was booked to fase [Team Visegrad](@/tt/team-visegrad.md) ([Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), but didn't have a partner. When the time came, he was still by himself and ready for an uneven fight, when Oskar Haller unexpectedly appeared to team up with him. Despite not getting along, the duo won the titles.
+
 ### PpW Ewenemenet Wrestling (2026-)
 
 In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md).
@@ -36,3 +40,8 @@ In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05
 ### Legacy of Wrestling (2026-)
 
 Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), where he faced [Marco Hammers](@/w/marco-hammers.md). He quickly got involved in storyline conflict with Polish wrestling influencer Patryk "Patrykos" Domke, spanning social media and Legacy shows.
+
+## Championships and accomplishments
+
+* [Kombat Pro Wrestling](@/o/kpw.md):
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Chemik](@/w/chemik.md)
