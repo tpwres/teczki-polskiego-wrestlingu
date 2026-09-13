@@ -22,6 +22,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * On 21.08.2026 the previously announced tag teams of Boro & Mutant and [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md) (representing Rodzina) were pitted against one another.
 * On 5.09.2026 Queen vs Crane was changed from a Singles Match to a 30 Minute Iron Man Match, marking the first time the stipulation will be used by a Polish pro federation. (A few Iron Man matches were held in the backyard era: a PpW's [Brutality 2015](@/e/ppw/2015-10-10-ppw-brutality-2015.md) and [Backyard Total War](@/e/ppw/2016-07-18-ppw-backyard-total-war.md), as well as [TWF's](@/o/twf.md) [Day of DOOM!](@/e/twf/2012-06-03-twf-day-of-doom.md).)
 * On 8.09.2026 published a [video][wiekizm] of [Antoni Ocean](@/w/antoni-ocean.md) complaining about PpW being ruled by "old farts" (_stare dziady_), such as [Jakub](@/w/jakub.md) whom he challenged to a fight in order to take his place. The match was officially confirmed the next day.
+* On 13.09.2026 came the announcement of a Triple Threat Match between [Max Speed](@/w/max-speed.md), [Olgierd](@/w/olgierd.md) and [Leon Lato](@/w/leon-lato.md).
 
 ## Predicted card
 
@@ -48,11 +49,10 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
   - s: Tag Team Match
     nc: upcoming
 - - '[Max Speed](@/w/max-speed.md)'
-  - '???'
-  - nc: upcoming
-- - '[Leon Lato](@/w/leon-lato.md)'
-  - '???'
-  - nc: upcoming
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - s: Triple Threat Match
+    nc: upcoming
 - - '[Jakub](@/w/jakub.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - nc: upcoming
