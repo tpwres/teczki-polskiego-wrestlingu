@@ -112,7 +112,7 @@ The [Tag Team Championship](@/c/kpw-tag-team-championship.md) was created in 201
 - - '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
   - '[Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md)'
   - >
-    Defeated [Team Visegrad](@/tt/team-visegrad.md) ([David Oliwa](@/w/david-oliwa.md), [Ricky Sky](@/w/ricky-sky.md)) at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)
+    Defeated [Team Visegrad](@/tt/team-visegrad.md) ([Lukáš Mottl](@/w/lukas-mottl.md), Johan Otto) at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md)
 {% end %}
 
 ## Internet presence
