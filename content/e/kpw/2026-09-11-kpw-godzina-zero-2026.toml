@@ -76,6 +76,16 @@
 08060 = { path = "filip-sie-fuksem-utrzymal.webp", caption = "Filip Fux hangs on by a foot.", source = "M3n747" }
 08070 = { path = "michal-zwycieski.webp", caption = "[Michał Fux](@/w/michal-fux.md) wins.", source = "M3n747" }
 
-09010 = { path = ".webp", caption = ".", source = "M3n747" }
+09010 = { path = "dawaj-grzesiu-ymca.webp", caption = "Devout fans welcome Greg.", source = "M3n747" }
+09020 = { path = "gotowac-15-minut-na-duzym-ogniu.webp", caption = "Zefir's trademark fiery entrance.", source = "M3n747" }
+09030 = { path = "zefir-z-wyrazem-szczescia-na-masce.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "M3n747" }
+09040 = { path = "ladnie-nareesowany-iest.webp", caption = "Iestyn Rees.", source = "M3n747" }
+09050 = { path = "jeden-pan-chce-zadac-przemocy-dwom-innym-panom.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) sets up a Double Chokeslam on Zefir and Greg…", source = "M3n747" }
+09060 = { path = "dwaj-panowie-sa-niechetni-przemocy-co-wyrazaja-przemoca.webp", caption = "…but the Polish wrestlers turn the tables on the Welshman.", source = "M3n747" }
+09070 = { path = "grzesiu-czemu-lezysz-do-gory-nogami.webp", caption = "Greg narrowly avoids Zefir's top-rope attack.", source = "M3n747" }
+09080 = { path = "glowa-do-gory-zefirze.webp", caption = "Greg hits Zefir with a Pedigree.", source = "M3n747" }
+09090 = { path = "one-man-hits-one-of-the-other-two-men-with-an-f5-before-the-fourth-man-counts-the-second-man-to-three.webp", caption = "Iestyn Rees finishes Greg with an F5.", source = "M3n747" }
+09100 = { path = "wygral-i-teraz-bedzie-musial-targac-ten-pas-z-powrotem-na-wyspy.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) wins.", source = "M3n747" }
+
 10010 = { path = ".webp", caption = ".", source = "M3n747" }
 11010 = { path = ".webp", caption = ".", source = "M3n747" }
