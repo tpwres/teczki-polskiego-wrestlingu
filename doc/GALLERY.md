@@ -163,7 +163,7 @@ It is good practice to consider if a photo will be useful on such a page. The re
 For talent who have a lot of photos, this gallery can overwhelm the page. For this situation, the author may create a gallery-only sub-page under `/g/`. The rules are as follows:
 
 1. The file is named identically as the talent's page. For example, when talent page is `/content/w/undertaker.md`, the gallery sub-page must be located at `/content/g/undertaker.md`.
-2. It must use the `talent_gallery.template`
+2. It must use the `talent_gallery.html` template
 3. Its title must clearly indicate it's a photos page, e.g. "Undertaker / Photos" or "Sabu / Photos From Events".
 4. The page should have no content besides the frontmatter - currently there's no provision to display any text.
 
