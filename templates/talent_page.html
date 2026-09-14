@@ -2,7 +2,13 @@
 {%- import "macros/career.html" as macros %}
 
 {% block content %}
-{% set has_gallery = page.extra.gallery is defined %}
+{# See similar logic in auto_lightbox_dialog.html. Here it serves to detect if we should still show a Gallery header in toc #}
+{% set ext_gallery_path = page.relative_path | replace(from="w/", to="g/") %}
+{% set ext_gallery_file = "@/" ~ ext_gallery_path %}
+{% set ext_gallery_exists = load_data(path=ext_gallery_file, required=false) %}
+{% set skip_extra_gallery = page.extra | get(key="skip_event_gallery", default=false) %}
+{% set has_split_gallery = ext_gallery_exists and skip_extra_gallery %}
+{% set has_gallery = (page.extra.gallery is defined) or has_split_gallery %}
 {% if not page.extra.omit_career -%}{% set has_career = true %}{% endif %}
 
 {% include "talent/h1_with_flag.html"%}
@@ -13,7 +19,7 @@
 
 {{ page.content | safe }}
 
-{% set use_extra_gallery = true %}
+{% set use_extra_gallery = not skip_extra_gallery %}
 {% include "shared/auto_lightbox_dialog.html" -%}
 
 {% if has_career -%}

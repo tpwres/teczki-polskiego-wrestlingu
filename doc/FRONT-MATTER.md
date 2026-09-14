@@ -38,6 +38,7 @@ Certain entries are mandatory for all files, and not including them is an error.
    If absent or set to `"auto"`, collapse if the number of matches is above a configurable value.
    Finally if set to `"never"`, show matchlist in full.
 * `extra.fold_crew_appearances`: similar to `extra.fold_matchlist` but for crew appearances
+* `extra.skip_event_gallery`: if present and set to `true`, omit the automatically generated "Photos from Events gallery". Additionally, if a special sub-page under `g/` exists (more on that in GALLERY.md), link to that page after the regular gallery.
 
 ## Team page
 
