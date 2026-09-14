@@ -18,6 +18,7 @@ has_video = false
 
 * The first match-up was revealed on 10.09.2026: a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) #1 Contendership Tag Team Match between [Royal Rebels](@/tt/royal-rebels.md) ([Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)) and Proroctwo ([Sawicki](@/w/sawicki.md) & [Whiteblade](@/w/whiteblade.md)).
 * On 13.09.2026 PTW announced [Kalom](@/w/kalom.md) vs [Fabian](@/w/fabian.md).
+* The next day PTW announced [Misiek](@/w/misiek.md).
 
 ## Predicted card
 
@@ -29,6 +30,9 @@ has_video = false
     nc: upcoming
 - - '[Kalom](@/w/kalom.md)'
   - '[Fabian](@/w/fabian.md)'
+  - nc: upcoming
+- - '[Misiek](@/w/misiek.md)'
+  - '???'
   - nc: upcoming
 {% end %}
 
