@@ -105,7 +105,7 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
 * Leon Lato bled ever so slightly.
 * Filip Fux tried attacking Michał with a steel chair. Michał then turned the tables on his sibling but could not bring himself to brutalise his own brother in such manner. Filip had no such scruples and hit Michał below the belt, promptly following it with Chemik's finishing move _Ostatnie Namaszczenie_, thus winning the fight.
 * [Krystian Malinowski](@/w/krystian-malinowski.md) inserted himself into the Battle Royal, and called for [Rosetti](@/w/rosetti.md) 
-* Eryk Lesak pushed Oskar Haller out of the ring and onto Chemik who caught him mid-aid, thus saving him from elimination. Haller urged his tag team partner to throw him back into the ring, but Chemik just dropped him to the floor.
+* Eryk Lesak pushed Oskar Haller out of the ring and onto Chemik who caught him mid-air, thus saving him from elimination. Haller urged his tag team partner to throw him back into the ring, but Chemik just dropped him to the floor.
 * Battle Royal elimination order:
   1. Rosetti eliminates Krystian Malinowski
   2. Filip Fux eliminates Rosetti
