@@ -22,23 +22,16 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 * On 13.08.2026, [Kalyana's](@/w/kalyana.md) appearance at the show was announced.
 * On 27.08.2026 FRPW announced that Japanese wrestler Akane Fujita will be present at the shows in [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and Warka.
 * On 8.09.2026 FRPW announced [Max Speed](@/w/max-speed.md) will appear at shows in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and Warka.
+* On 14.09.2026 FRPW announced [Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md) vs [Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita.
 
 ## Predicted card
 
 {% card(predicted=true) %}
-- - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
-  - '???'
-  - nc: upcoming
+- - '[Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita'
+  - '[Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md)'
+  - s: Mixed Tag Team Match
+    nc: upcoming
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '???'
-  - nc: upcoming
-- - '[Kalyana](@/w/kalyana.md)'
-  - '???'
-  - nc: upcoming
-- - 'Akane Fujita'
-  - '???'
-  - nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
   - '???'
   - nc: upcoming
 {% end %}
