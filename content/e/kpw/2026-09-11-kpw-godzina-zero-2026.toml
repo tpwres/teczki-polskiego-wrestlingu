@@ -87,5 +87,9 @@
 09090 = { path = "one-man-hits-one-of-the-other-two-men-with-an-f5-before-the-fourth-man-counts-the-second-man-to-three.webp", caption = "Iestyn Rees finishes Greg with an F5.", source = "M3n747" }
 09100 = { path = "wygral-i-teraz-bedzie-musial-targac-ten-pas-z-powrotem-na-wyspy.webp", caption = "[Iestyn Rees](@/w/iestyn-rees.md) wins.", source = "M3n747" }
 
-10010 = { path = ".webp", caption = ".", source = "M3n747" }
-11010 = { path = ".webp", caption = ".", source = "M3n747" }
+10010 = { path = "ej-zobacz-czy-mam-tam-z-tylu-voldemorta.webp", caption = "[Zefir](@/w/zefir.md), slightly embarrassed by his loss, cuts a promo.", source = "M3n747" }
+10020 = { path = "za-10-lat-mlody-zostanie-uczniem-zefira-zobaczycie.webp", caption = "[Zefir](@/w/zefir.md) poses with a young fan.", source = "M3n747" }
+
+11010 = { path = "franz-woyzeck-po-wybuchu-w-farbiarni.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) shares his apocalyptic visions.", source = "M3n747" }
+11020 = { path = "czterej-normalni-i-prezes.webp", caption = "[Leon Lato](@/w/leon-lato.md), [Michał Fux](@/w/michal-fux.md), [Zefir](@/w/zefir.md) and [Oskar Haller](@/w/oskar-haller.md) come to take [Chairman Malinowski](@/w/krystian-malinowski.md) away.", source = "M3n747" }
+11030 = { path = "to-juz-jest-koniec-nie-ma-juz-nic.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) closes the show.", source = "M3n747" }
