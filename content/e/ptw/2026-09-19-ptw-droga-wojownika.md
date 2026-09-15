@@ -20,6 +20,7 @@ has_video = false
 * On 11.09.2026 PTW announced that [Spartan](@/w/spartan.md) will speak.
 * On 13.09.2026 PTW announced [Kalom](@/w/kalom.md) vs [Fabian](@/w/fabian.md).
 * The next day PTW announced [Misiek](@/w/misiek.md).
+* On 15.09.2026 PTW [posted][na-stowe-sie-potem-o-to-pokloca] to Facebook stating that [Miyagi Shida](@/w/miyagi-shida.md) took the liberty of issuing an open challenge for his and [Sigma Boy xD's](@/w/sigma-boy.md) [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 
 ## Predicted card
 
@@ -39,6 +40,11 @@ has_video = false
 - - '[Misiek](@/w/misiek.md)'
   - '???'
   - nc: upcoming
+- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - '??? & ???'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: Open Challenge Tag Team Match
+    nc: upcoming
 {% end %}
 
 ### Highlights
@@ -48,3 +54,5 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=462215)
+
+[na-stowe-sie-potem-o-to-pokloca]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0EgbN9ZPS1H514cVtaHkZSCGuqLMURS6W5yEQyGNTu8KQpsSY4Z2HJttoZUH3bMpjl
