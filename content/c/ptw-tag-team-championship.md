@@ -143,7 +143,7 @@ While Boro never defended the title, he was also recognized as a champion per th
     ed: 2024-02-03
 - - 'Budapest Bastards: Nitro & Renegade(c)'
   - "[Marcelito](@/w/marcelito.md) & [Axel Fox](@/w/jakub.md)"
-  - s: Open Challenge
+  - s: Open Challenge Tag Team Match
     en: '[PTW Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md)'
     ed: 2024-04-13
 - - 'Budapest Bastards: Nitro & Renegade(c)'
@@ -249,4 +249,10 @@ While Boro never defended the title, he was also recognized as a champion per th
   - s: Tag Team Match
     en: '[PTW: Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
     ed: 2026-08-28
+- - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD(c)'
+  - '??? & ???'
+  - s: Open Challenge Tag Team Match
+    en: '[PTW: Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md)'
+    ed: 2026-09-19
+    nc: upcoming
 {% end %}
