@@ -150,6 +150,35 @@ While both versions work, a single .toml file can use one or the other, but not 
 3. Photos related to matches and segments should use the match or segment's number for the first two digits. The first match or segment is therefore `01xx`.
 4. Entries in the front matter or manifest should be sorted by key. The order of the photos is always exactly as listed, no sorting is done before displaying the gallery.
 
+## Automatic galleries on talent pages
+
+Talent pages (located under `content/w/`) will automatically extend any defined gallery with more photos pulled from event pages. To be included in such a page, the photo's `caption` field must contain a link to the talent's page. If a specific photo's caption includes more than one such link, the photo will appear on all linked talent pages.
+
+All such photos are appended after the defined gallery, in a separate section titled "Photos from events", which may be collapsible and start collapsed. Howe
+
+It is good practice to consider if a photo will be useful on such a page. The recommended guideline is whether the talent's face is visible and of enough detail to easily recognize them. When obscured behind someone or scenery, or when the face is not easily recognizable, the description should not link to the talent. It can still mention them by name.
+
+### Gallery sub-pages
+
+For talent who have a lot of photos, this gallery can overwhelm the page. For this situation, the author may create a gallery-only sub-page under `/g/`. The rules are as follows:
+
+1. The file is named identically as the talent's page. For example, when talent page is `/content/w/undertaker.md`, the gallery sub-page must be located at `/content/g/undertaker.md`.
+2. It must use the `talent_gallery.html` template
+3. Its title must clearly indicate it's a photos page, e.g. "Undertaker / Photos" or "Sabu / Photos From Events".
+4. The page should have no content besides the frontmatter - currently there's no provision to display any text.
+
+In addition to creating this page, authors must set the `extra.skip_event_gallery` frontmatter value to `true`.
+
+If all these conditions are satisfied, the following changes on the talent page:
+
+1. Any photos declared in the regular gallery (inline or manifest) remain unchanged
+2. No "Photos from Events" section is created.
+3. Instead, after the regular gallery, a link is added, pointing to the gallery sub-page.
+
+If a talent did not have a gallery or it was empty, then by default the "Gallery" header is omitted, both from page and the table of contents, if any. However, if the `skip_event_gallery` frontmatter value is set, and the sub-page exists, the Gallery header will be present in the document, but only containing the sub-page link.
+
+If the `skip_event_gallery` frontmatter value is set, but the sub-page does not exist, then the automatic gallery is still skipped and regular gallery remains (if present), but no links are added. Finally, if the sub-page exists but the frontmatter value is not set, nothing will change.
+
 ## Automatic thumbnail
 
 Many social media platforms and messaging apps try to show rich previews of links shared through them. This is done by the pages providing specific metadata, which includes a thumbnail.

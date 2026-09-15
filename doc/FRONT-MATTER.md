@@ -38,6 +38,7 @@ Certain entries are mandatory for all files, and not including them is an error.
    If absent or set to `"auto"`, collapse if the number of matches is above a configurable value.
    Finally if set to `"never"`, show matchlist in full.
 * `extra.fold_crew_appearances`: similar to `extra.fold_matchlist` but for crew appearances
+* `extra.skip_event_gallery`: if present and set to `true`, omit the automatically generated "Photos from Events gallery". Additionally, if a special sub-page under `g/` exists (more on that in GALLERY.md), link to that page after the regular gallery. That special page is a "Talent gallery page", and its required front matter is described below.
 
 ## Team page
 
@@ -65,3 +66,8 @@ Certain entries are mandatory for all files, and not including them is an error.
 
 * `template`: usually `article.html`, but can make use of other templates, especially `event_page.html`
 * `date`: only relevant for articles using the event template. Required if the article is part of a chronology but the event's date is not included in the filename (as done for events). In this case, must specify a valid date, e.g. `date = "2026-03-11"`.
+
+## Talent gallery page
+
+* `template`: must be `team_page.html`
+* `title` must include talent name, and text indicating it's a photo page only, e.g. `"Talent Name / Photos"` or similar
