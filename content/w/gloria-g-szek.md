@@ -46,7 +46,7 @@ On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03
 #### Gloria G Szek
 
 Beginning with [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) she would adopt a new ring name, Gloria G Szek, moving into a full-time wrestler role.
-At [PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md), Gloria defeated [Agentka Agatka](@/w/agentka-agatka.md) and [Kalyana](@/w/kalyana.md) in a thre-way match.
+At [PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md), Gloria defeated [Agentka Agatka](@/w/agentka-agatka.md) and [Kalyana](@/w/kalyana.md) in a three-way match.
 
 ### FRPW (2026-)
 
