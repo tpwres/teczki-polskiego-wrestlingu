@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Gloria G Szek is a Polish female wrestler, part-time referee and a co-founder of [Istota Wrestlingu][istota] YouTube channel.
+Gloria G Szek is a Polish wrestler, part-time referee and a co-founder of [Istota Wrestlingu][istota] YouTube channel.
 
 ## Basic info
 * Years active: 2026-
@@ -45,13 +45,12 @@ On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03
 
 #### Gloria G Szek
 
-Beginning with [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) she would adopt a new ring name, Gloria G Szek, moving into full-time wrestler role.
+Beginning with [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) she would adopt a new ring name, Gloria G Szek, moving into a full-time wrestler role.
 At [PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md), Gloria defeated [Agentka Agatka](@/w/agentka-agatka.md) and [Kalyana](@/w/kalyana.md) in a thre-way match.
 
 ### FRPW (2026-)
 
-Gloria made her first FRPW appearance at promotion's [first fully independent show](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), teaming with [Goblin](@/w/goblin.md) against [Agentka Agatka](@/w/agentka-agatka.md) and [Gabriel Queen](@/w/gabriel-queen.md), in a losing effort.
-She was announced for a variety of matches at FRPW's Autumn tour.
+Gloria made her first FRPW appearance at the promotion's [first fully independent show](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), teaming up with [Goblin](@/w/goblin.md) against [Agentka Agatka](@/w/agentka-agatka.md) and [Gabriel Queen](@/w/gabriel-queen.md), in a losing effort. Later that year she was announced for a variety of matches at [FRPW's Autumn tour](@/e/frpw-wrestling-w-twoim-miescie.md).
 
 ## In wrestling
 
