@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Gloria G Szek is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [PpW's](@/o/ppw.md) Director of Staff, a trainee of [Ewenement Dojo](@/o/dojo.md) and the wife of [Istociarz](@/w/istociarz.md). In addition to in-ring work as a wrestler, she made a couple of appearances as a referee.
+Gloria G Szek is a Polish female wrestler, part-time referee and a co-founder of [Istota Wrestlingu][istota] YouTube channel.
 
 ## Basic info
 * Years active: 2026-
@@ -27,7 +27,7 @@ Gloria G Szek is a Polish YouTuber from [Istota Wrestlingu][istota] podcast, [Pp
 
 ### Internet personality: Istota Wrestlingu (2023-)
 
-In 2023, Martyna and her husband [Istociarz](@/w/istociarz.md) started a YouTube channel called Istota Wrestlingu (roughly _The Essence of Wrestling_) where they talked about the recent shows by various Polish promotions. As the channel grew, they started inviting wrestlers and other personalities from the Polish wrestling scene for interviews. At the same time they moved away from the pre-recorded format in favour of live streams, at which point they started wearing their trademark cat-like lucha libre masks.
+In 2023, Martyna and her husband [Istociarz](@/w/istociarz.md) started a YouTube channel called Istota Wrestlingu (roughly _The Essence of Wrestling_) where they talked about the recent shows by various Polish promotions. As the channel grew, they started inviting wrestlers and other personalities from the Polish wrestling scene for interviews. At the same time they moved away from the pre-recorded format in favour of live streams, at which point they started wearing their trademark cat-like lucha libre masks. As Martyna's presence in [PpW](@/o/ppw.md) has grown, her appearances became limited, with Istociarz taking over most of the content.
 
 ### PpW Ewenement Wrestling (2024-)
 
@@ -41,7 +41,17 @@ On 14th February 2026 it was announced that Istotna Martynka would make a one-of
 
 At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka made her first in-ring appearance in PpW's main programming, unexpectedly joining the 25 Typa 25 Broni Rumble Match, in a losing effort.
 
-On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). Beginning with [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) she would adopt a new ring name, Gloria G Szek.
+On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against Agentka Agatka. This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). 
+
+#### Gloria G Szek
+
+Beginning with [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) she would adopt a new ring name, Gloria G Szek, moving into full-time wrestler role.
+At [PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md), Gloria defeated [Agentka Agatka](@/w/agentka-agatka.md) and [Kalyana](@/w/kalyana.md) in a thre-way match.
+
+### FRPW (2026-)
+
+Gloria made her first FRPW appearance at promotion's [first fully independent show](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), teaming with [Goblin](@/w/goblin.md) against [Agentka Agatka](@/w/agentka-agatka.md) and [Gabriel Queen](@/w/gabriel-queen.md), in a losing effort.
+She was announced for a variety of matches at FRPW's Autumn tour.
 
 ## In wrestling
 
@@ -59,9 +69,13 @@ On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03
 
 ## Internet presence
 
+As Gloria:
+* [Gloria's official Instagram](https://www.instagram.com/gloria_g_szek/)
+
+Istota Wrestlingu:
 * [IstotaWrestlingu][istota] on YouTube
 * [istotawrestlingu](https://www.instagram.com/istotawrestlingu/) on Instagram
-* [Official Facebook profile](https://www.facebook.com/profile.php?id=61565897124134)
+* [Istota's Official Facebook profile](https://www.facebook.com/profile.php?id=61565897124134)
 
 ## References
 
