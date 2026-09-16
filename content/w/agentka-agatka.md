@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Agentka Agatka is a Polish female manager and wrestler best known for her time in [PpW Ewenement](@/o/ppw.md).
+Agentka Agatka is a Polish manager and wrestler best known for her time in [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
