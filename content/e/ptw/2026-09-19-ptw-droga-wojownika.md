@@ -21,6 +21,7 @@ has_video = false
 * On 13.09.2026 PTW announced [Kalom](@/w/kalom.md) vs [Fabian](@/w/fabian.md).
 * The next day PTW announced [Misiek](@/w/misiek.md).
 * On 15.09.2026 PTW [posted][na-stowe-sie-potem-o-to-pokloca] to Facebook stating that [Miyagi Shida](@/w/miyagi-shida.md) took the liberty of issuing an open challenge for his and [Sigma Boy xD's](@/w/sigma-boy.md) [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
+* The next match to be made public was [Daniel Razor](@/w/daniel-razor.md) vs Pierre.
 
 ## Predicted card
 
@@ -45,6 +46,10 @@ has_video = false
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Open Challenge Tag Team Match
     nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - 'Pierre'
+  - nc: upcoming
+
 {% end %}
 
 ### Highlights
