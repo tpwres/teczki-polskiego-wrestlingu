@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 [extra.gallery]
 1 = { path = "johnny-blade.jpg", caption = "Promo shot of Johnny Blade.", source = "Johnny Blade's official Facebook" }
-2 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade.", source = "teatr_horzycy @ Instagram" }
+2 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade.", source = "teatr_horzycy @ Instagram", skip_art = true }
 +++
 
 Johnny Blade, also known under numerous aliases, is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md). He also made a few appearances in [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
