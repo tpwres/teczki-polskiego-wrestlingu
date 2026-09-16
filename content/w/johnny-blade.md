@@ -1,14 +1,14 @@
 +++
 title = "Johnny Blade"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
 1 = { path = "johnny-blade.jpg", caption = "Promo shot of Johnny Blade.", source = "Johnny Blade's official Facebook" }
-2 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade", source = "[Teatr Horzycy Instagram profile](https://www.instagram.com/teatr_horzycy/)" }
+2 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade.", source = "teatr_horzycy @ Instagram" }
 +++
 
 Johnny Blade, also known under numerous aliases, is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md). He also made a few appearances in [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
@@ -98,7 +98,7 @@ On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursi
 
 ## Other media
 
-On 15th September 2026, Teatr Horzycy in Toruń [announced](https://www.instagram.com/p/DdTt5i4HDac/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) that [Biesiad Strong](@/w/biesiad.md) and Johnny Blade, announced under their ring names, would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus. They were also credited for "wrestling" part of the show.
+On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest-pytanie] that [Biesiad](@/w/biesiad.md) and Johnny Blade - billed for the "wrestling" part of the production, under their ring names - would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus.
 
 ## In wrestling
 
@@ -146,3 +146,4 @@ On 15th September 2026, Teatr Horzycy in Toruń [announced](https://www.instagra
 [teraz]: @/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md
 [prosta]: @/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
 [ll5]: @/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md
+[oto-jest-pytanie]: https://www.instagram.com/p/DdTt5i4HDac

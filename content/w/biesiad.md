@@ -1,7 +1,7 @@
 +++
 title = "Biesiad Strong"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -9,7 +9,7 @@ country = ["PL"]
 [extra.gallery]
 1 = { path = "biesiad.jpg", caption = "Biesiad with [Sędzia Kornel](@/w/sedzia-kornel.md) at [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 2 = { path = "biesiadzik-stong.jpg", caption = "Young Steven Strong in the ring at [Crossing Roads 2015](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md).", source = "Official PpW YouTube." }
-3 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade", source = "[Teatr Horzycy Instagram profile](https://www.instagram.com/teatr_horzycy/)" }
+3 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade.", source = "teatr_horzycy @ Instagram" }
 +++
 
 Biesiad Strong, also known under numerous aliases, is a Polish wrestler best known for his appearances for [PpW Ewenement](@/o/ppw.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Legacy of Wrestling](@/o/low.md).
@@ -106,7 +106,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 
 ## Other media
 
-On 15th September 2026, Teatr Horzycy in Toruń [announced](https://www.instagram.com/p/DdTt5i4HDac/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) that Biesiad and [Johnny Blade](@/w/johnny-blade.md), announced under their ring names, would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus. They were also credited for "wrestling" part of the show.
+On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][wrestlowac-albo-nie-wrestlowac] that Biesiad and [Johnny Blade](@/w/johnny-blade.md) - billed for the "wrestling" part of the production, under their ring names - would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus.
 
 ## In wrestling
 
@@ -153,3 +153,5 @@ On 15th September 2026, Teatr Horzycy in Toruń [announced](https://www.instagra
 ## Internet presence
 
 * [Biesiad's Instagram](https://www.instagram.com/biesiad_strong)
+
+[wrestlowac-albo-nie-wrestlowac]: https://www.instagram.com/p/DdTt5i4HDac
