@@ -8,6 +8,7 @@ toclevel = 2
 country = ["PL"]
 [extra.gallery]
 1 = { path = "johnny-blade.jpg", caption = "Promo shot of Johnny Blade.", source = "Johnny Blade's official Facebook" }
+2 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade", source = "[Teatr Horzycy Instagram profile](https://www.instagram.com/teatr_horzycy/)" }
 +++
 
 Johnny Blade, also known under numerous aliases, is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md). He also made a few appearances in [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
@@ -94,6 +95,10 @@ In October 2024 Johnny made his debut in [Maniac Zone Wrestling](@/o/mzw.md), wh
 ## International wrestling appearances
 
 On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursion to Japan during their show [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Abdullah Kobayashi in a match for the vacated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). 
+
+## Other media
+
+On 15th September 2026, Teatr Horzycy in Toruń [announced](https://www.instagram.com/p/DdTt5i4HDac/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) that [Biesiad Strong](@/w/biesiad.md) and Johnny Blade, announced under their ring names, would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus. They were also credited for "wrestling" part of the show.
 
 ## In wrestling
 
