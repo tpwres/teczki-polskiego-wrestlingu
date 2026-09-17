@@ -63,7 +63,7 @@ There were two new foreign guests on this event: French female wrestler Amale, w
 ### Highlights
 
 * At the beginning, PTW revealed the new Tag Team Championship belts, to mixed reactions.
-* [Marco Hammers](@/w/marco-hammers.md) intervened on [Olgierd](@/w/olgierd.md)'s behalf, helping him secure the win. They formed a tag team, and declared their wish to challenge for the PTW Tag Team Championship.
+* [Marco Hammers](@/w/marco-hammers.md) intervened on [Olgierd's](@/w/olgierd.md) behalf, helping him secure the win. They formed a tag team, and declared their wish to challenge for the PTW Tag Team Championship.
 * After [Krampus](@/w/krampus.md)' match, [Nano Lopez](@/w/nano-lopez.md) appeared and challenged him.
 * Karol "[Iskra](@/w/iskra.md)" Górski entered the break, in his hands a petition for Pawłowski to give him a match. This petition is rejected, and Iskra must watch the next match from ringside.
 * [Rafi](@/w/rafi.md) Rarytas is carried out on a stretcher. Longman cut a promo discussing the match results. Called out [Syriusz Dziedzic](@/w/dziedzic.md) to the ring, and after a brief exchange of words, laid him out with At Your Service. [Dziedzic](@/w/dziedzic.md) recovered, pushed away Pawłowski, grabbed a microphone and called out to [Sinister](@/w/sinister.md).
