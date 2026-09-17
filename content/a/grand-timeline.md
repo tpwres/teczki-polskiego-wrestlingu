@@ -177,7 +177,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * PTW drops the "Underground" name from their shows starting with [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) in January. Two new titles are announced: [PTW Underground Championship](@/c/ptw-underground-championship.md), commemorating the Underground series, and [PTW Women's Championship](@/c/ptw-womens-championship.md).
 * [PpW Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) sells out all 800 tickets (and likely a little more than that), making it the biggest PpW show to date, and one of the biggest shows in the history of the Polish scene.
 * PpW announce the first women's match in the history of their promotion, set to take place at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md).
-* Bartosz Mateńko's photo of Johnny Blade vs Isnorr from the main event of [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) wins second prize in [Grand Press Photo](https://grandpressphoto.pl/laureaci-2025/), in the Sports category. 
+* Bartosz Mateńko's photo of Johnny Blade vs Isnorr from the main event of [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) wins second prize in [Grand Press Photo](https://grandpressphoto.pl/laureaci-2025/), in the Sports category.
 * [Legacy of Wrestling](@/o/low.md) hold their [third show](@/e/low/2025-07-11-low-3.md) at Ryucon, which hosted PTW shows for the past three years.
 * [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 * PpW introduce the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
@@ -193,6 +193,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) is established.
 * [Olgierd](@/w/olgierd.md) is booked for a match at [KPW Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), which marks two significant milestones: it makes him the first active wrestler from another promotion to work for [KPW](@/o/kpw.md), and the first Polish wrestler to have worked for all active federations in the country as of 2026 ([PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md)).
 * [Center of Wrestling](@/o/cow.md) is established.
+* Arkadiusz Pawłowski exits [Prime Time Wrestling](@/o/ptw.md), [Łukasz Okoński](@/w/lukasz-okonski.md) becomes the sole owner of PTW.
 
 #### 2027
 
