@@ -1,4 +1,7 @@
 01 = { path = "droga-wojownika-plakat.webp", caption = "Official poster, featuring too many people to list.", source = "Official PTW Facebook" }
 02 = { path = "rebele-vs-proroki.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) vs [Sawicki](@/w/sawicki.md) & [Whiteblade](@/w/whiteblade.md).", source = "Official PTW Facebook" }
-03 = { path = "kalom-vs-fabian.webp", caption = "Image announcing [Kalom](@/w/kalom.md) vs [Fabian](@/w/fabian.md).", source = "Official PTW Facebook" }
-04 = { path = "misiek.webp", caption = "Image announcing [Misiek](@/w/misiek.md).", source = "Official PTW Facebook" }
+03 = { path = "spartan.webp", caption = "Image announcing [Spartan](@/w/spartan.md).", source = "Official PTW Facebook" }
+04 = { path = "kalom-vs-fabian.webp", caption = "Image announcing [Kalom](@/w/kalom.md) vs [Fabian](@/w/fabian.md).", source = "Official PTW Facebook" }
+05 = { path = "misiek.webp", caption = "Image announcing [Misiek](@/w/misiek.md).", source = "Official PTW Facebook" }
+06 = { path = "miyagi-sigma.webp", caption = "Image announcing [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md).", source = "Official PTW Facebook" }
+07 = { path = "daniel-razor-vs-pierre.webp", caption = "Image announcing [Daniel Razor](@/w/daniel-razor.md) vs Pierre.", source = "Official PTW Facebook" }

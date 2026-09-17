@@ -1,7 +1,7 @@
 +++
 title = "Biesiad Strong"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 [extra]
 toclevel = 2
 skip_event_gallery = true
@@ -10,6 +10,7 @@ country = ["PL"]
 [extra.gallery]
 1 = { path = "biesiad.jpg", caption = "Biesiad with [Sędzia Kornel](@/w/sedzia-kornel.md) at [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 2 = { path = "biesiadzik-stong.jpg", caption = "Young Steven Strong in the ring at [Crossing Roads 2015](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md).", source = "Official PpW YouTube." }
+3 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade.", source = "teatr_horzycy @ Instagram" }
 +++
 
 Biesiad Strong, also known under numerous aliases, is a Polish wrestler best known for his appearances for [PpW Ewenement](@/o/ppw.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Legacy of Wrestling](@/o/low.md).
@@ -102,7 +103,11 @@ In 2023 Biesiad made his debut for [Maniac Zone Wrestling](@/o/mzw.md) at their 
 
 In December 2024 Biesiad took part in [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md), where he defeated Olgierd in a PpW Rules Match.
 
-Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), as he was granted a temporary pass by the PM Shooter mercenaries, who guarded him during his appearance. He fought in a Fatal Five Way Match against [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md), [Shadow](@/w/shadow.md) and [Erik Šlotíř](@/w/erik-slotir.md). He was prevented from winning as his pass expired during the bout, and he was yet again apprehended by the mercenaries.
+Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), as he was granted a temporary pass by the PM Shooter mercenaries, who guarded him during his appearance. He fought in a Fatal Five Way Match against [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md), [Shadow](@/w/shadow.md) and [Erik Šlotíř](@/w/erik-slotir.md). He was prevented from winning as his pass seemingly expired during the bout, and he was yet again apprehended by the mercenaries.
+
+## Other media
+
+On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][wrestlowac-albo-nie-wrestlowac] that Biesiad and [Johnny Blade](@/w/johnny-blade.md) - billed for the "wrestling" part of the production, under their ring names - would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus.
 
 ## In wrestling
 
@@ -149,3 +154,5 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 ## Internet presence
 
 * [Biesiad's Instagram](https://www.instagram.com/biesiad_strong)
+
+[wrestlowac-albo-nie-wrestlowac]: https://www.instagram.com/p/DdTt5i4HDac

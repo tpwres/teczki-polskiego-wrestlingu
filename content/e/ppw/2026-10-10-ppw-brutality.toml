@@ -1,4 +1,6 @@
-001 = { path = "ppw-brutality-plakat.webp", caption = 'Official poster, featuring Mutant.', source = "Official PpW Instagram" }
-002 = { path = "irie-san.webp", caption = 'Image announcing [Shigehiro Irie](@/w/shigehiro-irie.md).', source = "Official PpW Facebook" }
-003 = { path = "robehiro.webp", caption = 'Image announcing [Robert Star](@/w/robert-star.md) vs [Shigehiro Irie](@/w/shigehiro-irie.md).', source = "Official PpW Facebook" }
-004 = { path = "tapczany-lezaki-cedzaki.webp", caption = 'Image announcing the TLC Match.', source = "Official PpW Facebook" }
+001 = { path = "ppw-brutality-plakat.webp", caption = 'Official poster, featuring [Gabriel Queen](@/w/gabriel-queen.md) and [Olgierd](@/w/olgierd.md).', source = "Official PpW Instagram" }
+002 = { path = "ppw-brutality-zapowiedz.webp", caption = 'Announcement image, featuring Mutant.', source = "Official PpW Instagram" }
+003 = { path = "irie-san.webp", caption = 'Image announcing [Shigehiro Irie](@/w/shigehiro-irie.md).', source = "Official PpW Facebook" }
+004 = { path = "robehiro.webp", caption = 'Image announcing [Robert Star](@/w/robert-star.md) vs [Shigehiro Irie](@/w/shigehiro-irie.md).', source = "Official PpW Facebook" }
+005 = { path = "tapczany-lezaki-cedzaki.webp", caption = 'Image announcing the TLC Match.', source = "Official PpW Facebook" }
+006 = { path = "pugna-regia-reginae-hedvigis.webp", caption = "Image announcing Queen Jadwiga's Battle Royal, featuring Gloria G Szek.", source = "Official PpW Facebook" }

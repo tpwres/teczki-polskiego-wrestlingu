@@ -1,6 +1,6 @@
 [01]
 path = "rafi-exit-insta.jpg"
-caption = "Screenshot of [Rafi](@/w/rafi.md)'s goodbye post. His instagram profile is currently (June 2024) set to private."
+caption = "Screenshot of [Rafi's](@/w/rafi.md) goodbye post. His instagram profile is currently (June 2024) set to private."
 source = "Instagram @rafirarytaswrestling"
 skip_art = true
 
@@ -16,7 +16,7 @@ skip_art = true
 
 [04]
 path = "dziedzic-goodbye.jpg"
-caption = "[Dziedzic](@/w/dziedzic.md)'s farewell post on Instagram."
+caption = "[Dziedzic's](@/w/dziedzic.md) farewell post on Instagram."
 source = "Instagram @dziedzicwrestling"
 
 [05]
@@ -64,7 +64,7 @@ skip_art = true
 
 [13]
 path = "sewi-exit.jpg"
-caption = "[Ref Seweryn](@/w/sedzia-seweryn.md)'s farewell story on Instagram."
+caption = "[Ref Seweryn's](@/w/sedzia-seweryn.md) farewell story on Instagram."
 source = "Instagram @sewi_the_ref"
 
 [14]

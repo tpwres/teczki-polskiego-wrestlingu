@@ -37,7 +37,7 @@ On 9.09.2024 LOW held a [live Q&A][live-qa-1] on YouTube hosted by [Piotr "ShowO
 * Unlike other Polish promotions thus far, Legacy is not going to have their own wrestling school, focusing on organising events instead.
 * LOW might have their own championship titles; that remains to be seen.
 * Legacy may put together a show in 2024; more information should be available soon, including the time, place and perhaps even tickets.
-* The enigmatic "Mister Chairman" is someone who's been following Polish wrestling from the back seat and now wants to do something his own way. He is neither ["Pan" Pawłowski](@/w/pan-pawlowski.md) nor [PTW](@/o/ptw.md)'s co-founder, Rzeźnik.
+* The enigmatic "Mister Chairman" is someone who's been following Polish wrestling from the back seat and now wants to do something his own way. He is neither ["Pan" Pawłowski](@/w/pan-pawlowski.md) nor [PTW's](@/o/ptw.md) co-founder, Rzeźnik.
 * Legacy won't have their own roster of home-grown talent. Instead, they're aiming to be an indie federation, offering wrestlers from other promotions a place to work and gain experience and exposure.
 * They want to cooperate relatively regularly with a core group of people allowing them to build storylines, while inviting other wrestlers from Poland and perhaps even from abroad (though from nearby rather than from far away).
 * Legacy talked to nearly every Polish promotion and hope to have talked to all of them before the [first show](@/e/low/2024-12-01-low-1.md).

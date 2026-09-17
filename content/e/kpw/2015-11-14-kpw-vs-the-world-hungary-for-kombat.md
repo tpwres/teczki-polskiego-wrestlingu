@@ -12,7 +12,7 @@ has_video = true
 [extra.gallery]
 +++
 
-KPW vs the World was the first event held by the newly created KPW, on November 14, 2015, in the gymnastics hall of Gimnazjum 8 in Gdańsk. This was the same venue that hosted [DDW](@/o/ddw.md)'s [final event](@/e/ddw/2015-05-02-ddw-house-show-2.md). The show's poster also advertised showcases of judo and capoeira to accompany wrestling.
+KPW vs the World was the first event held by the newly created KPW, on November 14, 2015, in the gymnastics hall of Gimnazjum 8 in Gdańsk. This was the same venue that hosted [DDW's](@/o/ddw.md) [final event](@/e/ddw/2015-05-02-ddw-house-show-2.md). The show's poster also advertised showcases of judo and capoeira to accompany wrestling.
 
 Most matches were between one wrestler from KPW and one from HCW, a Hungarian wrestling promotion that DDW used to cooperate with. This cooperation continued in the following years, and in particular [Ron Corvus](@/w/ron-corvus.md) would become a familiar face in KPW. The Nations Cup concept at this event had each country score one point for a victory across five matches, so that a tie was not possible.
 

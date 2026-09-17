@@ -1,7 +1,7 @@
 +++
 title = "Johnny Blade"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 [extra]
 toclevel = 2
 skip_event_gallery = true
@@ -9,6 +9,7 @@ skip_event_gallery = true
 country = ["PL"]
 [extra.gallery]
 1 = { path = "johnny-blade.jpg", caption = "Promo shot of Johnny Blade.", source = "Johnny Blade's official Facebook" }
+2 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade.", source = "teatr_horzycy @ Instagram", skip_art = true }
 +++
 
 Johnny Blade, also known under numerous aliases, is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md). He also made a few appearances in [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
@@ -96,6 +97,10 @@ In October 2024 Johnny made his debut in [Maniac Zone Wrestling](@/o/mzw.md), wh
 
 On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursion to Japan during their show [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Abdullah Kobayashi in a match for the vacated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). 
 
+## Other media
+
+On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest-pytanie] that [Biesiad](@/w/biesiad.md) and Johnny Blade - billed for the "wrestling" part of the production, under their ring names - would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus.
+
 ## In wrestling
 
 * Finishers:
@@ -142,3 +147,4 @@ On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursi
 [teraz]: @/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md
 [prosta]: @/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
 [ll5]: @/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md
+[oto-jest-pytanie]: https://www.instagram.com/p/DdTt5i4HDac

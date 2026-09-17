@@ -12,7 +12,7 @@ has_video = true
 [extra.gallery]
 +++
 
-Blackout was [PTW](@/o/ptw.md)'s second major event, and fourth event overall. It was held on Sunday, February 19th 2022, in a multipurpose sports hall in Chorzów. This was the same venue that held their first ever show [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
+Blackout was [PTW's](@/o/ptw.md) second major event, and fourth event overall. It was held on Sunday, February 19th 2022, in a multipurpose sports hall in Chorzów. This was the same venue that held their first ever show [Revolucja](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
 
 For this event, PTW invited several guests from the independent European and American scenes:
 
