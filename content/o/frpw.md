@@ -1,6 +1,6 @@
 +++
 title = "Fundacja Rozwoju Polskiego Wrestlingu"
-weight = 1
+weight = 0
 template = "org_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]

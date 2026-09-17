@@ -9,6 +9,7 @@
 @color,ptw,!black
 @color,low,#b24c4c
 @color,frpw,#4747C2
+@color,cow,#7e69ac
 @option,rotate_xticks,on
 @option,legend,off
 @option,major_ticks,2y
@@ -29,6 +30,7 @@
 [o/Prime Time Wrestling],ptw,2021-10,-
 [o/Legacy of Wrestling],low,2024-08,-
 [o/Fundacja Rozwoju Polskiego Wrestlingu],frpw,2026-05,-
+[o/Center of Wrestling],cow,2026-07,-
 [o/Backyard Wrestling Division],backyard,2003-02,2004-06
 [o/Pomerania Indy Wrestling Group],backyard,2005-04,2009-01
 Polish Wrestling Underground,backyard,2006-01,2009-01
