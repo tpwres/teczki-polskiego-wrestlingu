@@ -60,7 +60,7 @@ Prince Victor's first return to backyard scene was short-lived, as in mid-2016 h
 
 #### Second return to backyard (2017)
 
-In September 2017 Prince Victor made his return and therefore his official debut at an open DFW event. In total he made three appearances in Dream Factory Wrestling along with winning his third and final match at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). It was a match for #1 Contender for [DFW Championship](@/c/dfw-championship.md), but due to [Revage](@/w/rafael-kid.md)'s departure from DFW and overall hiatus of the federation the next year, this plan was scrapped.
+In September 2017 Prince Victor made his return and therefore his official debut at an open DFW event. In total he made three appearances in Dream Factory Wrestling along with winning his third and final match at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). It was a match for #1 Contender for [DFW Championship](@/c/dfw-championship.md), but due to [Revage's](@/w/rafael-kid.md) departure from DFW and overall hiatus of the federation the next year, this plan was scrapped.
 
 ### Hiatus and sporadic appearances (2017-2020)
 

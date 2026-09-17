@@ -28,7 +28,7 @@ Marcelito is a Polish wrestler best known for his time in [Prime Time Wrestling]
 
 Marcelito started his training in PTW Academy in early 2021 while the federation was still preparing to reveal themselves to the public. Alongside [Taras](@/w/taras.md), [Puncher](@/w/puncher.md) and a few others, he was one of the first alumni of the Silesia-based pro-wrestling school.
 
-Marcelito made his debut at [Prime Time Wrestling](@/o/ptw.md)'s first show, [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), as enhancement talent.
+Marcelito made his debut at [Prime Time Wrestling's](@/o/ptw.md) first show, [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), as enhancement talent.
 He wrestled under his real-life name against [Taxi Złotówa](@/w/taxi-zlotowa.md) - a microinfluencer and freakfighter, recruited by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 His last name - Budzianowski - was a part of the storyline conflict between Pawłowski and the heelish Złotówa, as the PTW promoter supposedly promised Złotówa a match against the accomplished MMA Fighter and Strongman [Mariusz Pudzianowski][pudzian], whose last name sounds very similar to "Budzianowski". Marcelito lost his match in a couple of seconds.
 

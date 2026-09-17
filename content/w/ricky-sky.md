@@ -28,7 +28,7 @@ Ricky Sky made a one-off appearance at the [PpW Ewenement](@/o/ppw.md) show [Bra
 
 ### Kombat Pro Wrestling (2021-2022)
 
-After his brief stint in PpW, Ricky Sky made a few appearances in [Kombat Pro Wrestling](@/o/kpw.md), where he fought the total of four matches at three shows. Most likely it was possible due to Ricky Sky and [David Oliwa](@/w/david-oliwa.md)'s partnership as [Team Visegrad](@/tt/team-visegrad.md) at the European independent scene. He made appearances at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md), [KPW @ Pyrkon 2022](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md) and finally at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md).
+After his brief stint in PpW, Ricky Sky made a few appearances in [Kombat Pro Wrestling](@/o/kpw.md), where he fought the total of four matches at three shows. Most likely it was possible due to Ricky Sky and [David Oliwa's](@/w/david-oliwa.md) partnership as [Team Visegrad](@/tt/team-visegrad.md) at the European independent scene. He made appearances at [Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md), [KPW @ Pyrkon 2022](@/e/kpw/2022-06-18-kpw-pyrkon-2022.md) and finally at [Godzina Zero 2022](@/e/kpw/2022-09-17-kpw-godzina-zero-2022.md).
 
 #### Tag Team Championship (2025-2026)
 

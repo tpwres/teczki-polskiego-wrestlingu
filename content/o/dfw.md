@@ -42,7 +42,7 @@ However, later in the year, two important characters left to subsequently appear
 
 Despite the suspension, there were two small events held in 2018. One was a gauntlet match for the vacant [DFW Championship](@/c/dfw-championship.md), and the other, with only two matches, was a sideshow to a community festival.
 
-On April 1st, 2019, the fanpage teased a comeback show, which would feature a tournament for a new Poland-wide championship, split across three cities: Toruń, Gdynia ([KPW](@/o/kpw.md)'s territory) and Wrocław ([MZW's](@/o/mzw.md)), a reference to their own [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) which was split over two events in two months.
+On April 1st, 2019, the fanpage teased a comeback show, which would feature a tournament for a new Poland-wide championship, split across three cities: Toruń, Gdynia ([KPW's](@/o/kpw.md) territory) and Wrocław ([MZW's](@/o/mzw.md)), a reference to their own [Tournament of Dreams](@/e/dfw/2016-06-11-dfw-tournament-of-dreams-1.md) which was split over two events in two months.
 The finale would be contested as a three-way match and a tournament ladder graphic was later posted.
 The event was to also feature a rematch between Hunter and Norris for the DFW belt, and Direk against Seagal for the FOW belt.
 This was obviously an April Fools joke, which did bring some activity back to the page. A later post explained that, and invited fans to follow some of the talent on-line in non-wrestling activities.

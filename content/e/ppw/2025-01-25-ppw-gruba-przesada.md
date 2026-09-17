@@ -30,7 +30,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
   * _Gothic CD-Disk Hellscape Match_ - inspired by the _Gothic_ game series, with CDs introduced as weapons.
 * Eventually, "Donky Kong Weaponmaster Match" won the vote. In this type of match, a Donky Kong mascot will deliver the weapons at set moments of the match.
   PpW made it clear that despite an uncanny likeness in the promo materials, this character is distinct from _Donkey Kong_, a trademarked Nintendo character.
-* On 2.01.2025 [Goblin](@/w/goblin.md) posted a reel, in which he recapped [Olgierd](@/w/olgierd.md)'s interferences in his "sacred" rivalry against [Gustav Gryffin](@/w/gustav-gryffin.md).
+* On 2.01.2025 [Goblin](@/w/goblin.md) posted a reel, in which he recapped [Olgierd's](@/w/olgierd.md) interferences in his "sacred" rivalry against [Gustav Gryffin](@/w/gustav-gryffin.md).
   He likened it to a fictional scenario where Władysław Jagiełło and Ulrich von Jungingen face off for the [Battle of Grunwald][bitwa-pod-grunwaldem], only to be met with Genghis Khan interfering - in this case, the "stupid Mongolian" would be Olgierd.
   He dared Olgierd to make good on his promises to "end" Goblin and "make Goblin his bitch" - likely challenging for a match at Gruba Przesada.
 * On 3.01.2025, [Mister Z](@/w/mister-z.md) and Gustav Gryffin posted a video where they recapped 2024 and made plans for 2025.
