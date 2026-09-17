@@ -27,11 +27,10 @@ DDW Academy was the wrestling school associated with [Do Or Die Wrestling](@/o/d
 
 _Listed in alphabetical order:_
 
-- [Asmund](@/w/asmund.md)
 - [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
 - [Bianca](@/w/bianca.md)
 - [Boski Ostrowski](@/w/ostrowski.md)
-- [Damian Labmert](@/w/damian-lambert.md)
+- [Damian Lambert](@/w/damian-lambert.md)
 - [David Oliwa](@/w/david-oliwa.md)
 - [Gracjan Korpo](@/w/gracjan-korpo.md)
 - [Greg](@/w/greg.md)
@@ -48,6 +47,7 @@ _Listed in alphabetical order:_
 - [Piękny Kawaler](@/w/piekny-kawaler.md)
 - [Prince Viktor](@/w/vic-golden.md)
 - [Rex Torpeda](@/w/krystian-malinowski.md)
+- [Rider](@/w/asmund.md)
 - [Robert Star](@/w/robert-star.md)
 - [Victor Rosetti](@/w/rosetti.md)
 - [Sawicki](@/w/sawicki.md)
