@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Gloria G Szek is a Polish wrestler, part-time referee and a co-founder of [Istota Wrestlingu][istota] YouTube channel.
+Gloria G Szek is a Polish female wrestler, part-time referee and a co-founder of [Istota Wrestlingu][istota] YouTube channel.
 
 ## Basic info
 * Years active: 2026-
