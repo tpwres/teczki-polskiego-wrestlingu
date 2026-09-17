@@ -51,7 +51,7 @@ _Listed in alphabetical order:_
 - [Robert Star](@/w/robert-star.md)
 - [Victor Rosetti](@/w/rosetti.md)
 - [Sawicki](@/w/sawicki.md)
-- [Shadow](@/w/shadow.md)
+- [Straceniec](@/w/shadow.md)
 
 ## History
 
