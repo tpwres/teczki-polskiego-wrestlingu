@@ -5,6 +5,7 @@ authors = ["Sewi The Referee", "Szymon Iwulski"]
 aliases = ["/w/damien-rothschild"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 +++
