@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 +++
@@ -37,6 +38,11 @@ Instead, as a runner up of the Rumble, Razor faced Nano for the vacant Champions
 In the meantime, he started calling himself "The Voice" of PTW fans, owing to the fact that he had been a regular fan not that long ago.
 After successfully defending his Championship in three open challenges, his reign came to an end when he was defeated by now-villainous Nano Lopez, who bested him with the help of his new ally [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) at [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
 
+## Other media
+
+In late September 2025, Bytom's official city website posted a short [news piece][wrestler-from-bytom] about Daniel (in Polish), simply titled "Wrestler from Bytom".
+The article focuses on Daniel's wrestling journey, from a kid fascinated by pro wrestling and playing video games, to training with PTW and debuting on [TV](@/a/wrestling-on-tv.md). PTW was quick to share it on their social media channels.
+
 ## In wrestling
 
 * Finishers:
@@ -58,11 +64,6 @@ After successfully defending his Championship in three open challenges, his reig
 ## Internet presence
 
 * [Razor's Instagram](https://www.instagram.com/real.razor.ptw/)
-
-## Other media
-
-In late September 2025, Bytom's official city website posted a short [news piece][wrestler-from-bytom] about Daniel (in Polish), simply titled "Wrestler from Bytom".
-The article focuses on Daniel's wrestling journey, from a kid fascinated by pro wrestling and playing video games, to training with PTW and debuting on [TV](@/a/wrestling-on-tv.md). PTW was quick to share it on their social media channels.
 
 ## References
 
