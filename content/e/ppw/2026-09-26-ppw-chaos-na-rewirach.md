@@ -23,6 +23,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * On 5.09.2026 Queen vs Crane was changed from a Singles Match to a 30 Minute Iron Man Match, marking the first time the stipulation will be used by a Polish pro federation. (A few Iron Man matches were held in the backyard era: a PpW's [Brutality 2015](@/e/ppw/2015-10-10-ppw-brutality-2015.md) and [Backyard Total War](@/e/ppw/2016-07-18-ppw-backyard-total-war.md), as well as [TWF's](@/o/twf.md) [Day of DOOM!](@/e/twf/2012-06-03-twf-day-of-doom.md).)
 * On 8.09.2026 published a [video][wiekizm] of [Antoni Ocean](@/w/antoni-ocean.md) complaining about PpW being ruled by "old farts" (_stare dziady_), such as [Jakub](@/w/jakub.md) whom he challenged to a fight in order to take his place. The match was officially confirmed the next day.
 * On 13.09.2026 came the announcement of a Triple Threat Match between [Max Speed](@/w/max-speed.md), [Olgierd](@/w/olgierd.md) and [Leon Lato](@/w/leon-lato.md).
+* On 18.09.2026 [Goblin](@/w/goblin.md) and [Mister Z](@/w/mister-z.md) were given their first Singles Match against one another, for the #1 [PpW Championship](@/c/ppw-championship.md) Contendership.
 
 ## Predicted card
 
@@ -42,8 +43,10 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
   - s: Tag Team Match
     nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
-  - '???'
-  - nc: upcoming
+  - '[Mister Z](@/w/mister-z.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: #1 Contendership Match
+    nc: upcoming
 - - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - '???'
   - s: Tag Team Match
