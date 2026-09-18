@@ -45,7 +45,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 - - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: #1 Contendership Match
+    s: '#1 Contendership Match'
     nc: upcoming
 - - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - '???'
