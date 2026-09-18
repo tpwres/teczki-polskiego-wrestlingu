@@ -74,19 +74,21 @@ On 1.09.2026 PTW published an [official statement][pawel-zwolniony] of Pawłowsk
 
 {% inline_fig(path="oficjalny-komunikat-ptw.webp") %}
 OFFICIAL ANNOUNCEMENT: \
-Prime Time Wrestling informs that on the day of 23.08.2026 the contract between the federation and its founder Arkadiusz Pawłowski was terminated. \
-This decision means the end of his cooperation with the organisation and a change in the federation's ownership structure. \
-From this moment on, Łukasz Okoński remains the owner of Prime Time Wrestling, and every decision pertaining to the federation are made by Łukasz and his creative team. \
-At the same time we wish to emphasize that PTW remains an active organisation that consistently implements its ideas and expands. \
-We ask for our decisions to be respected and we thank all the wrestlers, employees and most of all the fans for constant support. \
+Prime Time Wrestling hereby informs that on the day of 23.08.2026, the contract between the federation and its founder Arkadiusz Pawłowski has been terminated. \
+This decision marks the end of his association with the organisation and alters the federation's ownership structure. \
+From this moment on, Łukasz Okoński remains the sole owner of Prime Time Wrestling, with all decisions pertaining to the federation now being made by Łukasz and his creative team. \
+At the same time, we wish to emphasize that PTW remains an active organisation, consistently executing its vision and expanding its reach. \
+We ask for our decisions to be respected and we thank all the wrestlers, employees and most of all, the fans, for their continuous support. \
 Prime Time Wrestling
 {% end %}
 
-Two days later Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski wasn't fired, but the termination was an amicable process that both parties agreed to. He also pointed out that there was no conflict between Pawłowski and himself. According to [PTW's official website][strona-ptw], Pawłowski remains active as a coach with [PTW Academy](@/o/ptw-academy.md).
+Two days later Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski was not fired, but that his termination was an amicable process agreed upon by both parties. He also pointed out that there was no conflict between Pawłowski and himself. According to [PTW's official website][strona-ptw] at the time, Pawłowski remains active as a coach with [PTW Academy](@/o/ptw-academy.md).
+
+The timing of this termination caused some confusion among the wrestling community. The official statement dated his release two days before Pawłowski, along with several PTW wrestlers, appeared in breakfast TV programme [Dzień Dobry TVN](@/a/wrestling-on-tv.md#2026).
 
 ## International wrestling appearances
 
-In 2024 Pan Pawłowski cooperated with [Krampus](@/w/krampus.md) - one of the Austrian wrestlers working for PTW - in an effort to create Wrestling World Austria, which was later transformed into PTW:WWA - Prime Time Wrestling's "sister company". Arkadiusz worked there as an announcer, before the project was shut down in October 2024. 
+In 2024 Pan Pawłowski cooperated with [Krampus](@/w/krampus.md) - one of the Austrian wrestlers working for PTW - in an effort to create Wrestling World Austria, which was later transformed into PTW:WWA - Prime Time Wrestling's "sister company". Arkadiusz worked there as an announcer, before the project was shut down in October 2024.
 
 After PTW managed to secure a partnership with BestYa Slam in 2025, Pawłowski made a few appearances there by promoting a show and managing his talent Puncher.
 
