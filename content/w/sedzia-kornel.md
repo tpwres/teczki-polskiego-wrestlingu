@@ -7,7 +7,7 @@ toclevel = 2
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "kornel-praga-centrum.webp", caption = "Kornel greeting the fans in [Praga Centrum](@/v/praga-centrum.md.", source = "?" }
+1 = { path = "kornel-praga-centrum.webp", caption = "Kornel greeting the fans in [Praga Centrum](@/v/praga-centrum.md).", source = "?" }
 2 = { path = "sedzia-kornel.jpg", caption = "Sędzia Kornel, [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 3 = { path = "hardcore-referee-koszulka.jpg", caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md).", source = "Kornel's Facebook profile" }
 +++
