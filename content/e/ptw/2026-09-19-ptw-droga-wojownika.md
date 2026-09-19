@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"Droga Wojownika" (_The Way of the Warrior_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Droga Wojownika" (_The Way of the Warrior_) was a show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build-up
 
@@ -23,33 +23,30 @@ has_video = false
 * On 15.09.2026 PTW [posted][na-stowe-sie-potem-o-to-pokloca] to Facebook stating that [Miyagi Shida](@/w/miyagi-shida.md) took the liberty of issuing an open challenge for his and [Sigma Boy xD's](@/w/sigma-boy.md) [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 * The next match to be made public was [Daniel Razor](@/w/daniel-razor.md) vs Pierre.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
-  - 'Proroctwo: [Sawicki](@/w/sawicki.md) & [Whiteblade](@/w/whiteblade.md)'
+{% card() %}
+- - 'Proroctwo: [Sawicki](@/w/sawicki.md) & [Whiteblade](@/w/whiteblade.md)'
+  - '[Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: '#1 Contendership Tag Team Match'
-    nc: upcoming
-- - '[Spartan](@/w/spartan.md)'
-  - '???'
-  - g: true
-    nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md)'
+  - 'Pierre'
 - - '[Kalom](@/w/kalom.md)'
   - '[Fabian](@/w/fabian.md)'
-  - nc: upcoming
+- - '[Spartan](@/w/spartan.md)'
+  - g: true
+- - '[Spartan](@/w/spartan.md)(c)'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - c: '[PTW Championship](@/c/ptw-championship.md)'
 - - '[Misiek](@/w/misiek.md)'
-  - '???'
-  - nc: upcoming
-- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
+  - 'Gwiezdny Marek'
+  - 'Shawn Aster'
+  - s: Handicap Match
+- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
   - '??? & ???'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Open Challenge Tag Team Match
-    nc: upcoming
-- - '[Daniel Razor](@/w/daniel-razor.md)'
-  - 'Pierre'
-  - nc: upcoming
-
 {% end %}
 
 ### Highlights

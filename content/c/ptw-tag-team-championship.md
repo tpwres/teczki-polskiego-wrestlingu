@@ -254,5 +254,4 @@ While Boro never defended the title, he was also recognized as a champion per th
   - s: Open Challenge Tag Team Match
     en: '[PTW: Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md)'
     ed: 2026-09-19
-    nc: upcoming
 {% end %}
