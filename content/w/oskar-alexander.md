@@ -5,6 +5,7 @@ aliases = ["/w/oskar-aleksander"]
 authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 +++
