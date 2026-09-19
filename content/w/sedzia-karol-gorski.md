@@ -2,6 +2,7 @@
 title = "Sędzia Karol Górski"
 template = "talent_page.html"
 authors = ["Sewi The Referee"]
+aliases = ["/w/madman-charlie"]
 [extra]
 toclevel = 2
 [taxonomies]
