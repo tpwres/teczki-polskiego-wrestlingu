@@ -5,6 +5,7 @@ authors = ["M3n747"]
 aliases = ["/w/rookie-one"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 +++
