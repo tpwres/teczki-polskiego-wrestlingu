@@ -39,7 +39,7 @@ has_video = false
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Gloria G Szek](@/w/gloria-g-szek.md)'
   - 'Rozalia Nyx'
-  - 'Kalyana'
+  - '[Kalyana](@/w/kalyana.md)'
   - 'Julia Rave'
   - 'Sara Shade'
   - s: "Queen Jadwiga's Battle Royal"
