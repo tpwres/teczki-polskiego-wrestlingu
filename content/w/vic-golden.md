@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi the Referee"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
