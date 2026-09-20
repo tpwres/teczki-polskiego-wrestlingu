@@ -21,7 +21,7 @@ has_video = false
 * On 2.09.2026 Irie was given an opponent - [Robert Star](@/w/robert-star.md) - whom he'll face in a Super Heavyweight Showcase Match.
 * On 10.09.2026 PpW announced Poland's first TLC (Tables, Ladders & Chairs) Match, between three unspecified teams.
 * On 16.09.2026 PpW announced [Queen Jadwiga's][krol-i-krolowa-wrestlingu] Battle Royal, a women-only elimination match set to be the biggest women's match in Polish wrestling's history.
-* On 20.09.2026 PpW [published][wielosc-jadwig] the list of the Queen Jadwiga's Battle Royal competitors.
+* On 20.09.2026 PpW [published][wielosc-jadwig] the list of the Queen Jadwiga's Battle Royal competitors: Akane Fujita, [Agentka Agatka](@/w/agentka-agatka.md), [Gloria G Szek](@/w/gloria-g-szek.md), Julia Rave, [Kalyana](@/w/kalyana.md), Rozalia Nyx and Sara Shade.
 
 ## Predicted card
 
