@@ -111,6 +111,28 @@
     {%- block extra_footer %} {% endblock extra_footer -%}
   </footer>
   {% include "_footer_js.html" %}
+  <svg aria-hidden="true" style="position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; z-index: -1;">
+    <defs>
+      <!-- spreadMethod="repeat" forces the gradient to tile infinitely -->
+      <linearGradient id="rainbow-stroke" x1="0" y1="0" x2="4" y2="0" spreadMethod="repeat">
+        <stop offset="0%" stop-color="hsl(0, 100%, 50%)" />
+        <stop offset="9.09%" stop-color="hsl(33, 100%, 50%)" />
+        <stop offset="18.18%" stop-color="hsl(66, 100%, 50%)" />
+        <stop offset="27.27%" stop-color="hsl(99, 100%, 50%)" />
+        <stop offset="36.36%" stop-color="hsl(132, 100%, 50%)" />
+        <stop offset="45.45%" stop-color="hsl(165, 100%, 50%)" />
+        <stop offset="54.55%" stop-color="hsl(198, 100%, 50%)" />
+        <stop offset="63.64%" stop-color="hsl(231, 100%, 50%)" />
+        <stop offset="72.73%" stop-color="hsl(264, 100%, 50%)" />
+        <stop offset="81.82%" stop-color="hsl(297, 100%, 50%)" />
+        <stop offset="90.91%" stop-color="hsl(330, 100%, 50%)" />
+        <stop offset="100%" stop-color="hsl(360, 100%, 50%)" />
 
-  </body>
+        <!-- Shift exactly 4 units (1 full cycle) -->
+        <animate attributeName="x1" values="0;-4" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="x2" values="4;0" dur="6s" repeatCount="indefinite" />
+      </linearGradient>
+    </defs>
+  </svg>
+</body>
 </html>
