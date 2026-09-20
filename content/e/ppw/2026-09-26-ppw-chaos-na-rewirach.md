@@ -24,6 +24,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * On 8.09.2026 published a [video][wiekizm] of [Antoni Ocean](@/w/antoni-ocean.md) complaining about PpW being ruled by "old farts" (_stare dziady_), such as [Jakub](@/w/jakub.md) whom he challenged to a fight in order to take his place. The match was officially confirmed the next day.
 * On 13.09.2026 came the announcement of a Triple Threat Match between [Max Speed](@/w/max-speed.md), [Olgierd](@/w/olgierd.md) and [Leon Lato](@/w/leon-lato.md).
 * On 18.09.2026 [Goblin](@/w/goblin.md) and [Mister Z](@/w/mister-z.md) were given their first Singles Match against one another, for the #1 [PpW Championship](@/c/ppw-championship.md) Contendership.
+* A [video][gloria-na-rewirach] published on 19.08.2026 announced [Gloria G Szek's](@/w/gloria-g-szek.md) presence at the show. The video highlighted her role in setting up PpW shows, with Gloria proudly declaring "she's not afraid to get her hands dirty" ("żadnej roboty się nie boję").
 
 ## Predicted card
 
@@ -59,6 +60,9 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 - - '[Jakub](@/w/jakub.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - nc: upcoming
+- - '[Gloria G Szek](@/w/gloria-g-szek.md)'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
@@ -71,3 +75,4 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02oM1up2dTNEnV1JLwT7mDYrCcbJLTeErEUjxxHgQYGEsFjSyUZgPNw3vMcc9Wui1Wl)
 
 [wiekizm]: https://www.facebook.com/reel/1410396644355230
+[gloria-na-rewirach]: https://www.facebook.com/reel/1624121959229651
