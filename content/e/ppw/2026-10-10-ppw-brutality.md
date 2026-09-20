@@ -1,7 +1,7 @@
 +++
 title = "PpW Brutality"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 aliases = ["/e/ppw/2026-10-10-ppw-minska-65"]
 [taxonomies]
 chronology = ["ppw"]
@@ -21,6 +21,7 @@ has_video = false
 * On 2.09.2026 Irie was given an opponent - [Robert Star](@/w/robert-star.md) - whom he'll face in a Super Heavyweight Showcase Match.
 * On 10.09.2026 PpW announced Poland's first TLC (Tables, Ladders & Chairs) Match, between three unspecified teams.
 * On 16.09.2026 PpW announced [Queen Jadwiga's][krol-i-krolowa-wrestlingu] Battle Royal, a women-only elimination match set to be the biggest women's match in Polish wrestling's history.
+* On 20.09.2026 PpW [published][wielosc-jadwig] the list of the Queen Jadwiga's Battle Royal competitors: Akane Fujita, [Agentka Agatka](@/w/agentka-agatka.md), [Gloria G Szek](@/w/gloria-g-szek.md), Julia Rave, [Kalyana](@/w/kalyana.md), Rozalia Nyx and Sara Shade.
 
 ## Predicted card
 
@@ -34,10 +35,13 @@ has_video = false
   - '??? & ???'
   - s: TLC Match
     nc: upcoming
-- - '???'
-  - '???'
-  - '???'
-  - '???'
+- - 'Akane Fujita'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Gloria G Szek](@/w/gloria-g-szek.md)'
+  - 'Rozalia Nyx'
+  - '[Kalyana](@/w/kalyana.md)'
+  - 'Julia Rave'
+  - 'Sara Shade'
   - s: "Queen Jadwiga's Battle Royal"
     nc: upcoming
 {% end %}
@@ -52,3 +56,4 @@ has_video = false
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [krol-i-krolowa-wrestlingu]: https://en.wikipedia.org/wiki/Jadwiga_of_Poland
+[wielosc-jadwig]: https://www.facebook.com/OficjalnePPW/posts/pfbid0298RdT7Vpm5riKF7V4BtDnGShTVUXK4TUZqjKejpioGfKgfH5iP4zJt8kxM4iUB44l
