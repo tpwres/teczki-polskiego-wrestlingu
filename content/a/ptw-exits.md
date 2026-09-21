@@ -156,7 +156,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 WrestleOne Youtube
 - - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) (commentary, social media)'
-  - ??
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-05 Twitter
@@ -167,7 +167,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - 2024-06 Instagram
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (founder)'
   - 2020
-  - n/a
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2026-08-28](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
   - 2026-08-23 Facebook
 {% end %}
