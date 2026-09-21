@@ -128,7 +128,7 @@ The table below is sorted chronologically by the estimated exit date.
   - 2023 ([PTW Academy](@/o/ptw-academy.md))
   - '[2023-07-30](@/e/ptw/2023-07-30-ptw-underground-16.md)'
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
-  - 2025-07-02 [PTW's Facebook][speeda-zwolnili]
+  - 2025-07-02 [PTW's Facebook](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl)
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
@@ -250,6 +250,5 @@ On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating
 [sinister-farewell-insta]: https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/
 [supporter-stream-barter]: https://www.youtube.com/watch?v=dmLHzSe92x0
 [robert-star-interview]: https://www.youtube.com/watch?v=mRJrVjnAhyo
-[speeda-zwolnili]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl
 [pawlowski-wyszedl]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JnnRXTahVr1vvPreAdE3ZXRKrBm93WZWzwMJ75UcDtCEM12EPj8g5i9rAcka26zdl
 [i-nie-wroci]: https://www.facebook.com/reel/1377064001215338
