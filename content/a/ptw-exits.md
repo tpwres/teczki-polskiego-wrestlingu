@@ -140,6 +140,11 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024?
+- - 'Marcin Rzeźniczek (co-founder)'
+  - 2020
+  - n/a
+  - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
+  - 2024-03 Instagram
 - - '[Arek Paterek](@/w/arek-paterek.md) (commentary)'
   - 2021
   - ??
@@ -160,11 +165,6 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 Instagram
-- - 'Marcin Rzeźniczek (co-founder)'
-  - 2020
-  - n/a
-  - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-03 Instagram
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (founder)'
   - 2020
   - n/a
