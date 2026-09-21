@@ -2,7 +2,7 @@
 title = "PTW Exits"
 weight = 0
 template = "article.html"
- authors = ["Sewi The Referee", "Szymon Iwulski"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 category = ["Polish wrestling scene"]
 [extra]
@@ -162,6 +162,11 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - n/a
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-03 Instagram
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (founder)'
+  - 2020
+  - n/a
+  - '[2026-08-28](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
+  - 2026-08-23 Facebook
 {% end %}
 
 ## Timeline
@@ -227,6 +232,10 @@ On Thursday June 13th, PTW have taken down the roster section of their page.
 
 In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/jakub.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
 
+### 2026: Coda
+
+On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating that the promotion had terminated the contract with its founder, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Two days later chairman [Łukasz Okoński](@/w/lukasz-okonski.md) posted a [video][i-nie-wroci] confirming this decision, pointing out that the process happened amicably.
+
 [samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
 [dziedzic-ngz]: https://www.youtube.com/live/-mveTz3FApQ
@@ -234,3 +243,5 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Paw�
 [sinister-farewell-insta]: https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/
 [supporter-stream-barter]: https://www.youtube.com/watch?v=dmLHzSe92x0
 [robert-star-interview]: https://www.youtube.com/watch?v=mRJrVjnAhyo
+[pawlowski-wyszedl]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JnnRXTahVr1vvPreAdE3ZXRKrBm93WZWzwMJ75UcDtCEM12EPj8g5i9rAcka26zdl
+[i-nie-wroci]: https://www.facebook.com/reel/1377064001215338
