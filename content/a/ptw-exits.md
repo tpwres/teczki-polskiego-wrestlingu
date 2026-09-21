@@ -162,7 +162,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - 2024-05 Twitter
 - - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
   - 2021-11 ([MZW](@/o/mzw.md))
-  - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
+  - '[2022-01-23](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 Instagram
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (founder)'
