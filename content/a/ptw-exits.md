@@ -147,18 +147,18 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - 2024-03 Instagram
 - - '[Arek Paterek](@/w/arek-paterek.md) (commentary)'
   - 2021
-  - ??
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 Twitter
 - - '[Łukasz Baliński](@/w/lukasz-balinski.md) (commentary)'
   - ??
-  - ??
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 WrestleOne Youtube
 - - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) (commentary, social media)'
   - ??
-  - ??
-  - ??
+  - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
+  - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-05 Twitter
 - - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
   - 2021-11 ([MZW](@/o/mzw.md))
