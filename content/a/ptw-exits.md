@@ -147,7 +147,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - 2024-03 Instagram
 - - '[Arek Paterek](@/w/arek-paterek.md) (commentary)'
   - 2021
-  - '??
+  - ??
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-05 Twitter
 - - '[Łukasz Baliński](@/w/lukasz-balinski.md) (commentary)'
