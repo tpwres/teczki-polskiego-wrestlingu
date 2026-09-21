@@ -160,7 +160,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-05 Twitter
-- - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+- - '[Sędzia Seweryn](@/w/sedzia-seweryn.md) (referee)'
   - 2021-11 ([MZW](@/o/mzw.md))
   - '[2022-01-23](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
