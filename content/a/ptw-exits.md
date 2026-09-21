@@ -24,8 +24,7 @@ Notably absent from the list are
 [Iskra](@/w/iskra.md) and
 [Max Speed](@/w/max-speed.md).
 
-Iskra, despite never bidding farewell to PTW, appears to have quietly left as well at some point in mid-2024, whereas Max Speed was fired from the promotion in July 2025. Arczi Czajka also seems to have quietly retired following [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). [Puncher](@/w/puncher.md) disappeared from PTW programming after his loss in _Winner Takes All Match_ at [PTW: Świąt nie będzie](@/w/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in December 2025 and went for a prolonged hiatus, not finished as of 21.09.2026.
-[Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md) and [Alex Brave](@/w/alex-brave.md) stayed with PTW as well, yet to leave the promotion.
+Iskra, despite never bidding farewell to PTW, appears to have quietly left as well at some point in mid-2024, whereas Max Speed was fired from the promotion in July 2025. Arczi Czajka also seems to have quietly retired following [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). [Puncher](@/w/puncher.md) disappeared from PTW programming after his loss in Winner Takes All Match at [PTW: Świąt nie będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in December 2025 and went on a prolonged hiatus, still in effect as of 21.09.2026. [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md) and [Alex Brave](@/w/alex-brave.md) stayed with PTW as well.
 
 The table below is sorted chronologically by the estimated exit date.
 
@@ -129,7 +128,7 @@ The table below is sorted chronologically by the estimated exit date.
   - 2023 ([PTW Academy](@/o/ptw-academy.md))
   - '[2023-07-30](@/e/ptw/2023-07-30-ptw-underground-16.md)'
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
-  - 2025-07-02 [PTW's Facebook]([https://www.twitch.tv/videos/2180575222)](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl))
+  - 2025-07-02 [PTW's Facebook][speeda-zwolnili]
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
@@ -238,9 +237,11 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Paw�
 
 ### 2026: Coda
 
-2026 came with some additional exits. Both [Bart Petro](@/w/bart-petro.md) and [Damian Adler](@/w/damian-adler.md) made their final PTW appearances in short succession. Petro quietly left PTW after [PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md). Both left PTW quietly. While Petro quickly resurfaced in FRPW, Adler is yet to return to competition.
-[Damian Lambert](@/w/damian-lambert.md) also quietly left PTW some time between [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), when he made his final appearance and [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md), where [Sawicki](@/w/sawicki.md) took over Proroctwo and confirmed the exit of _false prophet Lambert_.
-On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating that the promotion had terminated the contract with its founder, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Two days later chairman [Łukasz Okoński](@/w/lukasz-okonski.md) posted a [video][i-nie-wroci] confirming this decision, pointing out that the process happened amicably. In following weeks, it turned out that the process was not as amicable as told. After Boguś got fired, Pawłowski started to publicly criticize PTW, to the point of editing PTW logo into insulting _Pierdolnie To Wszystko_ (roughly "it's all going to fucking blow up").
+2026 came with some additional exits. Both [Bart Petro](@/w/bart-petro.md) and [Damian Adler](@/w/damian-adler.md) made their final PTW appearances in short succession and left PTW quietly. Petro departed after [PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) only to quickly resurface in FRPW, whereas Adler is yet to return to competition (as of September 2026).
+
+[Damian Lambert](@/w/damian-lambert.md) also quietly exited PTW some time between his final appearance at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), and [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) where [Sawicki](@/w/sawicki.md) took over Proroctwo and confirmed the exit of "false prophet Lambert".
+
+On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating that the promotion had terminated the contract with its founder, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Two days later chairman [Łukasz Okoński](@/w/lukasz-okonski.md) posted a [video][i-nie-wroci] confirming this decision, pointing out that the process happened amicably. In the following weeks, however, it turned out that the process wasn't all that peaceful after all. Shortly after Boguś was fired Pawłowski started to publicly criticize PTW, to the point of editing the PTW logo and changing "Prime Time Wrestling" into a vulgar phrase, "Pierdolnie To Wszystko" (roughly _It's all gonna blow the fuck up_).
 
 [samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
@@ -249,5 +250,6 @@ On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating
 [sinister-farewell-insta]: https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/
 [supporter-stream-barter]: https://www.youtube.com/watch?v=dmLHzSe92x0
 [robert-star-interview]: https://www.youtube.com/watch?v=mRJrVjnAhyo
+[speeda-zwolnili]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl
 [pawlowski-wyszedl]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JnnRXTahVr1vvPreAdE3ZXRKrBm93WZWzwMJ75UcDtCEM12EPj8g5i9rAcka26zdl
 [i-nie-wroci]: https://www.facebook.com/reel/1377064001215338

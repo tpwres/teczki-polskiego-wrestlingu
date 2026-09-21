@@ -103,8 +103,20 @@ path = "mutant-hammers.jpg"
 caption = 'Michał "Mutant" Świątkowski taking a selfie with [Marco Hammers](@/w/marco-hammers.md) backstage at [Ledwo Legalne IV](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md).'
 source = "Instagram @mutant_wrestler"
 
-[20]
+[21]
 path = "oficjalny-komunikat-ptw.webp"
 caption = "Facebook post announcing Pawłowski's termination."
 source = "Instagram @mutant_wrestler"
+skip_art = true
+
+[22]
+path = "bogus-wywalony.webp"
+caption = '_Do a strong main event and get kicked out of the promotion as a reward XD. Cheers._'
+source = "Instagram @bogus_wrestler"
+skip_art = true
+
+[23]
+path = "bogus-spoglada-w-przyszlosc.webp"
+caption = '_[Boguś](@/w/bogus.md) is looking for a new employer, because…<br />PTW - It's all gonna blow the fuck up_'
+source = "Instagram @panpawlowski"
 skip_art = true
