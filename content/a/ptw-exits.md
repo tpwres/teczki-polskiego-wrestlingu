@@ -147,7 +147,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '?? ([PTW Academy](@/o/ptw-academy.md))'
   - '[2025-07-27](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
   - '[2026-08-28](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
-  - ??
+  - ?? Instagram - see gallery below
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
