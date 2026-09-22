@@ -70,7 +70,7 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
 
 ### Retirement (2026)
 
-On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from in-ring action due to a chronic hip injury sustained in a fight. Before ending his career as an active wrestler, he decided to make final three appearances in three promotions most important to him: Eastside Revolution Wrestling, Legacy of Wrestling, and lastly in Maniac Zone Wrestling.
+On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from in-ring action due to a chronic hip injury sustained in a fight three or four years prior. Before ending his career as an active wrestler, he decided to make final three appearances in three promotions most important to him: Eastside Revolution Wrestling, Legacy of Wrestling, and lastly in Maniac Zone Wrestling.
 
 ## International wrestling appearances
 
@@ -79,7 +79,7 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 ## In wrestling
 
 * Finishers:
-  - Phoenix Splash (2011-)
+  - Phoenix 450 Splash (2011-ca. 2022/23); dropped following a hip injury
   - Inverted Facelock Neckbreaker Slam (2011); used as signature thereafter
 * Managers:
   - Shadows Moonlight (2019)
