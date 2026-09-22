@@ -82,7 +82,7 @@ We ask for our decisions to be respected and we thank all the wrestlers, employe
 Prime Time Wrestling
 {% end %}
 
-Two days later Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski was not fired, but that his termination was an amicable process agreed upon by both parties. He also pointed out that there was no conflict between Pawłowski and himself. According to [PTW's official website][strona-ptw] at the time, Pawłowski remains active as a coach with [PTW Academy](@/o/ptw-academy.md).
+Two days later Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski was not fired, but that his termination was an amicable process agreed upon by both parties. He also pointed out that there was no conflict between Pawłowski and himself. For a time after the announcement, PTW's [official website][strona-ptw] listed Pawłowski as a coach at the [PTW Academy](@/o/ptw-academy.md), however by the late September his bio was removed from the site.
 
 The timing of this termination caused some confusion among the wrestling community. The official statement dated his release two days before Pawłowski, along with several PTW wrestlers, appeared in breakfast TV programme [Dzień Dobry TVN](@/a/wrestling-on-tv.md#2026).
 
