@@ -174,9 +174,9 @@ Talent highlighted in **bold** were present at the organization's [first show](@
 
 ## Timeline
 
-### 2023: Mystery
+### 2023: The Mystery
 
-In the aftermath of [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the fifth major show started.
+In the aftermath of [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the fifth major show started.
 Initially planned for October 2023, the show was postponed indefinitely.
 During that time, multiple talents started to voice their frustration on social media.
 Eventually, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
