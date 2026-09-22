@@ -120,3 +120,9 @@ path = "bogus-spoglada-w-przyszlosc.webp"
 caption = "_[Boguś](@/w/bogus.md) is looking for a new employer, because…<br />PTW - Pitiful Total Waste._"
 source = "Instagram @panpawlowski"
 skip_art = true
+
+[24]
+path = "info-od-adlera.webp"
+caption = "Conversation with Damian Adler, confirming his date of departure from PTW."
+source = "Szymon Iwulski"
+skip_art = true

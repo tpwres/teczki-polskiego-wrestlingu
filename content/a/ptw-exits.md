@@ -46,7 +46,7 @@ The table below is sorted chronologically by the estimated exit date.
   - 2022 ([MZW](@/o/mzw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2023-10-03 Instagram - see gallery below
+  - 2023-10-03, Instagram - see gallery below
 - - '[Samson](@/w/samson.md)'
   - 2022 ([PTW Academy](@/o/ptw-academy.md))
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
@@ -61,17 +61,17 @@ The table below is sorted chronologically by the estimated exit date.
   - 2020 ([PTW Academy](@/o/ptw-academy.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-04-13](@/e/ptw/2024-04-13-ptw-underground-21.md)'
-  - 2024 Twitter
+  - 2024, Twitter
 - - '**[Disco Pablo](@/w/disco-pablo.md)**'
   - 2021 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - '2024-06 [Instagram](https://www.instagram.com/p/C8ALDNIszF8)'
+  - '2024-06, [Instagram](https://www.instagram.com/p/C8ALDNIszF8)'
 - - '**[Dziedzic](@/w/dziedzic.md)**'
   - 2020 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [Instagram](https://www.instagram.com/p/C7wHOhVsR4G/)
+  - 2024-06, [Instagram](https://www.instagram.com/p/C7wHOhVsR4G/)
 - - '**[Marcelito](@/w/marcelito.md)**'
   - 2020 ([PTW Academy](@/o/ptw-academy.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
@@ -81,52 +81,52 @@ The table below is sorted chronologically by the estimated exit date.
   - 2020 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [Instagram](https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/)
+  - 2024-06, [Instagram](https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/)
 - - '[Wiktor Longman](@/w/wiktor-longman.md)'
   - 2022 ([PTW Academy](@/o/ptw-academy.md))
   - '[2022-08-28](@/e/ptw/2022-08-28-ptw-underground-7.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 Instagram
+  - 2024-06, Instagram
 - - '**[Boro](@/w/boro.md)**'
   - 2020 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2024-06 Instagram
+  - 2024-06, Instagram
 - - '[Olgierd](@/w/olgierd.md)'
   - 2021-11 ([PpW](@/o/ppw.md)/[MZW](@/o/mzw.md))
   - '[2023-03-26](@/e/ptw/2023-03-26-ptw-underground-13.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
+  - '2024-06-08, [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
   - 2022 ([KPW](@/o/kpw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
+  - '2024-06-08, [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
 - - '**[Michał "Mutant" Świątkowski](@/w/mutant.md)**'
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 Instagram - see gallery below
+  - 2024-06, Instagram - see gallery below
 - - '[Sambor](@/w/sambor.md)'
   - 2023 ([MZW](@/o/mzw.md)/[PAW](@/o/paw.md))
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 [Instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
+  - 2024-06, [Instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
 - - '**[Axel Fox](@/w/jakub.md)**'
   - 2021 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06-25 [Pawłowski's Twitch stream](https://www.twitch.tv/videos/2180575222)
+  - 2024-06-25, [Pawłowski's Twitch stream](https://www.twitch.tv/videos/2180575222)
 - - '[Max Speed](@/w/max-speed.md)'
   - 2023 ([PTW Academy](@/o/ptw-academy.md))
   - '[2023-07-30](@/e/ptw/2023-07-30-ptw-underground-16.md)'
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
-  - 2025-07-02 [PTW's Facebook](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl)
+  - 2025-07-02, [PTW's Facebook](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl)
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - 2025 (return from retirement)
+  - 2025 (return from retirement, post-[MZW](@/o/mzw.md))
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
   - '[2026-03-29](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
-  - between March and July, [confirmed at Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)
+  - between March and July, confirmed at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)
 - - '[Bart Petro](@/w/bart-petro.md)'
   - 2025 ([KPW](@/o/kpw.md))
   - '[2025-12-13](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
@@ -136,12 +136,12 @@ The table below is sorted chronologically by the estimated exit date.
   - 2025 ([KPW](@/o/kpw.md))
   - '[2025-10-25](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md)'
   - '[2026-06-27](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
-  - ???
+  - 2026-070-6, private conversation - see gallery below
 - - '[Boguś](@/w/bogus.md)'
   - '2025 ([PTW Academy](@/o/ptw-academy.md))'
   - '[2025-07-27](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
   - '[2026-09-19](e/ptw/2026-09-19-ptw-droga-wojownika)'
-  - 2026-09-19 Instagram - see gallery below
+  - 2026-09-19, Instagram - see gallery below
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
@@ -157,32 +157,32 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - 2020
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-03 Instagram
+  - 2024-03, Instagram
 - - '[Arek Paterek](@/w/arek-paterek.md) (commentary)'
   - 2021
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-05 Twitter
+  - 2024-05, Twitter
 - - '[Łukasz Baliński](@/w/lukasz-balinski.md) (commentary)'
   - ??
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-05 WrestleOne Youtube
+  - 2024-05, WrestleOne Youtube
 - - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) (commentary, social media)'
   - ??
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-05 Twitter
+  - 2024-05, Twitter
 - - '[Sędzia Seweryn](@/w/sedzia-seweryn.md) (referee)'
   - 2021-11 ([MZW](@/o/mzw.md))
   - '[2022-01-23](@/e/ptw/2022-01-23-ptw-underground-2.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 Instagram
+  - 2024-06, Instagram
 - - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (founder)'
   - 2020
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2026-08-28](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
-  - 2026-08-23 Facebook
+  - 2026-08-23, Facebook
 {% end %}
 
 ## Timeline

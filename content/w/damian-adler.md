@@ -30,7 +30,7 @@ Damian trained with [Kombat Pro Wrestling](@/o/kpw.md), but never debuted there.
 
 After training with KPW for a few years, Damian moved to [Prime Time Wrestling](@/o/ptw.md) where he continued his trainings. Eventually he debuted at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where he answered [Daniel Razor's](@/w/daniel-razor.md) open challenge, but lost.
 
-Adler quietly [left PTW](@/a/ptw-exits.md) some time after [Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md).
+Adler quietly [left PTW](@/a/ptw-exits.md) on 6.07.2026.
 
 ## In wrestling
 
