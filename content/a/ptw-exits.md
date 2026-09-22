@@ -143,6 +143,11 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2025-10-25](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md)'
   - '[2026-06-27](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
   - ??
+- - '[Boguś](@/w/bogus.md)'
+  - '?? ([PTW Academy](@/o/ptw-academy.md))'
+  - '[2025-07-27](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+  - '[2026-08-28](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
+  - ??
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
@@ -253,9 +258,9 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Paw�
 
 2026 came with some additional exits. Both [Bart Petro](@/w/bart-petro.md) and [Damian Adler](@/w/damian-adler.md) made their final PTW appearances in short succession and left PTW quietly. Petro departed after [PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) only to quickly resurface in FRPW, whereas Adler is yet to return to competition (as of September 2026).
 
-[Damian Lambert](@/w/damian-lambert.md) also quietly exited PTW some time between his final appearance at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), and [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) where [Sawicki](@/w/sawicki.md) took over Proroctwo and confirmed the exit of "false prophet Lambert".
+[Damian Lambert](@/w/damian-lambert.md) also quietly exited PTW some time between his final appearance at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), and [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) where [Sawicki](@/w/sawicki.md) took over Proroctwo and confirmed the exit of "false prophet Lambert". Five months later they were followed by [Boguś](@/w/bogus.md), fired just after [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md).
 
-On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating that the promotion had terminated the contract with its founder, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Two days later chairman [Łukasz Okoński](@/w/lukasz-okonski.md) posted a [video][i-nie-wroci] confirming this decision, pointing out that the process happened amicably. In the following weeks, however, it turned out that the process wasn't all that peaceful after all. Shortly after Boguś was fired Pawłowski started to publicly criticize PTW, to the point of editing the PTW logo and changing "Prime Time Wrestling" into a vulgar phrase, "Pierdolnie To Wszystko" (roughly _It's all gonna blow the fuck up_).
+On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating that the promotion had terminated the contract with its founder, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Two days later chairman [Łukasz Okoński](@/w/lukasz-okonski.md) posted a [video][i-nie-wroci] confirming this decision, pointing out that the process happened amicably. In the following weeks, however, it turned out that the process wasn't all that peaceful after all. Shortly after Boguś was fired Pawłowski started to publicly criticize PTW, to the point of editing the PTW logo and changing "Prime Time Wrestling" into a vulgar phrase, "Pierdolnie To Wszystko" (roughly _Pitiful Total Waste_; lit. _It's all gonna blow the fuck up_).
 
 [samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009

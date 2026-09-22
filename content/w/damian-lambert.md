@@ -10,7 +10,7 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Damian Lambert - also known as Damien Rothschild - is a Polish wrestler formerly working for [Prime Time Wrestling](@/o/ptw.md). He also worked for [Kombat Pro Wrestling](@/o/kpw.md), [Do Or Die Wrestling](@/o/ddw.md) and [Maniac Zone Wrestling](@/o/mzw.md) (as Damien Rothschild).
+Damian Lambert is a Polish wrestler formerly working for [Prime Time Wrestling](@/o/ptw.md). He also worked for [Kombat Pro Wrestling](@/o/kpw.md), [Do Or Die Wrestling](@/o/ddw.md) and [Maniac Zone Wrestling](@/o/mzw.md) (as Damien Rothschild).
 
 ## Basic info
 
