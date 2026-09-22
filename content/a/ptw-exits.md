@@ -180,7 +180,7 @@ In the aftermath of [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), 
 Initially planned for October 2023, the show was postponed indefinitely.
 During that time, multiple talents started to voice their frustration on social media.
 Eventually, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
-During a [shoot interview][samson-shoot-interview] for the "Wrestling Polska" YouTube channel, Samson stated that he "never earned a single penny" in PTW, that Underground shows were not paid appearances and only the "big" (numbered) events were, with the promotor urging talent to take the "barter in training fee" instead.
+During a [shoot interview][samson-shoot-interview] for the "Wrestling Polska" YouTube channel, Samson stated that he "never earned a single penny" in PTW, that Underground shows were not paid appearances and only the "big" (numbered) events were, with the promotor urging talent to take the "barter in training fee" instead. (Note: the video was removed/set to private not long after.)
 
 During a regular [live stream][supporter-stream-barter] for his YouTube supporters (which requires a paid subscription), Pawłowski confirmed the accusations, stating that barter was an option, but always voluntary.
 He also confirmed that PTW wrestlers are not officially contracted and their exclusivity is based on a gentlemen's agreement.
@@ -243,7 +243,7 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Paw�
 
 On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating that the promotion had terminated the contract with its founder, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Two days later chairman [Łukasz Okoński](@/w/lukasz-okonski.md) posted a [video][i-nie-wroci] confirming this decision, pointing out that the process happened amicably. In the following weeks, however, it turned out that the process wasn't all that peaceful after all. Shortly after Boguś was fired Pawłowski started to publicly criticize PTW, to the point of editing the PTW logo and changing "Prime Time Wrestling" into a vulgar phrase, "Pierdolnie To Wszystko" (roughly _It's all gonna blow the fuck up_).
 
-[samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
+[samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
 [dziedzic-ngz]: https://www.youtube.com/live/-mveTz3FApQ
 [dziedzic-farewell-insta]: https://www.instagram.com/p/C7wHOhVsR4G/
