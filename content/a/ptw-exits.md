@@ -22,7 +22,6 @@ Notably absent from the list are
 [Puncher](@/w/puncher.md),
 [Nano Lopez](@/w/nano-lopez.md),
 [Iskra](@/w/iskra.md) and
-[Max Speed](@/w/max-speed.md).
 
 Iskra, despite never bidding farewell to PTW, appears to have quietly left as well at some point in mid-2024, whereas Max Speed was fired from the promotion in July 2025. Arczi Czajka also seems to have quietly retired following [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). [Puncher](@/w/puncher.md) disappeared from PTW programming after his loss in Winner Takes All Match at [PTW: Świąt nie będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in December 2025 and went on a prolonged hiatus, still in effect as of 21.09.2026. [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md) and [Alex Brave](@/w/alex-brave.md) stayed with PTW as well.
 
@@ -55,7 +54,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
   - 2023-10-03 Instagram - see gallery below
 - - '[Samson](@/w/samson.md)'
-  - 2022
+  - 2022 ([PTW Academy](@/o/ptw-academy.md))
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
   - '[2023-12-10](@/e/ptw/2023-12-10-ptw-underground-20.md)'
   - 2024
@@ -65,7 +64,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2023-07-16](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
   - 2024
 - - '**[Taras](@/w/taras.md)**'
-  - 2020
+  - 2020 ([PTW Academy](@/o/ptw-academy.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-04-13](@/e/ptw/2024-04-13-ptw-underground-21.md)'
   - 2024 Twitter
@@ -80,7 +79,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-06 [Instagram](https://www.instagram.com/p/C7wHOhVsR4G/)
 - - '**[Marcelito](@/w/marcelito.md)**'
-  - 2020
+  - 2020 ([PTW Academy](@/o/ptw-academy.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06
@@ -90,7 +89,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-06 [Instagram](https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/)
 - - '[Longman](@/w/wiktor-longman.md)'
-  - 2022
+  - 2022 ([PTW Academy](@/o/ptw-academy.md))
   - '[2022-08-28](@/e/ptw/2022-08-28-ptw-underground-7.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 Instagram
@@ -105,7 +104,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - 2022
+  - 2022 ([KPW](@/o/kpw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
@@ -115,7 +114,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024-06 Instagram - see gallery below
 - - '[Sambor](@/w/sambor.md)'
-  - 2023
+  - 2023 ([MZW](@/o/mzw.md)/[PAW](@/o/paw.md))
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06 [Instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
