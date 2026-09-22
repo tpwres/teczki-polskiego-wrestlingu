@@ -178,7 +178,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
 
 In the aftermath of [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the fifth major show started.
 Initially planned for October 2023, the show was postponed indefinitely.
-During that time, multiple talents started to voice their frustration on social media.
+During that time, multiple talent started to voice their frustration on social media.
 Eventually, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
 During a [shoot interview][samson-shoot-interview] for the "Wrestling Polska" YouTube channel, Samson stated that he "never earned a single penny" in PTW, that Underground shows were not paid appearances and only the "big" (numbered) events were, with the promotor urging talent to take the "barter in training fee" instead. (Note: the video was removed/set to private not long after.)
 
