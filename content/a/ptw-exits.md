@@ -130,7 +130,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
   - 2025-07-02 [PTW's Facebook](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl)
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - ?? ([MZWs](@/o/mzw.md))
+  - ?? ([MZW](@/o/mzw.md))
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
   - '[2026-03-29](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
   - ??
@@ -141,7 +141,7 @@ The table below is sorted chronologically by the estimated exit date.
   - ??
 - - '[Damian Adler](@/w/damian-adler.md)'
   - ?? ([KPW](@/o/kpw.md))
-  - '[Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md)'
+  - '[2025-10-25](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md)'
   - '[2026-06-27](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
   - ??
 {% end %}
