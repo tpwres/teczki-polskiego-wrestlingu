@@ -129,6 +129,21 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2023-07-30](@/e/ptw/2023-07-30-ptw-underground-16.md)'
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
   - 2025-07-02 [PTW's Facebook](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl)
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - ?? ([MZWs](@/o/mzw.md))
+  - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
+  - '[2026-03-29](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
+  - ??
+- - '[Bart Petro](@/w/bart-petro.md)'
+  - ?? ([KPW](@/o/kpw.md))
+  - '[2025-12-13](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+  - '[2026-05-23](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+  - ??
+- - '[Damian Adler](@/w/damian-adler.md)'
+  - ?? ([KPW](@/o/kpw.md))
+  - '[Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md)'
+  - '[2026-06-27](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
+  - ??
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
