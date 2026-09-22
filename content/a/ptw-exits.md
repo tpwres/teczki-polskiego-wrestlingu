@@ -17,13 +17,7 @@ This list documents the massive wave of exits from [PTW](@/o/ptw.md) that happen
 
 ## Wrestlers
 
-Notably absent from the list are
-[Diana Strong](@/w/diana-strong.md),
-[Puncher](@/w/puncher.md),
-[Nano Lopez](@/w/nano-lopez.md),
-[Iskra](@/w/iskra.md) and
-
-Iskra, despite never bidding farewell to PTW, appears to have quietly left as well at some point in mid-2024, whereas Max Speed was fired from the promotion in July 2025. Arczi Czajka also seems to have quietly retired following [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). [Puncher](@/w/puncher.md) disappeared from PTW programming after his loss in Winner Takes All Match at [PTW: Świąt nie będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in December 2025 and went on a prolonged hiatus, still in effect as of 21.09.2026. [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md) and [Alex Brave](@/w/alex-brave.md) stayed with PTW as well.
+In addition to clear-cut cases of wrestlers leaving PTW listed below, there are some whose status is less obvious. Arczi Czajka seems to have quietly retired following [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). [Puncher](@/w/puncher.md) disappeared from PTW programming after his loss in Winner Takes All Match at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in December 2025 and went on a prolonged hiatus, still in effect as of September 2026. On the other hand, [Diana Strong](@/w/diana-strong.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md) and [Alex Brave](@/w/alex-brave.md) stayed with PTW. [Iskra](@/w/iskra.md) appeared to have quietly left at some point in mid-2024, despite never bidding farewell to PTW, however he made a surprise to the ring at [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md).
 
 The table below is sorted chronologically by the estimated exit date.
 
@@ -123,7 +117,7 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06-25 [Pawłowski's Twitch stream](https://www.twitch.tv/videos/2180575222)
-- - '**[Max Speed](@/w/max-speed.md)**'
+- - '[Max Speed](@/w/max-speed.md)'
   - 2023 ([PTW Academy](@/o/ptw-academy.md))
   - '[2023-07-30](@/e/ptw/2023-07-30-ptw-underground-16.md)'
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
@@ -137,7 +131,7 @@ The table below is sorted chronologically by the estimated exit date.
   - 2025 ([KPW](@/o/kpw.md))
   - '[2025-12-13](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
   - '[2026-05-23](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
-  - 2026-06, Typowe WWE - see gallery below
+  - 2026-06, Facebook post - see gallery below
 - - '[Damian Adler](@/w/damian-adler.md)'
   - 2025 ([KPW](@/o/kpw.md))
   - '[2025-10-25](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md)'
