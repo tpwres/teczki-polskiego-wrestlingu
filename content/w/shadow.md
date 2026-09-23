@@ -70,7 +70,7 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
 
 ### Retirement (2026)
 
-On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from in-ring action due to a chronic hip injury sustained in a fight three or four years prior. Before ending his career as an active wrestler, he decided to make final three appearances in three promotions most important to him: Eastside Revolution Wrestling, Legacy of Wrestling, and lastly in Maniac Zone Wrestling.
+On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from in-ring action due to a chronic hip injury sustained in a fight three or four years prior (according to an [interview][w-cieniu-krowy] for [Center of Wrestling](@/o/cow.md)). Before ending his career as an active wrestler, he decided to make final three appearances in three promotions most important to him: Eastside Revolution Wrestling, Legacy of Wrestling, and lastly in Maniac Zone Wrestling.
 
 ## International wrestling appearances
 
@@ -112,3 +112,6 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14724)
 * [Video: Extreme Hell 2011 - Terry Shadow vs Black Joker](https://www.youtube.com/watch?v=5uRpO2Viqlk), a PXW match
+* [Video: interview with Center of Wrestling][w-cieniu-krowy]
+
+[w-cieniu-krowy]: https://www.youtube.com/watch?v=rAZoDbu2UbM
