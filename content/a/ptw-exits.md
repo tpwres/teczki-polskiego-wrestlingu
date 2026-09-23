@@ -126,7 +126,7 @@ The table below is sorted chronologically by the estimated exit date.
   - 2025 (return from retirement, post-[MZW](@/o/mzw.md))
   - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
   - '[2026-03-29](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
-  - between March and July, confirmed at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)
+  - Between March and July, confirmed at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)
 - - '[Bart Petro](@/w/bart-petro.md)'
   - 2025 ([KPW](@/o/kpw.md))
   - '[2025-12-13](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
