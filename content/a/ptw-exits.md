@@ -2,7 +2,7 @@
 title = "PTW Exits"
 weight = 0
 template = "article.html"
- authors = ["Sewi The Referee", "Szymon Iwulski"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 [taxonomies]
 category = ["Polish wrestling scene"]
 [extra]
@@ -11,22 +11,13 @@ toclevel = 3
 manifest = "@/a/ptw-exits-gallery.toml"
 +++
 
-This list documents the massive wave of exits from [PTW](@/o/ptw.md) that happened in the first half of 2024. Other significant names that joined the organization but exited before 2024 are also noted.
+This list documents the massive wave of exits from [PTW](@/o/ptw.md) that happened in the first half of 2024. Other significant names that joined the organization but exited outside this period are also noted.
 
 <!-- more -->
 
 ## Wrestlers
 
-Notably absent from the list are
-[Diana Strong](@/w/diana-strong.md),
-[Puncher](@/w/puncher.md),
-[Nano Lopez](@/w/nano-lopez.md),
-[Iskra](@/w/iskra.md) and
-[Max Speed](@/w/max-speed.md).
-
-Iskra, despite never bidding farewell to PTW, appears to have quietly left as well at some point in mid-2024, whereas Max Speed was fired from the promotion in July 2025. Arczi Czajka also seems to have quietly retired following [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md).
-
-Others still on the roster as of July 2025: [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md) and [Alex Brave](@/w/alex-brave.md).
+In addition to clear-cut cases of wrestlers leaving PTW listed below, there are some whose status is less obvious. Arczi Czajka seems to have quietly retired following [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md). [Puncher](@/w/puncher.md) disappeared from PTW programming after his loss in Winner Takes All Match at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) in December 2025 and went on a prolonged hiatus, still in effect as of September 2026. On the other hand, [Diana Strong](@/w/diana-strong.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Spartan](@/w/spartan.md) and [Alex Brave](@/w/alex-brave.md) stayed with PTW. [Iskra](@/w/iskra.md) appeared to have quietly left at some point in mid-2024, despite never bidding farewell to PTW, however he made a surprise to the ring at [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md).
 
 The table below is sorted chronologically by the estimated exit date.
 
@@ -55,9 +46,9 @@ The table below is sorted chronologically by the estimated exit date.
   - 2022 ([MZW](@/o/mzw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2023-10-03 Instagram - see gallery below
+  - 2023-10-03, Instagram - see gallery below
 - - '[Samson](@/w/samson.md)'
-  - 2022
+  - 2022 ([PTW Academy](@/o/ptw-academy.md))
   - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
   - '[2023-12-10](@/e/ptw/2023-12-10-ptw-underground-20.md)'
   - 2024
@@ -67,22 +58,22 @@ The table below is sorted chronologically by the estimated exit date.
   - '[2023-07-16](@/e/ptw/2023-07-16-ptw-x-ryucon.md)'
   - 2024
 - - '**[Taras](@/w/taras.md)**'
-  - 2020
+  - 2020 ([PTW Academy](@/o/ptw-academy.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-04-13](@/e/ptw/2024-04-13-ptw-underground-21.md)'
-  - 2024 Twitter
+  - 2024, Twitter
 - - '**[Disco Pablo](@/w/disco-pablo.md)**'
   - 2021 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - '2024-06 [Instagram](https://www.instagram.com/p/C8ALDNIszF8)'
+  - '2024-06, [Instagram](https://www.instagram.com/p/C8ALDNIszF8)'
 - - '**[Dziedzic](@/w/dziedzic.md)**'
   - 2020 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [Instagram](https://www.instagram.com/p/C7wHOhVsR4G/)
+  - 2024-06, [Instagram](https://www.instagram.com/p/C7wHOhVsR4G/)
 - - '**[Marcelito](@/w/marcelito.md)**'
-  - 2020
+  - 2020 ([PTW Academy](@/o/ptw-academy.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
   - 2024-06
@@ -90,42 +81,67 @@ The table below is sorted chronologically by the estimated exit date.
   - 2020 ([MCW](@/o/mcw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 [Instagram](https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/)
-- - '[Longman](@/w/wiktor-longman.md)'
-  - 2022
+  - 2024-06, [Instagram](https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/)
+- - '[Wiktor Longman](@/w/wiktor-longman.md)'
+  - 2022 ([PTW Academy](@/o/ptw-academy.md))
   - '[2022-08-28](@/e/ptw/2022-08-28-ptw-underground-7.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 Instagram
+  - 2024-06, Instagram
 - - '**[Boro](@/w/boro.md)**'
   - 2020 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2023-09-03](@/e/ptw/2023-09-03-ptw-underground-17.md)'
-  - 2024-06 Instagram
+  - 2024-06, Instagram
 - - '[Olgierd](@/w/olgierd.md)'
   - 2021-11 ([PpW](@/o/ppw.md)/[MZW](@/o/mzw.md))
   - '[2023-03-26](@/e/ptw/2023-03-26-ptw-underground-13.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
+  - '2024-06-08, [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
 - - '[Marco Hammers](@/w/marco-hammers.md)'
-  - 2022
+  - 2022 ([KPW](@/o/kpw.md))
   - '[2022-10-30](@/e/ptw/2022-10-30-ptw-underground-9.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - '2024-06-08 [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
+  - '2024-06-08, [PpW](@/e/ppw/2024-06-08-ppw-ledwo-legalne-4.md)'
 - - '**[Michał "Mutant" Świątkowski](@/w/mutant.md)**'
   - 2020 ([KPW](@/o/kpw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-06 Instagram - see gallery below
+  - 2024-06, Instagram - see gallery below
 - - '[Sambor](@/w/sambor.md)'
-  - 2023
+  - 2023 ([MZW](@/o/mzw.md)/[PAW](@/o/paw.md))
   - '[2023-12-09](@/e/ptw/2023-12-09-ptw-underground-19.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 [Instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
+  - 2024-06, [Instagram](https://www.instagram.com/p/C7_u3gIsgSO/)
 - - '**[Axel Fox](@/w/jakub.md)**'
   - 2021 ([MZW](@/o/mzw.md))
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06-25 [Pawłowski's Twitch stream](https://www.twitch.tv/videos/2180575222)
+  - 2024-06-25, [Pawłowski's Twitch stream](https://www.twitch.tv/videos/2180575222)
+- - '[Max Speed](@/w/max-speed.md)'
+  - 2023 ([PTW Academy](@/o/ptw-academy.md))
+  - '[2023-07-30](@/e/ptw/2023-07-30-ptw-underground-16.md)'
+  - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
+  - 2025-07-02, [PTW's Facebook](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0ZLcppBjAdv8A1TJoeVynfx22y2aAjqSqZpidtMbd63qsSTF2KLeQouGnano3nidpl)
+- - '[Damian Lambert](@/w/damian-lambert.md)'
+  - 2025 (return from retirement, post-[MZW](@/o/mzw.md))
+  - '[2025-06-28](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md)'
+  - '[2026-03-29](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md)'
+  - Between March and July, confirmed at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md)
+- - '[Bart Petro](@/w/bart-petro.md)'
+  - 2025 ([KPW](@/o/kpw.md))
+  - '[2025-12-13](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md)'
+  - '[2026-05-23](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md)'
+  - 2026-06, Facebook post - see gallery below
+- - '[Damian Adler](@/w/damian-adler.md)'
+  - 2025 ([KPW](@/o/kpw.md))
+  - '[2025-10-25](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md)'
+  - '[2026-06-27](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
+  - 2026-07-06, tpwres inquiry - see gallery below
+- - '[Boguś](@/w/bogus.md)'
+  - '2025 ([PTW Academy](@/o/ptw-academy.md))'
+  - '[2025-07-27](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
+  - '[2026-09-19](e/ptw/2026-09-19-ptw-droga-wojownika)'
+  - 2026-09-19, Instagram - see gallery below
 {% end %}
 
 Talent highlighted in **bold** were present at the organization's [first show](@/e/ptw/2021-10-09-ptw-1-revolucja.md).
@@ -137,42 +153,47 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - '[2023-04-23](@/e/ptw/2023-04-23-ptw-underground-14.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
   - 2024?
-- - '[Arek Paterek](@/w/arek-paterek.md) (commentary)'
-  - 2021
-  - ??
-  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-05 Twitter
-- - '[Łukasz Baliński](@/w/lukasz-balinski.md) (commentary)'
-  - ??
-  - ??
-  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-05 WrestleOne Youtube
-- - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) (commentary, social media)'
-  - ??
-  - ??
-  - ??
-  - 2024-05 Twitter
-- - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-  - 2021-11
-  - '[PTW Underground 2](@/e/ptw/2022-01-23-ptw-underground-2.md)'
-  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
-  - 2024-06 Instagram
 - - 'Marcin Rzeźniczek (co-founder)'
   - 2020
-  - n/a
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
-  - 2024-03 Instagram
+  - 2024-03, Instagram
+- - '[Arek Paterek](@/w/arek-paterek.md) (commentary)'
+  - 2021
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
+  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
+  - 2024-05, Twitter
+- - '[Łukasz Baliński](@/w/lukasz-balinski.md) (commentary)'
+  - ??
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
+  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
+  - 2024-05, WrestleOne Youtube
+- - '[Piotr "ShowOff" Małecki](@/w/piotr-malecki.md) (commentary, social media)'
+  - ??
+  - '[2022-04-24](@/e/ptw/2022-04-24-ptw-underground-4.md)'
+  - '[2024-02-03](@/e/ptw/2024-02-03-ptw-5-gold-rush.md)'
+  - 2024-05, Twitter
+- - '[Sędzia Seweryn](@/w/sedzia-seweryn.md) (referee)'
+  - 2021-11 ([MZW](@/o/mzw.md))
+  - '[2022-01-23](@/e/ptw/2022-01-23-ptw-underground-2.md)'
+  - '[2024-05-11](@/e/ptw/2024-05-11-ptw-6.md)'
+  - 2024-06, Instagram
+- - '[Arkadiusz Pawłowski](@/w/pan-pawlowski.md) (founder)'
+  - 2020
+  - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
+  - '[2026-08-28](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
+  - 2026-08-23, [Facebook][pawlowski-wyszedl]
 {% end %}
 
 ## Timeline
 
-### 2023: Mystery
+### 2023: The Mystery
 
-In the aftermath of [PTW #4 Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the fifth major show started.
+In the aftermath of [PTW #4: The Mystery](@/e/ptw/2023-06-25-ptw-4-mystery.md), build-up for the fifth major show started.
 Initially planned for October 2023, the show was postponed indefinitely.
-During that time, multiple talents started to voice their frustration on social media.
+During that time, multiple talent started to voice their frustration on social media.
 Eventually, [Rafi Rarytas](@/w/rafi.md), [Gabriel Queen](@/w/gabriel-queen.md), [Justin Joy](@/w/justin-joy.md) and [Samson](@/w/samson.md) were all removed from PTW's roster (see Justin's page for a series of screenshots from his social media where he addressed the situation).
-During a [shoot interview][samson-shoot-interview] for the "Wrestling Polska" YouTube channel, Samson stated that he "never earned a single penny" in PTW, that Underground shows were not paid appearances and only the "big" (numbered) events were, with the promotor urging talent to take the "barter in training fee" instead.
+During a [shoot interview][samson-shoot-interview] for the "Wrestling Polska" YouTube channel, Samson stated that he "never earned a single penny" in PTW, that Underground shows were not paid appearances and only the "big" (numbered) events were, with the promotor urging talent to take the "barter in training fee" instead. (Note: the video was removed/set to private not long after.)
 
 During a regular [live stream][supporter-stream-barter] for his YouTube supporters (which requires a paid subscription), Pawłowski confirmed the accusations, stating that barter was an option, but always voluntary.
 He also confirmed that PTW wrestlers are not officially contracted and their exclusivity is based on a gentlemen's agreement.
@@ -227,10 +248,22 @@ On Thursday June 13th, PTW have taken down the roster section of their page.
 
 In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Pawłowski confirmed that [Axel Fox](@/w/jakub.md), a popular babyface, has also quit the organization. This was the first time this info was shared, as Axel himself had not revealed it before. Axel made his debut for PpW at [Ale Grzeje](@/e/ppw/2024-07-13-ppw-ale-grzeje.md) on July 13th.
 
-[samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE&t=3s
+### 2026: Coda
+
+2026 came with some additional exits. Both [Bart Petro](@/w/bart-petro.md) and [Damian Adler](@/w/damian-adler.md) made their final PTW appearances in short succession and left PTW quietly. Petro departed after [PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) only to quickly resurface in FRPW, whereas Adler is yet to return to competition (as of September 2026).
+
+[Damian Lambert](@/w/damian-lambert.md) also quietly exited PTW some time between his final appearance at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), and [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) where [Sawicki](@/w/sawicki.md) took over Proroctwo and confirmed the exit of "false prophet Lambert". 
+
+On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating that the promotion had terminated the contract with its founder, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Two days later chairman [Łukasz Okoński](@/w/lukasz-okonski.md) posted a [video][i-nie-wroci] confirming this decision, pointing out that the process happened amicably. 
+Another departure this year was [Boguś](@/w/bogus.md), fired just after main eventing [Droga Wojownika](e/ptw/2026-09-19-ptw-droga-wojownika).
+This departure prompted Pawłowski to start publicly criticizing PTW, to the point of editing the PTW logo and changing "Prime Time Wrestling" into a vulgar phrase, "Pierdolnie To Wszystko" (roughly _Pitiful Total Waste_; lit. _It's all gonna blow the fuck up_). This put earlier claims that Pawłowski's departure was amicable into question.
+
+[samson-shoot-interview]: https://www.youtube.com/watch?v=0t8TTAVxQoE
 [paterek-tweet]: https://x.com/APaterek/status/1790078979447120009
 [dziedzic-ngz]: https://www.youtube.com/live/-mveTz3FApQ
 [dziedzic-farewell-insta]: https://www.instagram.com/p/C7wHOhVsR4G/
 [sinister-farewell-insta]: https://www.instagram.com/p/C71nSpIs-df6UPpM3a-caIu94g33KpnloNaaCY0/
 [supporter-stream-barter]: https://www.youtube.com/watch?v=dmLHzSe92x0
 [robert-star-interview]: https://www.youtube.com/watch?v=mRJrVjnAhyo
+[pawlowski-wyszedl]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JnnRXTahVr1vvPreAdE3ZXRKrBm93WZWzwMJ75UcDtCEM12EPj8g5i9rAcka26zdl
+[i-nie-wroci]: https://www.facebook.com/reel/1377064001215338
