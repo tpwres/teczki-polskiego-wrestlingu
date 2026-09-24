@@ -123,6 +123,6 @@ skip_art = true
 
 [24]
 path = "info-od-adlera.webp"
-caption = "Conversation with Damian Adler, confirming his date of departure from PTW."
-source = "Szymon Iwulski"
+caption = "Damian Adler directly confirms his date of departure from PTW."
+source = "Szymon Iwulski - inquiry on behalf of tpwres"
 skip_art = true
