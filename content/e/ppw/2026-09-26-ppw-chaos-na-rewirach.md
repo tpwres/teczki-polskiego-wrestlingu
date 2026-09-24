@@ -25,10 +25,15 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * On 13.09.2026 came the announcement of a Triple Threat Match between [Max Speed](@/w/max-speed.md), [Olgierd](@/w/olgierd.md) and [Leon Lato](@/w/leon-lato.md).
 * On 18.09.2026 [Goblin](@/w/goblin.md) and [Mister Z](@/w/mister-z.md) were given their first Singles Match against one another, for the #1 [PpW Championship](@/c/ppw-championship.md) Contendership.
 * A [video][gloria-na-rewirach] published on 19.08.2026 announced [Gloria G Szek's](@/w/gloria-g-szek.md) presence at the show. The video highlighted her role in setting up PpW shows, with Gloria proudly declaring _she's not afraid to get her hands dirty_ ("żadnej roboty się nie boję", lit. _I'm not afraid of any work_). This may have been a nod to the character of _Working Woman_ ("Kobieta Pracująca") from the popular '70s Polish TV series [Being Forty][czterdziestolatek], who famously said this line in every episode.
+* On 24.09.2024 [Gloria G Szek](@/w/gloria-g-szek.md) was put in a Pre-Show Mixed Tag Team Match with [Tony Sheen](@/w/riverman.md) against [Kalyana](@/w/kalyana.md) paired with [Bartosz Plata](@/w/plata.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
+- - '[Bartosz Plata](@/w/plata.md) & [Kalyana](@/w/kalyana.md)'
+  - '[Gloria G Szek](@/w/gloria-g-szek.md) & [Tony Sheen](@/w/riverman.md)'
+  - s: Pre-Show Match
+    nc: upcoming
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
@@ -59,9 +64,6 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
     nc: upcoming
 - - '[Jakub](@/w/jakub.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
-  - nc: upcoming
-- - '[Gloria G Szek](@/w/gloria-g-szek.md)'
-  - '???'
   - nc: upcoming
 {% end %}
 
