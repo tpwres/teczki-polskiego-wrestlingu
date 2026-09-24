@@ -136,7 +136,7 @@ The table below is sorted chronologically by the estimated exit date.
   - 2025 ([KPW](@/o/kpw.md))
   - '[2025-10-25](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md)'
   - '[2026-06-27](@/e/ptw/2026-06-27-ptw-dziedzictwo.md)'
-  - 2026-07-06, private conversation - see gallery below
+  - 2026-07-06, tpwres inquiry - see gallery below
 - - '[Boguś](@/w/bogus.md)'
   - '2025 ([PTW Academy](@/o/ptw-academy.md))'
   - '[2025-07-27](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md)'
@@ -182,7 +182,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - 2020
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2026-08-28](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
-  - 2026-08-23, Facebook
+  - 2026-08-23, [Facebook][pawlowski-wyszedl]
 {% end %}
 
 ## Timeline
