@@ -182,7 +182,7 @@ Talent highlighted in **bold** were present at the organization's [first show](@
   - 2020
   - '[2021-10-09](@/e/ptw/2021-10-09-ptw-1-revolucja.md)'
   - '[2026-08-28](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
-  - 2026-08-23, [Facebook][pawlowski-wyszedl]
+  - 2026-08-23, [Facebook](https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JnnRXTahVr1vvPreAdE3ZXRKrBm93WZWzwMJ75UcDtCEM12EPj8g5i9rAcka26zdl)
 {% end %}
 
 ## Timeline
