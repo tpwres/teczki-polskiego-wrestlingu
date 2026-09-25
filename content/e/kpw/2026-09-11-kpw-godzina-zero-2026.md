@@ -9,7 +9,7 @@ venue=["nowy-harem"]
 city = "Gdynia"
 toclevel = 2
 has_video = true
-collapse_gallery = false
+collapse_gallery = true
 [extra.gallery]
 +++
 
@@ -96,7 +96,7 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
 ### Highlights
 
 * The show opened with a new countdown before [Kinga Miotke](@/w/kinga-miotke.md) came out to a new theme, replacing the usual "Stand of Fall" by Bonfire.
-* This was [Arek Paterek's](@/w/arek-paterek.md) debut in KPW. His commentary acknowledged [Biuro Prasowe](@/tt/biuro-prasowe.md) and [Legacy of Wrestling](@/o/low.md).
+* The commentary for the live stream was done by [Rosetti](@/w/rosetti.md) and [Arek Paterek](@/w/arek-paterek.md), marking the latter's first official appearance at a KPW show (his presence in the audience at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) notwithstanding). His commentary acknowledged [Biuro Prasowe](@/tt/biuro-prasowe.md), [Legacy of Wrestling](@/o/low.md) and [Legia Łysych](@/tt/legia-lysych.md).
 * After his match, [Kamil Aleksander](@/w/kamil-aleksander.md) cut a promo talking about his years as a pro wrestler, and thanking the fans and the roster for their support. Afterwards, he cut his shoelaces with a pair of scissors and left his boots in the ring, thus ending his career.
 * [Chemik](@/w/chemik.md) came out alone and said he hadn't found a tag team partner, but was ready to fight solo if need be. He then dropped to his knees and addressed God directly, asking for divine intervention. Several moments later the good Lord seemingly answered by sending him [Oskar Haller](@/w/oskar-haller.md), who in turn said he'd rather be a Champion alongside Chemik, rather than allow him to score both Championships for himself. Chemik - who was so against the idea that he first asked [Kinga Miotke](@/w/kinga-miotke.md) if she'd like to team up with him - replied he needed to consult this, which he did by kneeling in a corner and praying. After a while he came back saying that the Lord hath spoken: _Sure, why not_ ("Może być").
 * Just as [Sędzia Alan](@/w/sedzia-alan.md) was about to count Chemik's pin on [Lukáš Mottl](@/w/lukas-mottl.md) to three, Johan Otto pulled the referee out of the ring by the feet. As the two argued, Chemik attempted to clobber Mottl on the head with his [Legacy of Wrestling](@/o/low.md) championship contract briefcase which he'd won at [Enter the Dragon](@/e/low/2026-07-10-low-6.md). Oskar Haller stopped him, though, calling out Chemik's unsportsmanlike behaviour. This gave Team Visegrad an opening to attack and very nearly pin Chemik, but ultimately to no avail.
@@ -105,8 +105,11 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
 * Early in the Dog Collar Match the chain on Tomczak's end broke, leaving him unshackled for the rest of the fight.
 * Leon Lato bled ever so slightly.
 * Tomczak attempted to [eat Leon's head](@/a/polish-wrestling-chants.md#calls-to-action).
+* As the usual chant of "Fux!" proved difficult to pertain to a specific brother, the audience briefly took to chanting _Better Fux!_ ("Lepszy Fux!").
+* Like Tomczak in the previous fight, Filip also ate Michał's head.
+* Filip took a sip of a fan's beer, only to spit it in Michał's face.
 * Filip Fux tried attacking Michał with a steel chair. Michał then turned the tables on his sibling but could not bring himself to brutalise his own brother in such manner. Filip had no such scruples and hit Michał below the belt, promptly following it with Chemik's finishing move _Ostatnie Namaszczenie_, thus winning the fight.
-* [Krystian Malinowski](@/w/krystian-malinowski.md) inserted himself into the Battle Royal, and called for [Rosetti](@/w/rosetti.md) 
+* [Krystian Malinowski](@/w/krystian-malinowski.md) inserted himself into the Battle Royal, and called for [Rosetti](@/w/rosetti.md).
 * Eryk Lesak pushed Oskar Haller out of the ring and onto Chemik who caught him mid-air, thus saving him from elimination. Haller urged his tag team partner to throw him back into the ring, but Chemik just dropped him to the floor.
 * Battle Royal elimination order:
   1. Rosetti eliminates Krystian Malinowski
@@ -123,9 +126,10 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
   12. Michał Fux eliminates Filip Fux
   13. Michał Fux eliminates Eryk Lesak
 * [Zefir](@/w/zefir.md) returned to his fire-breathing entrance routine after a year-long break.
+* Before the match began the audience began singing [Barka](@/a/polish-wrestling-chants.md#songs), much to [Iestyn Rees's](@/w/iestyn-rees.md) annoyance - further fuelled by [Greg](@/w/greg.md), urging the crowd to sing louder.
+* Zefir opened with a Super Kick to Greg's jaw, temporarily getting him out of commission in order to focus on Iestyn Rees. This later backfired - Zefir and Greg attacked Rees together in a brief impromptu alliance and Zefir motioned to high-five Greg, but only received a chop to the chest.
 * After the match, Zefir cut a promo apologising for not winning the [KPW Championship](@/c/kpw-championship.md) and promising to do better next time. Afterwards, he asked a young fan whose dream it was to meet Zefir, to join him in the ring.
-* Lastly, [Krystian Malinowski](@/w/krystian-malinowski.md) came out into the ring and went on a long-winded and increasingly unhinged tirade, talking about the superiority of [Iestyn Rees](@/w/iestyn-rees.md) - whom he referred to as the god of Polish wrestling - and the fans being accessories to the [attept at Malinowski's life](@/e/kpw/2024-11-15-kpw-arena-26.md#highlights). He said the fans were no longer necessary and should stop coming to his shows, for they shall perish in hellfire when the Judgement Day cometh, and the day is nigh. As he was talking about populating the Earth with tens of thousands of little Chairmen, four babyfaces - [Michał Fux](@/w/michal-fux.md), [Oskar Haller](@/w/oskar-haller.md), [Leon Lato](@/w/leon-lato.md) and [Zefir](@/w/zefir.md) - quietly joined him in the ring before unceremoniously putting him in a straitjacket and carrying him off.
-* The commentary for the live stream was done by [Rosetti](@/w/rosetti.md) and [Arek Paterek](@/w/arek-paterek.md), marking the latter's first official appearance at a KPW show (his presence in the audience at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md) notwithstanding).
+* Lastly, [Krystian Malinowski](@/w/krystian-malinowski.md) came out into the ring and went on a long-winded and increasingly unhinged tirade, talking about the superiority of Iestyn Rees - whom he referred to as the god of Polish wrestling - and the fans being accessories to the [attept at Malinowski's life](@/e/kpw/2024-11-15-kpw-arena-26.md#highlights). He said the fans were no longer necessary and should stop coming to his shows, for they shall perish in hellfire when the Judgement Day cometh, and the day is nigh. As he was talking about populating the Earth with tens of thousands of little Chairmen, four babyfaces - [Michał Fux](@/w/michal-fux.md), [Oskar Haller](@/w/oskar-haller.md), [Leon Lato](@/w/leon-lato.md) and [Zefir](@/w/zefir.md) - quietly joined him in the ring before unceremoniously putting him in a straitjacket and carrying him off.
 
 ## References
 

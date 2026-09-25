@@ -10,11 +10,11 @@ orgs = ["kpw", "low"]
 2 = { path = "wejscie-godne-mistrzow.webp", caption = "The Brothers' entrance at [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md).", source = "M.Fotografika" }
 +++
 
-Bracia Fux are a Polish tag team consisting of [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md). They are best known for their work in [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
+Bracia Fux are a former Polish tag team consisting of [Michał Fux](@/w/michal-fux.md) and [Filip Fux](@/w/filip-fux.md). They are best known for their work in [Kombat Pro Wrestling](@/o/kpw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## History
 
-### Kombat Pro Wrestling (2021-present)
+### Kombat Pro Wrestling (2021-2026)
 
 [Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md) made their debuts at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). Working as a tag team called Bracia Fux (_the Fux Brothers_), the two kayfabe siblings faced a one-off team of [Eryk Lesak](@/w/eryk-lesak.md) and [Piotr Opolski](@/w/piotr-opolski.md), whom they defeated. The [next show](@/e/kpw/2022-03-18-kpw-arena-18.md) saw them in another tag match, but the two Fuxes quickly branched off into singles competition starting with [Arena 19](@/e/kpw/2022-06-10-kpw-arena-19.md). Since then they have appeared solo as well as together in roughly equal measure.
 
@@ -24,7 +24,13 @@ At [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md) the Brothers
 
 At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) the Brothers took part in a tournament for the [KPW Championship](@/c/kpw-championship.md) Contendership and at the [next show](@/e/kpw/2025-01-24-kpw-arena-27.md) they faced [David Oliwa](@/w/david-oliwa.md) as well as one another in a Three Way Match - a bout that was won by Michał Fux. Then at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) Michał took on [Hans Schulte](@/w/hans-schulte.md) in a match for KPW's main title, while Filip squared off against Chemik for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md); however, both Fuxes lost their matches.
 
-At [Godzina Zero 2025](@/e/low/2025-07-11-low-3.md) the Fux Brothers were challenged by [Team Visegrad](@/tt/team-visegrad.md) for their KPW Tag Team Championships. Shockingly, the challengers were able to defeat the Champions, ending their reign after 735 days. Soon after, at [KPW's Show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md), they introduced a third brother, Oskar Fux, a worker who made his debut as an unnamed rookie during a match against [Tomczak](@/w/tomczak.md) at Godzina Zero. As of the early October 2025, it is unknown if the Oskar Fux character will be utilised in regular KPW's programming, which leaves him as a non-canon character.
+At [Godzina Zero 2025](@/e/low/2025-07-11-low-3.md) the Fux Brothers were challenged by [Team Visegrad](@/tt/team-visegrad.md) for their KPW Tag Team Championships. Shockingly, the challengers were able to defeat the Champions, ending their reign after 735 days. Soon after, at [KPW's Show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md), they introduced a third brother, Oskar Fux, a worker who made his debut as an unnamed rookie during a match against [Tomczak](@/w/tomczak.md) at Godzina Zero. The rookie joined the roster at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) as [Oskar Haller](@/w/oskar-haller.md), making future appearances of the Oskar Fux character unlikely, which leaves him as a non-canon character.
+
+#### Decline and dissolution
+
+At [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md) [Chairman Malinowski](@/w/krystian-malinowski.md) was attacked by a masked assailant with a glass bottle to the head, leading to his hospitalisation. After returning a few shows later Malinowski became increasingly paranoid, suspecting multiple people of orchestrating and/or carrying out the attack, before eventually zeroing in on [Zefir](@/w/zefir.md). At [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) a trial of Zefir took place, with Filip Fux as the advocate and Michał as a witness. During the trial advocate Fux presented evidence in the form of a glass bottle and a black ski mask, both found in Michał's luggage, leading to Michał becoming the prime suspect. This drove a wedge between the brothers, with the gap only growing larger with time. Adding to it, [Chemik](@/w/chemik.md) claimed at the [next show](@/e/kpw/2026-04-24-kpw-arena-33.md) that Filip had spent Easter at his home, rather than with the Fux family.
+
+[Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) saw the Brothers confront each other, airing their grievances. Once again, Chemik added fuel to the fire by claiming Filip had confided in him his feelings of inferiority - a claim Filip denied, but the seed of doubt caused Michał to no longer know what to believe. Making one last attempt to reconcile Michał extended his hand to Filip, but instead of taking it, he attacked Michał with his finisher and left. Finally, at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) the two faced each other in a match for the first time, and with Filip emerging victorious, the Brothers Fux were no more.
 
 ### Legacy of Wrestling (2025)
 
@@ -35,6 +41,7 @@ At [Legacy of Wrestling](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) F
 In addition to working in Poland, the Fux Brothers made an appearance in 2023 for the Austrian promotion European Wrestling Association. They went against Team Energy (Chris Colen & Damon Brix) for their EWA Tag Team championship, but failed to win the belts.
 
 ## Members
+
 * [Filip Fux](@/w/filip-fux.md)
 * [Michał Fux](@/w/michal-fux.md)
 * Oskar Fux (non-canon shows) ([KPW in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md), [Talon Smackdown](@/e/kpw/2025-09-13-kpw-talon-smackdown.md))
@@ -42,8 +49,8 @@ In addition to working in Poland, the Fux Brothers made an appearance in 2023 fo
 ## In wrestling
 
 * Finishers:
-  - Flapjack ([Michał](@/w/michal-fux.md)) and Cutter ([Filip](@/w/filip-fux.md)) combination (2021-)
-  - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
+  - Flapjack ([Michał](@/w/michal-fux.md)) and Cutter ([Filip](@/w/filip-fux.md)) combination (2021-2026)
+  - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-2026)
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
  {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025) <br>
@@ -51,7 +58,7 @@ In addition to working in Poland, the Fux Brothers made an appearance in 2023 fo
  {{ music(spot='7s60huPEeS8f9ytqAlQksr')}}
  {{ music(apple='1764395673?i=1764396024')}}
   - "Better days" by Dangerous New Machine
- {{ org_badge(orgs=['kpw']) }} (2023-)<br>
+ {{ org_badge(orgs=['kpw']) }} (2023-2026)<br>
  {{ music(yt='se3AUY4XKcA')}}
  {{ music(apple='375038556?i=375038653')}}
 

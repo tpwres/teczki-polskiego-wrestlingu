@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "kpw-arena-22-michal-fux.jpg", caption = "Michał poses for the fans, [KPW Arena 22](@/e/kpw/2023-05-19-kpw-arena-22.md).", source = "M3n747" }
 +++
 
-Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), where he is one half of the Fux Brothers tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md). He also worked for [Legacy of Wrestling](@/o/low.md).
+Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/o/kpw.md), where he is one half of the former [Fux Brothers](@/tt/bracia-fux.md) tag team, along with his kayfabe sibling [Filip](@/w/filip-fux.md). He also worked for [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
@@ -27,7 +27,7 @@ Michał Fux is a Polish wrestler best known for his time in [Kombat Pro Wrestlin
 
 Michał Fux debuted in August 2021 at [KPW Arena 17](@/e/kpw/2021-08-21-kpw-arena-17.md). He's best known for his tag team work alongside [Filip Fux](@/w/filip-fux.md), but he also worked a number of solo matches.
 
-As the Fux Brothers, Michał and Filip won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) and [Veit Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). Michał and Filip held the titles for two years until [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), where they lost them to [Team Visegrad](@/tt/team-visegrad.md) ([David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)).
+As the [Fux Brothers](@/tt/bracia-fux.md), Michał and Filip won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) by defeating Die Ordnung ([Hans Schulte](@/w/hans-schulte.md) and [Veit Müller](@/w/veit-mueller.md)) at [KPW Godzina Zero 2023](2023-08-18-kpw-godzina-zero-2023.md). Michał and Filip held the titles for two years until [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), where they lost them to [Team Visegrad](@/tt/team-visegrad.md) ([David Oliwa](@/w/david-oliwa.md) & [Ricky Sky](@/w/ricky-sky.md)).
 
 In October 2024 KPW's chairman [Krystian Malinowski](@/w/krystian-malinowski.md) announced a new tournament for #1 Contendership for the [KPW Championship](@/c/kpw-championship.md), called ["Wyścig"](@/e/kpw/2024-11-15-kpw-arena-26.md) (_The Race_). Both of the Fux Brothers entered the tournament and won their matches in the quarter finals, with Michał scoring a victory against [Chemik](@/w/chemik.md). In the finals - which were merged into a single Triple Threat Match - Michał and Filip stood against one another and [David Oliwa](@/w/david-oliwa.md). Michał won the match, which would lead him into a match with the reigning champion - [Hans Schulte](@/w/hans-schulte.md).
 
@@ -50,7 +50,7 @@ In 2023 Michał made his first appearance outside of Poland, when he worked one 
 * With [Filip Fux](@/w/filip-fux.md):
   - Flapjack (Michał) and Cutter (Filip) combination (2021-)
 * Tag Teams and stables:
-  - [Bracia Fux](@/tt/bracia-fux.md) (2021-)
+  - [Bracia Fux](@/tt/bracia-fux.md) (2021-2026)
 * Entrance music:
   - "Kickstart My Heart" by Mötley Crüe
     {{ org_badge(orgs=['kpw', 'low']) }} (2021-2023; 2025 - both in Tag Team with [Filip Fux](@/w/filip-fux.md) and solo)<br>
