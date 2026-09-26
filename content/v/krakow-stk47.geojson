@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.974899, 50.046714]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Stk47 Warehouse",
+        "description": "A dance club where [PpW](@/o/ppw.md) held their [first show](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md) in the city.",
+        "orgs": ["ppw"]
+    }
+}
