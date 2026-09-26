@@ -58,7 +58,7 @@ At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; current) - [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) & [Isnorr](@/w/isnorr.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) & [Isnorr](@/w/isnorr.md)
 
 [kabanosy]: https://en.wikipedia.org/wiki/Kabanos
 [rodzina-kolejny]: https://www.instagram.com/p/DTs_vmZignE/

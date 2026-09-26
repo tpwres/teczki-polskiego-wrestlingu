@@ -98,7 +98,7 @@ From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md
   - [DFW Championship](@/c/dfw-championship.md) (1 time; final)
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultriaviolent Champion](@/c/ppw-european-ultraviolent-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## References
 

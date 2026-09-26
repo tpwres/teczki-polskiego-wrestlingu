@@ -42,14 +42,15 @@ At [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) 
 
 Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Axel Fox](@/w/jakub.md) betrayed [Goblin](@/w/goblin.md) by refusing to tag in and allowing [Olgierd](@/w/olgierd.md) to score a pin, after which he shook the hand offered to him by [Mister Z](@/w/mister-z.md), thus joining [Zmowa](@/tt/zmowa.md). At [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) he climbed to the top of PpW's hierarchy once again after Olgierd won the PpW Championship from Goblin. Mister Z also announced Zmowa's intent to become the inaugural [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) (most probably in accordance with the [Freebird Rule](@/a/freebird-rule.md)), as Mister Z and Axel Fox defeated Biesiad and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) in a qualifying match. Zmowa's work paid off as they were sucessful in the tournament finals, when the group - represented by [Jakub "Fox"](@/w/jakub.md) and Mister Z - won the titles in a match against [Bad Trip](@/tt/bad-trip.md) (Gustav Gryffin & Goblin) and [Rodzina](@/tt/rodzina.md).
 
+At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd clashed with Mister Z and unexpectedly left Zmowa.
+
 ## Members
 
 #### Current
 
 * [Mister Z](@/w/mister-z.md) - the leader of Zmowa
-* [Olgierd](@/w/olgierd.md) - [Legia Łysych](@/tt/legia-lysych.md)
 * [Axel Fox](@/w/jakub.md)
-* Gaba
+* Rozalia Nyx
 
 #### Former and part-time
 
@@ -59,6 +60,7 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
 * [Isnorr](@/w/isnorr.md) - ultraviolent specialist ([Harcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) - [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md))
 * [Gustav Gryffin](@/w/gustav-gryffin.md) - the face of the company ([Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) - [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md))
 * [Marco Hammers](@/w/marco-hammers.md) - [Legia Łysych](@/tt/legia-lysych.md)
+* [Olgierd](@/w/olgierd.md) - [Legia Łysych](@/tt/legia-lysych.md)
 
 ## In wrestling
 
