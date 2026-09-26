@@ -33,6 +33,8 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 - - '[Bartosz Plata](@/w/plata.md) & [Kalyana](@/w/kalyana.md)'
   - '[Gloria G Szek](@/w/gloria-g-szek.md) & [Tony Sheen](@/w/riverman.md)'
   - s: Pre-Show Match
+- - '[Jakub](@/w/jakub.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
 
 
      
@@ -64,9 +66,6 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
   - '[Olgierd](@/w/olgierd.md)'
   - s: Triple Threat Match
     nc: upcoming
-- - '[Jakub](@/w/jakub.md)'
-  - '[Antoni Ocean](@/w/antoni-ocean.md)'
-  - nc: upcoming
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
@@ -76,8 +75,11 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 ### Highlights
 
 * Ringside cameras featured zoomed-in, shallow depth of field, resulting in a "cinematic" feel of handheld shots.
+* Early in the show the live stream was unstable, often freezing and cutting off. The transmission quality improved during Ocean vs Jakub.
 * [Tony Sheen](@/w/riverman.md) brought back the inflatable dolphin from [Wixapol](@/e/ppw/2026-08-15-ppw-wixapol.md). [Bartosz Plata](@/w/plata.md) performed a Piledriver on it, angering Sheen.
 * Sheen intercepted Plata's Burning Lariat intended for [Gloria G Szek](@/w/gloria-g-szek.md) with his own body, which cost him and Gloria the match.
+* [Jakub](@/w/jakub.md) came out carrying a walking stick and the crowd wasted no time making suggestions which were as crude, as they were Freudian.
+* 
 
 ## References
 
