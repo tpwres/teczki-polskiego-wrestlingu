@@ -50,8 +50,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 - - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: '#1 Contendership Match' nc: upcoming
-    
+    s: '#1 Contendership Match'
 
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
