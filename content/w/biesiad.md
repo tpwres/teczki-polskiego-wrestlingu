@@ -49,10 +49,10 @@ Thanks to that victory he became the third official [PpW Champion](@/c/ppw-champ
 From that point on, Biesiad started a streak of successful title defences against wrestlers such as [Osamu](@/w/osamu.md), Mister Z, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and the enforcer of PpW's owner [Jerry Mandecky](@/w/jerry-mandecky.md) - [Kapitan Bazooka](@/w/kapitan-bazooka.md).
 His reign finally came to an end at [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md), where he lost the title to [Steve Kuningas](@/w/steve-kuningas.md), ending his reign after 462 days.
 
-#### The Hardcores
+#### The Hardcors
 
-After his defeat at Ledwo Legalne III, Biesiad formed an alliance with his old friend Johnny Blade, to form a team called The Hardcores.
-They faced their rivals - Steve Kuningas and Stanisław Van Dobroniak - in a Tag Team Match at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md). According to their agreement with PpW's producer and their rival, Mister Z, their defeat resulted in The Hardcores being banned from earning any title shots in PpW.
+After his defeat at Ledwo Legalne III, Biesiad formed an alliance with his old friend Johnny Blade, to form a team called [The Hardcors](@/tt/the-hardcors.md).
+They faced their rivals - Steve Kuningas and Stanisław Van Dobroniak - in a Tag Team Match at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md). According to their agreement with PpW's producer and their rival, Mister Z, their defeat resulted in The Hardcors being banned from earning any title shots in PpW.
 This led to a feud with other hardcore specialists, Isnorr and [Chris X](@/w/chris-x.md). At [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md) Biesiad lost his match against Isnorr thanks to Chris X's intervention, but he got his revenge when he attacked Chris during his match against Johnny later that night. At [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) The Hardcores defeated Chris X and Isnorr.
 
 #### Championship pursuit 
@@ -114,7 +114,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][wrestlow
 * Finishers:
   - Swanton Bomb (2015-present)
 * Tag Teams and stables:
-  - The Hardcores (2023-)
+  - [The Hardcors](@/tt/the-hardcors.md) (2023-)
 * Entrance music:
   - "Floorfiller" by A*Teens
     {{ org_badge(orgs=['ppw']) }} (as Red Floorfiller) <br>
@@ -146,7 +146,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][wrestlow
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (2 times)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of The Hardcors
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [The Hardcors](@/tt/the-hardcors.md)
   - Turniej TypeShit (2025)
 
   _Backyard Era Championships:_

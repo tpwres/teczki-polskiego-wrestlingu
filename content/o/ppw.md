@@ -161,7 +161,7 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - 'The Hardcors: [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - >
     Defeated [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md) at [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
 {% end %}

@@ -60,7 +60,8 @@ At [Ledwo Legalne III][ll3] in June 2023, Mister Z reluctantly agreed to Jerry's
 
 #### Championship pursuit
 
-After Mister Z betrayed Johnny, Blade grew closer to his other best friend and fan-favourite [Biesiad](@/w/biesiad.md), occasionally teaming up with him for the rest of 2023 as The Hardcores. At [Czyste Intencje][intencje] they lost a Tag Team Match against Stanisław Van Dobroniak and [Steve Kuningas](@/w/steve-kuningas.md). According to their agreement with PpW's producer - Mister Z - due to defeat both of The Hardcores were banned from earning any title shots in PpW. This defeat led to feud with other ultraviolent specialists, [Isnorr](@/w/isnorr.md) and [Chris X](@/w/chris-x.md). This resulted in a Tornado Tag Team Match at [Miasto Bezprawia][miasto] in February 2024, which Blade & Biesiad won.
+After Mister Z betrayed Johnny, Blade grew closer to his other best friend and fan-favourite [Biesiad](@/w/biesiad.md), occasionally teaming up with him for the rest of 2023 as [The Hardcors](@/tt/the-hardcors.md). At [Czyste Intencje][intencje] they lost a Tag Team Match against Stanisław Van Dobroniak and [Steve Kuningas](@/w/steve-kuningas.md). According to their agreement with PpW's producer - Mister Z - due to defeat both of The Hardcors were banned from earning any title shots in PpW. This defeat led to feud with other ultraviolent specialists, [Isnorr](@/w/isnorr.md) and [Chris X](@/w/chris-x.md). This resulted in a Tornado Tag Team Match at [Miasto Bezprawia][miasto] in February 2024, which Blade & Biesiad won.
+
 At the next show, [Ewenement Haze][haze], Johnny made himself the special guest referee in an ultraviolent match between Dobroniak vs [Alex Arthur](@/w/alex-arthur.md), and forced Mister Z to lift his ban on competing for the UV Championship. Mister Z agreed and that led Johnny to be considered next in line for his long-lost PpW Ultraviolent Championship. The match took place at [Ledwo Legalne IV][ll4]. It was a Born to be Wired Four Way Elimination Match with Alex Arthur and Isnorr added to the mix, however it was Blade who managed to score the ultimate victory and regain the championship.
 
 #### Feud with Isnorr
@@ -107,7 +108,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest
   - Diving Splash, sometimes with a foregin object in hands (2020-)
 * Tag Teams and stables:
   - 2 Chamy (2016, 2021)
-  - The Hardcores (2023-)
+  - [The Hardcors](@/tt/the-hardcors.md) (2023-)
 * Entrance music:
   - "Red Stars" by The Birthday Massacre
     {{ org_badge(orgs=['ppw']) }} (2020-) <br>
@@ -120,7 +121,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (2 times; inaugural)
   - VcV Hardcore Championship (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of The Hardcors
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [The Hardcors](@/tt/the-hardcors.md)
 
    _Backyard Era Championships_:
   - Pas Reslingu (_Resling Belt_) (1 time)
