@@ -80,6 +80,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457201)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-chaos-na-rewirach-09-26-2026-20-33-00) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02oM1up2dTNEnV1JLwT7mDYrCcbJLTeErEUjxxHgQYGEsFjSyUZgPNw3vMcc9Wui1Wl)
 
 [wiekizm]: https://www.facebook.com/reel/1410396644355230
