@@ -48,10 +48,6 @@ has_video = false
     s: Open Challenge Tag Team Match
 {% end %}
 
-### Highlights
-
-* TBD
-
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=462215)
