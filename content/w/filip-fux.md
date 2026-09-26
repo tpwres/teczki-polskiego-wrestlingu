@@ -92,7 +92,7 @@ From 2023 onwards Filip started to secure international bookings for himself. He
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Michał Fux](@/w/michal-fux.md)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 
