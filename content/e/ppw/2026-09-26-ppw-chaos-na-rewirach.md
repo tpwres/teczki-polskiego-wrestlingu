@@ -61,7 +61,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: 30 Minute Iron Man Match
-
+    nc: upcoming
 
 
 - credits:
@@ -79,7 +79,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 * [Jakub](@/w/jakub.md) came out carrying a walking stick and the crowd wasted no time making suggestions which were as crude, as they were Freudian.
 * This was [Sędzia Kornel's](@/w/sedzia-kornel.md) last show for the forseeable future, as he decided to temporarily part ways with PpW for unspecified reasons.
 * [Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md) came out of the backstage during the Triple Threat Match, which distracted [Olgierd](@/w/olgierd.md) and allowed [Leon Lato](@/w/leon-lato.md) to successfully pin him.
-* 
+* [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md) tried to run away during the match, but were stopped by [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md).
 
 ## References
 
