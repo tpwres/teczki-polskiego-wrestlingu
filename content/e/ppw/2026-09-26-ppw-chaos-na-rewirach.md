@@ -32,7 +32,10 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 {% card() %}
 - - '[Bartosz Plata](@/w/plata.md) & [Kalyana](@/w/kalyana.md)'
   - '[Gloria G Szek](@/w/gloria-g-szek.md) & [Tony Sheen](@/w/riverman.md)'
-  - s: Pre-Show Match   
+  - s: Pre-Show Match
+
+
+     
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
@@ -72,7 +75,9 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 
 ### Highlights
 
-* TBD
+* Ringside cameras featured zoomed-in, shallow depth of field, resulting in a "cinematic" feel of handheld shots.
+* [Tony Sheen](@/w/riverman.md) brought back the inflatable dolphin from [Wixapol](@/e/ppw/2026-08-15-ppw-wixapol.md). [Bartosz Plata](@/w/plata.md) performed a Piledriver on it, angering Sheen.
+* Sheen intercepted Plata's Burning Lariat intended for [Gloria G Szek](@/w/gloria-g-szek.md) with his own body, which cost him and Gloria the match.
 
 ## References
 
