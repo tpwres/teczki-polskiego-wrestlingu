@@ -146,6 +146,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][wrestlow
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (2 times)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of The Hardcors
   - Turniej TypeShit (2025)
 
   _Backyard Era Championships:_

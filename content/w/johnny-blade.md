@@ -120,6 +120,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (2 times; inaugural)
   - VcV Hardcore Championship (1 time)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of The Hardcors
 
    _Backyard Era Championships_:
   - Pas Reslingu (_Resling Belt_) (1 time)
