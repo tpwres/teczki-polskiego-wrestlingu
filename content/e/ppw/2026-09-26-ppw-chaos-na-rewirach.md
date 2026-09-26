@@ -75,7 +75,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 * This was [Sędzia Kornel's](@/w/sedzia-kornel.md) last show for the forseeable future, as he decided to temporarily part ways with PpW for unspecified reasons.
 * [Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md) came out of the backstage during the Triple Threat Match, which distracted [Olgierd](@/w/olgierd.md) and allowed [Leon Lato](@/w/leon-lato.md) to successfully pin him.
 * [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md) tried to run away during the match, but were stopped by [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md).
-* [Gabriel Queen](@/w/gabriel-queen.md) defeated [Jacob Crane](@/w/jacob-crane.md) 3:2, scoring the final point a couple of seconds before the time ran out.
+* [Gabriel Queen](@/w/gabriel-queen.md) defeated [Jacob Crane](@/w/jacob-crane.md) 3:2, scoring the final point just six seconds before the time ran out.
 
 ## References
 
