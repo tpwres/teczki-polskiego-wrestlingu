@@ -38,8 +38,12 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ Kondzio the Cannonball'
   - '[Rodzina](@/tt/rodzina.md): [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md)'
   - s: Tag Team Match
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - '[Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
+  - s: Triple Threat Match
 
-     
+
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
@@ -59,24 +63,20 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
   - '???'
   - s: Tag Team Match
     nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - s: Triple Threat Match
-    nc: upcoming
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Highlights
 
 * Ringside cameras featured zoomed-in, shallow depth of field, resulting in a "cinematic" feel of handheld shots.
-* The live stream was often unstable, freezing and cutting off.
+* The live stream was at times unstable, freezing and cutting off.
 * [Tony Sheen](@/w/riverman.md) brought back the inflatable dolphin from [Wixapol](@/e/ppw/2026-08-15-ppw-wixapol.md). [Bartosz Plata](@/w/plata.md) performed a Piledriver on it, angering Sheen.
 * Sheen intercepted Plata's Burning Lariat intended for [Gloria G Szek](@/w/gloria-g-szek.md) with his own body, which cost him and Gloria the match.
 * [Jakub](@/w/jakub.md) came out carrying a walking stick and the crowd wasted no time making suggestions which were as crude, as they were Freudian.
+* This was [Sędzia Kornel's](@/w/sedzia-kornel.md) last show for the forseeable future, as he decided to temporarily part ways with PpW for unspecified reasons.
 * 
 
 ## References
