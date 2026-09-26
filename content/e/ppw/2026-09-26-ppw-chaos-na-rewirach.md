@@ -42,7 +42,16 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
   - '[Max Speed](@/w/max-speed.md)'
   - '[Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
   - s: Triple Threat Match
-
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Jakub](@/w/jakub.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - 'Rozalia Nyx'
+  - g: 'Mister Z chastises Olgierd for losing, Olgierd quits Zmowa.'
+- - '[Goblin](@/w/goblin.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: '#1 Contendership Match' nc: upcoming
+    
 
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
@@ -53,11 +62,6 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
   - 'The Hardcors: [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: Tag Team Match
-    nc: upcoming
-- - '[Goblin](@/w/goblin.md)'
-  - '[Mister Z](@/w/mister-z.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: '#1 Contendership Match'
     nc: upcoming
 - - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - '???'
@@ -77,6 +81,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 * Sheen intercepted Plata's Burning Lariat intended for [Gloria G Szek](@/w/gloria-g-szek.md) with his own body, which cost him and Gloria the match.
 * [Jakub](@/w/jakub.md) came out carrying a walking stick and the crowd wasted no time making suggestions which were as crude, as they were Freudian.
 * This was [Sędzia Kornel's](@/w/sedzia-kornel.md) last show for the forseeable future, as he decided to temporarily part ways with PpW for unspecified reasons.
+* [Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md) came out of the backstage during the Triple Threat Match, which distracted [Olgierd](@/w/olgierd.md) and allowed [Leon Lato](@/w/leon-lato.md) to successfully pin him.
 * 
 
 ## References

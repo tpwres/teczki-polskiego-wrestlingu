@@ -47,9 +47,8 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
 #### Current
 
 * [Mister Z](@/w/mister-z.md) - the leader of Zmowa
-* [Olgierd](@/w/olgierd.md) - [Legia Łysych](@/tt/legia-lysych.md)
 * [Axel Fox](@/w/jakub.md)
-* Gaba
+* Rozalia Nyx
 
 #### Former and part-time
 
@@ -59,6 +58,7 @@ Not long after, at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), [Ax
 * [Isnorr](@/w/isnorr.md) - ultraviolent specialist ([Harcore Friday X4](@/e/ppw/2024-08-23-ppw-hardcore-friday-x4.md) - [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md))
 * [Gustav Gryffin](@/w/gustav-gryffin.md) - the face of the company ([Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) - [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md))
 * [Marco Hammers](@/w/marco-hammers.md) - [Legia Łysych](@/tt/legia-lysych.md)
+* [Olgierd](@/w/olgierd.md) - [Legia Łysych](@/tt/legia-lysych.md)
 
 ## In wrestling
 
