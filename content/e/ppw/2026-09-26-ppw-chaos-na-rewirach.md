@@ -32,8 +32,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 {% card() %}
 - - '[Bartosz Plata](@/w/plata.md) & [Kalyana](@/w/kalyana.md)'
   - '[Gloria G Szek](@/w/gloria-g-szek.md) & [Tony Sheen](@/w/riverman.md)'
-  - s: Pre-Show Match
-    nc: upcoming
+  - s: Pre-Show Match   
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
@@ -68,6 +67,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 - credits:
     Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Highlights
