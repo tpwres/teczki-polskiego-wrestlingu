@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewenement](@/o/ppw.md), returning to [Zaklęte Rewiry](@/v/zaklete-rewiry.md) in Wrocław.
+Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/o/ppw.md), returning to [Zaklęte Rewiry](@/v/zaklete-rewiry.md) in Wrocław.
 
 ## Build-up
 
@@ -27,9 +27,9 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * A [video][gloria-na-rewirach] published on 19.08.2026 announced [Gloria G Szek's](@/w/gloria-g-szek.md) presence at the show. The video highlighted her role in setting up PpW shows, with Gloria proudly declaring _she's not afraid to get her hands dirty_ ("żadnej roboty się nie boję", lit. _I'm not afraid of any work_). This may have been a nod to the character of _Working Woman_ ("Kobieta Pracująca") from the popular '70s Polish TV series [Being Forty][czterdziestolatek], who famously said this line in every episode.
 * On 24.09.2024 [Gloria G Szek](@/w/gloria-g-szek.md) was put in a Pre-Show Mixed Tag Team Match with [Tony Sheen](@/w/riverman.md) against [Kalyana](@/w/kalyana.md) paired with [Bartosz Plata](@/w/plata.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Bartosz Plata](@/w/plata.md) & [Kalyana](@/w/kalyana.md)'
   - '[Gloria G Szek](@/w/gloria-g-szek.md) & [Tony Sheen](@/w/riverman.md)'
   - s: Pre-Show Match
