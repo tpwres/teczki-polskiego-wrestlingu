@@ -65,6 +65,9 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
 - - '[Jakub](@/w/jakub.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - nc: upcoming
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
 {% end %}
 
 ### Highlights
