@@ -334,6 +334,12 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: 30 Minute Iron Man Match
     en: '[PpW Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
     ed: 2026-09-26
+- - 'Gabriel Queen(c)'
+  - '[Goblin](@/w/goblin.md)'
+  - s: Singles Match
+    en: '[PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md)'
+    ed: 2026-10-10
+    nc: upcoming
 {% end %}
 
 ## References

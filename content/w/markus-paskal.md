@@ -35,6 +35,9 @@ Paskal debuted for [Legacy of Wrestling](@/o/low.md) at [Enter the Dragon](@/e/l
 
 ## In wrestling
 
+* Finishers:
+  - Tornado DDT (2025-)
+  - Shining Wizard (2026-)
 * Entrance music:
   - "Zen Garden II: Apocalypse" by Punch Deck
     {{ org_badge(org='kpw') }} (2025-) <br>

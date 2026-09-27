@@ -27,6 +27,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 * The fourth and final match-up in the first leg of the tournament was [Leon Lato](@/w/leon-lato.md) vs [Jakub](@/w/jakub.md), announced on 20.08.2026.
 * On 28.08.2026 came the announcement of [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).
 * On 8.09.2026 FRPW announced [Max Speed](@/w/max-speed.md) will appear at shows in Siedlce, [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
+* On 26.09.2026 [Laurance Roman](@/w/laurance-roman.md) was announced.
 
 ## Predicted card
 
@@ -54,6 +55,9 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
   - nc: upcoming
 - - '[Max Speed](@/w/max-speed.md)'
+  - '???'
+  - nc: upcoming
+- - '[Laurance Roman](@/w/laurance-roman.md)'
   - '???'
   - nc: upcoming
 {% end %}
