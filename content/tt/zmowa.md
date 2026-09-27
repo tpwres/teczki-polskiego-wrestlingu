@@ -60,12 +60,11 @@ At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd clas
 * [Gustav Gryffin](@/w/gustav-gryffin.md) - the face of the company ([Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) - [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md))
 * [Marco Hammers](@/w/marco-hammers.md) - [Legia Łysych](@/tt/legia-lysych.md)
 * [Olgierd](@/w/olgierd.md) - [Legia Łysych](@/tt/legia-lysych.md)
-* Rozalia Nyx - briefly, 2026
+* Rozalia Nyx - 2026 (briefly)
 
 ## In wrestling
 
 * Entrance music:
-
   - "100 joints" by Pharmacist & Cloudymane
     {{ org_badge(orgs=['ppw']) }} (2025-) <br>
     {{ music(yt='7cXmA6CiW-g')}}
