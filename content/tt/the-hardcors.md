@@ -22,7 +22,7 @@ During the build-up for [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzo
 
 #### Championship pursuit
 
-At [PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), The Hardcors held _The Hardcors Hardcore Tag Team Gauntlet Invitational Match_ won by Rodzina. At [PpW Nü Wrestling](@t/e/ppw/2026-07-04-ppw-nu-wrestling.md), they defeated [Zmowa](@/tt/zmowa.md). At [PpW Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), they finally beat Rodzina to capture the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) for the first time.
+At [PpW Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), The Hardcors held _The Hardcors Hardcore Tag Team Gauntlet Invitational Match_ won by Rodzina. At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), they defeated [Zmowa](@/tt/zmowa.md). At [PpW Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), they finally beat Rodzina to capture the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) for the first time.
 
 ## Members
 
