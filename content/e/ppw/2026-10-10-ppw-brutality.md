@@ -22,6 +22,7 @@ has_video = false
 * On 10.09.2026 PpW announced Poland's first TLC (Tables, Ladders & Chairs) Match, between three unspecified teams.
 * On 16.09.2026 PpW announced [Queen Jadwiga's][krol-i-krolowa-wrestlingu] Battle Royal, a women-only elimination match set to be the biggest women's match in Polish wrestling's history.
 * On 20.09.2026 PpW [published][wielosc-jadwig] the list of the Queen Jadwiga's Battle Royal competitors: Akane Fujita, [Agentka Agatka](@/w/agentka-agatka.md), [Gloria G Szek](@/w/gloria-g-szek.md), Julia Rave, [Kalyana](@/w/kalyana.md), Rozalia Nyx and Sara Shade.
+* On 27.09.2026 PpW announced a match for the [PpW Championship](@/c/ppw-championship.md) between the reigning Champion [Gabriel Queen](@/w/gabriel-queen.md), and [Goblin](@/w/goblin.md) who won the #1 Contendership [the day before](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
 
 ## Predicted card
 
@@ -43,6 +44,10 @@ has_video = false
   - 'Julia Rave'
   - 'Sara Shade'
   - s: "Queen Jadwiga's Battle Royal"
+    nc: upcoming
+- - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
+  - '[Goblin](@/w/goblin.md)'
+  - '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
 {% end %}
 
