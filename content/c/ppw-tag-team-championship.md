@@ -21,13 +21,13 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 ## Statistics
 
 * First champions: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md))
-* Most reigns: Zmowa / [Bad Trip](@/tt/bad-trip.md) / [Rodzina](@/tt/rodzina.md) (1) 
+* Most reigns: Zmowa / [Bad Trip](@/tt/bad-trip.md) / [Rodzina](@/tt/rodzina.md) / [The Hardcors](@/tt/the-hardcors.md) (1)
 * Longest reign: Zmowa (77 days)
 * Shortest reign: Bad Trip (49 days)
 * Oldest champion: [Robert Star](@/w/robert-star.md) (31 years, 356 days)
 * Youngest champion: [Oskar Alexander](@/w/oskar-alexander.md) (23 years, 207 days)
 * Heaviest champion: Robert Star (106 kg)
-* Lightest champion: Jakub "Fox" (80 kg)
+* Lightest champion: [Johnny Blade](@/w/johnny-blade.md) (72kg)
 
 ## History
 
