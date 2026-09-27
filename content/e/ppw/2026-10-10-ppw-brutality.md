@@ -47,7 +47,7 @@ has_video = false
     nc: upcoming
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Goblin](@/w/goblin.md)'
-  - '[PpW Championship](@/c/ppw-championship.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
 {% end %}
 
