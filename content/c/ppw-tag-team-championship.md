@@ -26,8 +26,8 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 * Shortest reign: Bad Trip (49 days)
 * Oldest champion: [Robert Star](@/w/robert-star.md) (31 years, 356 days)
 * Youngest champion: [Oskar Alexander](@/w/oskar-alexander.md) (23 years, 207 days)
-* Heaviest champion: Robert Star (106 kg)
-* Lightest champion: [Johnny Blade](@/w/johnny-blade.md) (72kg)
+* Heaviest champion: Robert Star (106&nbsp;kg)
+* Lightest champion: [Johnny Blade](@/w/johnny-blade.md) (72&nbsp;kg)
 
 ## History
 
