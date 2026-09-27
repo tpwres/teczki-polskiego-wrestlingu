@@ -51,5 +51,6 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=462215)
+* [Open access video: Sawicki & Whiteblade vs Brave & Caravaggio](https://www.youtube.com/watch?v=-EGebbcHrRY)
 
 [na-stowe-sie-potem-o-to-pokloca]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0EgbN9ZPS1H514cVtaHkZSCGuqLMURS6W5yEQyGNTu8KQpsSY4Z2HJttoZUH3bMpjl
