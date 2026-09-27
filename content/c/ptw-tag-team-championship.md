@@ -250,7 +250,7 @@ While Boro never defended the title, he was also recognized as a champion per th
     en: '[PTW: Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md)'
     ed: 2026-08-28
 - - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD(c)'
-  - '??? & ???'
+  - 'Manto Band: [Boguś](@/w/bogus.md) & [CJ Klakson](@/w/cj-klakson.md)'
   - s: Open Challenge Tag Team Match
     en: '[PTW: Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md)'
     ed: 2026-09-19

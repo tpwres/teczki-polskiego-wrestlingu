@@ -43,7 +43,7 @@ has_video = false
   - 'Gwiezdny Marek & Shawn Aster'
   - s: Handicap Match
 - - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
-  - '??? & ???'
+  - 'Manto Band: [Boguś](@/w/bogus.md) & [CJ Klakson](@/w/cj-klakson.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Open Challenge Tag Team Match
 {% end %}
