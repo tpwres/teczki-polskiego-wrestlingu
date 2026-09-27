@@ -67,7 +67,7 @@ The event saw three Hungarian wrestlers debut for PpW: masked luchadors [Sentine
   - '[Marco Hammers](@/w/marco-hammers.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - g: 'Z coaxes Fox to join [Zmowa](@/tt/zmowa.md); Fox chooses his closest friends instead.'
-- - '[Axel Fox](@/w/jakub.md) & [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md) w/ [Goblin](@/w/goblin.md)'
+- - '[Axel Fox](@/w/jakub.md) & [The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md) w/ [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Six-Man Tornado Tag Team match
 - - '[Isnorr](@/w/isnorr.md)(c)'
