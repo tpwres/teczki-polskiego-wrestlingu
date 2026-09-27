@@ -108,7 +108,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest
   - Diving Splash, sometimes with a foregin object in hands (2020-)
 * Tag Teams and stables:
   - 2 Chamy (2016, 2021)
-  - [The Hardcors](@/tt/the-hardcors.md) (2023-)
+  - [The Hardcors](@/tt/the-hardcors.md) (2024-)
 * Entrance music:
   - "Red Stars" by The Birthday Massacre
     {{ org_badge(orgs=['ppw']) }} (2020-) <br>
