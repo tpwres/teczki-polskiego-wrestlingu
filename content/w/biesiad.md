@@ -120,7 +120,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][wrestlow
 * Finishers:
   - Swanton Bomb (2015-present)
 * Tag Teams and stables:
-  - [The Hardcors](@/tt/the-hardcors.md) (2023-)
+  - [The Hardcors](@/tt/the-hardcors.md) (2024-)
 * Entrance music:
   - "Floorfiller" by A*Teens
     {{ org_badge(orgs=['ppw']) }} (as Red Floorfiller) <br>
