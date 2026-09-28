@@ -5,7 +5,7 @@ authors = ["M3n747", "Szymon Iwulski"]
 [extra]
 orgs = ["ppw"]
 [extra.gallery]
-1 = { path = "the-hardcors.webp", caption = "[Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md) holding the [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md) after [Chaos Na Rewirach](@/e/ptw/2026-09-26-ppw-chaos-na-rewirach.md).", source = "Szymon Iwulski" }
+1 = { path = "the-hardcors.webp", caption = "[Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md) holding the [PTW Tag Team Championships](@/c/ptw-tag-team-championship.md) after [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).", source = "Szymon Iwulski" }
 +++
 
 The Hardcors (sometimes also spelled "The Hardcores") are a tag team of [Johnny Blade](@/w/johnny-blade.md) and [Biesiad Strong](@/w/biesiad.md) active in [PpW Ewenement Wrestling](@/o/ppw.md). 
