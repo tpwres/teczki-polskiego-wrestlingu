@@ -28,6 +28,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 * On 28.08.2026 came the announcement of [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).
 * On 8.09.2026 FRPW announced [Max Speed](@/w/max-speed.md) will appear at shows in Siedlce, [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
 * On 26.09.2026 [Laurance Roman](@/w/laurance-roman.md) was announced.
+* On 28.09.2026 came the announcement of an Intergender Match between [Agentka Agatka](@/w/agentka-agatka.md) and [Emil Völler](@/w/emil-voeller.md).
 
 ## Predicted card
 
@@ -60,6 +61,10 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Laurance Roman](@/w/laurance-roman.md)'
   - '???'
   - nc: upcoming
+- - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Emil Völler](@/w/emil-voeller.md)'
+  - s: Intergender Match
+    nc: upcoming
 {% end %}
 
 ## Highlights
