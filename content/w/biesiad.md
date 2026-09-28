@@ -28,7 +28,7 @@ Biesiad Strong, also known under numerous aliases, is a Polish wrestler best kno
   - Esteban Lucha {{ org_badge(orgs=['ppw']) }} (non-canon shows; masked)
 * Trained by:
   - PpW Dojo (2019-2024)
-  - [Ewenement Dojo](@/o/dojo.md) (2024)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -91,11 +91,11 @@ After defeating the leader of Zmowa, Biesiad took on Gustav Gryffin in an ECW Ru
 
 At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Biesiad got one more shot at the PpW Championship in a Legendary Unsanctioned Match against Olgierd. However, the match was ruled a draw after both competitors dived off the stage and were unable to continue. During the match Olgierd suffered an injury, which prevented Biesiad from gaining a quick rematch. Biesiad compromised his chances further as during Olgierd's address to the crowd at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) he attacked the injured Olgierd. In consequence, Biesiad was immediately fired from PpW Ewenement Wrestling Ltd. 
 
-Biesiad made his return in a 25 Typa 25 Broni Match at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) thanks to behind the scenes re-employment by Mister Z (who argumented his decission as "the best for business"). Biesiad won the match, which granted him a opportunity to face Olgierd for PpW Championship at [Ledwo Legane 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). However, the fight turned into Triple Threat Match as [Gabriel Queen](@/w/gabriel-queen.md) joined it thanks to winning #1 Contendership in a Ladder Match earlier the same night. Last-minute addition resulted in Biesiad failure in getting his hands on the title, as Gabriel managed to win it by pinning defending champion.
+Biesiad made his return in a 25 Typa 25 Broni Match at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) thanks to behind-the-scenes re-employment by Mister Z (who justified his decission as "the best for business"). Biesiad won the match, which granted him a opportunity to face Olgierd for PpW Championship at [Ledwo Legane 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). However, the fight turned into a Triple Threat Match as [Gabriel Queen](@/w/gabriel-queen.md) joined it thanks to winning the #1 Contendership in a Ladder Match earlier the same night. This last-minute addition resulted in Biesiad's failure to get his hands on the title, as Gabriel managed to win it by pinning the defending Champion.
 
 #### PpW Tag Team Champion
 
-Shortly after his defeat in a match for PpW Championship, Biesiad returned to Tag Team division, as he - along with his best friend Johnny Blade - returned to Tag Team Division as [The Hardcors](@/tt/the-hardcors.md). They started to feud with other Tag Teams and Stables in PpW - mainly [Rodzina](@/tt/rodzina.md) - for [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). At [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) Biesiad pinned The Patriarch of Rodzina and reigning champion: Vic Golden. This granted The Hardcors opportunity to face Rodzina in a Championship Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), where they won the championship with help from [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) - another team holding a grudge against Rodzina.
+Shortly after his defeat in a match for the PpW Championship, Biesiad returned to the Tag Team division with his best friend Johnny Blade as [The Hardcors](@/tt/the-hardcors.md). They started to feud with other tag teams and stables in PpW - mainly [Rodzina](@/tt/rodzina.md) - for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). At [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) Biesiad pinned the Patriarch of Rodzina and the reigning champion, Vic Golden. This granted The Hardcors an opportunity to face Rodzina in a Championship Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), where they won the Championship with the help from [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) - another team holding a grudge against Rodzina.
 
 ### Dream Factory Wrestling (2017)
 
