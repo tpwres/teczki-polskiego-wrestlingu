@@ -11,6 +11,6 @@ skip_art = true
 
 [0002]
 path = "eventim-cancelled.webp"
-caption = "Cancellation notice."
+caption = "_Cancelled_."
 source = "eventim.pl"
 skip_art = true
