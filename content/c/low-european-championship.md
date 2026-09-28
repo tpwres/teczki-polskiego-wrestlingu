@@ -21,7 +21,7 @@ Legacy's [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-lo
 * Most reigns: Jakub (1)
 * Longest reign: Jakub (1+ days)
 * Oldest champion: Jakub (27 years, 177 days)
-* Heaviest champion: Jakub (80kg)
+* Heaviest champion: Jakub (80&nbsp;kg)
 
 ## History
 

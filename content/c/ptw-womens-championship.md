@@ -22,8 +22,8 @@ The PTW Women's Championship is a professional wrestling belt created and promot
 * Shortest reign: [Diana Strong](@/w/diana-strong.md) (182+ days)
 * Oldest Champion: Mercedes Moné (33 years, 182 days)
 * Youngest Champion: Diana Strong (26 years, 103 days)
-* Heaviest Champion: Diana Strong (56kg) 
-* Lightest Champion: Mercedes Moné  (52kg)
+* Heaviest Champion: Diana Strong (56&nbsp;kg) 
+* Lightest Champion: Mercedes Moné (52&nbsp;kg)
 
 ## History
 
