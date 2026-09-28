@@ -18,7 +18,8 @@
     <h2>{{ thisyear }}</h2>
     <ul class="event-list" aria-label="Event list for {{ thisyear }}">
       {%- for page in events_by_year[thisyear] | sort(attribute="date") | reverse %}
-        <li data-date="{{ page.date }}">
+      {%- set cancelled = page.extra | get(key='cancelled', default=False) -%}
+        <li data-date="{{ page.date }}" {%- if cancelled %}data-cancelled="true"{% endif -%}>
           {%- set dt = page.date | date(format="%Y-%m-%d") -%}
           {%- set until = page.extra | get(key='end_date', default=False) -%}
           {% include "events/date.html" %}

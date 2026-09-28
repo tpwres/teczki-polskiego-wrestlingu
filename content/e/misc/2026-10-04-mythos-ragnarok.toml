@@ -2,3 +2,15 @@
 path = "ragnarok-fivestar.webp"
 caption = "Freyja (Heidi Katrina) lifting Loki (Ed Gamester) on the show's poster."
 source = "mythosragnarok.co.uk"
+
+[0001]
+path = "ticket-club-cancelled.webp"
+caption = "Cancellation notice."
+source = "ticketclub.pl"
+skip_art = true
+
+[0002]
+path = "eventim-cancelled.webp"
+caption = "_Cancelled_."
+source = "eventim.pl"
+skip_art = true
