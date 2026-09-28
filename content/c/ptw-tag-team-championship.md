@@ -30,7 +30,7 @@ The PTW Tag Team Championship is a professional wrestling championship created a
 * Oldest Champion: [Renegade](@/w/renegade.md) (39 years, 99 days)
 * Youngest Champion: [Disco Pablo](@/w/disco-pablo.md) (25 years, 91 days)
 * Heaviest Champions: PAKA - Disco Pablo & Taras (213&nbsp;kg combined)
-* Lightest Champions: L'Orda (165&nbsp;kg combined)
+* Lightest Champions: [Miyagi Sigma](@/tt/miyagi-sigma.md) (146&nbsp;kg combined)
 
 ## History
 
