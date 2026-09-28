@@ -6,6 +6,7 @@ authors = ["Krzysztof Zych"]
 chronology = ["ddw"]
 venue = ["hala-twardogora"]
 [extra]
+cancelled = true
 city = "Twardogóra"
 toclevel = 2
 has_video = false

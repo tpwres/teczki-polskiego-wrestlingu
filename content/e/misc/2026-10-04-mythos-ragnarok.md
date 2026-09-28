@@ -1,5 +1,6 @@
 +++
 title = "Mythos: Ragnarök"
+weight = 0
 template = "event_page.html"
 authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
@@ -7,6 +8,7 @@ chronology = ["international"]
 venue = ["stodola"]
 [extra]
 city = "Warszawa"
+cancelled = true
 [extra.gallery]
 +++
 
