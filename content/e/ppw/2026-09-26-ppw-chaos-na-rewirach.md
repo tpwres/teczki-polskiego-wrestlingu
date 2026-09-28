@@ -12,12 +12,12 @@ has_video = false
 [extra.gallery]
 +++
 
-Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewenement](@/o/ppw.md), returning to [Zaklęte Rewiry](@/v/zaklete-rewiry.md) in Wrocław.
+Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/o/ppw.md), returning to [Zaklęte Rewiry](@/v/zaklete-rewiry.md) in Wrocław.
 
 ## Build-up
 
 * At the [previous show](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Jacob Crane](@/w/jacob-crane.md) challenged [Gabriel Queen](@/w/gabriel-queen.md) for his [PpW Championship](@/c/ppw-championship.md), which the reigning Champion accepted. The match was officially confirmed on 8.07.2026.
-* A post published on 11.08.2026 announced the participation of The Hardcors ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), [Gabriel Queen](@/w/gabriel-queen.md), [Goblin](@/w/goblin.md), [Zmowa](@/tt/zmowa.md) ([Olgierd](@/w/olgierd.md), [Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md)), [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Isnorr](@/w/isnorr.md) and [Mister Z](@/w/mister-z.md)), [Boro](@/w/boro.md), [Mutant](@/w/mutant.md), [Jacob Crane](@/w/jacob-crane.md), [Max Speed](@/w/max-speed.md) and [Leon Lato](@/w/leon-lato.md).
+* A post published on 11.08.2026 announced the participation of [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), [Gabriel Queen](@/w/gabriel-queen.md), [Goblin](@/w/goblin.md), [Zmowa](@/tt/zmowa.md) ([Olgierd](@/w/olgierd.md), [Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md)), [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Isnorr](@/w/isnorr.md) and [Mister Z](@/w/mister-z.md)), [Boro](@/w/boro.md), [Mutant](@/w/mutant.md), [Jacob Crane](@/w/jacob-crane.md), [Max Speed](@/w/max-speed.md) and [Leon Lato](@/w/leon-lato.md).
 * On 18.08.2026 PpW announced a match for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), with The Hardcors ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) challenging the reigning Champions, [Rodzina](@/tt/rodzina.md) (represented by [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)).
 * On 21.08.2026 the previously announced tag teams of Boro & Mutant and [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md) (representing Rodzina) were pitted against one another.
 * On 5.09.2026 Queen vs Crane was changed from a Singles Match to a 30 Minute Iron Man Match, marking the first time the stipulation will be used by a Polish pro federation. (A few Iron Man matches were held in the backyard era: a PpW's [Brutality 2015](@/e/ppw/2015-10-10-ppw-brutality-2015.md) and [Backyard Total War](@/e/ppw/2016-07-18-ppw-backyard-total-war.md), as well as [TWF's](@/o/twf.md) [Day of DOOM!](@/e/twf/2012-06-03-twf-day-of-doom.md))
@@ -27,53 +27,60 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) is an upcoming show by [PpW Ewen
 * A [video][gloria-na-rewirach] published on 19.08.2026 announced [Gloria G Szek's](@/w/gloria-g-szek.md) presence at the show. The video highlighted her role in setting up PpW shows, with Gloria proudly declaring _she's not afraid to get her hands dirty_ ("żadnej roboty się nie boję", lit. _I'm not afraid of any work_). This may have been a nod to the character of _Working Woman_ ("Kobieta Pracująca") from the popular '70s Polish TV series [Being Forty][czterdziestolatek], who famously said this line in every episode.
 * On 24.09.2024 [Gloria G Szek](@/w/gloria-g-szek.md) was put in a Pre-Show Mixed Tag Team Match with [Tony Sheen](@/w/riverman.md) against [Kalyana](@/w/kalyana.md) paired with [Bartosz Plata](@/w/plata.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Bartosz Plata](@/w/plata.md) & [Kalyana](@/w/kalyana.md)'
   - '[Gloria G Szek](@/w/gloria-g-szek.md) & [Tony Sheen](@/w/riverman.md)'
   - s: Pre-Show Match
-    nc: upcoming
-- - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
-  - '[Jacob Crane](@/w/jacob-crane.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: 30 Minute Iron Man Match
-    nc: upcoming
-- - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)(c)'
-  - 'The Hardcors: [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
-  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-    s: Tag Team Match
-    nc: upcoming
-- - '[Rodzina](@/tt/rodzina.md): [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md)'
-  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+- - '[Jakub](@/w/jakub.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ Kondzio the Cannonball'
+  - '[Rodzina](@/tt/rodzina.md): [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md)'
   - s: Tag Team Match
-    nc: upcoming
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+  - '[Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
+  - s: Triple Threat Match
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Jakub](@/w/jakub.md)'
+  - '[Olgierd](@/w/olgierd.md)'
+  - 'Rozalia Nyx'
+  - g: 'Mister Z chastises Olgierd for losing, Olgierd quits Zmowa.'
 - - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: '#1 Contendership Match'
-    nc: upcoming
-- - '[Zmowa](@/tt/zmowa.md): [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
-  - '???'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Olgierd](@/w/olgierd.md)'
-  - s: Triple Threat Match
-    nc: upcoming
-- - '[Jakub](@/w/jakub.md)'
-  - '[Antoni Ocean](@/w/antoni-ocean.md)'
-  - nc: upcoming
+- - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)(c)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: Tag Team Match
+- - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: 30 Minute Iron Man Match
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md), [Sędzia Kornel](@/w/sedzia-kornel.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ### Highlights
 
-* TBD
+* Ringside cameras featured zoomed-in, shallow depth of field, resulting in a "cinematic" feel of handheld shots.
+* The live stream was at times unstable, freezing and cutting off.
+* [Tony Sheen](@/w/riverman.md) brought back the inflatable dolphin from [Wixapol](@/e/ppw/2026-08-15-ppw-wixapol.md). [Bartosz Plata](@/w/plata.md) performed a Piledriver on it, angering Sheen.
+* Sheen intercepted Plata's Burning Lariat intended for [Gloria G Szek](@/w/gloria-g-szek.md) with his own body, which cost him and Gloria the match.
+* [Jakub](@/w/jakub.md) came out carrying a walking stick and the crowd wasted no time making suggestions which were as crude, as they were Freudian.
+* This was [Sędzia Kornel's](@/w/sedzia-kornel.md) last show for the forseeable future, as he decided to temporarily part ways with PpW for unspecified reasons.
+* [Jakub](@/w/jakub.md) and [Mister Z](@/w/mister-z.md) came out of the backstage during the Triple Threat Match, which distracted [Olgierd](@/w/olgierd.md) and allowed [Leon Lato](@/w/leon-lato.md) to successfully pin him.
+* [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md) tried to run away during the match, but were stopped by [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md).
+* [Gabriel Queen](@/w/gabriel-queen.md) defeated [Jacob Crane](@/w/jacob-crane.md) 3:2, scoring the final point just six seconds before the time ran out.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=457201)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-chaos-na-rewirach-09-26-2026-20-33-00) (requires paid subscription)
 * [Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02oM1up2dTNEnV1JLwT7mDYrCcbJLTeErEUjxxHgQYGEsFjSyUZgPNw3vMcc9Wui1Wl)
 
 [wiekizm]: https://www.facebook.com/reel/1410396644355230

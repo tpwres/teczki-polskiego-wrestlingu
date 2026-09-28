@@ -21,13 +21,13 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 ## Statistics
 
 * First champions: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md))
-* Most reigns: Zmowa / [Bad Trip](@/tt/bad-trip.md) / [Rodzina](@/tt/rodzina.md) (1) 
+* Most reigns: Zmowa / [Bad Trip](@/tt/bad-trip.md) / [Rodzina](@/tt/rodzina.md) / [The Hardcors](@/tt/the-hardcors.md) (1)
 * Longest reign: Zmowa (77 days)
 * Shortest reign: Bad Trip (49 days)
 * Oldest champion: [Robert Star](@/w/robert-star.md) (31 years, 356 days)
 * Youngest champion: [Oskar Alexander](@/w/oskar-alexander.md) (23 years, 207 days)
-* Heaviest champion: Robert Star (106 kg)
-* Lightest champion: Jakub "Fox" (80 kg)
+* Heaviest champion: Robert Star (106&nbsp;kg)
+* Lightest champion: [Johnny Blade](@/w/johnny-blade.md) (72&nbsp;kg)
 
 ## History
 
@@ -155,12 +155,23 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
   - s: Tag Team Match
     en: '[PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md)'
     ed: 2026-08-15
-- - 'Rodzina: Vic Golden & Oskar Alexander(c)'
-  - 'The Hardcores: [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+- - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - 'Rodzina: Vic Golden & Oskar Alexander(c)'
   - s: Tag Team Match
     en: '[PpW Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
     ed: 2026-09-26
-    nc: upcoming
+{% end %}
+
+**Total: 84 days**
+
+### Champions #4: The Hardcors: Biesiad & Johnny Blade
+
+{% free_card() %}
+- - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - 'Rodzina: [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)(c)'
+  - s: Tag Team Match
+    en: '[PpW Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
+    ed: 2026-09-26
 {% end %}
 
 ## References

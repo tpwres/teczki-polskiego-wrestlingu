@@ -49,7 +49,7 @@ Mistrzowskie Rozdanie 2 (roughly _A Champion's Hand 2_) was a show by [PpW Ewene
   - s: 'Custody of [Oskar](@/w/oskar-alexander.md) match.'
     nc: Mid-match stipulation change
 - - '[Agencja](@/tt/rodzina.md): [Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - '[Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Wujek Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - s: 'Tornado Tag-Team Hardcore Match'
 - - '[Goblin](@/w/goblin.md)(c)'
   - '[Robert Star](@/w/robert-star.md)'

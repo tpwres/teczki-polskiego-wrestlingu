@@ -17,7 +17,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 
 ## Build-up
 
-* On 9.07.2025 PpW announced [Legia Łysych](@/tt/legia-lysych.md) ([Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)) vs The Hardcores ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) in a Warszawski Brawl (_Warsaw Brawl_)
+* On 9.07.2025 PpW announced [Legia Łysych](@/tt/legia-lysych.md) ([Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)) vs [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) in a Warszawski Brawl (_Warsaw Brawl_)
 * On 11.07.2025 PpW announced [Oskar Alexander](@/w/oskar-alexander.md) vs [Gabriel Queen](@/w/gabriel-queen.md) in a Bullrope Match, where the wrestlers are tied wrist-to-wrist with a thick rope, with a cowbell in the middle.
 * PpW's social media released [_The Acid Messiah's First Sermon_][goblin-kazanie] on 15.07.2025. In it, [Goblin](@/w/goblin.md) addresses Mister Z, stating that he is a self-reliant [PpW Champion](@/c/ppw-championship.md) and doesn't need Z to book his matches. He will find an opponent himself, and face him in a non-title match.
 * On 19.07.2025 PpW announced [Axel Fox](@/w/jakub.md) vs [Vic Golden](@/w/vic-golden.md) in a Chairs Match.
@@ -52,7 +52,7 @@ Harcore Friday Turniej TypeShit (_Hardcore Friday Tournament-Type Shit_) was a s
 - - '[Goblin](@/w/goblin.md)'
   - '[Stanisław van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
   - s: Hardcore Match
-- - 'The Hardcores: [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+- - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - '[Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md)'
   - s: Warsaw Brawl Tag Team Match
 - credits:

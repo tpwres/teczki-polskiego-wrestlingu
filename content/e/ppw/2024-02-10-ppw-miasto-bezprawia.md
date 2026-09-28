@@ -43,8 +43,8 @@ Miasto Bezprawia (_Lawless City_) was an event by [PpW Ewenement](@/o/ppw.md). T
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Ricardo Diesel](@/w/ricardo-diesel.md)'
   - s: No. 1 Contender Match
-- - '[Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
-  - '[Chris X](@/w/chris-x.md) & [Isnorr](@/w/isnorr.md)'
+- - '[The Hardcors](@/tt/the-hardcors.md): [Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
+  - 'Rude Diabły: [Chris X](@/w/chris-x.md) & [Isnorr](@/w/isnorr.md)'
   - s: 'Tornado Tag Team Match'
 - - '[Bill Feager](@/w/feager.md)'
   - '[Steve Kuningas](@/w/steve-kuningas.md)'

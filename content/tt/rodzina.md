@@ -41,7 +41,7 @@ At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Vic Golden returned 
 
 #### PpW Tag Team Champions
 
-At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/gustav-gryffin.md) revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter he and [Goblin](@/w/goblin.md) were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md); the vacated titles were won later at the same show by [Rodzina](@/tt/rodzina.md) members, [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md). However, according to a later post by PpW, the titles belong to all the current members of the stable.
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/gustav-gryffin.md) revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter he and [Goblin](@/w/goblin.md) were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md); the vacated titles were won later at the same show by [Rodzina](@/tt/rodzina.md) members, [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md). However, according to a later post by PpW, the titles belonged to all the current members of the stable. Despite that theoretical rule, they were only defended by the line-up of Golden and Alexander, leading to their eventual loss at [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), where [The Hardcors](@/tt/the-hardcors.md) captured the titles for the first time.
 
 ## Members
 
@@ -58,7 +58,7 @@ At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/
 ## Championships and accomplishments
 
 * [PpW Ewenement](@/o/ppw.md):
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; current) - [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) & [Isnorr](@/w/isnorr.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) & [Isnorr](@/w/isnorr.md)
 
 [kabanosy]: https://en.wikipedia.org/wiki/Kabanos
 [rodzina-kolejny]: https://www.instagram.com/p/DTs_vmZignE/

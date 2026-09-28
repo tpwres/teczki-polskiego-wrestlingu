@@ -37,13 +37,25 @@ In November 2024 [Krystian Maliowski](@/w/krystian-malinowski.md), the chairman 
 
 After his defeat at Arena 27 Filip challenged [Chemik](@/w/chemik.md) for his [KPW OldTown Championship](@/c/kpw-old-town-championship.md). During the build-up for [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) it was officially announced that the match would be a Street Fight Match. However, Filip was defeated by the reigning champion. At [Godzina Zero 2025](@/e/low/2025-07-11-low-3.md) the Fux Brothers were challenged by [Team Visegrad](@/tt/team-visegrad.md) for their [KPW Tag Team Championships](@/c/kpw-tag-team-championship.md). Shockingly, the challangers were able to defeat the Champions, ending their reign after 735 days.
 
+#### Turning on Michał
+
+At [Arena XXX: Dekada](@/e/kpw/2025-11-14-kpw-arena-xxx.md) Filip, along with Michał and many other wrestlers, took part in post-show celebration of KPW's 10th anniversary. During the celebration it was revealed that the reigning [KPW Champion](@/c/kpw-championship.md) [Zefir](@/w/zefir.md) had been acused of the vicious attack on KPW's Chairman [Krystian Malinowski](@/w/krystian-malinowski.md) at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md). Filip then lobbied for Zefir's re-institution into the federation, which led to a trial that took place at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md). Filip - acting as Zefir's advocate - presented evidence which suggested his client's innocence. Among the evidence were a glass bottle and a ski mask, which he'd found in [his own brother](@/w/michal-fux.md) bag. The crowd booed Filip for selling out his brother, as Michał was named "the prime suspect" in the ongoing trial. Filip managed to clear his client of all charges and reinstate him as a member of the roster, but Michał felt betrayed.
+
+Growing disdain led both brothers to confront at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md). They discussed the events surrounding and following the trial at Arena 32 - Filip defended his actions, whereas Michał insisted that his brother should've talked to him first before throwing accusations. [Chemik](@/w/chemik.md) then joined them in the ring and further set the brothers against each other by claiming Filip had confided in him his feelings of inferiority. Filip denied these claims, but Michał was no longer certain what to believe. They were then joined in the ring by Chairman Malinowski who, posing for an expert in psychiatry and psychology, described Michał as displaying typical symptoms of insanity. Michał wanted to reconcile with his brother despite everything that had transpired, but Filip ended up attacking him with his finisher, before throwing away his Fux Brothers T-shirt and leaving. This event marked the end of Fux Brothers and Filip's heel turn.
+
+At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Filip and Michał faced each other in Brother vs Brother Match, which Filip won in a vicious manner.
+
 ### Legacy of Wrestling (2024-present)
 
 #### Feud with Legia Łysych
 
 Filip Fux was the first KPW wrestler to be announced as the member of [Legacy of Wrestling](@/o/low.md) roster, thus becoming the first worker KPW allowed to perform in another Polish federation. A few months before the [inaugural Legacy of Wrestling show](@/e/low/2024-12-01-low-1.md) Filip got involved in a feud with his old friend from [KPW Wrestling School](@/o/szkola-kpw.md) and a member of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md). In one of the episodes of Marco's YouTube vlog series "Łysy Vlog" (_Bald Vlog_) he got into an argument with Filip over some muscle-enhancing creatine, which Filip supposedly stole from Marco during their joint trip to Hungary for an HCW show. This Internet feud evolved into a match at Legacy's first show. Marco won this match after a distraction by [Olgierd](@/w/olgierd.md) and, in a post-match beatdown, him and Olgierd managed to snatch Filip's [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) belt and pose with it, which strongly suggested Legia's intention to face the KPW Champions for their titles.
 
-The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled off by Legia Łysych, Filip and Michał emerged victorious from their title defence against Legia Łysych. At Legacy's [third show](@/e/low/2025-07-11-low-3.md) Filip unsucessfully challenged [Gabriel Queen](@/w/gabriel-queen.md) and [Oskar Alexander](@/w/oskar-alexander.md) in a Road to the Title Triple Threat Match.
+The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). Despite multiple shenanigans pulled off by their opponents, Filip and Michał emerged victorious from their title defence against the bald team. 
+
+#### Singles Competition
+
+At Legacy's [third show](@/e/low/2025-07-11-low-3.md) Filip unsucessfully challenged [Gabriel Queen](@/w/gabriel-queen.md) and [Oskar Alexander](@/w/oskar-alexander.md) in a Road to the Title Triple Threat Match. However, he got his another opportunity for a Championship at [Open Season](@/e/low/2026-05-24-low-5.md) where he faced [LoW European Champion](@/c/low-european-championship.md) [Jakub](@/w/jakub.md) in his first - and successful - title defence.
 
 ### PpW Ewenement Wrestling (2026-present)
 
@@ -92,7 +104,7 @@ From 2023 onwards Filip started to secure international bookings for himself. He
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Michał Fux](@/w/michal-fux.md)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 
