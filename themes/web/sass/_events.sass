@@ -19,6 +19,9 @@ ul.event-list
     gap: 0.5rem
     break-inside: avoid
 
+    &[data-cancelled] a
+      font-style: italic
+
     time, .i, .t
       flex-shrink: 0
 
@@ -64,6 +67,9 @@ ul.event-list-cm
 
     &:nth-child(odd)
       background: var(--accent-bg)
+
+    &[data-cancelled] .p, &[data-cancelled] .c
+      font-style: italic
 
     time, .t
        justify-self: center
