@@ -2,7 +2,7 @@
 title = "WWE"
 template = "org_page.html"
 authors = ["Krzysztof Zych", "M3n747"]
-weight = 10
+weight = 0
 [taxonomies]
 chrono_root = ["wwe"]
 [extra]

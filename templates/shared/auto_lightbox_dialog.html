@@ -62,6 +62,20 @@
       {% endfor %}
     </ul>
   </details>
+{% elif skip_extra_gallery %}
+  {# Detect if extra gallery file under g/ exists #}
+  {% set ext_gallery_path = page.relative_path | replace(from="w/", to="g/") %}
+  {% set ext_gallery_file = "@/" ~ ext_gallery_path %}
+  {% set ext_gallery_exists = load_data(path=ext_gallery_file, required=false) %}
+  {% if ext_gallery_exists %}
+    {% if not gallery_items %}
+      {# In case main gallery is absent or empty #}
+      <h2 id="gallery">Gallery</h2>
+    {% endif %}
+    <div class="ext-gallery-links">
+      <a href="{{ get_url(path=ext_gallery_file) }}">Photos from events</a>
+    </div>
+  {% endif %}
 {% endif %}
 <script id="pluralization-rules" type="text/json">
 {

@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["Sewi The Referee", "M3n747"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 +++
@@ -17,7 +18,7 @@ Marco Hammers is a retired Polish wrestler best known for his time in [Prime Tim
   - Marco "Łysy" Hammers {{ org_badge(orgs=['ptw', 'ppw', 'low', 'mzw']) }}
   - Marco Hardy {{ org_badge(orgs=['ppw']) }}  (2025-2026)
 * Trained by:
-  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (201?-2022)
+  - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2020-2022)
   - [PTW Academy](@/o/ptw-academy.md) (2022-2024)
   - [Ewenement Dojo](@/o/dojo.md) (2024-2026)
 

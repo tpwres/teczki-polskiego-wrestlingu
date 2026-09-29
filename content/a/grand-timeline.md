@@ -39,16 +39,15 @@ An even more condensed version, in the form of a timeline graph covering the mod
 
 #### 1974
 
-* [Andrzej Supron](@/w/andrzej-supron.md) travels to USA, discovers pro wrestling on TV. Later meets Killer Kowalski and Ivan Putski, two wrestlers of Polish origin. Putski convinces Supron to try and start presenting pro wrestling in Poland.
+* [Andrzej Supron](@/w/andrzej-supron.md) travels to USA, discovers pro wrestling on TV. Later meets Killer Kowalski and/or Ivan Putski, two wrestlers of Polish origin, who convince(s) Supron to try and start presenting pro wrestling in Poland.
 
 #### 1980s
 
 * Supron wins silver medal in classical wrestling in the Moscow Olympics of 1980.
-Later, assembles a team of athletes, trains them (despite having no pro wrestling training himself), and stages a couple of events in Warsaw and Poznań in the early '90s.
 
-#### 1990
+#### 1989
 
-* Andrzej Supron starts [SupronStars](@/o/supronstars.md). The group tours poland and ex-Soviet republics.
+* Andrzej Supron assembles a team of athletes, trains them (despite having no pro wrestling training himself) and starts [SupronStars](@/o/supronstars.md). The group tours Poland (incliding a couple of events in Warsaw and Poznań in the early '90s) and ex-Soviet republics.
 
 #### 1993
 
@@ -56,7 +55,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 
 #### 1999
 
-* [Paweł Borkowski](@/w/pawel-borkowski.md) contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They create [Polish Pro-Wrestling Federation](@/o/ppwf.md), which only manages to hold training sessions, but no shows due to lack of interest.
+* [Paweł Borkowski](@/w/pawel-borkowski.md) contacts Supron, wanting to create the first fully professional Polish pro wrestling promotion. They establish [Polish Pro-Wrestling Federation](@/o/ppwf.md), which only manages to hold training sessions, but no shows due to lack of interest.
 * Andrzej Supron buys a ring for PPWF.
 
 #### 2000-2005
@@ -177,7 +176,7 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * PTW drops the "Underground" name from their shows starting with [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) in January. Two new titles are announced: [PTW Underground Championship](@/c/ptw-underground-championship.md), commemorating the Underground series, and [PTW Women's Championship](@/c/ptw-womens-championship.md).
 * [PpW Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) sells out all 800 tickets (and likely a little more than that), making it the biggest PpW show to date, and one of the biggest shows in the history of the Polish scene.
 * PpW announce the first women's match in the history of their promotion, set to take place at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md).
-* Bartosz Mateńko's photo of Johnny Blade vs Isnorr from the main event of [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) wins second prize in [Grand Press Photo](https://grandpressphoto.pl/laureaci-2025/), in the Sports category. 
+* Bartosz Mateńko's photo of Johnny Blade vs Isnorr from the main event of [PpW Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) wins second prize in [Grand Press Photo](https://grandpressphoto.pl/laureaci-2025/), in the Sports category.
 * [Legacy of Wrestling](@/o/low.md) hold their [third show](@/e/low/2025-07-11-low-3.md) at Ryucon, which hosted PTW shows for the past three years.
 * [Paweł "Boryss" Borkowski](@/w/pawel-borkowski.md) passes away on 18.08.2025. No cause of death is made public.
 * PpW introduce the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md).
@@ -192,9 +191,10 @@ Later, assembles a team of athletes, trains them (despite having no pro wrestlin
 * PpW holds [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo, in cooperation with Big Japan Pro Wrestling and other local promotions. [Abdullah Kobayashi](@/w/abdullah-kobayashi.md) wins the vacant [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), marking the first time a Polish title changed hands outside of Poland.
 * [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) is established.
 * [Olgierd](@/w/olgierd.md) is booked for a match at [KPW Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), which marks two significant milestones: it makes him the first active wrestler from another promotion to work for [KPW](@/o/kpw.md), and the first Polish wrestler to have worked for all active federations in the country as of 2026 ([PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md)).
+* [Center of Wrestling](@/o/cow.md) is established.
+* Arkadiusz Pawłowski exits [Prime Time Wrestling](@/o/ptw.md), [Łukasz Okoński](@/w/lukasz-okonski.md) becomes the sole owner of PTW.
 
 #### 2027
 
 * [WWE](@/o/wwe.md) return with [Road to Royal Rumble Live Show](@/e/wwe/2027-01-16-wwe-road-to-royal-rumble.md), this time in Gliwice.
-
 {% end %}

@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["Krzysztof Zych", "Szymon Iwulski", "Sewi the Referee"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
@@ -60,7 +61,7 @@ Prince Victor's first return to backyard scene was short-lived, as in mid-2016 h
 
 #### Second return to backyard (2017)
 
-In September 2017 Prince Victor made his return and therefore his official debut at an open DFW event. In total he made three appearances in Dream Factory Wrestling along with winning his third and final match at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). It was a match for #1 Contender for [DFW Championship](@/c/dfw-championship.md), but due to [Revage](@/w/rafael-kid.md)'s departure from DFW and overall hiatus of the federation the next year, this plan was scrapped.
+In September 2017 Prince Victor made his return and therefore his official debut at an open DFW event. In total he made three appearances in Dream Factory Wrestling along with winning his third and final match at [DFW Anniversary](@/e/dfw/2017-09-30-dfw-anniversary.md). It was a match for #1 Contender for [DFW Championship](@/c/dfw-championship.md), but due to [Revage's](@/w/rafael-kid.md) departure from DFW and overall hiatus of the federation the next year, this plan was scrapped.
 
 ### Hiatus and sporadic appearances (2017-2020)
 
@@ -180,7 +181,7 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
     * Tag Team of the Year - (as [Pure Gold](@/tt/pure-gold.md)) (2022)
     * Newcomer of the Year (2022)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 

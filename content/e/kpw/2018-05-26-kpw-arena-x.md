@@ -54,7 +54,7 @@ Attendance: about 300
 * Two new girls in catsuits accompany the debuting [Moloch](@/w/moloch.md) to the ring. One of them will later make an in-ring debut as [Diana](@/w/diana-strong.md). The other one is Laura, who later trained with [PTW](@/o/ptw.md) but never debuted.
 * Ditching the old persona of Kowalski, [Mateusz Kakareko](@/w/mateusz-kakareko.md) became more aggressive, using a Taekwondo-based style, and broke his losing streak.
 * Greg "christened" members of the Kawaleria stable by spitting water on them. This would later become part of his character.
-* [Kamil Aleksander](@/w/kamil-aleksander.md)'s mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)
+* [Kamil Aleksander's](@/w/kamil-aleksander.md) mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)
 * Zasada was eliminated first, then [Kamil Aleksander](@/w/kamil-aleksander.md). With the balance now favouring Team Greg, [Adam Bravo](@/w/adam-bravo.md) pulls out a betrayal by laying down for a pin, showing his middle fingers to Kawaleria.
 * Pannache eliminated [Rosetti](@/w/rosetti.md), but ultimately Dawid had to face Greg and [Sawicki](@/w/sawicki.md) alone.
 * Kawaler delays the match with a very long entry in his new gear, preceded by a body double decoy in his previous attire. Greg would copy this years later during [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).

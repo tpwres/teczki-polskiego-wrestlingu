@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
@@ -17,8 +18,8 @@ Kinga Miotke is a Polish ring announcer and on-screen personality currently work
 
 * Years active: 2019-present
 * Gimmicks/nicknames:
-  - Kinga Miotke {{ org_badge(orgs=['kpw']) }} (2022-)
   - Kinga Różańska {{ org_badge(orgs=['kpw']) }} (2019-2022)
+  - Kinga Miotke {{ org_badge(orgs=['kpw']) }} (2022-)
   - Sędzia Kinga {{ org_badge(orgs=['kpw']) }} (2025) - as part-time referee
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md)

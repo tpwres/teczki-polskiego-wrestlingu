@@ -227,7 +227,8 @@ class SearchController {
             '/a/': ['Article', '#book'],
             '/v/': ['Venue', '#map-pin-house'],
             '/c/': ['Championship', '#trophy'],
-            '/tt/': ['Team/Faction', '#biceps-flexed']
+            '/tt/': ['Team/Faction', '#biceps-flexed'],
+            '/g/': ['Gallery', '#images'],
         }
 
         path.match(/(\/\w+\/)/)

@@ -21,7 +21,7 @@ Nü Wrestling was a show by [PpW Ewenement's](@/o/ppw.md) held in [2KOŁA Motorc
 * On 15.06.2026 PpW followed with the announcement of a Triple Threat Match between [Bartosz Plata](@/w/plata.md), [Olgierd](@/w/olgierd.md) and [Antoni Ocean](@/w/antoni-ocean.md), with each contestant looking to win the fight in order to gain some much-needed momentum.
 * On 17.06.2026 [Gabriel Queen](@/w/gabriel-queen.md) issued an [open challenge][lujnij-kto-pyre] for his [PpW Championship](@/c/ppw-championship.md). On the next day the challenge was answered by [Maverick](@/w/maverick.md).
 * On 24.06.2026 [Agentka Agatka](@/w/agentka-agatka.md) was announced to appear at the show.
-* On 1.07.2026 PpW announced a Tornado Tag Team Match between [Zmowa](@/tt/zmowa.md) (represented by [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)) and The Hardcors ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)).
+* On 1.07.2026 PpW announced a Tornado Tag Team Match between [Zmowa](@/tt/zmowa.md) (represented by [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)) and [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)).
 
 ## Card
 
@@ -33,7 +33,7 @@ Nü Wrestling was a show by [PpW Ewenement's](@/o/ppw.md) held in [2KOŁA Motorc
 - - '[Bad Trip](@/tt/bad-trip.md): [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md)'
   - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - g: Gustav announces a longer hiatus due an to injury, Mister Z stripped Bad Trip of their titles.
-- - 'The Hardcors: [Biesiad](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+- - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Mister Z](@/w/mister-z.md)'
   - s: Tornado Tag Team Match
 - - '[Antoni Ocean](@/w/antoni-ocean.md)'

@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["M3n747"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 +++
@@ -14,7 +15,7 @@ Markus Paskal is a Polish wrestler working for [Kombat Pro Wrestling](@/o/kpw.md
 
 * Years active: 2025-
 * Gimmicks/nicknames:
-  - Markus Paskal {{ org_badge(orgs=['kpw', 'ppw', low', 'frpw']) }}
+  - Markus Paskal {{ org_badge(orgs=['kpw', 'ppw', 'low', 'frpw']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
 
@@ -34,6 +35,9 @@ Paskal debuted for [Legacy of Wrestling](@/o/low.md) at [Enter the Dragon](@/e/l
 
 ## In wrestling
 
+* Finishers:
+  - Tornado DDT (2025-)
+  - Shining Wizard (2026-)
 * Entrance music:
   - "Zen Garden II: Apocalypse" by Punch Deck
     {{ org_badge(org='kpw') }} (2025-) <br>

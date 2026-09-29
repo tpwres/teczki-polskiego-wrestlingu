@@ -17,9 +17,15 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
 
 ## Build-up
 
-* TBD
+* FRPW started announcing workers for this show on 24.09.2026, beginning with [Robert Star](@/w/robert-star.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Robert Star](@/w/robert-star.md)'
+  - '???'
+  - nc: upcoming
+{% end %}
 
 ## Highlights
 

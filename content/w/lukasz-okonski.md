@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 +++

@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["M3n747", "Krzysztof Zych", "Sewi The Referee"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
@@ -12,7 +13,7 @@ country = ["PL"]
 3 = { path = "roe.png", caption = "Rings of Europe announces Pawłowski as their ring announcer for Summer Crush.", source = "Official RoE Facebook", skip_art = true }
 +++
 
-Arkadiusz "Pan" Pawłowski is a Polish wrestling announcer and promoter. Since 2021 he also became co-founder and owner of [Prime Time Wrestling](@/o/ptw.md). Prior to that he worked for [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md). Outside of his wrestling career, Pawłowski was also involved with several Polish freak-fight MMA organizations as their announcer, and performed stand-up comedy.
+Arkadiusz "Pan" Pawłowski is a Polish wrestling announcer and promoter. Between 2021 and 2026 he was also the co-founder and owner of [Prime Time Wrestling](@/o/ptw.md). Prior to that he worked for [Kombat Pro Wrestling](@/o/kpw.md), and [Do Or Die Wrestling](@/o/ddw.md). Outside of his wrestling career, Pawłowski was also involved with several Polish freak-fight MMA organizations as their announcer, and performed stand-up comedy.
 
 ## Basic info
 
@@ -36,7 +37,7 @@ In DDW he served as both, and adopted a persona of a heelish, self-important man
 
 After DDW folded, he and other former DDW talent opened [Kombat Pro Wrestling](@/o/kpw.md), where Pawłowski continued his duties as ring announcer. This lasted until 2019's [KPW Arena 13](@/e/kpw/2019-04-05-kpw-arena-13.md), after which he parted ways with the promotion, the details of which differ between accounts. According to an [interview with Pawłowski][mw-pawel], [Piękny Kawaler](@/w/piekny-kawaler.md) fired him over the phone the day before [Arena 14](@/e/kpw/2019-06-15-kpw-arena-14.md), disguising his own premeditated decision as the roster's. In a private conversation, Kawaler countered by saying that the initial idea was to keep Pawłowski for Arena 14 and only fire him after the show, but [Boski Ostrowski](@/w/ostrowski.md) opposed this very strongly and demanded that Pawłowski be fired immediately.
 
-### Prime Time Wrestling (2021-present)
+### Prime Time Wrestling (2021-2026)
 
 #### Creation of PTW
 
@@ -65,11 +66,29 @@ Despite this setback, Nietykalni managed to hold a strong position in PTW and wi
 
 In the main event of [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) both Puncher's PTW Championship and Pawłowski's career were on the line in an All Or Nothing Match against Spartan, supported by Łukasz Okoński. Despite all the tricks and shenanigans pulled off by Pan Pawłowski and Nietykalni, Spartan was finally able to finish his story. Devastated, Arkadiusz spent the next couple of weeks looking back at moments from his wrestling journey on his social media, which included short stories from both [DDW](@/o/ddw.md) and [KPW](@/o/kpw.md), as well as the beginnings of PTW.
 
-At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by making his farewell speech, seemingly reverting to his good guy persona. He granted parting gifts to all the Nietykalni members present: [Vincent](@/w/vincent-caravaggio.md) received an opportunity to represent Poland at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) show, [Nano Lopez](@/w/nano-lopez.md) got a promise that he would defend his [Underground Championship](@/c/ptw-underground-championship.md) across Europe thanks to Pawłowski's networking, and finally [Alex Brave](@/w/alex-brave.md) was given a serious heart-to-heart motivational speech about him not being the star he tried to portray. After that Pawłowski bid farewell to PTW's ring and revealed that he had been supposedly headhunted by one of "major international wrestling promotions", where he would continue his career.
+At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he closed the show by making his farewell speech, seemingly reverting to his good guy persona. He granted parting gifts to all the Nietykalni members present: [Vincent](@/w/vincent-caravaggio.md) received an opportunity to represent Poland at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) show, [Nano Lopez](@/w/nano-lopez.md) got a promise that he would defend his [Underground Championship](@/c/ptw-underground-championship.md) across Europe thanks to Pawłowski's networking, and finally [Alex Brave](@/w/alex-brave.md) was given a serious heart-to-heart motivational speech about him not being the star he tried to portray. After that Pawłowski bid farewell to PTW's ring and revealed that he had been supposedly headhunted by one of "major international wrestling promotions", where he would continue his career. This would ultimately prove to be a worked angle, as he reappered in July at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md).
+
+#### Termination
+
+On 1.09.2026 PTW published an [official statement][pawel-zwolniony] of Pawłowski's termination from PTW, although no reasons were given.
+
+{% inline_fig(path="oficjalny-komunikat-ptw.webp") %}
+OFFICIAL ANNOUNCEMENT: \
+Prime Time Wrestling hereby informs that on the day of 23.08.2026, the contract between the federation and its founder Arkadiusz Pawłowski has been terminated. \
+This decision marks the end of his association with the organisation and alters the federation's ownership structure. \
+From this moment on, Łukasz Okoński remains the sole owner of Prime Time Wrestling, with all decisions pertaining to the federation now being made by Łukasz and his creative team. \
+At the same time, we wish to emphasize that PTW remains an active organisation, consistently executing its vision and expanding its reach. \
+We ask for our decisions to be respected and we thank all the wrestlers, employees and most of all, the fans, for their continuous support. \
+Prime Time Wrestling
+{% end %}
+
+Two days later Okoński posted a [video][okon-wyjasnia] clarifying that Pawłowski was not fired, but that his termination was an amicable process agreed upon by both parties. He also pointed out that there was no conflict between Pawłowski and himself. For a time after the announcement, PTW's [official website][strona-ptw] listed Pawłowski as a coach at the [PTW Academy](@/o/ptw-academy.md), however by the late September his bio was removed from the site.
+
+The timing of this termination caused some confusion among the wrestling community. The official statement dated his release two days before Pawłowski, along with several PTW wrestlers, appeared in breakfast TV programme [Dzień Dobry TVN](@/a/wrestling-on-tv.md#2026).
 
 ## International wrestling appearances
 
-In 2024 Pan Pawłowski cooperated with [Krampus](@/w/krampus.md) - one of the Austrian wrestlers working for PTW - in an effort to create Wrestling World Austria, which was later transformed into PTW:WWA - Prime Time Wrestling's "sister company". Arkadiusz worked there as an announcer, before the project was shut down in October 2024. 
+In 2024 Pan Pawłowski cooperated with [Krampus](@/w/krampus.md) - one of the Austrian wrestlers working for PTW - in an effort to create Wrestling World Austria, which was later transformed into PTW:WWA - Prime Time Wrestling's "sister company". Arkadiusz worked there as an announcer, before the project was shut down in October 2024.
 
 After PTW managed to secure a partnership with BestYa Slam in 2025, Pawłowski made a few appearances there by promoting a show and managing his talent Puncher.
 
@@ -94,12 +113,12 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
   - [Nietykalni](@/tt/nietykalni.md) (2025-2026)
 * Entrance music:
   - "Throne" by Bring Me the Horizon
-    {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2024, 2026) <br>
     {{ music(yt='Ow_qI_F2ZJI')}}
     {{ music(spot='0M3adYbGtyRHACP86dey1H')}}
     {{ music(apple='1021582747?i=1021582761')}}
   - "DiE4u" by Bring Me the Horizon
-    {{ org_badge(orgs=['ptw']) }} (2025-present) <br>
+    {{ org_badge(orgs=['ptw']) }} (2025-2026) <br>
     {{ music(yt='IPUUbVhvqrE')}}
     {{ music(spot='2gT72HL4Y84K2Mle3miAMJ')}}
     {{ music(apple='1583958900?i=1583959120')}}  
@@ -120,3 +139,6 @@ On 8.06.2025 Rings of Europe announced that Pawłowski would be the ring announc
 [yt-iw]: https://www.youtube.com/@IstotaWrestlingu
 [rings-of-pawel]: https://www.facebook.com/ringsofeurope/posts/pfbid0S8SS8eNu3Vwq7pMm7hmLs97HBEq6t6j6zrLckDE7TixabwX8Hb64C8mT1j8TRsFZl
 [mw-pawel]: https://www.youtube.com/live/D4kwKCFbY9c?si=XxJ7CL7-1kn863hd&t=5868
+[pawel-zwolniony]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0JcWNEJ1GQ9VAiAUwTU5kpJbSYUterXZ5Cxug7DkGHup45Fb8jQfHEiFqfoTz4HTMl
+[okon-wyjasnia]: https://www.facebook.com/reel/1377064001215338
+[strona-ptw]: https://ptwrestling.pl/akademia-ptw

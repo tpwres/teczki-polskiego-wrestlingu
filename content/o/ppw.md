@@ -1,6 +1,6 @@
 +++
 title = "PpW Ewenement"
-weight = 3
+weight = 0
 template = "org_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
@@ -26,14 +26,14 @@ PpW initially used the terms "Hardcore Wrestling" or "Hybrid Wrestling", but beg
 
 ### 2010: The backyard years
 
-PpW dates its origins back to 2010, when a group of teenage friends and classmates started emulating their favourite wrestlers. The original arena for their matches was a public playground, and later a common yard which gave the organization its first name: Polski Podwórkowy Wrestling (_Polish Yard Wrestling_ - note that backyards, in the Anglo-Saxon world defined as private enclosed outdoor areas behind terraced houses, are not common in Poland).
+PpW dates its origins back to 2010, when a couple of teenage friends and classmates - who would later be known as [Rob Scaffold](@/w/rob-scaffold.md) and [Johnny Blade](@/w/johnny-blade.md) - started emulating their favourite wrestlers. The original arena for their matches was a public playground, and later a common yard which gave the organization its first name: Polski Podwórkowy Wrestling (_Polish Yard Wrestling_ - note that backyards, in the Anglo-Saxon world defined as private enclosed outdoor areas behind terraced houses, are not common in Poland).
 Until about 2014 the primary location was placed next to the intersection of Kuratowskiego and Arbuzowa streets in Warsaw. The name for this venue was [Placyk PPW](http://ppw-fandom.tpwres.pl/placyk-ppw), and it had no proper ring.
 
 According to [Biesiad](@/w/biesiad.md), at the same time there was also Polski Szkolny Wrestling (_Polish School Wrestling_), where shoot-style fights between classmates were held in [their school](http://ppw-fandom.tpwres.pl/gubin), complete with a ranking of sorts. That class had significant overlap with the roster of PPW. Later this organization of sorts was renamed to PPW (the second P stands for Poszkolny or _After-School_), and later yet renamed to PPPW to distinguish the two. Ultimately, the two merged to create the current incarnation of PpW.
 
 The group made some attempts to build a proper ring, despite having no money or experience. The first structure to be recognized as one was created out of discarded mattresses, rugs, tires, floor mats and other junk. Later, another one was built from wooden pallets and some metal pillars for the corners.
 
-An actual ring, though undersized, was created in 2017, designed by [Rob Scaffold](@/w/rob-scaffold.md). The group pooled their money together and ordered the metal structure at a local welding shop. According to [Johnny Blade](@/w/johnny-blade.md), the craftsman was intrigued and amused at the project, and gave the group a significant discount because of that. It was used as the primary ring until 2023, when PpW purchased a full-sized professional ring. The old ring was then relegated to their wrestling school, although it still sees some use in smaller venues, like [2KOŁA](@/v/2kola.md).
+An actual ring, though undersized, was created in 2017, designed by Rob Scaffold. The group pooled their money together and ordered the metal structure at a local welding shop. According to Johnny Blade, the craftsman was intrigued and amused at the project, and gave the group a significant discount because of that. It was used as the primary ring until 2023, when PpW purchased a full-sized professional ring. The old ring was then relegated to their wrestling school, although it still sees some use in smaller venues, like [2KOŁA](@/v/2kola.md).
 
 Uniquely for the Polish wrestling scene, PpW shares no ancestry with other promotions, many of which can be traced back to [DDW](@/o/ddw.md).
 
@@ -161,9 +161,9 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) & [Isnorr](@/w/isnorr.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
   - >
-    Defeated ['Ladykiller' Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), competing for vacated titles.
+    Defeated [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md) at [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md). A number of these backyard belts were presented at [Udawana Wystawa](@/a/udawana-wystawa.md).

@@ -1,0 +1,35 @@
+{% set root = config.extra.gallery_root ~ page.path %}
+{% set sprite = get_url(path="lucide-sprite.svg", trailing_slash=false) %}
+{% set empty_obj = []|group_by(attribute='0') %}
+
+{# This is the use_extra_gallery path from 'auto_lightbox_dialog.html' #}
+{% set all_photos = load_data(path='data/all_photos.json') %}
+{% set photo_taggings = load_data(path='data/photo_taggings.json') %}
+{% set page_path = page.relative_path %}
+{% set talent_page_path = page_path | replace(from="g/", to="w/") %}
+{% set my_photos = photo_taggings | get(key=talent_page_path, default=[]) %}
+{% set extra_gallery = [] %}
+{% for num in my_photos %}
+    {% set other_photo = all_photos[num] %}
+    {% set_global extra_gallery = extra_gallery | concat(with=[other_photo]) %}
+{% endfor %}
+
+{% include "shared/lightbox.html" %}
+{% set collapse = page.extra | get(key='collapse_gallery', default='auto') %}
+<h2 id="gallery">{{ page.title }}</h2>
+<ul class="gallery">
+  {% for elem in extra_gallery %}
+    {% set key = elem[0] %}
+    {% set item = elem[1] %}
+    {% include "shared/gallery_extra_item.html" %}
+  {% endfor %}
+</ul>
+<script id="pluralization-rules" type="text/json">
+{
+    "photos hidden": {
+      "one": "1 photo hidden",
+      "other": "$n photos hidden"
+    }
+}
+</script>
+<script type="module" src="/gallery.js"></script>

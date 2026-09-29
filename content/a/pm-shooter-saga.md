@@ -11,7 +11,7 @@ toclevel = 3
 1 = { path = "pm-shooter-logo.png", caption = "PM Shooter logo.", source = "Official PM Shooter Facebook" }
 +++
 
-At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, with the shooting range crew presented as a band of mercenaries, aiming to end [Biesiad Strong](@/w/biesiad.md) at [Mister Z](@/w/mister-z.md)'s behest.
+At the end of 2024, [PpW Ewenement](@/o/ppw.md) introduced a sponsorship deal with a Warsaw shooting range, PM Shooter. Unlike PpW's usual partners, the brand quickly got involved in storylines, with the shooting range crew presented as a band of mercenaries, aiming to end [Biesiad Strong](@/w/biesiad.md) at [Mister Z's](@/w/mister-z.md) behest.
 
 <!-- more -->
 

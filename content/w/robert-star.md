@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["Sewi The Referee", "Krzysztof Zych"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 +++
@@ -24,7 +25,7 @@ Robert Star is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.m
 
 ### Do Or Die Wrestling (2013-2015)
 
-Robert Star debuted at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) in a tag team match with a Hungarian wrestler [Dover](@/w/dover.md) against [Nitro](@/w/nitro.md) and [Ron Corvus](@/w/ron-corvus.md), also Hungarians. Prior to his debut, Robert trained at [Don Roid](@/w/don-roid.md)'s wrestling school.
+Robert Star debuted at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) in a tag team match with a Hungarian wrestler [Dover](@/w/dover.md) against [Nitro](@/w/nitro.md) and [Ron Corvus](@/w/ron-corvus.md), also Hungarians. Prior to his debut, Robert trained at [Don Roid's](@/w/don-roid.md) wrestling school.
 
 ### Kombat Pro Wrestling (2015-2019)
 
@@ -121,7 +122,7 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Championship](@/c/kpw-championship.md) (2 times)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 

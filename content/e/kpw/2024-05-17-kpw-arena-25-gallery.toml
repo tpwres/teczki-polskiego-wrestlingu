@@ -1,4 +1,4 @@
-01 = { path = "2024-05-17-kpw-arena-25-plakat.jpg", caption = "Official poster, showing [Chemik](@/w/chemik.md)'s bald head with a barcode.", source = "kpwrestling.pl / Official KPW Facebook" }
+01 = { path = "2024-05-17-kpw-arena-25-plakat.jpg", caption = "Official poster, showing [Chemik's](@/w/chemik.md) bald head with a barcode.", source = "kpwrestling.pl / Official KPW Facebook" }
 02 = { path = "michał-fux-vs-martn-pain.webp", caption = "Image announcing [Michał Fux](@/w/michal-fux.md) vs Martn Pain.", source = "Official KPW Facebook" }
 03 = { path = "eryk-lesak-vs-gulyas-ocsi.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Gulyás Öcsi](@/w/gulyas-ocsi.md).", source = "Official KPW Facebook" }
 04 = { path = "filip-fux-vs-greg.webp", caption = "Image announcing [Filip Fux](@/w/filip-fux.md) vs [Greg](@/w/greg.md).", source = "Official KPW Facebook" }

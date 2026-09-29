@@ -35,7 +35,7 @@ During this time PTW remained silent, attempted to control the situation by dele
 
 As this post-Total Blast crisis was developing, PTW's social media channels remained silent.
 
-PTW Champion [Puncher](@/w/puncher.md)'s Instagram account posted a cryptic message stating "Chapter closed".
+PTW Champion [Puncher's](@/w/puncher.md) Instagram account posted a cryptic message stating "Chapter closed".
 This led to fans speculating that he may be the next one to leave PTW, but it turned out not to be the case.
 On May 17th, 2024, he tweeted a [long statement][puncher-statement] comprising three screenshots where he described his road to championship, all the sacrifices he made, and accepted the blame for the PTW #6 and lottery flops.
 However, he also included passive-aggressive remarks about "disloyal" members of the locker room, and excessive fan criticism halting the growth of wrestling in Poland.

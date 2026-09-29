@@ -29,6 +29,7 @@ Certain entries are mandatory for all files, and not including them is an error.
 * `extra.hide_pagination`: Optional. If present and set to `true`, it disables the chronology section at the bottom of the event page. Useful in cases when there's only one known event (eg. a short-lived backyard group).
 * `extra.has_video`: Optional. If present and set to `true`, listings of the event may indicate visually (with an icon) that the event page links to video content. These links are usually added in the _References_ section. Add `has_video` to indicate specifically the presence of videos from the event itself - full show (official or otherwise), recap/highlights, individual fights etc. If a listing only links to video promos and/or other material not directly recorded at the given show, skip `has_video` or set it to `false`.
 * `extra.end_date`: Optional. If present, must contain a date in the format `YYYY-MM-DD` and marks the event as multi-day, ending on the day specified (inclusive). This date will be displayed on various lists containing this event. It will also be respected when displaying a "Today" section on the lists. Note that this is separate from marking the card as multi-day.
+* `extra.cancelled`: Optional, defaults to false. If present and set to `true`, indicates that the event was cancelled. Such events are kept in the various lists, but might use a different presentation to indicate their cancellation status. Additionally, it changes how the event is processed for purposes of "Upcoming" and "Today" sections on event lists: it's never moved to upcoming, and will not be added to a "Today" section. It will remain in the main list as ordered by date.
 
 ## Talent page
 
@@ -38,6 +39,7 @@ Certain entries are mandatory for all files, and not including them is an error.
    If absent or set to `"auto"`, collapse if the number of matches is above a configurable value.
    Finally if set to `"never"`, show matchlist in full.
 * `extra.fold_crew_appearances`: similar to `extra.fold_matchlist` but for crew appearances
+* `extra.skip_event_gallery`: if present and set to `true`, omit the automatically generated "Photos from Events gallery". Additionally, if a special sub-page under `g/` exists (more on that in GALLERY.md), link to that page after the regular gallery. That special page is a "Talent gallery page", and its required front matter is described below.
 
 ## Team page
 
@@ -65,3 +67,8 @@ Certain entries are mandatory for all files, and not including them is an error.
 
 * `template`: usually `article.html`, but can make use of other templates, especially `event_page.html`
 * `date`: only relevant for articles using the event template. Required if the article is part of a chronology but the event's date is not included in the filename (as done for events). In this case, must specify a valid date, e.g. `date = "2026-03-11"`.
+
+## Talent gallery page
+
+* `template`: must be `team_page.html`
+* `title` must include talent name, and text indicating it's a photo page only, e.g. `"Talent Name / Photos"` or similar

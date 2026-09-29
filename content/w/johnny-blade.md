@@ -1,13 +1,15 @@
 +++
 title = "Johnny Blade"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
 1 = { path = "johnny-blade.jpg", caption = "Promo shot of Johnny Blade.", source = "Johnny Blade's official Facebook" }
+2 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade.", source = "teatr_horzycy @ Instagram", skip_art = true }
 +++
 
 Johnny Blade, also known under numerous aliases, is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md). He also made a few appearances in [Dream Factory Wrestling](@/o/dfw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
@@ -34,7 +36,7 @@ Johnny Blade, also known under numerous aliases, is a Polish wrestler best known
 
 #### Backyard era
 
-Johnny Blade was one of the founding members of [PpW](@/o/ppw.md) back in 2010/2011, along with his fellow classmates. Since the creation of this backyard group, Johnny was one of the wrestlers who made numerous appearances at early PpW shows. Like his fellow wrestlers, he worked under multiple gimmicks and aliases, often wearing a mask.
+Johnny Blade was one of the founding members of [PpW](@/o/ppw.md) back in 2010/2011, along with [Rob Scaffold](@/w/rob-scaffold.md). Since the creation of this backyard group, Johnny was one of the wrestlers who made numerous appearances at early PpW shows. Like his fellow wrestlers, he worked under multiple gimmicks and aliases, often wearing a mask.
 
 In his early days, his main persona was a masked luchador called Ultimo Combo. It was used from the earliest days of PpW, until about 2016. Occasionally, he also performed under a comedic gimmick of "the worst high-flyer in PpW" Angel Guerrero, as an unmasked authority persona Vins Michael $hot, and "Human" - a short-lived horror gimmick of a mutant.
 From 2016 to 2019 he also worked under his more tag-team oriented gimmick of [Automatico's](@/w/rob-scaffold.md) cousin: Black Orion.
@@ -58,8 +60,9 @@ At [Ledwo Legalne III][ll3] in June 2023, Mister Z reluctantly agreed to Jerry's
 
 #### Championship pursuit
 
-After Mister Z betrayed Johnny, Blade grew closer to his other best friend and fan-favourite [Biesiad](@/w/biesiad.md), occasionally teaming up with him for the rest of 2023 as The Hardcores. At [Czyste Intencje][intencje] they lost a Tag Team Match against Stanisław Van Dobroniak and [Steve Kuningas](@/w/steve-kuningas.md). According to their agreement with PpW's producer - Mister Z - due to defeat both of The Hardcores were banned from earning any title shots in PpW. This defeat led to feud with other ultraviolent specialists, [Isnorr](@/w/isnorr.md) and [Chris X](@/w/chris-x.md). This resulted in a Tornado Tag Team Match at [Miasto Bezprawia][miasto] in February 2024, which Blade & Biesiad won.
-At the next show, [Ewenement Haze][haze], Johnny made himself the special guest referee in an ultraviolent match between Dobroniak vs [Alex Arthur](@/w/alex-arthur.md), and forced Mister Z to lift his ban on competing for the UV Championship. Mister Z agreed and that led Johnny to be considered next in line for his long-lost PpW Ultraviolent Championship. The match took place at [Ledwo Legalne IV][ll4]. It was a Born to be Wired Four Way Elimination Match with Alex Arthur and Isnorr added to the mix, however it was Blade who managed to score the ultimate victory and regain the championship.
+After Mister Z betrayed Johnny, Blade grew closer to his other best friend and fan-favourite [Biesiad](@/w/biesiad.md) occasionally teaming up with him for the rest of 2023, which led the duo to form a tag team of [The Hardcors](@/tt/the-hardcors.md). At [Czyste Intencje][intencje] they lost a Tag Team Match against Stanisław Van Dobroniak and [Steve Kuningas](@/w/steve-kuningas.md). According to their agreement with PpW's producer - Mister Z - due to defeat both of The Hardcors were banned from earning any title shots in PpW. This defeat led to feud with other ultraviolent specialists, [Isnorr](@/w/isnorr.md) and [Chris X](@/w/chris-x.md). This resulted in a Tornado Tag Team Match at [Miasto Bezprawia][miasto] in February 2024, which Blade & Biesiad won.
+
+At the next show, [Ewenement Haze][haze], Johnny made himself the special guest referee in an ultraviolent match between Dobroniak vs [Alex Arthur](@/w/alex-arthur.md), and forced Mister Z to lift his ban on competing for the UV Championship. Mister Z agreed and that led Johnny to be considered next in line for his long-lost PpW Ultraviolent Championship. The match took place at [Ledwo Legalne IV][ll4]. It was a Born to be Wired Four Way Elimination Match with Alex Arthur and Isnorr added to the mix, however it was Blade who managed to score the ultimate victory and regain the Championship.
 
 #### Feud with Isnorr
 
@@ -81,7 +84,7 @@ In their match at the show, Zombie Johnny had a striking new look, and was also 
 
 #### The Father of Polish Ultraviolent
 
-After his de-zombification Johnny spent the latter half of 2025 being partialy involved in some of the storylines. He often teamed up with his friends, such as Biesiad and Stanisław Van Dobroniak, facing villainous teams, such as [Legia Łysych](@/tt/legia-lysych.md) and [Rodzina](@/tt/rodzina.md). Around that time he become known as "the Father of Polish Ultraviolent", or simply as "the Father" (_Ojciec_). His first attempt at parenting took place at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), where he faced a newcomer to PpW, Antoni Ocean, in Trial By Blood Match. It was won by the Father, but proved that Antoni belonged in PpW.
+After his de-zombification Johnny spent the latter half of 2025 being partialy involved in some of the storylines. He often teamed up with his friends, such as Biesiad and Stanisław Van Dobroniak, facing villainous teams, such as [Legia Łysych](@/tt/legia-lysych.md) and [Rodzina](@/tt/rodzina.md). Around that time he become known as "the Father of Polish Ultraviolent", or simply as "the Father" (_Ojciec_). His first attempt at parenting took place at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), where he faced a newcomer to PpW, [Antoni Ocean](@/w/antoni-ocean.md), in Trial By Blood Match. It was won by the Father, but proved that Antoni belonged in PpW.
 
 ### Dream Factory Wrestling (2017)
 
@@ -95,13 +98,17 @@ In October 2024 Johnny made his debut in [Maniac Zone Wrestling](@/o/mzw.md), wh
 
 On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursion to Japan during their show [Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Abdullah Kobayashi in a match for the vacated [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md). 
 
+## Other media
+
+On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest-pytanie] that [Biesiad](@/w/biesiad.md) and Johnny Blade - billed for the "wrestling" part of the production, under their ring names - would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus.
+
 ## In wrestling
 
 * Finishers:
   - Diving Splash, sometimes with a foregin object in hands (2020-)
 * Tag Teams and stables:
   - 2 Chamy (2016, 2021)
-  - The Hardcores (2023-)
+  - [The Hardcors](@/tt/the-hardcors.md) (2024-)
 * Entrance music:
   - "Red Stars" by The Birthday Massacre
     {{ org_badge(orgs=['ppw']) }} (2020-) <br>
@@ -114,6 +121,7 @@ On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursi
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (2 times; inaugural)
   - VcV Hardcore Championship (1 time)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [The Hardcors](@/tt/the-hardcors.md)
 
    _Backyard Era Championships_:
   - Pas Reslingu (_Resling Belt_) (1 time)
@@ -141,3 +149,4 @@ On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursi
 [teraz]: @/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md
 [prosta]: @/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
 [ll5]: @/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md
+[oto-jest-pytanie]: https://www.instagram.com/p/DdTt5i4HDac

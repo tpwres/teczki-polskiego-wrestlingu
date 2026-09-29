@@ -1,14 +1,16 @@
 +++
 title = "Biesiad Strong"
 template = "talent_page.html"
-authors = ["Sewi The Referee"]
+authors = ["Sewi The Referee", "Szymon Iwulski", "M3n747"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
 1 = { path = "biesiad.jpg", caption = "Biesiad with [Sędzia Kornel](@/w/sedzia-kornel.md) at [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md).", source = "M3n747" }
 2 = { path = "biesiadzik-stong.jpg", caption = "Young Steven Strong in the ring at [Crossing Roads 2015](@/e/ppw/2015-08-31-ppw-crossing-roads-2015.md).", source = "Official PpW YouTube." }
+3 = { path = "tytus-romek-i-andronikus.webp", caption = "A poster of Titus Andronicus stage play involving Biesiad and Johnny Blade.", source = "teatr_horzycy @ Instagram" }
 +++
 
 Biesiad Strong, also known under numerous aliases, is a Polish wrestler best known for his appearances for [PpW Ewenement](@/o/ppw.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Legacy of Wrestling](@/o/low.md).
@@ -26,7 +28,7 @@ Biesiad Strong, also known under numerous aliases, is a Polish wrestler best kno
   - Esteban Lucha {{ org_badge(orgs=['ppw']) }} (non-canon shows; masked)
 * Trained by:
   - PpW Dojo (2019-2024)
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-2026)
 
 ## Professional wrestling career
 
@@ -47,10 +49,10 @@ Thanks to that victory he became the third official [PpW Champion](@/c/ppw-champ
 From that point on, Biesiad started a streak of successful title defences against wrestlers such as [Osamu](@/w/osamu.md), Mister Z, [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) and the enforcer of PpW's owner [Jerry Mandecky](@/w/jerry-mandecky.md) - [Kapitan Bazooka](@/w/kapitan-bazooka.md).
 His reign finally came to an end at [Ledwo Legalne III](@/e/ppw/2023-06-17-ppw-ledwo-legalne-3.md), where he lost the title to [Steve Kuningas](@/w/steve-kuningas.md), ending his reign after 462 days.
 
-#### The Hardcores
+#### The Hardcors
 
-After his defeat at Ledwo Legalne III, Biesiad formed an alliance with his old friend Johnny Blade, to form a team called The Hardcores.
-They faced their rivals - Steve Kuningas and Stanisław Van Dobroniak - in a Tag Team Match at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md). According to their agreement with PpW's producer and their rival, Mister Z, their defeat resulted in The Hardcores being banned from earning any title shots in PpW.
+After his defeat at Ledwo Legalne III, Biesiad formed an alliance with his old friend Johnny Blade, to form a team called [The Hardcors](@/tt/the-hardcors.md).
+They faced their rivals - Steve Kuningas and Stanisław Van Dobroniak - in a Tag Team Match at [Czyste Intencje](@/e/ppw/2023-09-09-ppw-czyste-intencje.md). According to their agreement with PpW's producer and their rival, Mister Z, their defeat resulted in The Hardcors being banned from earning any title shots in PpW.
 This led to a feud with other hardcore specialists, Isnorr and [Chris X](@/w/chris-x.md). At [Turbo OG](@/e/ppw/2023-12-08-ppw-turbo-og.md) Biesiad lost his match against Isnorr thanks to Chris X's intervention, but he got his revenge when he attacked Chris during his match against Johnny later that night. At [Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md) The Hardcores defeated Chris X and Isnorr.
 
 #### Championship pursuit 
@@ -85,9 +87,15 @@ Regaining his freedom at [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prost
 
 After defeating the leader of Zmowa, Biesiad took on Gustav Gryffin in an ECW Rules Match at [Turniej TypeShit](@/e/ppw/2025-07-05-ppw-turniej-typeshit.md), which qualified him to take part in the final match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). In the meantime he also managed to defeat [Legia Łysych](@/tt/legia-lysych.md) in a Warsaw Brawl Tag Team Match at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md). At Mistrzowskie Rozdanie 2 he faced Vic Golden, Gabriel Queen and Olgierd in a Total Elimination Fatal Four Way. His victory granted him a title match against Goblin at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md). However, just before the match was scheduled to start, Biesiad's old rival Mister Z added himself to the match, thus making it a Triple Threat Match. Ultimately, Goblin won by pinning Mister Z, which enraged Biesiad and resulted in his backstage offensive on PpW's producer, but he was stopped under the threat of being fired from federation. Instead, Z managed to set up a match between Biesiad and [Robert Star](@/w/robert-star.md) at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), which was won by Biesiad.
 
-#### Championship pursuit and firing
+#### Feud with Olgierd, firing and championship pursuit
 
-At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Biesiad got one more shot at the PpW Championship in a Legendary Unsanctioned Match against Olgierd. However, the match was ruled a draw after both competitors dived off the stage and were unable to continue. During the match Olgierd suffered an injury, which prevented Biesiad from gaining a quick rematch. Biesiad compromised his chances further as during Olgierd's address to the crowd at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) he attacked the injured Olgierd. In consequence, Biesiad was immediately fired from PpW Ewenement Wrestling Ltd.
+At [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) Biesiad got one more shot at the PpW Championship in a Legendary Unsanctioned Match against Olgierd. However, the match was ruled a draw after both competitors dived off the stage and were unable to continue. During the match Olgierd suffered an injury, which prevented Biesiad from gaining a quick rematch. Biesiad compromised his chances further as during Olgierd's address to the crowd at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) he attacked the injured Olgierd. In consequence, Biesiad was immediately fired from PpW Ewenement Wrestling Ltd. 
+
+Biesiad made his return in a 25 Typa 25 Broni Match at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) thanks to behind-the-scenes re-employment by Mister Z (who justified his decission as "the best for business"). Biesiad won the match, which granted him a opportunity to face Olgierd for PpW Championship at [Ledwo Legane 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). However, the fight turned into a Triple Threat Match as [Gabriel Queen](@/w/gabriel-queen.md) joined it thanks to winning the #1 Contendership in a Ladder Match earlier the same night. This last-minute addition resulted in Biesiad's failure to get his hands on the title, as Gabriel managed to win it by pinning the defending Champion.
+
+#### PpW Tag Team Champion
+
+Shortly after his defeat in a match for the PpW Championship, Biesiad returned to the Tag Team division with his best friend Johnny Blade as [The Hardcors](@/tt/the-hardcors.md). They started to feud with other tag teams and stables in PpW - mainly [Rodzina](@/tt/rodzina.md) - for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). At [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) Biesiad pinned the Patriarch of Rodzina and the reigning champion, Vic Golden. This granted The Hardcors an opportunity to face Rodzina in a Championship Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), where they won the Championship with the help from [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) - another team holding a grudge against Rodzina.
 
 ### Dream Factory Wrestling (2017)
 
@@ -97,18 +105,22 @@ In February 2017 Biesiad, then working under the alias "Steven Strong", took par
 
 In 2023 Biesiad made his debut for [Maniac Zone Wrestling](@/o/mzw.md) at their joint show [MZW+PpW Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md), where he defeated Chris X in a hardcore match. He returned at [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he took part in a Triple Threat Match along with [Marcelito](@/w/marcelito.md) and the victorious [Syriusz Dziedzic](@/w/dziedzic.md).
 
-### Legacy of Wrestling (2024-)
+### Legacy of Wrestling (2024-2025)
 
 In December 2024 Biesiad took part in [Legacy of Wrestling's](@/o/low.md) [debut show](@/e/low/2024-12-01-low-1.md), where he defeated Olgierd in a PpW Rules Match.
 
-Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), as he was granted a temporary pass by the PM Shooter mercenaries, who guarded him during his appearance. He fought in a Fatal Five Way Match against [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md), [Shadow](@/w/shadow.md) and [Erik Šlotíř](@/w/erik-slotir.md). He was prevented from winning as his pass expired during the bout, and he was yet again apprehended by the mercenaries.
+Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), as he was granted a temporary pass by the PM Shooter mercenaries, who guarded him during his appearance. He fought in a Fatal Five Way Match against [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md), [Shadow](@/w/shadow.md) and [Erik Šlotíř](@/w/erik-slotir.md). He was prevented from winning as his pass seemingly expired during the bout, and he was yet again apprehended by the mercenaries.
+
+## Other media
+
+On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][wrestlowac-albo-nie-wrestlowac] that Biesiad and [Johnny Blade](@/w/johnny-blade.md) - billed for the "wrestling" part of the production, under their ring names - would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus.
 
 ## In wrestling
 
 * Finishers:
   - Swanton Bomb (2015-present)
 * Tag Teams and stables:
-  - The Hardcores (2023-)
+  - [The Hardcors](@/tt/the-hardcors.md) (2024-)
 * Entrance music:
   - "Floorfiller" by A*Teens
     {{ org_badge(orgs=['ppw']) }} (as Red Floorfiller) <br>
@@ -140,6 +152,7 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (2 times)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [The Hardcors](@/tt/the-hardcors.md)
   - Turniej TypeShit (2025)
 
   _Backyard Era Championships:_
@@ -148,3 +161,5 @@ Biesiad was able to show up at the [second event](@/e/low/2025-04-06-low-2.md), 
 ## Internet presence
 
 * [Biesiad's Instagram](https://www.instagram.com/biesiad_strong)
+
+[wrestlowac-albo-nie-wrestlowac]: https://www.instagram.com/p/DdTt5i4HDac

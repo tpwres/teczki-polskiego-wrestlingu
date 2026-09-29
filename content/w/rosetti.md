@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
+skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
@@ -53,6 +54,8 @@ Following [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md), Rosetti decided that K
 At [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) an induction ceremony was held, in which [Piotr Opolski](@/w/piotr-opolski.md) swore in Rosetti as the new chairman. Before Rosetti could finish his oath, however, [Krystian Malinowski](@/w/krystian-malinowski.md) made a surprise appearance. He stated that he'd never asked Rosetti to take over his duties as an acting chairman, and that he was disappointed in everyone for being so easily misled by one person. Malinowski then resumed his duties and one of his first decisions was to remove Rosetti from the active roster and move him over to commentary, to help [Krystian Czekaj](@/w/krystian-czekaj.md).
 
 Prior to the demotion, Rosetti was one of the most experienced [KPW](@/o/kpw.md) wrestlers remaining on the active roster, next to [Greg](@/w/greg.md) and [David Oliwa](@/w/david-oliwa.md), with roots in [Do Or Die Wrestling](@/o/ddw.md). Outside of storyline, Rosetti's move away from ring action was caused by an injury sustained a few shows prior.
+
+At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Rosetti took part in the Battle Royal - ordered into the ring by [Krystian Malinowski](@/w/krystian-malinowski.md) - but was quickly eliminated.
 
 ### Legacy of Wrestling (2025)
 

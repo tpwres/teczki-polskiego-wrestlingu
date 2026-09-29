@@ -135,6 +135,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Chuj w dupę Łodzi, tej kurwie nic nie zaszkodzi") %}xˈuj vˈɨ dˈupɛ wˈɔd͡ʑi, tˈɛj kˈurvʲɛ ɲˈit͡s ɲʲˈɛ zaʃkˈɔd͡ʑi{% end %} 🌶️🌶️🌶️
 * _Facet w gaciach_ - "Guy in undies": [David Oliwa](@/w/david-oliwa.md) and his usual ring attire. \
   {% ipa(tts="Facet w gaciach") %}fˈat͡sɛt vˈɨ ɡˈat͡ɕax{% end %}
+* _Filip fiut_ - "Filip's a dick": aimed at [Filip Fux](@/w/filip-fux.md) after his heel turn. \
+  {% ipa(tts="Filip fiut") %}fˈilip fjˈut{% end %}
 * _Golden to pała, wygląda mi na pedała_ - "Golden's a jackass, looks to me like a faggot": used against [Vic Golden](@/w/vic-golden.md). \
   {% ipa(tts="Golden to pała, wygląda mi na pedała") %}ɡˈɔldɛn tɔ pˈawa, vɨɡlˈɔnda mi na pɛdˈawa{% end %}
 * _Goldenowi liże jaja, Oskar to faja_ - "He licks Golden's balls, Oskar's a prick": used against [Oskar Alexander](@/w/oskar-alexander.md), in tag team with [Vic Golden](@/w/vic-golden.md). To the tune of [Freed From Desire][ffd]. \

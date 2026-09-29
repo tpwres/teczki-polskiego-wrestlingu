@@ -5,7 +5,9 @@
   {% if code is starting_with("~") -%}
     {% set slug = code | replace(from="~", to="") -%}
   {% endif -%}
-  {% if code == "ddw" %}
+  {% if code == "cow" %}
+    {% include "badges/cow.html" %}
+  {% elif code == "ddw" %}
     {% include "badges/ddw.html" %}
   {% elif code == "dfw" %}
     {% include "badges/dfw.html" %}
@@ -98,7 +100,9 @@
     {% set bg = style|get(key='bg', default='#000') %}
     {% set fg = style|get(key='fg', default='#fff') %}
     {% set text_fg = style|get(key='text_fg', default='#fff') %}
-    {% if org == "ddw" %}
+    {% if org == "cow" %}
+      {% include "badges/cow.html" %}
+    {% elif org == "ddw" %}
       {% include "badges/ddw.html" %}
     {% elif org == "dfw" %}
       {% include "badges/dfw.html" %}

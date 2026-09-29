@@ -15,13 +15,13 @@ Boguś is a Polish wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 * Years active: 2025-present
 * Gimmicks/nicknames:
   - adept Boguś {{ org_badge(orgs=['ptw']) }} (July 2025-December 2025)
-  - Boguś {{ org_badge(orgs=['ptw']) }} (January 2026-)
+  - Boguś {{ org_badge(orgs=['ptw']) }} (January 2026-August 2026)
 * Trained by:
-  - [PTW Academy](@/o/ptw-academy.md) (202?-)
+  - [PTW Academy](@/o/ptw-academy.md) (202?-2026)
 
 ## Professional wrestling career
 
-### Prime Time Wrestling (2025-present)
+### Prime Time Wrestling (2025-2026)
 
 #### Early appearances
 
@@ -30,6 +30,8 @@ Boguś made a handful of in-ring appearances prior to his official debut as one 
 #### Begginings of wrestler career
 
 With Pawłowski's regime ended, Boguś finally gained an opportunity to make his official in-ring debut. At [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) he took part in a Four-Way Match against [Blaze](@/w/blaze.md), Fashion Gabriel and the victorious [Damian Lambert](@/w/damian-lambert.md).
+
+In September 2026 Boguś was fired from PTW.
 
 ## In wrestling
 

@@ -7,7 +7,7 @@ authors = ["Sewi The Referee"]
 toclevel=2
 [extra.gallery]
 1 = { path = "pas-dfw-caly.webp", caption = "The DFW Championship belt in good condition.", source = "Facebook @DreamFactoryWrestling" }
-2 = { path = "pas-dfw.jpg", caption = "The damaged DFW Championship belt plate. As of 2024, it's being kept at [PpW](@/o/ppw.md)'s training facilities."}
+2 = { path = "pas-dfw.jpg", caption = "The damaged DFW Championship belt plate. As of 2024, it's being kept at [PpW's](@/o/ppw.md) training facilities."}
 3 = { path = "mjt1-pas-dfw.jpg", caption = "A fan holding the DFW Championship belt at [PpW Mistrz Jest Tylko Jeden](@/e/ppw/2022-03-12-ppw-mistrz-jest-tylko-jeden.md)"}
 +++
 
