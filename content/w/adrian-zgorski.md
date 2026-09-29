@@ -33,7 +33,7 @@ During [Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) he took part in t
 
 ### Legacy of Wrestling (2025-present)
 
-On December 20th, 2025, Adrian made his first appearance for [Legacy of Wrestling](@/o/low.md), working as the announcer during their [fourth show](@/e/low/2025-12-20-low-4.md), as well as on [Enter The Dragon](@/e/low/2026-07-10-low-6.md) show in July the following year, working during [Wiktor Longman's](@/w/wiktor-longman.md) absence or in-ring endeavours.
+On December 20th, 2025, Adrian made his first appearance for [Legacy of Wrestling](@/o/low.md), working as the announcer during their [fourth show](@/e/low/2025-12-20-low-4.md), as well as at [Enter The Dragon](@/e/low/2026-07-10-low-6.md) show in July the following year, working during [Wiktor Longman's](@/w/wiktor-longman.md) absence or in-ring endeavours.
 
 ## Internet presence
 
