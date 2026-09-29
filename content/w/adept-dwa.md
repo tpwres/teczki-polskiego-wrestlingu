@@ -32,7 +32,7 @@ At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Adept Dwa de
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-On May 3rd, 2026 Adept Dwa - working under his real-life name Szymon Kurczab - made his debut outiside of KPW at the [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) debut event, [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md). His debut was in a match against [Jakub](@/w/jakub.md).
+On May 3rd, 2026 Adept Dwa - working under his real-life name Szymon Kurczab - made his debut outiside of KPW at the [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) first event, [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md). His debut was in a match against [Jakub](@/w/jakub.md).
 
 ## In wrestling
 
