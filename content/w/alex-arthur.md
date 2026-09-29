@@ -24,7 +24,7 @@ Alex Arthur made his debut in Poland working occasionally for [Maniac Zone Wrest
 His first match was at [Revolution](@/e/mzw/2016-11-05-mzw-revolution.md), a Two On One Handicap Match against [Mr B.](@/w/mr-b.md) and [Hexia](@/w/hexia.md), which the monster heels won.
 In January 2020 he returned to face [Matt Buckna](@/w/matt-buckna.md) at [Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), where he lost again. In a rematch at [Game ON](@/e/mzw/2023-03-11-mzw-game-on.md) he was also unsuccessful.
 
-### PpW Ewenement (2024-present)
+### PpW Ewenement (2024)
 
 Alex made his debut in [PpW Ewenement](@/o/ppw.md) at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md), facing the reigning [PpW European Ultraviolent Champion](@/c/ppw-european-ultraviolent-championship.md) [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md).
 This match has since been considered one of the most brutal and bloody bouts in Polish wrestling history, but despite Arthur's sacrifice he was unable to win the match, officiated by special referee [Johnny Blade](@/w/johnny-blade.md), also a contender for the Championship.
