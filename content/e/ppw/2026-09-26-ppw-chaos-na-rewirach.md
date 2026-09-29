@@ -35,7 +35,7 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
   - s: Pre-Show Match
 - - '[Jakub](@/w/jakub.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ Kondzio the Cannonball'
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md)'
   - '[Rodzina](@/tt/rodzina.md): [Filip Fux](@/w/filip-fux.md) & [Isnorr](@/w/isnorr.md)'
   - s: Tag Team Match
 - - '[Leon Lato](@/w/leon-lato.md)'

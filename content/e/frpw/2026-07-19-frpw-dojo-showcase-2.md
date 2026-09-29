@@ -39,12 +39,12 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - '[Bartosz Plata](@/w/plata.md)'
 - - '[Boro](@/w/boro.md)'
   - '[Mutant](@/w/mutant.md)'
-  - 'Kondzio the Cannonball'
+  - '[Kondzio the Cannonball](@/w/kondzio-the-cannonball.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - 'adeptka Gaba'
   - g: Kondzio joins Boro and Mutant as stablemate, Zmowa confronts them and presents Gaba as their new manager.
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ Kondzio the Cannonball'
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md)'
   - '[Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ adeptka Gaba'
   - s: Tag Team Match
 - - '[Jacob Crane](@/w/jacob-crane.md)'

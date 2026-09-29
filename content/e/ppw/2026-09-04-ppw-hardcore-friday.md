@@ -28,7 +28,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 - - 'The Grind: [Laurance Roman](@/w/laurance-roman.md) & Nick Schreier'
   - '[Jakub](@/w/jakub.md) & [Maverick](@/w/maverick.md)'
   - s: Maverick's Zmowa Tryout Tag Team Match
-- - '[Boro](@/w/boro.md) w/ Kondzio the Cannonball'
+- - '[Boro](@/w/boro.md) w/ [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md)'
   - 'Mylan'
 - - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Bartosz Plata](@/w/plata.md)'
