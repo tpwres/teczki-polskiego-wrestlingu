@@ -21,7 +21,7 @@ Alex Ace, previously known as Alexander Reich, is a German wrestler best known f
 
 ## Professional wrestling career
 
-### Maniac Zone Wrestling (2015-present)
+### Maniac Zone Wrestling (2015-2018; 2024-2025)
 
 #### Alexander Reich & Catch Connection
 
