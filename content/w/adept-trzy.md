@@ -1,7 +1,7 @@
 +++
 title = "Adept Trzy"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 aliases = ["/w/rookie-three", "/w/adept-trzy"]
 [extra]
 toclevel = 2
@@ -24,3 +24,5 @@ Adept Trzy ("Rookie Three") is a rookie wrestler training in the [KPW School](@/
 ### Kombat Pro Wrestling (2025-)
 
 Although he didn't have an official debut yet, Adept Trzy had a few fights at KPW shows. He made his first appearance at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), where he faced [Tomczak](@/w/tomczak.md) in a 3-on-1 Handicap Match, alongside [Adept Jeden](@/w/oskar-haller.md) and [Adept Dwa](@/w/adept-dwa.md). The fan-given name "Adept Trzy" originated at this event, as the rookies weren't individually introduced.
+
+At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Adept Trzy faced his fellow rookies: [Dwa](@/w/adept-dwa.md) and Cztery, in a Triple Threat Match for KPW Contract. Despite his effort he was pinned by victorious Adept Dwa.
