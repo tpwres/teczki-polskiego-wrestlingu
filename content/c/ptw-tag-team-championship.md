@@ -28,7 +28,7 @@ The PTW Tag Team Championship is a professional wrestling championship created a
 * Longest reign: [Budapest Bastards](@/tt/budapest-bastards.md) (308 days)
 * Shortest reign: [L'Orda](@/tt/l-orda.md) (175 days)
 * Oldest Champion: [Renegade](@/w/renegade.md) (39 years, 99 days)
-* Youngest Champion: [Sigma Boy xD](@/w/sigma-boy.md) (19 years)
+* Youngest Champion: [Sigma Boy xD](@/w/sigma-boy.md) (18 years, 326 days)
 * Heaviest Champions: PAKA - Disco Pablo & Taras (213&nbsp;kg combined)
 * Lightest Champions: [Miyagi Sigma](@/tt/miyagi-sigma.md) (146&nbsp;kg combined)
 
