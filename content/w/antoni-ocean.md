@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Antoni Ocean is a Polish wrestler known for his time in [PpW Ewenement](@/o/ppw.md).
+Antoni Ocean is a Polish wrestler known for his time in [PpW Ewenement](@/o/ppw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
@@ -30,6 +30,14 @@ Antek - initially billed as adept Antek, as per tradition - started his in-ring 
 #### Antoni Ocean early appearances
 
 Along with his new ringname, Antoni Ocean adopted a babyface persona of a high-flying surfer. At [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) he teamed up with [Shadow](@/w/shadow.md) to face Axel Fox and Bartosz Plata in a victorious Tag Team bout. Later on he was tested by The Father of Polish Ultraviolent, [Johnny Blade](@/w/johnny-blade.md), in a Trial by Blade Match at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), earning Blade's respect despite suffering a loss.
+
+#### Singles and Tag Team competition
+
+At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Ocean won a Triple Threat Match which granted him a spot in a Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) with Championship Match Contract on stake. Despite not winning this match, he - alongside [Leon Lato](@/w/leon-lato.md) - was challenged by newly crowned [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) - [Bad Trip](@/tt/bad-trip.md) - for a Tag Team Match for said titles at [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md). 
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he took part in Next Big Thing Battle Royale Match.
 
 ## In wrestling
 
