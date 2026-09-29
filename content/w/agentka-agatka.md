@@ -9,7 +9,7 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Agentka Agatka is a Polish female manager and wrestler best known for her time in [PpW Ewenement](@/o/ppw.md).
+Agentka Agatka is a Polish female manager and wrestler best known for her time in [PpW Ewenement](@/o/ppw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
@@ -18,7 +18,7 @@ Agentka Agatka is a Polish female manager and wrestler best known for her time i
   - Agentka Agatka (_Agent Agata_) {{ org_badge(orgs=['ppw', 'frpw']) }}
   - La Gatita {{ org_badge(org='ppw') }} (non-canon shows)
 * Trained by:
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -47,19 +47,33 @@ After Oskar was defeated by Gabriel Queen in the second round of [Turniej TypeSh
 
 After Mistrzowskie Rozdanie 2 Rodzina's feud with the babyfaces continued. Agatka started her Hardcore Icon era by being involved in a First Blood Match against Johnny Blade at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), where she defeated Johnny with some help from Oskar. At [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) she - thanks to Oskar's rash decision - got involved in a Deathmatch against Gabriel Queen, which she lost.
 
+#### Leaving Rodzina and Face Turn
+
+After Rodzina forced Gabriel Queen into its ranks, the situation in the group worsened. Rodzina struggled with keeping their chase after [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) while being lapped by both [Zmowa](@/tt/zmowa.md) and [Bad Trip](@/tt/bad-trip.md). The situation got increasingly complicated during Vic's short-term hiatus during most intensive pursuit for championship. During that time Agatka grew increasingly more frustrated over Vic's absence - often critisizing in front of Rodzina, which was especially approved by Queen. Growing tension finally erupted at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) where Queen refused to take an oath of fealty and attacked Vic, Oskar and [Filip Fux](@/w/filip-fux.md). Swayed Agatka joined Gabriel and officially left both Rodzina, and his long-term "client" Oskar. 
+
+At [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) Agatka teamed up with [Isnorr](@/w/isnorr.md) against [Robert Star](@/w/robert-star.md) and Filip Fux in a The Hardcors Hardcore Tag Team Gauntlet Invitational Match which resulted with Agatka and Isnorr loss against Rodzina members. Additionally, after the match vicious Isnorr returned to his old ways by turning on Agatka and joining Rodzina.
+
+After leaving Rodzina Agatka fully turned face and focused on facing against new wave of Polish female wrestlers such as [Gloria G Szek](@/w/gloria-g-szek.md) and [Kalyana](@/w/kalyana.md).
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. She defeated [Gloria G Szek](@/w/gloria-g-szek.md) in a Singles Match. 
+
 ## In wrestling
 
+* Finishers:
+  - Running Somersault (2026-)
 * Tag Teams and stables:
-  - Agencja (2024-)
-  - [Rodzina](@/tt/rodzina.md) (2025-)
+  - Agencja (2024-2026)
+  - [Rodzina](@/tt/rodzina.md) (2025-2026)
 * Wrestlers managed:
-    - [Oskar Alexander](@/w/oskar-alexander.md) (2024-)
-    - [Vic Golden](@/w/vic-golden.md) (2025-)
+    - [Oskar Alexander](@/w/oskar-alexander.md) (2024-2026)
+    - [Vic Golden](@/w/vic-golden.md) (2025-2026)
 * Managed by:
     - [Oskar Alexander](@/w/oskar-alexander.md) (2025-)
 * Entrance music:
   - "Co Mi Panie Dasz" by Bajm
-    {{ org_badge(orgs=['ppw']) }} (2025) <br>
+    {{ org_badge(orgs=['ppw', 'frpw']) }} (2025-) <br>
     {{ music(yt='RrAn5pGqu_w')}}
     {{ music(spot='45ghTMKvWtMCX9tHJCT1Zo')}}
     {{ music(apple='1433949584')}}
@@ -69,7 +83,7 @@ After Mistrzowskie Rozdanie 2 Rodzina's feud with the babyfaces continued. Agatk
     {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
     {{ music(apple='1485632394?i=1485632668')}}
   - "What Do You Want From Me" by Pink Floyd
-    {{ org_badge(orgs=['ppw']) }} (2025-, both solo, and when managing [Oskar Alexander](@/w/oskar-alexander.md) )) <br>
+    {{ org_badge(orgs=['ppw']) }} (2025-2026, both solo, and when managing [Oskar Alexander](@/w/oskar-alexander.md) )) <br>
     {{ music(yt='A8i7248HqEY') }}
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
