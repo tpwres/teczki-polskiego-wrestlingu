@@ -16,4 +16,4 @@ Kondzio the Cannonball is a Polish rookie currently training in [Ewenement Dojo]
 * Gimmicks/nicknames:
   - Kondzio the Cannonball {{ org_badge(orgs=['frpw', 'ppw']) }}
 * Trained by:
-  - [Ewenement Dojo](@/o/dojo.md) (2024-2026)
+  - [Ewenement Dojo](@/o/dojo.md) (2026-)
