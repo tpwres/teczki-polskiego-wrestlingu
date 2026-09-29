@@ -33,11 +33,11 @@ Along with his new ringname, Antoni Ocean adopted a babyface persona of a high-f
 
 #### Singles and Tag Team competition
 
-At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Ocean won a Triple Threat Match which granted him a spot in a Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) with Championship Match Contract on stake. Despite not winning this match, he - alongside [Leon Lato](@/w/leon-lato.md) - was challenged by newly crowned [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md) - [Bad Trip](@/tt/bad-trip.md) - for a Tag Team Match for said titles at [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md). 
+At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Ocean won a Triple Threat Match, which granted him a spot in a Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) with a Championship contract at stake. Despite not winning this match, he - alongside [Leon Lato](@/w/leon-lato.md) - was challenged by the newly crowned [PpW Tag Team Champions](@/c/ppw-tag-team-championship.md), [Bad Trip](@/tt/bad-trip.md), to a Tag Team Match for said titles at [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md). 
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he took part in Next Big Thing Battle Royale Match.
+Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he took part in the Next Big Thing Battle Royale Match.
 
 ## In wrestling
 

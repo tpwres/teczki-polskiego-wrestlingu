@@ -47,13 +47,13 @@ After Oskar was defeated by Gabriel Queen in the second round of [Turniej TypeSh
 
 After Mistrzowskie Rozdanie 2 Rodzina's feud with the babyfaces continued. Agatka started her Hardcore Icon era by being involved in a First Blood Match against Johnny Blade at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), where she defeated Johnny with some help from Oskar. At [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) she - thanks to Oskar's rash decision - got involved in a Deathmatch against Gabriel Queen, which she lost.
 
-#### Leaving Rodzina and Face Turn
+#### Leaving Rodzina and face turn
 
-After Rodzina forced Gabriel Queen into its ranks, the situation in the group worsened. Rodzina struggled with keeping their chase after [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) while being lapped by both [Zmowa](@/tt/zmowa.md) and [Bad Trip](@/tt/bad-trip.md). The situation got increasingly complicated during Vic's short-term hiatus during most intensive pursuit for championship. During that time Agatka grew increasingly more frustrated over Vic's absence - often critisizing in front of Rodzina, which was especially approved by Queen. Growing tension finally erupted at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) where Queen refused to take an oath of fealty and attacked Vic, Oskar and [Filip Fux](@/w/filip-fux.md). Swayed Agatka joined Gabriel and officially left both Rodzina, and his long-term "client" Oskar. 
+After Rodzina forced Gabriel Queen into their ranks, the situation in the group worsened. Rodzina struggled with chasing after the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) while being overtaken by both [Zmowa](@/tt/zmowa.md) and [Bad Trip](@/tt/bad-trip.md). The situation got increasingly complicated during Vic's short-term hiatus during most intensive pursuit for the Championship. During that time Agatka grew increasingly more frustrated with Vic's absence - often critisising him in front of Rodzina, which was especially approved of by Queen. Growing tensions finally erupted at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), where Queen refused to take an oath of fealty and attacked Vic, Oskar and [Filip Fux](@/w/filip-fux.md). Swayed Agatka joined Gabriel and officially left both Rodzina, and her long-term "client" Oskar.
 
-At [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) Agatka teamed up with [Isnorr](@/w/isnorr.md) against [Robert Star](@/w/robert-star.md) and Filip Fux in a The Hardcors Hardcore Tag Team Gauntlet Invitational Match which resulted with Agatka and Isnorr loss against Rodzina members. Additionally, after the match vicious Isnorr returned to his old ways by turning on Agatka and joining Rodzina.
+At [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) Agatka teamed up with [Isnorr](@/w/isnorr.md) against [Robert Star](@/w/robert-star.md) and Filip Fux in The Hardcors Hardcore Tag Team Gauntlet Invitational Match which resulted in Agatka and Isnorr's loss against Rodzina members. Additionally, after the match a vicious Isnorr returned to his old ways by turning on Agatka and joining Rodzina.
 
-After leaving Rodzina Agatka fully turned face and focused on facing against new wave of Polish female wrestlers such as [Gloria G Szek](@/w/gloria-g-szek.md) and [Kalyana](@/w/kalyana.md).
+After leaving Rodzina, Agatka fully turned face and focused on going against the new wave of female wrestlers, such as [Gloria G Szek](@/w/gloria-g-szek.md) and [Kalyana](@/w/kalyana.md).
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
@@ -76,7 +76,7 @@ Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/
     {{ org_badge(orgs=['ppw', 'frpw']) }} (2025-) <br>
     {{ music(yt='RrAn5pGqu_w')}}
     {{ music(spot='45ghTMKvWtMCX9tHJCT1Zo')}}
-    {{ music(apple='1433949584')}}
+    {{ music(apple='1433949185?i=1433949584')}}
   - "Zacznij od Bacha" by Zbigniew Wodecki
     {{ org_badge(orgs=['ppw']) }} (2024-2025, when managing [Oskar Alexander](@/w/oskar-alexander.md)) <br>
     {{ music(yt='rDQHzGpwQNk')}}
