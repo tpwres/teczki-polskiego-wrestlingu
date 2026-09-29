@@ -17,10 +17,13 @@ The PTW Women's Championship is a professional wrestling belt created and promot
 ## Statistics
 
 * First champion: [Mercedes Moné](@/w/mercedes-mone.md)
-* Most reigns: 1
-* Longest reign: [Mercedes Moné](@/w/mercedes-mone.md)
-* Oldest Champion: [Mercedes Moné](@/w/mercedes-mone.md)
-* Heaviest Champion: [Mercedes Moné](@/w/mercedes-mone.md)
+* Most reigns: N/A
+* Longest reign: Mercedes Moné (245 days)
+* Shortest reign: [Diana Strong](@/w/diana-strong.md) (182+ days)
+* Oldest Champion: Mercedes Moné (33 years, 182 days)
+* Youngest Champion: Diana Strong (26 years, 103 days)
+* Heaviest Champion: Diana Strong (56&nbsp;kg) 
+* Lightest Champion: Mercedes Moné (52&nbsp;kg)
 
 ## History
 
