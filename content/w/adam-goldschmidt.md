@@ -26,7 +26,7 @@ At [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Adam
 
 #### Feud with Herno
 
-In July 2026 Adam started a feud with [Sędzia Herno](@/w/sedzia-herno.md), accusing him of battery during "Godzina z Goldschmidtem" - his talk-show. Later it was revealed, that Adam provoked him by defaming Herno, his relation with [Łukasz Okoński](@/w/lukasz-okonski.md) and even Herno's relation with his father. Due to the fact that both of the sides are not wrestlers the feud prolifed mostly on social media and during ringside altercations.
+In July 2026 Adam started a feud with [Sędzia Herno](@/w/sedzia-herno.md), accusing him of battery during his talk-show, "Godzina z Goldschmidtem" (_An Hour with Goldschmidt_). Later it was revealed that Adam provoked him by defaming Herno, his relation with [Łukasz Okoński](@/w/lukasz-okonski.md) and even with his father. Due to the fact that both sides aren't wrestlers, the feud proliferated mostly on social media and during ringside altercations.
 
 ## Internet presence
 

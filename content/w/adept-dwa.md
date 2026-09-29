@@ -9,7 +9,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Adept Dwa ("Rookie Two") also known by his real-life name _Szymon Kurczab_ is a rookie wrestler training in the [KPW School](@/o/szkola-kpw.md).
+Adept Dwa ("Rookie Two"), also known by his real-life name Szymon Kurczab, is a rookie wrestler training in the [KPW School](@/o/szkola-kpw.md).
 
 ## Basic info
 
@@ -28,11 +28,11 @@ Adept Dwa ("Rookie Two") also known by his real-life name _Szymon Kurczab_ is a 
 
 Although he didn't have an official debut yet, Adept Dwa had a few fights at KPW shows. He made his first appearance at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), where he faced [Tomczak](@/w/tomczak.md) in a 3-on-1 Handicap Match, alongside [Adept Jeden](@/w/oskar-haller.md) and [Adept Trzy](@/w/adept-trzy.md). The fan-given name "Adept Dwa" originated at this event, as the rookies weren't individually introduced.
 
-At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Adept Dwa defeated his fellow rookies - [Trzy](@/w/adept-trzy.md) and Cztery - in a Triple Threat Match with KPW Contract on the line. Later that night he also participated in a Championship Contract Battle Royal while still being called "Adept Dwa".
+At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Adept Dwa defeated his fellow rookies [Trzy](@/w/adept-trzy.md) and Cztery in a Triple Threat Match with a KPW Championship Contract on the line. Later that night he also participated in a Championship Contract Battle Royal while still being called "Adept Dwa".
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-On May 3rd, 2026 Adept Dwa - working under his real-life name "Szymon Kurczab" - made his debut outiside KPW on [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) debut show called [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md). Szymon made his debut in a match against [Jakub](@/w/jakub.md).
+On May 3rd, 2026 Adept Dwa - working under his real-life name Szymon Kurczab - made his debut outiside of KPW at the [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) debut event, [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md). His debut was in a match against [Jakub](@/w/jakub.md).
 
 ## In wrestling
 
@@ -44,8 +44,8 @@ On May 3rd, 2026 Adept Dwa - working under his real-life name "Szymon Kurczab" -
     {{ org_badge(orgs=['frpw']) }} (2026) <br>
     {{ music(yt='SMVDJ6o39ig')}}
     {{ music(spot='6x9KQT3H2YLqsg8VHPDrmr')}}
-    {{ music(apple='1742548274')}}
+    {{ music(apple='1742548271?i=1742548274')}}
 
-  ## Internet presence
+## Internet presence
 
-  * [Szymon's Instagram](https://www.instagram.com/szymonkurczab/)
+* [Szymon's Instagram](https://www.instagram.com/szymonkurczab/)
