@@ -12,3 +12,4 @@
 012 = { path = "brkj-julia-rave.webp", caption = "Image announcing Julia Rave.", source = "Official PpW Facebook" }
 013 = { path = "brkj-sara-shade.webp", caption = "Image announcing Sara Shade.", source = "Official PpW Facebook" }
 014 = { path = "niezle-kwasy-beda.webp", caption = "Image announcing [Goblin](@/w/goblin.md) vs [Gabriel Queen](@/w/gabriel-queen.md).", source = "Official PpW Facebook" }
+015 = { path = "czlowiek-szalik-vs-czlowiek-lacznik.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Mister Z](@/w/mister-z.md).", source = "Official PpW Facebook" }
