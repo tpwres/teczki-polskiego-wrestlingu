@@ -73,10 +73,10 @@ Gloria made her first FRPW appearance at the promotion's [first fully independen
 
 ## Internet presence
 
-#### As Gloria:
+#### As Gloria
 * [Gloria's official Instagram](https://www.instagram.com/gloria_g_szek/)
 
-#### Istota Wrestlingu:
+#### Istota Wrestlingu
 * [IstotaWrestlingu][istota] on YouTube
 * [istotawrestlingu](https://www.instagram.com/istotawrestlingu/) on Instagram
 * [Istota's Official Facebook profile](https://www.facebook.com/profile.php?id=61565897124134)
