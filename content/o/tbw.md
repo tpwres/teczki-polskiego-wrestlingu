@@ -12,14 +12,14 @@ chrono_root = ["tbw"]
 manifest = "@/o/tbw-gallery.toml"
 +++
 
-Total Blast Wrestling was a short-lived organization created by [Andrzej Supron](@/w/andrzej-supron.md) and Paweł Borkowski, after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars. The organization managed to hold two successful events before folding.
+Total Blast Wrestling was a short-lived organization created by [Andrzej Supron](@/w/andrzej-supron.md) and [Paweł Borkowski](@/w/pawel-borkowski.md), after they split from [Do or Die Wrestling](@/o/ddw.md) due to its poor ticket sales and no funds to invite bigger wrestling stars. The organization managed to hold two successful events before folding.
 
 ## History
 
 ### Before 2006: PPWF
 
 Back in 1993, [Andrzej Supron](@/w/andrzej-supron.md) was instrumental in bringing the independent American "World Wrestling Superstars" tour to Poland. This was the first professional wrestling event in the country since the interwar period.
-Some years later, likely in the early 2000s, Paweł Borkowski came to Supron with a plan to create the first pro wrestling federation in the country.
+Some years later, likely in the early 2000s, [Paweł Borkowski](@/w/pawel-borkowski.md) came to Supron with a plan to create the first pro wrestling federation in the country.
 The name for this was simply "Polish Pro-Wrestling Federation", or PPWF.
 However, the results were much more modest than expected: unable to secure foreign names, the organization had to rely only on home-grown talent.
 They did manage to secure sponsorship and a deal to buy a professional wrestling ring.
@@ -66,8 +66,8 @@ Nothing came out of this, because the deal fell through due to the channel chang
 
 ## References
 
-* [Mywrestling's History of Polish Wrestling, part 1](https://mywrestling.com.pl/historia-polskiego-wrestlingu-1-supronstars-gala-w-torwarze-ppwf/)
-* [Mywrestling's History of Polish Wrestling, part 3](https://mywrestling.com.pl/historia-polskiego-wrestlingu-3-total-blast-wrestling/)
+* [MyWrestling's History of Polish Wrestling, part 1](https://mywrestling.com.pl/historia-polskiego-wrestlingu-1-supronstars-gala-w-torwarze-ppwf/)
+* [MyWrestling's History of Polish Wrestling, part 3](https://mywrestling.com.pl/historia-polskiego-wrestlingu-3-total-blast-wrestling/)
 * [Promotional video from Polish TV](https://www.youtube.com/watch?v=YHq0T_Ou438)
 
 [bazelak-kovacs]: https://www.youtube.com/watch?v=1vSTZv-LfIE
