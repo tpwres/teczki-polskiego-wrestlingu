@@ -36,7 +36,7 @@ The first ever [Ewenement Dojo](@/o/dojo.md) showcase was held on the last day o
   - 'adeptka Maria'
   - '[Oskar Haller](@/w/oskar-haller.md)'
   - 'adept Sawo'
-  - 'adeptka Gaba'
+  - '[adeptka Gaba](@/w/rozalia-nyx.md)'
   - '[Markus Paskal](@/w/markus-paskal.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[TOMCZAK](@/w/tomczak.md)'

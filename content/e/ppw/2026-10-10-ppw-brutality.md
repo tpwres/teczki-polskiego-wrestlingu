@@ -21,7 +21,7 @@ has_video = false
 * On 2.09.2026 Irie was given an opponent - [Robert Star](@/w/robert-star.md) - whom he'll face in a Super Heavyweight Showcase Match.
 * On 10.09.2026 PpW announced Poland's first TLC (Tables, Ladders & Chairs) Match, between three unspecified teams.
 * On 16.09.2026 PpW announced [Queen Jadwiga's][krol-i-krolowa-wrestlingu] Battle Royal, a women-only elimination match set to be the biggest women's match in Polish wrestling's history.
-* On 20.09.2026 PpW [published][wielosc-jadwig] the list of the Queen Jadwiga's Battle Royal competitors: Akane Fujita, [Agentka Agatka](@/w/agentka-agatka.md), [Gloria G Szek](@/w/gloria-g-szek.md), Julia Rave, [Kalyana](@/w/kalyana.md), Rozalia Nyx and Sara Shade.
+* On 20.09.2026 PpW [published][wielosc-jadwig] the list of the Queen Jadwiga's Battle Royal competitors: Akane Fujita, [Agentka Agatka](@/w/agentka-agatka.md), [Gloria G Szek](@/w/gloria-g-szek.md), Julia Rave, [Kalyana](@/w/kalyana.md), [Rozalia Nyx](@/w/rozalia-nyx.md) and Sara Shade.
 * On 27.09.2026 PpW announced a match for the [PpW Championship](@/c/ppw-championship.md) between the reigning Champion [Gabriel Queen](@/w/gabriel-queen.md), and [Goblin](@/w/goblin.md) who won the #1 Contendership [the day before](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
 * At the [last show](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd, fed up with [Mister Z](@/w/mister-z.md) treating him as means to his own ends, quit [Zmowa](@/tt/zmowa.md), angering Zet. As a result, a PpW Rules Match between the two was announced on 29.09.2026.
 * The next day PpW announced a 5-man [PpW Championship](@/c/ppw-championship.md) #1 Contender Scramble Match between [Sentinel](@/w/sentinel.md), [Jakub](@/w/jakub.md), [Leon Lato](@/w/leon-lato.md), [Antoni Ocean](@/w/antoni-ocean.md) and [Maverick](@/w/maverick.md).
@@ -41,7 +41,7 @@ has_video = false
 - - 'Akane Fujita'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Gloria G Szek](@/w/gloria-g-szek.md)'
-  - 'Rozalia Nyx'
+  - '[Rozalia Nyx](@/w/rozalia-nyx.md)'
   - '[Kalyana](@/w/kalyana.md)'
   - 'Julia Rave'
   - 'Sara Shade'

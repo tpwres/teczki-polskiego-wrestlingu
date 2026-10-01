@@ -40,12 +40,12 @@ Chaos na Rewirach (roughly _Chaos at the Turf_) was a show by [PpW Ewenement](@/
   - s: Tag Team Match
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Max Speed](@/w/max-speed.md)'
-  - '[Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
+  - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
   - s: Triple Threat Match
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Jakub](@/w/jakub.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - 'Rozalia Nyx'
+  - '[Rozalia Nyx](@/w/rozalia-nyx.md)'
   - g: 'Mister Z chastises Olgierd for losing, Olgierd quits Zmowa.'
 - - '[Goblin](@/w/goblin.md)'
   - '[Mister Z](@/w/mister-z.md)'

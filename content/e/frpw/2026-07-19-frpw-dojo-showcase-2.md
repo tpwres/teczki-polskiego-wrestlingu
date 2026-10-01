@@ -42,10 +42,10 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - '[Kondzio the Cannonball](@/w/kondzio-the-cannonball.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md)'
-  - 'adeptka Gaba'
+  - '[adeptka Gaba](@/w/rozalia-nyx.md)'
   - g: Kondzio joins Boro and Mutant as stablemate, Zmowa confronts them and presents Gaba as their new manager.
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) w/ [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md)'
-  - '[Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ adeptka Gaba'
+  - '[Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ [adeptka Gaba](@/w/rozalia-nyx.md)'
   - s: Tag Team Match
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - 'adept Mikołaj "SKS"'
@@ -54,7 +54,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 - - 'adept Mikołaj "SKS"'
   - '[Sambor](@/w/sambor.md)'
   - '[Szymon Kurczab](@/w/adept-dwa.md)'
-  - 'adeptka Gaba'
+  - '[adeptka Gaba](@/w/rozalia-nyx.md)'
   - '[Emil Völler](@/w/emil-voeller.md)'
   - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
   - '[Marcelito](@/w/marcelito.md)'

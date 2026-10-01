@@ -23,7 +23,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
 ## Card
 
 {% card() %}
-- - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Olgierd](@/w/olgierd.md) & Rozalia Nyx'
+- - '[Zmowa](@/tt/zmowa.md): [Jakub](@/w/jakub.md) & [Olgierd](@/w/olgierd.md) & [Rozalia Nyx](@/w/rozalia-nyx.md)'
   - g: 'Jakub informs Olgierd that he has a different partner for tonight.'
 - - 'The Grind: [Laurance Roman](@/w/laurance-roman.md) & Nick Schreier'
   - '[Jakub](@/w/jakub.md) & [Maverick](@/w/maverick.md)'
@@ -36,7 +36,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
   - s: Three-Way Match
 - - '[Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Goblin](@/w/goblin.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
   - g: 'Queen issues an open challenge, Goblin answers, Zmowa interrupt.'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Johnny Blade](@/w/johnny-blade.md)'
@@ -44,7 +44,7 @@ Harcore Friday: Żeby Było Ci Dobrze (roughly _To Make You Feel Good_) was a sh
   - '[Vic Golden](@/w/vic-golden.md)'
   - s: Tables Match
 - - '[Gabriel Queen](@/w/gabriel-queen.md) & [Goblin](@/w/goblin.md)'
-  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ Rozalia Nyx'
+  - '[Zmowa](@/tt/zmowa.md): [Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
   - s: Hardcore Tag Team Match
 - - 'Turyści: [Sędzia Kornel](@/w/sedzia-kornel.md), [Konrad "Joker" Grzesikiewicz](@/w/joker.md), Janek, Karol, Młody'
   - g: 'Turyści bid farewell to Sędzia Kornel (dark segment).'
