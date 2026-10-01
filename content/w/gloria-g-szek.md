@@ -56,10 +56,15 @@ Gloria made her first FRPW appearance at the promotion's [first fully independen
 
 * Entrance music:
   - "Just a Girl" by No Doubt
-    {{ org_badge(orgs=['ppw', 'frpw']) }} (2024-) <br>
+    {{ org_badge(orgs=['ppw', 'frpw']) }} (2024-2026) <br>
     {{ music(yt='PHzOOQfhPFg')}}
     {{ music(spot='5lWRaa0fBxDE5yU91npPq7')}}
     {{ music(apple='1440845400?i=1440845532')}}
+  - "Around The World (La La La La La) (HARDTEKK)" by 4IRELUV
+    {{ org_badge(orgs=['ppw', 'frpw']) }} (2026-) <br>
+    {{ music(yt='IbJjB9lM_XU')}}
+    {{ music(spot='6TJAaMfXZflBzWND1to6Ga')}}
+    {{ music(apple='1896357475?i=6767047542')}}
 
 ## Championships and accomplishments
 
@@ -68,10 +73,10 @@ Gloria made her first FRPW appearance at the promotion's [first fully independen
 
 ## Internet presence
 
-As Gloria:
+#### As Gloria
 * [Gloria's official Instagram](https://www.instagram.com/gloria_g_szek/)
 
-Istota Wrestlingu:
+#### Istota Wrestlingu
 * [IstotaWrestlingu][istota] on YouTube
 * [istotawrestlingu](https://www.instagram.com/istotawrestlingu/) on Instagram
 * [Istota's Official Facebook profile](https://www.facebook.com/profile.php?id=61565897124134)
