@@ -3,7 +3,8 @@
 {% if orgs_event_pages != "" %}
   <ul class="event-list">
     {% for event_page in orgs_event_pages | sort(attribute="date") | reverse -%}
-      <li data-date="{{ event_page.date }}">
+      {% set cancelled = event_page.extra | get(key='cancelled', default=False) %}
+      <li data-date="{{ event_page.date }}" {% if cancelled %}data-cancelled="true"{% endif %}>
         {% set dt = event_page.date | date(format="%Y-%m-%d") -%}
         <time datetime="{{ dt }}">{{ dt }}</time>
         {%- set has_photos = event_page.extra is containing("gallery") -%}
