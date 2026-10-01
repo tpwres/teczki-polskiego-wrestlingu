@@ -13,7 +13,7 @@ LookupFlagFn = Callable[[str|TalentPage], tuple[str, str]]
 MakeKeyFn = Callable[[str], str]
 
 def main():
-    locale.setlocale(locale.LC_COLLATE, 'pl_PL')
+    locale.setlocale(locale.LC_COLLATE, 'pl_PL.UTF-8')
     content_path = Path.cwd() / 'content'
 
     # TODO: Replace with career_v2 and stop building the old file.
