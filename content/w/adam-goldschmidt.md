@@ -24,6 +24,10 @@ Adam Goldschmidt joined [Prime Time Wrestling](@/o/ptw.md) some time in 2024 as 
 
 At [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md) Adam unexpectedly entered the Gold Rush Rumble Match, but he was quickly struck down by almost all of the in-ring competitors, before being eliminated from the match. 
 
+#### Feud with Herno
+
+In July 2026 Adam started a feud with [Sędzia Herno](@/w/sedzia-herno.md), accusing him of battery during his talk-show, "Godzina z Goldschmidtem" (_An Hour with Goldschmidt_). Later it was revealed that Adam provoked him by defaming Herno, his relation with [Łukasz Okoński](@/w/lukasz-okonski.md) and even with his father. Due to the fact that both sides aren't wrestlers, the feud proliferated mostly on social media and during ringside altercations.
+
 ## Internet presence
 
 * [Goldschmidt's Instagram](https://www.instagram.com/adamgoldschmidtptw/)
