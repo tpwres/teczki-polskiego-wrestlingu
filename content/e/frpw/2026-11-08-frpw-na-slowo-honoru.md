@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"Na Słowo Honoru" (_Word of Honour_) is an upcoming show by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), returning to [Teatr Komuna](@/v/teatr-komuna.md) in Warsaw.
+"Na Słowo Honoru" (_Word of Honour_, but also roughly _With Spit and Duct Tape_) is an upcoming show by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), returning to [Teatr Komuna](@/v/teatr-komuna.md) in Warsaw.
 
 ## Build-up
 
