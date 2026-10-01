@@ -5,15 +5,27 @@ from pathlib import Path
 from typing import Any, Callable, Iterable, cast
 from page import page, TalentPage
 from unidecode import unidecode
-import json, re, yaml, locale
+import json, re, yaml
 
 ATRecord = namedtuple('ATRecord', ['sort_key', 'name', 'kind', 'path', 'country', 'flag_or_emoji'])
 
 LookupFlagFn = Callable[[str|TalentPage], tuple[str, str]]
 MakeKeyFn = Callable[[str], str]
 
+POLISH_COLLATION_MAP = str.maketrans({
+    'a': 'a\x01', 'ą': 'a\x02',
+    'c': 'c\x01', 'ć': 'c\x02',
+    'e': 'e\x01', 'ę': 'e\x02',
+    'l': 'l\x01', 'ł': 'l\x02',
+    'n': 'n\x01', 'ń': 'n\x02',
+    'o': 'o\x01', 'ó': 'o\x02',
+    's': 's\x01', 'ś': 's\x02',
+    'z': 'z\x01', 'ź': 'z\x02', 'ż': 'z\x03',
+})
+def strxfrm(text: str) -> str:
+    return text.translate(POLISH_COLLATION_MAP)
+
 def main():
-    locale.setlocale(locale.LC_COLLATE, 'pl_PL.UTF-8')
     content_path = Path.cwd() / 'content'
 
     # TODO: Replace with career_v2 and stop building the old file.
@@ -35,7 +47,7 @@ def main():
 
     all_names = set()
     def sort_key(text):
-        return locale.strxfrm(make_sort_key(text))
+        return strxfrm(make_sort_key(text))
 
     for name in every_talent_name:
         path = alias_map.get(name)
