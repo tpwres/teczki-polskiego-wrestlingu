@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any, Callable, Iterable, cast
 from page import page, TalentPage
 from unidecode import unidecode
-import json, re, yaml
+import json, re, yaml, locale
 
 ATRecord = namedtuple('ATRecord', ['sort_key', 'name', 'kind', 'path', 'country', 'flag_or_emoji'])
 
@@ -13,6 +13,7 @@ LookupFlagFn = Callable[[str|TalentPage], tuple[str, str]]
 MakeKeyFn = Callable[[str], str]
 
 def main():
+    locale.setlocale(locale.LC_COLLATE, 'pl_PL')
     content_path = Path.cwd() / 'content'
 
     # TODO: Replace with career_v2 and stop building the old file.
@@ -34,7 +35,7 @@ def main():
 
     all_names = set()
     def sort_key(text):
-        return unidecode(make_sort_key(text))
+        return locale.strxfrm(make_sort_key(text))
 
     for name in every_talent_name:
         path = alias_map.get(name)
