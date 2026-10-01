@@ -6,7 +6,7 @@ authors = ["Krzysztof Zych"]
 coordinates = '52.226888/21.005237'
 orgs = ['ppw']
 [extra.gallery]
-1 = { path = "teatr-komuna.jpg", caption = "Teatr Komuna in April 2024, view from the Emilii Plater street.", source = "M3n747" }
+1 = { path = "teatr-komuna.jpg", caption = "Teatr Komuna in April 2024, view from the Emilia Plater street.", source = "M3n747" }
 +++
 
 Teatr Komuna is home to Komuna Warszawa, an independent avant-garde theatre company. Their mission is to provide grassroots support for all manner of creative work, especially theatre, _broadly understood as an open space for various cultural disciplines to mingle and interpenetrate_. It's located in a former school building in the very center of Warsaw, which houses its stage in the school's sports hall.
