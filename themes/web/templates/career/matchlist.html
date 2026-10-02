@@ -3,7 +3,7 @@
 {% set alias_map = load_data(path="data/aliases.json") -%}
 {% set all_my_names = [] -%}
 {% if team_career_keys -%}
-  {% set all_my_names = [team_career_keys] -%}
+  {% set all_my_names = team_career_keys -%}
 {% else -%}
   {% set all_my_names = [page.relative_path, page.title] -%}
 {% endif -%}

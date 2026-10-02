@@ -4,7 +4,7 @@ template = "team_page.html"
 authors = ["M3n747"]
 [extra]
 orgs = ["kpw"]
-team_career_keys = ["chemik&haller"]
+team_career_keys = ["chemik&oskar-haller"]
 +++
 
 [Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md) are a tag team in [Kombat Pro Wrestling](@/o/kpw.md).

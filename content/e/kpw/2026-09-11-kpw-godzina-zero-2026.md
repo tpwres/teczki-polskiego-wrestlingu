@@ -47,7 +47,7 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
 - - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Markus Paskal](@/w/markus-paskal.md)'
   - g: Kamil looks back on his career, thanks everybody, leaves his boots in the ring.
-- - '[ ](@/tt/chemik-haller.md): [Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md)'
+- - '[Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md)'
   - '[Team Visegrad](@/tt/team-visegrad.md): [Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto(c)'
   - c: '[KPW Tag Team Championship](@/c/kpw-tag-team-championship.md)'
     s: Tag-Team Match
