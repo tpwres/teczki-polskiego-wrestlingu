@@ -11,7 +11,7 @@ This website is made by:
 Left to right: \
 Krzysztof "Zysiu" Zych \
 Szymon "Iwul" Iwulski \
-[Seweryn "Sewi the Ref" Pielucha](@/w/sedzia-seweryn.md) \
+[Seweryn "Sewi the Ref" Waga](@/w/sedzia-seweryn.md) \
 Krzysztof "M3n747" Gołębiewski
 {% end %}
 
