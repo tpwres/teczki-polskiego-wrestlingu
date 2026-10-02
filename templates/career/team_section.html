@@ -15,7 +15,7 @@
 {# Use the first career key that returns some results. #}
 {# Ideally, we may need to list more and combine the lookups. However, for named teams this is not an issue. #}
 {% for key in career_lookup_keys %}
-{% set career_lookup = careers | get(key=key, default=False) %}
+  {% set career_lookup = careers | get(key=key, default=False) %}
   {% if not career_lookup %}
     {% continue %}
   {% else %}
