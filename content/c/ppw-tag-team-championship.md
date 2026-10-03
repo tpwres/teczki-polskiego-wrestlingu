@@ -160,6 +160,13 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
   - s: Tag Team Match
     en: '[PpW Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
     ed: 2026-09-26
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - s: TLC 3-Way Tag-Team Ladder Match
+    en: '[PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md)'
+    ed: 2026-10-10
+    nc: upcoming
 {% end %}
 
 **Total: 84 days**
