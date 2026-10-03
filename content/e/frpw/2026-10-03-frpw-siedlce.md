@@ -36,6 +36,10 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Sambor](@/w/sambor.md) & Sara Shade'
   - '[Max Speed](@/w/max-speed.md) & [Kalyana](@/w/kalyana.md)'
   - s: Pre-Show Tag Team Match
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - s: HeelTurn Invitational Tournament, Round 1
+    nc: upcoming
 
 
 - - '[Bartosz Plata](@/w/plata.md)'
@@ -44,10 +48,6 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
     nc: upcoming
 - - '[Bart Petro](@/w/bart-petro.md)'
   - '[Goblin](@/w/goblin.md)'
-  - s: HeelTurn Invitational Tournament, Round 1
-    nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)'
-  - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: HeelTurn Invitational Tournament, Round 1
     nc: upcoming
 - - '[Leon Lato](@/w/leon-lato.md)'
