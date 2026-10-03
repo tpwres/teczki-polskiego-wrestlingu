@@ -46,7 +46,9 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - s: HeelTurn Invitational Tournament, Round 1
-
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'adept Mikołaj "SKS"'
+  - g: Training session for kids.
 
 - - '[Bart Petro](@/w/bart-petro.md)'
   - '[Goblin](@/w/goblin.md)'
@@ -68,7 +70,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
-Attendance: ca. 100-120
+Attendance: ca. 150
 
 ## Highlights
 
