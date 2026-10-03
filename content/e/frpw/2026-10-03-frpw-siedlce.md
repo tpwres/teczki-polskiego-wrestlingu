@@ -49,6 +49,10 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Max Speed](@/w/max-speed.md)'
   - 'adept Mikołaj "SKS"'
   - g: Training session for kids.
+- - '[Laurance Roman](@/w/laurance-roman.md) & adept Stowarzysz'
+  - '[Vic Golden](@/w/vic-golden.md)'
+  - s: Handicap Match
+
 
 - - '[Bart Petro](@/w/bart-petro.md)'
   - '[Goblin](@/w/goblin.md)'
@@ -60,9 +64,6 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
     nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '["Catch Connoisseur" Dieter Schwartz](@/w/dieter-schwartz.md)'
-  - nc: upcoming
-- - '[Laurance Roman](@/w/laurance-roman.md)'
-  - '???'
   - nc: upcoming
 - credits:
     Host, Ring Announcer: '???'
