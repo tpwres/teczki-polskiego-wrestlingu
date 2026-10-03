@@ -52,12 +52,11 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Laurance Roman](@/w/laurance-roman.md) & adept Stowarzysz'
   - '[Vic Golden](@/w/vic-golden.md)'
   - s: Handicap Match
-
-
-- - '[Bart Petro](@/w/bart-petro.md)'
-  - '[Goblin](@/w/goblin.md)'
+- - '[Goblin](@/w/goblin.md)'
+  - '[Bart Petro](@/w/bart-petro.md)'
   - s: HeelTurn Invitational Tournament, Round 1
-    nc: upcoming
+
+
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Jakub](@/w/jakub.md)'
   - s: HeelTurn Invitational Tournament, Round 1
