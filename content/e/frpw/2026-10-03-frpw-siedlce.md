@@ -83,6 +83,7 @@ Attendance: ca. 150
 
 ## Highlights
 
+* All matches were run under Japanese-style strict timekeeping, with the limit both called at the start, and frequently during the match. When calling the winners, the ring announcer also mentioned the exact duration.
 * [Tomczak](@/w/tomczak.md) wore his old rusty-brown ring gear. He came out wearing his mask, but removed it shortly afterwards.
 * After [Bartosz Plata](@/w/plata.md) vs Tomczak, there was a break during which children attending the show could take part in a rudimentary training session, learning some wrestling basics.
 * Unlike in their home promotions, [Oskar Alexander](@/w/oskar-alexander.md) played a face, and [Markus Paskal](@/w/markus-paskal.md) a heel. [Gloria](@/w/gloria-g-szek.md) associating with [Jakub](@/w/jakub.md) was also exclusive to FRPW.
