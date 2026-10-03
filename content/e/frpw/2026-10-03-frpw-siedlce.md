@@ -55,12 +55,12 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Goblin](@/w/goblin.md)'
   - '[Bart Petro](@/w/bart-petro.md)'
   - s: HeelTurn Invitational Tournament, Round 1
-
-
 - - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Jakub](@/w/jakub.md)'
+  - '[Jakub](@/w/jakub.md) w/ [Gloria](@/w/gloria-g-szek.md)'
   - s: HeelTurn Invitational Tournament, Round 1
-    nc: upcoming
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - g: Leon praises the expansion of Polish wrestling scene.
+
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '["Catch Connoisseur" Dieter Schwartz](@/w/dieter-schwartz.md)'
   - nc: upcoming
@@ -76,6 +76,7 @@ Attendance: ca. 150
 
 * [Tomczak](@/w/tomczak.md) wore his old rusty-brown ring gear. He came out wearing his mask, but removed it shortly afterwards.
 * After [Bartosz Plata](@/w/plata.md) vs Tomczak there was a break during which children attending the show could take part in a rudimentary training session, learning some wrestling basics.
+* [Samson](@/w/samson.md) was present at the merch stand.
 
 ## References
 
