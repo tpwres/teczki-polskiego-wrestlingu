@@ -25,6 +25,7 @@ has_video = false
 * On 27.09.2026 PpW announced a match for the [PpW Championship](@/c/ppw-championship.md) between the reigning Champion [Gabriel Queen](@/w/gabriel-queen.md), and [Goblin](@/w/goblin.md) who won the #1 Contendership [the day before](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
 * At the [last show](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd, fed up with [Mister Z](@/w/mister-z.md) treating him as means to his own ends, quit [Zmowa](@/tt/zmowa.md), angering Zet. As a result, a PpW Rules Match between the two was announced on 29.09.2026.
 * The next day PpW announced a 5-man [PpW Championship](@/c/ppw-championship.md) #1 Contender Scramble Match between [Sentinel](@/w/sentinel.md), [Jakub](@/w/jakub.md), [Leon Lato](@/w/leon-lato.md), [Antoni Ocean](@/w/antoni-ocean.md) and [Maverick](@/w/maverick.md).
+* The TLC Match was upgraded to [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) TLC 3- Way Tag-Team Ladder Match on 3.10.2026, with the teams participating being [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md), and [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)).
 
 ## Predicted card
 
@@ -33,10 +34,11 @@ has_video = false
   - '[Robert Star](@/w/robert-star.md)'
   - s: Super Heavyweight Showcase
     nc: upcoming
-- - '??? & ???'
-  - '??? & ???'
-  - '??? & ???'
-  - s: TLC Match
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: TLC 3-Way Tag-Team Ladder Match
     nc: upcoming
 - - 'Akane Fujita'
   - '[Agentka Agatka](@/w/agentka-agatka.md)'
