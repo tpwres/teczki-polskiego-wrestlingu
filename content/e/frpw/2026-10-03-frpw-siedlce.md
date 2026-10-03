@@ -33,9 +33,12 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 ## Card
 
 {% card() %}
-- - '[Sambor](@/w/sambor.md) & Sara Shade'
-  - '[Max Speed](@/w/max-speed.md) & [Kalyana](@/w/kalyana.md)'
+- - '[Max Speed](@/w/max-speed.md) & [Kalyana](@/w/kalyana.md)'
+  - '[Sambor](@/w/sambor.md) & Sara Shade'
   - s: Pre-Show Tag Team Match
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[_Catch Connoisseur_ Dieter Schwartz](@/w/dieter-schwartz.md)'
+  - nc: Time-limit draw
 - - '[Olgierd](@/w/olgierd.md)'
   - '["Fox" Jakub](@/w/jakub.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
@@ -47,9 +50,6 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - '[Istociarz](@/w/istociarz.md)'
   - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
   - g: Introduction of the Heelturn Invitational Tournament contestants.
-- - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '[_Catch Connoisseur_ Dieter Schwartz](@/w/dieter-schwartz.md)'
-  - nc: Time-limit draw
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: HeelTurn Invitational Tournament, Round 1
