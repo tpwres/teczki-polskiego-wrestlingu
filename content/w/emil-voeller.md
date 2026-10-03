@@ -25,6 +25,15 @@ Emil Völler is a German wrestler known in Poland for working with [PpW Ewenemen
 
 Emil Völler debuted in Poland at [PpW Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) and has been making occasional appearances for the promotion since.
 
+## In wrestling
+
+* Entrance music:
+  - "NDW 2005" by Fler
+    {{ org_badge(orgs=['frpw']) }} (2026-) <br>
+    {{ music(yt='YPqahPy8h_U')}}
+    {{ music(spot='69nWXr4rpRn194yHAQInrZ')}}
+    {{ music(apple='1437317965?i=1437317974')}}
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=29940)

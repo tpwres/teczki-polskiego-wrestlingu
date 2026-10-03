@@ -39,12 +39,16 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: HeelTurn Invitational Tournament, Round 1
-
-
+- - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Emil Völler](@/w/emil-voeller.md)'
+  - s: Intergender Match
+  - r: Submission
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - s: HeelTurn Invitational Tournament, Round 1
     nc: upcoming
+
+
 - - '[Bart Petro](@/w/bart-petro.md)'
   - '[Goblin](@/w/goblin.md)'
   - s: HeelTurn Invitational Tournament, Round 1
@@ -59,10 +63,6 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Laurance Roman](@/w/laurance-roman.md)'
   - '???'
   - nc: upcoming
-- - '[Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Emil Völler](@/w/emil-voeller.md)'
-  - s: Intergender Match
-    nc: upcoming
 - credits:
     Host, Ring Announcer: '???'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Michał](@/w/sedzia-michal.md)'
