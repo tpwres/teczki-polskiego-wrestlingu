@@ -42,11 +42,10 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Emil Völler](@/w/emil-voeller.md)'
   - s: Intergender Match
-  - r: Submission
+    r: Submission
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - s: HeelTurn Invitational Tournament, Round 1
-    nc: upcoming
 
 
 - - '[Bart Petro](@/w/bart-petro.md)'
