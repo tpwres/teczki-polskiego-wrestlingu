@@ -152,11 +152,16 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
   - Mix: "Fopa i Nietakt" by Słoń/Mikser, feat WSRH / "Slasher" by Słoń/Mikser
     {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
     (mixed by [Referee Kornel](@/w/sedzia-kornel.md))<br>
-   - "HUNDRED JOINTS" by Pharmacist & Cloudymane
+  - "HUNDRED JOINTS" by Pharmacist & Cloudymane
     {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
     {{ music(yt='7cXmA6CiW-g')}}
     {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
     {{ music(apple='1606979069?i=1606979070')}}
+  - "NIGHTWING" by Słoń x The Returners
+    {{ org_badge(orgs=['frpw']) }} (2026-present) <br>
+    {{ music(yt='Z74dj3D-pnU')}}
+    {{ music(spot='2IwJ2kGjBFkF9jKvA80yuK')}}
+    {{ music(apple='1816721490?i=1816721635')}}
 
 ## Championships and accomplishments
 
