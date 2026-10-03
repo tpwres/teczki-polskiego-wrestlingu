@@ -39,7 +39,6 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: HeelTurn Invitational Tournament, Round 1
-    nc: upcoming
 
 
 - - '[Bartosz Plata](@/w/plata.md)'
