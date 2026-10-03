@@ -62,7 +62,7 @@ From 2024 onwards Sambor started making appearances at the European independent 
   - _Szczerbiec_ (Claymore Kick) (2023-)
   - _Słowiański Pal_ (Piledriver) (2025)
 * Managers:
-  - Rusałka (2023-)
+  - Rusałka (2023-2025)
 * Entrance music:
   - "Wojownik" by Żywiołak
     {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }} (2023-) <br>

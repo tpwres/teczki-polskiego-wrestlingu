@@ -41,6 +41,15 @@ After Martyna became an [Ewenement Dojo](@/o/dojo.md) trainee, the relationship 
 
 On January 24th, 2025, in an exclusive piece, MyWrestling confirmed that Istociarz would be added to the PpW commentary team. Joining [Joker](@/w/joker.md) and replacing Szymon "Modzel" Modzelewski, he debuted at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) and appeared at every show since. He also works on various aspects of the events, such as preshow direction, video production and conducting interviews with fans.
 
+## In wrestling
+
+* Entrance music:
+  - "Byłaś serca biciem" by Andrzej Zaucha
+    {{ org_badge(orgs=['frpw']) }} (2026-) <br>
+    {{ music(yt='uF-SNn5ZuWS8JQ')}}
+    {{ music(spot='35OPPx2E4yg8ZjCavn6kMF')}}
+    {{ music(apple='1542580581?i=1542580817')}}
+
 ## Internet presence
 
 * [Istota Wrestlingu YouTube channel](https://www.youtube.com/@IstotaWrestlingu/)

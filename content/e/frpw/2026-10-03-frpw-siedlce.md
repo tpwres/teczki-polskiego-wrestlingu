@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) and [July](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), FRPW is going to hold a show in Siedlce. The event, dubbed "Wrestling w Twoim Mieście" (_Wrestling in Your City_), will take place in the {{ map_pin(v="Ośrodek Sportu ARMS") }}ARMS Sports Centre. This will be the first FRPW show outside of Warsaw and the first time that wrestling is presented in Siedlce.
+After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) and [July](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), FRPW held a show in Siedlce. The event, dubbed "Wrestling w Twoim Mieście" (_Wrestling in Your City_), took place in the {{ map_pin(v="Ośrodek Sportu ARMS") }}ARMS Sports Centre. This was the first FRPW show outside of Warsaw and the first time that wrestling was presented in Siedlce.
 
 ## Build-up
 
@@ -30,9 +30,14 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 * On 26.09.2026 [Laurance Roman](@/w/laurance-roman.md) was announced.
 * On 28.09.2026 came the announcement of an Intergender Match between [Agentka Agatka](@/w/agentka-agatka.md) and [Emil Völler](@/w/emil-voeller.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Sambor](@/w/sambor.md) & Sara Shade'
+  - '[Max Speed](@/w/max-speed.md) & [Kalyana](@/w/kalyana.md)'
+  - s: Pre-Show Tag Team Match
+
+
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Tomczak](@/w/tomczak.md)'
   - s: HeelTurn Invitational Tournament, Round 1
@@ -49,14 +54,8 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - '[Jakub](@/w/jakub.md)'
   - s: HeelTurn Invitational Tournament, Round 1
     nc: upcoming
-- - '[Kalyana](@/w/kalyana.md)'
-  - '???'
-  - nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
-  - nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '???'
   - nc: upcoming
 - - '[Laurance Roman](@/w/laurance-roman.md)'
   - '???'
@@ -65,6 +64,10 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - '[Emil Völler](@/w/emil-voeller.md)'
   - s: Intergender Match
     nc: upcoming
+- credits:
+    Host, Ring Announcer: '???'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Michał](@/w/sedzia-michal.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 ## Highlights
