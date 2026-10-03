@@ -37,10 +37,24 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - '[Max Speed](@/w/max-speed.md) & [Kalyana](@/w/kalyana.md)'
   - s: Pre-Show Tag Team Match
 - - '[Olgierd](@/w/olgierd.md)'
+  - '["Fox" Jakub](@/w/jakub.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Bart Petro](@/w/bart-petro.md)'
+  - '[Tomczak](@/w/tomczak.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - '[Istociarz](@/w/istociarz.md)'
+  - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
+  - g: Introduction of the Heelturn Invitational Tournament contestants
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[_Catch Connoisseur_ Dieter Schwartz](@/w/dieter-schwartz.md)'
+  - nc: Time-limit draw
+- - '[Olgierd](@/w/olgierd.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: HeelTurn Invitational Tournament, Round 1
-- - '[Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Emil Völler](@/w/emil-voeller.md)'
+- - '[Emil Völler](@/w/emil-voeller.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - s: Intergender Match
     r: Submission
 - - '[Bartosz Plata](@/w/plata.md)'
@@ -50,24 +64,19 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - 'adept Mikołaj "SKS"'
   - g: Training session for kids.
 - - '[Laurance Roman](@/w/laurance-roman.md) & adept Stowarzysz'
-  - '[Vic Golden](@/w/vic-golden.md)'
-  - s: Handicap Match
+  - '[Vic Golden](@/w/vic-golden.md) & [Markus Paskal](@/w/markus-paskal.md)'
+  - s: Tag Team Match
 - - '[Goblin](@/w/goblin.md)'
   - '[Bart Petro](@/w/bart-petro.md)'
   - s: HeelTurn Invitational Tournament, Round 1
 - - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Jakub](@/w/jakub.md) w/ [Gloria](@/w/gloria-g-szek.md)'
+  - '["Fox" Jakub](@/w/jakub.md) w/ [Gloria](@/w/gloria-g-szek.md)'
   - s: HeelTurn Invitational Tournament, Round 1
 - - '[Leon Lato](@/w/leon-lato.md)'
   - g: Leon praises the expansion of Polish wrestling scene.
-
-- - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '["Catch Connoisseur" Dieter Schwartz](@/w/dieter-schwartz.md)'
-  - nc: upcoming
 - credits:
-    Host, Ring Announcer: '???'
+    Host, Ring Announcer: '[Istociarz](@/w/istociarz.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Michał](@/w/sedzia-michal.md)'
-    Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
 Attendance: ca. 150
@@ -75,9 +84,4 @@ Attendance: ca. 150
 ## Highlights
 
 * [Tomczak](@/w/tomczak.md) wore his old rusty-brown ring gear. He came out wearing his mask, but removed it shortly afterwards.
-* After [Bartosz Plata](@/w/plata.md) vs Tomczak there was a break during which children attending the show could take part in a rudimentary training session, learning some wrestling basics.
-* [Samson](@/w/samson.md) was present at the merch stand.
-
-## References
-
-* TBD
+* After [Bartosz Plata](@/w/plata.md) vs Tomczak, there was a break during which children attending the show could take part in a rudimentary training session, learning some wrestling basics.
