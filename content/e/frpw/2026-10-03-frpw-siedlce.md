@@ -68,9 +68,12 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
     Commentary: '[Istociarz](@/w/istociarz.md)'
 {% end %}
 
+Attendance: ca. 100-120
+
 ## Highlights
 
-* TBD
+* [Tomczak](@/w/tomczak.md) wore his old rusty-brown ring gear. He came out wearing his mask, but removed it shortly afterwards.
+* After [Bartosz Plata](@/w/plata.md) vs Tomczak there was a break during which children attending the show could take part in a rudimentary training session, learning some wrestling basics.
 
 ## References
 
