@@ -55,7 +55,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - s: HeelTurn Invitational Tournament, Round 1
     nc: upcoming
 - - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
+  - '["Catch Connoisseur" Dieter Schwartz](@/w/dieter-schwartz.md)'
   - nc: upcoming
 - - '[Laurance Roman](@/w/laurance-roman.md)'
   - '???'
