@@ -90,7 +90,7 @@ In revange for intervening in a Title Match Rodzina's patriarch - Vic Golden - o
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Boro made his first appearance for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at federation's [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he and Mutant faced [Max Speed](@/w/max-speed.md) and [Bartosz Plata](@/w/bartosz-plata.md) in a Tag Team Match.
+Boro made his first appearance for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at federation's [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he and Mutant faced [Max Speed](@/w/max-speed.md) and [Bartosz Plata](@/w/plata.md) in a Tag Team Match.
 
 At [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) Boro introduced newest member of his group, as he and Mutant were joined by their new manager: a person of short stature called [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md). The group then faced [Zmowa](@/tt/zmowa.md) in a victorious Tag Team Match.
 
