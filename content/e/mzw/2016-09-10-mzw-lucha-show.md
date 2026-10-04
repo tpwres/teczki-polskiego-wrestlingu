@@ -30,6 +30,7 @@ This event was a sideshow at the Mexican Flavors Festival in Inowrocław, which 
 - - '[Shadow](@/w/shadow.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
 - credits:
+    Referee: '[Chris Hunter](@/w/chris-hunter.md)'
     Ring announcer: '[Revage](@/w/rafael-kid.md)'
 {% end %}
 
