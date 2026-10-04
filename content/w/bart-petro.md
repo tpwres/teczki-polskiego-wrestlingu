@@ -1,7 +1,7 @@
 +++
 title = "Bart Petro"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -10,7 +10,7 @@ country = ["PL"]
 1 = { path = "petro-odszedł-z-ptw.webp", caption = "Petro's comment confirming he's left PTW. Question: &quot;Has Bart Petro been kicked out of the PTW roster for appearing at a FRPW show?&quot; Petro's answer: &quot;I've left a month ago, after failed attempts at negotiating appearances outside of PTW from time to time.&quot;", source = "Typowe WWE Facebook group", skip_art = true }
 +++
 
-Bart Petro is a Polish wrestler best know for having worked for [Prime Time Wrestling](@/o/ptw.md).
+Bart Petro is a Polish wrestler best know for his appearances for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) and [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -30,21 +30,30 @@ Bart Petro trained with [Kombat Pro Wrestling](@/o/kpw.md), but never debuted th
 
 ### Prime Time Wrestling (2025-2026)
 
-After training with KPW for a year, Bart moved to [Prime Time Wrestling](@/o/ptw.md) where he continued his trainings. Eventually he debuted at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md), where he joined [Blaze](@/w/blaze.md) in a Triple Threat Tag Team Match against [Dropper](@/w/whiteblade.md) & [Bumper](@/w/fabian.md) and [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md).
+After training with KPW for a year, Bart relocated to United Kingdom, where he trained in RevPro School of Wrestling. After some years abroad Polish wrestler made his debut for [Prime Time Wrestling](@/o/ptw.md). Hhe debuted at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md), where he joined [Blaze](@/w/blaze.md) in a Triple Threat Tag Team Match against [Dropper](@/w/whiteblade.md) & [Bumper](@/w/fabian.md) and [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md).
+
+Later on he got involved in a programme with [CJ Klakson](@/w/cj-klakson.md) - with which he formed a Tag Team called "The Polish Stand" - and [Boguś](@/w/boguś.md). 
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
 Petro made a surprise appearance at [FRPW Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), taking part in a Rumble Match. About a week later he confirmed in a Facebook post that he had left Prime Time Wrestling a month prior, over failed negotiations of occasionally working outside of PTW.
 
+At [Wrestling w Twoim Mieście - Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Bart fought in first round of HeelTurn Invitational Tournament, where he was eliminated by [Goblin](@/w/goblin.md).
+
 ## In wrestling
 
 * Finishers:
-  - Ripcord Lariat
-  - Petro Bomb (Swagger Bomb)
-  - Gutwrench Suplex
+  - Ripcord Lariat (2025-)
+  - _Petro Bomb_ (Swagger Bomb) (2025-)
+  - Gutwrench Suplex (2025-)
 * Tag Teams and stables:
   - The Polish Stand, with [CJ Klakson](@/w/cj-klakson.md) (2026)
 * Entrance music:
+  - "Train, Train" by Blackfoot
+    {{ org_badge(orgs=['ptw']) }} (2025-2026)<br>
+    {{ music(yt='hBP15lRprPs')}}
+    {{ music(spot='5bSpsKGoGKXOOfg7F3ZtKz')}}
+    {{ music(apple='78982159?i=78982133')}}
   - "Życie jest piękne" by KULT
     {{ org_badge(orgs=['ptw']) }} (2026) (with [CJ Klakson](@/w/cj-klakson.md), as The Polish Stand)<br>
     {{ music(yt='euM2Mu6VlVs')}}
