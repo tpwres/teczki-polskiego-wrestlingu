@@ -20,6 +20,7 @@ Gloria G Szek is a Polish female wrestler, part-time referee and a co-founder of
   - Referee Martyna {{ org_badge(orgs=['ppw']) }} (Japanese excursion)
   - "Szeku" Martynka {{ org_badge(orgs=['ppw', 'frpw']) }}
   - Gloria G Szek {{ org_badge(orgs=['frpw', 'ppw']) }}
+  - Gloria {{ org_badge(orgs=['frpw']) }}
 * Trained by:
   - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
 

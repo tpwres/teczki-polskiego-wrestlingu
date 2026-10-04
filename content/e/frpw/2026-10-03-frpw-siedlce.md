@@ -1,7 +1,7 @@
 +++
 title = "FRPW: Wrestling w Twoim Mieście - Siedlce"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["frpw", "wrestling-w-twoim-miescie"]
 venue=["osrodek-sportu-arms"]
@@ -33,9 +33,12 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 ## Card
 
 {% card() %}
-- - '[Sambor](@/w/sambor.md) & Sara Shade'
-  - '[Max Speed](@/w/max-speed.md) & [Kalyana](@/w/kalyana.md)'
+- - '[Max Speed](@/w/max-speed.md) & [Kalyana](@/w/kalyana.md)'
+  - '[Sambor](@/w/sambor.md) & Sara Shade'
   - s: Pre-Show Tag Team Match
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[_Catch Connoisseur_ Dieter Schwartz](@/w/dieter-schwartz.md)'
+  - nc: Time-limit draw
 - - '[Olgierd](@/w/olgierd.md)'
   - '["Fox" Jakub](@/w/jakub.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
@@ -46,10 +49,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - '[Goblin](@/w/goblin.md)'
   - '[Istociarz](@/w/istociarz.md)'
   - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-  - g: Introduction of the Heelturn Invitational Tournament contestants
-- - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '[_Catch Connoisseur_ Dieter Schwartz](@/w/dieter-schwartz.md)'
-  - nc: Time-limit draw
+  - g: Introduction of the Heelturn Invitational Tournament contestants.
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - s: HeelTurn Invitational Tournament, Round 1
@@ -83,8 +83,9 @@ Attendance: ca. 150
 
 ## Highlights
 
+* All matches were run under Japanese-style strict timekeeping, with the limit both called at the start, and frequently during the match. When calling the winners, the ring announcer also mentioned the exact duration.
 * [Tomczak](@/w/tomczak.md) wore his old rusty-brown ring gear. He came out wearing his mask, but removed it shortly afterwards.
 * After [Bartosz Plata](@/w/plata.md) vs Tomczak, there was a break during which children attending the show could take part in a rudimentary training session, learning some wrestling basics.
-* Unlike in their home promotions, [Oskar Alexander](@/w/oskar-alexander.md) played a face, and [Markus Paskal](@/w/markus-paskal.md), a heel. [Gloria](@/w/gloria-g-szek.md) associating with [Jakub](@/w/jakub.md) was also exclusive to FRPW.
-* Bart Petro leaned into his locomotive inspired gimmick, doing his signature "Choo-Choo" poses. In addition, at one moment in the match, he pulled out a striped red-white sock from his trunks, declaring he's got something that "will stop any Pole". Then he put his arm inside, thus creating a level crossing bar gate. This referenced a recent string of road accidents occurring on level crossings, where cars remained on the tracks, their drivers failing to break the bar and escape.
-* Goblin's entrance had him do a comically extended training run through the entire venue while punching the air. This included running up to the top of the elevated seating section, across its length and back, music still playing. Later it backfired a bit, as he was too winded from all the running.
+* Unlike in their home promotions, [Oskar Alexander](@/w/oskar-alexander.md) played a face, and [Markus Paskal](@/w/markus-paskal.md) a heel. [Gloria](@/w/gloria-g-szek.md) associating with [Jakub](@/w/jakub.md) was also exclusive to FRPW.
+* Bart Petro leaned into his locomotive-inspired gimmick, doing his signature "Choo-Choo" poses. In addition, at one moment in the match he pulled out a striped red-and-white sock from his trunks, declaring he's got something that "will stop any Pole". Then he put his arm inside, thus creating a level crossing bar gate. This referenced a recent string of road accidents occurring at level crossings where cars remained on the tracks, their drivers failing to break the bar and escape.
+* [Goblin's](@/w/goblin.md) entrance had him do a comically extended training run through the entire venue while punching the air. This included running up to the top of the elevated seating section, across its length and back, music still playing. Later it backfired a bit, as he was too winded from all the running.
