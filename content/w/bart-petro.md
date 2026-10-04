@@ -30,15 +30,15 @@ Bart Petro trained with [Kombat Pro Wrestling](@/o/kpw.md), but never debuted th
 
 ### Prime Time Wrestling (2025-2026)
 
-After training with KPW for a year, Bart relocated to United Kingdom, where he trained in RevPro School of Wrestling. After some years abroad Polish wrestler made his debut for [Prime Time Wrestling](@/o/ptw.md). Hhe debuted at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md), where he joined [Blaze](@/w/blaze.md) in a Triple Threat Tag Team Match against [Dropper](@/w/whiteblade.md) & [Bumper](@/w/fabian.md) and [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md).
+After training with KPW for a year, Bart relocated to the United Kingdom, where he trained in RevPro School of Wrestling. After some years abroad, the Polish wrestler made his debut for [Prime Time Wrestling](@/o/ptw.md) at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md), where he joined [Blaze](@/w/blaze.md) in a Triple Threat Tag Team Match against [Dropper](@/w/whiteblade.md) & [Bumper](@/w/fabian.md) and [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md).
 
-Later on he got involved in a programme with [CJ Klakson](@/w/cj-klakson.md) - with which he formed a Tag Team called "The Polish Stand" - and [Boguś](@/w/bogus.md). 
+Later on he got involved in a programme with [CJ Klakson](@/w/cj-klakson.md) - with whom he formed a Tag Team called "The Polish Stand" - and [Boguś](@/w/bogus.md). 
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
 Petro made a surprise appearance at [FRPW Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), taking part in a Rumble Match. About a week later he confirmed in a Facebook post that he had left Prime Time Wrestling a month prior, over failed negotiations of occasionally working outside of PTW.
 
-At [Wrestling w Twoim Mieście - Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Bart fought in first round of HeelTurn Invitational Tournament, where he was eliminated by [Goblin](@/w/goblin.md).
+At [Wrestling w Twoim Mieście - Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Bart fought in the first round of the HeelTurn Invitational Tournament, but was eliminated by [Goblin](@/w/goblin.md).
 
 ## In wrestling
 
