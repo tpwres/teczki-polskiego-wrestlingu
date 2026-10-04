@@ -1,7 +1,7 @@
 +++
 title = "CJ Klakson"
 template = "talent_page.html"
-authors = ["M3n747, Szymon Iwulski"]
+authors = ["M3n747, Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 2
 skip_event_gallery = true
@@ -40,7 +40,11 @@ He promised to make his decision at [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nie
 
 At that show, Klakson debuted in an in-ring promo segment. Donning the Polish national colours, he declared that despite multiple lucrative offers from around the world, he chose his home country of Poland as a place to further develop his wrestling career, and that he has signed with PTW.
 
-Over the following months, Klakson worked exclusively against international competitors, establishing a short winning streak and highlighting his patriotic gimmick.
+#### Polish Stand
+
+Over the following months, Klakson worked exclusively against international competitors, establishing a short winning streak and highlighting his patriotic gimmick. For some time he associated himself with fellow Polish repatriate [Bart Petro](@/w/bart-petro.md) to form a Tag Team called "The Polish Stand". They also alligned themselves with [Boguś](@/w/bogus.md) to took on the team of [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md), [Damian Adler](@/w/damian-adler.md) and Halfdan in Trios Match at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md).
+
+After Petro's departure from PTW Klakson allgined himself with Boguś (as Manto Band) to challenge [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Miyagi Sigma](@/tt/miyagi-sigma.md) at [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md), but they were unable to claim the titles.
 
 ## In wrestling
 
@@ -50,7 +54,7 @@ Over the following months, Klakson worked exclusively against international comp
   - _Fantastic slap_ (Overhand Chop)
   - _Rondo w Fordonie_ (Spinning Side Slam)
 * Tag Teams and stables:
-  - The Polish Stand, with [Bart Petro](@/w/bart-petro.md) (2026-)
+  - The Polish Stand, with [Bart Petro](@/w/bart-petro.md) (2026)
 * Entrance music:
   - "Polska" by KULT
     {{ org_badge(orgs=['ptw']) }} (2025-)<br>
@@ -58,7 +62,7 @@ Over the following months, Klakson worked exclusively against international comp
     {{ music(spot='1ngjjSd73Fgkcf3uOCGnxZ')}}
     {{ music(apple='1098856767?i=1098856826')}}
   - "Życie jest piękne" by KULT
-    {{ org_badge(orgs=['ptw']) }} (2026-) (with [Bart Petro](@/w/bart-petro.md), as The Polish Stand)<br>
+    {{ org_badge(orgs=['ptw']) }} (2026) (with [Bart Petro](@/w/bart-petro.md), as The Polish Stand)<br>
     {{ music(yt='euM2Mu6VlVs')}}
     {{ music(spot='0GSW8vwTTyk56SScQs0UIl')}}
     {{ music(apple='1098788743?i=1098788934')}}
