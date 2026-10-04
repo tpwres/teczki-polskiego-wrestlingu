@@ -33,7 +33,7 @@ Wolfgang Storm took part in [PAW's](@/o/paw.md) [summer course][paw-lato-2019-fb
 
 As Baron Wolfgang Storm, with a new look and character, he debuted for Prime Time Wrestling at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md), losing to [Polski Niedźwiedź](@/w/polski-niedzwiedz.md). Baron was then used mostly as enhancement talent, scoring his first victory against [Boguś](@/w/bogus.md) at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md).
 
-He made his last appearance to date at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) where he took part in Trios Match as part of International Team against Team Polska ([CJ Klakson](@/w/cj-klakson.md), [Bart Petro](@/w/bart-petro.md) & [Boguś](@/w/bogus.md)). After his defeat in said match he teased the continuation of proggrame with Boguś, however, it never led to anything, as Wolfgang have not appeared on following PTW shows, changed his ringname to Morodan Zorev and continued to work at Ukrainian wrestling scene.
+His last appearance to date was at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) where he took part in a Trios Match as part of the International Team against Team Polska ([CJ Klakson](@/w/cj-klakson.md), [Bart Petro](@/w/bart-petro.md) & [Boguś](@/w/bogus.md)). After his defeat in that match he teased the continuation of his programme with Boguś, however it never led to anything as Wolfgang had not appeared at the following PTW shows. Instead, he changed his ringname to Morodan Zorev and continued to work at the Ukrainian wrestling scene.
 
 ## Internet presence
 
