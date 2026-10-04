@@ -88,7 +88,7 @@ At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) team of Boro & Mutti 
 
 In revange for intervening in a Title Match Rodzina's patriarch - Vic Golden - ordered Oskar and Filip abduction of Mutant from a parking lot. Mutant avoided beatdown and kidnapping as he went to anwser nature's call. Instead, duo of violent goons decided to [abduct Boro & Mutti's manager][kondzio-porwanie] - [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md).
 
-## Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
 Boro made his first appearance for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at federation's [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he and Mutant faced [Max Speed](@/w/max-speed.md) and [Bartosz Plata](@/w/bartosz-plata.md) in a Tag Team Match.
 
