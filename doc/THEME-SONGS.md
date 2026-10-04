@@ -33,6 +33,7 @@ In order to properly link to a wrestler's theme songs, use the following templat
 	* For YouTube: https://www.youtube.com/watch?v= **YJQz73IPCyI**
 	* For Spotify: https://open.spotify.com/track/ **6LGDsu52kzsb7p802GsmtH** ?si=b8144a5aec5c4675
 	* For Apple Music: https://music.apple.com/us/album/new-witch-666-the-rising/ **1476554740?i=1476555600**
+    * (Note: The two IDs separated by '?i=' in the Apple Music link example above refer to the album and the track, respectively. When using iTunes and/or Apple Music desktop client, both can be obtained by copying a link to the track, but in the case of the web player it depends on the approach. Clicking three dots next to a song and selecting Copy Link only yields the song ID, opening an album from a list only shows the album ID in the browser's address bar, and opening a specific song from search results shows both IDs in the latter. Make sure that both IDs are used and separated with '?i='.)
 * If the song cannot be found on the major platforms, but there is a version online that can be linked to, use the form `{% music(link='https://link.to/song') %}text{% end %}`.
   For example, Zefir and Leon's tune on Bandcamp:
   ```
