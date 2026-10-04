@@ -2,7 +2,7 @@ export function extractEvents(containerSelector, predicate) {
     const extracted = []
     document.querySelectorAll(containerSelector || 'ul.event-list')
         .forEach((eventList) => {
-            Array.from(eventList.querySelectorAll('li[data-date]'))
+            Array.from(eventList.querySelectorAll('li[data-date]:not([data-cancelled])'))
                 .filter(el => predicate(el))
                 .map(el => eventList.removeChild(el))
                 .forEach(el => extracted.push(el))
