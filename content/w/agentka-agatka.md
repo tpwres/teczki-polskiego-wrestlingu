@@ -62,7 +62,7 @@ Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/
 ## In wrestling
 
 * Finishers:
-  - Running Somersault (2026-)
+  - Flipping Neckbreaker (2026-)
 * Tag Teams and stables:
   - Agencja (2024-2026)
   - [Rodzina](@/tt/rodzina.md) (2025-2026)
