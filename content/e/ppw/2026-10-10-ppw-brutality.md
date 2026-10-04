@@ -26,6 +26,7 @@ has_video = false
 * At the [last show](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd, fed up with [Mister Z](@/w/mister-z.md) treating him as means to his own ends, quit [Zmowa](@/tt/zmowa.md), angering Zet. As a result, a PpW Rules Match between the two was announced on 29.09.2026.
 * The next day PpW announced a 5-man [PpW Championship](@/c/ppw-championship.md) #1 Contender Scramble Match between [Sentinel](@/w/sentinel.md), [Jakub](@/w/jakub.md), [Leon Lato](@/w/leon-lato.md), [Antoni Ocean](@/w/antoni-ocean.md) and [Maverick](@/w/maverick.md).
 * The TLC Match was upgraded to [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) TLC 3- Way Tag-Team Ladder Match on 3.10.2026, with the teams participating being [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md), and [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)).
+* On 4.10.2026 PpW announced a Tag Team Match between [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md), who faced one another at the [last show](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) but decided to cooperate in order to defeat [Rodzina](@/tt/rodzina.md), represented by [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md).
 
 ## Predicted card
 
@@ -64,6 +65,10 @@ has_video = false
   - '[Maverick](@/w/maverick.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     s: '#1 Contender Scramble Match'
+    nc: upcoming
+- - '[Rodzina](@/tt/rodzina.md): [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md)'
+  - '[Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
+  - s: Tag Team Match
     nc: upcoming
 {% end %}
 
