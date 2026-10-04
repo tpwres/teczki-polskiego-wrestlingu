@@ -63,7 +63,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 - - '[Max Speed](@/w/max-speed.md)'
   - 'adept Mikołaj "SKS"'
   - g: Training session for kids.
-- - '[Laurance Roman](@/w/laurance-roman.md) & adept Stowarzysz'
+- - '[Laurance Roman](@/w/laurance-roman.md) & Stowarzysz'
   - '[Vic Golden](@/w/vic-golden.md) & [Markus Paskal](@/w/markus-paskal.md)'
   - s: Tag Team Match
 - - '[Goblin](@/w/goblin.md)'
