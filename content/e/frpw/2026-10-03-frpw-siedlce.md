@@ -89,3 +89,7 @@ Attendance: ca. 150
 * Unlike in their home promotions, [Oskar Alexander](@/w/oskar-alexander.md) played a face, and [Markus Paskal](@/w/markus-paskal.md) a heel. [Gloria](@/w/gloria-g-szek.md) associating with [Jakub](@/w/jakub.md) was also exclusive to FRPW.
 * Bart Petro leaned into his locomotive-inspired gimmick, doing his signature "Choo-Choo" poses. In addition, at one moment in the match he pulled out a striped red-and-white sock from his trunks, declaring he's got something that "will stop any Pole". Then he put his arm inside, thus creating a level crossing bar gate. This referenced a recent string of road accidents occurring at level crossings where cars remained on the tracks, their drivers failing to break the bar and escape.
 * [Goblin's](@/w/goblin.md) entrance had him do a comically extended training run through the entire venue while punching the air. This included running up to the top of the elevated seating section, across its length and back, music still playing. Later it backfired a bit, as he was too winded from all the running.
+
+## References
+
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=464543)
