@@ -8,7 +8,7 @@ toclevel = 2
 country = ["UA"]
 +++
 
-Baron Wolfgang Storm is a Ukrainian wrestler working for [Prime Time Wrestling](@/o/ptw.md).
+Baron Wolfgang Storm is a Ukrainian wrestler known for his work at [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
