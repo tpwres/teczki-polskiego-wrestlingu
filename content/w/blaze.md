@@ -29,7 +29,14 @@ Blaze returned after a two-year hiatus, at [Ryucon 3](@/e/ptw/2024-07-07-ptw-x-r
 At [Wrestlingowe Walentynki](@/e/ptw/2025-02-15-ptw-wrestlingowe-walentynki.md) Blaze defeated [Alex Brave](@/w/alex-brave.md) in a tournament quarter final match for the inaugural [PTW Underground Championship](@/c/ptw-underground-championship.md).
 However, he lost to [Max Speed](@/w/max-speed.md) in the semi-finals later the same night. At [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) he faced [Alex Brave](@/w/alex-brave.md) and successfully defended his Hungarian XWP Championship.
 
+At [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) Blaze faced - and lost to - [Spartan](@/w/spartan.md) in a Singles Match for [PTW Championship](@/c/ptw-championship.md). At the next show - [Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md) - he got another championship opportunity for PTW Underground Championship, where he was once again defeated by reigning Champion - [Nano Lopez](@/w/nano-lopez.md).
+
 ## In wrestling
 
 * Finishers:
-  - Bicycle Kick (2022-)
+  - _Debrecen Kick_ Bicycle Kick (2022-)
+
+## Internet presence
+
+* [Cagematch profile page](https://www.cagematch.net/en/?id=2&nr=32155)
+* [Blaze's Instagram profile](https://www.instagram.com/_b.blaze_)
