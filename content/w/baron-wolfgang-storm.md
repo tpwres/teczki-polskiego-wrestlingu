@@ -1,7 +1,7 @@
 +++
 title = "Baron Wolfgang Storm"
 template = "talent_page.html"
-authors = ["M3n747", "Krzysztof Zych"]
+authors = ["M3n747", "Krzysztof Zych", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -15,7 +15,7 @@ Baron Wolfgang Storm is a Ukrainian wrestler working for [Prime Time Wrestling](
 * Years active: 2018-preent
 * Gimmicks/nicknames:
    - Wolfgang Storm
-   - Baron Wolfgang Storm {{ org_badge(orgs=['ptw']) }} (2025-present)
+   - Baron Wolfgang Storm {{ org_badge(orgs=['ptw']) }} (2025-2026)
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2019)
 
@@ -29,13 +29,15 @@ Prior to debuting in Poland for Prime Time Wrestling, Wolfgang Storm wrestled fo
 
 Wolfgang Storm took part in [PAW's](@/o/paw.md) [summer course][paw-lato-2019-fb] in September 2019, but that did not result in any appearances for [MZW](@/o/mzw.md).
 
-### Prime Time Wrestling (2025-)
+### Prime Time Wrestling (2025-2026)
 
 As Baron Wolfgang Storm, with a new look and character, he debuted for Prime Time Wrestling at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md), losing to [Polski Niedźwiedź](@/w/polski-niedzwiedz.md). Baron was then used mostly as enhancement talent, scoring his first victory against [Boguś](@/w/bogus.md) at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md).
 
+He made his last appearance to date at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) where he took part in Trios Match as part of International Team against Team Polska ([CJ Klakson](@/w/cj-klakson.md), [Bart Petro](@/w/bart-petro.md) & [Boguś](@/w/bogus.md)). After his defeat in said match he teased the continuation of proggrame with Boguś, however, it never led to anything, as Wolfgang have not appeared on following PTW shows, changed his ringname to Morodan Zorev and continued to work at Ukrainian wrestling scene.
+
 ## Internet presence
 
-* [wolfgang_storm on Instagram](https://www.instagram.com/wolfgang_storm/)
+* [wolfgang_storm on Instagram](https://www.instagram.com/morodanzorev/)
 
 [uwz-insta]: https://www.instagram.com/ukrainianwrestling/
 [varia-insta]: https://www.instagram.com/varia_wrestling/
