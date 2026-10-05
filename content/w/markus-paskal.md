@@ -15,7 +15,7 @@ Markus Paskal is a Polish wrestler working for [Kombat Pro Wrestling](@/o/kpw.md
 
 ## Basic info
 
-* Years active: 2025l
+* Years active: 2025-
 * Gimmicks/nicknames:
   - Markus Paskal {{ org_badge(orgs=['kpw', 'ppw', 'low', 'frpw']) }}
 * Trained by:
