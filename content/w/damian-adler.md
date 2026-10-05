@@ -17,18 +17,18 @@ Damian Adler is a Polish wrestler best known for his work for [Prime Time Wrestl
   - Damian Adler{{ org_badge(orgs=['ptw']) }} (2025-)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2019-2023)
-  - Westside Xtreme Wrestling (2024-)
+  - Westside Xtreme Wrestling Academy (2024-)
   - [PTW Academy](@/o/ptw-academy.md) (2025-2026)
 
 ## Professional wrestling career
 
 ### Kombat Pro Wrestling (2019-2023)
 
-Damian trained with [Kombat Pro Wrestling](@/o/kpw.md), but never debuted there.
+Damian trained with [Kombat Pro Wrestling](@/o/kpw.md), but never debuted there. Later on he started taking classes at Germany-based Westside Xtreme Wrestling Academy.
 
 ### Prime Time Wrestling (2025-2026)
 
-After training with KPW for a few years, Damian moved to [Prime Time Wrestling](@/o/ptw.md) where he continued his trainings. Eventually he debuted at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where he answered [Daniel Razor's](@/w/daniel-razor.md) open challenge, but lost.
+After training with wXw for a few years, Damian moved to [Prime Time Wrestling](@/o/ptw.md) where he continued his trainings. Eventually he debuted at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where he answered [Daniel Razor's](@/w/daniel-razor.md) open challenge, but lost. From that point on Damian worked in his villainous Germanophile persona, having a total of seven matches in PTW.
 
 Adler quietly [left PTW](@/a/ptw-exits.md) on 6.07.2026.
 
@@ -46,3 +46,4 @@ Adler quietly [left PTW](@/a/ptw-exits.md) on 6.07.2026.
 ## Internet presence
 
 * [Damian Adler's Facebook profile](https://www.facebook.com/profile.php?id=61582729268318)
+* [Damian Adler's Instagram profile](https://www.instagram.com/adlerderwrestler/)

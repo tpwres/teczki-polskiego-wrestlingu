@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "boro.webp", caption = "Boro's entrance, [Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md).", source = "Krzysztof Zych" }
 +++
 
-Boro, also known as Lady Killer, is a Polish wrestler currently working for [PpW Ewenement Wrestling](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He is also known for his time in [Prime Time Wrestling](@/o/ptw.md).
+Boro, also known as Lady Killer, is a Polish wrestler currently working for [PpW Ewenement Wrestling](@/o/ppw.md), [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He is also known for his time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -24,7 +24,7 @@ Boro, also known as Lady Killer, is a Polish wrestler currently working for [PpW
   - MZW Academy (2016-2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2023)
-  - [Ewenement Dojo](@/o/dojo.md) (2025-)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2025-)
 
 ## Professional wrestling career
 
@@ -70,19 +70,42 @@ During Legacy's [fourth show](@/e/low/2025-12-20-low-4.md) Boro seemed to have a
 
 On 13th of June 2025 it was announced that Boro would make his return to MZW's ring after over five years to team up with his ex-PAKA member Disco Pablo and take on [Legia Łysych](@/tt/legia-lysych.md) in a Tag Team Match at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
 
+At [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md) Boro faced [Sambor](@/w/sambor.md) and the regining Champion [Jakub "Fox"](@/w/jakub.md) in a Triple Threat Match for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md), but he failed to score a victory over Jakub.
+
 ### PpW Ewenement (2025-present)
+
+#### Debut and early matches
 
 In 2025 Boro joined [PpW](@/o/ppw.md), making his first in-ring appearance during the non-canon show [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md) where he worked as one of the zombies in a match against [Biesiad Strong](@/w/biesiad.md). 
 
-He made his official PpW debut during the 10,000&nbsp;PLN Battle Royal at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) where he reverted back to his old gimmick, being announced as "Lady Killer" Boro. 
+He made his official PpW debut during the 10,000&nbsp;PLN Battle Royal at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md) where he reverted back to his old gimmick, being announced as "Lady Killer" Boro. From that point on "Ladykiller" Boro faced opponents such as [Agentka Agatka](@/w/agentka-agatka.md) and [Marco Hammers](@/w/marco-hammers.md).
+
+#### Boro & Muti
+
+Shortly after his arrival in PpW Boro laid his eyes on [Mutant](@/w/mutant.md), whom he taken to affectionately calling "Muti", and intensly tried to recruit into his unnamed group. Mutant - due to Boro's questionable attitude towards him - strongly declined his courtship which led to them facing off in a Tables Match at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), which Boro ultimately won after striking Mutant with a passionate kiss. By winning the match Boro forcefully recruited Mutant as his "Enforcer". Despite the rough start the duo quickly bonded, as both of them learned to understand each other passions: Boro's attraction to women, and Mutant's attraction to gardening tools. 
+
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) team of Boro & Muti got their first championship opportunity, as they were scheduled to face [Bad Trip](@/tt/bad-trip.md) in a Match for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). However, it was revealed that Boro & Muti would face [Rodzina](@/tt/rodzina.md) for vacated titles, as [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) were forced to drop their gold due to Gustav's injury. Despite their effort Boro and Mutant lost to Rodzina. This led to a rivalry against the stable led by [Vic Golden](@/w/vic-golden.md). At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Boro & Muti defeated [Filip Fux](@/w/filip-fux.md) and [Isnorr](@/w/isnorr.md) in non-title match, and later intervened in Rodzina vs [The Hardcors](@/tt/the-hardcors.md) title match, allowing the latter to win the titles from the team of Vic Golden and [Oskar Alexander](@/w/oskar-alexander.md).
+
+In revenge for intervening in their match, Rodzina's patriarch Vic Golden ordered Oskar and Filip to abduct Mutant. Mutant happened to avoid the beatdown and kidnapping, as he went to anwser nature's call at just the right moment. Instead, the violent goon duo decided to [abduct Boro & Muti's manager][kondzio-porwanie] - [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md).
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Boro made his first appearance for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at the federation's [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he and Mutant faced [Max Speed](@/w/max-speed.md) and [Bartosz Plata](@/w/plata.md) in a Tag Team Match.
+
+At [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) Boro introduced the newest member of his group, as he and Mutant were joined by their new manager: a person of short stature called [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md). The group then faced [Zmowa](@/tt/zmowa.md) in a victorious Tag Team Match.
 
 ## In wrestling
 
 * Finishers:
-  - _Dobry Podryw_ / Olimpic Slam (2021-2023; 2025-)
+  - _STG_ / _Dobry Podryw_ / Olimpic Slam (2021-2023; 2025-)
   - _Oil Check_ (2018-2020; 2025-)
 * Tag Teams and Stables:
   - [PAKA](@/tt/paka.md) (2021-2024)
+  - Boro & Muti (2026-)
+* Managers:
+  - [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md) (2026-)
+* Wrestlers managed:
+  - [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md) (2026-)
 * Entrance music:
   - "Jessica" by Borys LBD
     {{ org_badge(orgs=['mzw', 'ptw']) }} (2018-2023) <br>
@@ -103,7 +126,7 @@ He made his official PpW debut during the 10,000&nbsp;PLN Battle Royal at [Duch 
     {{ music(spot='5eNnuKhQMh9jieIYzWutgR')}}
     {{ music(apple='339040556?i=339040578')}}
   - "Pinky Ring" by UGK
-    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
+    {{ org_badge(orgs=['ppw', 'low', 'frpw']) }} (2025-) <br>
     {{ music(yt='SfDiHin4JEo')}}
     {{ music(spot='7gA5NWojLZRn8DYQ9HXE7x')}}
     {{ music(apple='268522887?i=268523132')}}
@@ -122,3 +145,5 @@ He made his official PpW debut during the 10,000&nbsp;PLN Battle Royal at [Duch 
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=24643)
+
+[kondzio-porwanie]: https://www.instagram.com/reel/Dd62Vb1Kn4b/
