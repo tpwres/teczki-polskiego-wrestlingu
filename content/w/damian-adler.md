@@ -28,7 +28,7 @@ Damian trained with [Kombat Pro Wrestling](@/o/kpw.md), but never debuted there.
 
 ### Prime Time Wrestling (2025-2026)
 
-After training with wXw for a few years, Damian moved to [Prime Time Wrestling](@/o/ptw.md) where he continued his trainings. Eventually he debuted at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where he answered [Daniel Razor's](@/w/daniel-razor.md) open challenge, but lost. From that point on Damian worked in his villainous germanophile persona, having a total of seven matches in PTW.
+After training with wXw for a few years, Damian moved to [Prime Time Wrestling](@/o/ptw.md) where he continued his trainings. Eventually he debuted at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where he answered [Daniel Razor's](@/w/daniel-razor.md) open challenge, but lost. From that point on Damian worked in his villainous Germanophile persona, having a total of seven matches in PTW.
 
 Adler quietly [left PTW](@/a/ptw-exits.md) on 6.07.2026.
 
