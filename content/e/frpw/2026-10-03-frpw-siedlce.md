@@ -9,7 +9,7 @@ venue=["osrodek-sportu-arms"]
 orgs = ["frpw"]
 city = "Siedlce"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -93,3 +93,4 @@ Attendance: ca. 150
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=464543)
+* [Video: Oskar Alexander vs Olgierd](https://www.youtube.com/watch?v=AiONE38oO7U)
