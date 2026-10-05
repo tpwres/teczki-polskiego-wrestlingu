@@ -7,6 +7,8 @@ toclevel = 2
 skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "sambor.webp", caption = "Sambor at [FRPW Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).", source = "Krzysztof Zych"}
 +++
 
 Sambor is a Polish wrestler best known from his appearances in [Prime Time Wresling](@/o/ptw.md), as well as [PpW Ewenement](@/o/ppw.md). He also wrestled for [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
