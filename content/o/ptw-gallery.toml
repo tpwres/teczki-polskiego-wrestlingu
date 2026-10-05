@@ -1,6 +1,12 @@
+[00]
+path = "ptw-logo.png"
+caption = "PTW logo."
+source = "Official PTW Facebook, vectorised by M3n747"
+
 [01]
 path = "rzezniczek-departs.png"
 caption = "Marcin Rzeźniczek announcing his departure from PTW"
+source = "marcinrzezniczek @ Instagram"
 skip_art = true
 
 [02]
