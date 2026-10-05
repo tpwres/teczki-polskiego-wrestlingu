@@ -28,4 +28,4 @@ Although not a member of the team, Johan Otto was chosen by David Oliwa to take 
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time)
