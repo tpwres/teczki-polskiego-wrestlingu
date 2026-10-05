@@ -36,7 +36,7 @@ PTW Academy is the wrestling school associated with [Prime Time Wrestling](@/o/p
     - [Renegade](@/w/renegade.md) - Guest Coach (2022-2024)
     - [Krampus](@/w/krampus.md) - Guest Coach (2022-2024)
     - [Max Speed](@/w/max-speed.md) - Coach (2024-2025)
-    * Seminary hosts:
+  * Seminary hosts:
     - [Santino Marella](@/w/santino.md) (2021-2022)
     - Chris Masters (Feb 2022)
     - [Nick Aldis](@/w/nick-aldis.md) (Feb 2022)

@@ -9,8 +9,8 @@ compact_event_list = true
 [taxonomies]
 chrono_root = ["mcw"]
 [extra.gallery]
-1 = { path = "mcw-logo.png", caption = "MCW logo.", source = "MyWrestling.com.pl" }
-2 = { path = "logo-2014.jpg", caption = "MCW logo from 2014.", source = "Attitude Forum" }
+1 = { path = "mcw-logo.png", caption = "MCW logo.", source = "MyWrestling.com.pl", skip_art = true }
+2 = { path = "logo-2014.jpg", caption = "MCW logo from 2014.", source = "Attitude Forum", skip_art = true }
 +++
 
 Mine City Wrestling is a small backyard promotion operating in Silesia.

@@ -9,7 +9,7 @@ chrono_root = ["mzw"]
 toclevel = 3
 allow_section_pagination = true
 [extra.gallery]
-1 = { path = "mzw-logo.png", caption = "MZW logo.", source = "Official MZW Facebook, vectorised by M3n747" }
+1 = { path = "mzw-logo.png", caption = "MZW logo.", source = "Official MZW Facebook, vectorised by M3n747", skip_art = true }
 2 = { path = "mzw-fanart.jpg", caption = "A fan's drawing depicting [Shadow](@/w/shadow.md), [Asmund](@/w/asmund.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md).", source = "Jędruś Bułecka @ Facebook" }
 +++
 

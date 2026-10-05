@@ -8,8 +8,8 @@ toclevel = 3
 [taxonomies]
 chrono_root = ["kpw"]
 [extra.gallery]
-1 = { path = "kpw-logo.png", caption = "KPW logo.", source = "kpwrestling.pl, vectorised by M3n747" } 
-2 = { path = "white-eagle-wrestling.jpg", caption = "Screenshot from a video by [Piękny Kawaler](@/w/piekny-kawaler.md) showing the mock-up logo for the rejected White Eagle Wrestling name.", source = "Official KPW YouTube channel" }
+1 = { path = "kpw-logo.png", caption = "KPW logo.", source = "kpwrestling.pl, vectorised by M3n747", skip_art = true } 
+2 = { path = "white-eagle-wrestling.jpg", caption = "Screenshot from a video by [Piękny Kawaler](@/w/piekny-kawaler.md) showing the mock-up logo for the rejected White Eagle Wrestling name.", source = "Official KPW YouTube channel", skip_art = true }
 3 = { path = "pamiatkowe-zdjecie-ze-smokiem-znad-morza.webp", caption = "Photo from a training session. Wearing a black shirt with a red dragon is [Adam Wong](@/w/adam-wong.md), formerly of [PpW Ewenement Wrestling](@/o/ppw.md).", source = "Official KPW Facebook" }
 +++
 

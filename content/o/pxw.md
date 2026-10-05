@@ -8,7 +8,7 @@ toclevel = 3
 [taxonomies]
 chrono_root = ["pxw"]
 [extra.gallery]
-1 = { path = "pxw-logo.png", caption = "PXW logo.", source = "Polish Backyard Archives @ YouTube" }
+1 = { path = "pxw-logo.png", caption = "PXW logo.", source = "Polish Backyard Archives @ YouTube", skip_art = true }
 +++
 
 Polish Xtreme Wrestling was a backyard group (later registered as a sports club) from Głuchołazy. It was active between 2011 and 2013.

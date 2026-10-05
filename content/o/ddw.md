@@ -8,8 +8,8 @@ chrono_root = ["ddw"]
 [extra]
 toclevel = 3
 [extra.gallery]
-1 = { path = "ddw-logo.jpg", caption = "DDW logo.", source = "Official DDW Facebook" }
-2 = { path = "ddw-logo-ms-paint-sorry-ale-to-prawda.jpg", caption = "2009 DDW logo.", source = "?" }
+1 = { path = "ddw-logo.jpg", caption = "DDW logo.", source = "Official DDW Facebook", skip_art = true }
+2 = { path = "ddw-logo-ms-paint-sorry-ale-to-prawda.jpg", caption = "2009 DDW logo.", source = "?", skip_art = true }
 3 = { path = "atti-roid.webp", caption = "Don Roid's first post on Attitude Forum.", source = "Attitude Forum", skip_art = true }
 +++
 
