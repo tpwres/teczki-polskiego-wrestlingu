@@ -1,20 +1,33 @@
-01 = { path = "frpw-siedlce-plakat.webp", caption = "Official poster featuring [Jacob Crane](@/w/jacob-crane.md) vs adept Sawo (left) and [Leon Lato](@/w/leon-lato.md) vs Oskar Alexander (right).", source = "Official FRPW Facebook" }
-02 = { path = "zapowiedz.webp", caption = "Image announcing the HeelTurn Invitational Tournament.", source = "Official FRPW Facebook" }
-03 = { path = "leon-lato.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md).", source = "Official FRPW Facebook" }
-04 = { path = "jakub.webp", caption = "Image announcing [Jakub](@/w/jakub.md).", source = "Official FRPW Facebook" }
-05 = { path = "olgierd.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md).", source = "Official FRPW Facebook" }
-06 = { path = "bart-petro.webp", caption = "Image announcing [Bart Petro](@/w/bart-petro.md).", source = "Official FRPW Facebook" }
-07 = { path = "goblin.webp", caption = "Image announcing [Goblin](@/w/goblin.md).", source = "Official FRPW Facebook" }
-08 = { path = "oskar-alexander.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
-09 = { path = "bartosz-plata.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md).", source = "Official FRPW Facebook" }
-10 = { path = "tomczak.webp", caption = "Image announcing [Tomczak](@/w/tomczak.md).", source = "Official FRPW Facebook" }
-11 = { path = "bartosz-plata-vs-tomczak.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md) vs [Tomczak](@/w/tomczak.md).", source = "Official FRPW Instagram" }
-12 = { path = "kalyana.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md).", source = "Official FRPW Instagram" }
-13 = { path = "bart-petro-vs-goblin.webp", caption = "Image announcing [Bart Petro](@/w/bart-petro.md) vs [Goblin](@/w/goblin.md).", source = "Official FRPW Instagram" }
-14 = { path = "olgierd-vs-oskar-alexander.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
-15 = { path = "leon-lato-vs-fox-jakub.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Jakub](@/w/jakub.md).", source = "Official FRPW Facebook" }
-16 = { path = "jacob-crane-vs-dieter-schwartz.webp", caption = "Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).", source = "Official FRPW Facebook" }
-17 = { path = "turniejov-i-jego-drabinka.webp", caption = "Tournament ladder. Top to bottom: [Bartosz Plata](@/w/plata.md) vs [Tomczak](@/w/tomczak.md); [Goblin](@/w/goblin.md) vs [Bart Petro](@/w/bart-petro.md); [Oskar Alexander](@/w/oskar-alexander.md) vs [Olgierd](@/w/olgierd.md); [Jakub](@/w/jakub.md) vs [Leon Lato](@/w/leon-lato.md).", source = "Official FRPW Facebook" }
-18 = { path = "max-speed-lubi-warke.webp", caption = "Image announcing [Max Speed](@/w/max-speed.md).", source = "Official FRPW Facebook" }
-19 = { path = "laurance-roman.webp", caption = "Image announcing [Laurance Roman](@/w/laurance-roman.md).", source = "Official FRPW Facebook" }
-20 = { path = "agentka-agatka-vs-emil-voeller.webp", caption = "Image announcing [Agentka Agatka](@/w/agentka-agatka.md) vs [Emil Völler](@/w/emil-voeller.md).", source = "Official FRPW Facebook" }
+0001 = { path = "frpw-siedlce-plakat.webp", caption = "Official poster featuring [Jacob Crane](@/w/jacob-crane.md) vs adept Sawo (left) and [Leon Lato](@/w/leon-lato.md) vs Oskar Alexander (right).", source = "Official FRPW Facebook" }
+0002 = { path = "zapowiedz.webp", caption = "Image announcing the HeelTurn Invitational Tournament.", source = "Official FRPW Facebook" }
+0003 = { path = "leon-lato.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md).", source = "Official FRPW Facebook" }
+0004 = { path = "jakub.webp", caption = "Image announcing [Jakub](@/w/jakub.md).", source = "Official FRPW Facebook" }
+0005 = { path = "olgierd.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md).", source = "Official FRPW Facebook" }
+0006 = { path = "bart-petro.webp", caption = "Image announcing [Bart Petro](@/w/bart-petro.md).", source = "Official FRPW Facebook" }
+0007 = { path = "goblin.webp", caption = "Image announcing [Goblin](@/w/goblin.md).", source = "Official FRPW Facebook" }
+0008 = { path = "oskar-alexander.webp", caption = "Image announcing [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
+0009 = { path = "bartosz-plata.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md).", source = "Official FRPW Facebook" }
+0010 = { path = "tomczak.webp", caption = "Image announcing [Tomczak](@/w/tomczak.md).", source = "Official FRPW Facebook" }
+0011 = { path = "bartosz-plata-vs-tomczak.webp", caption = "Image announcing [Bartosz Plata](@/w/plata.md) vs [Tomczak](@/w/tomczak.md).", source = "Official FRPW Instagram" }
+0012 = { path = "kalyana.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md).", source = "Official FRPW Instagram" }
+0013 = { path = "bart-petro-vs-goblin.webp", caption = "Image announcing [Bart Petro](@/w/bart-petro.md) vs [Goblin](@/w/goblin.md).", source = "Official FRPW Instagram" }
+0014 = { path = "olgierd-vs-oskar-alexander.webp", caption = "Image announcing [Olgierd](@/w/olgierd.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
+0015 = { path = "leon-lato-vs-fox-jakub.webp", caption = "Image announcing [Leon Lato](@/w/leon-lato.md) vs [Jakub](@/w/jakub.md).", source = "Official FRPW Facebook" }
+0016 = { path = "jacob-crane-vs-dieter-schwartz.webp", caption = "Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).", source = "Official FRPW Facebook" }
+0017 = { path = "turniejov-i-jego-drabinka.webp", caption = "Tournament ladder. Top to bottom: [Bartosz Plata](@/w/plata.md) vs [Tomczak](@/w/tomczak.md); [Goblin](@/w/goblin.md) vs [Bart Petro](@/w/bart-petro.md); [Oskar Alexander](@/w/oskar-alexander.md) vs [Olgierd](@/w/olgierd.md); [Jakub](@/w/jakub.md) vs [Leon Lato](@/w/leon-lato.md).", source = "Official FRPW Facebook" }
+0018 = { path = "max-speed-lubi-warke.webp", caption = "Image announcing [Max Speed](@/w/max-speed.md).", source = "Official FRPW Facebook" }
+0019 = { path = "laurance-roman.webp", caption = "Image announcing [Laurance Roman](@/w/laurance-roman.md).", source = "Official FRPW Facebook" }
+0020 = { path = "agentka-agatka-vs-emil-voeller.webp", caption = "Image announcing [Agentka Agatka](@/w/agentka-agatka.md) vs [Emil Völler](@/w/emil-voeller.md).", source = "Official FRPW Facebook" }
+
+0101 = { path = "sara-sambor.webp", caption = "Sara Shade and [Sambor](@/w/sambor.md) observing their opponent's entrance.", source = "Krzysztof Zych" }
+0102 = { path = "sambor-kalyana.webp", caption = "[Kalyana](@/w/kalyana.md) pinning [Sambor](@/w/sambor.md).", source = "Krzysztof Zych" }
+0201 = { path = "crane-dieter-1.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) locking the legs of [Dieter Schwartz](@/w/dieter-schwartz.md).", source = "Krzysztof Zych" }
+0202 = { path = "crane-dieter-2.webp", caption = "Dieter Schwartz and [Jacob Crane](@/w/jacob-crane.md) form a lowercase H.", source = "Krzysztof Zych" }
+0301 = { path = "olgierd-bart-leon-tomczak-istociarz-sewi.webp", caption = "Half of the Heelturn Invitational contestants, from the left: [Olgierd](@/w/olgierd.md), [Bart Petro](@/w/bart-petro.md), [Leon Lato](@/w/leon-lato.md), [Tomczak](@/w/tomczak.md). To their right is [Istociarz](@/w/istociarz.md) and [Ref Sewi](@/w/sedzia-seweryn.md).", source = "Krzysztof Zych" }
+0401 = { path = "oskar-olgierd.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) setting up a Boston Crab on [Olgierd](@/w/olgierd.md)", source = "Krzysztof Zych" }
+0501 = { path = "emil-agatka.webp", caption = "[Emil Völler](@/w/emil-voeller.md) putting a sleeper hold on [Agentka Agatka](@/w/agentka-agatka.md).", source = "Krzysztof Zych" }
+0801 = { path = "golden-paskal-stowarzysz.webp", caption = "[Vic Golden](@/w/vic-golden.md) tags in from [Markus Paskal](@/w/markus-paskal.md), who has a boot on Stowarzysz.", source = "Krzysztof Zych" }
+0901 = { path = "goblin-training.webp", caption = "[Goblin's](@/w/goblin.md) extended intro/training montage.", source = "Krzysztof Zych" }
+1001 = { path = "jakub-leon.webp", caption = "[Jakub](@/w/jakub.md) kicks [Leon Lato](@/w/leon-lato.md).", source = "Krzysztof Zych" }
+1002 = { path = "leonspin.webp", caption = "[Leon Lato](@/w/leon-lato.md) applies a Giant Swing to [Jakub](@/w/jakub.md).", source = "Krzysztof Zych" }
+1003 = { path = "jan-ken-pon.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Leon Lato](@/w/leon-lato.md) and Jakub playing rock-paper-scissors, apparently.", source = "Krzysztof Zych" }
