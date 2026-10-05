@@ -42,9 +42,9 @@ At that show, Klakson debuted in an in-ring promo segment. Donning the Polish na
 
 #### Polish Stand
 
-Over the following months, Klakson worked exclusively against international competitors, establishing a short winning streak and highlighting his patriotic gimmick. For some time he associated himself with fellow Polish repatriate [Bart Petro](@/w/bart-petro.md) to form a Tag Team called "The Polish Stand". They also alligned themselves with [Boguś](@/w/bogus.md) to took on the team of [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md), [Damian Adler](@/w/damian-adler.md) and Halfdan in Trios Match at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md).
+Over the following months Klakson worked exclusively against international competitors, establishing a short winning streak and highlighting his patriotic gimmick. For some time he associated himself with fellow Polish repatriate [Bart Petro](@/w/bart-petro.md) to form a Tag Team called "The Polish Stand". They also alligned themselves with [Boguś](@/w/bogus.md) to take on the team of [Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md), [Damian Adler](@/w/damian-adler.md) and Halfdan in Trios Match at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md).
 
-After Petro's departure from PTW Klakson allgined himself with Boguś (as Manto Band) to challenge [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Miyagi Sigma](@/tt/miyagi-sigma.md) at [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md), but they were unable to claim the titles.
+After Petro's departure from PTW, Klakson allgined himself with Boguś (as Manto Band) to challenge [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md) [Miyagi Sigma](@/tt/miyagi-sigma.md) at [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md), but they were unable to claim the titles.
 
 ## In wrestling
 
