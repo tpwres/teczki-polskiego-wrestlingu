@@ -256,7 +256,7 @@ While Boro never defended the title, he was also recognized as a champion per th
     ed: 2026-09-19
 - - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD(c)'
   - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
-  - s: Tag Team Horror Match
+  - s: Horror Tag Team Match
     en: '[PTW: Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md)'
     ed: 2026-10-31
     nc: upcoming

@@ -24,7 +24,7 @@ has_video = false
 - - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
   - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    s: Tag Team Horror Match
+    s: Horror Tag Team Match
     nc: upcoming
 - - '???'
   - '???'
