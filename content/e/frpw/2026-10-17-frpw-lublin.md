@@ -26,6 +26,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 * On 9.09.2026 FRPW announced [Kalyana](@/w/kalyana.md) & [Agentka Agatka](@/w/agentka-agatka.md) vs Akane Fujita & [Gloria G Szek](@/w/gloria-g-szek.md).
 * On 1.10.2026 FRPW announced that [Robert Star](@/w/robert-star.md) and [Filip Fux](@/w/filip-fux.md) are looking for a "solid challenge".
 * Having won their respective fights at the first round of the HeelTurn Invitational Tournament in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), [Goblin](@/w/goblin.md) and [Leon Lato](@/w/leon-lato.md) were announced on 4.10.2026 to face one another in round 2.
+* Likewise, [Olgierd](@/w/olgierd.md) and [Bartosz Plata](@/w/plata.md) were announced on 6.10.2026.
 
 ## Predicted card
 
@@ -49,6 +50,10 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
     nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
+  - s: HeelTurn Invitational Tournament, Round 2
+    nc: upcoming
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
   - s: HeelTurn Invitational Tournament, Round 2
     nc: upcoming
 {% end %}
