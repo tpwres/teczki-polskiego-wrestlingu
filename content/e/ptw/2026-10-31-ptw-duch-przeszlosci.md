@@ -16,7 +16,7 @@ has_video = false
 
 ## Build-up
 
-* On 6.10.2026 PTW published a [video][spooky-european-perch] of [Łukasz Okoński](@/w/lukasz-okonski.md) revealing some information about the upcoming show. In it, he teased a "real ghost of the past" at the commentary table, divulged a Horror Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) between [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)), disclosed a Golden Ticket Elimination Match between unspecified contenders (the winner of which will be able to face any opponent at any time) and promulgated the continued feud between [Fabian](@/w/fabian.md) and [Daniel Razor](@/w/daniel-razor.md) that [Kalom](@/w/kalom.md) and Pierre got entangled in.
+* On 6.10.2026 PTW published a [video][spooky-european-perch] of [Łukasz Okoński](@/w/lukasz-okonski.md) revealing some information about the upcoming show. In it, he teased a "real ghost of the past" at the commentary table, divulged a Horror Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) between [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)), disclosed a Golden Ticket Elimination Match between unspecified contenders (the winner of which will be able to face any opponent at any time) and proclaimed the continued feud between [Fabian](@/w/fabian.md) and [Daniel Razor](@/w/daniel-razor.md) that [Kalom](@/w/kalom.md) and Pierre got entangled in.
 
 ## Predicted card
 
