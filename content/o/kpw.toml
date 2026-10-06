@@ -1,7 +1,7 @@
 [01]
 path = "kpw-logo.png"
-"KPW logo."
-"kpwrestling.pl, vectorised by M3n747"
+caption = "KPW logo."
+source = "kpwrestling.pl, vectorised by M3n747"
 skip_art = true
 
 [02]
