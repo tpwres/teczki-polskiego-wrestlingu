@@ -8,6 +8,8 @@ toclevel = 2
 skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "oskar-alexander.webp", caption = "Oskar Alexander at [FRPW Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).", source = "Krzysztof Zych"}
 +++
 
 Oskar Alexander is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).

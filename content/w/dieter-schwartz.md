@@ -6,6 +6,8 @@ authors = ["M3n747", "Sewi The Referee"]
 toclevel = 2
 [taxonomies]
 country = ["DE"]
+[extra.gallery]
+1 = { path = "dieter.webp", caption = "Dieter Schwartz at [FRPW Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).", source = "Krzysztof Zych"}
 +++
 
 Dieter Schwartz is a German wrestler best known for his appearances in [Maniac Zone Wrestling](@/o/mzw.md), where he sometimes worked as Deti Black. In 2025 he was also a part of [Legacy of Wrestling's](@/o/low.md) [third show](@/e/low/2025-07-11-low-3.md).

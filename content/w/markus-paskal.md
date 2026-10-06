@@ -7,6 +7,8 @@ toclevel = 2
 skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
+[extra.gallery]
+1 = { path = "paskal.webp", caption = "Markus Paskal at [FRPW Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).", source = "Krzysztof Zych"}
 +++
 
 Markus Paskal is a Polish wrestler working for [Kombat Pro Wrestling](@/o/kpw.md).
