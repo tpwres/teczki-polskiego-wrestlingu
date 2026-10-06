@@ -4,7 +4,7 @@ weight = 0
 template = "event_page.html"
 authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
-chronology = ["international"]
+chronology = ["international", "cancelled"]
 venue = ["stodola"]
 [extra]
 city = "Warszawa"

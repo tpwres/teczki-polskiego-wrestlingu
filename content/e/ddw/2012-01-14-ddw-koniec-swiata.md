@@ -3,7 +3,7 @@ title = "DDW Koniec Świata"
 template = "event_page.html"
 authors = ["Krzysztof Zych"]
 [taxonomies]
-chronology = ["ddw"]
+chronology = ["ddw", "cancelled"]
 venue = ["hala-twardogora"]
 [extra]
 cancelled = true

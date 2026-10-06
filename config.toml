@@ -132,6 +132,7 @@ text_fg = '#000'
 arena = "KPW Arena"
 backyardmania = "Backyardmania"
 beer-expo = "Poznań Beer Expo"
+cancelled = "Cancelled events"
 godzina-zero = "KPW Godzina Zero"
 international = "International"
 ledwo-legalne = "Ledwo Legalne"
