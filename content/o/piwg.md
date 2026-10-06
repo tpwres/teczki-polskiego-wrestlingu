@@ -8,7 +8,7 @@ toclevel = 3
 [taxonomies]
 chrono_root = ["piwg"]
 [extra.gallery]
-1 = { path = "piwg-logo.webp", caption = "PIWG logo.", source = "Polish Backyard Archives @ YouTube" }
+1 = { path = "piwg-logo.webp", caption = "PIWG logo.", source = "Polish Backyard Archives @ YouTube", skip_art = true }
 +++
 
 Pomerania Indy Wrestling Group was one of the first Polish backyard wrestling promotions. PIWG was founded by Kamil Manuszewski under the ring name The Seraphim (who later became known as [Kamil Aleksander](@/w/kamil-aleksander.md)), who was also the only trainer. The group began in Skórcz, before moving to Starogard Gdański and finally to Gdańsk. All of these cities are located in the Pomeranian Voivodeship, hence the name.

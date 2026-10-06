@@ -1,3 +1,9 @@
+[0-logo]
+path = "tbw-logo.png"
+caption = "TBW logo"
+source = "wrestling.nazwa.pl"
+skip_art = true
+
 [ahmed]
 path = "ahmedchaer.jpg"
 caption = "Ahmed Chaer"

@@ -7,6 +7,8 @@ authors = ["Sewi The Referee"]
 chrono_root = ["frpw"]
 [extra]
 toclevel = 3
+[extra.gallery]
+1 = { path = "frpw-logo.jpg", caption = "FRPW logo.", source = "Official FRPW Facebook", skip_art = true }
 +++
 
 Fundacja Rozwoju Polskiego Wrestlingu (_Foundation for the Development of Polish Wrestling_, FRPW) is a Polish foundation and federation based in Warsaw. The Foundation was established to promote wrestling in Poland and internationally. FRPW organises its own wrestling events, as well as dojo shows of its wrestling school: [Warszawska Szkoła Wrestlingu](@/o/dojo.md). Besides that, it also hosts multiple exhibitions and demo-lessons aimed at youth, and markets its own clothing brand called "Heel Turn".

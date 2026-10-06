@@ -1,9 +1,16 @@
+[00]
+path = "cow-logo.jpg"
+caption = "CoW logo."
+source = "Official CoW Facebook"
+skip_art = true
+
 [01]
 path = "the-first-moo.webp"
 caption = "Facebook post announcing CoW."
 source = "Wrestling Polska @ Facebook"
+skip_art = true
 
 [02]
 path = "krowie-na-ringu.webp"
 caption = "[Johnny Blade](@/w/johnny-blade.md) and [Biesiad Strong](@/w/biesiad.md) with ??? in the CoW ring."
-source = "Official COW Instagram"
+source = "Official CoW Instagram"
