@@ -12,13 +12,33 @@ has_video = false
 [extra.gallery]
 +++
 
-"Duch Przeszłości" (_The Ghost of the Past_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Duch Przeszłości" (_The Ghost of the Past_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). Like in the last [two](@/e/ptw/2024-10-19-ptw-underground-23.md) [years](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), the 2026's October show was also given a Halloween theme.
 
 ## Build-up
 
-* TBD
+* On 6.10.2026 PTW published a [video][spooky-european-perch] of [Łukasz Okoński](@/w/lukasz-okonski.md) revealing some information about the upcoming show. In it, he teased a "real ghost of the past" at the commentary table, divulged a Horror Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) between [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)), disclosed a Golden Ticket Elimination Match between unspecified contenders (the winner of which will be able to face any opponent at any time) and promulgated the continued feud between [Fabian](@/w/fabian.md) and [Daniel Razor](@/w/daniel-razor.md) that [Kalom](@/w/kalom.md) and Pierre got entangled in.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
+  - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: Tag Team Horror Match
+    nc: upcoming
+- - '???'
+  - '???'
+  - '???'
+  - s: 'Golden Ticket Elimination Match'
+    nc: upcoming
+- - '[Fabian](@/w/fabian.md)'
+  - '[Daniel Razor](@/w/daniel-razor.md)'
+  - '[Kalom](@/w/kalom.md)'
+  - 'Pierre'
+  - nc: upcoming
+- credits:
+    Commentary: '???'
+{% end %}
 
 ### Highlights
 
@@ -27,3 +47,5 @@ has_video = false
 ## References
 
 * [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwduchprzeszlosci-9761)
+
+[spooky-european-perch]: https://www.facebook.com/reel/2341898866580419
