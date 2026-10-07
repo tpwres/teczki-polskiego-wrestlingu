@@ -1,7 +1,7 @@
 +++
 title = "FRPW: Na Słowo Honoru"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["frpw"]
 venue=["teatr-komuna"]
@@ -13,13 +13,20 @@ has_video = false
 [extra.gallery]
 +++
 
-"Na Słowo Honoru" (_Word of Honour_) is an upcoming show by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), returning to [Teatr Komuna](@/v/teatr-komuna.md) in Warsaw. Taken less literally, the name could also be understood as  _(Held together) only with Spit and Duct Tape_, i.e. cheaply and quickly made, barely holding together as if only the creator's word of honour compelled it to.
+"Na Słowo Honoru" (_Word of Honour_) is an upcoming show by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), returning to [Teatr Komuna](@/v/teatr-komuna.md) in Warsaw.
 
 ## Build-up
 
-* TBD
+* The first match, announced on 7.10.2026, was [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md) in a Word of Honour Match, which also gives the event its name. This stipulation is inspired by Ring of Honor's [Pure Wrestling Rules][roh-pure] - each wrestler is limited to at most three rope breaks, there is no time limit and the count-out is 20 seconds, instead of the usual 10.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
+  - s: Word of Honour Match
+    nc: upcoming
+{% end %}
 
 ## Highlights
 
@@ -28,3 +35,5 @@ has_video = false
 ## References
 
 * TBD
+
+[roh-pure]: https://en.wikipedia.org/wiki/ROH_Pure_Championship#Pure_wrestling_rules
