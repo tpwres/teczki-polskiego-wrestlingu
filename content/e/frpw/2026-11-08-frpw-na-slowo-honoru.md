@@ -17,9 +17,16 @@ has_video = false
 
 ## Build-up
 
-* TBD
+* The first match, announced on 7.10.2026, was [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz] in a Word of Honour Match (rendering the second explanation above obsolete).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Dieter Schwartz]'
+  - s: Word of Honour Match
+    nc: upcoming
+{% end %}
 
 ## Highlights
 
