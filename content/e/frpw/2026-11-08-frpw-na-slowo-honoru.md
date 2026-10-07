@@ -13,11 +13,11 @@ has_video = false
 [extra.gallery]
 +++
 
-"Na Słowo Honoru" (_Word of Honour_) is an upcoming show by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), returning to [Teatr Komuna](@/v/teatr-komuna.md) in Warsaw. Taken less literally, the name could also be understood as _(Held together) only with spit and duct tape_, i.e. cheaply and quickly made, barely holding together as if only the creator's word of honour compelled it to.
+"Na Słowo Honoru" (_Word of Honour_) is an upcoming show by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), returning to [Teatr Komuna](@/v/teatr-komuna.md) in Warsaw.
 
 ## Build-up
 
-* The first match, announced on 7.10.2026, was [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md) in a Word of Honour Match (rendering the second explanation above obsolete). The name of the stipulation refers to the rules of this match: each wrestler can do no more than three rope breaks, there is no time limit and the contenders can remain outside the ring for 20 seconds, instead of the usual 10.
+* The first match, announced on 7.10.2026, was [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md) in a Word of Honour Match, which also gives the event its name. This stipulation is inspired by Ring of Honor's [Pure Wrestling Rules][roh-pure] - each wrestler is limited to at most three rope breaks, there is no time limit and the count-out is 20 seconds, instead of the usual 10.
 
 ## Predicted card
 
@@ -35,3 +35,5 @@ has_video = false
 ## References
 
 * TBD
+
+[roh-pure]: https://en.wikipedia.org/wiki/ROH_Pure_Championship#Pure_wrestling_rules
