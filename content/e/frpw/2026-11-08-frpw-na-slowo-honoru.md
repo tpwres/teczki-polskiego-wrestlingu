@@ -17,7 +17,7 @@ has_video = false
 
 ## Build-up
 
-* The first match, announced on 7.10.2026, was [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md) in a Word of Honour Match (rendering the second explanation above obsolete).
+* The first match, announced on 7.10.2026, was [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md) in a Word of Honour Match (rendering the second explanation above obsolete). The name of the stipulation refers to the rules of this match: each wrestler can do no more than three rope breaks, there is no time limit and the contenders can remain outside the ring for 20 seconds, instead of the usual 10.
 
 ## Predicted card
 
