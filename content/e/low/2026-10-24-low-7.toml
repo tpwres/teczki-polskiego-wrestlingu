@@ -1,4 +1,4 @@
 00001 = { path = "whats-on-the-poster.webp", caption = "Official poster.", source = "Official Legacy Facebook" }
 00002 = { path = "szybko-za-lisem.webp", caption = "Image announcing [Jakub](@/w/jakub.md) vs [Max Speed](@/w/max-speed.md).", source = "Official Legacy Facebook" }
 00003 = { path = "cieniem-i-ogniem.webp", caption = "Image announcing [Shadow](@/w/shadow.md) vs [Zefir](@/w/zefir.md).", source = "Official Legacy Facebook" }
-00007 = { path = "mistrzowie-z-przypadku-vs-boro-niewiadomo.webp", caption = "Image announcing [Oskar Haller](@/w/oskar-haller.md) & [Chemik](@/w/chemik.md) vs [Boro](@/w/boro.md) & ???.", source = "Official Legacy Facebook" }
+00004 = { path = "mistrzowie-z-przypadku-vs-boro-niewiadomo.webp", caption = "Image announcing [Oskar Haller](@/w/oskar-haller.md) & [Chemik](@/w/chemik.md) vs [Boro](@/w/boro.md) & ???.", source = "Official Legacy Facebook" }
