@@ -18,8 +18,10 @@
 {% else %}
     {% for title, event_list in events %}
         {% set e = event_list[0] %}
-        {% set first_org = e.o[0] %}
-        {% set_global first_badge_style = config.extra.org_styles | get(key=first_org, default=false) %}
+        {% if e.o | length > 0 %}
+          {% set first_org = e.o[0] %}
+          {% set_global first_badge_style = config.extra.org_styles | get(key=first_org, default=false) %}
+        {% endif %}
         {% if not first_badge_style %}
            {% set_global first_badge_style = config.extra.org_styles.default %}
         {% endif %}
@@ -45,11 +47,17 @@
            {% else %}
               {% set badge_row_bg = 'background: #000' %}
            {% endif %}
+        {% else %}
+          {% set badge_row_bg = 'background: #000' %}
         {% endif %}
         <div class="event-badges" style="{{ badge_row_bg | default(value='') }}">
-            {% for org in e.o %}
-                {{ macros::promolink_color(code=org, styles=config.extra.org_styles) }}
-            {% endfor %}
+            {% if e.o | length > 0 %}
+              {% for org in e.o %}
+                  {{ macros::promolink_color(code=org, styles=config.extra.org_styles) }}
+              {% endfor %}
+            {% else %}
+              <div class="badge ib" style="{{ badge_row_bg }}">Others</div>
+            {% endif %}
         </div>
         <div class="event-details">
             {% set path = '@/' ~ e.p %}
