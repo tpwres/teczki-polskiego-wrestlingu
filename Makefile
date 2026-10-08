@@ -15,7 +15,8 @@ METADATA=data/all_matches.json \
          data/team_careers.json \
          data/all_photos.json \
          data/photo_taggings.json \
-         data/mapdata.json
+         data/mapdata.json \
+         data/valid_months.json
 PLOTS=static/zieloni.svg static/chronology-2.svg
 CAL=static/calendar.ics \
     static/calendar-ptw.ics \
@@ -31,7 +32,7 @@ aliases: data/aliases.json
 full-flags: data/full_flags.json
 atr: data/all_time_roster.json
 meta: $(METADATA)
-calendar: $(CAL)
+calendar: $(CAL) calendar-pages
 plot: $(PLOTS)
 index: $(MINISEARCH_INDEX)
 
@@ -89,3 +90,10 @@ $(MINISEARCH_INDEX): content/**/*.md data/aliases.json
 
 requirements.txt: pyproject.toml uv.lock
 	uv export -o $@
+
+calendar-pages: data/all_matches.json
+	bin/create-calendar-pages
+
+
+data/valid_months.json: data/all_matches.json
+	bin/create-calendar-bitmap < data/all_matches.json > $@
