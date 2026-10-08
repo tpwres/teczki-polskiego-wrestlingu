@@ -3,7 +3,7 @@ title = "PpW Hardcore Friday 21.000"
 template = "event_page.html"
 authors = ["M3n747", "Szymon Iwulski", "Sewi The Referee"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "hardcore-friday"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"

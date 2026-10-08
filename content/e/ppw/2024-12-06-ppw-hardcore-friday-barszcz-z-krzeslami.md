@@ -3,7 +3,7 @@ title = "PpW Hardcore Friday: Barszcz z Krzesłami"
 template = "event_page.html"
 authors = ["M3n747", "Sewi The Referee", "Szymon Iwulski"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "hardcore-friday"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"
