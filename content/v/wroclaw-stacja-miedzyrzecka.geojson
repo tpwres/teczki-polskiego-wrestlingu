@@ -5,9 +5,9 @@
         "coordinates": [17.081152, 51.094549]
     },
     "properties": {
-        "type": "venue",
+        "type": "historical-venue",
         "name": "Stacja Międzyrzecka",
-        "description": "Stacja Międzyrzecka in Wrocław, the location of [MZW's](@/o/mzw.md) [No Time to Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md).",
+        "description": "Stacja Międzyrzecka in Wrocław, the location of [MZW's](@/o/mzw.md) [two](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) [shows](@/e/mzw/2026-06-20-mzw-forever-2.md).",
         "orgs": ["mzw"]
     }
 }
