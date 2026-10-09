@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block extra_head %}
+<script type="module">
+  document.addEventListener('DOMContentLoaded', (ev) => {
+      if (document.location.search.indexOf('stop') != -1)
+          return
+      const last_years_links = document.querySelectorAll('.year-small:last-of-type .m:has(a)')
+      const final_month = [...last_years_links].pop()
+      if (final_month)
+          document.location = final_month.querySelector('a').href
+  })
+</script>
+{% endblock %}
+{% block content %}
+{{ section.content | safe }}
+
+{% set valid_months = load_data(path="data/valid_months.json") %}
+{% for year, months in valid_months %}
+  {% include "cal/year.html" %}
+{% endfor %}
+
+{% endblock content %}

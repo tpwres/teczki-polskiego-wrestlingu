@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+{%- import "macros/career.html" as macros %}
+
+{% block content %}
+{% set month = page.extra.month %}{# NOTE: 1-based #}
+{% set year = page.extra.year %}
+
+{% set month_lengths = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] %}
+{% set month_names = ["???", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] %}
+{% set weekday_names = ["???", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ] %}
+{% set weekday_names_short = ["???", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun" ] %}
+{# NOTE: Does not account for div by 100 and div by 400 #}
+{% if year % 4 == 0 %}{% set is_leap = 1 %}{% else %}{% set is_leap = 0 %}{% endif %}
+{% set m0 = month - 1 %} {% set month_length = month_lengths[m0] %}
+{% if month == 2 %}
+  {% set month_length = month_length + is_leap %}
+{% endif %}
+{# Number of days from 2000-01-01 to start of each year #}
+{% set year_start_offsets = load_data(path='const/year_start_offsets.json') %}
+{% set ys = year | as_str %}
+{% set days_to_year = year_start_offsets[year] %}
+{% for m in range(start=1, end=13) %}{# 1-based month number, range ends before 13 #}
+  {% if m < month %}
+    {% set m0 = m - 1 %}
+    {% set m_length = month_lengths[m0] %}
+    {% if m == 2 %}{% set m_length = m_length + is_leap %}{% endif %}
+    {% set_global days_to_year = days_to_year + m_length %}
+  {% endif %}
+{% endfor %}
+
+{% set first_day_iso = (days_to_year + 5) % 7 + 1 %} {# ? #}
+{% set days_to_fill =  first_day_iso - 1 %}
+{% set prev_month = month - 1 %}
+{% set prev_year = year %}
+{% if prev_month == 0 %}
+  {% set prev_month = 12 %}
+  {% set prev_year = prev_year - 1 %}
+{% endif %}
+{% set m0 = prev_month - 1 %}{% set prev_month_length = month_lengths[m0] %}
+{% if prev_month == 2 %}
+  {% if prev_year % 4 == 0 %}{% set is_leap = 1 %}{% else %}{% set is_leap = 0 %}{% endif %}
+  {% set prev_month_length = prev_month_length + is_leap %}
+{% endif %}
+{% if days_to_fill > 0 %}
+{% set monday_day = prev_month_length - days_to_fill + 1 %}
+{% else %}
+{% set monday_day = 1 %}
+{% endif %}
+
+{# Rendering a calendar:
+We know what month and year this is.
+Check MONDAY_DAY. If it's not 1, then date belongs to previous month. Lookup how many days that month has.
+until the end of month, fill cells with dates from the previous month, then start current month.
+The cal is a grid of five rows, or maybe four if February that starts on Monday. Only start a new row
+if day isn't past end of month, but always draw the whole 7. #}
+
+{% set all_matches = load_data(path="data/all_matches.json") %}
+{% set matches_by_date = all_matches | group_by(attribute="d") %}
+{% set venues_section = get_section(path="v/_index.md") %}
+
+{% set fill_day = monday_day %}
+{% set day = 1 %}
+{% set next_month = month + 1 %}
+{% if next_month == 13 %}{% set next_month = 1 %}{% endif %}
+{% set nm_day = 1 %}
+<h3>{{ month_names[month] }} {{ year }}</h3>
+<calendar>
+    {% for i in range(start=1, end=8) %}
+    <div class="wday-header">{{ weekday_names_short[i] }}</div>
+    {% endfor %}
+{% set skip_last_row = false %}
+{% for row in range(end=6) %}
+  {%- for col in range(end=7) -%}
+    {% if col > 4 %}
+        {% set cell_weekend = true %}
+    {% else %}
+        {% set cell_weekend = false %}
+    {% endif %}
+    {% if days_to_fill > 0 %}
+      {% set cell_day = fill_day %}
+      {% set cell_month = prev_month %}
+      {% set other_month = true %}
+      {% set_global days_to_fill = days_to_fill - 1 %}
+      {% set_global fill_day = fill_day + 1 %}
+    {% else %}
+      {% if day <= month_length %}
+        {% set cell_day = day %}
+        {% set cell_month = month %}
+        {% set other_month = false %}
+        {% set_global day = day + 1 %}
+      {% else %}
+        {% set cell_day = nm_day %}
+        {% set cell_month = next_month %}
+        {% set other_month = true %}
+        {% set_global nm_day = nm_day + 1 %}
+        {% set_global skip_last_row = true %}
+      {% endif %}
+    {% endif %}
+    {% set weekday_num = col + 1 %}
+    {% include "cal/day.html" %}
+  {%- endfor -%}
+    {% if skip_last_row %}{% break %}{% endif %}
+{% endfor %}
+</calendar>
+
+{% endblock %}
+
+{% block pagination %}
+  {% include "cal/pagination.html" %}
+{% endblock %}
