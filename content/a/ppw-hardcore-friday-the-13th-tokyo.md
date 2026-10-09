@@ -13,7 +13,7 @@ has_video = true
 [extra.gallery]
 +++
 
-PpW Hardcore Friday the 13th 東京 (_Tokyo_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) that took take place on 13.03.2026 in Tokyo, in a venue called ["Tokyo Square in Itabashi"][are-wa-tokyo-square-desu]. The show was be a cooperation with [Big Japan Pro Wrestling][bjw] (BJW) and other local promotions. As confirmed by [Jacob Crane](@/w/jacob-crane.md) in a [communtiy discussion][crane-frekwencja] on the What is Wrestling Facebook group, the attendance was roughly 120 fans.
+PpW Hardcore Friday the 13th 東京 (_Tokyo_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) that took take place on 13.03.2026 in Tokyo, in a venue called [Tokyo Square in Itabashi][are-wa-tokyo-square-desu]. The show was a cooperation with [Big Japan Pro Wrestling][bjw] (BJW) and other local promotions. As confirmed by [Jacob Crane](@/w/jacob-crane.md) in a [communtiy discussion][crane-frekwencja] on the What is Wrestling Facebook group, the attendance was roughly 120 fans.
 
 <!-- more -->
 
