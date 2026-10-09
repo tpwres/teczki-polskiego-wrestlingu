@@ -68,7 +68,7 @@ After his loss, Puncher stopped appearing for PTW altogether, while other member
   - [PTW Underground Championship](@/c/ptw-underground-championship.md) - Nano Lopez (1 time; current)
   - PTW WWA Championship - Dawid "Puncher" Seńko (1 time)
   - BestYa Slam Championship - Dawid "Puncher" Seńko (1 time)
-  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) - Royal Rebels (1 time; current)
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) - Royal Rebels (1 time)
   - [PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (2026) - Vincent Caravaggio
   - [PTW Awards](@/a/ptw-awards.md) (3 times):
     * Speaker of the year - Pan Pawłowski (2024)
