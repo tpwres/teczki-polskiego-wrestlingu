@@ -78,6 +78,7 @@ has_video = true
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=450402)
 * [Full show on YouTube](https://www.youtube.com/watch?v=aRd3zGtyPl8) (requires paid subscription)
+* [Open access video: Spartan vs Blade](https://www.youtube.com/watch?v=9fB9CiBPtVI)
 * [Facebook post announcing the show][zapowiedz]
 
 [zapowiedz]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/1218460120359712:1218460120359712
