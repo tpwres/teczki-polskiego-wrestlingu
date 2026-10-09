@@ -27,6 +27,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 * On 1.10.2026 FRPW announced that [Robert Star](@/w/robert-star.md) and [Filip Fux](@/w/filip-fux.md) are looking for a "solid challenge".
 * Having won their respective fights at the first round of the HeelTurn Invitational Tournament in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), [Goblin](@/w/goblin.md) and [Leon Lato](@/w/leon-lato.md) were announced on 4.10.2026 to face one another in round 2.
 * Likewise, [Olgierd](@/w/olgierd.md) and [Bartosz Plata](@/w/plata.md) were announced on 6.10.2026.
+* A Tag Team Match between [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) and [Max Speed](@/w/max-speed.md) & [Antoni Ocean](@/w/antoni-ocean.md) was announced on 9.10.2026.
 
 ## Predicted card
 
@@ -55,6 +56,10 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: HeelTurn Invitational Tournament, Round 2
+    nc: upcoming
+- - '[Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - '[Max Speed](@/w/max-speed.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+  - s: 'Tag Team Match'
     nc: upcoming
 {% end %}
 
