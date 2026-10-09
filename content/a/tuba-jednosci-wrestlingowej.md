@@ -8,7 +8,7 @@ category = ["Misc"]
 [extra.gallery]
 +++
 
-"Tuba Jedności Wrestlingowej" (_The Tube of Wrestling Unity_) is a cardboard tube signed by multiple people (wrestlers and otherwise) from the Polish wrestling scene.
+"Tuba Jedności Wrestlingowej" (_The Tube of Wrestling Unity_) is a cardboard tube signed by multiple people (wrestlers and staff) from the Polish wrestling scene.
 
 <!-- more -->
 
