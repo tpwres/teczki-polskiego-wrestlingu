@@ -42,7 +42,7 @@ At [Wrestling w Twoim Mieście - Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) B
 
 ### PpW Ewenement Wrestling (2026-present)
 
-Petdo debuted for PpW at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), in a pre-show match.
+Petdo debuted for PpW at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), winning the pre-show match against [Oskar Haller](@/w/oskar-haller.md), [Markus Paskal](@/w/markus-paskal.md) and [Marcelito](@/w/marcelito.md).
 
 ## In wrestling
 

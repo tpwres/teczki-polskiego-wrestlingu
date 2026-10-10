@@ -81,12 +81,13 @@ has_video = false
 
 ### Highlights
 
-* TBD
+* The main part of the show was opened with the song [Prosto](https://www.youtube.com/watch?v=ALP2ZFypnHY) by KULT.
+* 
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=461462)
-* [Full show on PpW VOD]() (requires paid subscription)
+* [Full show on PpW VOD](https://tu-dac-linka-jak-sie-obudza.pl) (requires paid subscription)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [krol-i-krolowa-wrestlingu]: https://en.wikipedia.org/wiki/Jadwiga_of_Poland
