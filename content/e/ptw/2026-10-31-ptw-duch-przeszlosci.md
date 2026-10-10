@@ -8,7 +8,7 @@ venue = ["szafirowy-dwor"]
 [extra]
 city = "Kozłów"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -47,5 +47,7 @@ has_video = false
 ## References
 
 * [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwduchprzeszlosci-9761)
+* [Official YouTube stream](https://www.youtube.com/watch?v=HXmn2KszNUM) (requires paid subscription)
+* [Open access video: ??? vs ???](https://www.youtube.com/watch?v=SpoFs6iCth8)
 
 [spooky-european-perch]: https://www.facebook.com/reel/2341898866580419
