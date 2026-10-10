@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"PpW Brutality" is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw. The name of the show, much like the Hardcore Friday series, is a throwback to the promotion's [backyard](@/e/ppw/2015-10-10-ppw-brutality-2015.md) [era](@/e/ppw/2017-03-25-ppw-brutality-17.md).
+"PpW Brutality" was an event by [PpW Ewenement Wrestling](@/o/ppw.md) that took place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw. The name of the show, much like the [Hardcore Friday](@/e/hardcore-friday.md) series, is a throwback to the promotion's [backyard](@/e/ppw/2015-10-10-ppw-brutality-2015.md) [era](@/e/ppw/2017-03-25-ppw-brutality-17.md).
 
 ## Build-up
 
@@ -28,9 +28,24 @@ has_video = false
 * The TLC Match was upgraded to [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) TLC 3- Way Tag-Team Ladder Match on 3.10.2026, with the teams participating being [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md), and [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)).
 * On 4.10.2026 PpW announced a Tag Team Match between [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md), who faced one another at the [last show](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) but decided to cooperate in order to defeat [Rodzina](@/tt/rodzina.md), represented by [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Bart Petro](@/w/bart-petro.md)'
+  - '[Oskar Haller](@/w/oskar-haller.md)'
+  - '[Markus Paskal](@/w/markus-paskal.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - s: Four-Man Pre-Show Match
+
+- - '[Sentinel](@/w/sentinel.md)'
+  - '[Jakub](@/w/jakub.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Maverick](@/w/maverick.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: '#1 Contender Scramble Match'
+    nc: upcoming
+
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
   - '[Robert Star](@/w/robert-star.md)'
   - s: Super Heavyweight Showcase
@@ -58,14 +73,6 @@ has_video = false
   - '[Mister Z](@/w/mister-z.md)'
   - s: 'PpW Rules Match'
     nc: upcoming
-- - '[Sentinel](@/w/sentinel.md)'
-  - '[Jakub](@/w/jakub.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Antoni Ocean](@/w/antoni-ocean.md)'
-  - '[Maverick](@/w/maverick.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: '#1 Contender Scramble Match'
-    nc: upcoming
 - - '[Rodzina](@/tt/rodzina.md): [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md)'
   - '[Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
   - s: Tag Team Match
@@ -74,11 +81,13 @@ has_video = false
 
 ### Highlights
 
-* TBD
+* The main part of the show was opened with the song [Prosto](https://www.youtube.com/watch?v=ALP2ZFypnHY) by KULT.
+* 
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=461462)
+* [Full show on PpW VOD](https://tu-dac-linka-jak-sie-obudza.pl) (requires paid subscription)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [krol-i-krolowa-wrestlingu]: https://en.wikipedia.org/wiki/Jadwiga_of_Poland

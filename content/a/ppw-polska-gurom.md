@@ -13,7 +13,7 @@ has_video = true
 [extra.gallery]
 +++
 
-PpW x 上野: Polska Gurom! (roughly _PpW x Ueno: Poland Rulz_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) that took place on 11.03.2026 in Tokyo in the Outdoor Stage (Waterside Music Hall) of the [Ueno Park][ueno-park]. The show was a cooperation with [Big Japan Pro Wrestling][bjw] (BJW), and acted as a prelude to [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
+PpW x 上野: Polska Gurom! (roughly _PpW x Ueno: Poland Rulz!_) was a show by [PpW Ewenement Wrestling](@/o/ppw.md) that took place on 11.03.2026 in Tokyo in the Outdoor Stage (Waterside Music Hall) of the [Ueno Park][ueno-park]. The show was a cooperation with [Big Japan Pro Wrestling][bjw] (BJW), and acted as a prelude to [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 
 <!-- more -->
 

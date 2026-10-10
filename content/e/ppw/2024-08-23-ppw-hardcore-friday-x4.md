@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["Krzysztof Zych", "M3n747", "Sewi The Referee"]
 aliases = ["/e/ppw/2024-08-23-ppw-hardcore-friday"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "hardcore-friday"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"

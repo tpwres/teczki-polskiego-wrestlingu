@@ -16,7 +16,7 @@ Bart Petro is a Polish wrestler best know for his appearances for [Fundacja Rozw
 
 * Years active: 2025-present
 * Gimmicks/nicknames:
-  - Bart Petro{{ org_badge(orgs=['ptw', 'frpw']) }} (2025-present)
+  - Bart Petro{{ org_badge(orgs=['ptw', 'frpw', 'ppw']) }} (2025-present)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2019)
   - Revolution Pro Wrestling (2024-present)
@@ -39,6 +39,10 @@ Later on he got involved in a programme with [CJ Klakson](@/w/cj-klakson.md) - w
 Petro made a surprise appearance at [FRPW Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), taking part in a Rumble Match. About a week later he confirmed in a Facebook post that he had left Prime Time Wrestling a month prior, over failed negotiations of occasionally working outside of PTW.
 
 At [Wrestling w Twoim Mieście - Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Bart fought in the first round of the HeelTurn Invitational Tournament, but was eliminated by [Goblin](@/w/goblin.md).
+
+### PpW Ewenement Wrestling (2026-present)
+
+Petdo debuted for PpW at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), winning the pre-show match against [Oskar Haller](@/w/oskar-haller.md), [Markus Paskal](@/w/markus-paskal.md) and [Marcelito](@/w/marcelito.md).
 
 ## In wrestling
 
