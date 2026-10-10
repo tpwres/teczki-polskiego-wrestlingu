@@ -37,6 +37,14 @@ has_video = false
   - '[Marcelito](@/w/marcelito.md)'
   - s: Four-Man Pre-Show Match
 
+- - '[Sentinel](@/w/sentinel.md)'
+  - '[Jakub](@/w/jakub.md)'
+  - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Maverick](@/w/maverick.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    s: '#1 Contender Scramble Match'
+    nc: upcoming
 
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
   - '[Robert Star](@/w/robert-star.md)'
@@ -64,14 +72,6 @@ has_video = false
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - s: 'PpW Rules Match'
-    nc: upcoming
-- - '[Sentinel](@/w/sentinel.md)'
-  - '[Jakub](@/w/jakub.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
-  - '[Antoni Ocean](@/w/antoni-ocean.md)'
-  - '[Maverick](@/w/maverick.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: '#1 Contender Scramble Match'
     nc: upcoming
 - - '[Rodzina](@/tt/rodzina.md): [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md)'
   - '[Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
