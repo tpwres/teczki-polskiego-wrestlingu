@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "gabriel-queen.jpg", caption = "Gabriel Queen in the ring at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "M3n747" }
 +++
 
-Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenement](@/o/ppw.md), [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -84,7 +84,22 @@ Despite their best efforts, Rodzina once again prevailed. Queen managed to get b
 
 Soon after at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), the Queen vs Golden conflict finally concluded, as Gabriel lost the Loser Leaves PpW Match. However, thanks to a deal made by Vic and PpW's producer [Mister Z](@/w/mister-z.md), Vic graciously offered Gabriel to stay in the federation under one condition: GQ had to become Rodzina's member. Having no other choice Queen reluctantly agreed, thus being forced into becoming one of Vic's puppets.
 
-### Legacy of Wrestling (2024-present)
+#### Rodzina
+
+After Rodzina forced Gabriel Queen into their ranks, the situation in the group almost immediately worsened. Rodzina struggled with chasing after the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) while being overtaken by both [Zmowa](@/tt/zmowa.md) and [Bad Trip](@/tt/bad-trip.md). The situation got increasingly complicated during Vic's short-term hiatus during most intensive pursuit for the Championship. During that time one of the core members of Rodzina: [Agatka](@/w/agentka-agatka.md) grew increasingly more frustrated with Vic's absence - often critisising him in front of Rodzina, which was especially approved of by Queen. Growing tensions finally erupted at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), where Queen refused to take an oath of fealty and attacked Vic, Oskar and [Filip Fux](@/w/filip-fux.md). Swayed Agatka joined Gabriel and officially left Rodzina.
+
+#### PpW Champion
+
+After breaking off Rodzina's leash Gabriel quickly stepped into Main Event scene, as at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) he entered Ladder Match in which he secured contract granting him a Match for [PpW Championship](@/c/ppw-championship.md). Queen used it later the same night, as he got himself into the match between [Olgierd](@/w/olgierd.md) and [Biesiad Strong](@/w/biesiad.md). Ulitimately, he managed to win the championship by pinning defending champion Olgierd. 
+
+Shortly after his nemesis and former friend - Vic Golden - challenged him for said championship at [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md). After fierce fight Gabriel managed to succesfully score his first title defence against one of his biggest rivals - possibly earning a closure for his story with Vic. 
+His next title defence took place at hometown, where he defeated former champion [Olgierd](@/w/olgierd.md) at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md) where he made yet championship defence, marking his domination both over Rodzina and Zmowa.
+
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Queen has been challenged by yet another rival - [Jacob Crane](@/w/jacob-crane.md) - who challenged him not only for the Championship, but also for closure in their long-lasting rivalry in PpW in which they shared exactly one win against each other in Singles Matches. The trilogy ended in 30-Minute Iron Man Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), in which Gabriel defeated Jacob.
+
+After dealing with old foes the time for friends has come. While Queen defeated Jacob at Chaos na Rewirach, [Goblin](@/w/goblin.md) managed to earn #1 Contendership against [Mister Z](@/w/mister-z.md) the same night. Despite their friendship and sportsmanship declaration the relationship between two of them has been stirred a little by [Jakub](@/w/jakub.md), who tried to sour the relation between the duo. At [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) Goblin came very close to defeating Queen, but intervention of Jakub and moment of Goblin's hesitation led to Queen making yet another title defence. This marked his third successful victory over former PpW Champions in his reign.
+
+### Legacy of Wrestling (2024-2025)
 
 Gabriel joined [Legacy of Wrestling](@/o/low.md), appearing at their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md).
 At their second show he challenged Axel Fox in a Road To The Title Match, but lost. This forced him to plea with LoW's management for one more chance to pursue the upcoming Legacy Championship.
@@ -97,18 +112,21 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
 
 In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to take part in PpW's excursion to Japan in March 2026, at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Chris Brookes in a Singles Match. Not long after, Gabriel's Japanese debut was moved even earlier, to Big Japan Pro Wrestling's [BJ VOYAGER!][bjw-voy] show on March 7th.
 
+At September 30th, 2026 Gabriel Queen managed to win wXw Academy Championship, which marked him the very first Polish wrestler to win a championship in Westside Xtreme Wrestling development system.
+
 ## In wrestling
 
 * Finishers:
-  - _Gab Driver '01_ (Michinoku Driver) (2021-)
-  - Running Lariat (2024-)
+  - Rack Bomb (2026-)
+  - _Gab Driver '01_ (Michinoku Driver) (2021-2025) - used as signature afterwards
+  - Running Lariat (2024-2025) - used as signature afterwards
   - Single Leg Boston Crab (2023)
   - Double Underhook Inverted Slam (2021)
 * With [Vic Golden](@/w/vic-golden.md)
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-2025)
 * Tag Teams and stables:
   - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
-  - [Rodzina](@/tt/rodzina.md) (2025-)
+  - [Rodzina](@/tt/rodzina.md) (2025-2026)
 * Managers:
   - [Isnorr](@/w/isnorr.md) (2021)
 * Entrance music:
@@ -118,19 +136,24 @@ In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to 
     {{ music(spot='30nwxUmOXvcwA1U84BqowT')}}
     {{ music(apple='1490598362?i=1490598731')}}
   - "Best of Both Worlds" by Hannah Montana
-    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2022-, solo and formerly in tag team with [Vic Golden](@/w/vic-golden.md)) <br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'low', 'frpw']) }} (2022-, solo and formerly in tag team with [Vic Golden](@/w/vic-golden.md)) <br>
     {{ music(yt='ZSGC3g-EWbw')}}
     {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
     {{ music(apple='1440632617?i=1440633345')}}
 
 ## Championships and accomplishments
 
-* [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Awards](@/a/ptw-awards.md) (1 time)
-    * Tag Team of the Year (as [Pure Gold](@/tt/pure-gold.md)) (2022)
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time; current)
   - Golden Goat Trophy (1 time)
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Awards](@/a/ptw-awards.md) (1 time)
+    * Tag Team of the Year (as [Pure Gold](@/tt/pure-gold.md)) (2022)
+
+#### International wrestling accomplishments:
+
+* wXw Wrestling Academy:
+  - wXw Academy Championship (1 time)
 
 ## Internet presence
 
