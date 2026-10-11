@@ -8,13 +8,13 @@ toclevel = 2
 country = ["DE"]
 +++
 
-Emil Völler is a German wrestler known in Poland for working with [PpW Ewenement Wrestling](@/o/ppw.md).
+Emil Völler is a German wrestler known in Poland for working with [PpW Ewenement Wrestling](@/o/ppw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
 * Years active: 2023-
 * Gimmicks/nicknames:
-  - Emil Völler {{ org_badge(orgs=['ppw']) }}
+  - Emil Völler {{ org_badge(orgs=['ppw', 'frpw']) }}
 * Trained by:
   - Catch Factory Leipzig
   - Pro Wrestling School Dresden
@@ -25,14 +25,22 @@ Emil Völler is a German wrestler known in Poland for working with [PpW Ewenemen
 
 Emil Völler debuted in Poland at [PpW Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) and has been making occasional appearances for the promotion since.
 
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Emil made his debut for [FRPW](@/o/frpw.md) at federation's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he defeated [Agentka Agatka](@/w/agentka-agatka.md) in a Intergender Match.
+
 ## In wrestling
 
 * Entrance music:
   - "NDW 2005" by Fler
-    {{ org_badge(orgs=['frpw']) }} (2026-) <br>
+    {{ org_badge(orgs=['ppw', 'frpw']) }} (2025-) <br>
     {{ music(yt='YPqahPy8h_U')}}
     {{ music(spot='69nWXr4rpRn194yHAQInrZ')}}
     {{ music(apple='1437317965?i=1437317974')}}
+
+## Internet presence
+
+* [Emil's Instagram profile](https://www.instagram.com/emil_fn_v0ller)
 
 ## References
 
