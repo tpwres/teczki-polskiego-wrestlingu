@@ -111,12 +111,12 @@ David also works abroad in such promotions as Austria-based European Wrestling A
  
 #### International wrestling accomplishments
 
-* 🇩🇪 Power Of Wrestling:
-  - POW Tag Team Championship (1 time; current) - with [Ricky Sky](@/w/ricky-sky.md) as [Team Visegrad](@/tt/team-visegrad.md)
-* 🇦🇹 European Wrestling Association:
-  - EWA Tag Team Championship (3 times) - with Ricky Sky (2 times) and [Skull Evil](@/w/lukas-mottl.md) (1 time) as Team Visegrad
-* 🇩🇪 Suplex Schmiede:
-  - Suplex Schmiede Tag Team Championship (1 time) - with Ricky Sky as Team Visegrad
+* 🇩🇪 [Power Of Wrestling][cm-pow]:
+  - [POW Tag Team Championship][cm-pow-tt] (1 time; current) - with [Ricky Sky](@/w/ricky-sky.md) as [Team Visegrad](@/tt/team-visegrad.md)
+* 🇦🇹 [European Wrestling Association][cm-ewa]:
+  - [EWA Tag Team Championship][cm-ewa-tt] (3 times) - with Ricky Sky (2 times) and [Skull Evil](@/w/lukas-mottl.md) (1 time) as Team Visegrad
+* 🇩🇪 [Suplex Schmiede][cm-ss]:
+  - [Suplex Schmiede Tag Team Championship][cm-ss-tt] (1 time) - with Ricky Sky as Team Visegrad
 
 ## Internet presence
 
@@ -126,3 +126,10 @@ David also works abroad in such promotions as Austria-based European Wrestling A
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19692)
+
+[cm-pow]: https://www.cagematch.net/r/?id=8&nr=1162
+[cm-pow-tt]: https://www.cagematch.net/r/?id=5&nr=2353
+[cm-ewa]: https://www.cagematch.net/r/?id=8&nr=65
+[cm-ewa-tt]: https://www.cagematch.net/r/?id=5&nr=2466
+[cm-ss]: https://www.cagematch.net/r/?id=8&nr=3305
+[cm-ss-tt]: https://www.cagematch.net/r/?id=5&nr=5464

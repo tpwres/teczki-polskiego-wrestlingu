@@ -85,12 +85,12 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
 
 * Pro Wrestling Illustrated:
   - #205 on 2025 PWI Women's 250 list
-* 🇦🇹 Rings of Europe:
-  - GLAM! Championship (1 time) 
-* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Big League Wrestling:
-  - BLW Women's Championship (1 time; current) 
-* 🇫🇮 Slam Wrestling Entertainment:
-  - SLAM Women's Championship (1 time) 
+* 🇦🇹 [Rings of Europe][cm-roe]:
+  - [GLAM! Championship][cm-roe-glam] (1 time) 
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Big League Wrestling][cm-blw]:
+  - [BLW Women's Championship][cm-blw-wc] (1 time; current) 
+* 🇫🇮 [Slam Wrestling Entertainment]:
+  - [SLAM Women's Championship][cm-slam-wc] (1 time) 
 
 ## References
 
@@ -100,3 +100,9 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
 
 [pwi-250]: https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated
 [marigold]: https://www.facebook.com/100077328566580/posts/1057334496854159/
+[cm-roe]: https://www.cagematch.net/r/?id=8&nr=59
+[cm-roe-glam]: https://www.cagematch.net/r/?id=5&nr=5160
+[cm-blw]: https://www.cagematch.net/r/?id=8&nr=2047
+[cm-blw-wc]: https://www.cagematch.net/r/?id=5&nr=3555
+[cm-slam]: https://www.cagematch.net/r/?id=8&nr=2261
+[cm-slam-wc]: https://www.cagematch.net/r/?id=5&nr=6674
