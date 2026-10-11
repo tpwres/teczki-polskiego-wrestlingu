@@ -46,7 +46,7 @@ After PTW's reboot, which was forced by multiple controversies and [talent exodu
 
 #### PTW Women's Champion and heel turn
 
-Diana's chance for a rematch came at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md). During the match against reigning champion - Mercedes Moné - she finally regained the championship. However, her victory was occupied by turning to dark side, as she low-blowed [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) and smacked Mercedes with a title belt.
+Diana's chance for a rematch came at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md). During the match against the reigning Champion [Mercedes Moné](@/w/mercedes-mone.md) she finally regained the Championship. However, her victory came at the cost of turning to dark side, as she low-blowed [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) and smacked Mercedes with the title belt.
 
 ## International wrestling appearances
 
@@ -85,11 +85,11 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
 
 * Pro Wrestling Illustrated:
   - #205 on 2025 PWI Women's 250 list
-* Rings of Europe:
+* 🇦🇹 Rings of Europe:
   - GLAM! Championship (1 time) 
-* Big League Wrestling:
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Big League Wrestling:
   - BLW Women's Championship (1 time; current) 
-* Slam Wrestling Entertainment:
+* 🇫🇮 Slam Wrestling Entertainment:
   - SLAM Women's Championship (1 time) 
 
 ## References

@@ -1,7 +1,7 @@
 +++
 title = "Emil Völler"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -27,7 +27,7 @@ Emil Völler debuted in Poland at [PpW Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wj
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Emil made his debut for [FRPW](@/o/frpw.md) at federation's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he defeated [Agentka Agatka](@/w/agentka-agatka.md) in a Intergender Match.
+Emil made his debut for [FRPW](@/o/frpw.md) at the federation's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he defeated [Agentka Agatka](@/w/agentka-agatka.md) in an Intergender Match.
 
 ## In wrestling
 

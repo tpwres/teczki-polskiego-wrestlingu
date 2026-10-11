@@ -111,11 +111,11 @@ David also works abroad in such promotions as Austria-based European Wrestling A
  
 #### International wrestling accomplishments
 
-* Power Of Wrestling:
+* 🇩🇪 Power Of Wrestling:
   - POW Tag Team Championship (1 time; current) - with [Ricky Sky](@/w/ricky-sky.md) as [Team Visegrad](@/tt/team-visegrad.md)
-* European Wrestling Association:
+* 🇦🇹 European Wrestling Association:
   - EWA Tag Team Championship (3 times) - with Ricky Sky (2 times) and [Skull Evil](@/w/lukas-mottl.md) (1 time) as Team Visegrad
-* Suplex Schmiede:
+* 🇩🇪 Suplex Schmiede:
   - Suplex Schmiede Tag Team Championship (1 time) - with Ricky Sky as Team Visegrad
 
 ## Internet presence
