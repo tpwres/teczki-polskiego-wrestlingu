@@ -3,7 +3,7 @@ title = "PpW Hardcore Friday 2"
 template = "event_page.html"
 authors = ["Szymon Iwulski"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "hardcore-friday"]
 venue=["2kola"]
 [extra]
 city = "Warszawa"

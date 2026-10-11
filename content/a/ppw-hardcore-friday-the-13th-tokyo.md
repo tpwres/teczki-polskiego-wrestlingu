@@ -5,7 +5,7 @@ template = "event_page.html"
 weight = 0
 authors = ["M3n747"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "hardcore-friday"]
 category = ["Polish wrestling scene"]
 [extra]
 city = "板橋区、東京 (Itabashi City, Tokyo)"

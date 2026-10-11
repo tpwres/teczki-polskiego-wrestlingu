@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["M3n747"]
 aliases = ["/e/ppw/2026-11-07-ppw-2kola"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "hardcore-friday"]
 venue = ["2kola"]
 [extra]
 city = "Warszawa"
