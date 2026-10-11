@@ -38,6 +38,10 @@ Instead, as a runner up of the Rumble, Razor faced Nano for the vacant Champions
 In the meantime, he started calling himself "The Voice" of PTW fans, owing to the fact that he had been a regular fan not that long ago.
 After successfully defending his Championship in three open challenges, his reign came to an end when he was defeated by now-villainous Nano Lopez, who bested him with the help of his new ally [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) at [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
 
+#### Feud with Nano Lopez
+
+After losing his championship Daniel got involved in a heated rivalry against former fan-favourite Nano Lopez. The opponent however refused to grant him his rematch right away. Instead, Daniel got involved in a series of vicious "trials" organised by Lopez. This included challenges Battle Royal with bounty on Razor's head at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md), Submission Match against Gabriel Grip at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md) and Gauntlet Match at [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md). Despite numerous disadvantages Daniel managed to overcome them all, which led him to getting his rematch for Underground Championship in a Last Man Standing Match at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md). Daniel ultimately lost to Nano Lopez, which led him away from Underground Championship for forseeable future.
+
 ## Other media
 
 In late September 2025, Bytom's official city website posted a short [news piece][wrestler-from-bytom] about Daniel (in Polish), simply titled "Wrestler from Bytom".
