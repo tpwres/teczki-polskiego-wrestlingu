@@ -56,15 +56,6 @@ In November 2025 [Pro Wrestling Illustrated][pwi-250] ranked Diana #205 on their
 
 On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for a Japanese women's promotion, Dream Star Fighting Marigold, where she was booked for the annual Dream★Star Grand Prix 2026 tournament.
 
-#### International wrestling accomplishments
-
-* Rings of Europe:
-  - GLAM! Championship (1 time) - (25.10.2024 - 19.06.2026)
-* Big League Wrestling:
-  - BLW Women's Championship (1 time) - (14.11.2025 - present)
-* Slam Wrestling Entertainment:
-  - SLAM Women's Championship (1 time) - (07.03.2026 - 27.03.2026)
-
 ## In wrestling
 
 * Finishers:
@@ -89,8 +80,17 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
   - [PTW Women's Championship](@/c/ptw-womens-championship.md) (1 time; current)
   - [PTW Awards](@/a/ptw-awards.md) (1 time):
     * Female Wrestler of the Year (2022)
+ 
+#### International wrestling accomplishments
+
 * Pro Wrestling Illustrated:
   - #205 on 2025 PWI Women's 250 list
+* Rings of Europe:
+  - GLAM! Championship (1 time) 
+* Big League Wrestling:
+  - BLW Women's Championship (1 time; current) 
+* Slam Wrestling Entertainment:
+  - SLAM Women's Championship (1 time) 
 
 ## References
 
