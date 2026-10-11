@@ -48,5 +48,9 @@ In December 2025 Tony Sheen made his debut for [Legacy of Wrestling](@/o/low.md)
 
 * Finishers:
   - Running Knee Strike (2024-)
+* Entrance music:
+  - "I'm On A Boat" Metal Cover by Neebs Gaming, JT Music & Nerdout
+    {{ org_badge(orgs=['ppw'] )}} (2026-) <br>
+    {{ music(yt='JeQ6JKM8b84')}}
 
 [bm4]:https://www.youtube.com/watch?v=AcBIUr_-LqA

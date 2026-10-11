@@ -95,7 +95,7 @@ Biesiad made his return in a 25 Typa 25 Broni Match at [Teraz Albo Nigdy 2](@/e/
 
 #### PpW Tag Team Champion
 
-Shortly after his defeat in a match for the PpW Championship, Biesiad returned to the Tag Team division with his best friend Johnny Blade as [The Hardcors](@/tt/the-hardcors.md). They started to feud with other tag teams and stables in PpW - mainly [Rodzina](@/tt/rodzina.md) - for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). At [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) Biesiad pinned the Patriarch of Rodzina and the reigning champion, Vic Golden. This granted The Hardcors an opportunity to face Rodzina in a Championship Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), where they won the Championship with the help from [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) - another team holding a grudge against Rodzina.
+Shortly after his defeat in a match for the PpW Championship, Biesiad returned to the Tag Team division with his best friend Johnny Blade as [The Hardcors](@/tt/the-hardcors.md). They started to feud with other tag teams and stables in PpW - mainly [Rodzina](@/tt/rodzina.md) - for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). At [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) Biesiad pinned the Patriarch of Rodzina and the reigning champion, Vic Golden. This granted The Hardcors an opportunity to face Rodzina in a Championship Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), where they won the Championship with the help from [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) - another team holding a grudge against Rodzina. Mere two weeks later, however, they lost the belts to [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)) at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), making it the shortest PpW Tag Team reign to date.
 
 ### Dream Factory Wrestling (2017)
 
@@ -152,7 +152,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][wrestlow
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (2 times)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current) - as a member of [The Hardcors](@/tt/the-hardcors.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [The Hardcors](@/tt/the-hardcors.md)
   - Turniej TypeShit (2025)
 
   _Backyard Era Championships:_

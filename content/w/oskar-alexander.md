@@ -56,7 +56,7 @@ While Rodzina members were occupied with their Singles opportunites, Oskar focus
 
 Rodzina's shortage of willing, fully active members was solved at [Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md) where they were joined by debuting [Filip Fux](@/w/filip-fux.md), who was named Oskar's Tag Team partner in the tournament finals. They were ultimately unsucessful in winning the titles, which were went to [Zmowa](@/tt/zmowa.md). 
 
-During Oskar's indisposition caused by an injury suffered at an MZW show, Rodzina suffered a serious blow at the hands of Gabriel Queen and Oskar's friend Agatka, who finally turned on Vic Golden at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md). Shortly after that the group was aided by [Isnorr](@/w/isnorr.md) and turned their focus back to the Tag Team Championship. At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Oskar and his father Vic Golden managed to take advantage of [Bad Trip](@/tt/bad-trip.md) being forced to vacate their titles due to [Gustav Gryffin's](@/w/gustav-gryffin.md) injury. Rodzina won the Title Match against [Ladykiller](@/w/boro.md) and [Mutant](@/w/mutant.md).
+During Oskar's indisposition caused by an injury suffered at an MZW show, Rodzina suffered a serious blow at the hands of Gabriel Queen and Oskar's friend Agatka, who finally turned on Vic Golden at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md). Shortly after that the group was aided by [Isnorr](@/w/isnorr.md) and turned their focus back to the Tag Team Championship. At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Oskar and his father Vic Golden managed to take advantage of [Bad Trip](@/tt/bad-trip.md) being forced to vacate their titles due to [Gustav Gryffin's](@/w/gustav-gryffin.md) injury. Rodzina won the Title Match against [Ladykiller](@/w/boro.md) and [Mutant](@/w/mutant.md). At [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Rodzina lost the titles to [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), but recaptured them mere two weeks later, at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md).
 
 ### Maniac Zone Wrestling (2025-present)
 
@@ -105,7 +105,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
 ## Championships and accomplishments
 
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 

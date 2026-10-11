@@ -1,7 +1,7 @@
 +++
 title = "PpW Brutality"
 template = "event_page.html"
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych"]
 aliases = ["/e/ppw/2026-10-10-ppw-minska-65"]
 [taxonomies]
 chronology = ["ppw"]
@@ -9,11 +9,11 @@ venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
-"PpW Brutality" is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw. The name of the show, much like the Hardcore Friday series, is a throwback to the promotion's [backyard](@/e/ppw/2015-10-10-ppw-brutality-2015.md) [era](@/e/ppw/2017-03-25-ppw-brutality-17.md).
+"PpW Brutality" was an event by [PpW Ewenement Wrestling](@/o/ppw.md) that took place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw. The name of the show, much like the Hardcore Friday series, is a throwback to the promotion's [backyard](@/e/ppw/2015-10-10-ppw-brutality-2015.md) [era](@/e/ppw/2017-03-25-ppw-brutality-17.md).
 
 ## Build-up
 
@@ -28,57 +28,68 @@ has_video = false
 * The TLC Match was upgraded to [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) TLC 3- Way Tag-Team Ladder Match on 3.10.2026, with the teams participating being [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md), and [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)).
 * On 4.10.2026 PpW announced a Tag Team Match between [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md), who faced one another at the [last show](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) but decided to cooperate in order to defeat [Rodzina](@/tt/rodzina.md), represented by [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
-  - '[Robert Star](@/w/robert-star.md)'
-  - s: Super Heavyweight Showcase
-    nc: upcoming
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
-  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-    s: TLC 3-Way Tag-Team Ladder Match
-    nc: upcoming
-- - 'Akane Fujita'
-  - '[Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Gloria G Szek](@/w/gloria-g-szek.md)'
-  - '[Rozalia Nyx](@/w/rozalia-nyx.md)'
-  - '[Kalyana](@/w/kalyana.md)'
-  - 'Julia Rave'
-  - 'Sara Shade'
-  - s: "Queen Jadwiga's Battle Royal"
-    nc: upcoming
-- - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
-  - '[Goblin](@/w/goblin.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)'
-  - '[Mister Z](@/w/mister-z.md)'
-  - s: 'PpW Rules Match'
-    nc: upcoming
-- - '[Sentinel](@/w/sentinel.md)'
-  - '[Jakub](@/w/jakub.md)'
+{% card() %}
+- - '[Bart Petro](@/w/bart-petro.md)'
+  - '[Oskar Haller](@/w/oskar-haller.md)'
+  - '[Markus Paskal](@/w/markus-paskal.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - s: Four-Man Pre-Show Match
+- - '[Jakub](@/w/jakub.md)'
+  - '[Sentinel](@/w/sentinel.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Maverick](@/w/maverick.md)'
-  - c: '[PpW Championship](@/c/ppw-championship.md)'
-    s: '#1 Contender Scramble Match'
-    nc: upcoming
-- - '[Rodzina](@/tt/rodzina.md): [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md)'
-  - '[Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
+  - s: '[PpW Championship](@/c/ppw-championship.md) #1 Contender Scramble Match'
+- - '[Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Isnorr](@/w/isnorr.md) & [Filip Fux](@/w/filip-fux.md)'
   - s: Tag Team Match
-    nc: upcoming
+- - '[Robert Star](@/w/robert-star.md)'
+  - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
+  - c: DPW Heavweight Championship
+    s: Super Heavyweight Showcase
+- - '[Mister Z](@/w/mister-z.md)'
+  - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
+  - s: PpW Rules Match
+- - '[Michael HT](@/w/michael-ht.md)'
+  - g: Auction of the [Triptych of the Feast](@/a/udawana-wystawa.md)
+- - '[Kalyana](@/w/kalyana.md)'
+  - 'Akane Fujita'
+  - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Gloria G Szek](@/w/gloria-g-szek.md)'
+  - '[Rozalia Nyx](@/w/rozalia-nyx.md)'
+  - 'Julia Rave'
+  - 'Sara Shade'
+  - s: "Queen Jadwiga's Battle Royal"
+- - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
+  - '[Goblin](@/w/goblin.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+- - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)(c)'
+  - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
+    s: TLC 3-Way Tag-Team Ladder Match
+- credits:
+    Host, Ring Announcer: '[Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)'
+    Commentary: '[Istociarz](@/w/istociarz.md), [Gustav Gryffin](@/w/gustav-gryffin.md)'
 {% end %}
 
 ### Highlights
 
-* TBD
+* The main part of the show was opened with the song [Prosto](https://www.youtube.com/watch?v=ALP2ZFypnHY) by KULT.
+* The rules for the scramble match were more WWE-style: whoever scores a pin last is the current winner. Jakub used it to good advantage - first guarding the ring aggressively to prevent anyone from entering, and later in the final minutes he escaped the ring entirely to prevent getting pinned himself.
+* Robert Star came out to Rodzina's theme music, carrying his Danish DPW Heavyweight Championship belt, and added it to the Super Heavyweight Showcase match on his own. Referee Seweryn officially presented the belt to the audience.
+* Olgierd came out to Czesław Niemen's [Sen o Warszawie](@/a/polish-wrestling-chants.md#songs), eagerly and loudly sung by the audience, immediately establishing him as a face.
+* Before the Women's Battle Royal match, Michael HT shared a somewhat obscure historical fact: Queen Jadwiga, whom the match was named after, was in fact crowned a King (since at that time, the title of Queen was equivalent to Queen Consort), the only woman in Polish history to carry that title.
+* Jakub, Goblin's former ally, appeared later during the match and tried convincing him to illegally use the Championship belt to strike Queen and gain the upper hand. This happened after an unfortunate bump temporarily removed Referee Seweryn from action. Goblin, after some hesitation, chose to use the belt on Jakub instead, removing him from the match.
+* There were two close calls in the TLC match. Once with The Hardcors who, sitting on the ladders alone, decided to have a celebration with some beer before pulling the belts down, which earned them some chairshots to the back. The second time happened near the end - as Boro & Mutant were reaching for the belts, the other members of Rodzina appeared with the captured Kondzio bound with rope. This distraction was enough for Vic & Oskar to drop them from the ladders and recapture the Championship.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=461462)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-brutality-10-10-2026-21-05-39) (requires paid subscription)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [krol-i-krolowa-wrestlingu]: https://en.wikipedia.org/wiki/Jadwiga_of_Poland

@@ -339,7 +339,6 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
   - s: Singles Match
     en: '[PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md)'
     ed: 2026-10-10
-    nc: upcoming
 {% end %}
 
 ## References

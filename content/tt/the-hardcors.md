@@ -24,7 +24,7 @@ Later that year, an alternate line-up of The Hardcors including [Stanisław van 
 
 #### Championship pursuit
 
-At [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), The Hardcors held _The Hardcors Hardcore Tag Team Gauntlet Invitational Match_, won by Rodzina. The team then faced and defeated Zmowa at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md). At [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), they finally beat Rodzina to capture the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) for the first time.
+At [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), The Hardcors held _The Hardcors Hardcore Tag Team Gauntlet Invitational Match_, won by Rodzina. The team then faced and defeated Zmowa at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md). At [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), they finally beat Rodzina to capture the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) for the first time. Mere two weeks later, however, they lost them to [Rodzina](@/tt/rodzina.md) ([Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)) at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), making it the shortest Tag Team reign to date.
 
 ## Members
 
@@ -53,6 +53,6 @@ At [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md), The Hardcors he
 ## Championships and accomplishments
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time, current)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time)
 
 [los-kabanosos]: https://en.wikipedia.org/wiki/Kabanos
