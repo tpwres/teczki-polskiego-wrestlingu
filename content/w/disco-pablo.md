@@ -59,6 +59,10 @@ Disco Pablo joined [Legacy of Wrestling](@/o/low.md) - a federation created most
 
 At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo faced each other in a promo segment, where Taras reiterated that it was Pablo who abadoned him first, thus destroying PAKA. After an exchange of blows, Pablo oficially challenged Taras to a match at Legacy's next show. The feud concluded at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md) where he finally defeated his ex-brother with Boro serving as a special guest referee.
 
+#### Feud with Biuro Prasowe
+
+At [Four The Glory](@/e/low/2025-12-20-low-4.md) Disco Pablo defeated [Tony Sheen](@/w/riverman.md) in a 12 Weapons of Christmas No-DQ Match. After being defeated by Tony in said match it was revealed that his rival joined [Biuro Prasowe](@/tt/biuro-prasowe.md) - a villainous stable led by [Arek Paterek](@/w/arek-paterek.md). Sheen procedeed with vicious attack on Pablo, but he was stopped by [Marcelito](@/w/marcelito.md). Pablo's and Marcelito's conflict with Biuro Prasowe led to a announcement of Six-Man Tag Team Match at [Enter The Dragon](@/e/low/2026-07-10-low-6.md). At the show itself Pablo and Marcelito were joined by [Bartosz Plata](@/w/plata.md). After the babyfaces pointed out that the Biuro is one man short, Paterek answered that they always have "a full alphabet of plans" and that "it is already three-vs-three". Before they could process that, Bartosz Plata unzipped his longsleeve, revealing a Biuro Prasowe T-shirt underneath, and proceeded to attack his former friends, which led to [Sambor](@/w/sambor.md) joining babyface team. Despite that, Biuro Prasowe overpowered Pablo's team.
+
 ## In wrestling
 
 * Finishers:
