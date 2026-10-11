@@ -16,7 +16,7 @@ caption = "Erik Šlotíř informs he's parted ways with [Prime Time Wrestling](@
 source = "erikslotir @ Instagram"
 +++
 
-Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for his run in [Prime Time Wrestling](@/o/ptw.md) between 2023 and 2025, and for [Legacy of Wrestling](@/o/low.md) from 2025 onwards.
+Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for his run in [Prime Time Wrestling](@/o/ptw.md) between 2023 and 2025, and for [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -41,7 +41,7 @@ In 2025, Šlotíř entered the tournament for the newly-created [PTW Underground
 
 Fans often called Šlotíř "Krecik", which is the Polish title of the Czechoslovakian (and later Czech) cartoon known in English as ["The Little Mole"][krtek].
 
-### Legacy of Wrestling (2025-present)
+### Legacy of Wrestling (2025-2026)
 
 Erik Šlotíř made an unexpected return to Poland, debuting in [Legacy of Wrestling](@/o/low.md). At their [second show](@/e/low/2025-04-06-low-2.md) he was the fifth mystery competitor in a Fatal Five Way Match against [Biesiad](@/w/biesiad.md), [Aron Wake](@/w/aron-wake.md), [Sambor](@/w/sambor.md) and [Shadow](@/w/shadow.md), which he won. He immediately associated himself with [Arek Paterek](@/w/arek-paterek.md) - Legacy's on-screen personality - who signed him to his stable called ["Biuro Prasowe"](@/tt/biuro-prasowe.md) (_Press Office_).
 
@@ -63,7 +63,7 @@ In June 2025 Erik made his debut for [Maniac Zone Wrestling](@/o/mzw.md), where 
   - [Arkadiusz Paterek](@/w/arek-paterek.md) (2025-2026)
 * Entrance music:
   - "Erik Slotir Theme Song" by Independent Artist
-     {{ org_badge(orgs=['low']) }} (2025-)  <br>
+     {{ org_badge(orgs=['low']) }} (2025-2026)  <br>
 
 ## References
 
