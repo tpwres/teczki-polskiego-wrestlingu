@@ -89,7 +89,7 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
   - [GLAM! Championship][cm-roe-glam] (1 time) 
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Big League Wrestling][cm-blw]:
   - [BLW Women's Championship][cm-blw-wc] (1 time; current) 
-* 🇫🇮 [Slam Wrestling Entertainment]:
+* 🇫🇮 [Slam Wrestling Entertainment][cm-slam]:
   - [SLAM Women's Championship][cm-slam-wc] (1 time) 
 
 ## References
