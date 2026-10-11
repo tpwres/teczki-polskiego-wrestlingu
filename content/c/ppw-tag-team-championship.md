@@ -196,7 +196,7 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
   - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)(c)'
   - s: TLC 3-Way Tag-Team Ladder Match
-    en: '[PpW Brutality](@/c/2026-10-10-ppw-brutality.md)'
+    en: '[PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md)'
     ed: 2026-10-10
 {% end %}
 
