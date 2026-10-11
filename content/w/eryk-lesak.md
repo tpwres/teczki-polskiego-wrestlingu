@@ -91,7 +91,7 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
     {{ music(apple='1761432224?i=1761432679')}}
   * Entrance music:
   - "Broken" by Mother Tongue
-    {{ org_badge(orgs=['low']) }} (2026-; as a member of [Biuro Prasowe](@/tt/biuro-prasowe.md) <br>
+    {{ org_badge(orgs=['low']) }} (2026-; as a member of [Biuro Prasowe](@/tt/biuro-prasowe.md)) <br>
     {{ music(yt='NqtbSCjMGKM')}}
     {{ music(spot='7Ez3wgurWkC43ZLZhJCBgf')}}
     {{ music(apple='320260598?i=320260598')}}
