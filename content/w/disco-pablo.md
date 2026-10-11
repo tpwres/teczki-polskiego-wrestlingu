@@ -66,7 +66,7 @@ At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo fac
 * With [Taras](@/w/taras.md):
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
 * Tag Teams and stables:
-  - PAKA (2021-2024)
+  - [PAKA](@/tt/paka.md) (2021-2024)
 * Entrance music:
   - "Sorry For Party Rocking" by LMFAO
     {{ org_badge(orgs=['mzw', 'low']) }} (2024-present) <br>
