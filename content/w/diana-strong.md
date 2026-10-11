@@ -44,6 +44,10 @@ Diana joined [Prime Time Wrestling](@/o/ptw.md) fairly early in its development.
 
 After PTW's reboot, which was forced by multiple controversies and [talent exodus](@/a/ptw-exits.md) caused by the failure of [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), Diana stayed with the federation and her position remained stable, since she still had the ability to compete against international female wrestlers. When Pan Pawłowski announced at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) that PTW would create their [Women's Championship](@/c/ptw-womens-championship.md), it became clear that Diana would be one of the top contenders for this title. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) PTW held the first match in a tournament, where Diana defeated Amy Heartbeat. Ulitmately the tournament plan was scrapped, when it was revealed that [Mercedes Mone](@/w/mercedes-mone.md) would made her appearance at [All About Mone](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md). Despite her effort, Diana lost to Mercedes, which resulted in her being berated by villainous [Pan Pawłowski](@/w/pan-pawlowski.md). That led to her fight against [PTW Champion](@/c/ptw-championship.md) Puncher at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), which she lost.
 
+#### PTW Women's Champion and heel turn
+
+Diana's chance for a rematch came at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md). During the match against reigning champion - Mercedes Moné - she finally regained the championship. However, her victory was occupied by turning to dark side, as she low-blowed [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) and smacked Mercedes with a title belt.
+
 ## International wrestling appearances
 
 Besides her appearances at the Polish wrestling scene Diana also works international bookings in Europe, the British Isles and even North America (e.g. SLAM Wrestling Finland, 1CW Pro Wrestling and Westside Xtreme Wrestling).
@@ -51,6 +55,15 @@ Besides her appearances at the Polish wrestling scene Diana also works internati
 In November 2025 [Pro Wrestling Illustrated][pwi-250] ranked Diana #205 on their 2025 PWI Women's 250 list, quoting her successful defenses of the GLAM! title and facing that year's #1 [Mercedes Moné](@/w/mercedes-mone.md).
 
 On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for a Japanese women's promotion, Dream Star Fighting Marigold, where she was booked for the annual Dream★Star Grand Prix 2026 tournament.
+
+#### International wrestling accomplishments
+
+* Rings of Europe:
+  - GLAM! Championship (1 time) - (25.10.2024 - 19.06.2026)
+* Big League Wrestling:
+  - BLW Women's Championship (1 time) - (14.11.2025 - present)
+* Slam Wrestling Entertainment:
+  - SLAM Women's Championship (1 time) - (07.03.2026 - 27.03.2026)
 
 ## In wrestling
 
@@ -60,7 +73,7 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
   - [Moloch](@/w/moloch.md) (2018)
 * Entrance music:
   - "Iconic" by Ledger
-    {{ org_badge(orgs=['ptw']) }} (2021-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2025) <br>
     {{ music(yt='EcpAfOZlMnk')}}
     {{ music(spot='75sYImCjS4sB3Xrdrae1OZ')}}
     {{ music(apple='1366486807?i=1366487205')}}
