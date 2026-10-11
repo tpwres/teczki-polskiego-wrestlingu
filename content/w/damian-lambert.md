@@ -14,7 +14,7 @@ Damian Lambert is a Polish wrestler formerly working for [Prime Time Wrestling](
 
 ## Basic info
 
-* Years active: 2015-2019, 2025-
+* Years active: 2015-2019, 2025-2026
 * Gimmicks/nicknames:
   - Damian Lambert {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }}
   - Damien Rotschild {{ org_badge(orgs=['mzw']) }}
@@ -67,6 +67,9 @@ During his British excursion Lambert made appearances in two matches for Coventr
 
 * Finishers:
   - _Lambert Lock_ (Armbar) (2015-2019)
+  - Standing Spanish Fly (2026)
+* Tag Teams and Stables:
+  - Proroctwo (2026)
 * Entrance music:
   - "NieWolnOść" by Hunter
     {{ org_badge(orgs=['mzw']) }} (2017-2019) <br>
