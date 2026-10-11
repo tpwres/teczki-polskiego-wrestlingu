@@ -1,7 +1,7 @@
 +++
 title = "PpW Brutality"
 template = "event_page.html"
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych"]
 aliases = ["/e/ppw/2026-10-10-ppw-minska-65"]
 [taxonomies]
 chronology = ["ppw"]
@@ -9,7 +9,7 @@ venue = ["minska-65"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -51,7 +51,7 @@ has_video = false
     s: Super Heavyweight Showcase
 - - '[Mister Z](@/w/mister-z.md)'
   - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
-  - s: 'PpW Rules Match'
+  - s: PpW Rules Match
 - - '[Michael HT](@/w/michael-ht.md)'
   - g: Auction of the [Triptych of the Feast](@/a/udawana-wystawa.md)
 - - '[Kalyana](@/w/kalyana.md)'
@@ -67,7 +67,7 @@ has_video = false
   - c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
   - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)(c)'
   - c: '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
     s: TLC 3-Way Tag-Team Ladder Match
 - credits:
@@ -79,14 +79,14 @@ has_video = false
 ### Highlights
 
 * The main part of the show was opened with the song [Prosto](https://www.youtube.com/watch?v=ALP2ZFypnHY) by KULT.
-* The rules for the scramble match were more WWE-style: whoever scores a pin last is the current winner. Jakub used it to good advantage - first guarding the ring aggressively to prevent anyone from entering, and later in the final minutes, escaped the ring entirely to prevent getting pinned himself.
-* Robert Star came out to Rodzina's theme music, with his Danish DPW Heavyweight Championship belt, and added it to the Super Heavyweight Showcase match on his own. Referee Seweryn officially presented the belt to the audience.
-* Olgierd came out to Czesław Niemen's [Sen o Warszawie](@/a/polish-wrestling-chants.md#Songs), eagerly and loudly sung by the whole audience, immediately gaining face pop.
+* The rules for the scramble match were more WWE-style: whoever scores a pin last is the current winner. Jakub used it to good advantage - first guarding the ring aggressively to prevent anyone from entering, and later in the final minutes he escaped the ring entirely to prevent getting pinned himself.
+* Robert Star came out to Rodzina's theme music, carrying his Danish DPW Heavyweight Championship belt, and added it to the Super Heavyweight Showcase match on his own. Referee Seweryn officially presented the belt to the audience.
+* Olgierd came out to Czesław Niemen's [Sen o Warszawie](@/a/polish-wrestling-chants.md#songs), eagerly and loudly sung by the whole audience, which immediately gained him face pop.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=461462)
-* [Full show on PpW VOD](https://tu-dac-linka-jak-sie-obudza.pl) (requires paid subscription)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-brutality-10-10-2026-21-05-39) (requires paid subscription)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [krol-i-krolowa-wrestlingu]: https://en.wikipedia.org/wiki/Jadwiga_of_Poland
