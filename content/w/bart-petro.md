@@ -16,7 +16,7 @@ Bart Petro is a Polish wrestler best know for his appearances for [Fundacja Rozw
 
 * Years active: 2025-present
 * Gimmicks/nicknames:
-  - Bart Petro{{ org_badge(orgs=['ptw', 'frpw']) }} (2025-present)
+  - Bart Petro{{ org_badge(orgs=['ptw', 'frpw', 'ppw']) }} (2025-present)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2019)
   - Revolution Pro Wrestling (2024-present)
@@ -40,6 +40,10 @@ Petro made a surprise appearance at [FRPW Dojo Showcase #2](@/e/frpw/2026-07-19-
 
 At [Wrestling w Twoim Mieście - Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Bart fought in the first round of the HeelTurn Invitational Tournament, but was eliminated by [Goblin](@/w/goblin.md).
 
+### PpW Ewenement Wrestling (2026-present)
+
+Petdo debuted for PpW at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), winning the pre-show match against [Oskar Haller](@/w/oskar-haller.md), [Markus Paskal](@/w/markus-paskal.md) and [Marcelito](@/w/marcelito.md).
+
 ## In wrestling
 
 * Finishers:
@@ -59,6 +63,10 @@ At [Wrestling w Twoim Mieście - Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) B
     {{ music(yt='euM2Mu6VlVs')}}
     {{ music(spot='0GSW8vwTTyk56SScQs0UIl')}}
     {{ music(apple='1098788743?i=1098788934')}}
+  - "Nocny Pociąg" by Nocny Kochanek
+    {{ org_badge(orgs=['ppw'] )}} (2026-)<br>
+    {{ music(yt='1FMq0ynEapM')}}
+    {{ music(spot='0n5KqZPF1mYogwJAsofU49') }}
 
 ## Internet presence
 

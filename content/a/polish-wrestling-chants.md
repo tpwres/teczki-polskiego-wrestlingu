@@ -72,7 +72,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Zjedz mu łeb_ - "Eat his head": same. Once actually acted upon by [Samson](@/w/samson.md), who [bit his opponent on the head](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) to a great pop (and later picked up by some other wrestlers as well). Most popular in Wrocław. In 2025, MZW [named a show](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) after this chant. \
   {% ipa(tts="Zjedz mu łeb") %}zjˈɛt͡s mˈu wˈɛp{% end %}
 * _Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]_ - "Leave [wrestler] alone, you bitch": when a babyface receives too much punishment. \
-  At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek". \
+  At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek". [PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) saw two more variants with _zostaw Madziara_ and _zostaw Japońca_ (Hungarian and Japanese, respectively), this time keeping the expletive and placing the nationality as the sentence's object. \
   {% ipa(tts="Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]") %}zˈɔstaf &#91;vrɛstlˈɛra&#93;, tˈɨ kˈurvɔ, zˈɔstaf &#91;vrɛstlˈɛra&#93;{% end %} 🌶️🌶️
 * _Zrób mu z dupy buzię_ - "Make his ass into a face": a general, is somewhat nonsensical, encouragement of violent action. Note, that the word "buzia" is a rather childish term for a face, not typically expected in a context like this. \
   {% ipa(tts="Zrób mu z dupy buzię") %}zrˈup mu z dˈupɨ bˈuʑɛ{% end %} 🌶️
@@ -141,6 +141,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Golden to pała, wygląda mi na pedała") %}ɡˈɔldɛn tɔ pˈawa, vɨɡlˈɔnda mi na pɛdˈawa{% end %}
 * _Goldenowi liże jaja, Oskar to faja_ - "He licks Golden's balls, Oskar's a prick": used against [Oskar Alexander](@/w/oskar-alexander.md), in tag team with [Vic Golden](@/w/vic-golden.md). To the tune of [Freed From Desire][ffd]. \
   {% ipa(tts="Goldenowi liże jaja, Oskar to faja") %}ɡˌɔldɛnˈɔvi lˈiʒɛ jˈaja, ˈɔskar tɔ fˈaja{% end %}
+* _Kak_ - "Cuck": used against [Marcelito](@/w/marcelito.md) (adapted to Polish spelling). \
+  {% ipa(tts="Kak") %}kˈak{% end %}
 * _Karasie jedzą gówno_ - "[Crucian carps][carassius-carassius] eat shit": used against ["The Riverman" Tony Sheen](@/w/riverman.md), matching his fisherman gimmick. The chant comes from a Polish copypasta. \
   {% ipa(tts="Karasie jedzą gówno") %}karˈaɕɛ jˈɛd͡ʑɔ̃ ɡˈuvnɔ{% end %} 🌶️
 * _Legia to stara kurwa_ - "Legia is an old whore": a stadium chant against football club Legia Warszawa, and by extension, the hooligan [Olgierd](@/w/olgierd.md), or the team of [Legia Łysych](@/tt/legia-lysych.md): [Marco Hammers](@/w/marco-hammers.md) and Olgierd. \
