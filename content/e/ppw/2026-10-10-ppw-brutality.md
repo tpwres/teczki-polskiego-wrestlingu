@@ -81,7 +81,10 @@ has_video = true
 * The main part of the show was opened with the song [Prosto](https://www.youtube.com/watch?v=ALP2ZFypnHY) by KULT.
 * The rules for the scramble match were more WWE-style: whoever scores a pin last is the current winner. Jakub used it to good advantage - first guarding the ring aggressively to prevent anyone from entering, and later in the final minutes he escaped the ring entirely to prevent getting pinned himself.
 * Robert Star came out to Rodzina's theme music, carrying his Danish DPW Heavyweight Championship belt, and added it to the Super Heavyweight Showcase match on his own. Referee Seweryn officially presented the belt to the audience.
-* Olgierd came out to Czesław Niemen's [Sen o Warszawie](@/a/polish-wrestling-chants.md#songs), eagerly and loudly sung by the whole audience, which immediately gained him face pop.
+* Olgierd came out to Czesław Niemen's [Sen o Warszawie](@/a/polish-wrestling-chants.md#songs), eagerly and loudly sung by the audience, immediately establishing him as a face.
+* Before the Women's Battle Royal match, Michael HT shared a somewhat obscure historical fakt: Queen Jadwiga, whom the match was named after, was in fact crowned as a King (since at that time, the title of Queen was equivalent to Queen Consort), the only woman in Polish history to carry that title.
+* Jakub, Goblin's former ally appeared later during the match and tried convincing him to illegally use the championship belt to strike Queen and gain the upper hand. This happened after an unfortunate bump removed Referee Sewi from action temporarily. Goblin, after some hesitation, chose to use the belt on Jakub instead, removing him from the match.
+* There were two close calls in the TLC match. Once with The Hardcors, who sitting on the ladders alone, decided to have a celebration with some beer before pulling the belts down, which earned them some chairshots to the back. And the second time, near the end as Boro & Mutant were reaching for the belts, the other members of Rodzina appeared, with th captured Kondzio bound with rope. This distraction was enough for Vic & Oskar to drop them from the ladders and recapture the championship.
 
 ## References
 
