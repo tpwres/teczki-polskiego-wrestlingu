@@ -29,21 +29,27 @@ Bumper first appeared as a rookie at [All About the Moné](@/e/ptw/2025-07-27-pt
 
 After their loss at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) the duo broke up. [Damian Lambert](@/w/damian-lambert.md) interfered in a post-match altercation between the two. Driving Bumper away, he offered Dropper a lucha mask but was refused. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena. At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself as _The Prophet_ and Dropper, now renamed Whiteblade, became his follower, thus ensuring no reformation of Bump & Drop in the near future.
 
-#### Transformation into Fabian
+#### Transformation into Fabian and cooperation with VaDique
 
-Over the following weeks, Bumper's social media presented his transformation. After releasing a _Confession_ video, airing his grievances about his losing streak, he was approached by a new figure in PTW's universe - a talent agent Dominique VaDique, leader of _Le VaDique Brand_. Instead of calling him Bumper, she referred to him as "Fabian", apparently using his real name. At her behest, Bumper's transformation began. Over the weeks he shared videos of attending fashion shows and theatre plays, gradually changing his look into a more posh one and embracing the "Fabian" identity. At some point he changed his Instagram handle to _@fabian_ptw_. Later on he cut his hair and declared that his ring name was now Fabian - which he pronounced (and over-emphasised) as /fa'bjɔ̃/.
+Over the following weeks, Bumper's social media presented his transformation. After releasing a _Confession_ video, airing his grievances about his losing streak, he was approached by a new figure in PTW's universe - a talent agent Dominique VaDique, leader of _Le VaDique Brand_. Instead of calling him Bumper, she referred to him as "Fabian", apparently using his real name. At her behest, Bumper's transformation began. Over the weeks he shared videos of attending fashion shows and theatre plays, gradually changing his look into a more posh one and embracing the "Fabian" identity. At some point he changed his Instagram handle to _@fabian_ptw_. Later on he cut his hair and declared that his ring name was now Fabian - which he pronounced (and over-emphasised) as /fa'bjɔ̃/. Fabian's cooperation with Dominique lasted rather shortly, as after a few appearances Fabian lost to [Boguś](@/w/bogus.md) at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) and the duo effectively fired each other.
+
+#### Feud with Kalom and Razor
+
+Shortly after parting ways with Dominique Fabian took part in PTW's Lucky 8 programme in which he bacame a mentor to one of [PTW Academy](@/o/ptw-academy.md) rookies: Piotrek (repackaged as "Pierre" by Fabian himself). During said programme Fabian and his unwilling apprentice got into feud with [Daniel Razoor](@/w/daniel-razor.md) and his trainee [Kalom](@/w/kalom.md). 
 
 ## In wrestling
 
+* Finishers:
+  - Argentine Facebuster (2026-)
+* Managers:
+  - Dominque VaDique (2026)
 * Tag Teams and Stables:
-  - Bump & Drop (2025-)
-
-## Championships and accomplishments
-* [Prime Time Wrestling](@/o/ptw.md)
-  - Golden Fabian (3 times)
-    * Best Looking Wrestler (2026)
-    * Best Match in History (2026)
-    * Best Wrestler in History (2026)
+  - Bump & Drop (2025-2026)
+* Entrance music:
+  - "Celebrity" by S-Preme
+  {{ org_badge(orgs=['ptw']) }} (2026-) <br>
+  {{ music(yt='EHoe31Qvl5s')}}
+  {{ music(spot='22mPeun9Y9IBSJJBGNBfnA')}}
 
 ## Internet presence
 
