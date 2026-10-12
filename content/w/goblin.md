@@ -144,7 +144,7 @@ In February 2026 PpW announced that Goblin would be part of their excurion to Ja
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Gustav Gryffin](@/w/gustav-gryffin.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Gustav Gryffin](@/w/gustav-gryffin.md) as part of [Bad Trip](@/tt/bad-trip.md)
   - 20 Typa 20 Broni Rumble Match (2025)
   - [Złoty Ewenement](@/a/zlote-ewenementy.md) (1 time):
      * Match of the Year - vs [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)
