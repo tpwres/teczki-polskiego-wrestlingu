@@ -191,7 +191,7 @@ An even more condensed version, in the form of a timeline graph covering the mod
 * PpW holds [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in Tokyo, in cooperation with Big Japan Pro Wrestling and other local promotions. [Abdullah Kobayashi](@/w/abdullah-kobayashi.md) wins the vacant [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md), marking the first time a Polish title changed hands outside of Poland.
 * [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) is established.
 * [Olgierd](@/w/olgierd.md) is booked for a match at [KPW Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), which marks two significant milestones: it makes him the first active wrestler from another promotion to work for [KPW](@/o/kpw.md), and the first Polish wrestler to have worked for all active federations in the country as of 2026 ([PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md)).
-* Polish pro wrestling sees its longest uninterrupted streak: 16 weeks, during which a total of 21 shows is held on each weekend. The streaks begins on [28.08.2028](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) and lasts until [12.12.2026](@/e/ptw/2026-12-12-ptw-wszystko-albo-nic.md).
+* Polish pro wrestling sees its longest uninterrupted streak: 16 weeks, during which a total of 22 shows is held on each weekend. The streaks begins on [28.08.2028](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) and lasts until [12.12.2026](@/e/ptw/2026-12-12-ptw-wszystko-albo-nic.md).
 * [Center of Wrestling](@/o/cow.md) is established.
 * Arkadiusz Pawłowski exits [Prime Time Wrestling](@/o/ptw.md), [Łukasz Okoński](@/w/lukasz-okonski.md) becomes the sole owner of PTW.
 
