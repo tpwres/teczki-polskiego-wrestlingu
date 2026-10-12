@@ -60,6 +60,10 @@ This betrayal led to his rivalry with Rosetti, which resulted in a double-count 
 
 His face turn was made clear at [Arena 28](@/e/kpw/2025-04-11-kpw-arena-28.md) where he was getting plenty of pop, and during the new chairman induction ceremony he visibly sided with other babyfaces; then at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) after [Zefir](@/w/zefir.md) won the [KPW Championship](@/c/kpw-championship.md), Greg joined him and other faces in celebration of the new Champion. However, since the turn Greg hasn't yet shown a new direction for his character, remaining a "good guy" version of Pope Pijus I.
 
+#### KPW Championship pursuit
+
+At [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) Greg won a Triple Threat Match for #1 Contendership for KPW's main title, but in a build-up for [next Arena show](@/e/kpw/2026-04-24-kpw-arena-33.md) [Chairman Malinowski](@/w/krystian-malinowski.md) declared that Greg will not fight reigining champion - [Zefir](@/w/zefir.md) -  for the title. Malinowski later explained that him asking [Hans Schulte](@/w/hans-schulte.md) - present at Arena 32 as a guest rather than a wrestler - to fight Zefir was not entirely fair to the German, so a match against Greg was the Chairman's way of making up for Schulte's loss of contendership at the previous event. Additionally it was meant to balance the scales, as Schulte fought twice for the Contendership, whereas Greg had only one match. Despite the obvious setback Greg managed to defeat Schulte in Singles Match and he once more became #1 Contender. His match for KPW Championship took place at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md), where he faced reigning champion [Iestyn Rees](@/w/iestyn-rees.md) - as well as unlawfully stripped of championship Zefir. Both of them were unable to score a victory over reigning champion.
+
 ### Legacy of Wrestling (2025)
 
 On 17.03.2025, it was confirmed that Greg and another legend of Polish wrestling scene, [Vic Golden](@/w/vic-golden.md), would face each other at [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md). This match is the [Legacy](@/o/low.md) debut for both of them.
