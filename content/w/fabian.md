@@ -35,7 +35,7 @@ Over the following weeks, Bumper's social media presented his transformation. Af
 
 #### Feud with Kalom and Razor
 
-Shortly after parting ways with Dominique Fabian took part in PTW's Lucky 8 programme in which he bacame a mentor to one of [PTW Academy](@/o/ptw-academy.md) rookies: Piotrek (repackaged as "Pierre" by Fabian himself). During said programme Fabian and his unwilling apprentice got into feud with [Daniel Razoor](@/w/daniel-razor.md) and his trainee [Kalom](@/w/kalom.md). 
+Shortly after parting ways with Dominique, Fabian took part in PTW's Lucky 8 programme in which he bacame a mentor to one of [PTW Academy](@/o/ptw-academy.md) rookies: Piotrek (repackaged as "Pierre" by Fabian himself). During said programme Fabian and his unwilling apprentice got into a feud with [Daniel Razor](@/w/daniel-razor.md) and his trainee, [Kalom](@/w/kalom.md). 
 
 ## In wrestling
 

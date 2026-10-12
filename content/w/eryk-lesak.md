@@ -48,7 +48,6 @@ At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) Lesak got into a rivalry with 
 
 Lesak attempted to use his contract a couple more times, at [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md) and [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md), however both times yielded no results - at the former show he took too long to cash in, allowing the moment to pass, and at the latter the fight (which he lost) wasn't counted, as the timekeeper didn't ring the bell. It wasn't until [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) that he finally managed to use the contract properly and challenged the exhausted Leon Lato right after his fight, winning the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) for himself.
 
-
 ### Legacy of Wrestling (2026-present)
 
 Lesak debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Syriusz Dziedzic](@/w/dziedzic.md). At the same show, he joined [Biuro Prasowe](@/tt/biuro-prasowe.md).
@@ -71,7 +70,7 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
     {{ music(spot='4f3RDq9nYPBeR1yMSgnmBm')}}
     {{ music(apple='207178130?i=207178401')}}
   - "Desert Cruiser" by Truckfighters
-    {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Opol) <br>
+    {{ org_badge(orgs=['kpw']) }} (2021, in tag team with [Opol](@/w/piotr-opolski.md)) <br>
     {{ music(yt='JLMPA4xPFpg')}}
     {{ music(spot='6dDdhX8byHKApki5TuOqjS')}}
     {{ music(apple='1568953211?i=1568953212')}}
@@ -81,7 +80,7 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
     {{ music(spot='0iUrxveyNUBfj0cqjYEijt')}}
     {{ music(apple='1627535453?i=1627535463')}}
   - "Yekteniya I" by Batushka
-    {{ org_badge(orgs=['kpw']) }} (2023; in tag team with [Chemik](@/w/chemik.md)) <br>
+    {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Chemik](@/w/chemik.md)) <br>
     {{ music(yt='XCMNqKuuFC4')}}
     {{ music(cc='pl', apple='1152475900?i=1152476251')}}
   - "Metaphonk" by Infraction
@@ -91,7 +90,7 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
     {{ music(apple='1761432224?i=1761432679')}}
   * Entrance music:
   - "Broken" by Mother Tongue
-    {{ org_badge(orgs=['low']) }} (2026-; as a member of [Biuro Prasowe](@/tt/biuro-prasowe.md)) <br>
+    {{ org_badge(orgs=['low']) }} (2026-, as a member of [Biuro Prasowe](@/tt/biuro-prasowe.md)) <br>
     {{ music(yt='NqtbSCjMGKM')}}
     {{ music(spot='7Ez3wgurWkC43ZLZhJCBgf')}}
     {{ music(apple='320260598?i=320260598')}}

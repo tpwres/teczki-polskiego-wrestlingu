@@ -22,7 +22,7 @@ Flex Skywalker is an Austrian wrestler, known to Polish audiences from his work 
 
 ### Prime Time Wrestling (2025-)
 
-Flex Skywalker made his debut on Polish soil at [Prime Time Wrestling](@/o/ptw.md). In July 2025 at [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) he faced - and lost to - [Spartan](@/w/spartan.md). From that point on he started making semi-regular appearances for Polish promotion.
+Flex Skywalker made his debut on Polish soil at [Prime Time Wrestling](@/o/ptw.md). In July 2025 at [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) he faced - and lost to - [Spartan](@/w/spartan.md). From that point on he started making semi-regular appearances for the Polish promotion.
 
 ## Internet presence
 

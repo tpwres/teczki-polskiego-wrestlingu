@@ -86,18 +86,18 @@ Soon after at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-k
 
 #### Rodzina
 
-After Rodzina forced Gabriel Queen into their ranks, the situation in the group almost immediately worsened. Rodzina struggled with chasing after the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) while being overtaken by both [Zmowa](@/tt/zmowa.md) and [Bad Trip](@/tt/bad-trip.md). The situation got increasingly complicated during Vic's short-term hiatus during most intensive pursuit for the Championship. During that time one of the core members of Rodzina: [Agatka](@/w/agentka-agatka.md) grew increasingly more frustrated with Vic's absence - often critisising him in front of Rodzina, which was especially approved of by Queen. Growing tensions finally erupted at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), where Queen refused to take an oath of fealty and attacked Vic, Oskar and [Filip Fux](@/w/filip-fux.md). Swayed Agatka joined Gabriel and officially left Rodzina.
+After Rodzina forced Gabriel Queen into their ranks, the situation in the group almost immediately worsened. Rodzina struggled with chasing after the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) while being overtaken by both [Zmowa](@/tt/zmowa.md) and [Bad Trip](@/tt/bad-trip.md). The situation got increasingly complicated during Vic's short-term hiatus in the middle of the most intensive pursuit for the Championship. During that time [Agatka](@/w/agentka-agatka.md), one of the core members of Rodzina, grew increasingly more frustrated with Vic's absence - often critisising him in front of Rodzina, which was especially approved of by Queen. Growing tensions finally erupted at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), where Queen refused to take an oath of fealty and attacked Vic, Oskar and [Filip Fux](@/w/filip-fux.md). Swayed Agatka joined Gabriel and officially left Rodzina.
 
 #### PpW Champion
 
-After breaking off Rodzina's leash Gabriel quickly stepped into Main Event scene, as at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) he entered Ladder Match in which he secured contract granting him a Match for [PpW Championship](@/c/ppw-championship.md). Queen used it later the same night, as he got himself into the match between [Olgierd](@/w/olgierd.md) and [Biesiad Strong](@/w/biesiad.md). Ulitimately, he managed to win the championship by pinning defending champion Olgierd. 
+After breaking off Rodzina's leash Gabriel quickly stepped into the Main Event scene, as at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) he entered the Ladder Match in which he secured a contract granting him a match for the [PpW Championship](@/c/ppw-championship.md). Queen used it later the same night, inserting himself into the match between [Olgierd](@/w/olgierd.md) and [Biesiad Strong](@/w/biesiad.md). Ulitimately, he managed to win the Championship by pinning the defending Champion, Olgierd. 
 
-Shortly after his nemesis and former friend - Vic Golden - challenged him for said championship at [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md). After fierce fight Gabriel managed to succesfully score his first title defence against one of his biggest rivals - possibly earning a closure for his story with Vic. 
-His next title defence took place at hometown, where he defeated former champion [Olgierd](@/w/olgierd.md) at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md) where he made yet championship defence, marking his domination both over Rodzina and Zmowa.
+Shortly after his nemesis and former friend Vic Golden challenged him for said Championship at [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md). After a fierce fight Gabriel managed to succesfully score his first title defence against one of his biggest rivals - possibly earning a closure for his story with Vic. 
+His next title defence took place in his hometown, where he defeated former Champion [Olgierd](@/w/olgierd.md) at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md), marking his domination both over Rodzina and Zmowa.
 
-At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Queen has been challenged by yet another rival - [Jacob Crane](@/w/jacob-crane.md) - who challenged him not only for the Championship, but also for closure in their long-lasting rivalry in PpW in which they shared exactly one win against each other in Singles Matches. The trilogy ended in 30-Minute Iron Man Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), in which Gabriel defeated Jacob.
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Queen was been confronted by yet another rival - [Jacob Crane](@/w/jacob-crane.md) - who challenged him not only for the Championship, but also for a closure in their long-lasting rivalry in PpW, in which they shared exactly one win against each other in Singles Matches. The trilogy ended in a 30-Minute Iron Man Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) with Gabriel defeating Jacob.
 
-After dealing with old foes the time for friends has come. While Queen defeated Jacob at Chaos na Rewirach, [Goblin](@/w/goblin.md) managed to earn #1 Contendership against [Mister Z](@/w/mister-z.md) the same night. Despite their friendship and sportsmanship declaration the relationship between two of them has been stirred a little by [Jakub](@/w/jakub.md), who tried to sour the relation between the duo. At [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) Goblin came very close to defeating Queen, but intervention of Jakub and moment of Goblin's hesitation led to Queen making yet another title defence. This marked his third successful victory over former PpW Champions in his reign.
+After dealing with old foes came the time for friends. While Queen defeated Jacob at Chaos na Rewirach, [Goblin](@/w/goblin.md) managed to earn the #1 Contendership against [Mister Z](@/w/mister-z.md) the same night. Despite their mutual friendship and a declaration of sportsmanship, the duo's relationship was soured a little by [Jakub](@/w/jakub.md) who looked to sow discord between the two. At [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) Goblin came very close to defeating Queen, but Jakub's intervention and a moment of Goblin's hesitation led to Queen making yet another title defence. This marked his third successful victory over former PpW Champions in his reign.
 
 ### Legacy of Wrestling (2024-2025)
 
@@ -112,7 +112,7 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
 
 In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to take part in PpW's excursion to Japan in March 2026, at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Chris Brookes in a Singles Match. Not long after, Gabriel's Japanese debut was moved even earlier, to Big Japan Pro Wrestling's [BJ VOYAGER!][bjw-voy] show on March 7th.
 
-At September 30th, 2026 Gabriel Queen managed to win wXw Academy Championship, which marked him the very first Polish wrestler to win a championship in Westside Xtreme Wrestling development system.
+On 30.09.2026 Gabriel Queen managed to win the wXw Academy Championship, making him the very first Polish wrestler to win a title in the Westside Xtreme Wrestling development system.
 
 ## In wrestling
 
@@ -152,8 +152,8 @@ At September 30th, 2026 Gabriel Queen managed to win wXw Academy Championship, w
 
 #### International wrestling accomplishments:
 
-* 🇩🇪 [wXw Wrestling Academy][cm-wxw-a]:
-  - [wXw Academy Championship][cm-wxw-a-c] (1 time)
+* 🇩🇪 [wXw Wrestling Academy][cm-wxwa]:
+  - [wXw Academy Championship][cm-wxwa-c] (1 time)
 
 ## Internet presence
 
@@ -167,5 +167,5 @@ At September 30th, 2026 Gabriel Queen managed to win wXw Academy Championship, w
 
 [bjw-voy]: https://bjw.co.jp/schedule/s2026-03-07/
 [noventa-baitem-gros-noventa-nuova-era]: https://www.facebook.com/reel/998631633222564
-[cm-wxw-a]: https://www.cagematch.net/?id=8&nr=1549
-[cm-wxw-a-c]: https://www.cagematch.net/?id=5&nr=6056
+[cm-wxwa]: https://www.cagematch.net/?id=8&nr=1549
+[cm-wxwa-c]: https://www.cagematch.net/?id=5&nr=6056

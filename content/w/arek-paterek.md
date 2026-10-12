@@ -62,7 +62,7 @@ Arek Paterek appeared at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero
     {{ music(spot='5MRnl37NzHpo0qwtvjFeBj')}}
     {{ music(apple='297419027?i=297419061')}}
   - "Broken" by Mother Tongue
-    {{ org_badge(orgs=['low']) }} (2026-; as member of [Biuro Prasowe](@/tt/biuro-prasowe.md)) <br>
+    {{ org_badge(orgs=['low']) }} (2026-, as member of [Biuro Prasowe](@/tt/biuro-prasowe.md)) <br>
     {{ music(yt='NqtbSCjMGKM')}}
     {{ music(spot='7Ez3wgurWkC43ZLZhJCBgf')}}
     {{ music(apple='320260598?i=320260598')}}
