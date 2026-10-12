@@ -152,8 +152,8 @@ At September 30th, 2026 Gabriel Queen managed to win wXw Academy Championship, w
 
 #### International wrestling accomplishments:
 
-* wXw Wrestling Academy:
-  - wXw Academy Championship (1 time)
+* 🇩🇪 [wXw Wrestling Academy][cm-wxw-a]:
+  - [wXw Academy Championship][cm-wxw-a-c] (1 time)
 
 ## Internet presence
 
@@ -167,3 +167,5 @@ At September 30th, 2026 Gabriel Queen managed to win wXw Academy Championship, w
 
 [bjw-voy]: https://bjw.co.jp/schedule/s2026-03-07/
 [noventa-baitem-gros-noventa-nuova-era]: https://www.facebook.com/reel/998631633222564
+[cm-wxw-a]: https://www.cagematch.net/?id=8&nr=1549
+[cm-wxw-a-c]: https://www.cagematch.net/?id=5&nr=6056
