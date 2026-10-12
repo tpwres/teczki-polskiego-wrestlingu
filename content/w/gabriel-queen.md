@@ -122,7 +122,7 @@ On 30.09.2026 Gabriel Queen managed to win the wXw Academy Championship, making 
   - Running Lariat (2024-2025) - used as signature afterwards
   - Single Leg Boston Crab (2023)
   - Double Underhook Inverted Slam (2021)
-* With [Vic Golden](@/w/vic-golden.md)
+* With [Vic Golden](@/w/vic-golden.md):
   - _Golden Shower_ (Simultaneous Running European Uppercut (Queen) / Running Drop Toe Hold (Golden) combination) (2022-2025)
 * Tag Teams and stables:
   - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
