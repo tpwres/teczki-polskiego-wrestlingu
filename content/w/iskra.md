@@ -49,4 +49,4 @@ Iskra made a surprise return at [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-
 
 ## Internet presence
 
-* [Instagram](https://www.instagram.com/iskra_wrestling/)
+* [Iskra's Instagram profile](https://www.instagram.com/iskra_wrestling/)
