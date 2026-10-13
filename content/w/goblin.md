@@ -13,7 +13,7 @@ country = ["PL"]
 3 = { path = "el-duende-polaco.jpg", caption = "ARENA PEPE Cisneros announced Goblin would appear in Mexico on 15.09.2024.", source = "Official ARENA PEPE Cisneros Facebook" }
 +++
 
-Goblin is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md). He is also one of co-founders of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
+Goblin is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md). He is also a co-founder of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
@@ -92,7 +92,7 @@ At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Gustav revealed an in
 
 #### Return to singles competition
 
-After Gustav's injury and putting Bad Trip on hiatus, Goblin returned to solo competition and his rivalry with Zmowa. At [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) he teamed up with his friend [Gabriel Queen](@/w/gabriel-queen.md) to fight off Zmowa in a Hardcore Tag Team Match. At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) he earned #1 Contendership for PpW Championship held by Gabriel Queen, which resulted in a match between friends at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md). During said match one of Goblin's former friends turned foes - [Jakub](@/w/jakub.md) - tempted Goblin to cheat to secure him his second PpW Championship reign. Goblin however refused to do such vile thing to Gabriel, which turned against him as he was defeated by "Poznański Luj".
+After Gustav's injury put Bad Trip on hiatus, Goblin returned to solo competition and his rivalry with Zmowa. At [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) he teamed up with his friend [Gabriel Queen](@/w/gabriel-queen.md) to fight off Zmowa in a Hardcore Tag Team Match. At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) he earned #1 Contendership for the PpW Championship held by Gabriel Queen, which resulted in a match between friends at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md). During that match one of Goblin's former friends-turned-foes - [Jakub](@/w/jakub.md) - tempted Goblin to cheat to secure him his second PpW Championship reign. Goblin however refused to do such a vile thing to Gabriel, which backfires as he was defeated by the "Poznań Rascal".
 
 ### Maniac Zone Wrestling (2025)
 
@@ -100,9 +100,9 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In May 2026 Goblin, along with Gustav Gryffin and [Jacob Crane](@/w/jacob-crane.md), announced the establishment of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_) - an organisation dedicated to the development of the Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md), a wrestling school previously known as Ewenement Dojo. 
+In May 2026 Goblin, along with Gustav Gryffin and [Jacob Crane](@/w/jacob-crane.md), announced the establishment of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_), an organisation dedicated to the development of the Polish wrestling scene. FRPW runs independent shows and operates [Warszawska Szkoła Wrestlingu](@/o/dojo.md), a wrestling school previously known as Ewenement Dojo. 
 
-Goblin entered HeelTurn Invitational Tournament and managed to win in first round in a match against [Bart Petro](@/w/bart-petro.md), which took place at FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).
+Goblin entered the HeelTurn Invitational Tournament and managed to win a first round match against [Bart Petro](@/w/bart-petro.md), which took place at FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).
 
 ## International wrestling appearances
 
@@ -144,7 +144,7 @@ In February 2026 PpW announced that Goblin would be part of their excurion to Ja
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Gustav Gryffin](@/w/gustav-gryffin.md) as part of [Bad Trip](@/tt/bad-trip.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Gustav Gryffin](@/w/gustav-gryffin.md) as [Bad Trip](@/tt/bad-trip.md)
   - 20 Typa 20 Broni Rumble Match (2025)
   - [Złoty Ewenement](@/a/zlote-ewenementy.md) (1 time):
      * Match of the Year - vs [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)

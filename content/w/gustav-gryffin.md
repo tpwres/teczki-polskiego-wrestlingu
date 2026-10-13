@@ -84,7 +84,7 @@ Despite the fact that Gustav and Goblin were drastically outnumbered in their fi
 
 #### 2026 pause and commentary role
 
-At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), Gustav cut a promo explaining his recently diagnosed health issues which he'd been carrying for the past six months: a torn [ACL][acl]. Due to the surgery and recovery period required, he announced he'd be stepping down from the ring for a year. Immediately thereafter he and Goblin were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md). As Gustav underwent surgery and started his rehabilitation, he joined [Istociarz](@/w/istociarz.md) to work together as commentators during Gustav's recovery.
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Gustav cut a promo explaining his recently-diagnosed health issues which he'd been carrying for the past six months: a torn [ACL][acl]. Due to the surgery and recovery period required, he announced he'd be stepping down from the ring for a year. Immediately thereafter he and Goblin were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md). As Gustav underwent surgery and started his rehabilitation, he joined [Istociarz](@/w/istociarz.md) to work together as commentators during his recovery.
 
 ### Maniac Zone Wrestling (2023-present)
 
@@ -107,7 +107,7 @@ At [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md) he partici
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In May 2026 Gustav - along with Goblin and [Jacob Crane](@/w/jacob-crane.md) - announced the establishment of a foundation called [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_) - an organisation dedicated to development of the Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - a wrestling school previously known as Ewenement Dojo. Due to his major injury announced in July 2026 he was sidelined from active roster for forseeable future, remaining in FRPW as vital off-screen personality while making occasional on-screen appearances as FRPW's spokeperson.
+In May 2026 Gustav, along with Goblin and [Jacob Crane](@/w/jacob-crane.md), announced the establishment of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_), an organisation dedicated to development of the Polish wrestling scene. FRPW runs independent shows and operates [Warszawska Szkoła Wrestlingu](@/o/dojo.md), a wrestling school previously known as Ewenement Dojo. Due to his major injury announced in July 2026, Gustav was sidelined from the active roster for the forseeable future, remaining in FRPW as vital off-screen personality while making occasional on-screen appearances as FRPW's spokeperson.
 
 ## International wrestling appearances
 
@@ -149,7 +149,7 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
 
 * PpW Ewenement Wrestling:
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Goblin](@/w/goblin.md) as part of [Bad Trip](@/tt/bad-trip.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Goblin](@/w/goblin.md) as [Bad Trip](@/tt/bad-trip.md)
   - [Złoty Ewenement](@/a/zlote-ewenementy.md) (3 times):
     - Wrestler of the Year (2025)
     - Match of the Year - vs [Goblin](@/w/goblin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)

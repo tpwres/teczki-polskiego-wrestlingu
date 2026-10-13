@@ -40,7 +40,7 @@ Besides that, Martynka also holds a position of PpW's Director of Staff, managin
 
 On 14th February 2026 it was announced that Istotna Martynka would make a one-off referee appearance during PpW's [Japanese excursion in March](@/a/ppw-hardcore-friday-the-13th-tokyo.md) (as Referee Martyna). This turned out to be a two-off, however, as [another date](@/a/ppw-polska-gurom.md) was later added. 
 
-At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), Martynka made her first in-ring appearance in PpW's main programming, unexpectedly joining the 25 Typa 25 Broni Rumble Match, in a losing effort. 
+At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) Martynka made her first in-ring appearance in PpW's main programming, unexpectedly joining the 25 Typa 25 Broni Rumble Match, in a losing effort. 
 
 #### Gloria G Szek
 
@@ -49,9 +49,9 @@ At [PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md)
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-On April 27th, a women's match for [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against [Agentka Agatka](@/w/agentka-agatka.md). This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). Gloria continued making following appearances by wrestling at the promotion's [first fully independent show](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), teaming up with [Goblin](@/w/goblin.md) against [Agentka Agatka](@/w/agentka-agatka.md) and [Gabriel Queen](@/w/gabriel-queen.md), in a losing effort. Later that year she was announced for a variety of matches at [FRPW's Autumn tour](@/e/frpw-wrestling-w-twoim-miescie.md).
+On April 27th, a women's match at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against [Agentka Agatka](@/w/agentka-agatka.md). This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). Gloria followed up by wrestling at the promotion's [first fully independent show](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), teaming up with [Goblin](@/w/goblin.md) against [Agentka Agatka](@/w/agentka-agatka.md) and [Gabriel Queen](@/w/gabriel-queen.md), although to no avail. Later that year she was announced for a variety of matches at [FRPW's Autumn tour](@/e/frpw-wrestling-w-twoim-miescie.md).
 
-At FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Gloria worked as heel. She managed [Jakub](@/w/jakub.md), seemingly making reference to villainous stable active at German wrestling scene known as "Kolektyw". 
+At FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Gloria worked as a heel. She managed [Jakub](@/w/jakub.md), seemingly making reference to a villainous stable active at the German wrestling scene known as "Kolektyw".
 
 ## In wrestling
 
@@ -84,7 +84,7 @@ At FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Gloria worked a
 
 ## References
 
-* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=34443&name=Gloria+G+Szek)
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=34443)
 * [Martynka's referee announcement](https://www.instagram.com/ppw_global/p/DUulVluknWB/)
 
 [istota]: https://www.youtube.com/@IstotaWrestlingu/
