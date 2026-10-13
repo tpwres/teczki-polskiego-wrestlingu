@@ -42,6 +42,10 @@ In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05
 
 Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), where he faced [Marco Hammers](@/w/marco-hammers.md). He quickly got involved in storyline conflict with Polish wrestling influencer Patryk "Patrykos" Domke, spanning social media and Legacy shows.
 
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Oskar debuted for FRPW at the [show in Warka](@/e/frpw/2026-10-18-frpw-warka.md).
+
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):

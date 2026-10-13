@@ -14,7 +14,7 @@ Emil Völler is a German wrestler known in Poland for working with [PpW Ewenemen
 
 * Years active: 2023-
 * Gimmicks/nicknames:
-  - Emil Völler {{ org_badge(orgs=['ppw']) }}
+  - Emil Völler {{ org_badge(orgs=['ppw', 'frpw']) }}
 * Trained by:
   - Catch Factory Leipzig
   - Pro Wrestling School Dresden
@@ -24,6 +24,10 @@ Emil Völler is a German wrestler known in Poland for working with [PpW Ewenemen
 ### PpW Ewenement Wrestling (2025-)
 
 Emil Völler debuted in Poland at [PpW Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) and has been making occasional appearances for the promotion since.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Emil made his first appearance for FRPW at [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md).
 
 ## In wrestling
 
