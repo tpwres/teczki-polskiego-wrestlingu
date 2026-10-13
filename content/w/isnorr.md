@@ -15,7 +15,7 @@ Isnorr, previously known as Norris, is a Polish wrestler and occasional commenta
 
 ## Basic info
 
-* Years active: 2016-2025
+* Years active: 2016-2025; 2026-
 * Gimmicks/ringnames:
   - Norris {{ org_badge(org='dfw') }}
   - Isnorr {{ org_badge(orgs=['mzw', 'ppw']) }}
@@ -64,20 +64,20 @@ After his victory over Johnny Blade Isnorr made his first defences on non-canon 
 
 At [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md) Isnorr entered the 20 Typa, 20 Broni Battle Royale for the PpW Championship opportunity at [Ledwo Legalne V](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md), but he was unable to win it due to suffering a serious injury during the match. At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Isnorr came out and cut a promo discussing his future in the business, explaining that although he may heal his arm, he was also made aware of a serious cardiac condition preventing him from further competing in the ring. He vacated his championship, seemingly retiring from in-ring competition.
 
-#### Return and Championship
+#### Commentary team
+
+From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) onwards Isnorr started making irregular appearances as a guest commentator for PpW shows during his in-ring career has been put on hold. He joined [Istociarz](@/w/istociarz.md) as part of commentary team on three ocassions.
+
+#### Return and joining Rodzina
 
 Isnorr made a surprise return at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), where he participated in the 25 Typa 25 Broni Battle Royal but was eliminated towards the end of the bout. He then promptly followed up by facing [Filip Fux](@/w/filip-fux.md) and [Antoni Ocean](@/w/antoni-ocean.md) in a Three Way Match at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), vying for a spot in the Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). After he and [Gabriel Queen](@/w/gabriel-queen.md) lost to the Rodzina/Zmowa alliance at [Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), [Vic Golden](@/w/vic-golden.md) handed Isnorr [Rodzina's](@/tt/rodzina.md) armband, giving him time to decide on joining. At [Ledwo Legalne 6](@?e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) Isnorr made his decision by laying out his tag team partner [Agentka Agatka](@/w/agentka-agatka.md) and celebrating with members of Rodzina, thus joining the stable.
 
-At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Isnorr was recognised as a full Champion alongside every member of Rodzina.
-
-#### Commentary team
-
-From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md) onwards Isnorr started making irregular appearances as a guest commentator for PpW shows. 
+At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Isnorr was recognised as a full Champion alongside every member of Rodzina. During that time he never actually defended Tag Team Championship, as he focused mostly on teaming up with [Filip Fux](@/w/filip-fux.md) in non-championship matches.
 
 ## In wrestling
 
 * Finishers:
-  - Spear (2017-2025)
+  - Spear (2017-2025; 2026-)
   - Spinning Side Slam (2016-2017)
   - Frog Splash (2017)
 * Tag Teams and stables
@@ -87,7 +87,7 @@ From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md
   - [Nathan Cross](@/w/gabriel-queen.md) (2021)
 * Entrance music:
   - "Eunomia" by Carrion
-    {{ org_badge(orgs=['dfw', 'ppw']) }} (2018-) <br>
+    {{ org_badge(orgs=['dfw', 'ppw']) }} (2018-2025; 2026-) <br>
     {{ music(yt='p1AAVsoDnVo')}}
     {{ music(spot='4Y7FW4KF1L8SdPorm3rFBQ')}}
     {{ music(apple='1410929179?i=1410938192')}}
