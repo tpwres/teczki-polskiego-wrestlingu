@@ -79,6 +79,7 @@ has_video = true
 ### Highlights
 
 * The main part of the show was opened with the song [Prosto](https://www.youtube.com/watch?v=ALP2ZFypnHY) by KULT.
+* When opening the show, [Michael HT](@/w/michael-ht.md) fired some tounge-in-cheek shots at the competition, saying that despite what people say this isn't the golden age of Polish wrestling but rather PpW's, that they don't need to call themselves ["self-proclaimed pioneers of Polish wrestling"](@/w/pan-pawlowski.md) nor ["maniacs"](@/o/mzw.md), and that none of them are [bachelors, although each of them is beautiful](@/w/piekny-kawaler.md).
 * The rules for the scramble match were more WWE-style: whoever scores a pin last is the current winner. Jakub used it to good advantage - first guarding the ring aggressively to prevent anyone from entering, and later in the final minutes he escaped the ring entirely to prevent getting pinned himself.
 * Robert Star came out to Rodzina's theme music, carrying his Danish DPW Heavyweight Championship belt, and added it to the Super Heavyweight Showcase match on his own. Referee Seweryn officially presented the belt to the audience.
 * Olgierd came out to Czesław Niemen's [Sen o Warszawie](@/a/polish-wrestling-chants.md#songs), eagerly and loudly sung by the audience, immediately establishing him as a face.
