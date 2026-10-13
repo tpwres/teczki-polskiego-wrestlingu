@@ -13,19 +13,19 @@ country = ["PL"]
 2 = { path = "jakub-ze-zlotem-legacy.webp", caption = "Jakub with the [Legacy of Wrestling European Championship](@/c/low-european-championship.md).", source = "Jarosław Olesiński / Official Legacy Facebook" }
 +++
 
-Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Prime Time Wrestling](@/o/ptw.md) and [Legacy of Wrestling](@/o/low.md). He also worked matches for [Maniac Zone Wrestling](@/o/mzw.md) and [Dream Factory Wrestling](@/o/dfw.md).
+Axel Fox is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) and [Legacy of Wrestling](@/o/low.md). He also worked matches for [Prime Time Wrestling](@/o/ptw.md) and [Dream Factory Wrestling](@/o/dfw.md).
 
 ## Basic info
 
 * Years active: 2017-present
 * Nicknames:
   - Amisz (_Amish_) {{ org_badge(orgs=['dfw', 'mzw']) }}
-  - "Polski Lis" (_Polish Fox_) Axel Fox {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
-  - Jakub {{ org_badge(orgs=['ppw', 'mzw', 'low', 'frpw']) }}
+  - "Polski Lis" (_Polish Fox_) Axel Fox {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }} (2018-2026)
+  - Jakub {{ org_badge(orgs=['ppw', 'mzw', 'low', 'frpw']) }} (2026-)
   * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2020)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -110,7 +110,13 @@ After his betrayal of Goblin and introduction into Mister Z's stable, Axel quick
 
 At [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md), Fox cut a promo where he discarded his old persona of Axel Fox, and chose to be known as Jakub. This new character previously appeared only internationally, in Germany and Hungary, no longer wearing facepaint or fox-themed gear. Since turning heel in PpW, Jakub/Fox switched to the new gear, but kept the old name - until now.
 
-Finally, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) he teamed up with Mister Z in tournament finals to became one of the inaugural PpW Tag Team Champions.
+Finally, at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) he teamed up with Mister Z in tournament finals to became one of the inaugural PpW Tag Team Champions. They held the titles for total of 77 days, before they were defeated by [Bad Trip](@/tt/bad-trip.md) at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). 
+
+#### Shenanigans at Zmowa
+
+After Zmowa lost all of the titles at Ledwo Legalne 6 the vibe quickly got sour. It became apparent, that Jakub rapidly gained a lot of influence over Mister Z, which resulted with Olgierd losing his "top dog" position in Zmowa. This led to series of conflicts inside of the group which were mostly resolved by violence against each other. At [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md) Olgierd defeated Jakub in a #1 Contendership Match for PpW Championship, which was refereed by Mister Z, but bald hooligan blew it in a match against [Gabriel Queen](@/w/gabriel-queen.md) at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md). This led to further conflicts, as Jakub effectively sidelined Olgierd from a match against Nick Schreier and [Laurance Roman](@/w/laurance-roman.md) at [Hardcore Friday: Żeby Było Ci Dobrze](content/e/ppw/2026-09-04-ppw-hardcore-friday.md) to test-out new Zmowa prospect [Maverick](@/w/maverick.md) (who has been blamed, rejected and beaten-up after suffering defeat in said match). Jakub's shenanigans at Zmowa finally concluded at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) where Jakub and Mister Z intervened in a Triple Threat Match Olgierd was part of, which costed him victory. This drove furious Olgierd into finally turning his back against Zmowa and walking away, leaving only Z and Jakub in the group. 
+
+Jakub's role as grey eminence doesn't restricted solely to Zmowa, as he tried to turn [Goblin](@/w/goblin.md) - #1 Contender - against [Gabriel Queen](@/w/gabriel-queen.md) - [PpW Champion](@/c/ppw-championship.md) against each other despite their friendly relations. After winning #1 Contendership himself at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) Jakub even intervened in a title match while trying to convince Goblin to cheat to get upper hand over Queen. Goblin refused, which ultimately costed him a victory.
 
 ### Legacy of Wrestling (2024-present)
 
@@ -119,7 +125,19 @@ During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gry
 
 #### Championship pursuit
 
-At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning against Gabriel Queen in a Road to the Tile Match, putting him in a contender position for the upcoming Legacy Championship. At [the next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md). His long fight for his first title came to an end at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md), when he won a Six-Way Elimination Match to become the inaugural [Legacy European Champion](@/c/low-european-championship.md).
+At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning against Gabriel Queen in a Road to the Tile Match, putting him in a contender position for the upcoming Legacy Championship. At [the next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md). His long fight for his first title came to an end at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md), when he won a Six-Way Elimination Match to become the inaugural [Legacy European Champion](@/c/low-european-championship.md). Right away Axel turned on the public, adopting his "Jakub" persona and started a reign of terror over Legacy of Wrestling.
+
+In his first title defence Jakub defeated [Filip Fux](@/w/filip-fux.md) in a No-DQ Match which took place at [Open Season](@/e/low/2026-05-24-low-5.md). His second title defence came against Trent Seven. After the match, it was clear that his next opponent will be [Max Speed](@/w/max-speed.md). 
+
+### Return to Maniac Zone Wrestling (2026-)
+
+At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Jakub made his return to [Maniac Zone Wrestling](@/o/mzw.md) after over five years. He defeated [Max Speed](@/w/max-speed.md) to defend his [LoW European Championship](@/c/low-european-championship.md) title. At [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md) he made yet another championship defence of [Legacy's](@/o/low.md) title against [Boro](@/w/boro.md) and [Sambor](@/w/sambor.md).
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Jakub made his debut for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) where he won Next Big Thing Battle Royale as masked wrestler called "Gringo" only to reveal himself as Jakub after the match. At the same show he also faced and defeated [Szymon Kurczab](@/w/adept-dwa.md). From that point on Jakub started making regular appearances in FRPW.
+
+Jakub has been announced as one of the participants in HeelTurn Invitational Tournament. When the first round took place at FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), he entered the ring accompanied by [Gloria](@/w/gloria-g-szek.md), and ultimately lost to [Leon Lato](@/w/leon-lato.md).
 
 ## International wrestling career
 
@@ -196,7 +214,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
 
 ## Internet presence
 
-* [Axel's Instagram](https://www.instagram.com/axelfox.jakub)
+* [Axel's Instagram profile](https://www.instagram.com/axelfox.jakub)
 
 ## References
 
