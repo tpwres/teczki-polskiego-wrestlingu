@@ -130,6 +130,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
 ## In wrestling
 
 * Finishers:
+  - Craddle DDT (2026-)
   - _Code Red_ (Sunset Flip Powerbomb) - (2021-2022); used as signature move thereafter
   - _Firefox DDT_ (Standing Shiranui) (2021-2024)
   - _Firefox Elbow Drop_ (Diving Elbow Drop) (2023-); adopted from [Justin Joy](@/w/justin-joy.md)
@@ -175,7 +176,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
     {{ music(yt='wmin5WkOuPw')}}
     {{ music(spot='79CUrU5o2KAVDTNm4x3eGU')}}
     {{ music(apple='1450123945?i=1450124083')}}
-  - "Craddle DDT" by Independent Contractor
+  - "Jakub Theme" by Independent Contractor
     {{ org_badge(orgs=['frpw']) }} (2026-present) <br>
 
 ## Championships and accomplishments
