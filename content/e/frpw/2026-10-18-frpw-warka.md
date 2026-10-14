@@ -23,6 +23,7 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 * On 27.08.2026 FRPW announced that Japanese wrestler Akane Fujita will be present at the shows in [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and Warka.
 * On 8.09.2026 FRPW announced [Max Speed](@/w/max-speed.md) will appear at shows in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and Warka.
 * On 14.09.2026 FRPW announced [Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md) vs [Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita.
+* On 13.10.2026 Boro & Mutant were given their opponents: [Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md).
 
 ## Predicted card
 
@@ -32,7 +33,7 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
   - s: Mixed Tag Team Match
     nc: upcoming
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '???'
+  - '[Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md)'
   - nc: upcoming
 {% end %}
 
