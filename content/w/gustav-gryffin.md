@@ -107,7 +107,7 @@ At [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md) he partici
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In May 2026 Gustav, along with Goblin and [Jacob Crane](@/w/jacob-crane.md), announced the establishment of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_), an organisation dedicated to development of the Polish wrestling scene. FRPW runs independent shows and operates [Warszawska Szkoła Wrestlingu](@/o/dojo.md), a wrestling school previously known as Ewenement Dojo. Due to his major injury announced in July 2026, Gustav was sidelined from the active roster for the forseeable future, remaining in FRPW as vital off-screen personality while making occasional on-screen appearances as FRPW's spokeperson.
+In May 2026 Gustav, along with Goblin and [Jacob Crane](@/w/jacob-crane.md), announced the establishment of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_), an organisation dedicated to development of the Polish wrestling scene. FRPW runs independent shows and operates [Warszawska Szkoła Wrestlingu](@/o/dojo.md), the wrestling school formerly known as Ewenement Dojo. Due to his major injury announced in July 2026, Gustav was sidelined from the active roster for the foreseeable future, remaining in FRPW as vital off-screen personality while making occasional on-screen appearances as FRPW's spokeperson.
 
 ## International wrestling appearances
 

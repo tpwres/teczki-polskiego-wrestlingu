@@ -72,7 +72,7 @@ In May 2026 Jacob, along with [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/g
 
 ## International wrestling appearances
 
-Jacob started working internationally fairly early after his debut for MZW. He made his first appearance in Germany in 2018 at a Next Step Wrestling event. From that point on he made regular appearances in Germany, focusing mainly on wXw and wXw Academy, but also taking booking in smaller German promotions. 
+Jacob started working internationally fairly early after his debut for MZW. He made his first appearance in Germany in 2018 at a Next Step Wrestling event. From that point on he made regular appearances in Germany, focusing mainly on wXw and wXw Academy, but also taking booking in smaller German promotions.
 
 In 2023 Jacob moved to Germany for a total of eight months to pursue his career abroad with even more dedication.
 

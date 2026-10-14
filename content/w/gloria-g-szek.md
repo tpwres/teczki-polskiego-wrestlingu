@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Gloria G Szek is a Polish female wrestler, part-time referee and a co-founder of [Istota Wrestlingu][istota] YouTube channel. In wrestling she is known for her appearances in [PpW Ewenement](@/o/ppw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
+Gloria G Szek is a Polish female wrestler, part-time referee and a co-founder of [Istota Wrestlingu][istota] YouTube channel. In wrestling she is best known for her appearances in [PpW Ewenement](@/o/ppw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 * Years active: 2026-
@@ -38,20 +38,20 @@ Istotna Martynka joined [Ewenement Dojo](@/o/dojo.md) at some point in 2024. She
 
 Besides that, Martynka also holds a position of PpW's Director of Staff, managing all of the staff workers during PpW events.
 
-On 14th February 2026 it was announced that Istotna Martynka would make a one-off referee appearance during PpW's [Japanese excursion in March](@/a/ppw-hardcore-friday-the-13th-tokyo.md) (as Referee Martyna). This turned out to be a two-off, however, as [another date](@/a/ppw-polska-gurom.md) was later added. 
+On 14th February 2026 it was announced that Istotna Martynka would make a one-off referee appearance during PpW's [Japanese excursion in March](@/a/ppw-hardcore-friday-the-13th-tokyo.md) (as Referee Martyna). This turned out to be a two-off, however, as [another date](@/a/ppw-polska-gurom.md) was later added.
 
-At [Teraz Albo nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) Martynka made her first in-ring appearance in PpW's main programming, unexpectedly joining the 25 Typa 25 Broni Rumble Match, in a losing effort. 
+At [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) Martynka made her first in-ring appearance in PpW's main programming, unexpectedly joining the 25 Typa 25 Broni Rumble Match, in a losing effort.
 
 #### Gloria G Szek
 
 Beginning with [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) she would adopt a new ring name, Gloria G Szek, moving into a full-time wrestler role.
-At [PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md), Gloria defeated [Agentka Agatka](@/w/agentka-agatka.md) and [Kalyana](@/w/kalyana.md) in a three-way match. From that point on Gloria continued making regular appearances for PpW, working mostly against fellow female talent as well as in Mixed Tag Team Matches.
+At [PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md), Gloria defeated [Agentka Agatka](@/w/agentka-agatka.md) and [Kalyana](@/w/kalyana.md) in a three-way match. This started her regular appearances for PpW, working mostly against fellow female talent as well as in Mixed Tag Team Matches.
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-On April 27th, a women's match at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against [Agentka Agatka](@/w/agentka-agatka.md). This marked the first women's match between two Polish performers in over six years - the last one being [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). Gloria followed up by wrestling at the promotion's [first fully independent show](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), teaming up with [Goblin](@/w/goblin.md) against [Agentka Agatka](@/w/agentka-agatka.md) and [Gabriel Queen](@/w/gabriel-queen.md), although to no avail. Later that year she was announced for a variety of matches at [FRPW's Autumn tour](@/e/frpw-wrestling-w-twoim-miescie.md).
+On April 27th, a women's match at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against [Agentka Agatka](@/w/agentka-agatka.md). This marked the first women's match between two Polish performers in over six years, since [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). Gloria followed up by wrestling at the promotion's [first fully independent show](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), teaming up with [Goblin](@/w/goblin.md) against [Agentka Agatka](@/w/agentka-agatka.md) and [Gabriel Queen](@/w/gabriel-queen.md), although to no avail. Later that year she was announced for a variety of matches at [FRPW's Autumn tour](@/e/frpw-wrestling-w-twoim-miescie.md).
 
-At FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Gloria worked as a heel. She managed [Jakub](@/w/jakub.md), seemingly making reference to a villainous stable active at the German wrestling scene known as "Kolektyw".
+At FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Gloria worked as a heel. She managed [Jakub](@/w/jakub.md), seemingly referencing a villainous stable active in the German wrestling scene known as "Kolektyw".
 
 ## In wrestling
 

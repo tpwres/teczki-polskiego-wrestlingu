@@ -25,8 +25,8 @@ Diana Strong is a Polish wrestler best known for her time in [Prime Time Wrestli
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-present)
- 
-## Professional wrestling career 
+
+## Professional wrestling career
 
 ### Kombat Pro Wrestling (2017-2021)
 
@@ -46,7 +46,7 @@ After PTW's reboot, which was forced by multiple controversies and [talent exodu
 
 #### PTW Women's Champion and heel turn
 
-Diana's chance for a rematch came at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md). During the match against the reigning Champion [Mercedes Moné](@/w/mercedes-mone.md) she finally regained the Championship. However, her victory came at the cost of turning to dark side, as she low-blowed [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) and smacked Mercedes with the title belt.
+Diana's chance for a rematch came at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md). She managed to reclaim the title from reigning Champion [Mercedes Moné](@/w/mercedes-mone.md). However, her victory came at the cost of turning to dark side, when she low-blowed [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) and smacked Mercedes with the title belt.
 
 ## International wrestling appearances
 
@@ -80,17 +80,17 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
   - [PTW Women's Championship](@/c/ptw-womens-championship.md) (1 time; current)
   - [PTW Awards](@/a/ptw-awards.md) (1 time):
     * Female Wrestler of the Year (2022)
- 
+
 #### International wrestling accomplishments
 
 * Pro Wrestling Illustrated:
   - #205 on 2025 PWI Women's 250 list
 * 🇦🇹 [Rings of Europe][cm-roe]:
-  - [GLAM! Championship][cm-roe-glam] (1 time) 
+  - [GLAM! Championship][cm-roe-glam] (1 time)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Big League Wrestling][cm-blw]:
-  - [BLW Women's Championship][cm-blw-wc] (1 time) 
+  - [BLW Women's Championship][cm-blw-wc] (1 time)
 * 🇫🇮 [Slam Wrestling Entertainment][cm-slam]:
-  - [SLAM Women's Championship][cm-slam-wc] (1 time) 
+  - [SLAM Women's Championship][cm-slam-wc] (1 time)
 
 ## References
 
