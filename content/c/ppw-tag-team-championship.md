@@ -21,9 +21,9 @@ The PpW Tag Team Championship is the tag team division title introduced by [PpW 
 ## Statistics
 
 * First champions: [Zmowa](@/tt/zmowa.md) ([Jakub "Fox"](@/w/jakub.md), [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) & [Olgierd](@/w/olgierd.md))
-* Most reigns: Zmowa / [Bad Trip](@/tt/bad-trip.md) / [Rodzina](@/tt/rodzina.md) / [The Hardcors](@/tt/the-hardcors.md) (1)
-* Longest reign: Zmowa (77 days)
-* Shortest reign: Bad Trip (49 days)
+* Most reigns: [Rodzina](@/tt/rodzina.md) (2)
+* Longest reign: Rodzina (84 days)
+* Shortest reign: The Hardcors (14 days)
 * Oldest champion: [Robert Star](@/w/robert-star.md) (31 years, 356 days)
 * Youngest champion: [Oskar Alexander](@/w/oskar-alexander.md) (23 years, 207 days)
 * Heaviest champion: Robert Star (106&nbsp;kg)
@@ -142,7 +142,7 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
 
 The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) due to Gustav Gryffin's injury forcing him on a prolonged hiatus.
 
-### Champions #3: Rodzina: Vic Golden & Oskar Alexander
+### Champions #3: Rodzina: Vic Golden & Oskar Alexander (1st run)
 
 {% free_card() %}
 - - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
@@ -160,13 +160,6 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
   - s: Tag Team Match
     en: '[PpW Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
     ed: 2026-09-26
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
-  - s: TLC 3-Way Tag-Team Ladder Match
-    en: '[PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md)'
-    ed: 2026-10-10
-    nc: upcoming
 {% end %}
 
 **Total: 84 days**
@@ -175,10 +168,29 @@ The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.m
 
 {% free_card() %}
 - - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
-  - 'Rodzina: [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)(c)'
+  - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)(c)'
   - s: Tag Team Match
     en: '[PpW Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md)'
     ed: 2026-09-26
+- - 'Rodzina: Oskar Alexander & Vic Golden'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - 'The Hardcors: Biesiad Strong & Johnny Blade(c)'
+  - s: TLC 3-Way Tag-Team Ladder Match
+    en: '[PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md)'
+    ed: 2026-10-10
+{% end %}
+
+**Total: 14 days**
+
+### Champions #5: Rodzina: Oskar Alexander & Vic Golden (2nd run)
+
+{% free_card() %}
+- - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)(c)'
+  - s: TLC 3-Way Tag-Team Ladder Match
+    en: '[PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md)'
+    ed: 2026-10-10
 {% end %}
 
 ## References

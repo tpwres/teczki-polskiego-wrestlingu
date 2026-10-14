@@ -4,7 +4,7 @@ template = "event_page.html"
 authors = ["M3n747"]
 aliases = ["/e/ppw/2026-11-07-ppw-2kola"]
 [taxonomies]
-chronology = ["ppw"]
+chronology = ["ppw", "hardcore-friday"]
 venue = ["2kola"]
 [extra]
 city = "Warszawa"
@@ -27,4 +27,5 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 
 ## References
 
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465058)
 * [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)

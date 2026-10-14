@@ -28,6 +28,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 * Having won their respective fights at the first round of the HeelTurn Invitational Tournament in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), [Goblin](@/w/goblin.md) and [Leon Lato](@/w/leon-lato.md) were announced on 4.10.2026 to face one another in round 2.
 * Likewise, [Olgierd](@/w/olgierd.md) and [Bartosz Plata](@/w/plata.md) were announced on 6.10.2026.
 * A Tag Team Match between [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) and [Max Speed](@/w/max-speed.md) & [Antoni Ocean](@/w/antoni-ocean.md) was announced on 9.10.2026.
+* On 12.10.2026 FRPW announced that [Jakub](@/w/jakub.md), despite [having lost](@/e/frpw/2026-10-03-frpw-siedlce.md) in the first round of the HeelTurn Invitational Tournament, will appear at the show "looking for trouble (and he'll find them)".
 
 ## Predicted card
 
@@ -61,6 +62,9 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
   - '[Max Speed](@/w/max-speed.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
   - s: 'Tag Team Match'
     nc: upcoming
+- - '[Jakub](@/w/jakub.md)'
+  - '???'
+  - nc: upcoming
 {% end %}
 
 ## Highlights

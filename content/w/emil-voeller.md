@@ -27,7 +27,7 @@ Emil Völler debuted in Poland at [PpW Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wj
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Emil made his debut for [FRPW](@/o/frpw.md) at the federation's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he defeated [Agentka Agatka](@/w/agentka-agatka.md) in an Intergender Match.
+Emil made his first appearance for FRPW at [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md).
 
 ## In wrestling
 

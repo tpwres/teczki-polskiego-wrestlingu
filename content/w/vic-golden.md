@@ -134,7 +134,7 @@ At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Vic Golden returned 
 
 #### PpW Tag Team Champion
 
-At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/gustav-gryffin.md) revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter he and [Goblin](@/w/goblin.md) were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md); the vacated titles were won later at the same show by Vic Golden and Oskar Alexander in a match against [Ladykiller](@/w/boro.md) and [Mutant](@/w/mutant.md).
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/gustav-gryffin.md) revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter he and [Goblin](@/w/goblin.md) were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md); the vacated titles were won later at the same show by Vic Golden and Oskar Alexander in a match against [Ladykiller](@/w/boro.md) and [Mutant](@/w/mutant.md). At [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Rodzina lost the titles to [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)), but recaptured them mere two weeks later, at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md).
 
 ### Legacy of Wrestling (2025)
 
@@ -181,7 +181,7 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
     * Tag Team of the Year - (as [Pure Gold](@/tt/pure-gold.md)) (2022)
     * Newcomer of the Year (2022)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - as a member of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 
