@@ -18,7 +18,7 @@ has_video = true
 
 * On 6.10.2026 PTW published a [video][spooky-european-perch] of [Łukasz Okoński](@/w/lukasz-okonski.md) revealing some information about the upcoming show. In it, he teased a "real ghost of the past" at the commentary table, divulged a Horror Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) between [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)), disclosed a Golden Ticket Elimination Match with contenders still to be named (the winner of which will be able to face any opponent at any time) and revealed that the feud between [Fabian](@/w/fabian.md) and [Daniel Razor](@/w/daniel-razor.md) now includes [Kalom](@/w/kalom.md) and Pierre who got tangled in the rivalry.
 * In a [video][komora-maszyny-losujacej-jest-pusta] posted on 12.10.2026 [Łukasz Okoński](@/w/lukasz-okonski.md), assisted by [Sędzia Herno](@/w/sedzia-herno.md), drew four random names of wrestlers to participate in the first round of the Golden Ticket Tournament: [CJ Klakson](@/w/cj-klakson.md), [Iskra](@/w/iskra.md), [Alex Brave](@/w/alex-brave.md) and [El G](@/w/el-g.md).
-* Pierre & [Fabian](@/w/fabian.md) vs [Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md) was officialy announced on 13.10.2026.
+* Pierre & [Fabian](@/w/fabian.md) vs [Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md) was officially announced on 13.10.2026.
 
 ## Predicted card
 
