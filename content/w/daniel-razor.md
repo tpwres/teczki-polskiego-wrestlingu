@@ -25,7 +25,7 @@ Daniel Razor is a Polish wrestler known for his time in [Prime Time Wrestling](@
 
 #### Debut and early appearances
 
-At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md) was put in a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) match as his "last chance for the gold" after his return. [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) offered to hand-pick a partner for him, who was revealed to be a PTW Academy rookie - Daniel Razor. The duo worked as babyfaces but failed to score the titles (which went to [Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md), added mid-match), however Razor gained Nano's and [L'Orda's](@/tt/l-orda.md) respect, establishing himself as a babyface.
+At [PTW: Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md), ["Starboy" Nano Lopez](@/w/nano-lopez.md) was put in a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) match as his "last chance for the gold" after his return. [Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md) offered to hand-pick a partner for him, who was revealed to be a PTW Academy rookie - Daniel Razor. The duo worked as babyfaces but failed to score the titles (which went to [Royal Rebels](@/tt/royal-rebels.md): [Alex Brave](@/w/alex-brave.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md), added mid-match), however Razor gained Nano's and [L'Orda's](@/tt/l-orda.md) respect, establishing himself in the process.
 
 To deflect the accusations of being Pawłowski's favorite, Razor posted a video where he clearly explained his allegiance, stating that he's grateful that Pawłowski has given him a chance, but now he is going to carve his own path.
 
@@ -37,6 +37,10 @@ When [Max Speed](@/w/max-speed.md) had left PTW and vacated the Championship, th
 Instead, as a runner up of the Rumble, Razor faced Nano for the vacant Championship, winning it in his third match.
 In the meantime, he started calling himself "The Voice" of PTW fans, owing to the fact that he had been a regular fan not that long ago.
 After successfully defending his Championship in three open challenges, his reign came to an end when he was defeated by now-villainous Nano Lopez, who bested him with the help of his new ally [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) at [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).
+
+#### Feud with Nano Lopez
+
+After losing his Championship to Lopez, Daniel got involved in a heated rivalry against the former fan-favourite Lopez. His rival, however, refused to grant him the rematch right away. Instead, Daniel was put in a series of vicious "trials". This included challenges such as a Battle Royal with a bounty on Razor's head at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md), a Submission Match against Gabriel Grip at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), and a Gauntlet Match at [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md). Daniel managed to overcome the odds, scoring his rematch for the [Underground Championship](@/c/ptw-underground-championship.md) in a Last Man Standing Match at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md). Daniel ultimately lost to Nano Lopez, and dropped his pursuit of the Underground Championship.
 
 ## Other media
 

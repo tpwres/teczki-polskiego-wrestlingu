@@ -40,13 +40,13 @@ At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) Eryk took pa
 
 After that Lesak focused on a solo career. He lost to [Filip Fux](@/w/filip-fux.md) in a Contender Match Qualifier for the [KPW Championship](@/c/kpw-championship.md) at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), and won with [Leon Lato](@/w/leon-lato.md) at [Arena 27](@/e/kpw/2025-01-24-kpw-arena-27.md). Later, at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), Lesak emerged victorious from the Battle Royal, winning a Championship contract. He however lost his opportunity in a match against the reigning Champion [Zefir](@/w/zefir.md), during [KPW Show in Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md). 
 
-#### Old Town Championship
-
-Lesak attempted to use his contract a couple more times, at [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md) and [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md), however both times yielded no results - at the former show he took too long to cash in, allowing the moment to pass, and at the latter the fight (which he lost) wasn't counted, as the timekeeper didn't ring the bell. It wasn't until [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) that he finally managed to use the contract properly and challenged the exhausted Leon Lato right after his fight, winning the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) for himself.
-
 #### Various storylines
 
 At [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) Lesak got into a rivalry with the up-and-coming [Markus Paskal](@/w/markus-paskal.md). Eryk's old partner Chemik joined him in a bullying session, unaware of the fact that Markus already got himself backup in the form of the returning [Kamil Aleksander](@/w/kamil-aleksander.md). The former [DDW International Champion](@/c/ddw-international-championship.md) came back to KPW after more than six years, with the intention of facing Lesak and Chemik in a Tag Team Match at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
+
+#### Old Town Champion
+
+Lesak attempted to use his contract a couple more times, at [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md) and [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md), however both times yielded no results - at the former show he took too long to cash in, allowing the moment to pass, and at the latter the fight (which he lost) wasn't counted, as the timekeeper didn't ring the bell. It wasn't until [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) that he finally managed to use the contract properly and challenged the exhausted Leon Lato right after his fight, winning the [KPW OldTown Championship](@/c/kpw-old-town-championship.md) for himself.
 
 ### Legacy of Wrestling (2026-present)
 
@@ -70,7 +70,7 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
     {{ music(spot='4f3RDq9nYPBeR1yMSgnmBm')}}
     {{ music(apple='207178130?i=207178401')}}
   - "Desert Cruiser" by Truckfighters
-    {{ org_badge(orgs=['kpw']) }} (2021, in tag team with Opol) <br>
+    {{ org_badge(orgs=['kpw']) }} (2021, in tag team with [Opol](@/w/piotr-opolski.md)) <br>
     {{ music(yt='JLMPA4xPFpg')}}
     {{ music(spot='6dDdhX8byHKApki5TuOqjS')}}
     {{ music(apple='1568953211?i=1568953212')}}
@@ -80,7 +80,7 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
     {{ music(spot='0iUrxveyNUBfj0cqjYEijt')}}
     {{ music(apple='1627535453?i=1627535463')}}
   - "Yekteniya I" by Batushka
-    {{ org_badge(orgs=['kpw']) }} (2023; in tag team with [Chemik](@/w/chemik.md)) <br>
+    {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Chemik](@/w/chemik.md)) <br>
     {{ music(yt='XCMNqKuuFC4')}}
     {{ music(cc='pl', apple='1152475900?i=1152476251')}}
   - "Metaphonk" by Infraction
@@ -88,6 +88,12 @@ From 2025 onwards Eryk made numerous appearances for a Finnish federation, SLAM 
     {{ music(yt='Y64vZp8M8dE')}}
     {{ music(spot='60Pt3GwqOMl5sE3LXeHBxu')}}
     {{ music(apple='1761432224?i=1761432679')}}
+  * Entrance music:
+  - "Broken" by Mother Tongue
+    {{ org_badge(orgs=['low']) }} (2026-, as a member of [Biuro Prasowe](@/tt/biuro-prasowe.md)) <br>
+    {{ music(yt='NqtbSCjMGKM')}}
+    {{ music(spot='7Ez3wgurWkC43ZLZhJCBgf')}}
+    {{ music(apple='320260598?i=320260598')}}
 
 ## Championships and accomplishments
 

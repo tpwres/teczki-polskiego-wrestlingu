@@ -18,14 +18,14 @@ Disco Pablo is a Polish wrestler known for his appearances in [Legacy of Wrestli
   - Disco Pablo {{ org_badge(orgs=['ptw', 'mzw', 'low']) }}
 * Trained by:
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
- 
-## Professional wrestling career 
+
+## Professional wrestling career
 
 ### Prime Time Wrestling (2021-2024)
 
 #### Debut and PAKA formation
 
-Disco Pablo left [Mine City Wrestling](@/o/mcw.md) to join [Prime Time Wrestling](@/o/ptw.md), a new federation owned by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), early in its development. During training and preparations he was paired with [Boro](@/w/boro.md) and [Taras](@/w/taras.md) as a trio called PAKA (loosely _The PACK_). They were portrayed as laid-back babyfaces who'd known each other since childhood. Pablo was portrayed as the main party rocker of PAKA, often using dance in his matches.
+Disco Pablo left [Mine City Wrestling](@/o/mcw.md) to join [Prime Time Wrestling](@/o/ptw.md), a new federation started by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), early in its development. During training and preparations he was paired with [Boro](@/w/boro.md) and [Taras](@/w/taras.md) as a trio called PAKA (loosely _The PACK_). They were portrayed as laid-back babyfaces who'd known each other since childhood. Pablo was portrayed as the main party rocker of PAKA, often using dance in his matches.
 
 Pablo made his debut at PTW's first show [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md) where he teamed up with ex-WWE wrestler [Santino](@/w/santino.md) against [Dziedzic](@/w/dziedzic.md) and Marius Al-Ani. Despite their loss they stood tall after beating up cocky Dziedzic in a post-match segment. For the first few shows, PAKA focused on establishing themselves as babyfaces and Pawłowski's favourites against heels such as [Sinister](@/w/sinister.md), Dziedzic and [Remo](@/w/remo.md).
 
@@ -59,6 +59,10 @@ Disco Pablo joined [Legacy of Wrestling](@/o/low.md) - a federation created most
 
 At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo faced each other in a promo segment, where Taras reiterated that it was Pablo who abadoned him first, thus destroying PAKA. After an exchange of blows, Pablo oficially challenged Taras to a match at Legacy's next show. The feud concluded at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md) where he finally defeated his ex-brother with Boro serving as a special guest referee.
 
+#### Feud with Biuro Prasowe
+
+At [Four The Glory](@/e/low/2025-12-20-low-4.md) Disco Pablo defeated [Tony Sheen](@/w/riverman.md) in a 12 Weapons of Christmas No-DQ Match. After the bell, Tony was revealed as the newest member of [Biuro Prasowe](@/tt/biuro-prasowe.md) - a villainous stable led by [Arek Paterek](@/w/arek-paterek.md). Sheen then proceeded with a vicious attack on Pablo, but was stopped by [Marcelito](@/w/marcelito.md). Pablo and Marcelito's conflict with Biuro Prasowe led to the announcement of a Six-Man Tag Team Match at [Enter The Dragon](@/e/low/2026-07-10-low-6.md). At the show itself, Pablo and Marcelito were joined by [Bartosz Plata](@/w/plata.md). Once the babyfaces pointed out that the Biuro is one man short, Paterek asserted that they always have "a full alphabet of plans" and that "it is already three-vs-three". Before they could process that, Plata unzipped his longsleeve, revealing a Biuro Prasowe T-shirt underneath, and jumped his former friends, which led to [Sambor](@/w/sambor.md) joining the babyface team to even the odds. Despite that, Biuro Prasowe still overpowered Pablo's team.
+
 ## In wrestling
 
 * Finishers:
@@ -66,7 +70,7 @@ At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo fac
 * With [Taras](@/w/taras.md):
   - _Blok 3D_ (Flapjack (Pablo) and Cutter (Taras) combination) (2022-2024)
 * Tag Teams and stables:
-  - PAKA (2021-2024)
+  - [PAKA](@/tt/paka.md) (2021-2024)
 * Entrance music:
   - "Sorry For Party Rocking" by LMFAO
     {{ org_badge(orgs=['mzw', 'low']) }} (2024-present) <br>

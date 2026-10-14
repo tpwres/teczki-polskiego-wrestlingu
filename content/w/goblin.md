@@ -13,7 +13,7 @@ country = ["PL"]
 3 = { path = "el-duende-polaco.jpg", caption = "ARENA PEPE Cisneros announced Goblin would appear in Mexico on 15.09.2024.", source = "Official ARENA PEPE Cisneros Facebook" }
 +++
 
-Goblin is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Goblin is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md) and [Maniac Zone Wrestling](@/o/mzw.md). He is also a co-founder of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
@@ -90,19 +90,25 @@ Goblin's devastating loss brought him closer to his old arch-nemesis Gustav, who
 
 At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) Gustav revealed an injury that forced him to go on a prolonged hiatus. Immediately thereafter Bad Trip were stripped of their Tag Team titles by [Mister Z](@/w/mister-z.md).
 
+#### Return to singles competition
+
+After Gustav's injury put Bad Trip on hiatus, Goblin returned to solo competition and his rivalry with Zmowa. At [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) he teamed up with his friend [Gabriel Queen](@/w/gabriel-queen.md) to fight off Zmowa in a Hardcore Tag Team Match. At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) he became the #1 Contender for the PpW Championship held by Gabriel Queen. The match between two friends followed at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md). During that match one of Goblin's former friends-turned-foes: [Jakub](@/w/jakub.md) tempted Goblin to cheat to secure him his second PpW Championship reign. Goblin however refused to do such a vile thing to Gabriel, which unfortunately led to a loss against the "Poznań Rascal".
+
 ### Maniac Zone Wrestling (2025)
 
 In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing German wrestler Robert Kaiser at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md). He also defeated [Erik Šlotíř](@/w/erik-slotir.md) at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In May 2026 Goblin, along with Gustav Gryffin and [Jacob Crane](@/w/jacob-crane.md), announced the establishment of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_) - an organisation dedicated to the development of the Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md), a wrestling school previously known as Ewenement Dojo.
+In May 2026 Goblin, along with Gustav Gryffin and [Jacob Crane](@/w/jacob-crane.md), announced the establishment of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_), an organisation dedicated to the development of the Polish wrestling scene. FRPW runs independent shows and operates [Warszawska Szkoła Wrestlingu](@/o/dojo.md), the wrestling school formerly known as Ewenement Dojo.
+
+Goblin was one of the entrants in FRPW's HeelTurn Invitational Tournament, and scored a first round win against [Bart Petro](@/w/bart-petro.md) at FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).
 
 ## International wrestling appearances
 
-From 2023 onwards Goblin took a few international bookings. He made one appearance in Hungarian Passion Pro Wrestling in 2023, and he also worked in a couple of matches in Germany and Sweden. 
+From 2023 onwards Goblin took a few international bookings. He made one appearance in Hungarian Passion Pro Wrestling in 2023, and he also worked in a couple of matches in Germany and Sweden.
 
-Goblin also made history as the first Polish wrestler to make an appearance in Mexico. On September 15th, 2024, he worked a show for a local promotion, Arena Pepe Cisneros.
+Goblin also made history as the first Polish wrestler to make an appearance in Mexico. On September 15th, 2024, he worked a local show at Arena Pepe Cisneros.
 
 In February 2026 PpW announced that Goblin would be part of their excurion to Japan in March 2026, headlining [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would team up with Gustav Gryffin to face Hideyoshi Kamitani and Daichi Hashimoto in a Tag Team Match.
 
@@ -138,7 +144,7 @@ In February 2026 PpW announced that Goblin would be part of their excurion to Ja
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Gustav Gryffin](@/w/gustav-gryffin.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - with [Gustav Gryffin](@/w/gustav-gryffin.md) as [Bad Trip](@/tt/bad-trip.md)
   - 20 Typa 20 Broni Rumble Match (2025)
   - [Złoty Ewenement](@/a/zlote-ewenementy.md) (1 time):
      * Match of the Year - vs [Gustav Gryffin](@/w/gustav-gryffin.md) at [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) (2025)

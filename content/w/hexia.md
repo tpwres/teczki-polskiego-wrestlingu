@@ -30,7 +30,7 @@ During the match, Hexia's opponent collapsed and the match was ruled as a refere
 
 Hexia continued her rather regular appearances in MZW from 2015 up until 2018. In most of her matches she worked either as a singles competitor, or teamed up with Mr B., most notably in Handicap Matches against such wrestlers as [Alex Arthur](@/w/alex-arthur.md) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md). She was undefeated in regular matches throughout her career, with her only losses being through disqualification. Hexia's last match took place at [Big Rumble](@/e/mzw/2018-01-14-mzw-big-rumble.md) in January 2018, where she took part in an [MZW Championship](@/c/mzw-championship.md) #1 Contender Big Rumble Match. After that she made one last in-ring appearance at [MZW Project 7](@/e/mzw/2020-01-18-mzw-project-7-golden-road.md), in a segment with [Ring Rat](@/w/sedzia-seweryn.md), Anatoli and [Krueger](@/w/olgierd.md), hitting Krueger with a Chokeslam.
 
-After that show Hexia retired from in-ring competition, but remained with the organization in other roles.
+After that show Hexia retired from in-ring competition, but she was seen working at MZW events as a staff member.
 
 ## In wrestling
 

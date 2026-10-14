@@ -25,8 +25,8 @@ Diana Strong is a Polish wrestler best known for her time in [Prime Time Wrestli
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2017-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-present)
- 
-## Professional wrestling career 
+
+## Professional wrestling career
 
 ### Kombat Pro Wrestling (2017-2021)
 
@@ -44,6 +44,10 @@ Diana joined [Prime Time Wrestling](@/o/ptw.md) fairly early in its development.
 
 After PTW's reboot, which was forced by multiple controversies and [talent exodus](@/a/ptw-exits.md) caused by the failure of [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), Diana stayed with the federation and her position remained stable, since she still had the ability to compete against international female wrestlers. When Pan Pawłowski announced at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) that PTW would create their [Women's Championship](@/c/ptw-womens-championship.md), it became clear that Diana would be one of the top contenders for this title. At [Nowe Porządki](@/e/ptw/2025-01-11-ptw-nowe-porzadki.md) PTW held the first match in a tournament, where Diana defeated Amy Heartbeat. Ulitmately the tournament plan was scrapped, when it was revealed that [Mercedes Mone](@/w/mercedes-mone.md) would made her appearance at [All About Mone](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md). Despite her effort, Diana lost to Mercedes, which resulted in her being berated by villainous [Pan Pawłowski](@/w/pan-pawlowski.md). That led to her fight against [PTW Champion](@/c/ptw-championship.md) Puncher at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), which she lost.
 
+#### PTW Women's Champion and heel turn
+
+Diana's chance for a rematch came at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md). She managed to reclaim the title from reigning Champion [Mercedes Moné](@/w/mercedes-mone.md). However, her victory came at the cost of turning to dark side, when she low-blowed [Referee Klaudiusz](@/w/sedzia-klaudiusz.md) and smacked Mercedes with the title belt.
+
 ## International wrestling appearances
 
 Besides her appearances at the Polish wrestling scene Diana also works international bookings in Europe, the British Isles and even North America (e.g. SLAM Wrestling Finland, 1CW Pro Wrestling and Westside Xtreme Wrestling).
@@ -60,7 +64,7 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
   - [Moloch](@/w/moloch.md) (2018)
 * Entrance music:
   - "Iconic" by Ledger
-    {{ org_badge(orgs=['ptw']) }} (2021-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2025) <br>
     {{ music(yt='EcpAfOZlMnk')}}
     {{ music(spot='75sYImCjS4sB3Xrdrae1OZ')}}
     {{ music(apple='1366486807?i=1366487205')}}
@@ -76,8 +80,17 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
   - [PTW Women's Championship](@/c/ptw-womens-championship.md) (1 time; current)
   - [PTW Awards](@/a/ptw-awards.md) (1 time):
     * Female Wrestler of the Year (2022)
+
+#### International wrestling accomplishments
+
 * Pro Wrestling Illustrated:
   - #205 on 2025 PWI Women's 250 list
+* 🇦🇹 [Rings of Europe][cm-roe]:
+  - [GLAM! Championship][cm-roe-glam] (1 time)
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Big League Wrestling][cm-blw]:
+  - [BLW Women's Championship][cm-blw-wc] (1 time)
+* 🇫🇮 [Slam Wrestling Entertainment][cm-slam]:
+  - [SLAM Women's Championship][cm-slam-wc] (1 time)
 
 ## References
 
@@ -87,3 +100,9 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
 
 [pwi-250]: https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated
 [marigold]: https://www.facebook.com/100077328566580/posts/1057334496854159/
+[cm-roe]: https://www.cagematch.net/r/?id=8&nr=59
+[cm-roe-glam]: https://www.cagematch.net/r/?id=5&nr=5160
+[cm-blw]: https://www.cagematch.net/r/?id=8&nr=2047
+[cm-blw-wc]: https://www.cagematch.net/r/?id=5&nr=3555
+[cm-slam]: https://www.cagematch.net/r/?id=8&nr=2261
+[cm-slam-wc]: https://www.cagematch.net/r/?id=5&nr=6674

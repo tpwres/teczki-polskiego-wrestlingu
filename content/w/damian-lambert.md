@@ -14,7 +14,7 @@ Damian Lambert is a Polish wrestler formerly working for [Prime Time Wrestling](
 
 ## Basic info
 
-* Years active: 2015-2019, 2025-
+* Years active: 2015-2019, 2025-2026
 * Gimmicks/nicknames:
   - Damian Lambert {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }}
   - Damien Rotschild {{ org_badge(orgs=['mzw']) }}
@@ -33,7 +33,7 @@ Damian Lambert made his wrestling debut in [Do Or Die Wrestling](@/o/ddw.md) in 
 
 ### Kombat Pro Wrestling (2015-2016)
 
-After DDW's tranformation into [Kombat Pro Wrestling](@/o/kpw.md) Damian remained in the federation as a heel, making his debut in a victorious match against [Robert Star](@/w/robert-star.md) at [KPW's show at Gdynia Game Festival](@/e/kpw/2015-12-11-kpw-ggf.md). He remained in the federation for about a year, making a total of seven appearances - mostly in midcard - against wrestlers such as [Kamil Aleksander](@/w/kamil-aleksander.md), [Peter Pannache](@/w/peter-pannache.md) and [Kaszub](@/w/kaszub.md). He made his last appearance at [Arena 4](@/e/kpw/2016-11-26-kpw-arena-4.md) where he was defeated by Robert Star.
+After DDW's tranformation into [Kombat Pro Wrestling](@/o/kpw.md) Damian remained in the federation as a heel, making his debut in a victorious match against [Robert Star](@/w/robert-star.md) at [KPW's show at Gdynia Game Festival](@/e/kpw/2015-12-11-kpw-ggf.md). He remained in the federation for about a year, making a total of seven appearances, mostly in the midcard, against wrestlers such as [Kamil Aleksander](@/w/kamil-aleksander.md), [Peter Pannache](@/w/peter-pannache.md) and [Kaszub](@/w/kaszub.md). His last match there was at [Arena 4](@/e/kpw/2016-11-26-kpw-arena-4.md) where lost to by Robert Star.
 
 ### Maniac Zone Wrestling (2017-2019)
 
@@ -61,12 +61,15 @@ Lambert quietly [left PTW](@/a/ptw-exits.md) some time after [More Moné, More P
 
 ## International wrestling appearances
 
-During his British excursion Lambert made appearances in two matches for Coventry Pro Wrestling, and another two for the Birmingham-based Kamikaze Pro. There, Lambert would meet [Justin Joy](@/w/justin-joy.md), who was also on his UK leave, after losing to [Shadow](@/w/shadow.md) at [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md). When Justin returned to MZW in 2017 at [Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md), he brought Damian with him.
+During his British excursion Lambert made appearances in two matches for Coventry Pro Wrestling, and another two for the Birmingham-based Kamikaze Pro. There, Lambert would meet [Justin Joy](@/w/justin-joy.md), who was also on his UK leave, after losing to [Shadow](@/w/shadow.md) at [MZW Beatdown](@/e/mzw/2016-05-14-mzw-beatdown.md). When Justin returned to MZW in 2017 at [Freak Show](@/e/mzw/2017-12-02-mzw-freak-show.md), he apparently brought Damian with him.
 
 ## In wrestling
 
 * Finishers:
   - _Lambert Lock_ (Armbar) (2015-2019)
+  - Standing Spanish Fly (2026)
+* Tag Teams and Stables:
+  - Proroctwo (2026)
 * Entrance music:
   - "NieWolnOść" by Hunter
     {{ org_badge(orgs=['mzw']) }} (2017-2019) <br>

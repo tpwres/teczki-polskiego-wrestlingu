@@ -31,7 +31,7 @@ In July 2025 Dieter made his debut in [Legacy of Wrestling](@/o/low.md) at their
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Dieter debuted in [FRPW](@/o/frpw.md) at the [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), in a match against [Jacob Crane](@/w/jacob-crane.md).
+Dieter debuted in [FRPW](@/o/frpw.md) at the [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), in a match against [Jacob Crane](@/w/jacob-crane.md). The bout ended in a time limit draw, which led to a rematch at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) in a "Word of Honour" stipulation.
 
 ## In wrestling
 

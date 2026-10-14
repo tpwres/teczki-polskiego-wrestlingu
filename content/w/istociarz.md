@@ -10,13 +10,13 @@ country = ["PL"]
 1 = { path = "antek.jpg", caption = "Istociarz in his trademark white lucha mask.", source = "MyWrestling.com.pl" }
 +++
 
-Istociarz is a professional wrestling commentator, interviever and Internet personality active on YouTube, and working for [PpW Ewenement](@/o/ppw.md).
+Istociarz is a professional wrestling commentator, announcer, interviever and Internet personality active on YouTube, and working for [PpW Ewenement](@/o/ppw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 * Years active: 2011-present
 * Gimmicks/nicknames:
   - LJ Blade {{ org_badge(org='nqw') }} (2007-2009)
-  - Istociarz {{ org_badge(org='ppw') }}
+  - Istociarz {{ org_badge(orgs=['ppw', 'frpw']) }} (2025-)
 * Trained by:
   - Don Roid (2009, briefly)
 
@@ -26,7 +26,7 @@ Istociarz is a professional wrestling commentator, interviever and Internet pers
 
 Young Istociarz was a backyard wrestler, active in his small project, [New Quality Wrestling](@/o/nqw.md), as LJ Blade. Per his own account, he took part in [Don Roid's](@/w/don-roid.md) original training camp, alongside [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), [Kamil Aleksander](@/w/kamil-aleksander.md) and [Klarys](@/w/klarys.md), and later [Jędruś Bułecka](@/w/jedrus-bulecka.md). This is corroborated by [MyWrestling article][antek-skomentuje] where a  mysterious "fourth man" is mentioned.
 
-Painful training regimen and overall lack of organisation, however, discouraged him from further trainings under Roid. After that, Istociarz limited his activity on the wrestling scene to being a fan and to the Internet. He was active on forums like BillGoldbergZone and Ultimate Wrestling (as a moderator), and also worked as a newsman for WrestleFans - one of the most prominent Polish wrestling portals.
+The painful training regimen and overall lack of organisation, however, discouraged him from further trainings under Roid. After that, Istociarz limited his activity on the wrestling scene to being a fan and to the Internet. He was active on forums like BillGoldbergZone and Ultimate Wrestling (as a moderator), and also worked as a newsman for WrestleFans - one of the most prominent Polish wrestling portals.
 
 ### Internet personality: Istota Wrestlingu (2023-present)
 
@@ -39,7 +39,13 @@ Along with moving to the live formula, their style also changed. Istociarz (then
 
 After Martyna became an [Ewenement Dojo](@/o/dojo.md) trainee, the relationship between Istota Wrestlingu and [PpW](@/o/ppw.md) gradually started growing. The channel featured PpW angles (notably - [Gustav Gryffin ](@/w/gustav-gryffin.md) [attacking][flecizm-stosowany] [Goblin](@/w/goblin.md) during his interview, in a build-up to their match) and more PpW wrestlers (both live and in exclusive interviews). [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) called the channel biased and a "PpW's propaganda machine", rejecting an interview invitation (or alternatively, claiming he'd never heard of the channel and never received an invitation).
 
-On January 24th, 2025, in an exclusive piece, MyWrestling confirmed that Istociarz would be added to the PpW commentary team. Joining [Joker](@/w/joker.md) and replacing Szymon "Modzel" Modzelewski, he debuted at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) and appeared at every show since. He also works on various aspects of the events, such as preshow direction, video production and conducting interviews with fans.
+On January 24th, 2025, in an exclusive piece, MyWrestling confirmed that Istociarz would join the PpW commentary team. Alongside [Joker](@/w/joker.md) and replacing Szymon "Modzel" Modzelewski, he debuted at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md) and appeared at nearly every show since. He also works on various aspects of the events, such as preshow direction, video production and conducting interviews with fans. 
+
+From 2026 onwards Istociarz remained mostly as a sole commentator of PpW shows, being occasionaly joined by [Gustav Gryffin](@/w/gustav-gryffin.md) (during his recovery from injury) as a play-by-play commentator.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Istociarz joined [FRPW](@/o/frpw.md) shortly after the federation started operations. He made his in-ring debut as a Host and Ring Announcer at FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).
 
 ## In wrestling
 

@@ -12,7 +12,7 @@ Franz Engel, also known as ZERO, is a German wrestler best known for his time in
 
 ## Basic info
 
-* Years active: 2012-present
+* Years active: 2012-2024
 * Gimmicks/nicknames:
   - Franz Engel {{ org_badge(org='mzw') }} (2015-2017)
   - ZERO {{ org_badge(org='mzw') }} (2014)
