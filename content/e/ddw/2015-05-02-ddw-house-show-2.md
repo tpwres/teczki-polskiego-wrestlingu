@@ -29,7 +29,7 @@ Disappointed by the poor audience numbers of [DDW #9](@/e/ddw/2013-10-25-ddw-9.m
 - - '[Luxus](@/w/luxus.md)'
   - '[adept Rex Torpeda](@/w/krystian-malinowski.md)'
   - '[Prince Victor](@/w/vic-golden.md)'
-  - '???'
+  - 'CMD'
   - 'adept Bestia'
   - '[_rookie_ Victor Rosetti](@/w/rosetti.md)'
   - '[_rookie_ David Oliwa](@/w/david-oliwa.md)'
@@ -64,7 +64,7 @@ referee Artur Dzwończak \
 {% inline_fig(path="2015-05-02-ddw-house-show-2-battle-royal-2.jpg") %}
 Left to right: \
 [_rookie_ Prince Victor](@/w/vic-golden.md) (in purple trousers) \
-unknown \
+CMD (in black jacket) \
 unknown \
 adept Rex Torpeda (in red trousers) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
@@ -72,7 +72,7 @@ adept Rex Torpeda (in red trousers) \
 
 {% inline_fig(path="2015-05-02-ddw-house-show-2-battle-royal-3.jpg") %}
 Left to right: \
-unknown \
+CMD \
 adept Bestia (with long hair) \
 [Victor Rosetti](@/w/rosetti.md) \
 [Luxus](@/w/luxus.md) (in foreground, entering the ring) \
@@ -89,7 +89,7 @@ Left to right: \
 Rosetti (leaning towards the corner) \
 _rookie_ Damian Lambert (with his guard up) \
 adept Rex Torpeda (attacking Damian Lambert) \
-unknown rookie (falling down) \
+CMD (falling down) \
 _rookie_ Prince Victor (in purple  trousers)\
 Luxus (holding the top rope) \
 (Source: [Krystian Malinowski](@/w/krystian-malinowski.md))
