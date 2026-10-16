@@ -1,5 +1,5 @@
 +++
-title = "PpW @ Mińska 65"
+title = "PpW Duch Świąt, Smak Krwi 2"
 template = "event_page.html"
 authors = ["M3n747"]
 aliases = ["/e/ppw/2026-12-05-ppw-minska-65"]
@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"PpW @ Mińska 65" (_working title_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw.
+Duch Świąt, Smak Krwi 2 (_The Spirit of Christmas, the Taste of Blood 2_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) set to take place at [Mińska&nbsp;65](@/v/minska-65.md) in Warsaw. It will be PpW's third Christmas-themed show, following [Barszcz z Krzesłami](@/e/ppw/2024-12-06-ppw-hardcore-friday-barszcz-z-krzeslami.md) and the first [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md).
 
 ## Build-up
 
