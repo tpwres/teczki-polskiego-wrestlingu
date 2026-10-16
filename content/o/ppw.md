@@ -151,12 +151,13 @@ In 2025 Bartosz Mateńko released a documentary short film titled ["Bump"](@/a/b
 
 #### Reni Jusis
 
-On October 16, 2026, Polish pop/electronic music artist [Reni Jusis][rj-wiki] released a music video for her new single titled "Fajnie, że byłeś" (_Cool That You've Been_), with a [teaser trailer][reni-ig] on her social media the day before. The trailer showed her stepping into a ring and donning a lucha mask (specifically that of [Istociara](@/w/gloria-g-szek.md)), with [Gloria](@/w/gloria-g-szek.md) to her right, and [Agentka Agatka](@/w/agentka-agatka.md) to her left. The full video featured two more PpW performers, [Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md), and shows them staging a 3-vs-2 Handicap Intergender Tag-Team Match, which Reni wins by pinning all four other contestants before it turns into a dance party.
+On October 16, 2026, Polish pop/electronic music artist [Reni Jusis][rj-wiki] released a music video for her new single titled "Fajnie, że byłeś" (_Cool That You've Been_), with a [teaser trailer][reni-ig] on her social media the day before. The trailer showed her stepping into a ring and donning a lucha mask (specifically that of [Istociara](@/w/gloria-g-szek.md)), with [Gloria](@/w/gloria-g-szek.md) to her right, and [Agentka Agatka](@/w/agentka-agatka.md) to her left. The full video featured two more PpW performers, [Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md), and shows them staging an intergender three-on-two match, which Reni wins by pinning all four other contestants before it turns into a dance party.
 
 {% free_card() %}
 - - 'Reni Juicy & [Agentka Agatka](@/w/agentka-agatka.md) & [Gloria](@/w/gloria-g-szek.md)'
   - '[Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
-  - en: Music video for "Fajnie, że byłeś" by Reni Jusis
+  - s: 3-vs-2 Handicap Intergender Tag-Team Match
+    en: Music video for "Fajnie, że byłeś" by Reni Jusis
     ed: 2026-10-16
 {% end %}
 
@@ -166,12 +167,12 @@ The song can be found on: {{ music(yt='R6aAb6jK58k') }} {{ music(spot='6lkIz9kro
 
 #### Reni Jusis
 
-On October 16, 2026, Polish pop/electronic music artist [Reni Jusis][rj-wiki] released a music video for her new single titled "Fajnie że byłeś" (_It's nice you were there_), with a [teaser trailer][reni-ig] on social media the day before. The trailer showed her stepping into the ring, and donning a lucha mask (specifically that of [Istociara](@/w/gloria-g-szek.md)), with [Gloria](@/w/gloria-g-szek.md) to her right, and [Agentka Agatka](@/w/agentka-agatka.md) to her left. The full video featured two more PpW performers, and shows them staging an intergender three-on-two match which Reni wins by pinning all four other contestants before it turns into a dance party.
+On October 16, 2026, Polish pop/electronic music artist [Reni Jusis][rj-wiki] released a music video for her new single titled "Fajnie, że byłeś" (_It's nice you were there_), with a [teaser trailer][reni-ig] on social media the day before. The trailer showed her stepping into the ring, and donning a lucha mask (specifically that of [Istociara](@/w/gloria-g-szek.md)), with [Gloria](@/w/gloria-g-szek.md) to her right, and [Agentka Agatka](@/w/agentka-agatka.md) to her left. The full video featured two more PpW performers, and shows them staging an intergender three-on-two match which Reni wins by pinning all four other contestants before it turns into a dance party.
 {% free_card() %}
 - - 'Reni Juicy & [Agentka Agatka](@/w/agentka-agatka.md) & [Gloria](@/w/gloria-g-szek.md)'
   - '[Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
   - s: Intergender Tag Team Match
-    en: Music video for "Fajnie że byłeś" by Reni Jusis
+    en: Music video for "Fajnie, że byłeś" by Reni Jusis
     ed: 2026-10-16
 {% end %}
 
