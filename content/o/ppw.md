@@ -2,7 +2,7 @@
 title = "PpW Ewenement"
 weight = 0
 template = "org_page.html"
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chrono_root = ["ppw"]
 [extra]
@@ -161,12 +161,16 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) (2nd run)'
   - >
-    Defeated [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md) at [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
+    Defeated [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) and [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md).
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md). A number of these backyard belts were presented at [Udawana Wystawa](@/a/udawana-wystawa.md).
+
+## Other media
+
+In mid-October 2026 Polish pop singer [Reni Jusis][reni-jusis] released a video for her new single ["Fajnie, że byłeś"][reni-juicy] (_Cool That You've Been_). The video features PpW talent [Agentka Agatka](@/w/agentka-agatka.md), [Gloria G Szek](@/w/gloria-g-szek.md), [Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md) in a 3-vs-2 Handicap Intergender Tag-Team Match, with Reni performing while wearing Gloria's trademark Lucha mask. The video was shot in the building of Warsaw-based [Aligatores Fight Club][aligatory], in a boxing rather than a wrestling ring. In the role of the referee was Młody SMF, who co-wrote the lyrics.
 
 ## Internet presence
 
@@ -198,3 +202,6 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [botch-489]: (https://youtu.be/lGThcHUL5g0?t=516)
 [botch-493]: (https://youtu.be/2azqxchwafo&t=730s)
 [botch-529]: (https://youtu.be/u2Sj5ZjXan4&t=206)
+[reni-jusis]: https://en.wikipedia.org/wiki/Reni_Jusis
+[reni-juicy]: https://www.youtube.com/watch?v=R6aAb6jK58k
+[aligatory]: https://www.facebook.com/aligatoresfightclub
