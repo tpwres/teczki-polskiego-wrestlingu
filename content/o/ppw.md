@@ -149,6 +149,20 @@ See link in the References section below for the video. Also present backstage w
 
 In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The short depicts PpW wrestlers in their daily lives, and their metamorphosis into seemingly indestructible fighters once they step into the ring and become their true selves. The documentary premiered on 28.10.2025 in {{ map_pin(v="Kinoteka") }}Kinoteka, two days before [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md).
 
+#### Reni Jusis
+
+On October 16, 2026, Polish pop/electronic music artist [Reni Jusis][rj-wiki] released a music video for her new single titled "Fajnie że byłeś" (_It's nice you were there_), with a [teaser trailer][reni-ig] on social media the day before. The trailer showed her stepping into the ring, and donning a lucha mask (specifically that of [Istociara](@/w/gloria-g-szek.md)), with [Gloria](@/w/gloria-g-szek.md) to her right, and [Agentka Agatka](@/w/agentka-agatka.md) to her left. The full video featured two more PpW performers, and shows them staging an intergender three-on-two match which Reni wins by pinning all four other contestants before it turns into a dance party.
+{% free_card() %}
+- - 'Reni Juicy & [Agentka Agatka](@/w/agentka-agatka.md) & [Gloria](@/w/gloria-g-szek.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
+  - en: Music video for "Fajnie że byłeś" by Reni Jusis
+    ed: 2026-10-16
+{% end %}
+
+The match is refereed by Młody SMF, a hip-hop artist who also has a couple of lines in the song. The music video was filmed in Aligatores Fight Club, a martial arts gym in Warsaw with a unique interior.
+
+The song can be found on: {{ music(yt='R6aAb6jK58k') }} {{ music(spot='6lkIz9kroDafn1HUMZI3wH') }} {{ music(apple='6815043490')}}
+
 ## Championships
 
 {% championship() %}
@@ -198,3 +212,5 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [botch-489]: (https://youtu.be/lGThcHUL5g0?t=516)
 [botch-493]: (https://youtu.be/2azqxchwafo&t=730s)
 [botch-529]: (https://youtu.be/u2Sj5ZjXan4&t=206)
+[rj-wiki]: https://en.wikipedia.org/wiki/Reni_Jusis
+[reni-ig]: https://www.instagram.com/reel/Dee5FsqM9tS
