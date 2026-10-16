@@ -164,6 +164,21 @@ The match (which happens in a boxing, rather than a wrestling ring) is refereed 
 
 The song can be found on: {{ music(yt='R6aAb6jK58k') }} {{ music(spot='6lkIz9kroDafn1HUMZI3wH') }} {{ music(apple='6815043489?i=6815043490')}}.
 
+#### Reni Jusis
+
+On October 16, 2026, Polish pop/electronic music artist [Reni Jusis][rj-wiki] released a music video for her new single titled "Fajnie że byłeś" (_It's nice you were there_), with a [teaser trailer][reni-ig] on social media the day before. The trailer showed her stepping into the ring, and donning a lucha mask (specifically that of [Istociara](@/w/gloria-g-szek.md)), with [Gloria](@/w/gloria-g-szek.md) to her right, and [Agentka Agatka](@/w/agentka-agatka.md) to her left. The full video featured two more PpW performers, and shows them staging an intergender three-on-two match which Reni wins by pinning all four other contestants before it turns into a dance party.
+{% free_card() %}
+- - 'Reni Juicy & [Agentka Agatka](@/w/agentka-agatka.md) & [Gloria](@/w/gloria-g-szek.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
+  - s: Intergender Tag Team Match
+    en: Music video for "Fajnie że byłeś" by Reni Jusis
+    ed: 2026-10-16
+{% end %}
+
+The match is refereed by Młody SMF, a hip-hop artist who also has a couple of lines in the song. The music video was filmed in Aligatores Fight Club, a martial arts gym in Warsaw with a unique interior.
+
+The song can be found on: {{ music(yt='R6aAb6jK58k') }} {{ music(spot='6lkIz9kroDafn1HUMZI3wH') }} {{ music(apple='6815043490')}}
+
 ## Championships
 
 {% championship() %}
