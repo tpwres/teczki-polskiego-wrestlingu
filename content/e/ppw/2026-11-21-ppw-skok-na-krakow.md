@@ -17,9 +17,16 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 
 ## Build-up
 
-* TBD
+* The first match to be announced (on 16.10.2026) was a [PpW Championship](@/c/ppw-championship.md) Match between the reigning Champion [Gabriel Queen](@/w/gabriel-queen.md), and the challenger [Jakub](@/w/jakub.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
+  - '[Jakub](@/w/jakub.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
+    nc: upcoming
+{% end %}
 
 ### Highlights
 
