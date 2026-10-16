@@ -2,7 +2,7 @@
 title = "PpW Ewenement"
 weight = 0
 template = "org_page.html"
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "M3n747"]
 [taxonomies]
 chrono_root = ["ppw"]
 [extra]
@@ -147,7 +147,23 @@ See link in the References section below for the video. Also present backstage w
 
 ### Independent and other
 
-In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The short depicts PpW wrestlers in their daily lives, and their metamorphosis into seemingly indestructible fighters once they step into the ring and become their true selves. The documentary premiered on 28.10.2025 in {{ map_pin(v="Kinoteka") }}Kinoteka, two days before [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md).
+In 2025 Bartosz Mateńko released a documentary short film titled ["Bump"](@/a/bump.md). The short depicts PpW wrestlers in their daily lives, and their metamorphosis into seemingly indestructible fighters once they step into the ring and become their true selves. The documentary premiered on 28.10.2025 in {{ map_pin(v="Kinoteka") }}Kinoteka, two days before [Clash of the Creeps](@/e/ppw/2025-10-30-ppw_splat-clash-of-the-creeps.md).
+
+#### Reni Jusis
+
+On October 16, 2026, Polish pop/electronic music artist [Reni Jusis][rj-wiki] released a music video for her new single titled "Fajnie, że byłeś" (_Cool That You've Been_), with a [teaser trailer][reni-ig] on her social media the day before. The trailer showed her stepping into a ring and donning a lucha mask (specifically that of [Istociara](@/w/gloria-g-szek.md)), with [Gloria](@/w/gloria-g-szek.md) to her right, and [Agentka Agatka](@/w/agentka-agatka.md) to her left. The full video featured two more PpW performers, [Biesiad Strong](@/w/biesiad.md) and [Johnny Blade](@/w/johnny-blade.md), and shows them staging an intergender three-on-two match, which Reni wins by pinning all four other contestants before it turns into a dance party.
+
+{% free_card() %}
+- - 'Reni Juicy & [Agentka Agatka](@/w/agentka-agatka.md) & [Gloria](@/w/gloria-g-szek.md)'
+  - '[Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)'
+  - s: 3-vs-2 Handicap Intergender Tag-Team Match
+    en: Music video for "Fajnie, że byłeś" by Reni Jusis
+    ed: 2026-10-16
+{% end %}
+
+The match (which happens in a boxing, rather than a wrestling ring) is refereed by Młody SMF, a hip-hop artist who co-wrote the text and performs his lyrical contribution in the song. The music video was filmed in [Aligatores Fight Club][aligatory], a martial arts gym in Warsaw with a unique interior design.
+
+The song can be found on: {{ music(yt='R6aAb6jK58k') }} {{ music(spot='6lkIz9kroDafn1HUMZI3wH') }} {{ music(apple='6815043489?i=6815043490')}}.
 
 ## Championships
 
@@ -161,9 +177,9 @@ In 2025 Bartosz Mateńko released a documentary short film titled "Bump". The sh
   - >
     Defeated [Johnny Blade](@/w/johnny-blade.md) at [PpW Hardcore Friday the 13th 東京](@/a/ppw-hardcore-friday-the-13th-tokyo.md).
 - - '[PpW Tag Team Championship](@/c/ppw-tag-team-championship.md)'
-  - '[The Hardcors](@/tt/the-hardcors.md): [Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) (2nd run)'
   - >
-    Defeated [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md) at [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md).
+    Defeated [The Hardcors](@/tt/the-hardcors.md) ([Biesiad Strong](@/w/biesiad.md) & [Johnny Blade](@/w/johnny-blade.md)) and [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md) at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md).
 {% end %}
 
 Back in the backyard years PpW promoted a great number of championships, which were retired long before PpW turned into a professional federation. These championships are not longer considered canon or referenced in current PpW programming. The same goes for PpW Championship which was created in that era, but does not share its history with the backyard period - meaning that the inaugural PpW Champion is [Mister Z](@/w/mister-z.md). A number of these backyard belts were presented at [Udawana Wystawa](@/a/udawana-wystawa.md).
@@ -198,3 +214,6 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [botch-489]: (https://youtu.be/lGThcHUL5g0?t=516)
 [botch-493]: (https://youtu.be/2azqxchwafo&t=730s)
 [botch-529]: (https://youtu.be/u2Sj5ZjXan4&t=206)
+[rj-wiki]: https://en.wikipedia.org/wiki/Reni_Jusis
+[reni-ig]: https://www.instagram.com/reel/Dee5FsqM9tS
+[aligatory]: https://www.facebook.com/aligatoresfightclub
