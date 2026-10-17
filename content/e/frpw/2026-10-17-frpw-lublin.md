@@ -67,7 +67,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
   - nc: upcoming
 {% end %}
 
-## Highlights
+### Highlights
 
 * TBD
 

@@ -28,7 +28,7 @@ has_video = false
     nc: upcoming
 {% end %}
 
-## Highlights
+### Highlights
 
 * TBD
 

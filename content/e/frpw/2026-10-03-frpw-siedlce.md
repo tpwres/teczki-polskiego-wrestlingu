@@ -82,7 +82,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
 
 Attendance: ca. 150
 
-## Highlights
+### Highlights
 
 * All matches were run under Japanese-style strict timekeeping, with the limit both called at the start, and frequently during the match. When calling the winners, the ring announcer also mentioned the exact duration.
 * [Tomczak](@/w/tomczak.md) wore his old rusty-brown ring gear. He came out wearing his mask, but removed it shortly afterwards.

@@ -42,7 +42,7 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
     nc: upcoming
 {% end %}
 
-## Highlights
+### Highlights
 
 * TBD
 
