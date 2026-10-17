@@ -36,7 +36,7 @@ At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) [Chemik](@/w
 
 ### PpW Ewenemenet Wrestling (2026-)
 
-In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md).
+In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md). He later appeared at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) in the pre-show match.
 
 ### Legacy of Wrestling (2026-)
 
@@ -44,7 +44,7 @@ Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/20
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Oskar debuted for FRPW at the [show in Warka](@/e/frpw/2026-10-18-frpw-warka.md).
+Haller debuted for FRPW at the [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md).
 
 ## Championships and accomplishments
 
