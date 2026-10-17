@@ -10,7 +10,7 @@ orgs = ["frpw"]
 city = "Siedlce"
 toclevel = 2
 has_video = true
-collapse_gallery = false
+collapse_gallery = true
 [extra.gallery]
 +++
 
