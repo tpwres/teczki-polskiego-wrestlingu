@@ -216,4 +216,4 @@ Back in the backyard years PpW promoted a great number of championships, which w
 [botch-529]: (https://youtu.be/u2Sj5ZjXan4&t=206)
 [rj-wiki]: https://en.wikipedia.org/wiki/Reni_Jusis
 [reni-ig]: https://www.instagram.com/reel/Dee5FsqM9tS
-[aligatory]: https://www.facebook.com/aligatoresfightclub
+[aligatory]: https://aligatores.pl/
