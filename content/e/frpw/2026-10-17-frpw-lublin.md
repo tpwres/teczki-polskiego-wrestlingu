@@ -56,7 +56,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
   - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
 - credits:
     Host, Ring Announcer: '[Istociarz](@/w/istociarz.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), ???'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia ???'
 {% end %}
 
 ### Notes
