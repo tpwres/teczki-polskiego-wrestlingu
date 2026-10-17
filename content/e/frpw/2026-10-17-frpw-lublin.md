@@ -34,7 +34,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 
 {% card() %}
 - - '[Tomczak](@/w/tomczak.md) w/ [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
-  - 'John Parker'
+  - 'Jon Parker'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: HeelTurn Invitational Tournament, Round 2
