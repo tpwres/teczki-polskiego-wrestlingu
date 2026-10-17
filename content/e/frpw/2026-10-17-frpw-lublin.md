@@ -60,4 +60,5 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 {% end %}
 
 ### Notes
-* [Vic Golden](@/w/vic-golden.md) had to skip this show due to ilness, and was replaced by [Oskar Haller](@/w/oskar-haller.md), debuting in FRPW.
+
+* This was [Oskar Haller's](@/w/oskar-haller.md) debut in FRPW. He was supposed to make his first appearance [the next day](@/e/frpw/2026-10-18-frpw-warka.md), but his debut was expedited due to [Vic Golden's](@/w/vic-golden.md) ilness and the promotion needing a replacement.
