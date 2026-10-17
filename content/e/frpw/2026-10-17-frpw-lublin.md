@@ -56,9 +56,9 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
   - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
 - credits:
     Host, Ring Announcer: '[Istociarz](@/w/istociarz.md)'
-    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia ???'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Alan (WSW)'
 {% end %}
 
 ### Notes
 
-* [Vic Golden](@/w/vic-golden.md) was replaced by [Oskar Haller](@/w/oskar-haller.md), debuting in FRPW.
+* [Vic Golden](@/w/vic-golden.md) had to skip this show due to ilness, and was replaced by [Oskar Haller](@/w/oskar-haller.md), debuting in FRPW.
