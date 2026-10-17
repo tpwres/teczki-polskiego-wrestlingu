@@ -78,7 +78,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
     Referees: '[Sędzia Sewi](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)'
 {% end %}
 
-## Highlights
+### Highlights
 
 * This show was intentionally different from [PpW](@/o/ppw.md) events, with all tickets seated, different lighting, and a PG language policy. Host [Joker](@/w/joker.md) reminded the PpW fans present to mind their language, which was mostly successful.
 * Additionally, the show featured no hardcore matches, no weapons of any kind and no blood.
