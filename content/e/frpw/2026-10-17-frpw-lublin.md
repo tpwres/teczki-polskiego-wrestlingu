@@ -33,7 +33,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 ## Card
 
 {% card() %}
-- - '[Tomczak](@/w/tomczak.md)'
+- - '[Tomczak](@/w/tomczak.md) w/ [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
   - 'John Parker'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Bartosz Plata](@/w/plata.md)'
@@ -55,3 +55,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
 {% end %}
+
+### Notes
+
+* [Vic Golden](@/w/vic-golden.md) was replaced by [Oskar Haller](@/w/oskar-haller.md), debuting in FRPW.
