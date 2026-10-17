@@ -21,7 +21,7 @@ has_video = false
 
 {{ skip_card() }}
 
-## Highlights
+### Highlights
 
 * TBD
 
