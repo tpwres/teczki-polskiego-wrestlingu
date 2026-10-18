@@ -31,7 +31,7 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-- - 'Kolektyw: [Jakub](@/w/jakub.md) & [Gloria G Szek](@/w/gloria-g-szek.md)'
+- - 'Kolektyw: [Jakub](@/w/jakub.md) & [Gloria](@/w/gloria-g-szek.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
 - - 'Stowarzysz w/ [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
   - 'Jon Parker'
@@ -57,7 +57,10 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 
 ### Notes
 
-* [Robert Star](@/w/robert-star.md) came out with his DPW Heavyweight Championship, and was announced as the Champion of Denmark.
+* [Robert Star](@/w/robert-star.md) came out with his DPW Heavyweight Championship, and was announced as the Danish Champion.
+* Kolektyw (_The Collective_) is a heel stable active in Dresden-based Thats Awesome Wrestling and Dresden Dojo. The members are Jakub, [Gustav Gryffin](@/w/gustav-gryffin.md), Olgierd and Gloria. While Gloria accompanied Fox as a manager in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), they were not announced as such. Therefore, this was the stable's first official appearance in Polish wrestling.
+* The training session followed the format established by previous shows closely.
+* In a deviation from FRPW's no-hardcore policy, Olgierd produced some chairs from under the ring, and set them up outside to throw Leon into.
 
 ## References
 
