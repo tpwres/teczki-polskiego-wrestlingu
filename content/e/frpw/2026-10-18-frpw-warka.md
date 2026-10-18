@@ -45,13 +45,9 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
   - s: Mixed Tag Team Match
 - - '[Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md)'
   - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-
-
-- - '[Olgierd](@/w/olgierd.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Olgierd](@/w/olgierd.md)'
   - s: HeelTurn Invitational Tournament, Final Round
-    nc: upcoming
-
 - credits:
     Host, Ring Announcer: '[Istociarz](@/w/istociarz.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Alan (WSW)'

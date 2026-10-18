@@ -70,6 +70,8 @@ In 2024 Leon made his first handful of appearances outside of Poland. He worked 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
   - Championship Contract Battle Royal (2023)
+* [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md)
+  - HeelTurn Invitational Tournament
 
 ## References
 
