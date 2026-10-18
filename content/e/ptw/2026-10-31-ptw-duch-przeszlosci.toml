@@ -1,3 +1,4 @@
 01 = { path = "plakat-przeszlosci.webp", caption = "Official poster.", source = "Official PTW Facebook" }
 02 = { path = "tag-team-przeszlosci.webp", caption = "Image announcing Pierre & [Fabian](@/w/fabian.md) vs [Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md).", source = "Official PTW Facebook" }
 03 = { path = "alex-brave-przeszlosci.webp", caption = "Image announcing [Alex Brave](@/w/alex-brave.md).", source = "Official PTW Facebook" }
+04 = { path = "damian-miller-vs-gwiezdny-marek-vs-polski-niedzwiedz.webp", caption = "Image announcing Damian Miller vs Gwiezdny Marek vs [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).", source = "Official PTW Facebook" }

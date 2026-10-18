@@ -20,6 +20,7 @@ has_video = true
 * In a [video][komora-maszyny-losujacej-jest-pusta] posted on 12.10.2026 [Łukasz Okoński](@/w/lukasz-okonski.md), assisted by [Sędzia Herno](@/w/sedzia-herno.md), drew four random names of wrestlers to participate in the first round of the Golden Ticket Tournament: [CJ Klakson](@/w/cj-klakson.md), [Iskra](@/w/iskra.md), [Alex Brave](@/w/alex-brave.md) and [El G](@/w/el-g.md).
 * Pierre & [Fabian](@/w/fabian.md) vs [Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md) was officially announced on 13.10.2026.
 * Brave's involvement in the Golden Ticket Elimination Match was officially confirmed on 15.10.2026.
+* On 18.10.2026 PTW announced a Three-Way Match between Damian Miller, Gwiezdny Marek and [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 
 ## Predicted card
 
@@ -38,6 +39,11 @@ has_video = true
 - - '[Fabian](@/w/fabian.md) & Pierre'
   - '[Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md)'
   - s: Tag Team Match
+    nc: upcoming
+- - 'Damian Miller'
+  - 'Gwiezdny Marek'
+  - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
+  - s: Three-Way Match
     nc: upcoming
 - credits:
     Commentary: '???'
