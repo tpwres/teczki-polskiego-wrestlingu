@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) series will be held in the local {{ map_pin(v="Centrum Sportu i Rekreacji w Warce") }}Sports and Recreation Centre in Warka. It will take place the day after the [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md), and will be the first wrestling show in Warka.
+The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) series was held in the local {{ map_pin(v="Centrum Sportu i Rekreacji w Warce") }}Sports and Recreation Centre in Warka. It took place the day after the [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md), and was the first wrestling show in Warka.
 
 ## Build-up
 
@@ -26,9 +26,15 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 * On 13.10.2026 Boro & Mutant were given their opponents: [Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md).
 * On 17.10.2026 came the announcement of the final round in the HeelTurn Invitational Tournament: [Olgierd](@/w/olgierd.md) vs [Leon Lato](@/w/leon-lato.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+- - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+  - 'Kolektyw: [Jakub](@/w/jakub.md) & [Gloria G Szek](@/w/gloria-g-szek.md)'
+
+
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita'
   - '[Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md)'
   - s: Mixed Tag Team Match
