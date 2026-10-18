@@ -43,12 +43,10 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita'
   - '[Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md)'
   - s: Mixed Tag Team Match
+- - '[Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md)'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
 
 
-
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '[Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md)'
-  - nc: upcoming
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Leon Lato](@/w/leon-lato.md)'
   - s: HeelTurn Invitational Tournament, Final Round
