@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) series - will be held in the {{ map_pin(v="Centrum Sportu Akademos") }}Akademos Sports Centre. This will be the second FRPW show outside of Warsaw and the first time that wrestling is presented in Lublin.
+This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) series, was held in the {{ map_pin(v="Centrum Sportu Akademos") }}Akademos Sports Centre. This was the second FRPW show outside of Warsaw and the first time that wrestling was presented in Lublin.
 
 ## Build-up
 
@@ -30,47 +30,35 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 * A Tag Team Match between [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) and [Max Speed](@/w/max-speed.md) & [Antoni Ocean](@/w/antoni-ocean.md) was announced on 9.10.2026.
 * On 12.10.2026 FRPW announced that [Jakub](@/w/jakub.md), despite [having lost](@/e/frpw/2026-10-03-frpw-siedlce.md) in the first round of the HeelTurn Invitational Tournament, will appear at the show "looking for trouble (and he'll find them)".
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
-  - '[Jacob Crane](@/w/jacob-crane.md)'
-  - nc: upcoming
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '???'
-  - nc: upcoming
-- - '[Kalyana](@/w/kalyana.md) & [Agentka Agatka](@/w/agentka-agatka.md)'
-  - 'Akane Fujita & [Gloria G Szek](@/w/gloria-g-szek.md)'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '???'
-  - nc: upcoming
-- - '[Robert Star](@/w/robert-star.md) & [Filip Fux](@/w/filip-fux.md)'
-  - '??? & ???'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[Goblin](@/w/goblin.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
-  - s: HeelTurn Invitational Tournament, Round 2
-    nc: upcoming
+{% card() %}
+- - '[Tomczak](@/w/tomczak.md) w/ [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
+  - 'Jon Parker'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - s: HeelTurn Invitational Tournament, Round 2
-    nc: upcoming
-- - '[Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
-  - '[Max Speed](@/w/max-speed.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+- - '[Max Speed](@/w/max-speed.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+  - 'Oskar & Oskar Connection: [Oskar Alexander](@/w/oskar-alexander.md) & [Oskar Haller](@/w/oskar-haller.md)'
   - s: 'Tag Team Match'
-    nc: upcoming
-- - '[Jakub](@/w/jakub.md)'
-  - '???'
-  - nc: upcoming
+- - 'Akane Fujita & [Gloria G Szek](@/w/gloria-g-szek.md)'
+  - '[Kalyana](@/w/kalyana.md) & [Agentka Agatka](@/w/agentka-agatka.md)'
+  - s: Tag Team Match
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - s: HeelTurn Invitational Tournament, Round 2
+- - '[Emil Völler](@/w/emil-voeller.md)'
+  - '["Fox" Jakub](@/w/jakub.md)'
+- - '[Robert Star](@/w/robert-star.md) & [Filip Fux](@/w/filip-fux.md)'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - s: Tag Team Match
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Shigehiro Irie](@/w/shigehiro-irie.md)'
+- credits:
+    Host, Ring Announcer: '[Istociarz](@/w/istociarz.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Alan (WSW)'
 {% end %}
 
-### Highlights
+### Notes
 
-* TBD
-
-## References
-
-* TBD
+* This was [Oskar Haller's](@/w/oskar-haller.md) debut in FRPW. He was supposed to make his first appearance [the next day](@/e/frpw/2026-10-18-frpw-warka.md), but his debut was expedited due to [Vic Golden's](@/w/vic-golden.md) ilness and the promotion needing a replacement.
