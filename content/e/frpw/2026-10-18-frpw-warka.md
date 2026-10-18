@@ -31,8 +31,8 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - '[Bartosz Plata](@/w/plata.md)'
-- - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - 'Kolektyw: [Jakub](@/w/jakub.md) & [Gloria G Szek](@/w/gloria-g-szek.md)'
+- - 'Kolektyw: [Jakub](@/w/jakub.md) & [Gloria G Szek](@/w/gloria-g-szek.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
 
 
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita'
@@ -46,6 +46,10 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
   - '[Leon Lato](@/w/leon-lato.md)'
   - s: HeelTurn Invitational Tournament, Final Round
     nc: upcoming
+
+- credits:
+    Host, Ring Announcer: '[Istociarz](@/w/istociarz.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Alan (WSW)'
 {% end %}
 
 ### Highlights
