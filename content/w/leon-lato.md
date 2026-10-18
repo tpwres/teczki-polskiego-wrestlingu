@@ -35,6 +35,10 @@ At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Leon fac
 
 Leon debuted for [PpW](@/o/ppw.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where he was booked for a Tag Team Match, partnering with [Antoni Ocean](@/w/antoni-ocean.md) against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md). He is the second active KPW wrestler to appear at a PpW show, following [Filip Fux](@/w/filip-fux.md) (who also worked at the same event).
 
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Lato made his first appearance for [FRPW](@/o/frpw.md) at their [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he was one of the entrants in the HeelTurn Invitational Tournament. Two events later, in [Warka](@/e/frpw/2026-10-18-frpw-warka.md), he defeated [Olgierd](@/w/olgierd.md) in the tournament finals, winning the HeelTurn trophy.
+
 ## International wrestling appearances 
 
 In 2024 Leon made his first handful of appearances outside of Poland. He worked for Passion Pro Wrestling in Hungary, as well as for Bologna-based Italian promotion Wrestling Megastars. In 2025 Leon also debuted for the Finnish-based SLAM Wrestling.

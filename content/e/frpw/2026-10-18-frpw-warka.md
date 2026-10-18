@@ -48,6 +48,8 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 - - '[Leon Lato](@/w/leon-lato.md)'
   - '[Olgierd](@/w/olgierd.md)'
   - s: HeelTurn Invitational Tournament, Final Round
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - g: Leon makes a victory speech.
 - credits:
     Host, Ring Announcer: '[Istociarz](@/w/istociarz.md)'
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Alan (WSW)'
