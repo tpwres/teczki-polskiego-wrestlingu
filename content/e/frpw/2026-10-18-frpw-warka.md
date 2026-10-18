@@ -33,6 +33,8 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
   - '[Bartosz Plata](@/w/plata.md)'
 - - 'Kolektyw: [Jakub](@/w/jakub.md) & [Gloria G Szek](@/w/gloria-g-szek.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+- - 'Stowarzysz w/ [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
+  - 'Jon Parker'
 
 
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita'
