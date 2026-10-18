@@ -39,7 +39,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
   - '[Bartosz Plata](@/w/plata.md)'
   - s: HeelTurn Invitational Tournament, Round 2
 - - '[Max Speed](@/w/max-speed.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
-  - 'Oskar & Oskar Connetion: [Oskar Alexander](@/w/oskar-alexander.md) & [Oskar Haller](@/w/oskar-haller.md)'
+  - 'Oskar & Oskar Connection: [Oskar Alexander](@/w/oskar-alexander.md) & [Oskar Haller](@/w/oskar-haller.md)'
   - s: 'Tag Team Match'
 - - 'Akane Fujita & [Gloria G Szek](@/w/gloria-g-szek.md)'
   - '[Kalyana](@/w/kalyana.md) & [Agentka Agatka](@/w/agentka-agatka.md)'
