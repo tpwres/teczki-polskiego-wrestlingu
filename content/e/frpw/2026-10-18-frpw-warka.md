@@ -40,18 +40,12 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 - - '[Jacob Crane](@/w/jacob-crane.md)'
   - 'adept Mikołaj "SKS"'
   - g: Training session for kids.
-- - 'adept Sawo'
-  - '[Bartosz Plata](@/w/plata.md)'
-  - '[Oskar Alexander](@/w/oskar-alexander.md)'
-  - '[Jacob Crane](@/w/jacob-crane.md)'
-  - g: Team tightens ropes before continuing the show.
-
-
-
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita'
   - '[Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md)'
   - s: Mixed Tag Team Match
-    nc: upcoming
+
+
+
 - - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - '[Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md)'
   - nc: upcoming
