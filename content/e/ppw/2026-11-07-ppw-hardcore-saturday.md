@@ -17,9 +17,16 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 
 ## Build-up
 
-* TBD
+* On 18.10.2026 PpW announced a Tag Team Match between Hungarians [Maverick](@/w/maverick.md) & [Sentinel](@/w/sentinel.md) and [Rodzina](@/tt/rodzina.md), represented by [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Maverick](@/w/maverick.md) & [Sentinel](@/w/sentinel.md)'
+  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - s: Tag Team Match
+    nc: upcoming
+{% end %}
 
 ### Highlights
 
