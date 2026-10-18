@@ -44,7 +44,7 @@ Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/20
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Haller debuted for FRPW at the [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md).
+Haller debuted for FRPW at the [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md), teaming with [another Oskar](@/w/oskar-alexander.md).
 
 ## Championships and accomplishments
 
