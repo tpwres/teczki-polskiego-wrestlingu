@@ -18,12 +18,16 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
 ## Build-up
 
 * FRPW started announcing workers for this show on 24.09.2026, beginning with [Robert Star](@/w/robert-star.md).
+* [Filip Fux](@/w/filip-fux.md) vs [Oskar Alexander](@/w/oskar-alexander.md) was announced on 19.10.2026.
 
 ## Predicted card
 
 {% card(predicted=true) %}
 - - '[Robert Star](@/w/robert-star.md)'
   - '???'
+  - nc: upcoming
+- - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - nc: upcoming
 {% end %}
 
