@@ -21,7 +21,7 @@ has_video = true
 * Pierre & [Fabian](@/w/fabian.md) vs [Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md) was officially announced on 13.10.2026.
 * Brave's involvement in the Golden Ticket Elimination Match was officially confirmed on 15.10.2026.
 * On 18.10.2026 PTW announced a Three-Way Match between Damian Miller, Gwiezdny Marek and [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
-
+* Brave was followed by [Iskra](@/w/iskra.md) and [CJ Klakson's](@/w/cj-klakson.md) announcements on 19.10.2026.
 ## Predicted card
 
 {% card(predicted=true) %}
