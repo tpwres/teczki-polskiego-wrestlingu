@@ -97,3 +97,4 @@ Attendance: ca. 150
 * [Video: Oskar Alexander vs Olgierd](https://www.youtube.com/watch?v=AiONE38oO7U)
 * [Video: Plata vs Tomczak](https://www.youtube.com/watch?v=ofJ_mugDSvU)
 * [Video: Jakub vs Leon Lato](https://www.youtube.com/watch?v=LkwZhdITz7E)
+* [Video: Roman & Stowarzysz vs Golden & Paskal](https://www.youtube.com/watch?v=BfLXlooIC-o)
