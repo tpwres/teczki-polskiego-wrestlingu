@@ -35,6 +35,10 @@ At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Leon fac
 
 Leon debuted for [PpW](@/o/ppw.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where he was booked for a Tag Team Match, partnering with [Antoni Ocean](@/w/antoni-ocean.md) against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md). He is the second active KPW wrestler to appear at a PpW show, following [Filip Fux](@/w/filip-fux.md) (who also worked at the same event).
 
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+
+Lato made his first appearance for [FRPW](@/o/frpw.md) at their [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he was one of the entrants in the HeelTurn Invitational Tournament. Two events later, in [Warka](@/e/frpw/2026-10-18-frpw-warka.md), he defeated [Olgierd](@/w/olgierd.md) in the tournament finals, winning the HeelTurn trophy.
+
 ## International wrestling appearances 
 
 In 2024 Leon made his first handful of appearances outside of Poland. He worked for Passion Pro Wrestling in Hungary, as well as for Bologna-based Italian promotion Wrestling Megastars. In 2025 Leon also debuted for the Finnish-based SLAM Wrestling.
@@ -43,6 +47,7 @@ In 2024 Leon made his first handful of appearances outside of Poland. He worked 
 
 * Finishers:
   - Lungblower (2022-)
+  - Running Knee (2025-) 
 * Tag Teams and stables:
   - with [Zefir](@/w/zefir.md) (2023)
 * Entrance music:
@@ -60,7 +65,7 @@ In 2024 Leon made his first handful of appearances outside of Poland. He worked 
     {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
     {{ music(yt='7pvqp9VFxhM')}}
   - "Espresso" by Sabrina Carpenter
-    {{ org_badge(orgs=['ppw']) }} (2026-present) <br>
+    {{ org_badge(orgs=['ppw', 'frpw']) }} (2026-present) <br>
     {{ music(yt='eVli-tstM5E')}}
     {{ music(spot='1vLqigPHwiFnXsfrLMehV1')}}
     {{ music(apple='1744253545?i=1744253558')}}
@@ -70,6 +75,8 @@ In 2024 Leon made his first handful of appearances outside of Poland. He worked 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
   - Championship Contract Battle Royal (2023)
+* [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md)
+  - HeelTurn Invitational '26 Trophy
 
 ## References
 

@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) series will be held in the local {{ map_pin(v="Centrum Sportu i Rekreacji w Warce") }}Sports and Recreation Centre in Warka. It will take place the day after the [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md), and will be the first wrestling show in Warka.
+The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) series was held in the local {{ map_pin(v="Centrum Sportu i Rekreacji w Warce") }}Sports and Recreation Centre in Warka. It took place the day after the [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md), and was the first wrestling show in Warka.
 
 ## Build-up
 
@@ -26,25 +26,41 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 * On 13.10.2026 Boro & Mutant were given their opponents: [Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md).
 * On 17.10.2026 came the announcement of the final round in the HeelTurn Invitational Tournament: [Olgierd](@/w/olgierd.md) vs [Leon Lato](@/w/leon-lato.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - '[Bartosz Plata](@/w/plata.md)'
+- - 'Kolektyw: [Jakub](@/w/jakub.md) & [Gloria](@/w/gloria-g-szek.md)'
+  - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+- - 'Stowarzysz w/ [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
+  - 'Jon Parker'
+- - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Filip Fux](@/w/filip-fux.md)'
+  - '[Goblin](@/w/goblin.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
+- - '[Jacob Crane](@/w/jacob-crane.md)'
+  - 'adept Mikołaj "SKS"'
+  - g: Training session for kids.
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita'
   - '[Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md)'
   - s: Mixed Tag Team Match
-    nc: upcoming
-- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - '[Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md)'
-  - nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)'
-  - '[Leon Lato](@/w/leon-lato.md)'
+- - '[Oskar Haller](@/w/oskar-haller.md) & [Emil Völler](@/w/emil-voeller.md)'
+  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - '[Olgierd](@/w/olgierd.md)'
   - s: HeelTurn Invitational Tournament, Final Round
-    nc: upcoming
+- - '[Leon Lato](@/w/leon-lato.md)'
+  - g: Leon makes a victory speech.
+- credits:
+    Host, Ring Announcer: '[Istociarz](@/w/istociarz.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Alan (WSW)'
 {% end %}
 
-### Highlights
+### Notes
 
-* TBD
+* [Robert Star](@/w/robert-star.md) came out with his DPW Heavyweight Championship, and was announced as the Danish Champion.
+* Kolektyw (_The Collective_) is a heel stable active in Dresden-based Thats Awesome Wrestling and Dresden Dojo. The members are Jakub, [Gustav Gryffin](@/w/gustav-gryffin.md), Olgierd and Gloria. While Gloria accompanied Fox as a manager in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), they were not announced as such. Therefore, this was the stable's first official appearance in Polish wrestling.
+* The training session followed the format established by previous shows closely.
+* In a deviation from FRPW's no-hardcore policy, Olgierd produced some chairs from under the ring, and set them up outside to throw Leon into.
 
 ## References
 
