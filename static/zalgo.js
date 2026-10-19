@@ -412,3 +412,11 @@ function createGlitchFlickerPreset(root = document.body) {
   });
 }
 
+setTimeout(() => {
+  const zalgomode = Math.floor(Math.random() * 4)
+  const zzz = zalgomode == 0 ? createSlowCreepPreset() :
+        zalgomode == 1 ? createGothicDecayPreset() :
+        zalgomode == 2 ? createVoidConsumptionPreset() :
+        zalgomode == 3 ? createGlitchFlickerPreset() : null
+  zzz.start()
+}, 5000)
