@@ -67,3 +67,4 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465565)
 * [Video: Olgierd vs Plata](https://www.youtube.com/watch?v=YI0hAt4MfP8)
+* [Video: Goblin vs Lato](https://www.youtube.com/watch?v=OIJtzQL2FeI)
