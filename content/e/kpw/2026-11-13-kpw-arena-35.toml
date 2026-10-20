@@ -1,2 +1,5 @@
 0000 = { path = "kpw-arena-35-poster-jason-voorhees-approves.webp", caption = "Official poster featuring [Zefir's](@/w/zefir.md) mask, resembling the poster of [Friday the 13th: The Final Chapter](https://en.wikipedia.org/wiki/Friday_the_13th:_The_Final_Chapter).", source = "kpwrestling.pl / Official KPW Facebook" }
 0001 = { path = "na-pewno-tylko-symuluje-poprawe.webp", caption = "Image announcing [Krystian Malinowski](@/w/krystian-malinowski.md).", source = "kpwrestling.pl / Official KPW Facebook" }
+
+0002 = { path = "jxl-quality-70-effort-09.jxl", caption = "JPEG-XL, quality 70, effort 09.", source = "M3n747" }
+0003 = { path = "jxl-lossless-alpha.jxl", caption = "JPEG-XL, lossless, with alpha channel.", source = "M3n747" }
