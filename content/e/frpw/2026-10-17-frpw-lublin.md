@@ -9,7 +9,7 @@ venue=["centrum-sportu-akademos"]
 orgs = ["frpw"]
 city = "Lublin"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -62,3 +62,9 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 ### Notes
 
 * This was [Oskar Haller's](@/w/oskar-haller.md) debut in FRPW. He was supposed to make his first appearance [the next day](@/e/frpw/2026-10-18-frpw-warka.md), but his debut was expedited due to [Vic Golden's](@/w/vic-golden.md) ilness and the promotion needing a replacement.
+
+## References
+
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465565)
+* [Video: Olgierd vs Plata](https://www.youtube.com/watch?v=YI0hAt4MfP8)
+* [Video: Goblin vs Lato](https://www.youtube.com/watch?v=OIJtzQL2FeI)

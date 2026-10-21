@@ -64,4 +64,4 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 
 ## References
 
-* TBD
+* [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465656)
