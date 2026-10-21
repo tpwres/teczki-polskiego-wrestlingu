@@ -122,7 +122,7 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Championship](@/c/kpw-championship.md) (2 times)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - as part of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 
