@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.447909, 51.072547]
+    },
+    "properties": {
+        "type": "venue",
+        "name": "Powiatowa Hala Sportowa w Radomsku",
+        "description": "County Sports Hall in Radomsko, the location of [FRPW's](@/o/frpw.md) [fifth show](@/e/frpw/2026-12-19-frpw-radomsko.md).",
+        "orgs": ["frpw"]
+    }
+}
