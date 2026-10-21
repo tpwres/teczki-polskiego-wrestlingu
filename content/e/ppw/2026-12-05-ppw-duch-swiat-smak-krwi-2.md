@@ -17,9 +17,16 @@ Duch Świąt, Smak Krwi 2 (_The Spirit of Christmas, the Taste of Blood 2_) is a
 
 ## Build-up
 
-* TBD
+* On 21.10.2026 PpW published a [video][plata-pierwsza-krew-czesc-2] taken backstage at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), showing [Bartosz Plata](@/w/plata.md) confronting [Antoni Ocean](@/w/antoni-ocean.md) about who should've had a spot in that show's Scramble Match. A short alteraction ended in Plata challenging Ocean to a First Blood Match, which he referred to as PpW's first (even though [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) a year prior already had a First Blood Match between [Agentka Agatka](@/w/agentka-agatka.md) and [Johnny Blade](@/w/johnny-blade.md)).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Bartosz Plata](@/w/plata.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - s: First Blood Match
+    nc: upcoming
+{% end %}
 
 ### Highlights
 
@@ -29,3 +36,5 @@ Duch Świąt, Smak Krwi 2 (_The Spirit of Christmas, the Taste of Blood 2_) is a
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465060)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
+
+[plata-pierwsza-krew-czesc-2]: https://www.facebook.com/reel/1585144276170617
