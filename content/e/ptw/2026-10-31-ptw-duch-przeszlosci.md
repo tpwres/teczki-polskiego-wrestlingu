@@ -23,6 +23,7 @@ has_video = true
 * On 18.10.2026 PTW announced a Three-Way Match between Damian Miller, Gwiezdny Marek and [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 * Brave was followed by [Iskra](@/w/iskra.md) and [CJ Klakson's](@/w/cj-klakson.md) announcements on 19.10.2026.
 * On 21.10.2026 [El G](@/w/el-g.md) was confirmed for the Golden Ticket Tournament.
+* The following day the four Golden Ticket contestants were assigned their opponents: [CJ Klakson](@/w/cj-klakson.md) vs [Alex Brave](@/w/alex-brave.md) and [Iskra](@/w/iskra.md) vs [El G](@/w/el-g.md).
 
 ## Predicted card
 
@@ -33,8 +34,10 @@ has_video = true
     s: Horror Tag Team Match
     nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
-  - '[Iskra](@/w/iskra.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
+  - s: 'Golden Ticket Tournament Elimination Match, Round 1'
+    nc: upcoming
+- - '[Iskra](@/w/iskra.md)'
   - '[El G](@/w/el-g.md)'
   - s: 'Golden Ticket Tournament Elimination Match, Round 1'
     nc: upcoming
