@@ -34,7 +34,7 @@ has_video = false
     nc: upcoming
 - - '[Emil Völler](@/w/emil-voeller.md)'
   - '???'
-  - c: wXw Wrestling Academy Championship
+  - c: wXw Academy Championship
     s: Open Challenge
     nc: upcoming
 {% end %}
