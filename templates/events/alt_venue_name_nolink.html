@@ -1,0 +1,19 @@
+{# Display alternate venue name if the venue key doesn't match a page directly. This one does not render venue page links, only produces text. #}
+{# Variables:
+  `venue` a page slug
+  `cities` city name to display
+  `venues_section` the section containing venue pages
+#}
+{%- set main_page = venues_section.pages | filter(attribute="slug", value=venue) | first -%}
+{%- if main_page and not main_page.extra.skip_event_list -%}
+  {{ cities }}, {{ main_page.title }}
+{%- elif not main_page -%}
+  {%- set term = get_taxonomy_term(kind="same-venue", term=venue, required=false) -%}
+  {%- if not term -%}
+    {{ cities }}
+  {%- else -%}
+    {%- set page = term.pages | first -%}
+    {%- set alt_title = page.extra.venue_names | get(key=venue, default=page.title) -%}
+    {{ cities }}, {{ alt_title }}
+  {%- endif -%}
+{%- endif -%}

@@ -1,0 +1,42 @@
+#! /bin/bash -x
+
+emit_dates() {
+  jq -r '
+   [
+     # for each event object
+     .[]
+     # extract the date field
+     | .d
+     # split on dash to get yyyy, mm, dd
+     | split("-")
+     # pack as a year,month pair
+     | [.[0], .[1]]
+   ]
+   # Remove duplicates
+   | unique
+   # output each pair as "year month"
+   | .[]
+   | "\(.[0]) \(.[1])"
+  '
+}
+
+write_calendar_stub() {
+  local year=$1
+  local month=$2
+  echo -n "+++
+template = 'cal/month.html'
+title = 'Calendar for $year-$month'
+[extra]
+year = $year
+month = ${month#0}
++++"
+}
+
+create_dirs_and_files() {
+  while read -r year month; do
+    mkdir -p content/ec/$year
+    write_calendar_stub $year $month > content/ec/$year/$month.md
+  done
+}
+
+< data/all_matches.json emit_dates | create_dirs_and_files
