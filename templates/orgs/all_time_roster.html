@@ -4,6 +4,7 @@
 {% set name_to_flag = load_data(path="data/full_flags.json") -%}
 {% set flag_dict = load_data(path="const/flags-by-code.json") -%}
 {% set all_emojis = load_data(path="const/emojis.yaml") %}
+{% set deaths = load_data(path="const/deaths.yaml") %}
 {% set empty_obj = []|group_by(attribute=0) %}
 
 {% set path = "data/roster_" ~ page.slug ~ ".json" -%}
@@ -29,31 +30,7 @@
   {% set count = pair[2] -%}
   <li class="talent-with-count">
     <span class="pwf">
-      {%- if pname is containing('](') -%}{# A markdown link to the talent's page -#}
-        {# The split pattern combines extracting the markdown link part, with stripping the leading root path -#}
-        {% set name_with_link = pname | split(pat="](@/") -%}
-        {# Extract name -#}
-        {% set_global person_name = name_with_link | first | trim_start_matches(pat="[") -%}
-        {# Load person's page using the link -#}
-        {% set link = name_with_link | last | trim_end_matches(pat=")") -%}
-        {% set page = get_page(path=link) -%}
-        {# Now we can reuse person_with_flag -#}
-        {# But first, check if this is an alias -#}
-        {%- if page.extra.career_name -%}
-          {%- if person_name != page.extra.career_name -%}
-            {%- set_global person_name = '<em>' ~ person_name ~ '</em>' -%}
-          {%- endif -%}
-        {%- elif person_name != page.title -%}
-          {%- set_global person_name = '<em>' ~ person_name ~ '</em>' -%}
-        {%- endif -%}
-        {%- include "roster/person_with_flag.html" -%}
-      {%- else -%}
-        {%- set_global person_name = pname -%}
-        {%- set_global appearances_entry = appearances|get(key=pname) -%}
-        {%- set_global org = page.slug -%}
-        {%- include "roster/unlinked_person.html" -%}
-        {%- include "roster/person_alltime_entry.html" -%}
-      {%- endif -%}
+      {% include "orgs/atr_entry.html" %}
     </span>
     <strong>{{ count }}</strong>
   </li>

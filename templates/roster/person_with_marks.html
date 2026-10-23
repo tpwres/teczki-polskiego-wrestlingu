@@ -1,0 +1,8 @@
+{{ person_name | safe }}
+{%- if person_dead %}
+  <small>†
+    {%- if person_dead is string -%}
+      {{ person_dead }}
+    {%- endif -%}
+  </small>
+{% endif %}

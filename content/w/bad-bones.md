@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["Sewi The Referee"]
 [extra]
 toclevel = 2
+rip = "2024"
 [taxonomies]
 country = ["DE"]
 +++
