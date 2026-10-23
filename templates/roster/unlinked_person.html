@@ -1,6 +1,8 @@
 {% if flag is defined %}
   <span class="flag">{{ flag }} </span>
-  <span class="name">{{ person_name }}</span>
+  <span class="name">
+    {%- include "roster/person_with_marks.html" -%}
+  </span>
 {% else %}
   <span class="flag">
   {% set flag = name_to_flag|get(key=person_name, default='') -%}
@@ -8,5 +10,7 @@
     {{ flag_dict|get(key=flag|upper, default='') -}}
   {% endif -%}
   </span>
-  <span class="name">{{ person_name }}</span>
+  <span class="name">
+    {%- include "roster/person_with_marks.html" -%}
+  </span>
 {% endif %}

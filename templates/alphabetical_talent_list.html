@@ -84,6 +84,7 @@
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {% set_global display_match_links = true %}
+          {% set_global person_dead = info | get(key='death', default=false) %}
           {# 'U'-flavor entries may have aliases which have flavor 'Y', and the main name at position 3, where regular aliases have the filename #}
           {% set my_aliases = grouped_by_alias | get(key=name, default=[]) | sort(attribute="0") %}
           <li class="{% if my_aliases|length > 0 %}pwa{% endif %}">
