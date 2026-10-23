@@ -1,8 +1,14 @@
 {% set flag_dict = load_data(path="const/flags-by-code.json") %}
 {% set all_emojis = load_data(path="const/emojis.yaml") %}
 {% set flag = page.taxonomies | get(key="country", default=[]) | first %}
+{% set person_dead = page.extra | get(key="rip", default=false) %}
 <h1 class="title title-with-flag">
-  <span>{{ page.title }}</span>
+  <span>
+    {{- page.title }}
+    {%- if person_dead -%}
+      <sup class="rip">†</sup>
+    {%- endif -%}
+  </span>
   <span class="title-flag">
     {% set flag_symbol = flag_dict|get(key=flag|upper, default=False) %}
     {% set emoji = all_emojis|get(key=flag,default=False) %}
@@ -10,7 +16,11 @@
       {{ flag_symbol }}
     {% elif emoji %}
       {{ emoji }}
-    {% else %}
     {% endif %}
+    {%- if person_dead %}
+      <br/><small class="rip">†
+        {%- if person_dead is string %}{{ person_dead }}{% endif %}
+      </small>
+     {% endif -%}
   </span>
 </h1>
