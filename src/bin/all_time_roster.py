@@ -7,7 +7,11 @@ from page import page, TalentPage
 from unidecode import unidecode
 import json, re, yaml
 
-ATRecord = namedtuple('ATRecord', ['sort_key', 'name', 'kind', 'path', 'country', 'flag_or_emoji'])
+ATRecord = namedtuple('ATRecord', ['sort_key', 'name', 'kind', 'path', 'country', 'flag_or_emoji', 'info'])
+
+class HashableDict(dict):
+    def __hash__(self):
+        return hash(frozenset(self))
 
 LookupFlagFn = Callable[[str|TalentPage], tuple[str, str]]
 MakeKeyFn = Callable[[str], str]
@@ -93,20 +97,21 @@ def load_talent(talent_page: TalentPage, path: str, lookup_flag: LookupFlagFn, m
     fm = talent_page.front_matter
     title = cast(str, fm['title'])
     country, flag = lookup_flag(talent_page)
+    info = load_infodict(talent_page)
 
-    yield ATRecord(make_key(title), title, 'P', path, country, flag)
+    yield ATRecord(make_key(title), title, 'P', path, country, flag, info)
 
     for other_name in other_names:
         if other_name == title: continue
-        yield ATRecord(make_key(other_name), other_name, 'A', path, country, flag)
+        yield ATRecord(make_key(other_name), other_name, 'A', path, country, flag, info)
 
 def unlinked_entry(name, lookup_flag: LookupFlagFn, make_key: MakeKeyFn) -> ATRecord:
     country, flag = lookup_flag(name)
-    return ATRecord(make_key(name), name, 'U', None, country, flag)
+    return ATRecord(make_key(name), name, 'U', None, country, flag, HashableDict())
 
 def unlinked_alias(main_name, alias, lookup_flag: LookupFlagFn, make_key: MakeKeyFn) -> ATRecord:
     country, flag = lookup_flag(main_name)
-    return ATRecord(make_key(alias), alias, 'Y', main_name, country, flag)
+    return ATRecord(make_key(alias), alias, 'Y', main_name, country, flag, HashableDict())
 
 def lookup_flag_or_emoji(name_or_page, names_dict, flags_list, emojis) -> tuple[str, str]:
     match name_or_page:
@@ -129,6 +134,13 @@ def lookup_flag_or_emoji(name_or_page, names_dict, flags_list, emojis) -> tuple[
             return 'ZZ', ''
         case _:
             return 'ZZ', ''
+
+def load_infodict(talent_page: TalentPage):
+    match talent_page.front_matter.get('extra', {}):
+        case {'rip': death_info}:
+            return HashableDict(death=death_info)
+        case _:
+            return HashableDict()
 
 def make_sort_key(text):
     text = re.sub(r'^The\s+', '', text)

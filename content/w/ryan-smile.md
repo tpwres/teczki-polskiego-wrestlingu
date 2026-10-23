@@ -4,6 +4,7 @@ template = "talent_page.html"
 authors = ["Krzysztof Zych", "Sewi The Referee"]
 [extra]
 toclevel = 2
+rip = "2020"
 [taxonomies]
 country = ["ENGLAND"]
 +++

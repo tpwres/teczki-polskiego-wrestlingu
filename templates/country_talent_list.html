@@ -41,17 +41,21 @@
         {% set flavor = talent[2] %}
         {% set filename = talent[3] %}
         {% set flag = talent[5] %}
+        {% set info = talent[6] %}
         {% set_global career_entry = false %}
         {% if flavor == 'P' %}
           {% set_global person_name = name %}
           {% set_global appearances_entry = appearances|get(key=name, default=[]) %}
           {% set_global crew_appearances_entry = crew_appearances|get(key=name, default=[]) %}
           {% set_global display_match_links = false %}
+          {% set_global person_dead = info | get(key='death', default=false) %}
           {% set page_path = "@/" ~ filename %}
           {% set my_aliases = grouped_by_alias | get(key=filename) | sort(attribute="0") %}
           <li class="{% if my_aliases|length > 1 %}pwa{% endif %}">
             <span class="pwf">
-              <a class="nu name" href="{{ get_url(path=page_path) }}">{{ person_name | safe }}</a>
+              <a class="nu name" href="{{ get_url(path=page_path) }}">
+                {% include "roster/person_with_marks.html" %}
+              </a>
               {% include "roster/person_orgs_matches.html" %}
             </span>
             {% if my_aliases|length > 1 %}
