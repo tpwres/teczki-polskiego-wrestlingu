@@ -24,6 +24,7 @@ has_video = true
 * Brave was followed by [Iskra](@/w/iskra.md) and [CJ Klakson's](@/w/cj-klakson.md) announcements on 19.10.2026.
 * On 21.10.2026 [El G](@/w/el-g.md) was confirmed for the Golden Ticket Tournament.
 * The following day the four Golden Ticket contestants were assigned their opponents: [CJ Klakson](@/w/cj-klakson.md) vs [Alex Brave](@/w/alex-brave.md) and [Iskra](@/w/iskra.md) vs [El G](@/w/el-g.md).
+* Miyagi Sigma vs Proroctwo was officially confirmed on 23.10.2026.
 
 ## Predicted card
 
