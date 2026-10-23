@@ -23,6 +23,10 @@
   {%- set_global person_name = pname -%}
   {%- set_global appearances_entry = appearances|get(key=pname) -%}
   {%- set_global org = page.slug -%}
+  {%- if deaths is containing(person_name) %}
+    {%- set person_dead = deaths | get(key=person_name, default=false) -%}
+    {%- if person_dead %}{% set person_dead = "" ~ person_dead %}{% endif -%}
+  {%- endif -%}
   {%- include "roster/unlinked_person.html" -%}
   {%- include "roster/person_alltime_entry.html" -%}
 {%- endif -%}
