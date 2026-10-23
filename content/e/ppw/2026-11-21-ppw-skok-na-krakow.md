@@ -18,7 +18,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 ## Build-up
 
 * The first match to be announced (on 16.10.2026) was a [PpW Championship](@/c/ppw-championship.md) Match between the reigning Champion [Gabriel Queen](@/w/gabriel-queen.md), and the challenger [Jakub](@/w/jakub.md).
-* On 22.10.2026 PpW published a [video][jk-mutant] in which [Mutant](@/w/mutant.md), angered by [Rodzina](@/tt/rodzina.md) [kidnapping][kondzia-podarli] his friend [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md), promised to punish the stable. He chose to with [Isnorr](@/w/isnorr.md), whom he challenged to an Ultraviolent Match. The fight was officially confirmed on 23.10.2026.
+* On 22.10.2026 PpW published a [video][jk-mutant] in which [Mutant](@/w/mutant.md), angered by [Rodzina](@/tt/rodzina.md) [kidnapping][kondzia-podarli] his friend [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md), promised to punish the stable. He chose to start with [Isnorr](@/w/isnorr.md), whom he challenged to an Ultraviolent Match. The fight was officially confirmed on 23.10.2026.
 
 ## Predicted card
 
