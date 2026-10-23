@@ -112,7 +112,7 @@ He also fought as a team with Vic for Denmark's Nordic Elite Wrestling, with Jac
 
 In February 2026 PpW shared that Gabriel Queen would be one of the wrestlers to take part in PpW's excursion to Japan in March 2026, at [PpW Hardcore Friday the 13th](@/a/ppw-hardcore-friday-the-13th-tokyo.md), where he would face Chris Brookes in a Singles Match. Not long after, Gabriel's Japanese debut was moved even earlier, to Big Japan Pro Wrestling's [BJ VOYAGER!][bjw-voy] show on March 7th.
 
-On 30.09.2026 Gabriel Queen managed to win the wXw Academy Championship, making him the very first Polish wrestler to win a title in the Westside Xtreme Wrestling development system.
+On 30.09.2026 Gabriel Queen managed to win the wXw Academy Championship, making him the very first Polish wrestler to win a title in the Westside Xtreme Wrestling development system. However, he lost it to [Emil Völler](@/w/emil-voeller.md) at wXw HEAT in Gelsenkirchen, on 21.10.2026.
 
 ## In wrestling
 
