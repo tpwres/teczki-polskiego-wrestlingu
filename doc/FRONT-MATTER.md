@@ -40,6 +40,7 @@ Certain entries are mandatory for all files, and not including them is an error.
    Finally if set to `"never"`, show matchlist in full.
 * `extra.fold_crew_appearances`: similar to `extra.fold_matchlist` but for crew appearances
 * `extra.skip_event_gallery`: if present and set to `true`, omit the automatically generated "Photos from Events gallery". Additionally, if a special sub-page under `g/` exists (more on that in GALLERY.md), link to that page after the regular gallery. That special page is a "Talent gallery page", and its required front matter is described below.
+* `extra.rip`: optional death date, for talent who have passed away. If present, should indicate the year as string, e.g. "2024". This fact will be displayed in global talent lists and "all time roster" sections where relevant.
 
 ## Team page
 
