@@ -27,7 +27,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
   - '[Jakub](@/w/jakub.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
-- - '[Mutant](@/w/mutant.md)'
+- - '[Jebany Kurwa Mutant](@/w/mutant.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: Ultraviolent Match
     nc: upcoming
