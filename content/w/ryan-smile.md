@@ -14,7 +14,7 @@ Ryan Smile was an English pro wrestler and promoter from Birmingham. In 2012, he
 
 * Years active: 2006-2018
 * Gimmicks/nicknames:
-  - Ryan Smile {{ org_badge(orgs=['dfw']) }}
+  - Ryan Smile {{ org_badge(orgs=['ddw']) }}
 * Trained by:
   - Brandon Thomas
   - Keego Ward
