@@ -99,7 +99,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - '[David Oliwa](@/w/david-oliwa.md)'
   - s: Six-Way Elimination Match
     en: '[Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md)'
-    ed: 2015-12-20
+    ed: 2025-12-20
 - - 'Jakub(c)'
   - 'Max Speed'
   - s: Singles Match
@@ -125,8 +125,36 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - '[Max Speed](@/w/max-speed.md)'
   - s: Singles Match
     en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
+    ed: 2026-10-24
+{% end %}
+
+**TOTAL:** 308 days
+
+### Champion #2: Max Speed
+
+{% free_card() %}
+- - '[Max Speed](@/w/max-speed.md)(c)'
+  - '[Jakub](@/w/jakub.md)'
+  - s: Singles Match
+    en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
     ed: 2026-07-24
-    nc: upcoming
+- - '[Chemik](@/w/chemik.md)'
+  - 'Max Speed(c)'
+  - s: 'Contract Cash-In'
+    en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
+    ed: 2026-07-24
+{% end %}
+
+**TOTAL:** ca. 5 minutes
+
+### Champion #3: Chemik
+
+{% free_card() %}
+- - '[Chemik](@/w/chemik.md)'
+  - '[Max Speed](@/w/max-speed.md)(c)'
+  - s: Singles Match
+    en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
+    ed: 2026-07-24
 {% end %}
 
 [qna-legacy]: https://www.youtube.com/watch?v=4urhjLJHEtA

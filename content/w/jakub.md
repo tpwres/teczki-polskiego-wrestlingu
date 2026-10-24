@@ -206,7 +206,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
     * Moment of the Year - reunion with Justin Joy (2022)
     * Feud of the Year - vs Justin Joy (2022)
 * [Legacy of Wrestling](@/o/low.md):
-  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time, inaugural, current)
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time, inaugural)
   - Road to the Title Tournament (2025)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural) - with [Mister Z](@/w/mister-z.md), [Marco Hammers](@/w/marco-hammers.md) and [Olgierd](@/w/olgierd.md)

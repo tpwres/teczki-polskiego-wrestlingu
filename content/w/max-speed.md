@@ -92,6 +92,8 @@ From 2024 onwards Max started taking international bookings. His debut outside o
   - [PTW Awards](@/a/ptw-awards.md) (2 times):
     * Hero of the Year (2024)
     * Progress of the Year (2024)
+* [Legacy of Wrestling](@/o/low.md):
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time)
 
 ## Internet presence
 
