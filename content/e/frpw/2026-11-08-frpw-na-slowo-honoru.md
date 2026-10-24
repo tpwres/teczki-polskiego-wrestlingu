@@ -20,6 +20,7 @@ has_video = false
 * The first match, announced on 7.10.2026, was [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md) in a Word of Honour Match, which also gives the event its name. This stipulation is inspired by Ring of Honor's [Pure Wrestling Rules][roh-pure] - each wrestler is limited to at most three rope breaks, there is no time limit and the count-out is 20 seconds, instead of the usual 10.
 * On 20.10.2026 FRPW announced a Mixed Tag Team Match between [Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md) and Kolektyw ([Gloria](@/w/gloria-g-szek.md) & [Olgierd](@/w/olgierd.md)).
 * In a [video][emil-wxw] published on 22.10.2026, [Emil Völler](@/w/emil-voeller.md) issued an Open Challenge for his wXw Wrestling Academy Championship. Emil took the title from [Gabriel Queen](@/w/gabriel-queen.md) just a day before, during a wXw HEAT event in Gelsenkirchen.
+* The next day the challenge was asnwered by [Goblin](@/w/goblin.md).
 
 ## Predicted card
 
@@ -32,8 +33,8 @@ has_video = false
   - 'Kolektyw: [Gloria](@/w/gloria-g-szek.md) & [Olgierd](@/w/olgierd.md)'
   - s: Mixed Tag Team Match
     nc: upcoming
-- - '[Emil Völler](@/w/emil-voeller.md)'
-  - '???'
+- - '[Emil Völler](@/w/emil-voeller.md)(c)'
+  - '[Goblin](@/w/goblin.md)'
   - c: wXw Academy Championship
     s: Open Challenge
     nc: upcoming
