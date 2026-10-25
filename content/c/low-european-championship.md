@@ -145,7 +145,7 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
     ed: 2026-07-24
 {% end %}
 
-**TOTAL:** ca. 5 minutes
+**TOTAL:** ca. 2.5 minutes
 
 ### Champion #3: Chemik
 
