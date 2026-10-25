@@ -106,7 +106,8 @@ From 2024 onwards Chemik made a few appearances for Finland-based federation SLA
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time, current) - with [Oskar Haller](@/w/oskar-haller.md)
 * [Legacy of Wrestling](@/o/low.md):
-  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) Contract Six-Man Gauntlet Match (2026)
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time, current)
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) Contract Six-Man Dragon Gauntlet Match (2026)
 
 ## Internet presence
 

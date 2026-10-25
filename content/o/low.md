@@ -154,7 +154,14 @@ Legacy of Wrestling became the first professional wrestling promotion openly adm
 
 ## Championships
 
-Legacy hinted that they will promote their own championship during multiple live Q&A videos, with a build-up for the final title match starting at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md). As of October 2025 it is known that the first Legacy champion will be crowned at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md).
+Legacy hinted that they would promote their own Championship during multiple live Q&A videos, with a build-up for the final title match starting at [Legacy vol. 2](@/e/low/2025-04-06-low-2.md). The first Legacy Champion was crowned at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md).
+
+{% championship() %}
+- - '[Legacy of Wrestling European Championship](@/c/low-european-championship.md)'
+  - '[Chemik](@/w/chemik.md)'
+  - >
+    Defeated [Max Speed](@/w/max-speed.md) by cashing in his contract briefcase at [What's in the Box?](@/e/low/2026-10-24-low-7.md)
+{% end %}
 
 ## Internet presence
 
