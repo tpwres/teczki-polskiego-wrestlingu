@@ -15,13 +15,11 @@
 10700 = { path = "la-caduta-dell-uomo.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) jumps from the top rope onto [Antoni Ocean](@/w/antoni-ocean.md), [Sędzia Alan](@/w/sedzia-alan.md) watches in disbelief.", source = "M3n747" }
 10800 = { path = "cercando-la-gloria.webp.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) about to win, as [Sędzia Alan](@/w/sedzia-alan.md) counts Antoni Ocean out.", source = "M3n747" }
 
-20100 = { path = ".webp", caption = ".", source = "M3n747" }
-20200 = { path = ".webp", caption = ".", source = "M3n747" }
-20300 = { path = ".webp", caption = ".", source = "M3n747" }
-20400 = { path = ".webp", caption = ".", source = "M3n747" }
-20500 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
+20100 = { path = "dzien-dobry-platoszu-pas-mistrzowski-mam-w-koszu.webp", caption = "[Bartosz Plata](@/w/plata.md) enters, welcomed by [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
+20200 = { path = "a-ty-ile-placisz-za-wywozke-zmieszanychs.webp", caption = "[Arek Paterek](@/w/arek-paterek.md) trash-talks Marcelito.", source = "M3n747" }
+20300 = { path = "das-deutsche-suplex.webp", caption = "Bartosz Plata performs a textbook German Suplex on Marcelito.", source = "M3n747" }
+20400 = { path = "plata-smash.webp", caption = "[Bartosz Plata](@/w/plata.md) is angry, or perhaps happy,]; the difference is very subtle.", source = "M3n747" }
+20500 = { path = "dobra-wygrali-a-teraz-napiszcie-raport.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md), [Bartosz Plata](@/w/plata.md) and [Tony Sheen](@/w/riverman.md) celebrate their victories, accompanied by [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
 
 
 30100 = { path = ".webp", caption = ".", source = "M3n747" }
