@@ -7,11 +7,11 @@
 00007 = { path = "ladnie-wyprasowane-koszulki.webp", caption = "Image announcing [Tony Sheen](@/w/riverman.md), [Arek Paterek](@/w/arek-paterek.md) and [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official Legacy Facebook" }
 
 10001 = { path = "tu-beda-dzialy-sie-rzeczy.webp", caption = "View of the ring before the show.", source = "M3n747" }
-10002 = { path = ".webp", caption = ".", source = "M3n747" }
-10003 = { path = ".webp", caption = ".", source = "M3n747" }
-10004 = { path = ".webp", caption = ".", source = "M3n747" }
-10005 = { path = ".webp", caption = ".", source = "M3n747" }
-10006 = { path = ".webp", caption = ".", source = "M3n747" }
+10002 = { path = "wiktor-d-pseudonim-otwieracz.webp", caption = "[Wiktor D.](@/w/wiktor-longman.md) opens the show.", source = "M3n747" }
+10003 = { path = "dwaj-pracownicy-biurowi.webp", caption = "[Tony Sheen](@/w/riverman.md) and Eryk Lesak.", source = "M3n747" }
+10004 = { path = "paterek-cos-gada.webp", caption = "[Wiktor D.](@/w/wiktor-longman.md) listens to what [Arek Paterek](@/w/arek-paterek.md) has to say. Between them stands [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
+10005 = { path = "do-czasu-wynalezienia-papieru-to-byla-nierowna-gra.webp", caption = "Antoni Ocean and Markus Paskal play rock-paper-scissors to determine who goes first.", source = "M3n747" }
+10006 = { path = "ryba-i-ocean-czyli-naturalny-pairing.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) watches Tony Sheen and Antoni Ocean lock up.", source = "M3n747" }
 
 
 
