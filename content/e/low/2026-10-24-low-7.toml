@@ -5,3 +5,23 @@
 00005 = { path = "samborska-pabloteka.webp", caption = "Image announcing [Sambor](@/w/sambor.md) vs [Disco Pablo](@/w/disco-pablo.md).", source = "Official Legacy Facebook" }
 00006 = { path = "pan-ktorego-lubimy-vs-pan-ktorego-lubilismy.webp", caption = "Image announcing [Marcelito](@/w/marcelito.md) vs [Bartosz Plata](@/w/plata.md).", source = "Official Legacy Facebook" }
 00007 = { path = "ladnie-wyprasowane-koszulki.webp", caption = "Image announcing [Tony Sheen](@/w/riverman.md), [Arek Paterek](@/w/arek-paterek.md) and [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official Legacy Facebook" }
+
+10001 = { path = "tu-beda-dzialy-sie-rzeczy.webp", caption = "View of the ring before the show.", source = "M3n747" }
+10002 = { path = ".webp", caption = ".", source = "M3n747" }
+10003 = { path = ".webp", caption = ".", source = "M3n747" }
+10004 = { path = ".webp", caption = ".", source = "M3n747" }
+10005 = { path = ".webp", caption = ".", source = "M3n747" }
+10006 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+20001 = { path = ".webp", caption = ".", source = "M3n747" }
+30001 = { path = ".webp", caption = ".", source = "M3n747" }
+40001 = { path = ".webp", caption = ".", source = "M3n747" }
+50001 = { path = ".webp", caption = ".", source = "M3n747" }
+60001 = { path = ".webp", caption = ".", source = "M3n747" }
+70001 = { path = ".webp", caption = ".", source = "M3n747" }
+80001 = { path = ".webp", caption = ".", source = "M3n747" }
+90001 = { path = ".webp", caption = ".", source = "M3n747" }
