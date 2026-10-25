@@ -98,7 +98,7 @@ At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander]
   - [DFW Championship](@/c/dfw-championship.md) (1 time; final)
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultriaviolent Champion](@/c/ppw-european-ultraviolent-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - as part of [Rodzina](@/tt/rodzina.md)
 
 ## References
 
