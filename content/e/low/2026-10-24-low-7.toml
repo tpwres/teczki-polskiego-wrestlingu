@@ -21,8 +21,34 @@
 20400 = { path = "plata-smash.webp", caption = "[Bartosz Plata](@/w/plata.md) is angry, or perhaps happy,]; the difference is very subtle.", source = "M3n747" }
 20500 = { path = "dobra-wygrali-a-teraz-napiszcie-raport.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md), [Bartosz Plata](@/w/plata.md) and [Tony Sheen](@/w/riverman.md) celebrate their victories, accompanied by [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
 
+30100 = { path = "wejscie-zefira.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "M3n747" }
+30200 = { path = "wejscie-shadowa.webp", caption = "[Shadow's](@/w/shadow.md) entrance.", source = "M3n747" }
+30300 = { path = ".webp", caption = ".", source = "M3n747" }
+30400 = { path = ".webp", caption = ".", source = "M3n747" }
+30500 = { path = ".webp", caption = ".", source = "M3n747" }
+30600 = { path = ".webp", caption = ".", source = "M3n747" }
+30700 = { path = ".webp", caption = ".", source = "M3n747" }
+30800 = { path = ".webp", caption = ".", source = "M3n747" }
+30900 = { path = ".webp", caption = ".", source = "M3n747" }
+31000 = { path = ".webp", caption = ".", source = "M3n747" }
+31100 = { path = ".webp", caption = ".", source = "M3n747" }
+31200 = { path = ".webp", caption = ".", source = "M3n747" }
+31300 = { path = ".webp", caption = ".", source = "M3n747" }
+31400 = { path = ".webp", caption = ".", source = "M3n747" }
+31500 = { path = ".webp", caption = ".", source = "M3n747" }
+31600 = { path = ".webp", caption = ".", source = "M3n747" }
+31700 = { path = ".webp", caption = ".", source = "M3n747" }
+31800 = { path = ".webp", caption = ".", source = "M3n747" }
+31900 = { path = ".webp", caption = ".", source = "M3n747" }
+32000 = { path = ".webp", caption = ".", source = "M3n747" }
+32100 = { path = ".webp", caption = ".", source = "M3n747" }
+32200 = { path = ".webp", caption = ".", source = "M3n747" }
+32300 = { path = ".webp", caption = ".", source = "M3n747" }
+32400 = { path = ".webp", caption = ".", source = "M3n747" }
 
-30100 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
 40100 = { path = ".webp", caption = ".", source = "M3n747" }
 50100 = { path = ".webp", caption = ".", source = "M3n747" }
 60100 = { path = ".webp", caption = ".", source = "M3n747" }
