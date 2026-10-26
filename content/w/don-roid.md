@@ -33,14 +33,22 @@ When in late 2014 DDW moved to Gdańsk, the move proved inconvenient to Roid due
 
 ### Kombat Pro Wrestling (2023)
 
-In 2023 Don Roid appeared at the KPW summer training camp, and [talked to the camera](https://www.youtube.com/watch?v=GuYpnWOBRDI) praising the way that KPW has developed since he stepped down from wrestling, and how the organization exceeded his expectations. He offered to come back, in a training role rather than as a wrestler, and to support the organization.
+In 2023 Don Roid appeared at the KPW summer training camp, and [talked to the camera][don-kpw] praising the way that KPW has developed since he stepped down from wrestling, and how the organization exceeded his expectations. He offered to come back, in a training role rather than as a wrestler, and to support the organization.
 
 ## In wrestling
 
 * Finishers:
   - Roid Splash (2009-2015)
+* Entrance music:
+  - "Mr. Rainmaker" by Warrant
+    {{ org_badge(orgs=['ddw']) }} (2009-2015) <br>
+    {{ music(yt='DBnHF9Lzw24')}}
+    {{ music(spot='5Dn6skYCEq2kUDhKUAmkP3')}}
+    {{ music(apple='198468184?i=198468940')}}
 
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=1902)
 * [The history of Polish wrestling, part 2](https://mywrestling.com.pl/historia-polskiego-wrestlingu-2-proby-ponownego-wprowadzenia-wrestlingu-do-polski-poczatki-ddw-wielka-gala-w-stodole/) (in Polish)
+
+[don-kpw]: https://www.youtube.com/watch?v=GuYpnWOBRDI
