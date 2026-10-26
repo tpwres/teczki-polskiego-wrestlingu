@@ -23,33 +23,20 @@
 
 30100 = { path = "wejscie-zefira.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "M3n747" }
 30200 = { path = "wejscie-shadowa.webp", caption = "[Shadow's](@/w/shadow.md) entrance.", source = "M3n747" }
-30300 = { path = ".webp", caption = ".", source = "M3n747" }
-30400 = { path = ".webp", caption = ".", source = "M3n747" }
-30500 = { path = ".webp", caption = ".", source = "M3n747" }
-30600 = { path = ".webp", caption = ".", source = "M3n747" }
-30700 = { path = ".webp", caption = ".", source = "M3n747" }
-30800 = { path = ".webp", caption = ".", source = "M3n747" }
-30900 = { path = ".webp", caption = ".", source = "M3n747" }
-31000 = { path = ".webp", caption = ".", source = "M3n747" }
-31100 = { path = ".webp", caption = ".", source = "M3n747" }
-31200 = { path = ".webp", caption = ".", source = "M3n747" }
-31300 = { path = ".webp", caption = ".", source = "M3n747" }
-31400 = { path = ".webp", caption = ".", source = "M3n747" }
-31500 = { path = ".webp", caption = ".", source = "M3n747" }
-31600 = { path = ".webp", caption = ".", source = "M3n747" }
-31700 = { path = ".webp", caption = ".", source = "M3n747" }
-31800 = { path = ".webp", caption = ".", source = "M3n747" }
-31900 = { path = ".webp", caption = ".", source = "M3n747" }
-32000 = { path = ".webp", caption = ".", source = "M3n747" }
-32100 = { path = ".webp", caption = ".", source = "M3n747" }
-32200 = { path = ".webp", caption = ".", source = "M3n747" }
-32300 = { path = ".webp", caption = ".", source = "M3n747" }
-32400 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
+30300 = { path = "historical-awesomeness-about-to-commence.webp", caption = "[Shadow](@/w/shadow.md) and Zefir in the same ring.", source = "M3n747" }
+30400 = { path = "juz-chwycili-sie-za-bary.webp", caption = "Shadow's experience vs Zefir's vigour.", source = "M3n747" }
+30500 = { path = "ja-tez-prawie-padlem-na-kolana.webp", caption = "[Zefir](@/w/zefir.md) and Shadow prove to be on equal footing.", source = "M3n747" }
+30600 = { path = "shadow-kladzie-sie-cieniem-na-ringu.webp", caption = "Zefir fails to pin [Shadow](@/w/shadow.md).", source = "M3n747" }
+30700 = { path = "smuga-cienia.webp", caption = "[Shadow](@/w/shadow.md) also finds Zefir doesn't give up easily. [Sędzia Alan](@/w/sedzia-alan.md) seems used to it by now.", source = "M3n747" }
+30800 = { path = "shadow-sie-wywinal.webp", caption = "Shadow narrowly escapes Zefir's Swanton Bomb.", source = "M3n747" }
+30900 = { path = "salto-ksiezycowe.webp", caption = "Shadow executes a Moonsault onto Zefir.", source = "M3n747" }
+31000 = { path = "shadow-zwycieski.webp", caption = "Shadow awarded the victory by Sędzia Alan.", source = "M3n747" }
+31100 = { path = "shadow-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) bows in front of the audience.", source = "M3n747" }
 
 40100 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
 50100 = { path = ".webp", caption = ".", source = "M3n747" }
 60100 = { path = ".webp", caption = ".", source = "M3n747" }
 70100 = { path = ".webp", caption = ".", source = "M3n747" }
