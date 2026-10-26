@@ -88,6 +88,7 @@ On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from i
   - en: '[MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)'
     ed: 2026-11-20
     nc: upcoming
+    s: "Shadow's Last Match"
 {% end %}
 
 ## International wrestling appearances
