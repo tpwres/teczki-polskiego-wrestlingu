@@ -31,7 +31,7 @@
 30800 = { path = "shadow-sie-wywinal.webp", caption = "Shadow narrowly escapes Zefir's Swanton Bomb.", source = "M3n747" }
 30900 = { path = "salto-ksiezycowe.webp", caption = "Shadow executes a Moonsault onto Zefir.", source = "M3n747" }
 31000 = { path = "shadow-zwycieski.webp", caption = "Shadow awarded the victory by Sędzia Alan.", source = "M3n747" }
-31100 = { path = "shadow-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) bows in front of the audience.", source = "M3n747" }
+31100 = { path = "shadow-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) bows before the audience.", source = "M3n747" }
 
 40100 = { path = ".webp", caption = ".", source = "M3n747" }
 
