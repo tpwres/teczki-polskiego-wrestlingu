@@ -12,7 +12,7 @@ Remo is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/
 
 ## Basic info
 
-* Years active: 2021-2022; 2025-
+* Years active: 2021-2022; 2025
 * Gimmicks/nicknames:
   - Remo {{ org_badge(orgs=['ptw']) }}
 * Trained by:
@@ -20,7 +20,7 @@ Remo is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/
  
 ## Professional wrestling career
 
-### Prime Time Wrestling (2021-2024; 2025-)
+### Prime Time Wrestling (2021-2024; 2025)
 
 #### First run
 
@@ -32,7 +32,7 @@ In June 2024 Remo officially [left Prime Time Wrestling](@/a/ptw-exits.md), whic
 
 #### Return to PTW
 
-In November 2025, after over a year of silence, Remo [published a post][remo] on his Instagram account, teasing his return to in-ring competition. He made his comeback at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md). He cut a promo where he expressed his grudge against PTW fans who forgot about him when he was out. He vowed to eliminate each of the fan-favourites, starting with another "usurper from Bydgoszcz" - [CJ Klakson](@/w/cj-klakson.md).
+In November 2025, after over a year of silence, Remo [published a post][remo] on his Instagram account, teasing his return to in-ring competition. He made his comeback at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md). He cut a promo where he expressed his grudge against PTW fans who forgot about him when he was out. He vowed to eliminate each of the fan-favourites, starting with another "usurper from Bydgoszcz" - [CJ Klakson](@/w/cj-klakson.md). However, as of October 2026, he made no further appearances.
 
 ## In wrestling
 
