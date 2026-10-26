@@ -15,7 +15,7 @@ Dawid "Puncher" Seńko is a Polish wrestler best known for his time in [Prime Ti
 
 ## Basic info
 
-* Years active: 2021-present
+* Years active: 2021-2025
 * Gimmicks/nicknames:
   - Dawid "Puncher" Seńko {{ org_badge(orgs=['ptw']) }}
 * Trained by:
@@ -23,7 +23,7 @@ Dawid "Puncher" Seńko is a Polish wrestler best known for his time in [Prime Ti
 
 ## Professional wrestling career
 
-### Prime Time Wrestling (2021-present)
+### Prime Time Wrestling (2021-2025)
 
 #### Training and debut
 
@@ -87,13 +87,13 @@ From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promot
 ## In wrestling
 
 * Finishers:
-  - _Wylew_ (Superman Punch) (2021-)
-  - Fireman's Carry Cutter (2024-)
+  - _Wylew_ (Superman Punch) (2021-2025)
+  - Fireman's Carry Cutter (2024-2025)
 * Tag Teams and stables:
-  - [Nietykalni](@/tt/nietykalni.md) (2025-)
+  - [Nietykalni](@/tt/nietykalni.md) (2025)
 * Entrance music:
   - "Eye of the Tiger (Metal Cover)" by Leo feat. Rob Lundgren
-    {{ org_badge(orgs=['ptw']) }} (2021-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2025) <br>
     {{ music(yt='G6r1dAire0Y')}}
     {{ music(spot='5bAeRAV1eGSOmEhjtm8Wnf')}}
     {{ music(apple='1099245277?i=1099245311')}}
