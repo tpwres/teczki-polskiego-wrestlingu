@@ -72,6 +72,24 @@ In December 2024 Shadow was announced as one of the stars of the newly-founded f
 
 On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from in-ring action due to a chronic hip injury sustained in a fight three or four years prior (according to an [interview][w-cieniu-krowy] for [Center of Wrestling](@/o/cow.md)). Before ending his career as an active wrestler, he decided to make final three appearances in three promotions most important to him: Eastside Revolution Wrestling, Legacy of Wrestling, and lastly in Maniac Zone Wrestling. At [Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md) Shadow faced and defeated [Zefir](@/w/zefir.md), marking the only time he shared the ring with an active [KPW](@/o/kpw.md) wrestler. After the match Shadow was attacked by [Lider](@/w/lider.md), likely setting up his final match at [MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md).
 
+{% free_card() %}
+- - 'Danil Mamedov(c)'
+  - Shadow
+  - en: '[ERW Time To Rise](https://www.erw-wrestling.de/veranstaltungen/time-to-rise-2026)'
+    ed: 2026-09-05
+    s: East Division Championship Match
+- - Shadow
+  - '[Zefir](@/w/zefir.md)'
+  - en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
+    ed: 2026-10-24
+    s: Singles Match
+- - Shadow
+  - ???
+  - en: '[MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)'
+    ed: 2026-11-20
+    nc: upcoming
+{% end %}
+
 ## International wrestling appearances
 
 In addition to performing in Poland, Shadow has also wrestled for several international promotions - particularly for Germany-based Eastside Revolution Wrestling, Next Step Wrestling and a few others, including Czech promotion VcV and Hungarian Pro Wrestling Magyarország.
