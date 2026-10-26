@@ -18,7 +18,7 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 ## Build-up
 
 * On 18.10.2026 PpW announced a Tag Team Match between Hungarians [Maverick](@/w/maverick.md) & [Sentinel](@/w/sentinel.md) and [Rodzina](@/tt/rodzina.md), represented by [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md).
-* On 26.10.2026 [Filip Fux](@/w/filip-fux.md) was given a Street Fight against [Biesiad Strong](@/w/biesiad.md).
+* In a [video][sf-assassins-fist-i-tak-byl-lepszy] published on 25.10.2026 [Filip Fux](@/w/filip-fux.md) was given a Street Fight against [Biesiad Strong](@/w/biesiad.md). The match was officially confirmed the next day.
 
 ## Predicted card
 
@@ -41,3 +41,5 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465058)
 * [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
+
+[sf-assassins-fist-i-tak-byl-lepszy]: https://www.facebook.com/reel/1726318585133096
