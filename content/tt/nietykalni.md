@@ -53,7 +53,7 @@ After his loss, Puncher stopped appearing for PTW altogether, while other member
 ### Former
 
 * [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) - leader, PTW owner (2025-2026)
-* [Dawid "Puncher" Seńko](@/w/puncher.md) - stable's prizefighter (2025-2026)
+* [Dawid "Puncher" Seńko](@/w/puncher.md) - stable's prizefighter (2025)
 * [Royal Rebels](@/tt/royal-rebels.md) - a Tag Team of [Alex Brave](@/w/alex-brave.md) & [Vincent Caravaggio](@/w/vincent-caravaggio.md) (2025-2026)
 * ["Starboy" Nano Lopez](@/w/nano-lopez.md) - _Judas_ (2025-2026)
 
