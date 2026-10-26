@@ -5,6 +5,7 @@ weight = 0
 authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 category = ["History"]
+[extra.gallery]
 +++
 
 For more than 10 years since its inception, the Polish pro wrestling scene didn't cooperate and instead each promotion chose to remain in its own insular bubble.
@@ -21,8 +22,9 @@ The next major change occurred in late 2024 with the inception of [Legacy of Wre
 
 Initially KPW limited themselves to just working Legacy shows, but starting with [PpW Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) in 2026, KPW's wrestlers began making appearances at PpW shows with increasing frequency. The first active KPW worker to be booked by PpW was [Filip Fux](@/w/filip-fux.md), soon followed by [Leon Lato](@/w/leon-lato.md) and others. Then, in mid-2026, KPW seemingly changed their long-held policy even further by booking [Olgierd](@/w/olgierd.md) for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) and potentially opening themselves for more workers from other promotions as well.
 
-As of June 2026, PTW remains the only Polish pro wrestling federation that still isolates from the rest of the scene. This, however, might be subject to change, as owner [Łukasz Okoński](@/w/lukasz-okonski.md) stated in an [interview with Kroolikowy][okon-krolik] that he is open to having workers from other promotions in the PTW ring, and that he had already spoken with some of them (without providing any details).
+As of June 2026, PTW remained the only Polish pro wrestling federation that still isolated from the rest of the scene. However, a possible change was signalled when owner [Łukasz Okoński](@/w/lukasz-okonski.md) stated in an [interview with Kroolikowy][okon-krolik] that he was open to having workers from other promotions in the PTW ring, and that he had already spoken with some of them (without providing any details). Further development was seen in October, when [Isnorr](@/w/isnorr.md) and [Jakub Linde](@/w/jakub-linde.md) attended a training session at the [PTW Academy](@/o/ptw-academy.md) (see the gallery below). Additionally, the Academy published a [video][prezes-slam] of Isnorr - wearing a PpW hoodie - directly interacting with Okoński via the means of a Body Slam.
 
 A notable outlier is [Mine City Wrestling](@/o/mcw.md) which, despite being considered a backyard with no ties to DDW, also refrains from establishing ties with other promotions, for reasons of their own. The closest they came to cooperating with the rest of the Polish scene was in 2024, when Legacy negotiated renting MCW's ring for their [first show](@/e/low/2024-12-01-low-1.md), however the negotiations fell through.
 
 [okon-krolik]: https://www.youtube.com/watch?v=kvRZlhuxgHw
+[prezes-slam]: https://www.instagram.com/reel/De8x3p0qUVQ
