@@ -17,9 +17,16 @@ has_video = false
 
 ## Build-up
 
-* TBD
+* The first match, announced on 27.10.2026, was a Tag Team Match between Kolektyw ([Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)) and [Biuro Prasowe](@/tt/biuro-prasowe.md) (represented by [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - 'Kolektyw: [Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)'
+  - '[Biuro Prasowe](@/tt/biuro-prasowe.md): [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
+  - s: Tag Team Match
+    nc: upcoming
+{% end %}
 
 ### Highlights
 
