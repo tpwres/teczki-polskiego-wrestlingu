@@ -24,6 +24,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Chuj ci na imię, hej [wrestler], chuj ci na imię") %}xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;vrˈɛstlɛr&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ{% end %} 🌶️️🌶️
 * _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex. \
   {% ipa(tts="Chuj ci w dupę") %}xˈuj t͡ɕˈi vˈɨ dˈupɛ{% end %} 🌶️🌶️
+* _Hańba! Kurewstwo! Kolesiostwo!_ - "Dishonour! Fuckery! Cronyism!": often used against heels and their sneaky, underhanded favouritism. \
+  {% ipa(tts="Hańba! Kurewstwo! Kolesiostwo!") %}xˈaɲba! kurˈɛfstfɔ! kˌɔlɛɕˈɔstfɔ!{% end %} 🌶️🌶️
 * _Kurwy i śmiecie, z [miasta] nie wyjedziecie_ - "Motherfuckers, you ain't leaving [city] alive": used against heels, especially billed from out of town. \
   {% ipa(tts="Kurwy i śmiecie, z miasta nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
 * _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
