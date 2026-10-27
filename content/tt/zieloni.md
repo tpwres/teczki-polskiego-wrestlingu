@@ -76,7 +76,7 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
 
 * [PpW Ewenement](@/o/ppw.md):
   - [PpW Championship](@/c/ppw-championship.md) (2 times; current) - Olgierd (1), Gabriel Queen (1; current)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - Jakub (1), Vic Golden (1; current)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (3 times; current) - Jakub (1), Vic Golden (2; current)
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (1 time) - Isnorr
   - Golden Goat Trophy (2023) - Gabriel Queen (as Bonus CBD)
 * [Prime Time Wrestling](@/o/ptw.md):
@@ -95,7 +95,7 @@ It is important to note that not all MZW wrestlers are Greens. The group was sta
   - Rookies' Battle Royal (2019) - Aron Wake
   - Project Basement Trophy (2021) - Aron Wake
 * [Legacy of Wrestling](@/o/low.md):
-  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural; current) - Jakub
+  - [Legacy of Wrestling European Championship](@/c/low-european-championship.md) (1 time; inaugural) - Jakub
   - Road to the Title Tournament (2025) - Jakub
 
 ## Trivia
