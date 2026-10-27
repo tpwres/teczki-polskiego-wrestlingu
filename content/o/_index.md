@@ -13,7 +13,7 @@ template = "index.html"
 | Founded | Name | Location |
 |--:|---|---|
 | 2013 | {{ org_badge(org='mzw') }} [Maniac Zone Wrestling](@/o/mzw.md) | Głuchołazy, **Wrocław** |
-| 2013 | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, **Świerklaniec** |
+<!-- | 2013 | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, **Świerklaniec** | -->
 | 2015 | {{ org_badge(org='kpw') }} [Kombat Pro Wrestling](@/o/kpw.md) | Gdańsk, **Gdynia** |
 | 2020 | {{ org_badge(org='ppw') }} [PpW Ewenement](@/o/ppw.md) | **Warsaw** |
 | 2021 | {{ org_badge(org='ptw') }} [Prime Time Wrestling](@/o/ptw.md) | Chorzów, **Kozłów** |
@@ -30,6 +30,11 @@ template = "index.html"
 | 2017- | [Polska Akademia Wrestlingu](@/o/paw.md) | Głuchołazy, Wrocław, Kępno, Toruń, **Chrząstawa Wielka** |
 | 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, **Kozłów** |
 | 2024- | [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) | **Warsaw** |
+
+## Inavctive
+
+| Years active | Name | Location | Last show |
+| 2013 | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, **Świerklaniec** | [Nov 2024](@/e/mcw/2024-11-16-mcw-charytatywnie.md) |
 
 ## Folded
 
