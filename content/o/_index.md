@@ -35,7 +35,7 @@ template = "index.html"
 
 | Years active | Name | Location | Last show |
 |--:|---|---|---|
-| 2013 | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, **Świerklaniec** | [Nov 2024](@/e/mcw/2024-11-16-mcw-charytatywnie.md) |
+| 2013-2024 | {{ org_badge(org='mcw') }} [Mine City Wrestling](@/o/mcw.md) | Siemianowice Śląskie, Brzeziny, Tarnowskie Góry, **Świerklaniec** | [Nov 2024](@/e/mcw/2024-11-16-mcw-charytatywnie.md) |
 
 ## Folded
 
