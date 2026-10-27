@@ -31,7 +31,7 @@ template = "index.html"
 | 2021- | [PTW Academy](@/o/ptw-academy.md) | Chorzów, **Kozłów** |
 | 2024- | [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) | **Warsaw** |
 
-## Inavctive
+## Inactive
 
 | Years active | Name | Location | Last show |
 |--:|---|---|---|
