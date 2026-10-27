@@ -33,11 +33,14 @@
 31000 = { path = "shadow-zwycieski.webp", caption = "Shadow awarded the victory by Sędzia Alan.", source = "M3n747" }
 31100 = { path = "shadow-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) bows before the audience.", source = "M3n747" }
 
-40100 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
+40100 = { path = "follow-the-leader.webp", caption = "A mysterious figure attacks Shadow.", source = "M3n747" }
+40200 = { path = "followowac-mnie-miales-a-nie-sobie-na-ringu-lezysz.webp", caption = "[Lider](@/w/lider.md) cuts a promo aimed at the downed Shadow.", source = "M3n747" }
+40300 = { path = "no-dobra-ide-sobie-nara.webp.webp", caption = "Lider removed from the ring by security and staff.", source = "M3n747" }
+40400 = { path = "shadow-jeszcze-troche-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) thanks the audience.", source = "M3n747" }
 
 50100 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
 60100 = { path = ".webp", caption = ".", source = "M3n747" }
 70100 = { path = ".webp", caption = ".", source = "M3n747" }
 80100 = { path = ".webp", caption = ".", source = "M3n747" }
