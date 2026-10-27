@@ -38,7 +38,26 @@
 40300 = { path = "no-dobra-ide-sobie-nara.webp", caption = "Lider removed from the ring by security and staff.", source = "M3n747" }
 40400 = { path = "shadow-jeszcze-troche-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) thanks the audience.", source = "M3n747" }
 
-50100 = { path = ".webp", caption = ".", source = "M3n747" }
+50100 = { path = "bring-me-the-disco-king.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) is ready to party.", source = "M3n747" }
+50200 = { path = "pablo-approves.webp", caption = "Disco Pablo gives [Sędzia Seweryn](@/w/sedzia-seweryn.md) a thumbs-up, while [Wiktor D.](@/w/wiktor-longman.md) looks confused.", source = "M3n747" }
+50300 = { path = "sambor-zareaguje-lancuchowo.webp", caption = "Sambor with a steel chain. To the left, [Sędzia Seweryn](@/w/sedzia-seweryn.md) and [Wiktor D.](@/w/wiktor-longman.md) anxious.", source = "M3n747" }
+50400 = { path = ".webp", caption = ".", source = "M3n747" }
+50500 = { path = ".webp", caption = ".", source = "M3n747" }
+50600 = { path = ".webp", caption = ".", source = "M3n747" }
+50700 = { path = ".webp", caption = ".", source = "M3n747" }
+50800 = { path = ".webp", caption = ".", source = "M3n747" }
+50900 = { path = ".webp", caption = ".", source = "M3n747" }
+51000 = { path = ".webp", caption = ".", source = "M3n747" }
+51100 = { path = ".webp", caption = ".", source = "M3n747" }
+51200 = { path = ".webp", caption = ".", source = "M3n747" }
+51300 = { path = ".webp", caption = ".", source = "M3n747" }
+51400 = { path = ".webp", caption = ".", source = "M3n747" }
+51500 = { path = ".webp", caption = ".", source = "M3n747" }
+51600 = { path = ".webp", caption = ".", source = "M3n747" }
+51700 = { path = ".webp", caption = ".", source = "M3n747" }
+51800 = { path = ".webp", caption = ".", source = "M3n747" }
+51900 = { path = ".webp", caption = ".", source = "M3n747" }
+52000 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 60100 = { path = ".webp", caption = ".", source = "M3n747" }
