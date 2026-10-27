@@ -81,7 +81,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 
 ## Referee
 
-* _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. Or whenever the crowd wanted the babyface to win already, often the calls are not even close to 2,5.\
+* _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. Or whenever the crowd wanted the babyface to win already, often the calls are not even close to 2.5.\
   {% ipa(tts="Było trzy") %}bˈɨwɔ tʃˈɨ{% end %}
 * _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. During [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) a half-French variant _sędzia putain_ was also heard. \
   {% ipa(tts="Sędzia chuj") %}sˈɛɲd͡ʑa xˈuj{% end %} 🌶️🌶️
