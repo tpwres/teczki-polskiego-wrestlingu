@@ -76,7 +76,7 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]_ - "Leave [wrestler] alone, you bitch": when a babyface receives too much punishment. \
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek". [PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) saw two more variants with _zostaw Madziara_ and _zostaw Japońca_ (Hungarian and Japanese, respectively), this time keeping the expletive and placing the nationality as the sentence's object. \
   {% ipa(tts="Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]") %}zˈɔstaf &#91;vrɛstlˈɛra&#93;, tˈɨ kˈurvɔ, zˈɔstaf &#91;vrɛstlˈɛra&#93;{% end %} 🌶️🌶️
-* _Zrób mu z dupy buzię_ - "Make his ass into a face": a general, is somewhat nonsensical, encouragement of violent action. Note, that the word "buzia" is a rather childish term for a face, not typically expected in a context like this. \
+* _Zrób mu z dupy buzię_ - "Make his ass into a face": a general, if somewhat nonsensical, encouragement of violent action. Note, that the word "buzia" is a rather childish term for a face, not typically expected in a context like this. \
   {% ipa(tts="Zrób mu z dupy buzię") %}zrˈup mu z dˈupɨ bˈuʑɛ{% end %} 🌶️
 
 ## Referee
