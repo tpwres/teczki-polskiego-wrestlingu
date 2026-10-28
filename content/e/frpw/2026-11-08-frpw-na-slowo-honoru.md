@@ -41,7 +41,7 @@ has_video = false
     nc: upcoming
 - - '[Asara](@/w/asara.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Highlights
