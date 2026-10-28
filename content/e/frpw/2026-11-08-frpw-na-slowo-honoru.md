@@ -21,6 +21,7 @@ has_video = false
 * On 20.10.2026 FRPW announced a Mixed Tag Team Match between [Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md) and Kolektyw ([Gloria](@/w/gloria-g-szek.md) & [Olgierd](@/w/olgierd.md)).
 * In a [video][emil-wxw] published on 22.10.2026, [Emil Völler](@/w/emil-voeller.md) issued an Open Challenge for his wXw Wrestling Academy Championship. Emil took the title from [Gabriel Queen](@/w/gabriel-queen.md) just a day before, during a wXw HEAT event in Gelsenkirchen.
 * The next day the challenge was asnwered by [Goblin](@/w/goblin.md).
+* On 28.10.2026 Asara was announced to debut in FRPW, in a match with [Filip Fux](@/w/filip-fux.md).
 
 ## Predicted card
 
@@ -37,6 +38,9 @@ has_video = false
   - '[Goblin](@/w/goblin.md)'
   - c: wXw Academy Championship
     s: Open Challenge
+    nc: upcoming
+- - '[Asara](@/w/asara.md)'
+  - '[Filip Fux](@/w/filip-fux.md)'
     nc: upcoming
 {% end %}
 
