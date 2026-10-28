@@ -53,7 +53,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - g: Kids in-ring training session during the intermission.
 - - 'adept Mikołaj "SKS"'
   - '[Sambor](@/w/sambor.md)'
-  - '[Szymon Kurczab](@/w/adept-dwa.md)'
+  - '[Szymon Kurczab](@/w/szymon-dragan.md)'
   - '[adeptka Gaba](@/w/rozalia-nyx.md)'
   - '[Emil Völler](@/w/emil-voeller.md)'
   - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md)'

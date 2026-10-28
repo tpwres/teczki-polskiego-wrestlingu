@@ -135,7 +135,7 @@ At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Jakub returned
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Jakub debuted for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at the first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), where he won the Next Big Thing Battle Royale as a masked wrestler named "Gringo", only to reveal himself as Jakub after the match. At the same show he also faced and defeated [Szymon Kurczab](@/w/adept-dwa.md). From that point on Jakub started making regular appearances in FRPW.
+Jakub debuted for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at the first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), where he won the Next Big Thing Battle Royale as a masked wrestler named "Gringo", only to reveal himself as Jakub after the match. At the same show he also faced and defeated [Szymon Kurczab](@/w/szymon-dragan.md). From that point on Jakub started making regular appearances in FRPW.
 
 Later, Jakub was announced as one of the participants in the HeelTurn Invitational Tournament. When the first round took place at FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), he entered the ring accompanied by [Gloria](@/w/gloria-g-szek.md), and ultimately lost to [Leon Lato](@/w/leon-lato.md).
 
