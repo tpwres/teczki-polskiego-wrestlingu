@@ -24,6 +24,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Chuj ci na imię, hej [wrestler], chuj ci na imię") %}xˈuj t͡ɕˈi nˈa ˈimjɛ, xˈɛj &#91;vrˈɛstlɛr&#93;, xˈuj t͡ɕˈi nˈa ˈimjɛ{% end %} 🌶️️🌶️
 * _Chuj ci w dupę_ - "Up your arse": popular and general use expletive referring to anal sex. \
   {% ipa(tts="Chuj ci w dupę") %}xˈuj t͡ɕˈi vˈɨ dˈupɛ{% end %} 🌶️🌶️
+* _Hańba! Kurewstwo! Kolesiostwo!_ - "Dishonour! Fuckery! Cronyism!": often used against heels and their sneaky, underhanded favouritism. \
+  {% ipa(tts="Hańba! Kurewstwo! Kolesiostwo!") %}xˈaɲba! kurˈɛfstfɔ! kˌɔlɛɕˈɔstfɔ!{% end %} 🌶️🌶️
 * _Kurwy i śmiecie, z [miasta] nie wyjedziecie_ - "Motherfuckers, you ain't leaving [city] alive": used against heels, especially billed from out of town. \
   {% ipa(tts="Kurwy i śmiecie, z miasta nie wyjedziecie") %}kˈurvɨ ˈi ɕmʲˈɛt͡ɕɛ, zˈɨ &#91;mʲˈasta&#93; ɲʲˈɛ vˌɨjɛd͡ʑˈɛt͡ɕɛ{% end %} 🌶️🌶️
 * _Wypierdalaj_ - "Get the fuck out": often used to react to heels and other unwelcome characters. \
@@ -74,12 +76,12 @@ Translations, explanations and pronunciations are provided. Additionally, since 
 * _Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]_ - "Leave [wrestler] alone, you bitch": when a babyface receives too much punishment. \
   At [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md), during [Leon Lato](@/w/leon-lato.md) vs Reece Alexios, a slightly modified version was heard, replacing the expletive with Alexios's nationality: _ty Greku zostaw Leona_ - "leave Leon alone, you Greek". [PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) saw two more variants with _zostaw Madziara_ and _zostaw Japońca_ (Hungarian and Japanese, respectively), this time keeping the expletive and placing the nationality as the sentence's object. \
   {% ipa(tts="Zostaw [wrestlera], ty kurwo, zostaw [wrestlera]") %}zˈɔstaf &#91;vrɛstlˈɛra&#93;, tˈɨ kˈurvɔ, zˈɔstaf &#91;vrɛstlˈɛra&#93;{% end %} 🌶️🌶️
-* _Zrób mu z dupy buzię_ - "Make his ass into a face": a general, is somewhat nonsensical, encouragement of violent action. Note, that the word "buzia" is a rather childish term for a face, not typically expected in a context like this. \
+* _Zrób mu z dupy buzię_ - "Make his ass into a face": a general, if somewhat nonsensical, encouragement of violent action. Note, that the word "buzia" is a rather childish term for a face, not typically expected in a context like this. \
   {% ipa(tts="Zrób mu z dupy buzię") %}zrˈup mu z dˈupɨ bˈuʑɛ{% end %} 🌶️
 
 ## Referee
 
-* _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. Or whenever the crowd wanted the babyface to win already, often the calls are not even close to 2,5.\
+* _Było trzy_ - "It was three": when a heel kicks out at the last microsecond. Or whenever the crowd wanted the babyface to win already, often the calls are not even close to 2.5.\
   {% ipa(tts="Było trzy") %}bˈɨwɔ tʃˈɨ{% end %}
 * _Sędzia chuj_ - "Referee is a dick": after referee fails to see heel tactics, or a three-count that was not to the crowd's satisfaction. Referee [Krystian Czekaj](@/w/krystian-czekaj.md) put it on a T-shirt. During [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) a half-French variant _sędzia putain_ was also heard. \
   {% ipa(tts="Sędzia chuj") %}sˈɛɲd͡ʑa xˈuj{% end %} 🌶️🌶️
