@@ -41,11 +41,11 @@
 50100 = { path = "bring-me-the-disco-king.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) is ready to party.", source = "M3n747" }
 50200 = { path = "pablo-approves.webp", caption = "Disco Pablo gives [Sędzia Seweryn](@/w/sedzia-seweryn.md) a thumbs-up, while [Wiktor D.](@/w/wiktor-longman.md) looks confused.", source = "M3n747" }
 50300 = { path = "sambor-zareaguje-lancuchowo.webp", caption = "Sambor with a steel chain. To the left, [Sędzia Seweryn](@/w/sedzia-seweryn.md) and [Wiktor D.](@/w/wiktor-longman.md) anxious.", source = "M3n747" }
-50400 = { path = ".webp", caption = ".", source = "M3n747" }
-50500 = { path = ".webp", caption = ".", source = "M3n747" }
-50600 = { path = ".webp", caption = ".", source = "M3n747" }
-50700 = { path = ".webp", caption = ".", source = "M3n747" }
-50800 = { path = ".webp", caption = ".", source = "M3n747" }
+50400 = { path = "bonk.webp", caption = "Disco Pablo answers the titular question, proving that Sambor's face is in the box.", source = "M3n747" }
+50500 = { path = "na-falochronie.webp", caption = "Fans do a wave around the table on which lies dazed [Sambor](@/w/sambor.md), heading towards [Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
+50600 = { path = "i-chlap.webp", caption = "With the help of fans, Disco Pablo delivers a powerful chop to Sambor.", source = "M3n747" }
+50700 = { path = "samborowi-az-w-piety-poszlo.webp", caption = "As the old Polish saying goes, Sambor covers himself with his own legs - much to [Disco Pablo's](@/w/disco-pablo.md) delight.", source = "M3n747" }
+50800 = { path = "legenda-glosi-ze-ktos-kiedys-na-krzesle-po-prostu-usiadl.webp", caption = "[Sambor](@/w/sambor.md) takes a chair to Disco Pablo's back.", source = "M3n747" }
 50900 = { path = ".webp", caption = ".", source = "M3n747" }
 51000 = { path = ".webp", caption = ".", source = "M3n747" }
 51100 = { path = ".webp", caption = ".", source = "M3n747" }
