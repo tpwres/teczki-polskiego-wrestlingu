@@ -91,6 +91,7 @@ has_video = true
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=461462)
 * [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-full-shows-dvd-version/season:3/videos/ppw-brutality-10-10-2026-21-05-39) (requires paid subscription)
+* [Select matches on YouTube](https://www.youtube.com/watch?v=pMryOSKoru8)
 * [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [krol-i-krolowa-wrestlingu]: https://en.wikipedia.org/wiki/Jadwiga_of_Poland
