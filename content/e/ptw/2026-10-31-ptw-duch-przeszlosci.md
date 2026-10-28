@@ -25,6 +25,8 @@ has_video = true
 * On 21.10.2026 [El G](@/w/el-g.md) was confirmed for the Golden Ticket Tournament.
 * The following day the four Golden Ticket contestants were assigned their opponents: [CJ Klakson](@/w/cj-klakson.md) vs [Alex Brave](@/w/alex-brave.md) and [Iskra](@/w/iskra.md) vs [El G](@/w/el-g.md).
 * Miyagi Sigma vs Proroctwo was officially confirmed on 23.10.2026.
+* On 28.10.2026 PTW announced a match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) between the reigning Champion [Nano Lopez](@/w/nano-lopez.md) and the challenger [Misiek](@/w/misiek.md).
+* At the same time, the reigning [PTW Champion](@/c/ptw-championship.md) [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) were announced to sign a contract for a title match.
 
 ## Predicted card
 
@@ -50,6 +52,14 @@ has_video = true
   - 'Gwiezdny Marek'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - s: Three-Way Match
+    nc: upcoming
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)(c)'
+  - '[Misiek](@/w/misiek.md)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    nc: upcoming
+- - '[Spartan](@/w/spartan.md)(c)'
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - g: '[PTW Championship](@/c/ptw-championship.md) Match contract signing.'
     nc: upcoming
 - credits:
     Commentary: '???'
