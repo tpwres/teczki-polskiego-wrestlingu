@@ -54,7 +54,27 @@
 60100 = { path = "im-batman.webp", caption = "Batman himself came to Kraków to give the lucky fan his prize.", source = "M3n747" }
 60200 = { path = "but-hes-not.webp", caption = "Close-up of the hook replica.", source = "M3n747" }
 
+70100 = { path = "oskar-haller-pozdrawia-marco-hammersa.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) talks about Marco Hammers.", source = "M3n747" }
+70200 = { path = "wejherowo-powiem-wam-gdzie-to-jest.webp", caption = "[Chemik](@/w/chemik.md) arrives in Kraków to educate the local populace on the whereabouts of Wejherowo.", source = "M3n747" }
+70300 = { path = "male-zielone-ludziki.webp", caption = "[Olgierd](@/w/olgierd.md) & [Boro](@/w/boro.md).", source = "M3n747" }
+70400 = { path = "pamietaj-zeby-duszac-nie-przekraczac-ustalonego-poziomu-nacisku-na-centymetr-kwadratowy.webp", caption = "[Chemik](@/w/chemik.md) has [Boro](@/w/boro.md) in a Chokehold, while [Sędzia Alan](@/w/sedzia-alan.md) oversees the proceedings.", source = "M3n747" }
+70500 = { path = ".webp", caption = ".", source = "M3n747" }
+70600 = { path = ".webp", caption = ".", source = "M3n747" }
+70700 = { path = ".webp", caption = ".", source = "M3n747" }
+70800 = { path = ".webp", caption = ".", source = "M3n747" }
+70900 = { path = ".webp", caption = ".", source = "M3n747" }
+71000 = { path = ".webp", caption = ".", source = "M3n747" }
+71100 = { path = ".webp", caption = ".", source = "M3n747" }
+71200 = { path = ".webp", caption = ".", source = "M3n747" }
+71300 = { path = ".webp", caption = ".", source = "M3n747" }
+71400 = { path = ".webp", caption = ".", source = "M3n747" }
+71500 = { path = ".webp", caption = ".", source = "M3n747" }
+71600 = { path = ".webp", caption = ".", source = "M3n747" }
+71700 = { path = ".webp", caption = ".", source = "M3n747" }
 
-70100 = { path = ".webp", caption = ".", source = "M3n747" }
+
+…
+
+
 80100 = { path = ".webp", caption = ".", source = "M3n747" }
 90100 = { path = ".webp", caption = ".", source = "M3n747" }
