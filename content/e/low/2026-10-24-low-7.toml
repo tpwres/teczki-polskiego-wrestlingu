@@ -55,22 +55,22 @@
 60200 = { path = "but-hes-not.webp", caption = "Close-up of the hook replica.", source = "M3n747" }
 
 70100 = { path = "oskar-haller-pozdrawia-marco-hammersa.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) talks about Marco Hammers.", source = "M3n747" }
-70200 = { path = "wejherowo-powiem-wam-gdzie-to-jest.webp", caption = "[Chemik](@/w/chemik.md) arrives in Kraków to educate the local populace on the whereabouts of Wejherowo.", source = "M3n747" }
+70200 = { path = "wejherowo-powiem-wam-gdzie-to-jest.webp", caption = "[Chemik](@/w/chemik.md) arrives in Kraków to educate the local populace about the whereabouts of Wejherowo.", source = "M3n747" }
 70300 = { path = "male-zielone-ludziki.webp", caption = "[Olgierd](@/w/olgierd.md) & [Boro](@/w/boro.md).", source = "M3n747" }
 70400 = { path = "pamietaj-zeby-duszac-nie-przekraczac-ustalonego-poziomu-nacisku-na-centymetr-kwadratowy.webp", caption = "[Chemik](@/w/chemik.md) has [Boro](@/w/boro.md) in a Chokehold, while [Sędzia Alan](@/w/sedzia-alan.md) oversees the proceedings.", source = "M3n747" }
-70500 = { path = ".webp", caption = ".", source = "M3n747" }
-70600 = { path = ".webp", caption = ".", source = "M3n747" }
-70700 = { path = ".webp", caption = ".", source = "M3n747" }
-70800 = { path = ".webp", caption = ".", source = "M3n747" }
-70900 = { path = ".webp", caption = ".", source = "M3n747" }
-71000 = { path = ".webp", caption = ".", source = "M3n747" }
-71100 = { path = ".webp", caption = ".", source = "M3n747" }
-71200 = { path = ".webp", caption = ".", source = "M3n747" }
-71300 = { path = ".webp", caption = ".", source = "M3n747" }
-71400 = { path = ".webp", caption = ".", source = "M3n747" }
-71500 = { path = ".webp", caption = ".", source = "M3n747" }
-71600 = { path = ".webp", caption = ".", source = "M3n747" }
-71700 = { path = ".webp", caption = ".", source = "M3n747" }
+70500 = { path = ".webp", caption = "[Chemik](@/w/chemik.md) fishes for something in his trousers.", source = "M3n747" }
+70600 = { path = ".webp", caption = "[Olgierd](@/w/olgierd.md) assumes a tactical position behind [Chemik's](@/w/chemik.md) behind…", source = "M3n747" }
+70700 = { path = ".webp", caption = "…and pulls down his trousers.", source = "M3n747" }
+70800 = { path = ".webp", caption = "Boro uses the opportunity to push Chemik over the conveniently-placed Olgierd…", source = "M3n747" }
+70900 = { path = ".webp", caption = "…and straight onto the ropes, which even makes [Oskar Haller](@/w/oskar-haller.md) laugh…", source = "M3n747" }
+71000 = { path = ".webp", caption = "…but he soon end up right next to Chemik.", source = "M3n747" }
+71100 = { path = ".webp", caption = "[Olgierd](@/w/olgierd.md) produces a glove of his own…", source = "M3n747" }
+71200 = { path = ".webp", caption = "…and both he and Boro waste no time in applying their thumbs into their opponents' rear ends.", source = "M3n747" }
+71300 = { path = ".webp", caption = "Olgierd hits Oskar Haller mid-air.", source = "M3n747" }
+71400 = { path = ".webp", caption = "[Chemik](@/w/chemik.md) and Olgierd threaten each other's partners with physical violence.", source = "M3n747" }
+71500 = { path = ".webp", caption = "Olgierd makes good on his threat…", source = "M3n747" }
+71600 = { path = ".webp", caption = "…as does Chemik.", source = "M3n747" }
+71700 = { path = ".webp", caption = "Chemik & Oskar Haller win.", source = "M3n747" }
 
 
 
