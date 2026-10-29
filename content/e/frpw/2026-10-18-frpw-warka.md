@@ -9,7 +9,7 @@ venue=["cesir-warka"]
 orgs = ["frpw"]
 city = "Warka"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -65,3 +65,5 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465656)
+* [Video: Olgierd vs Lato](https://www.youtube.com/watch?v=1bL6usgmx8U)
+* [Video: Boro & Mutant's entrance](https://www.youtube.com/watch?v=5J94PamwTu0)
