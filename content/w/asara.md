@@ -1,7 +1,7 @@
 +++
 title = "Asara"
 template = "talent_page.html"
-authors = ["Krzysztof Zych", "Robert Niesłuchowski", "Sewi The Referee"]
+authors = ["Krzysztof Zych", "Robert Niesłuchowski", "Sewi The Referee", "M3n747"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -13,8 +13,10 @@ Asara is a Czech-Vietnamese wrestler from Zlin, competing mostly on the Austrian
 ## Basic info
 
 * Years active: 2022-present
+* Gimmicks/nicknames:
+  - Asara {{ org_badge(orgs=['ppw', 'frpw']) }}
 * Trained by:
-  - Axel Tischer, [Franz Engel](@/w/franz-engel.md), Laurance Roman
+  - Axel Tischer, [Franz Engel](@/w/franz-engel.md), [Laurance Roman](@/w/laurance-roman.md)
 
 ## Professional wrestling career
 
@@ -23,6 +25,10 @@ Asara is a Czech-Vietnamese wrestler from Zlin, competing mostly on the Austrian
 Asara was one of two Czech wrestlers making their PpW debut at [Ledwo Legalne II](@/e/ppw/2022-05-21-ppw-ledwo-legalne-ii.md), alongside [Skull Evil](@/w/lukas-mottl.md). The two were able to appear thanks to Viking, another Czech wrestler who debuted two years earlier at [Brawl for the Puppies](@/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md), returning to challenge for the newly-created Ultraviolent Championship. At that event Asara faced Skull Evil, winning by disqualification. His appearance was well received by the fans, earning him the nickname "Samurai".
 
 Since then, Asara's been making irregular appearances for the Warsaw-based federation, facing wrestlers like [Mister Z](@/w/mister-z.md), [Shadow](@/w/shadow.md) and [Samson](@/w/samson.md) in a Three Way Dance, [Gustav Gryffin](@/w/gustav-gryffin.md) as an unannounced entrant in a Gauntlet Match at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md), and a few others.
+
+### Fundacja Rozwoju Polskiego Wrestlingu
+
+Asara debuted for [FRPW](@/o/frpw.md) at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) in a match with [Filip Fux](@/w/filip-fux.md).
 
 ## In wrestling
 
