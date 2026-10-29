@@ -51,9 +51,10 @@
 51100 = { path = "jolop-bylby-dumny.webp", caption = "A length of chain wrapped around Sambor's foot.", source = "M3n747" }
 51200 = { path = "zielono-jak-w-praslowianskiej-puszczy.webp", caption = "Sambor triumphs over Disco Pablo.", source = "M3n747" }
 
+60100 = { path = "im-batman.webp", caption = "Batman himself came to Kraków to give the lucky fan his prize.", source = "M3n747" }
+60200 = { path = "but-hes-not.webp", caption = "Close-up of the hook replica.", source = "M3n747" }
 
 
-60100 = { path = ".webp", caption = ".", source = "M3n747" }
 70100 = { path = ".webp", caption = ".", source = "M3n747" }
 80100 = { path = ".webp", caption = ".", source = "M3n747" }
 90100 = { path = ".webp", caption = ".", source = "M3n747" }
