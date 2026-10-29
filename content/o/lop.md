@@ -22,7 +22,7 @@ After April 2014, Line of Pro went quiet for some time. Their return was announc
 
 ## Championships
 
-Line of Pro didn't promote their own unique championships. Instead, they were used titles promoted by [WWE](@/o/wwe.md), such as:
+Line of Pro didn't promote their own unique championships. Instead, they used titles promoted by [WWE](@/o/wwe.md), such as:
 
 - WWELOP Championship
 - World Heavyweight Championship

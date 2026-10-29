@@ -16,7 +16,7 @@ Polish Wrestling Federation was a short-lived backyard federation active from Ja
 ## History
 
 Little is known about Polish Wrestling Federation due to its rather short lifespan. The first known Internet entry about this backyard comes from a May 4th, 2013, post made on the WrestleFans forum.
-According to PWF owner known as "Mixcer20", the federation was created in January 2013, and they were aware of the fact that their brand-new federation had the same name as an unrelated [PWF active in 2007](@/o/pwf07.md).
+According to PWF owner known as "Mixcer20", the federation was created in January 2013, and they were aware of the fact that their brand-new federation had the same name as the unrelated [PWF active in 2007](@/o/pwf07.md).
 Mixcer20 announced the roster name - The Next Generation - and hinted that their first show would be published by the end of May. The first "PPV" was supposed to be named "Best of the Best".
 
 The federation had a website where they published information about their group. From what is still available, it is known that the roster consisted of: Ace, Angel Del Oro, The Assassin, Big G, CJ Cass, Chris Mistery, Dave Brown, The Dead Devil, Diego Martinez, Fighter, Goldman, Liner, Martin Silva and Mr. Plankton. Their backyard federation ran their wrestling shows on a playground, with a plan to construct a ring.
