@@ -36,6 +36,7 @@ Beside functioning as a federation and a foundation, FRPW also hosts a "Heel Tur
 * [Official Website](https://fundacjarpw.pl)
 * [FRPW's Instagram](https://www.instagram.com/frpw_polska/)
 * [FRPW's Facebook](https://www.facebook.com/profile.php?id=61590741692093)
+* [FRPS's YouTube](https://www.youtube.com/@FundacjaRPW)
 * [Heel Turn's Website](https://heelturn.pl)
 * [Heel Turn's Instagram](https://www.instagram.com/heelturn_brand/)
 
