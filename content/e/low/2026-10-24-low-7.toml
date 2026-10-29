@@ -46,18 +46,11 @@
 50600 = { path = "i-chlap.webp", caption = "With the help of fans, Disco Pablo delivers a powerful chop to Sambor.", source = "M3n747" }
 50700 = { path = "samborowi-az-w-piety-poszlo.webp", caption = "As the old Polish saying goes, Sambor covers himself with his own legs - much to [Disco Pablo's](@/w/disco-pablo.md) delight.", source = "M3n747" }
 50800 = { path = "legenda-glosi-ze-ktos-kiedys-na-krzesle-po-prostu-usiadl.webp", caption = "[Sambor](@/w/sambor.md) takes a chair to Disco Pablo's back.", source = "M3n747" }
-50900 = { path = ".webp", caption = ".", source = "M3n747" }
-51000 = { path = ".webp", caption = ".", source = "M3n747" }
-51100 = { path = ".webp", caption = ".", source = "M3n747" }
-51200 = { path = ".webp", caption = ".", source = "M3n747" }
-51300 = { path = ".webp", caption = ".", source = "M3n747" }
-51400 = { path = ".webp", caption = ".", source = "M3n747" }
-51500 = { path = ".webp", caption = ".", source = "M3n747" }
-51600 = { path = ".webp", caption = ".", source = "M3n747" }
-51700 = { path = ".webp", caption = ".", source = "M3n747" }
-51800 = { path = ".webp", caption = ".", source = "M3n747" }
-51900 = { path = ".webp", caption = ".", source = "M3n747" }
-52000 = { path = ".webp", caption = ".", source = "M3n747" }
+50900 = { path = "sluza-do-siedzenia-nie-do-lezenia.webp", caption = "Disco Pablo thrown by [Sambor](@/w/sambor.md) through chairs.", source = "M3n747" }
+51000 = { path = "a-gdzies-tam-na-zapleczu-monter-szuka-kto-mu-drabina-zwinal.webp", caption = "Sambor sets up a ladder, unbothered by Sędzia Seweryn's gigantic disembodied leg.", source = "M3n747" }
+51100 = { path = "jolop-bylby-dumny.webp", caption = "A length of chain wrapped around Sambor's foot.", source = "M3n747" }
+51200 = { path = "zielono-jak-w-praslowianskiej-puszczy.webp", caption = "Sambor triumphs over Disco Pablo.", source = "M3n747" }
+
 
 
 60100 = { path = ".webp", caption = ".", source = "M3n747" }
