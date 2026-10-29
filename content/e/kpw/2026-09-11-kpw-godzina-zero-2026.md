@@ -25,7 +25,7 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
 * On 22.08.2026 KPW released a [video][telefon-do-przyjaciela] of Krystian Malinowski calling [Chemik](@/w/chemik.md) to inform him that he'll have a match for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) against [Team Visegrad](@/tt/team-visegrad.md), but needs to find himself a tag-team partner. [Eryk Lesak](@/w/eryk-lesak.md), who was Chemik's first choice, was said by Malinowski to be unavailable due to him having a [Championship](@/c/kpw-old-town-championship.md) match of his own.
 * On 23.08.2026 KPW announced that Zefir - the winner of the #1 Contendership at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) - will join Greg and [Iestyn Rees](@/w/iestyn-rees.md) in the fight for the [main title](@/c/kpw-championship.md). This marks the first time a bout for the federation's primary gold will be a Three-Way Match.
 * A [video][karierowicze] released on 24.08.2026 added a stipulation to Paskal's match with Kamil: Career vs Career. This is only the second time this stipulation was used, the first being [Piękny Kawaler](@/w/piekny-kawaler.md) vs [Robert Star](@/w/robert-star.md) at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md). The match was officially confirmed the next day.
-* In a [video][walka-o-kontrakt] published on 26.08.2026 Krystian Malinowski stated that the three rookies: [Adept Dwa](@/w/adept-dwa.md), [Adept Trzy](@/w/adept-trzy.md) and Adept Cztery will face each other in a Three-Way Match. The winner will sign a contract and join the KPW roster, while the others will "shut their mouths once and for all and get back to their duties". The match was officially confirmed on 28.08.2026.
+* In a [video][walka-o-kontrakt] published on 26.08.2026 Krystian Malinowski stated that the three rookies: [Adept Dwa](@/w/szymon-dragan.md), [Adept Trzy](@/w/adept-trzy.md) and Adept Cztery will face each other in a Three-Way Match. The winner will sign a contract and join the KPW roster, while the others will "shut their mouths once and for all and get back to their duties". The match was officially confirmed on 28.08.2026.
 * On 4.09.2026 KPW announced that due to [David Oliwa](@/w/david-oliwa.md) and [Ricky Sky](@/w/ricky-sky.md) still recovering from injuries, [Team Visegrad](@/tt/team-visegrad.md) will be represented by [Lukáš Mottl](@/w/lukas-mottl.md) and Johan Otto. Otto is an Austrian wrestler working in European Wrestling Association, among other places, personally chosed by Oliwa to take his place in this match.
 * On 5.09.2026 Lesak was given an opponent - Nitro Green from Denmark, debuting in Poland. In 2019, in Romanian promotion RWA, Nitro Green was the final opponent faced by [Piękny Kawaler](@/w/piekny-kawaler.md) at the end of his in-ring career.
 * In keeping with something of a tradition of recent years, on 6.09.2026 KPW announced a Championship Contract Battle Royal, the winner of which will be able to challenge any Champion for any title, at any time within a year following the victory.
@@ -37,7 +37,7 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
 - - '[Eryk Lesak](@/w/eryk-lesak.md)(c)'
   - 'Nitro Green'
   - c: '[KPW OldTown Championship](@/c/kpw-old-town-championship.md)'
-- - '[Adept Dwa](@/w/adept-dwa.md)'
+- - '[Adept Dwa](@/w/szymon-dragan.md)'
   - '[Adept Trzy](@/w/adept-trzy.md)'
   - 'Adept Cztery'
   - s: KPW Contract Three-Way Match
@@ -67,7 +67,7 @@ Godzina Zero (_Zero Hour_) 2026 was the ninth annual KPW supershow, held since 2
   - '[Chemik](@/w/chemik.md)'
   - '[Lukáš Mottl](@/w/lukas-mottl.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
-  - '[Adept Dwa](@/w/adept-dwa.md)' 
+  - '[Adept Dwa](@/w/szymon-dragan.md)' 
   - '[Tomczak](@/w/tomczak.md)'
   - '[Krystian Malinowski](@/w/krystian-malinowski.md)'
   - '[Rosetti](@/w/rosetti.md)'
