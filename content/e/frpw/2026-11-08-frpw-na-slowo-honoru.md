@@ -22,6 +22,7 @@ has_video = false
 * In a [video][emil-wxw] published on 22.10.2026, [Emil Völler](@/w/emil-voeller.md) issued an Open Challenge for his wXw Wrestling Academy Championship. Emil took the title from [Gabriel Queen](@/w/gabriel-queen.md) just a day before, during a wXw HEAT event in Gelsenkirchen.
 * The next day the challenge was asnwered by [Goblin](@/w/goblin.md).
 * On 28.10.2026 Asara was announced to debut in FRPW, in a match with [Filip Fux](@/w/filip-fux.md).
+* On 30.10.2026 FRPW announced PSY.CHO, a team of ??? & [Tomczak](@/w/tomczak.md), without further details.
 
 ## Predicted card
 
@@ -42,6 +43,10 @@ has_video = false
 - - '[Asara](@/w/asara.md)'
   - '[Filip Fux](@/w/filip-fux.md)'
   - nc: upcoming
+- - 'PSY.CHO: ??? & [Tomczak](@/w/tomczak.md)'
+  - '??? & ???'
+  - s: Tag Team Match
+    nc: upcoming
 {% end %}
 
 ### Highlights
