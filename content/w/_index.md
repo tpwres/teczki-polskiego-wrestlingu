@@ -6,7 +6,7 @@ description = "List of all performers that appeared inside a wrestling ring in P
 
 This list contains all the people that appeared in a ring in Poland. Mostly wrestlers, but also other in-ring personnel such as referees and ring announcers. It is derived from the events database.
 
-Links typeset in _italics_ are aliases used by a character besides their current or most recent name or gimmick, and are listed indented following that main name. Names that are not links represent talent that doesn't have a dedicated page yet.
+Links typeset in _italics_ are aliases used by a character besides their current or most recent name or gimmick, and are listed indented following that main name. Names that are not links represent talent that doesn't have a dedicated page yet. A dagger (†) and year can follow a name, indicating the person is deceased.
 
 Each name is followed by a list of organizations they appeared for, represented by their logos. If that name appears in less than 5 matches, numbered links to events will be added after each organization logo. Names with more than one match appearance but without a dedicated page, will also show a crosshair icon, which is a link to a page that shows their match history in one place.
 
