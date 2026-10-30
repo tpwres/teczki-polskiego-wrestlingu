@@ -124,6 +124,17 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 * [PpW Ewenement Wrestling](@/o/ppw.md)
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time)
 
+#### International wrestling accomplishments
+
+* 🇩🇰 [BODYSLAM Pro Wrestling][cm-bslam]:
+  - [BODYSLAM Tag Team Championship][cm-bslam-tt] (1 time)
+* 🇩🇰 [Dansk Pro Wrestling][cm-dpw]:
+  - [DPW Worlds Championship][cm-dpw-world] (1 time)
+* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [VALOR Wrestling][cm-euro-valor] / 🇪🇺 [Union Of European Wrestling Alliances][cm-euro-uewa]:
+  - [European Heavyweight Championship][cm-euro-heavy] (1 time)
+* 🇩🇰 [Dansk Pro Wrestling][cm-dpw]:
+  - [DPW Worlds Championship][cm-dpw-heavy] (1 time)
+
 ## Internet presence
 
 * [Robert's Instagram](https://www.instagram.com/realrobertstar/)
@@ -134,3 +145,12 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=15651)
 * [Facebook post saying BYE BYE](https://www.facebook.com/photo/?fbid=839973208139393&set=pb.100063801633257.-2207520000) from December 2023
 * [PpW's Facebook post announcing Robert](https://www.facebook.com/OficjalnePPW/posts/pfbid02GSspE1SNetocUY2kWnC9LhDdsKYSGgh17G4h2bV4Q3CaRgLkziMrC6JDPkCYWBVnl)
+
+[cm-bslam]: https://www.cagematch.net/?id=8&nr=1558
+[cm-bslam-tt]: https://www.cagematch.net/?id=5&nr=4002
+[cm-dpw]: https://www.cagematch.net/?id=8&nr=195
+[cm-dpw-world]: https://www.cagematch.net/?id=5&nr=5920
+[cm-dpw-heavy]: https://www.cagematch.net/?id=5&nr=651
+[cm-euro-valor]: https://www.cagematch.net/?id=8&nr=705
+[cm-euro-uewa]: https://www.cagematch.net/?id=8&nr=582
+[cm-euro-heavy]: https://www.cagematch.net/?id=5&nr=1300
