@@ -89,11 +89,11 @@
 81500 = { path = "max-speed-max-win.webp", caption = "[Max Speed](@/w/max-speed.md) victorious.", source = "M3n747" }
 81600 = { path = "w-pelni-zasluzone-zwyciestwo.webp", caption = "[Max Speed](@/w/max-speed.md), [Championship](@/c/low-european-championship.md) in hand, receives a standing ovation from the audience.", source = "M3n747" }
 
-90100 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
+90100 = { path = "chemik-nie-lubi-papierkowej-roboty.webp", caption = "Chemik cashes in his championship contract. Over Max Speed's head.", source = "M3n747" }
+90200 = { path = "maksiu-sie-wywinal.webp", caption = "[Chemik](@/w/chemik.md) attempts a pin, but Max Speed manages to kick out.", source = "M3n747" }
+90300 = { path = "a-tak-fajnie-juz-bylo.webp", caption = "Chemik becomes the new Champion.", source = "M3n747" }
+90400 = { path = "chemik-dzieli-sie-zyciowa-madroscia.webp", caption = "[Chemik](@/w/chemik.md) has some parting words for the crowd.", source = "M3n747" }
+90500 = { path = "moze-i-mistrz-ale-dalej-lysy.webp", caption = "Chemik poses with the newly-won title.", source = "M3n747" }
+90600 = { path = "wazny-mezczyzna-zaczyna-i-konczy.webp", caption = "[Wiktor D.](@/w/wiktor-longman.md) closes the show.", source = "M3n747" }
 
 99999 = { path = "piston-cup-damaged-by-pistof-chemik.webp", caption = "Chemik's contract briefcase.", source = "Sewi The Referee" }
-
