@@ -130,10 +130,9 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
   - [BODYSLAM Tag Team Championship][cm-bslam-tt] (1 time)
 * 🇩🇰 [Dansk Pro Wrestling][cm-dpw]:
   - [DPW Worlds Championship][cm-dpw-world] (1 time)
+  - [DPW Heavyweight Championship][cm-dpw-heavy] (1 time)
 * 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [VALOR Wrestling][cm-euro-valor] / 🇪🇺 [Union Of European Wrestling Alliances][cm-euro-uewa]:
   - [European Heavyweight Championship][cm-euro-heavy] (1 time)
-* 🇩🇰 [Dansk Pro Wrestling][cm-dpw]:
-  - [DPW Worlds Championship][cm-dpw-heavy] (1 time)
 
 ## Internet presence
 
