@@ -66,6 +66,10 @@ At [Open Season](@/e/low/2026-05-24-low-5.md) [Sinister](@/w/sinister.md) came o
 
 Shortly therafter Syriusz shared a long [post][syriusz-na-urlop] reminiscing on closing the chapter and announcing an indefinite hiatus from wrestling to take care of his personal well-being.
 
+### Return to Prime Time Wrestling (2026-)
+
+Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Dziedzic returned to PTW at [Duch Przeszłości](@/e/ppw/2026-10-31-ptw-duch-przeszlosci.md) siding with the new [PTW Tag Team Championsh](@/c/ptw-tag-team-championship.md), Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)).
+
 ## In wrestling
 
 * Finishers:

@@ -61,7 +61,7 @@ has_video = true
 
 ### Highlights
 
-* TBD
+* This show saw the return of [Disco Pablo](@/w/disco-pablo.md) and [Syriusz Dziedzic](@/w/dziedzic.md), both last seen at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 
 ## References
 
