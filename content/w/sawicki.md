@@ -57,6 +57,8 @@ After almost four years of silence it was announced that he would make his PTW d
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Rosetti](@/w/rosetti.md)
   - KPW Tag Team Championship Tournament (2018) - with [Rosetti](@/w/rosetti.md)
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current) - with [Sawicki](@/w/sawicki.md)
 
 ## Internet presence
 

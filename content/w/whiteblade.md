@@ -45,6 +45,11 @@ At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself
     {{ music(spot='7jm63qwHLmemNcMzORjwfi')}}
     {{ music(apple='1629105882?i=1629105882')}}
 
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current) - with [Sawicki](@/w/sawicki.md)
+
 ## Internet presence
 
 * [Whiteblade's Facebook profile](https://www.facebook.com/profile.php?id=61588512065392)

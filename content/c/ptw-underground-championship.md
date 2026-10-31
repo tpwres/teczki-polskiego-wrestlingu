@@ -195,7 +195,6 @@ On 2.07.2025 PTW [announced][speed-zwolniony] that Max Speed was fired from the 
   - s: Singles Match
     en: '[PTW: Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md)'
     ed: 2026-10-31
-    nc: upcoming
 {% end %}
 
 [pawłowski-my-wrestling-live]: https://www.youtube.com/watch?v=D4kwKCFbY9c

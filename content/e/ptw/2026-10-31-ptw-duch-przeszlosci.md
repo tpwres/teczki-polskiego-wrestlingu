@@ -12,7 +12,7 @@ has_video = true
 [extra.gallery]
 +++
 
-"Duch Przeszłości" (_The Ghost of the Past_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md). Like in the last [two](@/e/ptw/2024-10-19-ptw-underground-23.md) [years](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), the 2026's October show was also given a Halloween theme.
+"Duch Przeszłości" (_The Ghost of the Past_) was a show by [Prime Time Wrestling](@/o/ptw.md). Like in the last [two](@/e/ptw/2024-10-19-ptw-underground-23.md) [years](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), the 2026's October show was also given a Halloween theme.
 
 ## Build-up
 
@@ -28,41 +28,35 @@ has_video = true
 * On 28.10.2026 PTW announced a match for the [PTW Underground Championship](@/c/ptw-underground-championship.md) between the reigning Champion [Nano Lopez](@/w/nano-lopez.md) and the challenger [Misiek](@/w/misiek.md).
 * At the same time, the reigning [PTW Champion](@/c/ptw-championship.md) [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) were announced to sign a contract for a title match.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
-- - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
-  - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
-  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
-    s: Horror Tag Team Match
-    nc: upcoming
-- - '[CJ Klakson](@/w/cj-klakson.md)'
-  - '[Alex Brave](@/w/alex-brave.md)'
+{% card() %}
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)(c)'
+  - '[Misiek](@/w/misiek.md)'
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+- - '[Alex Brave](@/w/alex-brave.md)'
+  - '[CJ Klakson](@/w/cj-klakson.md)'
   - s: 'Golden Ticket Tournament Elimination Match, Round 1'
-    nc: upcoming
-- - '[Iskra](@/w/iskra.md)'
-  - '[El G](@/w/el-g.md)'
-  - s: 'Golden Ticket Tournament Elimination Match, Round 1'
-    nc: upcoming
-- - '[Fabian](@/w/fabian.md) & Pierre'
-  - '[Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md)'
-  - s: Tag Team Match
-    nc: upcoming
 - - 'Damian Miller'
   - 'Gwiezdny Marek'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
   - s: Three-Way Match
-    nc: upcoming
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)(c)'
-  - '[Misiek](@/w/misiek.md)'
-  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
-    nc: upcoming
+- - '[Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md)'
+  - '[Fabian](@/w/fabian.md) & Pierre'
+  - s: Tag Team Match
+- - '[El G](@/w/el-g.md)'
+  - '[Iskra](@/w/iskra.md)'
+  - s: 'Golden Ticket Tournament Elimination Match, Round 1'
+- - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
+  - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
+  - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
+    s: Horror Tag Team Match
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - g: '[PTW Championship](@/c/ptw-championship.md) Match contract signing.'
     nc: upcoming
 - credits:
-    Commentary: '???'
+    Commentary: '[Disco Pablo](@/w/disco-pablo.md)'
 {% end %}
 
 ### Highlights
