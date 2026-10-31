@@ -80,20 +80,20 @@
 80600 = { path = "pulta.webp", caption = "…and introduces his face to the underside of the table.", source = "M3n747" }
 80700 = { path = "max-bleed.webp", caption = "[Max Speed](@/w/max-speed.md) bleeds from his encounter with the furniture.", source = "M3n747" }
 80800 = { path = "kafar.webp", caption = "Max Speed hits a Piledriver on Jakub.", source = "M3n747" }
-80900 = { path = ".webp", caption = ".", source = "M3n747" }
-81000 = { path = ".webp", caption = ".", source = "M3n747" }
-81100 = { path = ".webp", caption = ".", source = "M3n747" }
-81200 = { path = ".webp", caption = ".", source = "M3n747" }
-81300 = { path = ".webp", caption = ".", source = "M3n747" }
-81400 = { path = ".webp", caption = ".", source = "M3n747" }
-81500 = { path = ".webp", caption = ".", source = "M3n747" }
-81600 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
-
+80900 = { path = "albo-nie-lepiej-nic-nie-napisze.webp", caption = "Jakub pins Max Speed.", source = "M3n747" }
+81000 = { path = "high-kick-rodem-z-mortala.webp", caption = "Max Speed hits a Superkick on Jakub.", source = "M3n747" }
+81100 = { path = "producenci-stolow-chyba-tez-nie-maja-powodow-do-narzekania.webp", caption = "Jakub with an Elbow Drop onto Max Speed, about to break the table.", source = "M3n747" }
+81200 = { path = "co-jak-co-ale-chociaz-przegladarke-dobra-uzywa.webp", caption = "Jakub attempts a Firefox Elbow Drop on Max Speed.", source = "M3n747" }
+81300 = { path = "dol-plus-high-punch.webp", caption = "Jakub's Jumping Uppercut stops Max Speed from executing a top-rope move.", source = "M3n747" }
+81400 = { path = "goldberg-bylby-dumny.webp", caption = "Max Speed pierces Jakub's hopes of victory with a Spear.", source = "M3n747" }
+81500 = { path = "max-speed-max-win.webp", caption = "[Max Speed](@/w/max-speed.md) victorious.", source = "M3n747" }
+81600 = { path = "w-pelni-zasluzone-zwyciestwo.webp", caption = "[Max Speed](@/w/max-speed.md), [Championship](@/c/low-european-championship.md) in hand, receives a standing ovation from the audience.", source = "M3n747" }
 
 90100 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
 
 99999 = { path = "piston-cup-damaged-by-pistof-chemik.webp", caption = "Chemik's contract briefcase.", source = "Sewi The Referee" }
 
