@@ -254,10 +254,21 @@ While Boro never defended the title, he was also recognized as a champion per th
   - s: Open Challenge Tag Team Match
     en: '[PTW: Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md)'
     ed: 2026-09-19
-- - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD(c)'
-  - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
+- - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
+  - 'Miyagi Sigma: Miyagi Shida & Sigma Boy xD(c)'
   - s: Horror Tag Team Match
     en: '[PTW: Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md)'
     ed: 2026-10-31
-    nc: upcoming
+{% end %}
+
+**TOTAL:** 161 days
+
+### Champions #6: Proroctwo: Whiteblade & Sawicki
+
+{% free_card() %}
+- - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
+  - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
+  - s: Horror Tag Team Match
+    en: '[PTW: Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md)'
+    ed: 2026-10-31
 {% end %}
