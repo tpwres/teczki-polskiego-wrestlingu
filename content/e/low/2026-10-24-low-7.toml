@@ -1,7 +1,99 @@
-00001 = { path = "whats-on-the-poster.webp", caption = "Official poster.", source = "Official Legacy Facebook" }
+00100 = { path = "whats-on-the-poster.webp", caption = "Official poster.", source = "Official Legacy Facebook" }
 00002 = { path = "szybko-za-lisem.webp", caption = "Image announcing [Jakub](@/w/jakub.md) vs [Max Speed](@/w/max-speed.md).", source = "Official Legacy Facebook" }
 00003 = { path = "cieniem-i-ogniem.webp", caption = "Image announcing [Shadow](@/w/shadow.md) vs [Zefir](@/w/zefir.md).", source = "Official Legacy Facebook" }
 00004 = { path = "mistrzowie-z-przypadku-vs-boro-niewiadomo.webp", caption = "Image announcing [Oskar Haller](@/w/oskar-haller.md) & [Chemik](@/w/chemik.md) vs [Boro](@/w/boro.md) & ???.", source = "Official Legacy Facebook" }
 00005 = { path = "samborska-pabloteka.webp", caption = "Image announcing [Sambor](@/w/sambor.md) vs [Disco Pablo](@/w/disco-pablo.md).", source = "Official Legacy Facebook" }
 00006 = { path = "pan-ktorego-lubimy-vs-pan-ktorego-lubilismy.webp", caption = "Image announcing [Marcelito](@/w/marcelito.md) vs [Bartosz Plata](@/w/plata.md).", source = "Official Legacy Facebook" }
 00007 = { path = "ladnie-wyprasowane-koszulki.webp", caption = "Image announcing [Tony Sheen](@/w/riverman.md), [Arek Paterek](@/w/arek-paterek.md) and [Eryk Lesak](@/w/eryk-lesak.md).", source = "Official Legacy Facebook" }
+
+10100 = { path = "tu-beda-dzialy-sie-rzeczy.webp", caption = "View of the ring before the show.", source = "M3n747" }
+10200 = { path = "wiktor-d-pseudonim-otwieracz.webp", caption = "[Wiktor D.](@/w/wiktor-longman.md) opens the show.", source = "M3n747" }
+10300 = { path = "dwaj-pracownicy-biurowi.webp", caption = "[Tony Sheen](@/w/riverman.md) and Eryk Lesak.", source = "M3n747" }
+10400 = { path = "paterek-cos-gada.webp", caption = "[Wiktor D.](@/w/wiktor-longman.md) listens to what [Arek Paterek](@/w/arek-paterek.md) has to say. Between them stands [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
+10500 = { path = "do-czasu-wynalezienia-papieru-to-byla-nierowna-gra.webp", caption = "Antoni Ocean and Markus Paskal play rock-paper-scissors to determine who goes first.", source = "M3n747" }
+10600 = { path = "ryba-i-ocean-czyli-naturalny-pairing.webp", caption = "[Sędzia Alan](@/w/sedzia-alan.md) watches Tony Sheen and Antoni Ocean lock up.", source = "M3n747" }
+10700 = { path = "la-caduta-dell-uomo.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) jumps from the top rope onto [Antoni Ocean](@/w/antoni-ocean.md), [Sędzia Alan](@/w/sedzia-alan.md) watches in disbelief.", source = "M3n747" }
+10800 = { path = "cercando-la-gloria.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) about to win, as [Sędzia Alan](@/w/sedzia-alan.md) counts Antoni Ocean out.", source = "M3n747" }
+
+20100 = { path = "dzien-dobry-platoszu-pas-mistrzowski-mam-w-koszu.webp", caption = "[Bartosz Plata](@/w/plata.md) enters, welcomed by [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
+20200 = { path = "a-ty-ile-placisz-za-wywozke-zmieszanych.webp", caption = "[Arek Paterek](@/w/arek-paterek.md) trash-talks Marcelito.", source = "M3n747" }
+20300 = { path = "das-deutsche-suplex.webp", caption = "Bartosz Plata performs a textbook German Suplex on Marcelito.", source = "M3n747" }
+20400 = { path = "plata-smash.webp", caption = "[Bartosz Plata](@/w/plata.md) is angry, or perhaps happy; the difference is very subtle.", source = "M3n747" }
+20500 = { path = "dobra-wygrali-a-teraz-napiszcie-raport.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md), [Bartosz Plata](@/w/plata.md) and [Tony Sheen](@/w/riverman.md) celebrate their victories, accompanied by [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
+
+30100 = { path = "wejscie-zefira.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "M3n747" }
+30200 = { path = "wejscie-shadowa.webp", caption = "[Shadow's](@/w/shadow.md) entrance.", source = "M3n747" }
+30300 = { path = "historical-awesomeness-about-to-commence.webp", caption = "[Shadow](@/w/shadow.md) and Zefir in the same ring.", source = "M3n747" }
+30400 = { path = "juz-chwycili-sie-za-bary.webp", caption = "Shadow's experience vs Zefir's vigour.", source = "M3n747" }
+30500 = { path = "ja-tez-prawie-padlem-na-kolana.webp", caption = "[Zefir](@/w/zefir.md) and Shadow prove to be on equal footing.", source = "M3n747" }
+30600 = { path = "shadow-kladzie-sie-cieniem-na-ringu.webp", caption = "Zefir fails to pin [Shadow](@/w/shadow.md).", source = "M3n747" }
+30700 = { path = "smuga-cienia.webp", caption = "[Shadow](@/w/shadow.md) also finds Zefir doesn't give up easily. [Sędzia Alan](@/w/sedzia-alan.md) seems used to it by now.", source = "M3n747" }
+30800 = { path = "shadow-sie-wywinal.webp", caption = "Shadow narrowly escapes Zefir's Swanton Bomb.", source = "M3n747" }
+30900 = { path = "salto-ksiezycowe.webp", caption = "Shadow executes a Moonsault onto Zefir.", source = "M3n747" }
+31000 = { path = "shadow-zwycieski.webp", caption = "Shadow awarded the victory by Sędzia Alan.", source = "M3n747" }
+31100 = { path = "shadow-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) bows before the audience.", source = "M3n747" }
+
+40100 = { path = "follow-the-leader.webp", caption = "A mysterious figure attacks Shadow.", source = "M3n747" }
+40200 = { path = "followowac-mnie-miales-a-nie-sobie-na-ringu-lezysz.webp", caption = "[Lider](@/w/lider.md) cuts a promo aimed at the downed Shadow.", source = "M3n747" }
+40300 = { path = "no-dobra-ide-sobie-nara.webp", caption = "Lider removed from the ring by security and staff.", source = "M3n747" }
+40400 = { path = "shadow-jeszcze-troche-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) thanks the audience.", source = "M3n747" }
+
+50100 = { path = "bring-me-the-disco-king.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) is ready to party.", source = "M3n747" }
+50200 = { path = "pablo-approves.webp", caption = "Disco Pablo gives [Sędzia Seweryn](@/w/sedzia-seweryn.md) a thumbs-up, while [Wiktor D.](@/w/wiktor-longman.md) looks confused.", source = "M3n747" }
+50300 = { path = "sambor-zareaguje-lancuchowo.webp", caption = "Sambor with a steel chain. To the left, [Sędzia Seweryn](@/w/sedzia-seweryn.md) and [Wiktor D.](@/w/wiktor-longman.md) anxious.", source = "M3n747" }
+50400 = { path = "bonk.webp", caption = "Disco Pablo answers the titular question, proving that Sambor's face is in the box.", source = "M3n747" }
+50500 = { path = "na-falochronie.webp", caption = "Fans do a wave around the table on which lies dazed [Sambor](@/w/sambor.md), heading towards [Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
+50600 = { path = "i-chlap.webp", caption = "With the help of fans, Disco Pablo delivers a powerful chop to Sambor.", source = "M3n747" }
+50700 = { path = "samborowi-az-w-piety-poszlo.webp", caption = "As the old Polish saying goes, Sambor covers himself with his own legs - much to [Disco Pablo's](@/w/disco-pablo.md) delight.", source = "M3n747" }
+50800 = { path = "legenda-glosi-ze-ktos-kiedys-na-krzesle-po-prostu-usiadl.webp", caption = "[Sambor](@/w/sambor.md) takes a chair to Disco Pablo's back.", source = "M3n747" }
+50900 = { path = "sluza-do-siedzenia-nie-do-lezenia.webp", caption = "Disco Pablo thrown by [Sambor](@/w/sambor.md) through chairs.", source = "M3n747" }
+51000 = { path = "a-gdzies-tam-na-zapleczu-monter-szuka-kto-mu-drabina-zwinal.webp", caption = "Sambor sets up a ladder, unbothered by Sędzia Seweryn's gigantic disembodied leg.", source = "M3n747" }
+51100 = { path = "jolop-bylby-dumny.webp", caption = "A length of chain wrapped around Sambor's foot.", source = "M3n747" }
+51200 = { path = "zielono-jak-w-praslowianskiej-puszczy.webp", caption = "Sambor triumphs over Disco Pablo.", source = "M3n747" }
+
+60100 = { path = "im-batman.webp", caption = "Batman himself came to Kraków to give the lucky fan his prize.", source = "M3n747" }
+60200 = { path = "but-hes-not.webp", caption = "Close-up of the hook replica.", source = "M3n747" }
+
+70100 = { path = "oskar-haller-pozdrawia-marco-hammersa.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) talks about Marco Hammers.", source = "M3n747" }
+70200 = { path = "wejherowo-powiem-wam-gdzie-to-jest.webp", caption = "[Chemik](@/w/chemik.md) arrives in Kraków to educate the local populace about the whereabouts of Wejherowo.", source = "M3n747" }
+70300 = { path = "male-zielone-ludziki.webp", caption = "[Olgierd](@/w/olgierd.md) & [Boro](@/w/boro.md).", source = "M3n747" }
+70400 = { path = "pamietaj-zeby-duszac-nie-przekraczac-ustalonego-poziomu-nacisku-na-centymetr-kwadratowy.webp", caption = "[Chemik](@/w/chemik.md) has [Boro](@/w/boro.md) in a Chokehold, while [Sędzia Alan](@/w/sedzia-alan.md) oversees the proceedings.", source = "M3n747" }
+70500 = { path = "tak-wybralem-to-ujecie-w-pelni-zlosliwie-i-ze-stuprocentowa-premedytacja.webp", caption = "[Chemik](@/w/chemik.md) fishes for something in his trousers.", source = "M3n747" }
+70600 = { path = "zupelnie-jakbym-wrocil-do-podstawowki.webp", caption = "[Olgierd](@/w/olgierd.md) assumes a tactical position behind [Chemik's](@/w/chemik.md) behind…", source = "M3n747" }
+70700 = { path = "sewi-w-tle-bardzo-usiluje-sie-nie-rozesmiac.webp", caption = "…and pulls down his trousers.", source = "M3n747" }
+70800 = { path = "apage-chemikas.webp", caption = "Boro uses the opportunity to push Chemik over the conveniently-placed Olgierd…", source = "M3n747" }
+70900 = { path = "patrz-na-niego-a-teraz-sie-smiej.webp", caption = "…and straight onto the ropes, which even makes [Oskar Haller](@/w/oskar-haller.md) laugh…", source = "M3n747" }
+71000 = { path = "kto-wisi-na-linach-tego-wina.webp", caption = "…but he soon ends up right next to Chemik.", source = "M3n747" }
+71100 = { path = "przynajmniej-nakrecaja-biznes-producentom-akcesoriow-kuchennych.webp", caption = "[Olgierd](@/w/olgierd.md) produces a glove of his own…", source = "M3n747" }
+71200 = { path = "az-mnie-od-patrzenia-samego-zabolalo.webp", caption = "…and both he and Boro waste no time in applying their thumbs into their opponents' rear ends.", source = "M3n747" }
+71300 = { path = "trajektoria-kolizyjna.webp", caption = "Olgierd hits Oskar Haller mid-air.", source = "M3n747" }
+71400 = { path = "oburzajace-to-jest-grozba-pozbawienia-zycia.webp", caption = "[Chemik](@/w/chemik.md) and Olgierd threaten each other's partners with physical violence.", source = "M3n747" }
+71500 = { path = "byl-juz-w-krakowie-jeden-haller-kiedys-ale-zmarl-w-1850-roku.webp", caption = "Olgierd makes good on his threat…", source = "M3n747" }
+71600 = { path = "bara-bara-boro-boro.webp", caption = "…as does Chemik.", source = "M3n747" }
+71700 = { path = "ladny-odcien-czerwonego-tak-swoja-droga.webp", caption = "Chemik & Oskar Haller win.", source = "M3n747" }
+
+80100 = { path = "przy-tym-swietle-nie-widac-ze-rudy.webp", caption = "[Jakub's](@/w/jakub.md) entrance.", source = "M3n747" }
+80200 = { path = "what-does-the-jakub-say.webp", caption = "Jakub and [Max Speed](@/w/max-speed.md) face off.", source = "M3n747" }
+80300 = { path = "a-sprobuj-mi-jeszcze-raz-powiedziec-ze-nosze-rozmiar-39.webp", caption = "Jakub steps over [Max Speed](@/w/max-speed.md), which [Sędzia Seweryn](@/w/sedzia-seweryn.md) considers not a very nice thing to do.", source = "M3n747" }
+80400 = { path = "na-razie-stoi-ale-za-chwile-sie-rozpedzi.webp", caption = "[Max Speed](@/w/max-speed.md) waits for his opponent to return to the ring.", source = "M3n747" }
+80500 = { path = "kata.webp", caption = "[Jakub](@/w/jakub.md) grabs Max Speed by the legs…", source = "M3n747" }
+80600 = { path = "pulta.webp", caption = "…and introduces his face to the underside of the table.", source = "M3n747" }
+80700 = { path = "max-bleed.webp", caption = "[Max Speed](@/w/max-speed.md) bleeds from his encounter with the furniture.", source = "M3n747" }
+80800 = { path = "kafar.webp", caption = "Max Speed hits a Piledriver on Jakub.", source = "M3n747" }
+80900 = { path = "albo-nie-lepiej-nic-nie-napisze.webp", caption = "Jakub pins Max Speed.", source = "M3n747" }
+81000 = { path = "high-kick-rodem-z-mortala.webp", caption = "Max Speed hits a Superkick on Jakub.", source = "M3n747" }
+81100 = { path = "producenci-stolow-chyba-tez-nie-maja-powodow-do-narzekania.webp", caption = "Jakub with an Elbow Drop onto Max Speed, about to break the table.", source = "M3n747" }
+81200 = { path = "co-jak-co-ale-chociaz-przegladarke-dobra-uzywa.webp", caption = "Jakub attempts a Firefox Elbow Drop on Max Speed.", source = "M3n747" }
+81300 = { path = "dol-plus-high-punch.webp", caption = "Jakub's Jumping Uppercut stops Max Speed from executing a top-rope move.", source = "M3n747" }
+81400 = { path = "goldberg-bylby-dumny.webp", caption = "Max Speed pierces Jakub's hopes of victory with a Spear.", source = "M3n747" }
+81500 = { path = "max-speed-max-win.webp", caption = "[Max Speed](@/w/max-speed.md) victorious.", source = "M3n747" }
+81600 = { path = "w-pelni-zasluzone-zwyciestwo.webp", caption = "[Max Speed](@/w/max-speed.md), [Championship](@/c/low-european-championship.md) in hand, receives a standing ovation from the audience.", source = "M3n747" }
+
+90100 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+99999 = { path = "piston-cup-damaged-by-pistof-chemik.webp", caption = "Chemik's contract briefcase.", source = "Sewi The Referee" }
+
