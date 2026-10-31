@@ -68,7 +68,7 @@ Shortly therafter Syriusz shared a long [post][syriusz-na-urlop] reminiscing on 
 
 ### Return to Prime Time Wrestling (2026-)
 
-Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Dziedzic returned to PTW at [Duch Przeszłości](@/e/ppw/2026-10-31-ptw-duch-przeszlosci.md) siding with the new [PTW Tag Team Championsh](@/c/ptw-tag-team-championship.md), Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)).
+Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Dziedzic returned to PTW at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) siding with the new [PTW Tag Team Championsh](@/c/ptw-tag-team-championship.md), Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)).
 
 ## In wrestling
 
