@@ -68,7 +68,7 @@ has_video = true
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=464864)
 * [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwduchprzeszlosci-9761)
 * [Official YouTube stream](https://www.youtube.com/watch?v=HXmn2KszNUM) (requires paid subscription)
-* [Open access video: ??? vs ???](https://www.youtube.com/watch?v=SpoFs6iCth8)
+* [Open access video: Lopez vs Misiek](https://www.youtube.com/watch?v=SpoFs6iCth8)
 
 [spooky-european-perch]: https://www.facebook.com/reel/2341898866580419
 [komora-maszyny-losujacej-jest-pusta]: https://www.facebook.com/reel/1733152271126168
