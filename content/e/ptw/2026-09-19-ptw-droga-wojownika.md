@@ -46,6 +46,11 @@ has_video = false
   - 'Manto Band: [Boguś](@/w/bogus.md) & [CJ Klakson](@/w/cj-klakson.md)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Open Challenge Tag Team Match
+- credits:
+    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+	Chairman: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 {% end %}
 
 ## References
