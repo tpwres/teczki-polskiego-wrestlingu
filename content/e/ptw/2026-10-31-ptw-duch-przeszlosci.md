@@ -16,7 +16,7 @@ has_video = true
 
 ## Build-up
 
-* On 6.10.2026 PTW published a [video][spooky-european-perch] of [Łukasz Okoński](@/w/lukasz-okonski.md) revealing some information about the upcoming show. In it, he teased a "real ghost of the past" at the commentary table, divulged a Horror Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) between [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and Proroctwo ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)), disclosed a Golden Ticket Elimination Match with contenders still to be named (the winner of which will be able to face any opponent at any time) and revealed that the feud between [Fabian](@/w/fabian.md) and [Daniel Razor](@/w/daniel-razor.md) now includes [Kalom](@/w/kalom.md) and Pierre who got tangled in the rivalry.
+* On 6.10.2026 PTW published a [video][spooky-european-perch] of [Łukasz Okoński](@/w/lukasz-okonski.md) revealing some information about the upcoming show. In it, he teased a "real ghost of the past" at the commentary table, divulged a Horror Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) between [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and [Proroctwo](@/tt/[proroctwo.md) ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)), disclosed a Golden Ticket Elimination Match with contenders still to be named (the winner of which will be able to face any opponent at any time) and revealed that the feud between [Fabian](@/w/fabian.md) and [Daniel Razor](@/w/daniel-razor.md) now includes [Kalom](@/w/kalom.md) and Pierre who got tangled in the rivalry.
 * In a [video][komora-maszyny-losujacej-jest-pusta] posted on 12.10.2026 [Łukasz Okoński](@/w/lukasz-okonski.md), assisted by [Sędzia Herno](@/w/sedzia-herno.md), drew four random names of wrestlers to participate in the first round of the Golden Ticket Tournament: [CJ Klakson](@/w/cj-klakson.md), [Iskra](@/w/iskra.md), [Alex Brave](@/w/alex-brave.md) and [El G](@/w/el-g.md).
 * Pierre & [Fabian](@/w/fabian.md) vs [Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md) was officially announced on 13.10.2026.
 * Brave's involvement in the Golden Ticket Elimination Match was officially confirmed on 15.10.2026.
@@ -47,7 +47,7 @@ has_video = true
 - - '[El G](@/w/el-g.md)'
   - '[Iskra](@/w/iskra.md)'
   - s: 'Golden Ticket Tournament Elimination Match, Round 1'
-- - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/sawicki.md)'
+- - '[Proroctwo](@/tt/[proroctwo.md): [Whiteblade](@/w/whiteblade.md) & [Schwarzmann](@/w/sawicki.md)'
   - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)(c)'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Horror Tag Team Match
@@ -56,12 +56,15 @@ has_video = true
   - g: '[PTW Championship](@/c/ptw-championship.md) Match contract signing.'
     nc: upcoming
 - credits:
+    Host, ring announcer: '???'
+    Referees: '???, ???'
     Commentary: '[Disco Pablo](@/w/disco-pablo.md)'
 {% end %}
 
 ### Highlights
 
 * This show saw the return of [Disco Pablo](@/w/disco-pablo.md) and [Syriusz Dziedzic](@/w/dziedzic.md), both last seen at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
+* Sawicki was announced as Schwarzmann, officially changing his ring name.
 
 ## References
 
