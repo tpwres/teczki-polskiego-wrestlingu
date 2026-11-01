@@ -13,7 +13,7 @@ Proroctwo ("The Prophecy" are a Polish tag team consisting of [Whiteblade](@/w/w
 
 ### Prime Time Wrestling (2026-)
 
-[Whiteblade](@/w/whiteblade.md) and [Schwarzmann](@/w/sawicki.md) joined forces at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md), taking on and defeating a tag team of  [El Hijo del G](@/tt/el-g.md) & [El Clavo](@/w/el-clavo.md). At [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md) they won the #[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) 1 Contendership, and at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) snatched the titles from the reigning Champions, [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)).
+[Whiteblade](@/w/whiteblade.md) and [Schwarzmann](@/w/sawicki.md) joined forces at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md), taking on and defeating a tag team of  [El Hijo del G](@/w/el-g.md) & [El Clavo](@/w/el-clavo.md). At [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md) they won the #[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) 1 Contendership, and at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) snatched the titles from the reigning Champions, [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)).
 
 ## Members
 
