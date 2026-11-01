@@ -66,8 +66,8 @@ On 10.11.2025 [Legacy](@/o/low.md) announced Rosetti as a guest commentator at t
 * Finishers:
   - Samoan Driver (2015-2025)
 * Tag Teams and stables:
-  - Sawicki & Rosetti (2017-2020)
-  - Kawaleria (2018-2019)
+  - [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (2017-2020)
+  - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
   - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 * Entrance music:
   - "Pieceful" by The World I Know
