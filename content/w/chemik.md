@@ -30,7 +30,7 @@ Chemik is a Polish wrestler best known for his time in [Kombat Pro Wrestling](@/
 #### Debut and Kawaleria's butler
 
 Chemik (lit. _Chemist_ - named after his bald head, reminiscent of a chemotherapy patient) joined the [Kombat Pro Wrestling](@/o/kpw.md) wrestling school in summer 2017 after being a fan for about a year.
-He made quick progress as a trainee and first appeared at [KPW Arena 9](@/e/kpw/2018-03-10-kpw-arena-9.md) as the personal butler of [Piękny Kawaler](@/w/piekny-kawaler.md) and his stable, Kawaleria (_The Cavalry_), with his in-ring debut soon following at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md), in a tag team with [Greg](@/w/greg.md).
+He made quick progress as a trainee and first appeared at [KPW Arena 9](@/e/kpw/2018-03-10-kpw-arena-9.md) as the personal butler of [Piękny Kawaler](@/w/piekny-kawaler.md) and his stable, [Kawaleria](@/tt/kawaleria.md) (_The Cavalry_), with his in-ring debut soon following at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md), in a tag team with [Greg](@/w/greg.md).
 In his butler persona, he continued to associate with Kawaleria for the next few shows.
 
 #### The Gregorian Branch
@@ -79,7 +79,7 @@ From 2024 onwards Chemik made a few appearances for Finland-based federation SLA
 * Finishers:
   - _Ostatnie Namaszczenie_ (Swinging Reverse STO) (2018-)
 * Tag Teams and stables:
-  - Kawaleria (2018-2019)
+  - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
   - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 * Entrance music:
   - "Yekteniya I" by Batushka

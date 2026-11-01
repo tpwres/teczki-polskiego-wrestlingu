@@ -28,7 +28,7 @@ Piękny Kawaler (roughly _Beautiful Bachelor_, or _Lovely Lad_) is a Polish wres
 ### Do Or Die Wrestling (2013-2015)
 
 Piękny Kawaler started his wrestling career by training in the Source Wrestling School in Glasgow where he worked as a babyface.
-After returning to Poland he joined [Do Or Die Wrestling](@/o/ddw.md) where he gained notoriety as a heel, known for his eccentric promos. In 2015 he formed a heel stable called "Kawaleria" (_The Cavalry_), with [Luxus](@/w/luxus.md) and [Greg](@/w/greg.md) as his subordinates.
+After returning to Poland he joined [Do Or Die Wrestling](@/o/ddw.md) where he gained notoriety as a heel, known for his eccentric promos. In 2015 he formed a heel stable called [Kawaleria](@/tt/kawaleria.md) (_The Cavalry_), with [Luxus](@/w/luxus.md) and [Greg](@/w/greg.md) as his subordinates.
 
 ### Kombat Pro Wrestling (2015-present)
 
@@ -56,7 +56,7 @@ Besides his work in Source Wrestling School in Glasgow during the early stages o
   - _Looooooove_ (Double knee facebreaker) (2013-2015)
   - _Jajacha_ (Crotch-lift release German suplex) (2015-2019)
 * Tag Teams and stables:
-  - Kawaleria (2015-2019)
+  - [Kawaleria](@/tt/kawaleria.md) (2015-2019)
 * Entrance music:
   - "Ascension" by Transit
     {{ org_badge(orgs=['ddw', 'kpw']) }} (2013-2019) <br>

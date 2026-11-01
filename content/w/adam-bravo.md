@@ -34,6 +34,11 @@ After his KPW run, Bravo became affiliated with [Prime Time Wrestling](@/o/ptw.m
 Ultimately, he didn't make even a single official in-ring appearance for the new promotion.
 His fellow KPW alumni [Sawicki](@/w/sawicki.md) also shared the same fate - initially joining but never getting a match opportunity.
 
+## In wrestling
+
+* Tag Teams and stables:
+  - [Kawaleria](@/tt/kawaleria.md) (2018, single storyline appearance)
+
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=19681&name=Adam+Bravo)

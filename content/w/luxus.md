@@ -33,9 +33,9 @@ After DDW's closure and transformation into [Kombat Pro Wrestling](@/o/kpw.md), 
 * Finishers:
   - Texas Tower Bomb (2013-2016)
 * Tag Teams and stables:
-  - [Piękny Kawaler](@/w/piekny-kawaler.md) (2013-2015)
-  - [GREG](@/w/greg.md) (2015-2016)
-  - Kawaleria (2015-2016)
+  - Luxus & [Piękny Kawaler](@/w/piekny-kawaler.md) (2013-2015)
+  - Luxus & [GREG](@/w/greg.md) (2015-2016)
+  - [Kawaleria](@/tt/kawaleria.md) (2015-2016)
 
 ## References
 
