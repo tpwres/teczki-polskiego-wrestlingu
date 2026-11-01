@@ -56,9 +56,9 @@ has_video = true
   - g: '[PTW Championship](@/c/ptw-championship.md) Match contract signing.'
     nc: upcoming
 - credits:
-    Host, ring announcer: '???'
-    Referees: '???, ???'
-    Commentary: '[Disco Pablo](@/w/disco-pablo.md)'
+    Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md), [Disco Pablo](@/w/disco-pablo.md)'
 {% end %}
 
 ### Highlights
