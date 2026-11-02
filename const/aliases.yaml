@@ -3,6 +3,7 @@
 # Alternatively: "main name": [list, of, aliases] (or in block form with dashes)
 # Think of this as formatted the same way you see it on the name list: main name first, then list of aliases.
 #
+adeptka Marta: Księżniczka Martusia # her Princess Peach character for managing EL G
 adept Andrzej: # adept Andrzej from Piwo Przyjacielem Wrestlingu 2 = adept Młody from Dojo Showcase
   - adept Młody
   - Młody
@@ -22,6 +23,7 @@ Lesya:
 Leo Zayde: Lio Zayde
 Leśny: Kamil Leśny
 'Mikołaj "SKS"': 'adept Mikołaj "SKS"'
+Pierre: Piotrek z publiczności
 Primo: Diego # WWE's Primo Colón
 Red Dorada:
   - Mati
