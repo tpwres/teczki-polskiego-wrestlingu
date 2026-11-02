@@ -76,7 +76,7 @@ has_video = true
    * [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) made his entrance in a casket, carried by multiple masked figures
    * [CJ Klakson](@/w/cj-klakson.md) cosplayed CJ from _GTA: San Andreas_, complete with BMX and game's main theme
    * [Alex Brave](@/w/alex-brave.md) entered as [CJ Klakson](@/w/cj-klakson.md)
-   * [Gwiezdny Marek](@/w/gwiezdny-marek.md) wore a _Darth Vader_ t-shirt and a lightsaber to the ring
+   * Gwiezdny Marek wore a _Darth Vader_ t-shirt and a lightsaber to the ring
    * Damian Miller just brought a grave lantern
    * [Daniel Razor](@/w/daniel-razor.md) cosplayed Jason Myers from _Friday the 13th_
    * [Kalom](@/w/kalom.md) wore a devil's facepaint and horns
