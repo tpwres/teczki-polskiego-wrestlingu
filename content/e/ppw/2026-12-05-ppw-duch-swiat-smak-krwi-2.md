@@ -19,6 +19,7 @@ Duch Świąt, Smak Krwi 2 (_The Spirit of Christmas, the Taste of Blood 2_) is a
 
 * On 21.10.2026 PpW published a [video][plata-pierwsza-krew-czesc-2] taken backstage at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), showing [Bartosz Plata](@/w/plata.md) confronting [Antoni Ocean](@/w/antoni-ocean.md) about who should've had a spot in that show's Scramble Match. A short alteraction ended in Plata challenging Ocean to a First Blood Match, which he referred to as PpW's first (even though [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) a year prior already had a First Blood Match between [Agentka Agatka](@/w/agentka-agatka.md) and [Johnny Blade](@/w/johnny-blade.md)).
 * The match was officially confirmed on 29.10.2026.
+* On 1.11.2026 PpW announced that [Laurance Roman](@/w/laurance-roman.md) will challenge whoever wins the [PpW Championship](@/c/ppw-championship.md) Match at [Skok Na Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md) - either [Gabriel Queen](@/w/gabriel-queen.md) or [Jakub](@/w/jakub.md).
 
 ## Predicted card
 
@@ -26,6 +27,10 @@ Duch Świąt, Smak Krwi 2 (_The Spirit of Christmas, the Taste of Blood 2_) is a
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - s: First Blood Match
+    nc: upcoming
+- - '??? (c)'
+  - '[Laurance Roman](@/w/laurance-roman.md)'
+  - c: '[PpW Championship](@/c/ppw-championship.md)'
     nc: upcoming
 {% end %}
 
@@ -36,6 +41,6 @@ Duch Świąt, Smak Krwi 2 (_The Spirit of Christmas, the Taste of Blood 2_) is a
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465060)
-* [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
+* [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [plata-pierwsza-krew-czesc-2]: https://www.facebook.com/reel/1585144276170617

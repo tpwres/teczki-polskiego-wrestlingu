@@ -43,7 +43,7 @@ Polish celebrity and former boxer Marcin Najman was also expected to appear in s
   - 'MxM Collection: Mansoor & Mason Madden'
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
 - - Marius Al-Ani
-  - '[Sam Della Vale](@/w/sam-rogers.md)'
+  - '[Sam Della Valle](@/w/sam-rogers.md)'
   - c: 'PTW:WWA Championship'
 - - '[Legia Łysych](@/tt/legia-lysych.md): [Olgierd](@/w/olgierd.md) & [Marco Hammers](@/w/marco-hammers.md)'
   - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'

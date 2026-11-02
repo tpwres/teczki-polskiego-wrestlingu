@@ -35,7 +35,7 @@ At the end of 2014 DDW moved their operations to Gdańsk. This did not last long
 
 #### Feud with Piękny Kawaler
 
-In 2018 Robert became the leader of an all-babyface faction called "Sojusz" (_The Alliance_), which feuded with an all-heels faction "Kawaleria" (_The Cavalry_), led by [Piękny Kawaler](@/w/piekny-kawaler.md).
+In 2018 Robert became the leader of an all-babyface faction called "Sojusz" (_The Alliance_), which feuded with an all-heels faction [Kawaleria](@/tt/kawaleria.md) (_The Cavalry_), led by [Piękny Kawaler](@/w/piekny-kawaler.md).
 These events played out at [Arena 9](@/e/kpw/2018-03-10-kpw-arena-9.md) and [Arena X](@/e/kpw/2018-05-26-kpw-arena-x.md).
 At the following show, [Godzina Zero 2018](@/e/kpw/2018-08-11-kpw-godzina-zero-2018.md), Robert was forced to join Kawaleria, wear their signature facepaint, and come to ringside with other members. As time went on, he became increasingly uncomfortable with his position.
 He was part of a tag team with Piękny Kawaler and entered the Tag Team Tournament at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md). However, the two of them were disqualified, due to Kawaler being under the influence.

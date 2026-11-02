@@ -23,6 +23,7 @@ has_video = false
 * The next day the challenge was asnwered by [Goblin](@/w/goblin.md).
 * On 28.10.2026 Asara was announced to debut in FRPW, in a match with [Filip Fux](@/w/filip-fux.md).
 * On 30.10.2026 FRPW announced PSY.CHO, a team of ??? & [Tomczak](@/w/tomczak.md), without further details.
+* 2.11.2026 saw the announcement of Quentin Carter & [Boro](@/w/boro.md) vs [Biuro Prasowe](@/tt/biuro-prasowe.md) ([Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)).
 
 ## Predicted card
 
@@ -45,6 +46,10 @@ has_video = false
   - nc: upcoming
 - - 'PSY.CHO: ??? & [Tomczak](@/w/tomczak.md)'
   - '??? & ???'
+  - s: Tag Team Match
+    nc: upcoming
+- - 'Quentin Carter & [Boro](@/w/boro.md)'
+  - '[Biuro Prasowe](@/tt/biuro-prasowe.md): [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
   - s: Tag Team Match
     nc: upcoming
 {% end %}
