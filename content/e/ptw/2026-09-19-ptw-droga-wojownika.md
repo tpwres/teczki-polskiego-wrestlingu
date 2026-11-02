@@ -49,7 +49,7 @@ has_video = false
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
-    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
+    Commentary: '[Adam Goldschmidt](@/w/adam-goldschmidt.md), [Krystian "Resivny" Smoleń](@/w/resivny.md)'
     Chairman: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 {% end %}
 
@@ -57,5 +57,6 @@ has_video = false
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=462215)
 * [Open access video: Sawicki & Whiteblade vs Brave & Caravaggio](https://www.youtube.com/watch?v=-EGebbcHrRY)
+* [Full show - requires paid subscription](https://www.youtube.com/watch?v=xR1MBvWrvmk&t=1253s)
 
 [na-stowe-sie-potem-o-to-pokloca]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid0EgbN9ZPS1H514cVtaHkZSCGuqLMURS6W5yEQyGNTu8KQpsSY4Z2HJttoZUH3bMpjl
