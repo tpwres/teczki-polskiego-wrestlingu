@@ -23,4 +23,4 @@ Miyagi Sigma are a Polish tag team consisting of [Miyagi Shida](@/w/miyagi-shida
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md)
-  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, current)
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time)

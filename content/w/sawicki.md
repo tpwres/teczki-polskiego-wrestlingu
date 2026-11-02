@@ -1,5 +1,5 @@
 +++
-title = "Sawicki"
+title = "Schwarzmann"
 template = "talent_page.html"
 authors = ["Sewi The Referee", "M3n747"]
 [extra]
@@ -9,16 +9,18 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Sawicki is a Polish wrestler best known for his tenure in [Kombat Pro Wrestling](@/o/kpw.md) from 2016 to 2020. He also worked in [Do Or Die Wrestling](@/o/ddw.md), and he made his return to the ring in [Prime Time Wrestling](@/o/ptw.md) in 2025.
+Schwarzmann is a Polish wrestler best known for his tenure in [Kombat Pro Wrestling](@/o/kpw.md) from 2016 to 2020. He also worked in [Do Or Die Wrestling](@/o/ddw.md), and he made his return to the ring in [Prime Time Wrestling](@/o/ptw.md) in 2025.
 
 ## Basic info
 
 * Years active: 2015-2020, 2025
 * Gimmicks/nicknames:
-  - Sawicki {{ org_badge(orgs=['ddw', 'kpw']) }}
+  - Sawicki {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }}
+  - Schwarzmann {{ org_badge(orgs=['ptw']) }}
 * Trained by:
   - [DDW Academy](@/o/ddw-academy.md) (2014-2015)
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2015-2020)
+  - [PTW Academy](@/o/ptw-academy.md) (2020-)
 
 ## Professional wrestling career
 
@@ -43,24 +45,32 @@ After almost four years of silence it was announced that he would make his PTW d
 * Finishers:
   - _Sawicki Bomb_ (Chokebomb) (2016-2020)
 * Tag Teams and stables:
-  - Sawicki & Rosetti (2017-2020)
-  - Kawaleria (2018-2019)
+  - [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (2017-2020)
+  - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
+  - [Proroctwo](@/tt/proroctwo.md) (2026-)
 * Entrance music:
   - "Pieceful" by The World I Know
     {{ org_badge(orgs=['kpw']) }} (2017-2020, in tag team with [Rosetti](@/w/rosetti.md)) <br>
     {{ music(yt='cHMlcuuqWG8')}}
     {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
     {{ music(apple='1447820618?i=1447820619')}}
+  - "Engel" by Rammstein
+    {{ org_badge(orgs=['ptw']) }} (2026-) <br>
+    {{ music(yt='x2rQzv8OWEY')}}
+    {{ music(spot='0xrkyEMkG4dVa5OMLQZOX8')}}
+    {{ music(apple='1390562159?i=1390562683')}}
 
 ## Championships and accomplishments:
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Rosetti](@/w/rosetti.md)
   - KPW Tag Team Championship Tournament (2018) - with [Rosetti](@/w/rosetti.md)
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current) - with [Whiteblade](@/w/whiteblade.md)
 
 ## Internet presence
 
-* [Sawicki's Facebook profile](https://www.facebook.com/Sawicki-483062538551718/)
+* [Schwarzmann's Facebook profile](https://www.facebook.com/Sawicki-483062538551718/)
 
 ## References
 

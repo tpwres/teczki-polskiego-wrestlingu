@@ -38,12 +38,19 @@ At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself
 
 ## In wrestling
 
+* Tag Teams and stables:
+  - [Proroctwo](@/tt/proroctwo.md) (2026-)
 * Entrance music:
   - "Choke" by I Prevail
     {{ org_badge(orgs=['ptw']) }} (as Whiteblade, 2026-) <br>
     {{ music(yt='kINkBXS_YZY')}}
     {{ music(spot='7jm63qwHLmemNcMzORjwfi')}}
     {{ music(apple='1629105882?i=1629105882')}}
+
+## Championships and accomplishments
+
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current) - with [Schwarzmann](@/w/sawicki.md)
 
 ## Internet presence
 

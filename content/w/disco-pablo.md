@@ -63,6 +63,10 @@ At [Legacy of Wrestling vol. 2](@/e/low/2025-04-06-low-2.md) Taras and Pablo fac
 
 At [Four The Glory](@/e/low/2025-12-20-low-4.md) Disco Pablo defeated [Tony Sheen](@/w/riverman.md) in a 12 Weapons of Christmas No-DQ Match. After the bell, Tony was revealed as the newest member of [Biuro Prasowe](@/tt/biuro-prasowe.md) - a villainous stable led by [Arek Paterek](@/w/arek-paterek.md). Sheen then proceeded with a vicious attack on Pablo, but was stopped by [Marcelito](@/w/marcelito.md). Pablo and Marcelito's conflict with Biuro Prasowe led to the announcement of a Six-Man Tag Team Match at [Enter The Dragon](@/e/low/2026-07-10-low-6.md). At the show itself, Pablo and Marcelito were joined by [Bartosz Plata](@/w/plata.md). Once the babyfaces pointed out that the Biuro is one man short, Paterek asserted that they always have "a full alphabet of plans" and that "it is already three-vs-three". Before they could process that, Plata unzipped his longsleeve, revealing a Biuro Prasowe T-shirt underneath, and jumped his former friends, which led to [Sambor](@/w/sambor.md) joining the babyface team to even the odds. Despite that, Biuro Prasowe still overpowered Pablo's team.
 
+### Return to Prime Time Wrestling (2026-)
+
+Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Disco Pablo returned to PTW at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) as a commentator.
+
 ## In wrestling
 
 * Finishers:

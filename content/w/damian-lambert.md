@@ -69,7 +69,7 @@ During his British excursion Lambert made appearances in two matches for Coventr
   - _Lambert Lock_ (Armbar) (2015-2019)
   - Standing Spanish Fly (2026)
 * Tag Teams and Stables:
-  - Proroctwo (2026)
+  - [Proroctwo](@/tt/proroctwo.md) (2026)
 * Entrance music:
   - "NieWolnOść" by Hunter
     {{ org_badge(orgs=['mzw']) }} (2017-2019) <br>

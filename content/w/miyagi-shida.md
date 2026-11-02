@@ -67,7 +67,7 @@ Starting with [All About The Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Sigma Boy xD](@/w/sigma-boy.md); current)
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Sigma Boy xD](@/w/sigma-boy.md))
 
 ## Internet presence
 
