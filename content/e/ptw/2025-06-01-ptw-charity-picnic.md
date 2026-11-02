@@ -37,13 +37,13 @@ has_video = false
 
 ### Highlights
 
-* Battle Royal was won by Daniel Razor. Other members of the final five were: [Sigma Boy xD](@/w/sigma-boy.md), [Serg Sullivan](@/w/serg-sullivan.md), [Max Speed](@/w/max-speed.md) and Ben Rodgers. The battle royal included "kilkanaście" (a range above 10 or 11, but below 20) competitors, both PTW wrestlers and rookies.
+* Battle Royal was won by Daniel Razor. Other members of the final five were: [Sigma Boy xD](@/w/sigma-boy.md), [Serg Sullivan](@/w/serg-sullivan.md), [Max Speed](@/w/max-speed.md) and Ben Rodgers. The battle royal included "kilkanaście" (a range between 11 and 19) competitors, both PTW wrestlers and rookies.
 * Pulling a double duty, Max Speed defeated Ben Rodgers in what was an "incredibly fast-paced match" as per the report, to retain the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 * There was a post-show meet'n'greet with an opportunity to enter the ring.
 
 ## References
 
-* [Facebook post](post-fb)
+* [Facebook post][post-fb]
 * [Event page of the charity picnic](https://www.facebook.com/events/1890305431793906)
 
-[post-fb]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02x65gmmz8R9DrqZm7qkyY4hpiycLGRwkQud4jMgnethHA6Lo9QczKB7KK4MdUGm8El
+[post-fb]: https://www.facebook.com/PrimeTimeWrestlingPL/posts/pfbid02wxWCjPwLVQAmuc8b9Kqk5hkjCD6EYtV9npnTFYGNMHLuezot8Y6bnHKRgh8iYpjUl?comment_id=2211409809280501&reply_comment_id=712166835092455
