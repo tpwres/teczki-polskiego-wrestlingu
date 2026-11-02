@@ -1,7 +1,7 @@
 +++
 title = "PTW: Duch Przeszłości"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski"]
 [taxonomies]
 chronology = ["ptw"]
 venue = ["szafirowy-dwor"]
@@ -58,7 +58,7 @@ has_video = true
 - - '[Proroctwo](@/tt/proroctwo.md): [Whiteblade](@/w/whiteblade.md) & [Schwarzmann](@/w/sawicki.md) & [Syriusz Dziedzic](@/w/dziedzic.md) & adeptka Paula'
   - '[Miyagi Sigma](@/tt/miyagi-sigma.md): [Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)'
-  - g: 'Dziedzic and Paula join Proroctwo, destroying Miyagi Sigma'
+  - g: 'Dziedzic and Paula join Proroctwo, destroying Miyagi Sigma.'
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
@@ -70,29 +70,29 @@ has_video = true
 
 * This show saw the return of [Disco Pablo](@/w/disco-pablo.md) and [Syriusz Dziedzic](@/w/dziedzic.md), both last seen at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md).
 * The show saw performances by two artists: rapper Sato and a bartender-juggler Krzysztof Drabik.
-* As it was a Halloween show, multiple competitors made special entrances with cosplay:
-   * Adam Goldschmidt wore a golden, visibly too large suit - eerily similar to the one that [Arkadiusz Pawłowski](@/w/pan-pawlowski.md) wore on occasion
-   * Resivny wore a Hawaii-patterned shirt, the same as Tommy Vercetti from GTA: Vice City
+* As it was a Halloween show, multiple competitors made special entrances cosplaying as different characters:
+   * Adam Goldschmidt wore a golden, visibly oversized suit - eerily similar to the one occasionally worn by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md)
+   * Resivny wore a Hawaiian shirt, exactly like Tommy Vercetti's from GTA: Vice City
    * [Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md) made his entrance in a casket, carried by multiple masked figures
-   * [CJ Klakson](@/w/cj-klakson.md) cosplayed CJ from _GTA: San Andreas_, complete with BMX and game's main theme
-   * [Alex Brave](@/w/alex-brave.md) entered as [CJ Klakson](@/w/cj-klakson.md)
-   * [Gwiezdny Marek](@/w/gwiezdny-marek.md) wore a _Darth Vader_ t-shirt and a lightsaber to the ring
+   * [CJ Klakson](@/w/cj-klakson.md) cosplayed as CJ from GTA: San Andreas, complete with a BMX and the game's main theme
+   * [Alex Brave](@/w/alex-brave.md) entered as CJ Klakson
+   * [Gwiezdny Marek](@/w/gwiezdny-marek.md) wore a Darth Vader T-shirt and a lightsaber to the ring
    * Damian Miller just brought a grave lantern
-   * [Daniel Razor](@/w/daniel-razor.md) cosplayed Jason Myers from _Friday the 13th_
+   * [Daniel Razor](@/w/daniel-razor.md) cosplayed Jason Voorhees from Friday the 13th
    * [Kalom](@/w/kalom.md) wore a devil's facepaint and horns
    * [El G](@/w/el-g.md) & rookie Marta reenacted their Super Mario & Princess Peach routine from previous shows
-   * [Whiteblade](@/w/whiteblade.md) wore an additional mask of Ghostface from _Scream_ movie series
-* In a contract signing, moderated by Okoński, Spartan and Caravaggio started a war of words. Caravaggio established the reasons why he needs to save PTW, thus fully confirming his turn as babyface. Contrary to the usual, there was no table bump to end it all, instead we saw a lengthy brawl, including a whole PTW locker room attempting to separate the two competitors. The championship match is official for the [next PTW show](@/e/ptw/2026-11-21-ptw-cena-chwaly.md).
-* As usual, there was a T-shirt auction, this time for a charity in Africa led by Krzysztof Drabik. The part of woman presenting the t-shirt was given this time to Dominique VaDique, who nixed her signature look and was never announced by name.
+   * [Whiteblade](@/w/whiteblade.md) wore an additional mask of Ghostface from the Scream franchise
+* During contract signing moderated by Okoński, Spartan and Caravaggio started a war of words. Caravaggio established the reasons why he needed to save PTW, thus fully confirming his face turn. Contrary to the usual, the signing didn't end with a table bump; instead there was a lengthy brawl, including the whole PTW locker room attempting to separate the two competitors. The Championship match is official for the [next PTW show](@/e/ptw/2026-11-21-ptw-cena-chwaly.md).
+* As usual, there was a T-shirt auction, this time for a charity in Africa led by Krzysztof Drabik. This time the woman presenting the T-shirt was Dominique VaDique, who nixed her signature look and was never announced by name.
 * Sawicki was announced as Schwarzmann, officially changing his ring name.
-* In the championship match main event, a hooded and masked figure made their entrance to support [Proroctwo](@/tt/proroctwo.md). The distraction allowed Schwarzmann and Whiteblade to score a win. The mystery man joined them in celebration, revealing himself as [Syriusz Dziedzic](@/w/dziedzic.md). The three proceeded to demolish the former champions with their finishers, as well as brutally mauling referee Klaudiusz. After brutalizing Miyagi Shida with multiple _Swanton bombs_ from Whiteblade, they put him in the casket. As the team turned their focus to Sigma Boy xD, they were interrupted by Sigma's _Lucky 8_ pupil - adeptka Paula, who pleaded for his safety. The villains left the ring and allowed Paula to help Sigma to his feet - only for her to low-blow him and hit a _Canadian destroyer_, thus turning heel. Paula embraced Schwarzmann and left the ringside together with other members of the group, showing her allegiance. Mysterious masked figures dragged away the casket with Shida inside.
+* In the Championship match main event, a hooded and masked figure entered to support [Proroctwo](@/tt/proroctwo.md). The distraction allowed Schwarzmann and Whiteblade to score a win. The mystery man joined them in celebration, revealing himself as [Syriusz Dziedzic](@/w/dziedzic.md). The three proceeded to demolish the former Champions with their finishers, as well as brutally mauling Referee Klaudiusz. After brutalizing Miyagi Shida with multiple Swanton Bombs from Whiteblade, they put him in the casket. As the team turned their focus to Sigma Boy xD, they were interrupted by Sigma's Lucky 8 pupil, adeptka Paula, who pleaded for his safety. The villains left the ring and allowed Paula to help Sigma to his feet - only for her to low-blow him and hit a Canadian Destroyer, thus turning heel. Paula embraced Schwarzmann and left the ringside together with the other members of the group, showing her allegiance. Mysterious masked figures dragged away the casket with Shida inside.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=464864)
-* [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwduchprzeszlosci-9761)
 * [Official YouTube stream](https://www.youtube.com/watch?v=HXmn2KszNUM) (requires paid subscription)
 * [Open access video: Lopez vs Misiek](https://www.youtube.com/watch?v=SpoFs6iCth8)
+* [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwduchprzeszlosci-9761)
 
 [spooky-european-perch]: https://www.facebook.com/reel/2341898866580419
 [komora-maszyny-losujacej-jest-pusta]: https://www.facebook.com/reel/1733152271126168
