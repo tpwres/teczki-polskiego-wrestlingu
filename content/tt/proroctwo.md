@@ -32,11 +32,11 @@ At [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md) the duo won the 
 
 #### Group
 
-At [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) the faction underwnt major changes. Sawicki debuted his promised, scary persona, changing his name to Schwarzmann and further changing his look - full facepaint, and a tattered hooded robe with a prison-like jumpsuit underneath.
+At [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) the faction underwent major changes. Sawicki debuted his promised, scary persona, changing his name to Schwarzmann and further changing his look - full facepaint, and a tattered hooded robe with a prison-like jumpsuit underneath.
 
 [Syriusz Dziedzic](@/w/dziedzic.md) made his surprise return to help them snatch the titles from the reigning Champions, [Miyagi Sigma](@/tt/miyagi-sigma.md), in a Horror Match. After the match, he revealed his identity and celebrated with new champs, helping them beat down the former Champions and the unlucky referee Klaudiusz.
 
-After brutalizing Miyagi Shida with multiple Swanton Bombs from Whiteblade, they put him in the casket. As the team turned their focus to Sigma Boy xD, they were interrupted by Sigma's Lucky 8 pupil adeptka Paula, who pleaded for his safety. The villains left the ring and allowed Paula to help Sigma to his feet - only for her to low-blow him and hit a Canadian Destroyer, thus turning heel. Paula embraced Schwarzmann and left the ringside together with other members of the group, showing her allegiance. Thus, Proroctwo became a 4-person group overnight.
+After brutalizing Miyagi Shida with multiple Swanton Bombs from Whiteblade, they put him in the casket. As the team turned their focus to Sigma Boy xD, they were interrupted by Sigma's Lucky 8 pupil adeptka Paula, who pleaded for his safety. The villains left the ring and allowed Paula to help Sigma to his feet - only for her to low-blow him and hit a Canadian Destroyer, thus turning heel. Paula embraced Schwarzmann and left the ringside together with other members of the group, showing her allegiance. Thus, Proroctwo became a 4-person group overnight. The following week, Paula changed her Instagram handle to Valentina Vex, thus confirming the character change and her allegiance to Proroctwo.
 
 ## Members
 
