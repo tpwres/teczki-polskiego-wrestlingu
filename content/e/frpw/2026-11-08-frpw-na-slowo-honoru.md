@@ -24,6 +24,7 @@ has_video = false
 * On 28.10.2026 Asara was announced to debut in FRPW, in a match with [Filip Fux](@/w/filip-fux.md).
 * On 30.10.2026 FRPW announced PSY.CHO, a team of ??? & [Tomczak](@/w/tomczak.md), without further details.
 * 2.11.2026 saw the announcement of Quentin Carter & [Boro](@/w/boro.md) vs [Biuro Prasowe](@/tt/biuro-prasowe.md) ([Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)).
+* On 4.11.2026 FRPW announced a match between two Oskars: [Haller](@/w/oskar-haller.md) & [Alexander](@/w/oskar-alexander.md).
 
 ## Predicted card
 
@@ -52,6 +53,9 @@ has_video = false
   - '[Biuro Prasowe](@/tt/biuro-prasowe.md): [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
   - s: Tag Team Match
     nc: upcoming
+- - '[Oskar Haller](@/w/oskar-haller.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
