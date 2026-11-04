@@ -1,5 +1,5 @@
 +++
-title = "PTW: Cena Chwały"
+title = "PTW: Konfrontacja"
 template = "event_page.html"
 authors = ["M3n747"]
 aliases = ["/e/ptw/2026-11-21-ptw-cena-chwaly"]
