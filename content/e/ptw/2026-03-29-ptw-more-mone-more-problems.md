@@ -43,7 +43,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - '[Sawicki](@/w/sawicki.md)'
 - - '[Fabian](@/w/fabian.md) w/ Dominique VaDique'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
-- - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Damian Lambert](@/w/damian-lambert.md)'
+- - '[Proroctwo](@/tt/proroctwo.md): [Whiteblade](@/w/whiteblade.md) & [Damian Lambert](@/w/damian-lambert.md)'
   - 'First Class: [El G](@/w/el-g.md) & [Conte](@/w/conte.md)'
   - s: Tag Team Match
 - - '[Miyagi Shida](@/w/miyagi-shida.md)'
