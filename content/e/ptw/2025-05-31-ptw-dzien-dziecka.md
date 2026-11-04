@@ -38,7 +38,7 @@ manifest = "@/e/ptw/2025-05-31-ptw-dzien-dziecka-gallery.toml"
   - '[Spartan](@/w/spartan.md)'
   - g: 'Okoński reinstates Spartan and supposedly leaves PTW.'
 - - '[Spartan](@/w/spartan.md)'
-  - 'Conte'
+  - '[Conte](@/w/conte.md)'
 - - '[Nano Lopez](@/w/nano-lopez.md)'
   - '[Arkadiusz "Pan" Pawłowski](@/w/pan-pawlowski.md)'
   - g: "Lopez announces he's ready for a match. Pawłowski comes out offering him a title shot for the PTW Tag Team Championship with a mystery partner."
