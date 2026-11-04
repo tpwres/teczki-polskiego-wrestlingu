@@ -18,7 +18,7 @@ has_video = true
 
 * On April Fools Day PTW announced Andrzej Supron as the Special Guest Referee for the Main Event. They reiterated that despite the date, it is not an April Fools joke.
 * Both Chairmen appeared live on the PTW YouTube channel on separate occassions during the feud. Rather than firing shots at one another, each of them focused on calling out the competition and "traitors", making only brief references to the opponent.
-* Max Speed is set to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) against Conte, an Italian wrestler with three years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more_italians_incoming].
+* Max Speed is set to defend his [PTW Underground Championship](@/c/ptw-underground-championship.md) against [Conte](@/w/conte.md), an Italian wrestler with three years of experience. As per Conte's social media, [other Italian wrestlers are also coming][more_italians_incoming].
 * On April 10th, PTW [announced][bestia-pas] that [Dawid "Puncher" Seńko](@/w/puncher.md) will defend his BestYa Slam Championship against the up-and-coming [Sigma Boy xD](@/w/sigma-boy.md).
 * On April 11th, PTW hosted another YouTube livestream with appearances by both Chairmen. They talked various topics, mainly building up their upcoming fight.
 
@@ -36,7 +36,7 @@ has_video = true
   - '[Serg Sullivan](@/w/serg-sullivan.md)'
   - g: 'Post-match brawl continuing throughout the show'
 - - '[Max Speed](@/w/max-speed.md)(c)'
-  - 'Conte'
+  - '[Conte](@/w/conte.md)'
   - n: 'Special referee announced by Pawłowski: Daniele Specchiulli from Italy'
     c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
 - - '[Spartan](@/w/spartan.md)'
