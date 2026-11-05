@@ -97,7 +97,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
   - "Hi Fi" by Wanda i Banda
-    {{ org_badge(orgs=['ppw']) }} (2026-; in a Tag Team with [Vic Golden](@/w/vic-golden.md))
+    {{ org_badge(orgs=['ppw']) }} (2026-; in a Tag Team with [Vic Golden](@/w/vic-golden.md)) <br>
     {{ music(yt='INGAIJiMCnE')}}
     {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
     {{ music(apple='1791001676?i=1791001922')}}
