@@ -25,6 +25,7 @@ has_video = false
 * On 30.10.2026 FRPW announced PSY.CHO, a team of ??? & [Tomczak](@/w/tomczak.md), without further details.
 * 2.11.2026 saw the announcement of Quentin Carter & [Boro](@/w/boro.md) vs [Biuro Prasowe](@/tt/biuro-prasowe.md) ([Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)).
 * On 4.11.2026 FRPW announced a match between two Oskars: [Haller](@/w/oskar-haller.md) & [Alexander](@/w/oskar-alexander.md).
+* [Markus Paskal](@/w/markus-paskal.md) vs [Antoni Ocean](@/w/antoni-ocean.md) was announced on 5.11.2026.
 
 ## Predicted card
 
@@ -55,6 +56,9 @@ has_video = false
     nc: upcoming
 - - '[Oskar Haller](@/w/oskar-haller.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
+  - nc: upcoming
+- - '[Markus Paskal](@/w/markus-paskal.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - nc: upcoming
 {% end %}
 
