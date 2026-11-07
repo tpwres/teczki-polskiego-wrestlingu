@@ -47,6 +47,5 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=466891)
-* [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwcenachwaly-9762)
 
 [okon-zapowiada]: https://www.facebook.com/reel/2261290081394138
