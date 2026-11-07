@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-The sixth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) series will return to Lublin and will again be held in the {{ map_pin(v="Centrum Sportu Akademos") }}Akademos Sports Centre..
+The sixth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) series will return to Lublin and will again be held in the {{ map_pin(v="Centrum Sportu Akademos") }}Akademos Sports Centre.
 
 ## Build-up
 
