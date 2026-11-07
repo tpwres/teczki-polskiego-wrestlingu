@@ -1,7 +1,7 @@
 +++
 title = "PTW Performance Center"
 template = "venue_page.html"
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "M3n747"]
 [extra.geo]
 coordinates = '50.290252/19.002052'
 type = 'historical-venue'
@@ -10,7 +10,9 @@ orgs = ['ptw']
 1 = { path = "ptw-performance-center.jpg", caption = "Outside view of the PTW Performance Center, July 2024.", source = "Ville Paananen" }
 +++
 
-PTW Performance Center is a storage facility repurposed into PTW's training center, and venue for its Underground series of events.  In its typical setup for such events, it fits a standard wrestling ring and about 150 seats for the audience. The back wall (visible to the hardcam) features colorful decorations made of wooden cargo pallets and graffiti.
+PTW Performance Center is a storage facility that was repurposed as PTW's training center, and a venue for its [Underground](@/e/underground.md) series of events. In its typical setup for such events, it fit a standard wrestling ring and about 150 seats for the audience. The back wall (visible to the hardcam) featured colorful decorations made of wooden cargo pallets and graffiti.
+
+After [Underground 20](@/e/ptw/2023-12-10-ptw-underground-20.md), PTW moved to Kozłów and found a new home in a [local hotel/restaurand](@/v/dworek-kozlow.md).
 
 ## Location
 
