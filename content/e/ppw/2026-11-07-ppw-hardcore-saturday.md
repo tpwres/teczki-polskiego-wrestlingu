@@ -30,22 +30,22 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 - - '[Max Speed](@/w/max-speed.md) & [Goblin](@/w/goblin.md)'
   - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Emil Völler](@/w/emil-voeller.md)'
-  - s: Triple Threat Match
+  - s: Four Way Match
+    r: Double Submission
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Goblin](@/w/goblin.md)'
   - g: 'Max and Goblin disagree who won, agree to face each other in [Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md)'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Monster High Suzie](@/w/monster-high-zuza.md)'
-- - '[Maverick](@/w/maverick.md) & [Sentinel](@/w/sentinel.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+- - '[Isnorr](@/w/isnorr.md)'
+  - '["Ladykiller" Boro](@/w/boro.md) w/ [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md)'
+  - r: Submission
+- - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
+  - 'Koalicja Węgierska: [Maverick](@/w/maverick.md) & [Sentinel](@/w/sentinel.md)'
   - s: Tag Team Match
-    nc: upcoming
 - - '[Kalyana](@/w/kalyana.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Jakub](@/w/jakub.md) & [Gloria](@/w/gloria-g-szek.md)'
   - s: Mixed Tag Team Match
-- - '["Ladykiller" Boro](@/w/boro.md) w/ [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md)'
-  - '[Isnorr](@/w/isnorr.md)'
-  - nc: upcoming
 - - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - g: 'Post-Brutality confrontation, Olgierd quits PpW.'
@@ -61,12 +61,13 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 
 * Opening the show was Reni Jusis' recent song [_Fajnie że byłeś_](@/o/ppw.md#reni-jusis).
 * Host Michael HT named the show "Hardcore Friday, Saturday edition". When closing the show, he comically insisted that [nothing is happening tomorrow](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), and urged the fans to stay at home and relax, demonstrating how to, by laying down in the middle of the ring.
-* Emil Völler inserted himself into the opening match unceremoniously once the three original participant were ready to start. In a brief promo he claimed he received a phone call from "Donald Tusk, fellow German" (Poland's prime minister) who told him to "beat this Polish motherfucker's ass".
+* Emil Völler inserted himself into the opening match unceremoniously once the three original participant were ready to start. In a brief promo he claimed he received a phone call from "Donald Tusk, fellow German" (Poland's Prime Minister) who told him to "beat this Polish motherfucker's ass".
 * The now-four-way match ended with Max and Goblin submitting Emil simultaneously - Max with an Ankle Lock, Goblin with his Kabacki Krztusiec.
 * In their segment, Mister Z acknowledged recent issues with Zmowa, and asserted he always has a backup plan. Once Olgierd arrived, Zet apologised for often treating him like a brainless brute to do the dirty deeds.
   Trying to get Olgierd to re-join Zmowa, he offered a title match for the [PpW Championship](@/c/ppw-championship.md). Olgierd declined, stating that it's not on top of his mind. Faced with this, Zet gave him an ultimatum: either Olgierd accepts, or he's fired from PpW forever.
   Olgierd then called the bluff and proceeded listing his upcoming bookings: _tomorrow with [FRPW](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), next week in Trójmiasto with [KPW](@/e/kpw/2026-11-13-kpw-arena-35.md), two weeks on, with [MZW](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)_, that he's waiting for [Showoff](@/w/piotr-malecki.md) to reveal the next [Legacy](@/o/low.md) date, and made a reference to [Prezes Okoński](@/w/lukasz-okonski.md) still being in his DMs. He then slagged PpW for being ran by a banana (slang for _spoiled rich kid_) and an idiot, then quit on his own.
 * Despite losing to Agatka, Monster High Suzie quickly recovered and attacked her post-match. This beatdown was however quickly interrupted by Julia Rave, who then aligned herself with Agatka. This was hinted by Agatka's [reel](https://www.instagram.com/reel/DfKpeYsKVm9/) posted a week before, where she bumps into Julia by chance, and the two compliment each other's choice of fashion.
+* Isnorr came out carrying not only his signature axe, but also the rope that Rodzina used to restrain the captured Kondzio until his escape. The rope was then used as a weapon throughout the match, including the finisher which was a Camel Clutch plus a Rope Chokehold.
 
 ## References
 
