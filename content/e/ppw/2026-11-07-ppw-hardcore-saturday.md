@@ -66,6 +66,7 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 * In their segment, Mister Z acknowledged recent issues with Zmowa, and asserted he always has a backup plan. Once Olgierd arrived, Zet apologised for often treating him like a brainless brute to do the dirty deeds.
   Trying to get Olgierd to re-join Zmowa, he offered a title match for the [PpW Championship](@/c/ppw-championship.md). Olgierd declined, stating that it's not on top of his mind. Faced with this, Zet gave him an ultimatum: either Olgierd accepts, or he's fired from PpW forever.
   Olgierd then called the bluff and proceeded listing his upcoming bookings: _tomorrow with [FRPW](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), next week in Trójmiasto with [KPW](@/e/kpw/2026-11-13-kpw-arena-35.md), two weeks on, with [MZW](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)_, that he's waiting for [Showoff](@/w/piotr-malecki.md) to reveal the next [Legacy](@/o/low.md) date, and made a reference to [Prezes Okoński](@/w/lukasz-okonski.md) still being in his DMs. He then slagged PpW for being ran by a banana (slang for _spoiled rich kid_) and an idiot, then quit on his own.
+* Despite losing to Agatka, Monster High Suzie quickly recovered and attacked her post-match. This beatdown was however quickly interrupted by Julia Rave, who then aligned herself with Agatka. This was hinted by Agatka's [reel](https://www.instagram.com/reel/DfKpeYsKVm9/) posted a week before, where she bumps into Julia by chance, and the two compliment each other's choice of fashion.
 
 ## References
 
