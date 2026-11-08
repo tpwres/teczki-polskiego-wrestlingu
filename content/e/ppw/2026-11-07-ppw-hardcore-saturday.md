@@ -37,6 +37,10 @@ Hardcore Saturday was an event by [PpW Ewenement Wrestling](@/o/ppw.md) that too
   - g: 'Max and Goblin disagree who won, agree to face each other in [Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md).'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
   - '[Monster High Suzie](@/w/monster-high-suzie.md)'
+- - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Monster High Suzie](@/w/monster-high-suzie.md)'
+  - 'Julia Rave'
+  - g: 'Suzie beats down Agatka, Julia Rave makes the save.'
 - - '[Isnorr](@/w/isnorr.md)'
   - '["Ladykiller" Boro](@/w/boro.md) w/ [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md)'
   - r: Submission
