@@ -54,6 +54,7 @@ Hardcore Saturday was an event by [PpW Ewenement Wrestling](@/o/ppw.md) that too
   - s: Street Fight
 - credits:
     Host, Ring Announcer: '["OG" Michael HT](@/w/michael-ht.md)'
+    Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md)'
     Commentary: "[Istociarz](@/w/istociarz.md), [Gustav Gryffin](@/w/gustav-gryffin.md)"
 {% end %}
 
