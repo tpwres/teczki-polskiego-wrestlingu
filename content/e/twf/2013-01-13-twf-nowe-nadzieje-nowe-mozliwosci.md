@@ -12,8 +12,6 @@ has_video = false
 
 TWF: Nowe Nadzieje, Nowe Możliwości! (_New Hopes, New Opportunities!_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published on January 13th, 2013.  
 
-## Card
-
 {{ skip_card() }}
 
 Card unavailable, as the show was removed from YouTube and no other sources are known to exist.

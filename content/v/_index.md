@@ -36,12 +36,15 @@ template = "index.html"
 * [Bakara](@/v/bakara.md) {{ org_badge(org='mzw') }}
 * [Czasoprzestrzeń](@/v/czasoprzestrzen.md) {{ org_badge(orgs=['mzw', 'ptw']) }}
 * [GOSIR Głuchołazy](@/v/gosir-glucholazy.md) {{ org_badge(org='mzw') }}
+* [Opawa village](@/v/opawa.md) {{ org_badge(org='mzw') }}
 * [Ostrowskiego](@/v/ostrowskiego-wroclaw.md) {{ org_badge(org='mzw') }}
 * [Zaklęte Rewiry](@/v/zaklete-rewiry.md) {{ org_badge(org='ppw') }}
 
 ### Others
 
+* [Hala sportowa Uniwersytetu Mikołaja Kopernika](@/v/torun-uniwersytet.md) {{ org_badge(org='dfw') }}
 * [Klub Pod Palmą](@/v/pod-palma.md) {{ org_badge(org='ddw') }}
 * [Lotnisko Kluczewo](@/v/stargard-lotnisko-kluczewo.md)  {{ org_badge(orgs=['kpw']) }}
 * [Międzynarodowe Targi Poznańskie](@/v/targi-poznan.md) {{ org_badge(orgs=['kpw', 'ppw']) }}
 * [Tauron Arena Kraków](@/v/tauron-arena.md) {{ org_badge(orgs=['ptw', 'low']) }}
+* [Zespół Szkół nr. 9 w Toruniu](@/v/torun-zs9.md) {{ org_badge(org='tfw') }}

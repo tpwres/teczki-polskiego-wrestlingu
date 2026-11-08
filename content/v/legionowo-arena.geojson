@@ -7,7 +7,7 @@
         "properties": {
             "type": "historical-venue",
             "name": "Arena Legionowo",
-            "description": "Arena Legionowo",
+            "description": "A sports arena where [PTW](@/o/ptw.md) held their [sixth big show](@/e/ptw/e/ptw/2024-05-11-ptw-6.md).",
             "orgs": ["ptw"]
         }
     }

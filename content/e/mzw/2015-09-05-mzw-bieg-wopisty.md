@@ -14,7 +14,7 @@ has_video = false
 1 = { path = "2015-09-05-mzw-bieg-wopisty.jpg", caption = "Official poster, featuring [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Justin Joy](@/w/justin-joy.md), [Red Thunder](@/w/red-thunder.md), [Szymon Siwiec](@/w/szymon-siwiec.md) and [Shadow](@/w/shadow.md).", source = "Jędruś Bułecka @ Facebook" }
 +++
 
-This event was a sideshow accompanying III Bieg WOP-isty (a cross-country half-marathon event), held in {{ map_pin(v="Opawa") }}Opawa, a small village near Lubawka, close to the Polish-Czech border.
+This event was a sideshow accompanying III Bieg WOP-isty (a cross-country half-marathon event), held in [Opawa](@/v/opawa.md), a small village near Lubawka, close to the Polish-Czech border.
 
 ## Card
 

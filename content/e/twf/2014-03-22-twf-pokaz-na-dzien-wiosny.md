@@ -4,13 +4,14 @@ template = "event_page.html"
 authors = ["Sewi The Referee"]
 [taxonomies]
 chronology = ["twf"]
+venue=["torun-zs9"]
 [extra]
 city = "Toruń"
 toclevel = 2
 has_video = false
 +++
 
-TWF: Pokaz Na Dzień Wiosny (_Spring Day's Showcase_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published in two parts on March 22nd and 23nd, 2014. It took place in a sports hall of one of Toruń's {{ map_pin(v="Zespół Szkół nr. 9 w Toruniu") }}middle schools. 
+TWF: Pokaz Na Dzień Wiosny (_Spring Day's Showcase_) was a show produced by [Toruń Wrestling Federation](@/o/twf.md). It was published in two parts on March 22nd and 23nd, 2014. It took place in a sports hall of one of Toruń's [middle schools](@/v/torun-zs9.md).
 
 ## Card
 
