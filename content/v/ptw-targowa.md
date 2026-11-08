@@ -12,7 +12,7 @@ orgs = ['ptw']
 
 PTW Performance Center is a storage facility that was repurposed as PTW's training center, and a venue for its [Underground](@/e/underground.md) series of events. In its typical setup for such events, it fit a standard wrestling ring and about 150 seats for the audience. The back wall (visible to the hardcam) featured colorful decorations made of wooden cargo pallets and graffiti.
 
-After [Underground 20](@/e/ptw/2023-12-10-ptw-underground-20.md), PTW moved to Kozłów and found a new home in a [local hotel/restaurand](@/v/dworek-kozlow.md).
+After [Underground 20](@/e/ptw/2023-12-10-ptw-underground-20.md), PTW moved to Kozłów and found a new home in a [local hotel/restaurant](@/v/dworek-kozlow.md).
 
 ## Location
 
