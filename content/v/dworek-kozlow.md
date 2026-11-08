@@ -1,7 +1,7 @@
 +++
 title = "Pod Platanem / Szafirowy Dwór"
 template = "venue_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 same-venue = ["pod-platanem", "szafirowy-dwor"]
 [extra.venue_names]

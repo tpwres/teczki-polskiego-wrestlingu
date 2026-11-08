@@ -7,7 +7,7 @@
     "properties": {
         "type": "venue",
         "name": "Centrum Sportu Akademos",
-        "description": "Akademos Sports Centre, where [FRPW](@/o/frpw.md) held [a show](@/e/frpw/2026-10-17-frpw-lublin.md).",
+        "description": "Akademos Sports Centre, where [FRPW](@/o/frpw.md) held [two](@/e/frpw/2026-10-17-frpw-lublin.md) [shows](@/e/frpw/2027-01-23-frpw-lublin-2.md).",
         "orgs": ["frpw"]
     }
 }

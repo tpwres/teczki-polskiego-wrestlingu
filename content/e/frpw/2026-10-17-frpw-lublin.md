@@ -33,7 +33,7 @@ This show, the second in the "Wrestling w Twoim Mieście" (_Wrestling in Your Ci
 ## Card
 
 {% card() %}
-- - '[Tomczak](@/w/tomczak.md) w/ [adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
+- - '[Tomczak](@/w/tomczak.md) w/ [adeptka Monster High Zuza](@/w/monster-high-suzie.md)'
   - 'Jon Parker'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Bartosz Plata](@/w/plata.md)'
