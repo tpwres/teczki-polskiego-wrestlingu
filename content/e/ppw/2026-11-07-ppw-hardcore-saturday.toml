@@ -10,7 +10,7 @@
 301 = { path = "agatka.webp", caption = '[Agentka Agatka](@/w/agentka-agatka.md).', source = "Ville Paananen" }
 302 = { path = "niezbyt-fair-ale-chociaz-buty-ladne.webp", caption = 'Monster High Suzie boots Agatka.', source = "Ville Paananen" }
 303 = { path = "ekstremalna-chiropraktyka.webp", caption = '[Monster High Suzie](@/w/monster-high-suzie.md) has Agentka Agatka in a hold.', source = "Ville Paananen" }
-304 = { path = "hopsasa.webp", caption = 'Agentka Agatka on the offensive against Monster High Susie.', source = "Ville Paananen" }
+304 = { path = "hopsasa.webp", caption = 'Agentka Agatka on the offensive against Monster High Suzie.', source = "Ville Paananen" }
 305 = { path = "okej-wlosy-ciagle-sa.webp", caption = '[Agentka Agatka](@/w/agentka-agatka.md) wins so much, [Sędzia Seweryn](@/w/sedzia-seweryn.md) appears hesitant to approach.', source = "Ville Paananen" }
 
 401 = { path = "papiez-polskiego-szlafroka.webp", caption = '[Boro](@/w/boro.md).', source = "Ville Paananen" }
@@ -25,10 +25,19 @@
 504 = { path = "chlopie-z-ksiezyca-spadles-czy-co.webp", caption = 'Sentinel moonsaults onto Vic Golden.', source = "Ville Paananen" }
 505 = { path = "o-wyzszoci-rodzimych-jaboli-nad-importowanymi-wegrzynami.webp", caption = 'Oskar Alexander and [Vic Golden](@/w/vic-golden.md) triumph over Sentinel (and, in all probability, Maverick as well).', source = "Ville Paananen" }
 
+701 = { path = "cos-tam-mowi-ale-kto-by-go-sluchal.webp", caption = '[Jakub](@/w/jakub.md) cuts a promo.', source = "Ville Paananen" }
+702 = { path = "w-glorii-i-chwale.webp", caption = 'Gloria G.', source = "Ville Paananen" }
+703 = { path = "kalyana.webp", caption = '[Kalyana](@/w/kalyana.md).', source = "Ville Paananen" }
+704 = { path = "agent-w-terenie-nie-klamal.webp", caption = 'Kalyana and Gloria lock up.', source = "Ville Paananen" }
+705 = { path = "kalyana-robi-jak-neo-w-matriksie.webp", caption = '[Kalyana](@/w/kalyana.md) prepares to attack.', source = "Ville Paananen" }
+706 = { path = "kalyana-sprala-glorie-i-teraz-rozwiesza-zeby-wyschla.webp", caption = 'Kalyana hits Gloria with a Clothesline.', source = "Ville Paananen" }
+707 = { path = "podajcie-ostroznie-a-dalej-sobie-juz-poradze.webp", caption = 'Gabriel Queen saves Kalyana from a Double Suplex by Jakub and Gloria.', source = "Ville Paananen" }
+708 = { path = "slamniecie-dwucielne.webp", caption = 'Gabriel Queen bodyslams Jakub, while Kalyana does the same to Gloria, which leaves [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md) in a state of disbelief.', source = "Ville Paananen" }
+709 = { path = "niby-bez-scian-a-jednak-duszno.webp", caption = 'Gloria unifies Kalyana with the ropes, which [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md) doesn't appear very fond of.', source = "Ville Paananen" }
+710 = { path = "jakub-zazdrosci-fryzury.webp", caption = '[Jakub](@/w/jakub.md) grabs Kalyana by the hair, ready to strike.', source = "Ville Paananen" }
+711 = { path = "glorie-ponioslo.webp", caption = 'Kalyana vs Gloria.', source = "Ville Paananen" }
 
 
 
 
-601 = { path = ".webp", caption = '.', source = "Ville Paananen" }
-701 = { path = ".webp", caption = '.', source = "Ville Paananen" }
 801 = { path = ".webp", caption = '.', source = "Ville Paananen" }

@@ -10,6 +10,7 @@ venue = ["2kola"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
+collapse_gallery = false
 [extra.gallery]
 +++
 
@@ -21,7 +22,7 @@ Hardcore Saturday was an event by [PpW Ewenement Wrestling](@/o/ppw.md) that too
 * In a [video][sf-assassins-fist-i-tak-byl-lepszy] published on 25.10.2026 [Filip Fux](@/w/filip-fux.md) was given a Street Fight against [Biesiad Strong](@/w/biesiad.md). The match was officially confirmed the next day.
 * On 28.10.2026 came the announcement of a Triple Threat Match: [Max Speed](@/w/max-speed.md) vs [Goblin](@/w/goblin.md) vs [Antoni Ocean](@/w/antoni-ocean.md).
 * On 30.10.2026 PpW announced that [Olgierd](@/w/olgierd.md) and [Mister Z](@/w/mister-z.md) will confront each other regarding what happened between them at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md).
-* A [video][product-placement-ciezkiego-sprzetu-budowlanego] released on 2.11.2026 showed [Gloria](@/w/gloria-g-szek.md) - disappointed with her loss at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), at the hands of [Kalyana](@/w/kalyana.md) - agreeing to a mutually-beneficial partnership with [Jakub](@/w/jakub.md). The next day this agreement coalesced into the announcement of a Mixed Tag Team Match: [Jakub](@/w/jakub.md) & [Gloria](@/w/gloria-g-szek.md) vs [Kalyana](@/w/kalyana.md) & [Gabriel Queen](@/w/gabriel-queen.md).
+* A [video][product-placement-ciezkiego-sprzetu-budowlanego] released on 2.11.2026 showed [Gloria](@/w/gloria-g-szek.md) - disappointed with her loss at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), at the hands of [Kalyana](@/w/kalyana.md) - agreeing to a mutually-beneficial partnership with [Jakub](@/w/jakub.md). The next day this agreement coalesced into the announcement of a Mixed Tag Team Match: Jakub & Gloria vs Kalyana & [Gabriel Queen](@/w/gabriel-queen.md).
 * On 5.11.2026 PpW announced ["Ladykiller" Boro](@/w/boro.md) vs [Isnorr](@/w/isnorr.md), as an extended punishment for Rodzina's actions against [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md) (see [Skok Na Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md) for details).
 
 ## Card
