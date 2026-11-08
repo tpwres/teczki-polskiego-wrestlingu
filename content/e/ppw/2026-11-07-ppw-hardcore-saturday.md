@@ -1,7 +1,7 @@
 +++
 title = "PpW Hardcore Saturday"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 aliases = ["/e/ppw/2026-11-07-ppw-2kola"]
 [taxonomies]
 chronology = ["ppw", "hardcore-friday"]
@@ -43,12 +43,12 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 - - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
   - 'Koalicja Węgierska: [Maverick](@/w/maverick.md) & [Sentinel](@/w/sentinel.md)'
   - s: Tag Team Match
-- - '[Kalyana](@/w/kalyana.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
-  - '[Jakub](@/w/jakub.md) & [Gloria](@/w/gloria-g-szek.md)'
-  - s: Mixed Tag Team Match
 - - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
   - '[Mister Z](@/w/mister-z.md)'
   - g: 'Post-Brutality confrontation, Olgierd quits PpW.'
+- - '[Kalyana](@/w/kalyana.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
+  - '[Jakub](@/w/jakub.md) & [Gloria](@/w/gloria-g-szek.md)'
+  - s: Mixed Tag Team Match
 - - '[Filip Fux](@/w/filip-fux.md)'
   - '[Biesiad Strong](@/w/biesiad.md)'
   - s: Street Fight
@@ -68,10 +68,12 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
   Olgierd then called the bluff and proceeded listing his upcoming bookings: _tomorrow with [FRPW](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), next week in Trójmiasto with [KPW](@/e/kpw/2026-11-13-kpw-arena-35.md), two weeks on, with [MZW](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)_, that he's waiting for [Showoff](@/w/piotr-malecki.md) to reveal the next [Legacy](@/o/low.md) date, and made a reference to [Prezes Okoński](@/w/lukasz-okonski.md) still being in his DMs. He then slagged PpW for being ran by a banana (slang for _spoiled rich kid_) and an idiot, then quit on his own.
 * Despite losing to Agatka, Monster High Suzie quickly recovered and attacked her post-match. This beatdown was however quickly interrupted by Julia Rave, who then aligned herself with Agatka. This was hinted by Agatka's [reel](https://www.instagram.com/reel/DfKpeYsKVm9/) posted a week before, where she bumps into Julia by chance, and the two compliment each other's choice of fashion.
 * Isnorr came out carrying not only his signature axe, but also the rope that Rodzina used to restrain the captured Kondzio until his escape. The rope was then used as a weapon throughout the match, including the finisher which was a Camel Clutch plus a Rope Chokehold.
+* After their match, Jakub attacked Gabriel Queen and put him out with his golden knuckles, then took the PpW Championship belt and posed with it, standing over the laid-out Queen. Commentary added that _what you see now in the ring, might be what you'll see by the time the [show in Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md) ends_.
+* For the main event, Biesiad made his usual entrance through the crowd, ladder in hand. But before he even had a chance to open his customary beer, Filip attacked him, also coming from the venue's door. The action then spilled outside, into a chilly November night. The action outside included Filip going through a table set against a tree. Back inside, Biesiad finally had time for his brew, only for Filip to start choking him with his trouser belt. Later, an intervention by Isnorr stopped Biesiad from a top-rope maneuver. Johnny Blade, present in the bar area, jumped in to save his Hardcors partner, and with Boro's help managed to oust the lumberjack. However, Rodzina then sent in Oskar Alexander, whom Biesiad dispatched with a Buckshot Lariat, only to get pinned with a rollup by Filip.
 
 ## References
 
-* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-live-26/events/ppw-hardcore-saturday)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-live-26/events/ppw-hardcore-saturday) (requires paid subscription)
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465058)
 * [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
