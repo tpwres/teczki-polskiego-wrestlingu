@@ -33,11 +33,11 @@
 706 = { path = "kalyana-sprala-glorie-i-teraz-rozwiesza-zeby-wyschla.webp", caption = 'Kalyana hits Gloria with a Clothesline.', source = "Ville Paananen" }
 707 = { path = "podajcie-ostroznie-a-dalej-sobie-juz-poradze.webp", caption = 'Gabriel Queen saves Kalyana from a Double Suplex by Jakub and Gloria.', source = "Ville Paananen" }
 708 = { path = "slamniecie-dwucielne.webp", caption = 'Gabriel Queen bodyslams Jakub, while Kalyana does the same to Gloria, which leaves [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md) in a state of disbelief.', source = "Ville Paananen" }
-709 = { path = "niby-bez-scian-a-jednak-duszno.webp", caption = 'Gloria unifies Kalyana with the ropes, which [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md) doesn't appear very fond of.', source = "Ville Paananen" }
+709 = { path = "niby-bez-scian-a-jednak-duszno.webp", caption = "Gloria unifies Kalyana with the ropes, which [Sędzia Karol Górski](@/w/sedzia-karol-gorski.md) doesn't appear very fond of.", source = "Ville Paananen" }
 710 = { path = "jakub-zazdrosci-fryzury.webp", caption = '[Jakub](@/w/jakub.md) grabs Kalyana by the hair, ready to strike.', source = "Ville Paananen" }
 711 = { path = "glorie-ponioslo.webp", caption = 'Kalyana vs Gloria.', source = "Ville Paananen" }
 
-
-
-
-801 = { path = ".webp", caption = '.', source = "Ville Paananen" }
+801 = { path = ".webp", caption = 'Biesiad enjoys a pre-fight beer.', source = "Ville Paananen" }
+802 = { path = ".webp", caption = 'Biesiad lifts [Filip Fux](@/w/filip-fux.md) for a throw.', source = "Ville Paananen" }
+803 = { path = ".webp", caption = 'Biesiad goes through a table.', source = "Ville Paananen" }
+804 = { path = ".webp", caption = '[Biesiad Strong](@/w/biesiad.md) hits a 6-1-9 on Filip Fux.', source = "Ville Paananen" }
