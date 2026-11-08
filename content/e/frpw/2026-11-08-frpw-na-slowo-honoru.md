@@ -77,7 +77,7 @@ has_video = false
 ### Highlights
 
 * A new faction PSY.CHO emerged, comprising of manager [Monster High Suzie](@/w/monster-high-suzie.md), [Tomczak](@/w/tomczak.md) and Stowarzysz, the latter now masked and wearing a straitjacket.
-* Gustav Gryffin, billed as one of FRPW's founders and chairmen, came out to reveal plans for next year, most importantly a tournament where the winner must face 3 opponents in a single evening. The exact ladder shall be established by qualifying matches to take place on future shows. Emil Völler, the wXw Academy Champion, however, got a pass into the tournament.
+* Gustav Gryffin, billed as one of FRPW's founders and chairmen, came out to reveal plans for next year, most importantly a tournament where the winner must face 3 opponents in a single evening, and will be crowned the inaugural FRPW Champion. The exact ladder shall be established by qualifying matches to take place on future shows. Emil Völler, the wXw Academy Champion, however, got a pass into the tournament.
   Immediately after this announcement, Kolektyw came out. Olgierd took the mic, and asserted that he's the other finalist of the HeelTurn Tournament, and the only one able to compete (the other being winner Leon Lato, currently injured). He then demanded not one, but three spots in the tournament: for himself, Gloria and [Jakub](@/w/jakub.md). Gustav finally agreed to grant them one spot, choice of person at their discretion, upon the condition that they win their upcoming match.
 
 ## References
