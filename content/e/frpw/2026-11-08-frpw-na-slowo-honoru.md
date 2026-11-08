@@ -45,7 +45,7 @@ has_video = false
   - '[Max Speed](@/w/max-speed.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
-  - g: 'Post-match intervention and beatdowns'
+  - g: 'Post-match intervention and beatdowns.'
 - - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Markus Paskal](@/w/markus-paskal.md)'
 - - '[Emil Völler](@/w/emil-voeller.md)(c)'
@@ -53,13 +53,13 @@ has_video = false
   - c: wXw Academy Championship
     s: Open Challenge
 - - '[Leon Lato](@/w/leon-lato.md)'
-  - g: "Leon tells the story of his injury"
+  - g: 'Leon tells the story of his injury.'
 - - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Oskar Haller](@/w/oskar-haller.md)'
   - r: Submission
 - - '[Chairman Gustav](@/w/gustav-gryffin.md)'
   - 'Kolektyw: [Olgierd](@/w/olgierd.md) & [Gloria](@/w/gloria-g-szek.md)'
-  - g: "Gustav announces a tournament, Kolektyw makes demands"
+  - g: 'Gustav announces a tournament, Kolektyw make demands.'
 - - 'Kolektyw: [Gloria](@/w/gloria-g-szek.md) & [Olgierd](@/w/olgierd.md)'
   - '[Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md)'
   - s: Mixed Tag Team Match
@@ -68,7 +68,7 @@ has_video = false
   - s: Word of Honour Match
 - - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
-  - g: 'Jacob demands a rematch in [Breslau](@/e/frpw/2026-12-06-frpw-zimny-swiat.md)'
+  - g: 'Jacob demands a rematch in [Breslau](@/e/frpw/2026-12-06-frpw-zimny-swiat.md).'
 - credits:
     Referees: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), Sędzia Alan (WSW), Sędzia Lora'
     Host, ring announcer, timekeeper: '[Istociarz](@/w/istociarz.md)'
@@ -76,9 +76,9 @@ has_video = false
 
 ### Highlights
 
-* A new faction PSY.CHO emerged, comprising of manager [Monster High Suzie](@/w/monster-high-suzie.md), [Tomczak](@/w/tomczak.md) and Stowarzysz, the latter now masked and wearing a straitjacket.
-* Gustav Gryffin, billed as one of FRPW's founders and chairmen, came out to reveal plans for next year, most importantly a tournament where the winner must face 3 opponents in a single evening. The exact ladder shall be established by qualifying matches to take place on future shows. Emil Völler, the wXw Academy Champion, however, got a pass into the tournament.
-  Immediately after this announcement, Kolektyw came out. Olgierd took the mic, and asserted that he's the other finalist of the HeelTurn Tournament, and the only one able to compete (the other being winner Leon Lato, currently injured). He then demanded not one, but three spots in the tournament: for himself, Gloria and [Jakub](@/w/jakub.md). Gustav finally agreed to grant them one spot, choice of person at their discretion, upon the condition that they win their upcoming match.
+* A new faction called PSY.CHO emerged, comprising of manager [Monster High Suzie](@/w/monster-high-suzie.md), [Tomczak](@/w/tomczak.md) and Stowarzysz, the latter now masked and wearing a straitjacket.
+* Gustav Gryffin, billed as one of FRPW's founders and chairmen, came out to reveal plans for the next year, most importantly a tournament where the winner must face three opponents in a single evening. The exact ladder shall be established by qualifying matches, to take place at future shows. However, Emil Völler - the wXw Academy Champion - got a pass into the tournament.
+* Immediately after this announcement, Kolektyw came out. Olgierd took the mic and asserted that he was the other finalist of the HeelTurn Invitational Tournament, and the only one able to compete (the other being the winner Leon Lato, currently injured). He then demanded not one, but three spots in the tournament: for himself, [Gloria](@/w/gloria-g-szek.md) and [Jakub](@/w/jakub.md). Gustav finally agreed to grant them one spot, the choice of person at their discretion, on the condition that they win their upcoming match.
 
 ## References
 
