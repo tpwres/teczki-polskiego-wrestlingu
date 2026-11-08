@@ -10,4 +10,4 @@ orgs = ['tfw']
 1 = { path = "torun-zs9.webp", caption = "Outside view of the school.", source = "sp9.torun.pl" }
 +++
 
-A school complex (now a primary school) in Toruń, it was where [Toruń Wrestling Federation](@/o/twf.md) held a few of their shows.
+A primary school (until 2017 a school complex) in Toruń, it was where [Toruń Wrestling Federation](@/o/twf.md) held a few of their shows.
