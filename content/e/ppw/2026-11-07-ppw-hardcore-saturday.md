@@ -9,7 +9,7 @@ venue = ["2kola"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -26,39 +26,50 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 
 ## Predicted card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Max Speed](@/w/max-speed.md) & [Goblin](@/w/goblin.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Emil Völler](@/w/emil-voeller.md)'
+  - s: Triple Threat Match
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - g: 'Max and Goblin disagree who won, agree to face each other in [Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md)'
+- - '[Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Monster High Suzie](@/w/monster-high-zuza.md)'
 - - '[Maverick](@/w/maverick.md) & [Sentinel](@/w/sentinel.md)'
   - '[Rodzina](@/tt/rodzina.md): [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md)'
   - s: Tag Team Match
     nc: upcoming
-- - '[Filip Fux](@/w/filip-fux.md)'
-  - '[Biesiad Strong](@/w/biesiad.md)'
-  - s: Street Fight
-    nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Goblin](@/w/goblin.md)'
-  - '[Antoni Ocean](@/w/antoni-ocean.md)'
-  - s: Triple Threat Match
-    nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)'
-  - '[Mister Z](@/w/mister-z.md)'
-  - g: 'Post-Brutality confrontation.'
-    nc: upcoming
 - - '[Kalyana](@/w/kalyana.md) & [Gabriel Queen](@/w/gabriel-queen.md)'
   - '[Jakub](@/w/jakub.md) & [Gloria](@/w/gloria-g-szek.md)'
   - s: Mixed Tag Team Match
-    nc: upcoming
-- - '["Ladykiller" Boro](@/w/boro.md)'
+- - '["Ladykiller" Boro](@/w/boro.md) w/ [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - nc: upcoming
+- - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - g: 'Post-Brutality confrontation, Olgierd quits PpW.'
+- - '[Filip Fux](@/w/filip-fux.md)'
+  - '[Biesiad Strong](@/w/biesiad.md)'
+  - s: Street Fight
+- credits:
+    Host, Ring Announcer: '["OG" Michael HT](@/w/michael-ht.md)'
+    Commentary: "[Istociarz](@/w/istociarz.md), [Gustav Gryffin](@/w/gustav-gryffin.md)"
 {% end %}
 
 ### Highlights
 
-* TBD
+* Opening the show was Reni Jusis' recent song [_Fajnie że byłeś_](@/o/ppw.md#reni-jusis).
+* Host Michael HT named the show "Hardcore Friday, Saturday edition". When closing the show, he comically insisted that [nothing is happening tomorrow](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), and urged the fans to stay at home and relax, demonstrating how to, by laying down in the middle of the ring.
+* Emil Völler inserted himself into the opening match unceremoniously once the three original participant were ready to start. In a brief promo he claimed he received a phone call from "Donald Tusk, fellow German" (Poland's prime minister) who told him to "beat this Polish motherfucker's ass".
+* The now-four-way match ended with Max and Goblin submitting Emil simultaneously - Max with an Ankle Lock, Goblin with his Kabacki Krztusiec.
+* In their segment, Mister Z acknowledged recent issues with Zmowa, and asserted he always has a backup plan. Once Olgierd arrived, Zet apologised for often treating him like a brainless brute to do the dirty deeds.
+  Trying to get Olgierd to re-join Zmowa, he offered a title match for the [PpW Championship](@/c/ppw-championship.md). Olgierd declined, stating that it's not on top of his mind. Faced with this, Zet gave him an ultimatum: either Olgierd accepts, or he's fired from PpW forever.
+  Olgierd then called the bluff and proceeded listing his upcoming bookings: _tomorrow with [FRPW](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), next week in Trójmiasto with [KPW](@/e/kpw/2026-11-13-kpw-arena-35.md), two weeks on, with [MZW](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)_, that he's waiting for [Showoff](@/w/piotr-malecki.md) to reveal the next [Legacy](@/o/low.md) date, and made a reference to [Prezes Okoński](@/w/lukasz-okonski.md) still being in his DMs. He then slagged PpW for being ran by a banana (slang for _spoiled rich kid_) and an idiot, then quit on his own.
 
 ## References
 
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-live-26/events/ppw-hardcore-saturday)
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465058)
 * [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
