@@ -37,7 +37,7 @@
 710 = { path = "jakub-zazdrosci-fryzury.webp", caption = '[Jakub](@/w/jakub.md) grabs Kalyana by the hair, ready to strike.', source = "Ville Paananen" }
 711 = { path = "glorie-ponioslo.webp", caption = 'Kalyana vs Gloria.', source = "Ville Paananen" }
 
-801 = { path = ".webp", caption = 'Biesiad enjoys a pre-fight beer.', source = "Ville Paananen" }
-802 = { path = ".webp", caption = 'Biesiad lifts [Filip Fux](@/w/filip-fux.md) for a throw.', source = "Ville Paananen" }
-803 = { path = ".webp", caption = 'Biesiad goes through a table.', source = "Ville Paananen" }
-804 = { path = ".webp", caption = '[Biesiad Strong](@/w/biesiad.md) hits a 6-1-9 on Filip Fux.', source = "Ville Paananen" }
+801 = { path = "ze-tez-sie-nigdy-jeszcze-nie-zakrztusil.webp", caption = 'Biesiad enjoys a pre-fight beer.', source = "Ville Paananen" }
+802 = { path = "podniosly-moment.webp", caption = 'Biesiad lifts [Filip Fux](@/w/filip-fux.md) for a throw.', source = "Ville Paananen" }
+803 = { path = "no-i-kolejna-plyta-wiorowa-zmarnowana.webp", caption = 'Biesiad goes through a table.', source = "Ville Paananen" }
+804 = { path = "czystadziewietnascie.webp", caption = '[Biesiad Strong](@/w/biesiad.md) hits a 6-1-9 on Filip Fux.', source = "Ville Paananen" }
