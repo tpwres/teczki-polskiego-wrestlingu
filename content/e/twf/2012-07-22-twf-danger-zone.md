@@ -29,4 +29,4 @@ TWF: Danger Zone was a show produced by [Toruń Wrestling Federation](@/o/twf.md
 
 ## References
 
-* [Atttitude forum post](https://forum.wrestling.pl/topic/30584-twf-danger-zone-150712)
+* [Attitude forum post](https://forum.wrestling.pl/topic/30584-twf-danger-zone-150712)
