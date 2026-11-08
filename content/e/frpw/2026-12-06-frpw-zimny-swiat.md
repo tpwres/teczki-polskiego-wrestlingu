@@ -26,6 +26,9 @@ has_video = false
   - '[Biuro Prasowe](@/tt/biuro-prasowe.md): [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
   - s: Tag Team Match
     nc: upcoming
+- - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
+  - '[Jacob Crane](@/w/jacob-crane.md)'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
