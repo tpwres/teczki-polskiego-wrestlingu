@@ -56,7 +56,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - '[Szymon Kurczab](@/w/szymon-dragan.md)'
   - '[adeptka Gaba](@/w/rozalia-nyx.md)'
   - '[Emil Völler](@/w/emil-voeller.md)'
-  - '[adeptka Monster High Zuza](@/w/monster-high-zuza.md)'
+  - '[adeptka Monster High Zuza](@/w/monster-high-suzie.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - 'adept Młody'
   - 'adeptka Julka'

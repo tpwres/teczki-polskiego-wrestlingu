@@ -153,7 +153,7 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ org_badge(orgs=['ppw']) }} (2025-present)<br>
     (mixed by [Referee Kornel](@/w/sedzia-kornel.md))<br>
   - "HUNDRED JOINTS" by Pharmacist & Cloudymane
-    {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
+    {{ org_badge(orgs=['ppw']) }} (2025-2026, as part of [Zmowa](@/tt/zmowa.md)) <br>
     {{ music(yt='7cXmA6CiW-g')}}
     {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
     {{ music(apple='1606979069?i=1606979070')}}
@@ -162,6 +162,11 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(yt='Z74dj3D-pnU')}}
     {{ music(spot='2IwJ2kGjBFkF9jKvA80yuK')}}
     {{ music(apple='1816721490?i=1816721635')}}
+  - Mix: "Slasher" by Słoń/Mixer / "Sen o Warszawie" by Czesław Niemen (2026-present) <br>
+    {{ org_badge(org='ppw') }}
+    {{ music(yt='_c5r3CytgYU')}}
+    {{ music(spot='5EJ924cwMXVXeFV7ryXsWf')}}
+    {{ music(apple='1858893007?i=1858893388')}}
 
 ## Championships and accomplishments
 

@@ -56,7 +56,7 @@ Ewenement Dojo / Warszawska Szkoła Wrestlingu:
 * adeptka Maria
 * adept Mikołaj "SKS"
 * adept Młody
-* [adeptka Monster High Zuza](@/w/monster-high-zuza.md)
+* [Monster High Suzie](@/w/monster-high-suzie.md)
 * [Oskar Alexander](@/w/oskar-alexander.md)
 * adept Sawo
 * [Sędzia Kornel](@/w/sedzia-kornel.md)
