@@ -36,7 +36,7 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
   - '[Goblin](@/w/goblin.md)'
   - g: 'Max and Goblin disagree who won, agree to face each other in [Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md)'
 - - '[Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Monster High Suzie](@/w/monster-high-zuza.md)'
+  - '[Monster High Suzie](@/w/monster-high-suzie.md)'
 - - '[Isnorr](@/w/isnorr.md)'
   - '["Ladykiller" Boro](@/w/boro.md) w/ [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md)'
   - r: Submission
@@ -74,8 +74,8 @@ Hardcore Saturday is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md) 
 
 ## References
 
-* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-live-26/events/ppw-hardcore-saturday) (requires paid subscription)
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465058)
+* [Full show on PpW VOD](https://ppw-ewenementpl.vhx.tv/ppw-live-26/events/ppw-hardcore-saturday) (requires paid subscription)
 * [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [sf-assassins-fist-i-tak-byl-lepszy]: https://www.facebook.com/reel/1726318585133096

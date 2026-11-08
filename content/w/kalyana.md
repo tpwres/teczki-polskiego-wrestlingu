@@ -28,6 +28,8 @@ Kalyana began training with Ewenement Dojo/WSW at some point in 2025 or 2026. Sh
 ## In wrestling
 
 * Entrance music:
-  - "Come and get it" by Selena Gomez
+  - "Come & Get It" by Selena Gomez
     {{ org_badge(org='ppw') }} (2026) <br>
+    {{ music(yt='sa7Oz_25DNk')}}
     {{ music(spot='6LoQHIo74tOzQ8EsLEkhgF')}}
+    {{ music(apple='1444865503?i=1444865505')}}

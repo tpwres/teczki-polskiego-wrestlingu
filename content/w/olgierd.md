@@ -162,9 +162,11 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(yt='Z74dj3D-pnU')}}
     {{ music(spot='2IwJ2kGjBFkF9jKvA80yuK')}}
     {{ music(apple='1816721490?i=1816721635')}}
-  - Mix: "Slasher" by Słoń/Mixer / Sen o Warszawie by Czesław Niemen <br>
+  - Mix: "Slasher" by Słoń/Mixer / "Sen o Warszawie" by Czesław Niemen <br>
     {{ org_badge(org='ppw') }}
+    {{ music(yt='_c5r3CytgYU')}}
     {{ music(spot='5EJ924cwMXVXeFV7ryXsWf')}}
+    {{ music(apple='1858893007?i=1858893388')}}
 
 ## Championships and accomplishments
 
