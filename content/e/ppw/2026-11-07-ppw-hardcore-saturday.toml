@@ -13,13 +13,16 @@
 304 = { path = "hopsasa.webp", caption = 'Agentka Agatka on the offensive against Monster High Susie.', source = "Ville Paananen" }
 305 = { path = "okej-wlosy-ciagle-sa.webp", caption = '[Agentka Agatka](@/w/agentka-agatka.md) wins so much, [Sędzia Seweryn](@/w/sedzia-seweryn.md) appears hesitant to approach.', source = "Ville Paananen" }
 
+401 = { path = "papiez-polskiego-szlafroka.webp", caption = '[Boro](@/w/boro.md).', source = "Ville Paananen" }
+402 = { path = "boro-sie-obnaza-w-przytomnosci-kolektywu-spolecznego.webp", caption = '[Boro](@/w/boro.md) makes his entrance, announced by [Michael HT](@/w/michael-ht.md).', source = "Ville Paananen" }
+403 = { path = "tall-man-tall-picture.webp", caption = '[Isnorr](@/w/isnorr.md) with an axe and a rope.', source = "Ville Paananen" }
+404 = { path = "you-and-your-stupid-rope.webp", caption = '[Isnorr](@/w/isnorr.md) strangles [Boro](@/w/boro.md) with the rope.', source = "Ville Paananen" }
+405 = { path = "dzierzyj-linu.webp", caption = '[Isnorr](@/w/isnorr.md) and Boro engage in a tug-of-war.', source = "Ville Paananen" }
 
 
 
 
 
-
-401 = { path = ".webp", caption = '.', source = "Ville Paananen" }
 501 = { path = ".webp", caption = '.', source = "Ville Paananen" }
 601 = { path = ".webp", caption = '.', source = "Ville Paananen" }
 701 = { path = ".webp", caption = '.', source = "Ville Paananen" }
