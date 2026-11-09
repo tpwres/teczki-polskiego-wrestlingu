@@ -7,6 +7,8 @@ year_list_start = 2019
 [extra.geo]
 coordinates = '52.221859,20.969030'
 orgs = ['ppw']
+[extra.gallery]
+1 = { path = "2kola.webp", caption = "2Koła in November 2026.", source = "Ville Paananen" }
 +++
 
 2KOŁA (_2WHEELS_) is a motorcycle pub and event venue in Warsaw. It's the first venue to host events by [PpW Ewenement](@/o/ppw.md).
