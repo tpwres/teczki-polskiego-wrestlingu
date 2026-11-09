@@ -1,5 +1,5 @@
 +++
-title = "FRPW: Wrestling w Twoim Mieście - Lublin 2"
+title = "FRPW: Wrestling w Twoim Mieście - Lublin&nbsp;2"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
