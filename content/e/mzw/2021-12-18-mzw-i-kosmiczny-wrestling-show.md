@@ -17,7 +17,7 @@ It is known that performers to appear at the show included [Deti Black](@/w/diet
 
 ## Card
 
-{% card(incomplete=true) %)}
+{% card(incomplete=true) %}
 - - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - '???'
   - nc: '?'
