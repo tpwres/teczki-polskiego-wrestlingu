@@ -20,13 +20,13 @@ It is known that performers to appear at the show included [Deti Black](@/w/diet
 {% card(incomplete=true) %)}
 - - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
   - '???'
-  - nc: ?
+  - nc: '?'
 - - '[Chris X](@/w/chris-x.md)'
   - '???'
-  - nc: ?
+  - nc: '?'
 - - '[Shadow](@/w/shadow.md)'
   - '???'
-  - nc: ?
+  - nc: '?'
 - credits:
     Referee: '???'
 {% end %}
