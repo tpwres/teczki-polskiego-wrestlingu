@@ -30,9 +30,6 @@ has_video = false
     nc: upcoming
 - - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
-  - nc: upcoming
-- - '[Jacob Crane](@/w/jacob-crane.md)'
-  - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
   - s: No Ropes Match
     nc: upcoming
 {% end %}
