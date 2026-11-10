@@ -15,9 +15,23 @@ MZW I Kosmiczny Wrestling Show (_1st Cosmic Wrestling Show_) was a non-canon eve
 
 It is known that performers to appear at the show included [Deti Black](@/w/dieter-schwartz.md), [Chris X](@/w/chris-x.md), Nick Schreier, Rogers, Lio Zayde, [Zeritus](@/w/zeritus.md), [Matt Buckna](@/w/matt-buckna.md), [Shadow](@/w/shadow.md) and Jędruś Bułecka. The show was streamed live on the Foundation's Facebook page.
 
-{{ skip_card() }}
+## Card
 
-No card is available, as the show was removed from Facebook due to poor audio/video quality, and no other publicly available sources are known to exist.
+{% card(incomplete=true) %}
+- - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
+  - '???'
+  - nc: '?'
+- - '[Chris X](@/w/chris-x.md)'
+  - '???'
+  - nc: '?'
+- - '[Shadow](@/w/shadow.md)'
+  - '???'
+  - nc: '?'
+- credits:
+    Referee: '???'
+{% end %}
+
+No official card is available, as the show was removed from Facebook due to poor audio/video quality, and no other publicly available sources are known to exist. The above incomplete list is based on surviving photos.
 
 ## References
 

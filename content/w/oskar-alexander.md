@@ -38,7 +38,7 @@ Oskar made his debut as one of the contenders in Johnny Blade's Insane Wheel of 
 
 #### Becoming Oskar Alexander
 
-After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) and [Aron Wake](@/w/aron-wake.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a post-match promo he declared that he earned the right to decide what his ringname would be. Since then he's been billed as "Oskar Alexander". At the same show, in a backstage interview, he became affiliated with an female, who later introduced herself as ["Agentka Agatka"](@/w/agentka-agatka.md), who became his manager. They called themselves Agencja (_The Agency_), with Agatka often working as Oskar's manager. 
+After his victory over [Marcelito](@/w/marcelito.md), [Sambor](@/w/sambor.md) and [Aron Wake](@/w/aron-wake.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md), in a post-match promo he declared that he earned the right to decide what his ringname would be. Since then he's been billed as "Oskar Alexander". At the same show, in a backstage interview, he became affiliated with a woman that later introduced herself as ["Agentka Agatka"](@/w/agentka-agatka.md), who became his manager. They called themselves Agencja (_The Agency_), with Agatka often working as Oskar's manager. 
 
 Besides his regular appearances as Oskar Alexander he also performed as "Oskar Strong" - [Biesiad Strong's](@/w/biesiad.md) parody - at the non-canon [SplatFilmFest](@/e/ppw/2024-10-30-ppw_splat-chcemy-krwi.md) show.
 
