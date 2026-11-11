@@ -9,8 +9,13 @@
 0009 = { path = "markoni-pasan.webp", caption = "Image announcing [Markus Paskal](@/w/markus-paskal.md) vs [Antoni Ocean](@/w/antoni-ocean.md).", source = "Official FRPW Facebook" }
 0010 = { path = "czasy-sie-zmieniaja-ale-robson-zawsze-sie-opiera-o-ring.webp", caption = "The ring before the show.", source = "Ville Paananen" }
 
-0100 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-0200 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0101 = { path = "prosze-panstwa-ten-pan-bedzie-sie-bil.webp", caption = "[Istociarz](@/w/istociarz.md) introduces adept Sawo.", source = "Ville Paananen" }
+0102 = { path = "galeria-osobliwosci.webp", caption = "Before the match. Left to right: [Istociarz](@/w/istociarz.md), Sędzia Lora, adept Sawo, [Tomczak](@/w/tomczak.md), Stowarzysz, [Monster High Suzie](@/w/monster-high-suzie.md).", source = "Ville Paananen" }
+0103 = { path = "trzask-lup-bec.webp", caption = "Tomczak slams adept Sawo. To the left stands Sędzia Lora.", source = "Ville Paananen" }
+
+0201 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+
+
 0300 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 0400 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 0500 = { path = ".webp", caption = ".", source = "Ville Paananen" }
