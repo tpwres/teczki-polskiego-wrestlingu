@@ -35,10 +35,20 @@
 0602 = { path = "seweryn-sedzia-dziwi-sie-supleksu.webp", caption = "Emil Völler suplexes Goblin. In the back stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Ville Paananen" }
 0603 = { path = "i-z-lokcia-go.webp", caption = "Goblin elbowdrops onto Emil Völler.", source = "Ville Paananen" }
 
+0801 = { path = "o-wyzszosci -oskara-nad-oskarem.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) hits [Oskar Alexander](@/w/oskar-alexander.md) with a Flying Clothesline.", source = "Ville Paananen" }
+0802 = { path = "oskar-oskarowi-oskarem.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) has [Oskar Haller](@/w/oskar-haller.md) in a Rivera Cloverleaf.", source = "Ville Paananen" }
 
-0701 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-0801 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 0901 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 1001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 1101 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 1201 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+
+
+
+
+
+
+
+
+
+
