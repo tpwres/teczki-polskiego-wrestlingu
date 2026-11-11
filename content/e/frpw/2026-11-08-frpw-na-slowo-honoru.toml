@@ -49,16 +49,6 @@
 1007 = { path = "ale-pobojowisko.webp", caption = "Kalyana kicks [Gloria](@/w/gloria-g-szek.md).", source = "Ville Paananen" }
 1008 = { path = "ehhh-no-dobrze-juz-dobrze-wygraliscie.webp", caption = "[Gloria](@/w/gloria-g-szek.md) and [Olgierd](@/w/olgierd.md) declared victorious by the apparently reluctant Sędzia Alan (WSW).", source = "Aleksandra Kęcka" }
 
-
-1101 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-1201 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-
-
-
-
-
-
-
-
-
-
+1101 = { path = "ale-tak-wysoko-z-miejsca-podskoczyc-to-trzeba-miec-niezle-nogi.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) dropkicks [Dieter Schwarz](@/w/dieter-schwartz.md.md).", source = "Ville Paananen" }
+1102 = { path = "a-potem-sie-bedzie-tlumaczyl-ze-pomylil-go-z-futbolowka.webp", caption = "Jacob Crane about to kick Dieter Schwartz.", source = "Ville Paananen" }
+1103 = { path = "czy-jak-pinuje-opierajac-sie-tak-na-glowie-to-jest-pinheadem.webp", caption = "Jacob Crane pins Dieter Schwartz.", source = "Ville Paananen" }
