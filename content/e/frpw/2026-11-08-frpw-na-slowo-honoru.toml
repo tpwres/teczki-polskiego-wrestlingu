@@ -1,6 +1,6 @@
 0001 = { path = "na-slowo-honoru-plakat.webp", caption = "Official poster featuring [Oskar Alexander](@/w/oskar-alexander.md) and Leon Lato. Shown at the top are, left to right: [Goblin](@/w/goblin.md), [Max Speed](@/w/max-speed.md), [Agentka Agatka](@/w/agentka-agatka.md), [Bartosz Plata](@/w/plata.md), [Kalyana](@/w/kalyana.md) and [Jacob Crane](@/w/jacob-crane.md).", source = "Official FRPW Facebook" }
 0002 = { path = "mecz-o-tasme-klejaca.webp", caption = "Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).", source = "Official FRPW Facebook" }
-0003 = { path = "panie-bija-panow.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md) vs [Olgierd](@/w/olgierd.md) & [Gloria G Szek](@/w/gloria-g-szek.md).", source = "Official FRPW Facebook" }
+0003 = { path = "panie-bija-panow.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md) vs [Olgierd](@/w/olgierd.md) & [Gloria](@/w/gloria-g-szek.md).", source = "Official FRPW Facebook" }
 0004 = { path = "you-shall-not-pas.webp", caption = "Image announcing [Goblin](@/w/goblin.md) vs [Emil Völler](@/w/emil-voeller.md).", source = "Official FRPW Facebook" }
 0005 = { path = "asara-vs-filip-fux.webp", caption = "Image announcing [Asara](@/w/asara.md) vs [Filip Fux](@/w/filip-fux.md).", source = "Official FRPW Facebook" }
 0006 = { path = "psy-cho.webp", caption = "Image announcing ??? & [Tomczak](@/w/tomczak.md).", source = "Official FRPW Facebook" }
@@ -40,7 +40,16 @@
 
 0901 = { path = "wyglada-troche-jak-david-dastmalchian.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Ville Paananen" }
 
-1001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+1001 = { path = "kalyana-bije-glorie.webp", caption = "Kalyana knocks down Gloria with a Clothesline.", source = "Ville Paananen" }
+1002 = { path = "kalyana-kopie-glorie.webp", caption = "Kalyana dropkicks Gloria.", source = "Ville Paananen" }
+1003 = { path = "kalyanie-bedzie-z-ringiem-do-twarzy.webp", caption = "Gloria faceplants Kalyana.", source = "Ville Paananen" }
+1004 = { path = "a-to-nie-fair-jest.webp", caption = "[Olgierd](@/w/olgierd.md) holds Kalyana, giving Gloria an opening for a punch.", source = "Ville Paananen" }
+1005 = { path = "maksiu-z-odsiecza.webp", caption = "Max Speed attacks Olgierd.", source = "Ville Paananen" }
+1006 = { path = "chyba-mu-sie-sznurowka-rozwiazala.webp", caption = "[Olgierd](@/w/olgierd.md) picks up Kalyana for a Body Slam.", source = "Ville Paananen" }
+1007 = { path = "ale-pobojowisko.webp", caption = "Kalyana kicks [Gloria](@/w/gloria-g-szek.md).", source = "Ville Paananen" }
+1008 = { path = "ehhh-no-dobrze-juz-dobrze-wygraliscie.webp", caption = "[Gloria](@/w/gloria-g-szek.md) and [Olgierd](@/w/olgierd.md) declared victorious by the apparently reluctant Sędzia Alan (WSW).", source = "Aleksandra Kęcka" }
+
+
 1101 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 1201 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 
