@@ -38,7 +38,8 @@
 0801 = { path = "o-wyzszosci -oskara-nad-oskarem.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) hits [Oskar Alexander](@/w/oskar-alexander.md) with a Flying Clothesline.", source = "Ville Paananen" }
 0802 = { path = "oskar-oskarowi-oskarem.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) has [Oskar Haller](@/w/oskar-haller.md) in a Rivera Cloverleaf.", source = "Ville Paananen" }
 
-0901 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0901 = { path = "wyglada-troche-jak-david-dastmalchian.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Ville Paananen" }
+
 1001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 1101 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 1201 = { path = ".webp", caption = ".", source = "Ville Paananen" }
