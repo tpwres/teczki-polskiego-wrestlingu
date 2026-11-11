@@ -40,7 +40,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465061)
-* [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
+* [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [kondzia-podarli]: https://www.facebook.com/reel/1598933008914969
 [jk-mutant]: https://www.facebook.com/reel/3281177715386075

@@ -26,4 +26,5 @@ Najlepsza Gala W Mieście 3 (_The Best Show in Town 3_) is an upcoming event by 
 
 ## References
 
-[Facebook post announcing the event]: https://www.facebook.com/OficjalnePPW/posts/pfbid02Firp239wHuyex8HVmzKdqAhwTuHTMMjCNKoMVV8Tv8zxHgkfNjX8TCVRNBTjBHT6l
+* [Cagematch event page](https://www.cagematch.net/?id=1&nr=467191)
+* [Facebook post announcing the event]: https://www.facebook.com/OficjalnePPW/posts/pfbid02Firp239wHuyex8HVmzKdqAhwTuHTMMjCNKoMVV8Tv8zxHgkfNjX8TCVRNBTjBHT6l
