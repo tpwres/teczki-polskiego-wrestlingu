@@ -26,7 +26,11 @@
 0401 = { path = "stowarzysz-rzuca-borem.webp", caption = "Post-match beatdown. Stowarzysz throws Boro so hard….", source = "Ville Paananen" }
 0402 = { path = "maska-poleciala-stowarzysz-zostal.webp", caption = "…that he loses his mask.", source = "Ville Paananen" }
 
-0501 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0501 = { path = "antoni-spokojny.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md).", source = "Ville Paananen" }
+0502 = { path = "daj-na-zgode.webp", caption = "Markus Paskal works on Antoni Ocean's left hand.", source = "Ville Paananen" }
+0503 = { path = "antoni-wzburzony.webp", caption = "Antoni Ocean jumps at Markus Paskal.", source = "Ville Paananen" }
+0504 = { path = "antoni-frunacy.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md) jumps at Markus Paskal some more.", source = "Ville Paananen" }
+
 0601 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 0701 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 0801 = { path = ".webp", caption = ".", source = "Ville Paananen" }
