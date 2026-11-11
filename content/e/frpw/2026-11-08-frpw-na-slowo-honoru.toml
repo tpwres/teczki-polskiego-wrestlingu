@@ -13,16 +13,19 @@
 0102 = { path = "galeria-osobliwosci.webp", caption = "Before the match. Left to right: [Istociarz](@/w/istociarz.md), Sędzia Lora, adept Sawo, [Tomczak](@/w/tomczak.md), Stowarzysz, [Monster High Suzie](@/w/monster-high-suzie.md).", source = "Ville Paananen" }
 0103 = { path = "trzask-lup-bec.webp", caption = "Tomczak slams adept Sawo. To the left stands Sędzia Lora.", source = "Ville Paananen" }
 
-0201 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0201 = { path = "asara.webp", caption = "[Asara](@/w/asara.md).", source = "Ville Paananen" }
+0202 = { path = "filip.webp", caption = "[Filip Fux](@/w/filip-fux.md).", source = "Ville Paananen" }
+0203 = { path = "zaraz-tego-pana-zaboli.webp", caption = "[Asara](@/w/asara.md) dropkicks Filip Fux into the corner. In the background stands Sędzia Alan (WSW).", source = "Ville Paananen" }
+0204 = { path = "ten-pan-nie-pozostaje-dluzny.webp", caption = "Filip Fux slams Asara, as Sędzia Alan (WSW) oversees the proceedings.", source = "Ville Paananen" }
 
+0301 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 
-0300 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-0400 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-0500 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-0600 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-0700 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-0800 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-0900 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-1000 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-1100 = { path = ".webp", caption = ".", source = "Ville Paananen" }
-1200 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0401 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0501 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0601 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0701 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0801 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0901 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+1001 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+1101 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+1201 = { path = ".webp", caption = ".", source = "Ville Paananen" }
