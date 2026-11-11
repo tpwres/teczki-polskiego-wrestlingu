@@ -23,7 +23,8 @@
 0303 = { path = "o-patrzcie-to-kolega-moj.webp", caption = "[Tony Sheen](@/w/riverman.md) points at [Bartosz Plata](@/w/plata.md), who stands next to Quentin Carter, who's down on the mat.", source = "Ville Paananen" }
 0304 = { path = "do-gory-nogami-wiec-chyba-partosz-blata.webp", caption = "[Boro](@/w/boro.md) slams Bartosz Plata.", source = "Ville Paananen" }
 
-0401 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0401 = { path = "stowarzysz-rzuca-borem.webp", caption = "Post-match beatdown. Stowarzysz throws Boro so hard….", source = "Ville Paananen" }
+0402 = { path = "maska-poleciala-stowarzysz-zostal.webp", caption = "…that he loses his mask.", source = "Ville Paananen" }
 
 0501 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 0601 = { path = ".webp", caption = ".", source = "Ville Paananen" }
