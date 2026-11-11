@@ -30,9 +30,10 @@ has_video = false
 ## Card
 
 {% card() %}
-- - '[Tomczak](@/w/tomczak.md)'
+- - '[Tomczak](@/w/tomczak.md) w/ Stowarzysz, [Monster High Suzie](@/w/monster-high-suzie.md)'
   - adept Sawo
   - s: Sawo's Open Challenge
+    n: Pre-show
 - - '[Filip Fux](@/w/filip-fux.md)'
   - '[Asara](@/w/asara.md)'
 - - '[Biuro Prasowe](@/tt/biuro-prasowe.md): [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
