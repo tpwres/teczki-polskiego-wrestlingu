@@ -31,7 +31,11 @@
 0503 = { path = "antoni-wzburzony.webp", caption = "Antoni Ocean jumps at Markus Paskal.", source = "Ville Paananen" }
 0504 = { path = "antoni-frunacy.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md) jumps at Markus Paskal some more.", source = "Ville Paananen" }
 
-0601 = { path = ".webp", caption = ".", source = "Ville Paananen" }
+0601 = { path = "mam-nadzieje-ze-chociaz-czyste-byly.webp", caption = "[Goblin](@/w/goblin.md) enters holding in his teeth what appears to be ladies' undergarments.", source = "Ville Paananen" }
+0602 = { path = "seweryn-sedzia-dziwi-sie-supleksu.webp", caption = "Emil Völler suplexes Goblin. In the back stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Ville Paananen" }
+0603 = { path = "i-z-lokcia-go.webp", caption = "Goblin elbowdrops onto Emil Völler.", source = "Ville Paananen" }
+
+
 0701 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 0801 = { path = ".webp", caption = ".", source = "Ville Paananen" }
 0901 = { path = ".webp", caption = ".", source = "Ville Paananen" }
