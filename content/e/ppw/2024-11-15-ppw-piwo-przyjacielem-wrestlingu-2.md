@@ -135,4 +135,4 @@ The only exceptions were Isnorr's title defense against Prince Striker, and Aron
 
 * [Official site](https://targipiwne.pl/)
 * [Tickets](https://sklep.targowo.com/targi-piwne/), where pro wrestling is mentioned
-* [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)
+* [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02enHaiiLSDJbPT47DiuCoiEMuwk4TCxGqtfHsGLC7T46xaE4d9rg6ssipBKLivMWnl)
