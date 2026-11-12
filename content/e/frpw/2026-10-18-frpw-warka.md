@@ -38,7 +38,7 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
 - - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Filip Fux](@/w/filip-fux.md)'
   - '[Goblin](@/w/goblin.md) & [Antoni Ocean](@/w/antoni-ocean.md)'
 - - '[Jacob Crane](@/w/jacob-crane.md)'
-  - 'adept Mikołaj "SKS"'
+  - '[adept Mikołaj "SKS"](@/w/mikolaj-sks.md)'
   - g: Training session for kids.
 - - '[Shigehiro Irie](@/w/shigehiro-irie.md) & Akane Fujita'
   - '[Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md)'

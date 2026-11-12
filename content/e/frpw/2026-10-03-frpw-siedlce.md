@@ -62,7 +62,7 @@ After two rookie showcases, in [May](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) 
   - '[Tomczak](@/w/tomczak.md)'
   - s: HeelTurn Invitational Tournament, Round 1
 - - '[Max Speed](@/w/max-speed.md)'
-  - 'adept Mikołaj "SKS"'
+  - '[adept Mikołaj "SKS"](@/w/mikolaj-sks.md)'
   - g: Training session for kids.
 - - '[Laurance Roman](@/w/laurance-roman.md) & [Stowarzysz](@/w/stowarzysz.md)'
   - '[Vic Golden](@/w/vic-golden.md) & [Markus Paskal](@/w/markus-paskal.md)'
