@@ -8,7 +8,8 @@ venue = ["karuzela"]
 [extra]
 city = "Warszawa"
 toclevel = 2
-has_video = false
+has_video = true
+collapse_gallery = false
 [extra.gallery]
 manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 +++
@@ -53,11 +54,17 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
   - '[Rider](@/w/asmund.md) w/ Dirtbag & [Pan Pawłowski](@/w/pan-pawlowski.md)'
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
     s: 'Ten Man Gauntlet Match'
-
-- - '[Don Roid](@/w/don-roid.md)'
-  - '[Joe Legend](@/w/joe-legend.md)'
+- - '[Joe Legend](@/w/joe-legend.md)'
+  - '[Don Roid](@/w/don-roid.md)'
   - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
     s: 'Ten Man Gauntlet Match'
+    r: Submission
+
+- - '[Joe Legend](@/w/joe-legend.md)'
+  - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
+  - c: '[DDW International Championship](@/c/ddw-international-championship.md)'
+    s: 'Ten Man Gauntlet Match'
+    nc: 'W trakcie oglądania :P'
 
 
 - - '[Jędruś Bułecka](@/w/jedrus-bulecka.md)'
@@ -102,12 +109,13 @@ manifest = "@/e/ddw/2010-05-08-ddw-all-or-nothing-gallery.toml"
 * At one point Rider's trousers ripped at the buttocks, prompting the crowd to chant "Zaszyj se spodnie!" (_Sew up your trousers!_) and "Nic tam nie ma!" (_There's nothing there!_).
 * Rider tried attacking Roid while he was harassed by Pawłowski but Roid ducked out of the way at the last moment, causing Rider's fist to hit Pawłowski instead.
 * 
-* 151296
+* 177058
 * 
 * It was the last DDW show to be held in [Karuzela club](@/v/karuzela.md).
 * The event was later released as a two-disc DVD set, in very limited numbers. In addition to the show, the set also contained bonus materials (mostly promos). Fans could purchase it for 35&nbsp;PLN by e-mailing [Don Roid](@/w/don-roid.md).
-* The audio from the show appears to be incorrectly recorded, or perhaps poorly mastered for DVD, as it is on the left stereo channel only.
+* The audio from the show appears to be incorrectly recorded, or perhaps poorly mastered for DVD, as it is on the left stereo channel only. Additionally, the poor sound quality made it difficult to make out the promos.
 * The video appears to have been recorded in both 4:3 and 16:9 aspect ratios, depending on the camera, but the DVD was mastered entirely in 4:3. This results in some of the shots to appear horizontally squeezed.
+* Most of the show was recorded with a single static camera, with only occasional cuts to hand-held shots.
 
 ## References
 
