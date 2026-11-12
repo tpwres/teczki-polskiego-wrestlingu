@@ -33,7 +33,7 @@ The third show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) se
   - '[Bartosz Plata](@/w/plata.md)'
 - - 'Kolektyw: [Jakub](@/w/jakub.md) & [Gloria](@/w/gloria-g-szek.md)'
   - '[Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-- - 'Stowarzysz w/ [adeptka Monster High Zuza](@/w/monster-high-suzie.md)'
+- - '[Stowarzysz](@/w/stowarzysz.md) w/ [adeptka Monster High Zuza](@/w/monster-high-suzie.md)'
   - 'Jon Parker'
 - - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Filip Fux](@/w/filip-fux.md)'
   - '[Goblin](@/w/goblin.md) & [Antoni Ocean](@/w/antoni-ocean.md)'

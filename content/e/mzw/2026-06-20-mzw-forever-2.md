@@ -33,7 +33,7 @@ MZW Forever 2 was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up
 - - '[Boro](@/w/boro.md)'
   - '[Sambor](@/w/sambor.md)'
   - 'adept Adrian'
-  - 'adept Maciej'
+  - '[adept Maciej](@/w/stowarzysz.md)'
   - 'adept Marek'
   - 'adept Stefan'
   - s: Battle Royal Match

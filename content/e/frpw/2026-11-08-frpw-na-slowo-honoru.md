@@ -30,8 +30,8 @@ has_video = false
 ## Card
 
 {% card() %}
-- - '[Tomczak](@/w/tomczak.md) w/ Stowarzysz, [Monster High Suzie](@/w/monster-high-suzie.md)'
-  - adept Sawo
+- - '[Tomczak](@/w/tomczak.md) w/ [Stowarzysz](@/w/stowarzysz.md), [Monster High Suzie](@/w/monster-high-suzie.md)'
+  - '[adept Sawo](@/w/sawo.md)'
   - s: Sawo's Open Challenge
     n: Pre-show
 - - '[Filip Fux](@/w/filip-fux.md)'
@@ -39,10 +39,10 @@ has_video = false
 - - '[Biuro Prasowe](@/tt/biuro-prasowe.md): [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
   - 'Quentin Carter & [Boro](@/w/boro.md)'
   - s: Tag Team Match
-- - 'PSY.CHO: Stowarzysz & [Tomczak](@/w/tomczak.md) w/ [Monster High Suzie](@/w/monster-high-suzie.md)'
+- - 'PSY.CHO: [Stowarzysz](@/w/stowarzysz.md) & [Tomczak](@/w/tomczak.md) w/ [Monster High Suzie](@/w/monster-high-suzie.md)'
   - 'Quentin Carter & [Boro](@/w/boro.md)'
   - '[Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
-  - adept Sawo
+  - '[adept Sawo](@/w/sawo.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - '[Oskar Alexander](@/w/oskar-alexander.md)'
   - '[Sędzia Seweryn](@/w/sedzia-seweryn.md)'
@@ -78,7 +78,7 @@ has_video = false
 ### Highlights
 
 * Before the main show started, a minute of silence was held to acknowledge recent [tragic events][tragedia-w-krakowie] in Kraków. Just the day before, the authorities declared a period of [national mourning][zaloba] for Nov 8-9, which put the show at risk of cancellation.
-* A new faction called PSY.CHO emerged, comprising of manager [Monster High Suzie](@/w/monster-high-suzie.md), [Tomczak](@/w/tomczak.md) and Stowarzysz, the latter now masked and wearing a straitjacket.
+* A new faction called PSY.CHO emerged, comprising of manager [Monster High Suzie](@/w/monster-high-suzie.md), [Tomczak](@/w/tomczak.md) and [Stowarzysz](@/w/stowarzysz.md), the latter now masked and wearing a straitjacket.
 * Gustav Gryffin, billed as one of FRPW's founders and chairmen, came out to reveal plans for the next year, most importantly a tournament where the winner must face three opponents in a single evening. The exact ladder shall be established by qualifying matches, to take place at future shows. However, Emil Völler - the wXw Academy Champion - got a pass into the tournament.
 * Immediately after this announcement, Kolektyw came out. Olgierd took the mic and asserted that he was the other finalist of the HeelTurn Invitational Tournament, and the only one able to compete (the other being the winner Leon Lato, currently injured). He then demanded not one, but three spots in the tournament: for himself, [Gloria](@/w/gloria-g-szek.md) and [Jakub](@/w/jakub.md). Gustav finally agreed to grant them one spot, the choice of person at their discretion, on the condition that they win their upcoming match.
 
