@@ -1,5 +1,5 @@
 +++
-title = 'Adept Mikołaj "SKS"'
+title = 'adept Mikołaj "SKS"'
 template = "talent_page.html"
 authors = ["M3n747"]
 [extra]
