@@ -20,7 +20,7 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
 * FRPW started announcing workers for this show on 24.09.2026, beginning with [Robert Star](@/w/robert-star.md).
 * [Filip Fux](@/w/filip-fux.md) vs [Oskar Alexander](@/w/oskar-alexander.md) was announced on 19.10.2026.
 * On 26.10.2026 FRPW announced [Max Speed](@/w/max-speed.md) vs [Jacob Crane](@/w/jacob-crane.md).
-* On 3.11.2026 the promotion announced a Tag Team Match between PSY.CHO ([Tomczak](@/w/tomczak.md) & Stowarzysz) and Bracia Puro (_The Puro Brothers_, [Bartosz Plata](@/w/plata.md) & [adept Sawo](@/w/sawo.md)).
+* On 3.11.2026 the promotion announced a Tag Team Match between PSY.CHO ([Tomczak](@/w/tomczak.md) & [Stowarzysz](@/w/stowarzysz.md)) and Bracia Puro (_The Puro Brothers_, [Bartosz Plata](@/w/plata.md) & [adept Sawo](@/w/sawo.md)).
 
 ## Predicted card
 
@@ -34,7 +34,7 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - nc: upcoming
-- - 'PSY.CHO: [Tomczak](@/w/tomczak.md) & Stowarzysz'
+- - 'PSY.CHO: [Tomczak](@/w/tomczak.md) & [Stowarzysz](@/w/stowarzysz.md)'
   - 'Bracia Puro: [Bartosz Plata](@/w/plata.md) & [adept Sawo](@/w/sawo.md)'
   - s: Tag Team Match
     nc: upcoming
