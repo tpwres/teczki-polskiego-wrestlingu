@@ -102,10 +102,12 @@ On December 15th, 2025, Johnny Blade was announced to take part in PpW's excursi
 
 On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest-pytanie] that [Biesiad](@/w/biesiad.md) and Johnny Blade - billed for the "wrestling" part of the production, under their ring names - would guest-star in their stage adaptation of William Shakespeare's classic play, Titus Andronicus.
 
+On 12th November 2026 Johnny posted an Instagram story containing a link to a [website][film-jb] promoting a 30 minute documentary, titled _Johnny Blade_. The film's teaser trailer covered a part of Johnny's career, blending it with his private life. The film is set to premiere on 4th December 2026 at the 26th edition of Watch Docs Film Festival.
+
 ## In wrestling
 
 * Finishers:
-  - Diving Splash, sometimes with a foregin object in hands (2020-)
+  - Diving Splash, sometimes with a foreign object in hands (2020-)
 * Tag Teams and stables:
   - 2 Chamy (2016, 2021)
   - [The Hardcors](@/tt/the-hardcors.md) (2024-)
@@ -146,6 +148,7 @@ On 15th September 2026 the Wiliam Horzyca Theatre in Toruń [announced][oto-jest
 [cozanoc]: @/e/ppw/2024-10-26-ppw-co-za-noc.md
 [przesada]: @/e/ppw/2025-01-25-ppw-gruba-przesada.md
 [hf21k]: @/e/ppw/2025-02-21-ppw-hardcore-friday.md
+[film-jb]: https://johnnyblademovie.com/
 [teraz]: @/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md
 [prosta]: @/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
 [ll5]: @/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md
