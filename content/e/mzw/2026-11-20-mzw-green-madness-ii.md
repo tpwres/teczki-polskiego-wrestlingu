@@ -25,7 +25,7 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
 ## Predicted card
 
 {% card(predicted=true) %}
-- - '[Olgierd](@/w/olgierd.md)'Ś
+- - '[Olgierd](@/w/olgierd.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - nc: upcoming
 - - '[Shadow](@/w/shadow.md)'
