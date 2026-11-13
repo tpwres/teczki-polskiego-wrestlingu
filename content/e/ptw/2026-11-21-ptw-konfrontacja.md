@@ -18,7 +18,7 @@ has_video = false
 ## Build-up
 
 * A [video][okon-zapowiada] published on 4.11.2026 disclosed early details of the show: a [PTW Championship](@/c/ptw-championship.md) Match between [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Disco Pablo](@/w/disco-pablo.md) returning to PTW's ring in a match against ["Starboy" Nano Lopez](@/w/nano-lopez.md), and the next four Golden Ticket Tournament entrants: adeptka Paula (shortly thereafter renamed Valentina Vex) vs [Sigma Boy xD](@/w/sigma-boy.md), and [Whiteblade](@/w/whiteblade.md) vs [Conte](@/w/conte.md).
-* Valentina Vex vs [Sigma Boy xD](@/w/sigma-boy.md) was officially announced on 11.11.2026.
+* Valentina Vex vs [Sigma Boy xD](@/w/sigma-boy.md) was officially announced on 11.11.2026, and [Whiteblade](@/w/whiteblade.md) vs [Conte](@/w/conte.md) the day after.
 
 ## Predicted card
 
