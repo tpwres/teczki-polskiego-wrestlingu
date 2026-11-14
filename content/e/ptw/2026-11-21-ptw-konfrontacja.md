@@ -21,6 +21,8 @@ has_video = false
 * Valentina Vex vs [Sigma Boy xD](@/w/sigma-boy.md) was officially announced on 11.11.2026, and [Whiteblade](@/w/whiteblade.md) vs [Conte](@/w/conte.md) the day after.
 * On 13.11.2026 the match between Nano Lopez and Disco Pablo was officially confirmed and upgraded to a [PTW Underground Championship](@/c/ptw-underground-championship.md) Match.
 * Later the same day came the announcement of [CJ Klakson](@/w/cj-klakson.md) vs Damian Miller.
+* On 14.11.2026 the match between Conte and Whiteblade was changed to a Tag Team Match between First Class ([El G](@/w/el-g.md) & [Conte](@/w/conte.md)) and [Proroctwo](@/tt/proroctwo.md) ([Syriusz Dziedzic](@/w/dziedzic.md) & [Whiteblade](@/w/whiteblade.md)).
+* A few hours later [Kalom](@/w/kalom.md) vs Pierre was announced.
 
 ## Predicted card
 
@@ -34,9 +36,9 @@ has_video = false
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - s: 'Golden Ticket Tournament Elimination Match, Round 2'
     nc: upcoming
-- - '[Whiteblade](@/w/whiteblade.md)'
-  - '[Conte](@/w/conte.md)'
-  - s: 'Golden Ticket Tournament Elimination Match, Round 2'
+- - '[Proroctwo](@/tt/proroctwo.md): [Syriusz Dziedzic](@/w/dziedzic.md) & [Whiteblade](@/w/whiteblade.md) w/ Valentina Vex'
+  - 'First Class: [El G](@/w/el-g.md) & [Conte](@/w/conte.md) w/ Martusia'
+  - s: 'Golden Ticket Tournament Elimination Tag Team Match, Round 2'
     nc: upcoming
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
@@ -44,6 +46,9 @@ has_video = false
     nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - 'Damian Miller'
+  - nc: upcoming
+- - '[Kalom](@/w/kalom.md)'
+  - 'Pierre'
   - nc: upcoming
 {% end %}
 
