@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Najlepsi Z Najlepszych (_The Best of the Best_) is an upcoming show by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), to be held in [Teatr Komuna](@/v/teatr-komuna.md). The event will host a tournament for the inaugural FRPW Champion, who will have to win three fights the same evening.
+Najlepsi Z Najlepszych (_Best of the Best_) is an upcoming show by [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), to be held in [Teatr Komuna](@/v/teatr-komuna.md). The event will host a tournament for the inaugural FRPW Champion, who will have to win three fights the same evening.
 
 ## Build-up
 
