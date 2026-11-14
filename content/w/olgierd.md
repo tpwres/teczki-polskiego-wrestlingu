@@ -101,6 +101,10 @@ With Biesiad out of the picture, Olgierd foucsed on recovery before his PpW titl
 
 In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) which, thanks to the [Freebird Rule](@/a/freebird-rule.md), also meant that Olgierd became a _de facto_ double champion, despite not participating in any of the qualifying matches for the Tag Team titles.
 
+### Leaving Zmowa
+
+At [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd clashed with [Mister Z](@/w/mister-z.md), who derided the bald hooligan for losing his match against [Leon Lato](@/w/leon-lato.md) and [Max Speed](@/w/max-speed.md). Ded up with the abuse, Olgierd abruptly quit Zmowa.
+
 ### Return to Maniac Zone Wrestling (2024-present)
 
 In October 2024 Olgierd, alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md), returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/tt/zieloni.md) made their appearance at an MZW show. At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych defeated [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a Tag Team Match. 
@@ -127,7 +131,7 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
   - _Braindead_ (Running Cartwheel Headbutt) (2021-)
 * Tag Teams and stables:
   - [Legia Łysych](@/tt/legia-lysych.md) (2023-)
-  - [Zmowa](@/tt/zmowa.md) (2024-)
+  - [Zmowa](@/tt/zmowa.md) (2024-2026)
 * Entrance music:
   - "Początek końca" by Słoń/Mikser feat. Tomasz Struszczyk
     {{ org_badge(orgs=['mzw', 'ppw']) }} (2019-2021, as Hades and Krueger)<br>
