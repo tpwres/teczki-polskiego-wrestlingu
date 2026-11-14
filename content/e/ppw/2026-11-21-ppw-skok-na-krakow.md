@@ -20,6 +20,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 * The first match to be announced (on 16.10.2026) was a [PpW Championship](@/c/ppw-championship.md) Match between the reigning Champion [Gabriel Queen](@/w/gabriel-queen.md), and the challenger [Jakub](@/w/jakub.md).
 * On 22.10.2026 PpW published a [video][jk-mutant] in which [Mutant](@/w/mutant.md), angered by [Rodzina](@/tt/rodzina.md) [kidnapping][kondzia-podarli] his friend [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md), promised to punish the stable. He chose to start with [Isnorr](@/w/isnorr.md), whom he challenged to an Ultraviolent Match. The fight was officially confirmed on 23.10.2026.
 * At [Hardcore Saturday](@/e/ppw/2026-11-07-ppw-hardcore-saturday.md) [Max Speed](@/w/max-speed.md) and [Goblin](@/w/goblin.md) both submitted [Emil Völler](@/w/emil-voeller.md) at the same time, thus sharing the victory. On 12.11.2026 PpW announced a match between the two winners, to act as a tie breaker.
+* At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd unexpectedly left [Zmowa](@/tt/zmowa.md), angering [Mister Z](@/w/mister-z.md). The leader of the stable decided to punish the bald hooligan, which included putting him in a Zmowa Prospects Gauntlet Match against three potential candidates for [Zmowa](@/tt/zmowa.md). The fight was announced on 14.11.2026.
 
 ## Predicted card
 
@@ -35,6 +36,11 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Goblin](@/w/goblin.md)'
   - nc: upcoming
+- - '[Olgierd](@/w/olgierd.md)'
+  - '???'
+  - '???'
+  - '???'
+  - s: 'Zmowa Prospects Gauntlet Match'
 {% end %}
 
 ### Highlights
