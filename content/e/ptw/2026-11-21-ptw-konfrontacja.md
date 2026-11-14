@@ -19,15 +19,17 @@ has_video = false
 
 * A [video][okon-zapowiada] published on 4.11.2026 disclosed early details of the show: a [PTW Championship](@/c/ptw-championship.md) Match between [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Disco Pablo](@/w/disco-pablo.md) returning to PTW's ring in a match against ["Starboy" Nano Lopez](@/w/nano-lopez.md), and the next four Golden Ticket Tournament entrants: adeptka Paula (shortly thereafter renamed Valentina Vex) vs [Sigma Boy xD](@/w/sigma-boy.md), and [Whiteblade](@/w/whiteblade.md) vs [Conte](@/w/conte.md).
 * Valentina Vex vs [Sigma Boy xD](@/w/sigma-boy.md) was officially announced on 11.11.2026, and [Whiteblade](@/w/whiteblade.md) vs [Conte](@/w/conte.md) the day after.
-* 13.11.2026 saw the announcement of [CJ Klakson](@/w/cj-klakson.md) vs Damian Miller.
+* On 13.11.2026 the match between Nano Lopez and Disco Pablo was officially confirmed and upgraded to a [PTW Underground Championship](@/c/ptw-underground-championship.md) Match.
+* Later the same day came the announcement of [CJ Klakson](@/w/cj-klakson.md) vs Damian Miller.
 
 ## Predicted card
 
 {% card(predicted=true) %}
 
-- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
+- - '["Starboy" Nano Lopez](@/w/nano-lopez.md)(c)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
-  - nc: upcoming
+  - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
+    nc: upcoming
 - - 'Valentina Vex'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - s: 'Golden Ticket Tournament Elimination Match, Round 2'
