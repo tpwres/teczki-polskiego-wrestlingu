@@ -83,7 +83,7 @@ In November 2026 Diana rose to #124 in the Pro Wrestling Illustrated top 250 wom
 
 * Pro Wrestling Illustrated:
   - #205 on 2025 PWI Women's 250 list
-  - #125 on 2026 PWI Women's 250 list
+  - #124 on 2026 PWI Women's 250 list
 * 🇦🇹 [Rings of Europe][cm-roe]:
   - [GLAM! Championship][cm-roe-glam] (1 time)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Big League Wrestling][cm-blw]:
