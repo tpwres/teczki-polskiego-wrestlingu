@@ -63,9 +63,13 @@ At [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), along with 
 
 Team Visegrad - represented by [Lukáš Mottl](@/w/lukas-mottl.md) and Johan Otto, due to Oliwa and Sky's injuries - lost their titles to [Chemik](@/w/chemik.md) & [Oskar Haller](@/w/oskar-haller.md) at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md).
 
+#### Face turn
+
+Following [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) Oliwa sustained a knee injury that put him out of the action for nine months. He returned at [Arena 35](@/e/kpw/2026-11-13-kpw-arena-35.md) to help his former enemy [Greg](@/w/greg.md), thus turning babyface again.
+
 ### Legacy of Wrestling (2025)
 
-#### Debut and Road To The Title
+#### Debut and Road to the Title
 
 In April 2025 David made his debut for [Legacy of Wrestling](@/o/low.md) at their [second show](@/e/low/2025-04-06-low-2.md), where he faced - and defeated - [Marcelito](@/w/marcelito.md) in a Singles Match. Later on, at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md), he defeated Zétény to qualify for the final match for the inaugural [Legacy of Wrestling European Championship](@/c/low-european-championship.md), which took place at [Four the Glory](@/e/low/2025-12-20-low-4.md). During that match Oliwa was eliminated by [Axel Fox](@/w/jakub.md) and [Gustav Gryffin](@/w/gustav-gryffin.md).
 
