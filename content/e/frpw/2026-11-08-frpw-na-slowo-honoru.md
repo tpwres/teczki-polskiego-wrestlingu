@@ -9,7 +9,7 @@ venue=["teatr-komuna"]
 orgs = ["frpw"]
 city = "Warszawa"
 toclevel = 2
-has_video = false
+has_video = true
 [extra.gallery]
 +++
 
@@ -86,6 +86,7 @@ has_video = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=467291)
+* [Three full matches](https://www.youtube.com/watch?v=NzYBN64E0Fg)
 
 [roh-pure]: https://en.wikipedia.org/wiki/ROH_Pure_Championship#Pure_wrestling_rules
 [emil-wxw]: https://www.facebook.com/reel/4489317678013890
