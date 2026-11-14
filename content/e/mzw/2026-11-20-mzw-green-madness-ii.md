@@ -20,6 +20,7 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
 * The first match-up announced for the show was [Olgierd](@/w/olgierd.md) vs [Matt Buckna](@/w/matt-buckna.md), published on 18.10.2026. Matt was last seen at [Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) - some time after that show he sustained an injury, which forced him to vacate the [MZW Championship](@/c/mzw-championship.md).
 * On 30.10.2026 MZW announced a Tag Team Match in which [Oskar Alexander](@/w/oskar-alexander.md) & Stefan will go against [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md). This will be the official debut of Stefan, who first appeared as a rookie at the [previous show](@/e/mzw/2026-06-20-mzw-forever-2.md).
 * On 9.11.2026 MZW made an announcement of a Four-Way Match for the [MZW Championship](@/c/mzw-championship.md) #1 Contendership between [Jakub](@/w/jakub.md), [Marcelito](@/w/marcelito.md), [Max Speed](@/w/max-speed.md) and [Bartosz Plata](@/w/plata.md). The title is formally still in the hands of [Marco Hammers](@/w/marco-hammers.md), although he'd retired from in-ring competition due to a neck injury.
+* On 13.11.2026 [Sambor](@/w/sambor.md) was announced to have a match against [Boguś](@/w/bogus.md), debuting in MZW after being release from [Prime Time Wrestling](@/o/ptw.md) around two months prior.
 
 ## Predicted card
 
@@ -41,6 +42,9 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: '#1 Contendership Four-Way Match'
     nc: upcoming
+- - '[Sambor](@/w/sambor.md)'
+  - '[Boguś](@/w/bogus.md)'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
