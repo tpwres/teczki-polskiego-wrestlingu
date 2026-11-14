@@ -57,6 +57,10 @@ Prior to the demotion, Rosetti was one of the most experienced [KPW](@/o/kpw.md)
 
 At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Rosetti took part in the Battle Royal - ordered into the ring by [Krystian Malinowski](@/w/krystian-malinowski.md) - but was quickly eliminated.
 
+#### New Chairman of KPW
+
+At the end Godzina Zero 2026 Malinowski, now completely unhinged, was put in a straitjacket by the babyfaces and forcibly placed in a mental asylum. He left it in time for [Arena 35](@/e/kpw/2026-11-13-kpw-arena-35.md) feigning improvement, but in truth proved unfit for duty which caused Rosetti to strip him of his position, taking it over for himself.
+
 ### Legacy of Wrestling (2025)
 
 On 10.11.2025 [Legacy](@/o/low.md) announced Rosetti as a guest commentator at their [fourth](@/e/low/2025-12-20-low-4.md) show.

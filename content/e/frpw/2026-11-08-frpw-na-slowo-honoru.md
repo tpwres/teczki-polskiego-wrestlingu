@@ -9,7 +9,7 @@ venue=["teatr-komuna"]
 orgs = ["frpw"]
 city = "Warszawa"
 toclevel = 2
-has_video = false
+has_video = true
 collapse_gallery = false
 [extra.gallery]
 +++
@@ -31,9 +31,10 @@ collapse_gallery = false
 ## Card
 
 {% card() %}
-- - '[Tomczak](@/w/tomczak.md)'
+- - '[Tomczak](@/w/tomczak.md) w/ Stowarzysz, [Monster High Suzie](@/w/monster-high-suzie.md)'
   - adept Sawo
   - s: Sawo's Open Challenge
+    n: Pre-show
 - - '[Filip Fux](@/w/filip-fux.md)'
   - '[Asara](@/w/asara.md)'
 - - '[Biuro Prasowe](@/tt/biuro-prasowe.md): [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)'
@@ -81,12 +82,15 @@ collapse_gallery = false
 * A new faction called PSY.CHO emerged, comprising of manager [Monster High Suzie](@/w/monster-high-suzie.md), [Tomczak](@/w/tomczak.md) and Stowarzysz, the latter now masked and wearing a straitjacket.
 * Gustav Gryffin, billed as one of FRPW's founders and chairmen, came out to reveal plans for the next year, most importantly a tournament where the winner must face three opponents in a single evening. The exact ladder shall be established by qualifying matches, to take place at future shows. However, Emil Völler - the wXw Academy Champion - got a pass into the tournament.
 * Immediately after this announcement, Kolektyw came out. Olgierd took the mic and asserted that he was the other finalist of the HeelTurn Invitational Tournament, and the only one able to compete (the other being the winner Leon Lato, currently injured). He then demanded not one, but three spots in the tournament: for himself, [Gloria](@/w/gloria-g-szek.md) and [Jakub](@/w/jakub.md). Gustav finally agreed to grant them one spot, the choice of person at their discretion, on the condition that they win their upcoming match.
+* [Istociarz](@/w/istociarz.md) announced [Jacob Crane](@/w/jacob-crane.md) as representing the Japanese stable [Yosomono][cm-yoso].
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=467291)
+* [Three full matches](https://www.youtube.com/watch?v=NzYBN64E0Fg)
 
 [roh-pure]: https://en.wikipedia.org/wiki/ROH_Pure_Championship#Pure_wrestling_rules
 [emil-wxw]: https://www.facebook.com/reel/4489317678013890
 [tragedia-w-krakowie]: https://notesfrompoland.com/2026/11/07/fatalities-reported-in-shooting-on-historical-market-square-in-krakow/
 [zaloba]: https://www.pap.pl/en/news/polish-president-announces-national-days-mourning-after-krakow-killings
+[cm-yoso]: https://www.cagematch.net/?id=29&nr=4601

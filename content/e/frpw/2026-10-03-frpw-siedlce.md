@@ -98,3 +98,4 @@ Attendance: ca. 150
 * [Video: Plata vs Tomczak](https://www.youtube.com/watch?v=ofJ_mugDSvU)
 * [Video: Jakub vs Leon Lato](https://www.youtube.com/watch?v=LkwZhdITz7E)
 * [Video: Roman & Stowarzysz vs Golden & Paskal](https://www.youtube.com/watch?v=BfLXlooIC-o)
+* [Video: Agatka vs Völler](https://www.youtube.com/watch?v=GFdfojg9xWA)

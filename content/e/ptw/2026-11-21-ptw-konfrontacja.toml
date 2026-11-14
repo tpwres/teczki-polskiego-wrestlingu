@@ -1,1 +1,5 @@
 01 = { path = "ptw-konfrontacja-plakat.webp", caption = "Official poster featuring left to right, top: [Misiek](@/w/misiek.md), [Spartan](@/w/spartan.md), [Alex Brave](@/w/alex-brave.md); middle: [Whiteblade](@/w/whiteblade.md), [Nano Lopez](@/w/nano-lopez.md); bottom: [Daniel Razor](@/w/daniel-razor.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Fabian](@/w/fabian.md).", source = "Official PTW Facebook" }
+02 = { path = "valentina-vex-vs-sigma-boy.webp", caption = "Image announcing Valentina Vex vs [Sigma Boy xD](@/w/sigma-boy.md).", source = "Official PTW Facebook" }
+03 = { path = "whiteblade-vs-conte.webp", caption = "Image announcing [Whiteblade](@/w/whiteblade.md) vs [Conte](@/w/conte.md).", source = "Official PTW Facebook" }
+04 = { path = "nano-lopez-vs-disco-pablo.webp", caption = "Image announcing [Nano Lopez](@/w/nano-lopez.md) vs [Disco Pablo](@/w/disco-pablo.md).", source = "Official PTW Facebook" }
+05 = { path = "cs-klakson-vs-damian-miller.webp", caption = "Image announcing [CJ Klakson](@/w/cj-klakson.md) vs Damian Miller.", source = "Official PTW Facebook" }

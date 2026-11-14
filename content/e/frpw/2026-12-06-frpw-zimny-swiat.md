@@ -1,7 +1,7 @@
 +++
 title = "FRPW: Zimny Świat"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Krzysztof Zych"]
 [taxonomies]
 chronology = ["frpw"]
 venue = ["czasoprzestrzen"]
@@ -19,6 +19,7 @@ has_video = false
 
 * The first match, announced on 27.10.2026, was a Tag Team Match between Kolektyw ([Olgierd](@/w/olgierd.md) & [Jakub](@/w/jakub.md)) and [Biuro Prasowe](@/tt/biuro-prasowe.md) (represented by [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md)).
 * In the closing moments of [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), Jacob Crane lashed out at Dieter Schwartz for disrespecting the rules of their match and cheating to get the win. He demanded a rematch _in Breslau_.
+* The rematch was officially announced on 10.11.2026. Since Dieter defeated Crane unfairly, using ring ropes to his advantage, this fight will be a No Ropes Match - the first such bout in the history of Polish professional wrestling. (Note that [PpW](@/o/ppw.md) held a [ropeless show](@/e/ppw/2015-05-01-ppw-ropeless.md) during their backyard era.)
 
 ## Predicted card
 
@@ -29,7 +30,8 @@ has_video = false
     nc: upcoming
 - - '[Dieter Schwartz](@/w/dieter-schwartz.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
-  - nc: upcoming
+  - s: No Ropes Match
+    nc: upcoming
 {% end %}
 
 ### Highlights

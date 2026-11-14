@@ -19,6 +19,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 
 * The first match to be announced (on 16.10.2026) was a [PpW Championship](@/c/ppw-championship.md) Match between the reigning Champion [Gabriel Queen](@/w/gabriel-queen.md), and the challenger [Jakub](@/w/jakub.md).
 * On 22.10.2026 PpW published a [video][jk-mutant] in which [Mutant](@/w/mutant.md), angered by [Rodzina](@/tt/rodzina.md) [kidnapping][kondzia-podarli] his friend [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md), promised to punish the stable. He chose to start with [Isnorr](@/w/isnorr.md), whom he challenged to an Ultraviolent Match. The fight was officially confirmed on 23.10.2026.
+* At [Hardcore Saturday](@/e/ppw/2026-11-07-ppw-hardcore-saturday.md) [Max Speed](@/w/max-speed.md) and [Goblin](@/w/goblin.md) both submitted [Emil Völler](@/w/emil-voeller.md) at the same time, thus sharing the victory. On 12.11.2026 PpW announced a match between the two winners, to act as a tie breaker.
 
 ## Predicted card
 
@@ -31,6 +32,9 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
   - '[Isnorr](@/w/isnorr.md)'
   - s: Ultraviolent Match
     nc: upcoming
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
@@ -40,7 +44,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465061)
-* [Official Facebook post announding the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
+* [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
 
 [kondzia-podarli]: https://www.facebook.com/reel/1598933008914969
 [jk-mutant]: https://www.facebook.com/reel/3281177715386075

@@ -8,10 +8,6 @@ skip_event_gallery = true
 [taxonomies]
 country = ["PL"]
 [extra.gallery]
-1 = { path = "diana-strong.jpg", caption = "Diana Strong at one of the PTW Underground shows.", source = "Official PTW Facebook" }
-2 = { path = "diana-rega.jpg", caption = "Diana Rega at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md).", source = "Lens Blog" }
-3 = { path = "diana-pwi.webp", caption = "A page from The 2025 Women's 250 issue of Pro Wrestling Illustrated with Diana Strong at #205. Next to her name, _(6, NL)_ describes her pro tenure in years, and rank in the previous edition, in this case NL for _not listed_.", source = "Pro Wrestling Illustrated" }
-4 = { path = "diana-w-japonii.webp", caption = "Marigold Dream Star GP2026 poster, featuring Diana Strong.", source = "Diana Strong @ Facebook" }
 +++
 
 Diana Strong is a Polish wrestler best known for her time in [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md).
@@ -56,6 +52,8 @@ In November 2025 [Pro Wrestling Illustrated][pwi-250] ranked Diana #205 on their
 
 On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for a Japanese women's promotion, Dream Star Fighting Marigold, where she was booked for the annual Dream★Star Grand Prix 2026 tournament.
 
+In November 2026 Diana rose to #124 in the Pro Wrestling Illustrated top 250 women's list.
+
 ## In wrestling
 
 * Finishers:
@@ -85,6 +83,7 @@ On 30.07.2026 Diana [posted][marigold] to Facebook informing about her debut for
 
 * Pro Wrestling Illustrated:
   - #205 on 2025 PWI Women's 250 list
+  - #124 on 2026 PWI Women's 250 list
 * 🇦🇹 [Rings of Europe][cm-roe]:
   - [GLAM! Championship][cm-roe-glam] (1 time)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Big League Wrestling][cm-blw]:
