@@ -86,7 +86,8 @@ has_video = true
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=467291)
-* [Three full matches](https://www.youtube.com/watch?v=NzYBN64E0Fg)
+* [Video: three full matches](https://www.youtube.com/watch?v=NzYBN64E0Fg)
+* [Video: four full matches](https://www.youtube.com/watch?v=303D2UQ9UqA)
 
 [roh-pure]: https://en.wikipedia.org/wiki/ROH_Pure_Championship#Pure_wrestling_rules
 [emil-wxw]: https://www.facebook.com/reel/4489317678013890
