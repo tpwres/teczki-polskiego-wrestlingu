@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-ADept Mikołaj "SKS" is a Polish wrestler working for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
+Adept Mikołaj "SKS" is a Polish wrestler working for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
