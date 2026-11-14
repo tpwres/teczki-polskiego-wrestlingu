@@ -31,7 +31,7 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
 
 {% card() %}
 - - '[Jacob Crane](@/w/jacob-crane.md)'
-  - 'adept Sawo'
+  - '[adept Sawo](@/w/sawo.md)'
 - - '[Max Speed](@/w/max-speed.md) & [adeptka Yana](@/w/kalyana.md)'
   - '[Emil Völler](@/w/emil-voeller.md) & adeptka Maria'
   - s: Mixed Tag Team Match
@@ -48,10 +48,10 @@ The second [Dojo](@/o/dojo.md) showcase was held in [Teatr Komuna](@/v/teatr-kom
   - '[Mister Z](@/w/mister-z.md) & [Olgierd](@/w/olgierd.md) w/ [adeptka Gaba](@/w/rozalia-nyx.md)'
   - s: Tag Team Match
 - - '[Jacob Crane](@/w/jacob-crane.md)'
-  - 'adept Mikołaj "SKS"'
+  - '[adept Mikołaj "SKS"](@/w/mikolaj-sks.md)'
   - '[Max Speed](@/w/max-speed.md)'
   - g: Kids in-ring training session during the intermission.
-- - 'adept Mikołaj "SKS"'
+- - '[adept Mikołaj "SKS"](@/w/mikolaj-sks.md)'
   - '[Sambor](@/w/sambor.md)'
   - '[Szymon Kurczab](@/w/szymon-dragan.md)'
   - '[adeptka Gaba](@/w/rozalia-nyx.md)'

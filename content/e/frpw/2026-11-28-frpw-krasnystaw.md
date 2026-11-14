@@ -20,7 +20,7 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
 * FRPW started announcing workers for this show on 24.09.2026, beginning with [Robert Star](@/w/robert-star.md).
 * [Filip Fux](@/w/filip-fux.md) vs [Oskar Alexander](@/w/oskar-alexander.md) was announced on 19.10.2026.
 * On 26.10.2026 FRPW announced [Max Speed](@/w/max-speed.md) vs [Jacob Crane](@/w/jacob-crane.md).
-* On 3.11.2026 the promotion announced a Tag Team Match between PSY.CHO ([Tomczak](@/w/tomczak.md) & ???) and Bracia Puro (_The Puro Brothers_, [Bartosz Plata](@/w/plata.md) & adept Sawo).
+* On 3.11.2026 the promotion announced a Tag Team Match between PSY.CHO ([Tomczak](@/w/tomczak.md) & [Stowarzysz](@/w/stowarzysz.md)) and Bracia Puro (_The Puro Brothers_, [Bartosz Plata](@/w/plata.md) & [adept Sawo](@/w/sawo.md)).
 * In a [video][cos-tam-ze-beda-sie-bic] published on 12.11.2026 [Kalyana](@/w/kalyana.md) confronted [Emil Völler](@/w/emil-voeller.md) and challenged him to a match for his wXw Academy Championship, before being cut off by [Gloria](@/w/gloria-g-szek.md) who felt she was more deserving of that match. As a result, the two women agreed to a fight to determine which one of them would face Völler for the title. The match was officially confirmed the next day.
 
 ## Predicted card
@@ -35,8 +35,8 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Jacob Crane](@/w/jacob-crane.md)'
   - nc: upcoming
-- - 'PSY.CHO: [Tomczak](@/w/tomczak.md) & ???'
-  - 'Bracia Puro: [Bartosz Plata](@/w/plata.md) & adept Sawo'
+- - 'PSY.CHO: [Tomczak](@/w/tomczak.md) & [Stowarzysz](@/w/stowarzysz.md)'
+  - 'Bracia Puro: [Bartosz Plata](@/w/plata.md) & [adept Sawo](@/w/sawo.md)'
   - s: Tag Team Match
     nc: upcoming
 - - '[Kalyana](@/w/kalyana.md)'
