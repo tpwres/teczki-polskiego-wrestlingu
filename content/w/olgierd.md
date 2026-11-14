@@ -103,7 +103,7 @@ In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Ch
 
 ### Leaving Zmowa
 
-At [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd clashed with [Mister Z](@/w/mister-z.md), who derided the bald hooligan for losing his match against [Leon Lato](@/w/leon-lato.md) and [Max Speed](@/w/max-speed.md). Ded up with the abuse, Olgierd abruptly quit Zmowa.
+At [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd clashed with [Mister Z](@/w/mister-z.md), who derided the bald hooligan for losing his match against [Leon Lato](@/w/leon-lato.md) and [Max Speed](@/w/max-speed.md). Fed up with the abuse, Olgierd abruptly quit Zmowa.
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
