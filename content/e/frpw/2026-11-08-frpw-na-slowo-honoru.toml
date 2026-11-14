@@ -1,10 +1,54 @@
-01 = { path = "na-slowo-honoru-plakat.webp", caption = "Official poster featuring [Oskar Alexander](@/w/oskar-alexander.md) and Leon Lato. Shown at the top are, left to right: [Goblin](@/w/goblin.md), [Max Speed](@/w/max-speed.md), [Agentka Agatka](@/w/agentka-agatka.md), [Bartosz Plata](@/w/plata.md), [Kalyana](@/w/kalyana.md) and [Jacob Crane](@/w/jacob-crane.md).", source = "Official FRPW Facebook" }
-02 = { path = "mecz-o-tasme-klejaca.webp", caption = "Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).", source = "Official FRPW Facebook" }
-03 = { path = "panie-bija-panow.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md) vs [Olgierd](@/w/olgierd.md) & [Gloria G Szek](@/w/gloria-g-szek.md).", source = "Official FRPW Facebook" }
-04 = { path = "you-shall-not-pas.webp", caption = "Image announcing [Goblin](@/w/goblin.md) vs [Emil Völler](@/w/emil-voeller.md).", source = "Official FRPW Facebook" }
-05 = { path = "asara-vs-filip-fux.webp", caption = "Image announcing [Asara](@/w/asara.md) vs [Filip Fux](@/w/filip-fux.md).", source = "Official FRPW Facebook" }
-06 = { path = "psy-cho.webp", caption = "Image announcing ??? & [Tomczak](@/w/tomczak.md).", source = "Official FRPW Facebook" }
-07 = { path = "czy-quentin-carter-do-gory-nogami-to-john-tarantino.webp", caption = "Image announcing Quentin Carter & [Boro](@/w/boro.md) vs [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md).", source = "Official FRPW Facebook" }
-08 = { path = "ja-tam-kibicuje-oskarowi.webp", caption = "Image announcing [Oskar Haller](@/w/oskar-haller.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
-09 = { path = "markoni-pasan.webp", caption = "Image announcing [Markus Paskal](@/w/markus-paskal.md) vs [Antoni Ocean](@/w/antoni-ocean.md).", source = "Official FRPW Facebook" }
-10 = { path = "czasy-sie-zmieniaja-ale-robson-zawsze-sie-opiera-o-ring.webp", caption = "The ring before the show.", source = "Ville Paananen" }
+0001 = { path = "na-slowo-honoru-plakat.webp", caption = "Official poster featuring [Oskar Alexander](@/w/oskar-alexander.md) and Leon Lato. Shown at the top are, left to right: [Goblin](@/w/goblin.md), [Max Speed](@/w/max-speed.md), [Agentka Agatka](@/w/agentka-agatka.md), [Bartosz Plata](@/w/plata.md), [Kalyana](@/w/kalyana.md) and [Jacob Crane](@/w/jacob-crane.md).", source = "Official FRPW Facebook" }
+0002 = { path = "mecz-o-tasme-klejaca.webp", caption = "Image announcing [Jacob Crane](@/w/jacob-crane.md) vs [Dieter Schwartz](@/w/dieter-schwartz.md).", source = "Official FRPW Facebook" }
+0003 = { path = "panie-bija-panow.webp", caption = "Image announcing [Kalyana](@/w/kalyana.md) & [Max Speed](@/w/max-speed.md) vs [Olgierd](@/w/olgierd.md) & [Gloria](@/w/gloria-g-szek.md).", source = "Official FRPW Facebook" }
+0004 = { path = "you-shall-not-pas.webp", caption = "Image announcing [Goblin](@/w/goblin.md) vs [Emil Völler](@/w/emil-voeller.md).", source = "Official FRPW Facebook" }
+0005 = { path = "asara-vs-filip-fux.webp", caption = "Image announcing [Asara](@/w/asara.md) vs [Filip Fux](@/w/filip-fux.md).", source = "Official FRPW Facebook" }
+0006 = { path = "psy-cho.webp", caption = "Image announcing ??? & [Tomczak](@/w/tomczak.md).", source = "Official FRPW Facebook" }
+0007 = { path = "czy-quentin-carter-do-gory-nogami-to-john-tarantino.webp", caption = "Image announcing Quentin Carter & [Boro](@/w/boro.md) vs [Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md).", source = "Official FRPW Facebook" }
+0008 = { path = "ja-tam-kibicuje-oskarowi.webp", caption = "Image announcing [Oskar Haller](@/w/oskar-haller.md) vs [Oskar Alexander](@/w/oskar-alexander.md).", source = "Official FRPW Facebook" }
+0009 = { path = "markoni-pasan.webp", caption = "Image announcing [Markus Paskal](@/w/markus-paskal.md) vs [Antoni Ocean](@/w/antoni-ocean.md).", source = "Official FRPW Facebook" }
+0010 = { path = "czasy-sie-zmieniaja-ale-robson-zawsze-sie-opiera-o-ring.webp", caption = "The ring before the show.", source = "Ville Paananen" }
+
+0101 = { path = "prosze-panstwa-ten-pan-bedzie-sie-bil.webp", caption = "[Istociarz](@/w/istociarz.md) introduces adept Sawo.", source = "Ville Paananen" }
+0102 = { path = "galeria-osobliwosci.webp", caption = "Before the match. Left to right: [Istociarz](@/w/istociarz.md), Sędzia Lora, adept Sawo, [Tomczak](@/w/tomczak.md), Stowarzysz, [Monster High Suzie](@/w/monster-high-suzie.md).", source = "Ville Paananen" }
+0103 = { path = "trzask-lup-bec.webp", caption = "Tomczak slams adept Sawo. To the left stands Sędzia Lora.", source = "Ville Paananen" }
+
+0201 = { path = "asara.webp", caption = "[Asara](@/w/asara.md).", source = "Ville Paananen" }
+0202 = { path = "filip.webp", caption = "[Filip Fux](@/w/filip-fux.md).", source = "Ville Paananen" }
+0203 = { path = "zaraz-tego-pana-zaboli.webp", caption = "[Asara](@/w/asara.md) dropkicks Filip Fux into the corner. In the background stands Sędzia Alan (WSW).", source = "Ville Paananen" }
+0204 = { path = "ten-pan-nie-pozostaje-dluzny.webp", caption = "Filip Fux slams Asara, as Sędzia Alan (WSW) oversees the proceedings.", source = "Ville Paananen" }
+
+0301 = { path = "wrestling-z-roza-w-zebach.webp", caption = "[Boro](@/w/boro.md) & Quentin Carter. To the left stand [Istociarz](@/w/istociarz.md) and [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Ville Paananen" }
+0302 = { path = "sheen-cos-tam-gada-ale-nikt-go-nie-slyszy-bo-ryby-glosu-nie-maja.webp", caption = "[Bartosz Plata](@/w/plata.md) & [Tony Sheen](@/w/riverman.md) argue with the audience.", source = "Ville Paananen" }
+0303 = { path = "o-patrzcie-to-kolega-moj.webp", caption = "[Tony Sheen](@/w/riverman.md) points at [Bartosz Plata](@/w/plata.md), who stands next to Quentin Carter, who's down on the mat.", source = "Ville Paananen" }
+0304 = { path = "do-gory-nogami-wiec-chyba-partosz-blata.webp", caption = "[Boro](@/w/boro.md) slams Bartosz Plata.", source = "Ville Paananen" }
+
+0401 = { path = "stowarzysz-rzuca-borem.webp", caption = "Post-match beatdown. Stowarzysz throws Boro so hard….", source = "Ville Paananen" }
+0402 = { path = "maska-poleciala-stowarzysz-zostal.webp", caption = "…that he loses his mask.", source = "Ville Paananen" }
+
+0501 = { path = "antoni-spokojny.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md).", source = "Ville Paananen" }
+0502 = { path = "daj-na-zgode.webp", caption = "Markus Paskal works on Antoni Ocean's left hand.", source = "Ville Paananen" }
+0503 = { path = "antoni-wzburzony.webp", caption = "Antoni Ocean jumps at Markus Paskal.", source = "Ville Paananen" }
+0504 = { path = "antoni-frunacy.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md) jumps at Markus Paskal some more.", source = "Ville Paananen" }
+
+0601 = { path = "mam-nadzieje-ze-chociaz-czyste-byly.webp", caption = "[Goblin](@/w/goblin.md) enters holding in his teeth what appears to be ladies' undergarments.", source = "Ville Paananen" }
+0602 = { path = "seweryn-sedzia-dziwi-sie-supleksu.webp", caption = "Emil Völler suplexes Goblin. In the back stands [Sędzia Seweryn](@/w/sedzia-seweryn.md).", source = "Ville Paananen" }
+0603 = { path = "i-z-lokcia-go.webp", caption = "Goblin elbowdrops onto Emil Völler.", source = "Ville Paananen" }
+
+0801 = { path = "o-wyzszosci -oskara-nad-oskarem.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) hits [Oskar Alexander](@/w/oskar-alexander.md) with a Flying Clothesline.", source = "Ville Paananen" }
+0802 = { path = "oskar-oskarowi-oskarem.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) has [Oskar Haller](@/w/oskar-haller.md) in a Rivera Cloverleaf.", source = "Ville Paananen" }
+
+0901 = { path = "wyglada-troche-jak-david-dastmalchian.webp", caption = "[Gustav Gryffin](@/w/gustav-gryffin.md).", source = "Ville Paananen" }
+
+1001 = { path = "kalyana-bije-glorie.webp", caption = "Kalyana knocks down Gloria with a Clothesline.", source = "Ville Paananen" }
+1002 = { path = "kalyana-kopie-glorie.webp", caption = "Kalyana dropkicks Gloria.", source = "Ville Paananen" }
+1003 = { path = "kalyanie-bedzie-z-ringiem-do-twarzy.webp", caption = "Gloria faceplants Kalyana.", source = "Ville Paananen" }
+1004 = { path = "a-to-nie-fair-jest.webp", caption = "[Olgierd](@/w/olgierd.md) holds Kalyana, giving Gloria an opening for a punch.", source = "Ville Paananen" }
+1005 = { path = "maksiu-z-odsiecza.webp", caption = "Max Speed attacks Olgierd.", source = "Ville Paananen" }
+1006 = { path = "chyba-mu-sie-sznurowka-rozwiazala.webp", caption = "[Olgierd](@/w/olgierd.md) picks up Kalyana for a Body Slam.", source = "Ville Paananen" }
+1007 = { path = "ale-pobojowisko.webp", caption = "Kalyana kicks [Gloria](@/w/gloria-g-szek.md).", source = "Ville Paananen" }
+1008 = { path = "ehhh-no-dobrze-juz-dobrze-wygraliscie.webp", caption = "[Gloria](@/w/gloria-g-szek.md) and [Olgierd](@/w/olgierd.md) declared victorious by the apparently reluctant Sędzia Alan (WSW).", source = "Aleksandra Kęcka" }
+
+1101 = { path = "ale-tak-wysoko-z-miejsca-podskoczyc-to-trzeba-miec-niezle-nogi.webp", caption = "[Jacob Crane](@/w/jacob-crane.md) dropkicks [Dieter Schwarz](@/w/dieter-schwartz.md).", source = "Ville Paananen" }
+1102 = { path = "a-potem-sie-bedzie-tlumaczyl-ze-pomylil-go-z-futbolowka.webp", caption = "Jacob Crane about to kick Dieter Schwartz.", source = "Ville Paananen" }
+1103 = { path = "czy-jak-pinuje-opierajac-sie-tak-na-glowie-to-jest-pinheadem.webp", caption = "Jacob Crane pins Dieter Schwartz.", source = "Ville Paananen" }
