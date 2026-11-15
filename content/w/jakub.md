@@ -123,17 +123,17 @@ Jakub's role as a grey eminence wasn't restricted solely to Zmowa, as he tried t
 On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md).
 During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a rope break which went unnoticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair.
 
-#### Championship pursuit
+#### LoW European Champion
 
 At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning against Gabriel Queen in a Road to the Title Match, putting him in a contender position for the upcoming Legacy Championship. At [the next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md). His long road for his first career title came to an end at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md), when he won a Six-Way Elimination Match to become the inaugural [Legacy European Champion](@/c/low-european-championship.md). Immediately afterwards Axel turned on the public, adopting his "Jakub" persona and started a reign of terror over Legacy of Wrestling.
 
-In his first title defence Jakub defeated [Filip Fux](@/w/filip-fux.md) in a No-DQ Match that took place at [Open Season](@/e/low/2026-05-24-low-5.md). His second title defence was against Trent Seven at [Enter The Dragon](@/e/low/2026-07-10-low-6.md). After the match, it was clear that his next opponent would be [Max Speed](@/w/max-speed.md).
+In his first title defence Jakub defeated [Filip Fux](@/w/filip-fux.md) in a No-DQ Match that took place at [Open Season](@/e/low/2026-05-24-low-5.md). His second title defence was against Trent Seven at [Enter The Dragon](@/e/low/2026-07-10-low-6.md). After the match, it was clear that his next opponent would be [Max Speed](@/w/max-speed.md). The match took place at [What's in the Box?](@/e/low/2026-10-24-low-7.md) in October 2026. Jakub finally lost his title to Max in said match, ending inaugural championship reign at 308 days.
 
-### Return to Maniac Zone Wrestling (2026-)
+### Return to Maniac Zone Wrestling (2026-present)
 
 At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Jakub returned to [Maniac Zone Wrestling](@/o/mzw.md) after over five years. He defeated [Max Speed](@/w/max-speed.md) to defend his [LOW European Championship](@/c/low-european-championship.md) title. At [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md) he once again defended his title, this time against [Boro](@/w/boro.md) and [Sambor](@/w/sambor.md).
 
-### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
 Jakub debuted for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at the first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), where he won the Next Big Thing Battle Royale as a masked wrestler named "Gringo", only to reveal himself as Jakub after the match. At the same show he also faced and defeated [Szymon Kurczab](@/w/szymon-dragan.md). From that point on Jakub started making regular appearances in FRPW.
 
@@ -156,6 +156,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
   - FoxJoy (2023)
   - [GobLis](@/tt/goblis.md) (2024-2025)
   - [Zmowa](@/tt/zmowa.md) (2025-)
+  - Kolektyw (2026-)
 * Entrance music:
   - "Nowhere to Hide" by Chrobot
     {{ org_badge(orgs=['dfw']) }} (2017) <br>
@@ -190,7 +191,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
     {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
     {{ music(apple='1606979069?i=1606979070')}}
   - "Firestarter" by The Prodigy 
-    {{ org_badge(orgs=['low', 'ppw']) }} (2025-present) <br>
+    {{ org_badge(orgs=['low', 'ppw', 'mzw']) }} (2025-present) <br>
     {{ music(yt='wmin5WkOuPw')}}
     {{ music(spot='79CUrU5o2KAVDTNm4x3eGU')}}
     {{ music(apple='1450123945?i=1450124083')}}
