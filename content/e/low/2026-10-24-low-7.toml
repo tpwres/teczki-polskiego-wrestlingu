@@ -17,7 +17,7 @@
 10700 = { path = "la-caduta-dell-uomo.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) jumps from the top rope onto [Antoni Ocean](@/w/antoni-ocean.md), [Sędzia Alan](@/w/sedzia-alan.md) watches in disbelief.", source = "M3n747" }
 10800 = { path = "cercando-la-gloria.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) about to win, as [Sędzia Alan](@/w/sedzia-alan.md) counts Antoni Ocean out.", source = "M3n747" }
 10900 = { path = "lesakocean.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) pressing [Antoni Ocean's](@/w/antoni-ocean.md) chest into the ropes", source = "Krzysztof Zych" }
-10901 = { path = "flyingtank.jpg", caption = "[Eryk Lesak](@/w/eryk-lesak.md) swiftly floating over [Markus Paskal](@/w/markus-paskal.md)", source = "Krzysztof Zych" }
+10901 = { path = "flyingtank.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) swiftly floating over [Markus Paskal](@/w/markus-paskal.md)", source = "Krzysztof Zych" }
 
 20100 = { path = "dzien-dobry-platoszu-pas-mistrzowski-mam-w-koszu.webp", caption = "[Bartosz Plata](@/w/plata.md) enters, welcomed by [Arek Paterek](@/w/arek-paterek.md).", source = "M3n747" }
 20200 = { path = "a-ty-ile-placisz-za-wywozke-zmieszanych.webp", caption = "[Arek Paterek](@/w/arek-paterek.md) trash-talks Marcelito.", source = "M3n747" }
@@ -39,9 +39,9 @@
 30600 = { path = "shadow-kladzie-sie-cieniem-na-ringu.webp", caption = "Zefir fails to pin [Shadow](@/w/shadow.md).", source = "M3n747" }
 30700 = { path = "smuga-cienia.webp", caption = "[Shadow](@/w/shadow.md) also finds Zefir doesn't give up easily. [Sędzia Alan](@/w/sedzia-alan.md) seems used to it by now.", source = "M3n747" }
 30800 = { path = "shadow-sie-wywinal.webp", caption = "Shadow narrowly escapes Zefir's Swanton Bomb.", source = "M3n747" }
-30801 = { path = "zefirlock", caption = "Zefir locking Shadow in a hold.", source = "Krzysztof Zych" }
+30801 = { path = "zefirlock.webp", caption = "Zefir locking Shadow in a hold.", source = "Krzysztof Zych" }
 30900 = { path = "salto-ksiezycowe.webp", caption = "Shadow executes a Moonsault onto Zefir.", source = "M3n747" }
-30901 = { path = "zefirlflip.webp", caption = "Zefir landing a flip over Shadow.", source = "Krzysztof Zych" }
+30901 = { path = "zefirflip.webp", caption = "Zefir landing a flip over Shadow.", source = "Krzysztof Zych" }
 30903 = { path = "zefilariat.webp", caption = "[Shadow](@/w/shadow.md) dodges Zefir's lariat.", source = "Krzysztof Zych" }
 31000 = { path = "shadow-zwycieski.webp", caption = "Shadow awarded the victory by Sędzia Alan.", source = "M3n747" }
 31100 = { path = "shadow-dziekuje-fanom.webp", caption = "[Shadow](@/w/shadow.md) bows before the audience.", source = "M3n747" }
