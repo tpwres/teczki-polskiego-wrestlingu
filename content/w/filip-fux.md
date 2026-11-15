@@ -12,13 +12,13 @@ country = ["PL"]
 2 = { path = "filip-fux-na-ug.webp", caption = "Filip Fux at the University of Gdańsk Film Centre.", source = "Alan Lisewski" }
 +++
 
-Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md), [Legacy of Wrestling](@/o/low.md) and [PpW Ewenement Wrestling](@/o/ppw.md).
+Filip Fux is a Polish wrestler best known for his appearances for [Kombat Pro Wrestling](@/o/kpw.md), [Legacy of Wrestling](@/o/low.md), [PpW Ewenement Wrestling](@/o/ppw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
 * Years active: 2018-present
 * Gimmicks/nicknames:
-  - Filip Fux {{ org_badge(orgs=['kpw', 'low', 'ppw']) }}
+  - Filip Fux {{ org_badge(orgs=['kpw', 'low', 'ppw', 'frpw']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (2018-present)
 
@@ -63,7 +63,15 @@ At Legacy's [third show](@/e/low/2025-07-11-low-3.md) Filip unsucessfully challe
 
 Just two days before the show, Filip Fux was announced for a pre-show match at [PpW Jednak Hardcore](@/e/ppw/2026-01-31-ppw-jednak-hardcore.md), going against [Tony Sheen](@/w/riverman.md) from [Maniac Zone Wrestling](@/o/mzw.md). This marked the first time an active KPW wrestler stepped into the PpW ring. Filip emerged victorious, and later on intervened in a match between [Gustav Gryffin](@/w/gustav-gryffin.md) and [Axel Fox](@/w/jakub.md) by attacking Gryffin with a steel chair shot to the back of the head. It was quickly revealed that he did it at the order of [Rodzina](@/tt/rodzina.md) - a villainous stable he'd joined. Unlike in KPW and Legacy, where he's a clear-cut babyface, in PpW he portrays a heel character.
 
-At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Filip was recognised as a full Champion alongside every member of Rodzina.
+At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Filip was recognised as a full Champion alongside every member of Rodzina during the first reign of Rodzina.
+
+#### Feud with Boro & Muti and Hardcors
+
+After securing Tag Team titles for Rodzina Filip focused on helping the "A-Team" of Oskar and Vic in keeping their grip on said championship. However, at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) team of Filip and [Isnorr](@/w/insorr.md) failed to defeat Boro & Muti, and they were unable to stop their opponents from intervening in a PpW Tag Team Championship Match between Oskar and Vic against [The Hardcors](@/tt/the-hardcors.md) which costed Rodzina titles. In revenge, Vic ordered Oskar and Filip to kidnap dangerous [Mutant](@/w/mutant.md). The plan failed, as they [mistakenly kidnapped][kondzio-porwanie] Boro & Muti's manager: [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md). Nevertheless, Kondzio's kidnapping turned out to be a valid asset at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) where disruption caused by Filip with Kondzio held as hostage allowed Rodzina to win Tag Team Titles for the second time.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Filip made his first appearance for [FRPW](@/o/frpw.md) at their [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) when he teamed up with fellow Rodzina member - [Robert Star](@/w/robert-star.md).
 
 ## International wrestling appearances 
 
@@ -73,10 +81,10 @@ From 2023 onwards Filip started to secure international bookings for himself. He
 
 * Finishers:
   - _Fux Bomb_ (2021-)
-  - Mother Cutter (2023-)
+  - _Mother Cutter_ (Cutter) (2023-)
 * With [Michał Fux](@/w/michal-fux.md):
-  - Flapjack (Michał) and Cutter (Filip) combination (2021-)
-  - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-)
+  - Flapjack (Michał) and Cutter (Filip) combination (2021-2026)
+  - Flapjack (Michał) and Diving Clothesline (Filip) combination (2024-2026)
 * Tag Teams and stables:
   - [Bracia Fux](@/tt/bracia-fux.md) (2021-2026)
   - [Rodzina](@/tt/rodzina.md) (2026-)
@@ -98,13 +106,23 @@ From 2023 onwards Filip started to secure international bookings for himself. He
     {{ music(yt='3gOHvDP_vCs')}}
     {{ music(spot='0O45fw2L5vsWpdsOdXwNAR')}}
     {{ music(apple='187665948?i=187666051')}}
+  - "What Do You Want From Me" by Pink Floyd
+    {{ org_badge(orgs=['ppw']) }} (2026-; as part of [Rodzina](@/tt/rodzina.md)) <br>
+    {{ music(yt='A8i7248HqEY') }}
+    {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
+    {{ music(apple='1065976549?i=1065976566') }}
+  - "Way 2 Sexy" by Drake
+    {{ org_badge(orgs=['frpw']) }} (2026-) <br>
+    {{ music(yt='Qr2PWFDB4ZU')}}
+    {{ music(spot='0k1WUmIRnG3xU6fvvDVfRG')}}
+    {{ music(apple='1584281467?i=1584281770')}}
 
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time) - with [Michał Fux](@/w/michal-fux.md)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - as part of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as part of [Rodzina](@/tt/rodzina.md)
 
 ## Internet presence
 
@@ -114,3 +132,5 @@ From 2023 onwards Filip started to secure international bookings for himself. He
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=25696)
 * [Filip's talk at the University of Gdańsk Film Centre](https://www.youtube.com/watch?v=FcJ_OQbmbUw), following a screening of [The Iron Claw](https://en.wikipedia.org/wiki/The_Iron_Claw_(film)) on 17.01.2025 (in Polish).
+
+[kondzio-porwanie]: https://www.instagram.com/reel/Dd62Vb1Kn4b/
