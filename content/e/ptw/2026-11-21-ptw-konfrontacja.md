@@ -44,7 +44,7 @@ has_video = false
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
-  - s: 'Do trzech razy sztuka'
+    s: 'Do trzech razy sztuka'
     nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - 'Damian Miller'
