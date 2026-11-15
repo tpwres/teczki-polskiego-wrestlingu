@@ -102,7 +102,7 @@ In March 2025, Goblin made his in-ring debut for Maniac Zone Wrestling facing Ge
 
 In May 2026 Goblin, along with Gustav Gryffin and [Jacob Crane](@/w/jacob-crane.md), announced the establishment of [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_), an organisation dedicated to the development of the Polish wrestling scene. FRPW runs independent shows and operates [Warszawska Szkoła Wrestlingu](@/o/dojo.md), the wrestling school formerly known as Ewenement Dojo.
 
-Goblin was one of the entrants in FRPW's HeelTurn Invitational Tournament, and scored a first round win against [Bart Petro](@/w/bart-petro.md) at FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md). He was defeated in Semi-Finals by [Leon Lato](@/w/leon-lato.md) in a match which took place in [Warka](@/e/frpw/2026-10-18-frpw-warka.md). After that he faced [Emil Völler](@/w/emil-voller.md) in a Singles Match for wXw Academy Championship at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), but he was unsucessful in that bout.
+Goblin was one of the entrants in FRPW's HeelTurn Invitational Tournament, and scored a first round win against [Bart Petro](@/w/bart-petro.md) at FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md). He was defeated in Semi-Finals by [Leon Lato](@/w/leon-lato.md) in a match which took place in [Warka](@/e/frpw/2026-10-18-frpw-warka.md). After that he faced [Emil Völler](@/w/emil-voeller.md) in a Singles Match for wXw Academy Championship at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), but he was unsucessful in that bout.
 
 ## International wrestling appearances
 
