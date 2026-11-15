@@ -7,14 +7,26 @@
 0006 = { path = "on-sam-vallnie-lesaka.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Sam Della Valle](@/w/sam-rogers.md).", source = "Official KPW Facebook" }
 0007 = { path = "frank-gorshin-vs-cory-michael-smith.webp", caption = "Image announcing ??? vs ???.", source = "Official KPW Facebook" }
 
-1010 = { path = "jeszcze-nie-ma-ale-niedlugo-bedzie.webp", caption = "The ring before the show.", source = "M3n747" }
-1020 = { path = "fani-zefira-lubia-slone-paluszki.webp", caption = "Zefir Ultras on the right…", source = "M3n747" }
-1030 = { path = "fani-markusa-paskala-nie-lubia-slonych-paluszkow.webp", caption = "…Markus Paskal supporters on the left.", source = "M3n747" }
-1040 = { path = "kinga-posrodku-ringa.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
+0110 = { path = "jeszcze-nie-ma-ale-niedlugo-bedzie.webp", caption = "The ring before the show.", source = "M3n747" }
+0120 = { path = "fani-zefira-lubia-slone-paluszki.webp", caption = "Zefir Ultras on the right…", source = "M3n747" }
+0130 = { path = "fani-markusa-paskala-nie-lubia-slonych-paluszkow.webp", caption = "…Markus Paskal supporters on the left.", source = "M3n747" }
+0140 = { path = "kinga-posrodku-ringa.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
 
-
+1010 = { path = "zdjecie-markusa-paskala-na-tle-zdjecia-markusa-paskala.webp", caption = "[Markus Paskal's](@/w/markus-paskal.md) entrance.", source = "M3n747" }
+1020 = { path = "zefirefir.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "M3n747" }
+1030 = { path = "reverse-po-ojcowsku-przez-kolano.webp", caption = "[Zefir](@/w/zefir.md) hits Markus Paskal with a Backbreaker.", source = "M3n747" }
+1040 = { path = "nie-mam-pojecia-jak-to-sie-nazywa-ale-wyglada-na-bolesne-dla-nich-obu.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) attempts to submit [Zefir](@/w/zefir.md).", source = "M3n747" }
+1050 = { path = "weirdlock.webp", caption = "Markus Paskal has Zefir in a leglock.", source = "M3n747" }
+1060 = { path = "wrestlerze-siadz-pod-mym-piwem-a-odpoczni-sobie.webp", caption = "Markus Paskal bumps into a random fan.", source = "M3n747" }
+1080 = { path = "zefir-zawsze-mi-troche-przypominal-meprona-z-kajtka-i-koka-w-kosmosie.webp", caption = "[Zefir](@/w/zefir.md) rejoices after a particularly effective attack.", source = "M3n747" }
+1090 = { path = "swanton-niewypal.webp", caption = "Zefir's Swanton Bomb misses Markus Paskal.", source = "M3n747" }
+1100 = { path = "jeden-placze-a-drugi-sie-smieje.webp", caption = "Zefir is crestfallen, while Markus Paskal celebrates with his family, friends and fans.", source = "M3n747" }
 
 2010 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
 3010 = { path = ".webp", caption = ".", source = "M3n747" }
 4010 = { path = ".webp", caption = ".", source = "M3n747" }
 5010 = { path = ".webp", caption = ".", source = "M3n747" }
