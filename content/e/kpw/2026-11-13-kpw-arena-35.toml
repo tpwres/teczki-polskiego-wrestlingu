@@ -6,3 +6,18 @@
 0005 = { path = "3-vs-3.webp", caption = "Image announcing [Chemik](@/w/chemik.md) & [Filip Fux](@/w/filip-fux.md) & Nico Narciso vs [Oskar Haller](@/w/oskar-haller.md) & [Michał Fux](@/w/michal-fux.md) & [Olgierd](@/w/olgierd.md).", source = "Official KPW Facebook" }
 0006 = { path = "on-sam-vallnie-lesaka.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Sam Della Valle](@/w/sam-rogers.md).", source = "Official KPW Facebook" }
 0007 = { path = "frank-gorshin-vs-cory-michael-smith.webp", caption = "Image announcing ??? vs ???.", source = "Official KPW Facebook" }
+
+1010 = { path = "jeszcze-nie-ma-ale-niedlugo-bedzie.webp", caption = "The ring before the show.", source = "M3n747" }
+1020 = { path = "fani-zefira-lubia-slone-paluszki.webp", caption = "Zefir Ultras on the right…", source = "M3n747" }
+1030 = { path = "fani-markusa-paskala-nie-lubia-slonych-paluszkow.webp", caption = "…Markus Paskal supporters on the left.", source = "M3n747" }
+1040 = { path = "kinga-posrodku-ringa.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
+
+
+
+2010 = { path = ".webp", caption = ".", source = "M3n747" }
+3010 = { path = ".webp", caption = ".", source = "M3n747" }
+4010 = { path = ".webp", caption = ".", source = "M3n747" }
+5010 = { path = ".webp", caption = ".", source = "M3n747" }
+6010 = { path = ".webp", caption = ".", source = "M3n747" }
+7010 = { path = ".webp", caption = ".", source = "M3n747" }
+8010 = { path = ".webp", caption = ".", source = "M3n747" }
