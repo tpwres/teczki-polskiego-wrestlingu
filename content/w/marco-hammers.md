@@ -80,7 +80,9 @@ After his partner from Legia Łysych, Olgierd, won the PpW Championship at [Duch
 
 ### Maniac Zone Wrestling (2024-2026)
 
-In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he faced and was defeated by another ex-PTW wrestler, [Samson](@/w/samson.md). At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych took on [Syriusz Dziedzic](@/w/dziedzic.md) and an MZW veteran [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a victorious Tag Team Match.
+In October 2024 Marco Hammers made his debut in [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), where he faced and was defeated by another ex-PTW wrestler, [Samson](@/w/samson.md). At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych took on [Syriusz Dziedzic](@/w/dziedzic.md) and an MZW veteran [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a victorious Tag Team Match. 
+
+At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) [Gustav Gryffin](@/w/gustav-gryffin.md) defeated [Tony Sheen](@/w/riverman.md) in a match for vacated [MZW Championship](@/c/mzw-championship.md). However, after the match [Zmowa](@/tt/zmowa.md) came out of the backstage and attacked the new Champion. [Mister Z](@/w/mister-z.md) then handed [Referee Seweryn](@/w/sedzia-seweryn.md) his contract briefcase, only for the referee to point out that the briefcase was empty. Marco Hammers then pulled out the contract from his trunks and stated that it belonged to the entire Zmowa, and he wanted to fight for the title. Mister Z agreed and allowed Marco to become MZW Champion.
 
 ### Legacy of Wrestling (2024-2026)
 
