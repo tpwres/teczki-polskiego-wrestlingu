@@ -17,11 +17,12 @@ has_video = false
 
 ## Build-up
 
+* At the [previous show](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md), a stipulation for a [PTW Championship](@/c/ptw-championship.md) Match between [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) was decided by Chairman [Łukasz Okoński](@/w/lukasz-okonski.md). He announced a "Do trzech razy sztuka" (lit.: "third time's a charm") match, where a winner is supposed to "defeat the opponent 3 times". This probably makes it a "3 out of 5 falls" match, but as per [Okoński's Q&A][live], detailed rules are supposed to be given by referees at a later date.
 * A [video][okon-zapowiada] published on 4.11.2026 disclosed early details of the show: a [PTW Championship](@/c/ptw-championship.md) Match between [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md), [Disco Pablo](@/w/disco-pablo.md) returning to PTW's ring in a match against ["Starboy" Nano Lopez](@/w/nano-lopez.md), and the next four Golden Ticket Tournament entrants: adeptka Paula (shortly thereafter renamed Valentina Vex) vs [Sigma Boy xD](@/w/sigma-boy.md), and [Whiteblade](@/w/whiteblade.md) vs [Conte](@/w/conte.md).
 * Valentina Vex vs [Sigma Boy xD](@/w/sigma-boy.md) was officially announced on 11.11.2026, and [Whiteblade](@/w/whiteblade.md) vs [Conte](@/w/conte.md) the day after.
 * On 13.11.2026 the match between Nano Lopez and Disco Pablo was officially confirmed and upgraded to a [PTW Underground Championship](@/c/ptw-underground-championship.md) Match.
 * Later the same day came the announcement of [CJ Klakson](@/w/cj-klakson.md) vs Damian Miller.
-* On 14.11.2026 the match between Conte and Whiteblade was changed to a Tag Team Match between First Class ([El G](@/w/el-g.md) & [Conte](@/w/conte.md)) and [Proroctwo](@/tt/proroctwo.md) ([Syriusz Dziedzic](@/w/dziedzic.md) & [Whiteblade](@/w/whiteblade.md)).
+* On 14.11.2026 the match between Conte and Whiteblade was changed to a Tag Team Match between First Class ([El G](@/w/el-g.md) & [Conte](@/w/conte.md)) and [Proroctwo](@/tt/proroctwo.md) ([Syriusz Dziedzic](@/w/dziedzic.md) & [Whiteblade](@/w/whiteblade.md)). To some confusion, it was announced that the member of winning team is eligible to Golden Ticket ladder match entry, though El G already won his at the previous show.
 * A few hours later [Kalom](@/w/kalom.md) vs Pierre was announced.
 
 ## Predicted card
@@ -43,6 +44,7 @@ has_video = false
 - - '[Spartan](@/w/spartan.md)(c)'
   - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - c: '[PTW Championship](@/c/ptw-championship.md)'
+  - s: 'Do trzech razy sztuka'
     nc: upcoming
 - - '[CJ Klakson](@/w/cj-klakson.md)'
   - 'Damian Miller'
@@ -61,3 +63,4 @@ has_video = false
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=466891)
 
 [okon-zapowiada]: https://www.facebook.com/reel/2261290081394138
+[live]: https://www.youtube.com/watch?v=baHX-sh_-T8
