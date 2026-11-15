@@ -32,12 +32,7 @@ both in singles and tag competition, including several multi-man matches.
 
 After his KPW run, Bravo became affiliated with [Prime Time Wrestling](@/o/ptw.md) and focused his social media channels on promoting the project.
 Ultimately, he didn't make even a single official in-ring appearance for the new promotion.
-His fellow KPW alumni [Sawicki](@/w/sawicki.md) also shared the same fate - initially joining but never getting a match opportunity.
-
-## In wrestling
-
-* Tag Teams and stables:
-  - [Kawaleria](@/tt/kawaleria.md) (2018, single storyline appearance)
+His fellow KPW alumni [Sawicki](@/w/sawicki.md) also shared a similar fate - initially joining but not getting a match opportunity for many years.
 
 ## References
 
