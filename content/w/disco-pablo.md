@@ -17,7 +17,7 @@ Disco Pablo is a Polish wrestler known for his appearances in [Legacy of Wrestli
 * Gimmicks/nicknames:
   - Disco Pablo {{ org_badge(orgs=['ptw', 'mzw', 'low']) }}
 * Trained by:
-  - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
+  - [PTW Academy](@/o/ptw-academy.md) (2021-2024; 2026-)
 
 ## Professional wrestling career
 
@@ -65,7 +65,7 @@ At [Four The Glory](@/e/low/2025-12-20-low-4.md) Disco Pablo defeated [Tony Shee
 
 ### Return to Prime Time Wrestling (2026-)
 
-Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Disco Pablo returned to PTW at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) as a commentator.
+Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Disco Pablo returned to PTW at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) as a commentator, at the same show he also got into quarell with reigning [PTW Underground Champion](@/c/ptw-underground-championship.md) - [Nano Lopez](@/w/nano-lopez.md) - which led to announcement of their Title Match at [Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md)
 
 ## In wrestling
 
