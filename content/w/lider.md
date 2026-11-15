@@ -12,7 +12,7 @@ Lider, also known as Black Joker, is a retired Polish wrestler best known for hi
 
 ## Basic info
 
-* Years active: 2011-2013, 2016-2017
+* Years active: 2011-2013, 2016-2017, 2026
 * Gimmicks/nicknames:
   - Black Joker {{ org_badge(orgs=['pxw']) }}
   - Lider {{ org_badge(orgs=['mzw']) }}
@@ -29,6 +29,10 @@ Black Joker made his backyard debut in [Polish Xtreme Wrestling](@/o/pxw.md) in 
 
 After the revival of wrestling in the Głuchołazy area, Black Joker - now under the ringname "Lider" - joined [Maniac Zone Wrestling](@/o/mzw.md) in their early days. He made his debut in November 2016 at [MZW Revolution](@/e/mzw/2016-11-05-mzw-revolution.md), where he faced and lost to, [Siwy](@/w/szymon-siwiec.md) via DQ. Lider made two more appearances, including a match against [Prince Victor](@/w/vic-golden.md) at [Beatdown II](@/e/mzw/2017-02-18-mzw-beatdown-2.md) being his last one, before ending his short stint in MZW and eventually retiring from wrestling altogether.
 
+### Shadow's final opponent (2026)
+
+In late September 2026 in an [interview][szedo-interwju] with [Center of Wrestling](@/o/cow.md) [Shadow](@/w/shadow.md) - who at that point was mere two matches away from retirement - named Lider as the person he'd like to have his final fight with. At [Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md) Lider, posing for an audience member, unexpectedly attacked Shadow following his match against [Zefir](@/w/zefir.md), telling him to "be careful what he wished for". Three weeks later MZW made an announcement that Lider would indeed be Shadow's final opponent, in a match to be held at [MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md).
+
 ## In wrestling
 
 * Finisher:
@@ -38,3 +42,5 @@ After the revival of wrestling in the Głuchołazy area, Black Joker - now under
 
 * [Polish Xtreme Wrestling](@/o/pxw.md):
   - PXW Championship (1 time)
+
+[szedo-interwju]: https://www.youtube.com/watch?v=rAZoDbu2UbM
