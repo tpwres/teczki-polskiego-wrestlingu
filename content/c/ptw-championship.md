@@ -185,7 +185,7 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
     en: '[PTW: Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md)'
     ed: 2026-09-19
 - - 'Spartan(c)'
-  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Vincent Caravaggio'
   - s: Singles Match
     en: '[PTW: Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md)'
     ed: 2026-11-21
