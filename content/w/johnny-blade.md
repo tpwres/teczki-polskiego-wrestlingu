@@ -84,7 +84,13 @@ In their match at the show, Zombie Johnny had a striking new look, and was also 
 
 #### The Father of Polish Ultraviolent
 
-After his de-zombification Johnny spent the latter half of 2025 being partialy involved in some of the storylines. He often teamed up with his friends, such as Biesiad and Stanisław Van Dobroniak, facing villainous teams, such as [Legia Łysych](@/tt/legia-lysych.md) and [Rodzina](@/tt/rodzina.md). Around that time he become known as "the Father of Polish Ultraviolent", or simply as "the Father" (_Ojciec_). His first attempt at parenting took place at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), where he faced a newcomer to PpW, [Antoni Ocean](@/w/antoni-ocean.md), in Trial By Blood Match. It was won by the Father, but proved that Antoni belonged in PpW.
+After his de-zombification Johnny spent the latter half of 2025 being partialy involved in some of the storylines. He often teamed up with his friends, such as Biesiad and Stanisław Van Dobroniak, facing villainous teams, such as [Legia Łysych](@/tt/legia-lysych.md) and [Rodzina](@/tt/rodzina.md). Around that time he become known as "the Father of Polish Ultraviolent", or simply as "the Father" (_Ojciec_). His first attempt at parenting took place at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md), where he faced a newcomer to PpW, [Antoni Ocean](@/w/antoni-ocean.md), in Trial By Blood Match. It was won by the Father, but proved that Antoni belonged in PpW. He also tested out [Bartosz Plata](@/w/plata.md) in one of his Great Test Match which took place at [Najlepsza Gala w Mieście: Hardcore Edition](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md).
+
+At [Trzeba Być](@/e/ppw/2026-02-21-ppw-trzeba-byc.md) Johnny defeated [Mister Z](@/w/mister-z.md) in a OG PpW Hardcore Dark Match and issued challenge for [PpW Championship](@/c/ppw-championship.md) against reigning champion - [Olgierd](@/w/olgierd.md). The duo faced each other in a Barbed Wire Mayhem Match at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) which resuled in Blade's devastating loss against champion. 
+
+#### The Hardcors
+
+After some time Johnny and [Biesiad](@/w/biesiad.md) focused more on PpW's Tag Team division, as both of them wanted to challenge reigning champions - [Rodzina](@/tt/rodzina.md) for [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). [The Hardcors](@/tt/the-hardcors.md) finally faced Rodzina members - [Oskar Alexander](@/w/oskar-alexander.md) and [Vic Golden](@/w/vic-golden.md) in a Championship Match at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) where they won after intervention of [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) - another team which stayed in conflict with Rodzina. This led to all three groups facing each other in TLC Match at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), where Rodzina regained their lost championship, thus ending Hardcores reign after 14 days.
 
 ### Dream Factory Wrestling (2017)
 
@@ -122,7 +128,6 @@ On 12th November 2026 Johnny posted an Instagram story containing a link to a [w
 
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultraviolent Championship](@/c/ppw-european-ultraviolent-championship.md) (2 times; inaugural)
-  - VcV Hardcore Championship (1 time)
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as a member of [The Hardcors](@/tt/the-hardcors.md)
 
    _Backyard Era Championships_:
@@ -131,6 +136,11 @@ On 12th November 2026 Johnny posted an Instagram story containing a link to a [w
   - PPW Championship (1 time)
   - CMLL Championship (1 time)
   - PPW Tag Team Championship (1 time; with [Automatico](@/w/rob-scaffold.md))
+ 
+#### International wrestling accomplishments
+
+* [VCV Original Wrestling][cm-vcv]:
+- VcV Hardcore Championship (1 time)
 
 [wola-wwa]: https://en.wikipedia.org/wiki/Wola
 [pieski]: @/e/ppw/2020-02-15-ppw-brawl-for-the-puppies.md
@@ -153,3 +163,4 @@ On 12th November 2026 Johnny posted an Instagram story containing a link to a [w
 [prosta]: @/e/ppw/2025-04-30-ppw-ostatnia-prosta.md
 [ll5]: @/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md
 [oto-jest-pytanie]: https://www.instagram.com/p/DdTt5i4HDac
+[cm-vcv]: https://www.cagematch.net/?id=8&nr=4215
