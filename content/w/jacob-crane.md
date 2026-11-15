@@ -53,7 +53,7 @@ Only a year later, almost to the day, on August 12, 2022, PTW's Facebook account
 
 After this dismissal, Crane posted about [relocating to Germany][aschaffenburg], and focused on his development at the WxW Academy in Gelsenkirchen. He appeared, in minor roles, at several WxW shows, including at World Tag Team Festival 2023, and 16 Carat Gold in 2024 where he challenged for the WxW Shotgun Championship. 
 
-### Return to PpW Ewenement Wrestling (2022-2024; 2026-present)
+### Return to PpW Ewenement Wrestling (2022-2024; 2026)
 
 Jacob made a comeback to PpW after over five years of absence, re-debuting in a match against [Steve Kuningas](@/w/steve-kuningas.md) at [Brak Mi Słów](@/e/ppw/2022-09-10-ppw-brak-mi-slow.md) in September 2022.
 Since then, he made regular appearances for PpW, and took up the role of head coach in the [PpW Dojo](@/o/dojo.md), training a new generation of wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) & [Goblin](@/w/goblin.md), as well as improving PpW Orginal wrestlers' in-ring abilities.
@@ -70,6 +70,10 @@ At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) he confronted the rei
 
 In May 2026 Jacob, along with [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/gustav-gryffin.md), announced the establishment of a foundation called [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) (_Foundation for the Development of Polish Wrestling_) - an organisation dedicated to the development of the Polish wrestling scene, running its independent shows and operating [Warszawska Szkoła Wrestlingu](@/o/dojo.md), a wrestling school previously known as Ewenement Dojo.
 
+#### Feud with Dieter Schwartz
+
+At [FRPW's show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Jacob faced [Dieter Schwartz](@/w/dieter-schwartz.md) in a Singles Match, which ended via Time-Limit Draw. At [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) the duo faced each other in a Word of Honour Match which - in contradiction to match's name - was won by Dieter in unhonourable manner. This led to Jacob challenging Dieter for one last match: a No Ropes Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md)
+
 ## International wrestling appearances
 
 Jacob started working internationally fairly early after his debut for MZW. He made his first appearance in Germany in 2018 at a Next Step Wrestling event. From that point on he made regular appearances in Germany, focusing mainly on wXw and wXw Academy, but also taking booking in smaller German promotions.
@@ -82,10 +86,11 @@ In 2024 Crane announced he was leaving Europe and [going to Japan][crane-bjpw], 
 
 * Finishers:
   - Crossface (2026-)
-  - Lariat
+  - Emerald Flowsion (2026-)
   - Package Piledriver (2018-2021)
 * Tag Teams and stables:
   - Tag Team with [Madman Charlie](@/w/sedzia-karol-gorski.md) (2018-2021)
+  - [Yosomono][yosomono-cm] (2025-)
 * Entrance music:
   - "Bad Reputation" by Adelitas Way
     {{ org_badge(orgs=['mzw']) }} (2017-2021) <br>
@@ -121,3 +126,4 @@ In 2024 Crane announced he was leaving Europe and [going to Japan][crane-bjpw], 
 [leaving-mzw]: https://www.facebook.com/thejacobcrane/posts/pfbid02nEzAxXoxgcYSq7eYbt5g2R9VhLwToYfMqSQSxWKEVqZtftS8a2hx5EfgjJph1N37l
 [crane-reveal]: https://www.facebook.com/thejacobcrane/posts/pfbid0W9EwSwj4ZC1Qaw2FyKGNGDtBfY1BS3VmXZpLNtNrwYpofvUEGqvmi5UzHuQYhrksl
 [crane-bjpw]: https://www.facebook.com/thejacobcrane/posts/pfbid074DUt2vMp9iTUk14ndX1g6scQMN7CgXPUz5ESn1gVrkeyn7bSA7SnVf96d5ghhipl
+[yosomono-cm]: https://www.cagematch.net/?id=29&nr=4601&name=Yosomono
