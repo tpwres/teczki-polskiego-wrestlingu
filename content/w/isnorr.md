@@ -92,7 +92,7 @@ At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander]
     {{ music(spot='4Y7FW4KF1L8SdPorm3rFBQ')}}
     {{ music(apple='1410929179?i=1410938192')}}
   - "What Do You Want From Me" by Pink Floyd
-    {{ org_badge(orgs=['ppw']) }} (2026-; as member of [Rodzina](@/tt/rodzina.md) <br>
+    {{ org_badge(orgs=['ppw']) }} (2026-; as part of [Rodzina](@/tt/rodzina.md) <br>
     {{ music(yt='A8i7248HqEY') }}
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
@@ -103,7 +103,7 @@ At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander]
   - [DFW Championship](@/c/dfw-championship.md) (1 time; final)
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultriaviolent Champion](@/c/ppw-european-ultraviolent-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - as part of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as part of [Rodzina](@/tt/rodzina.md)
 
 ## References
 
