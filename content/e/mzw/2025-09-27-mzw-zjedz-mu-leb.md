@@ -72,7 +72,7 @@ MZW Zjedz Mu Łeb (_Eat His Head_) was a show by [Maniac Zone Wrestling](@/o/mzw
 * Soon after, Dziedzic pinned Matt, with nobody to count the pin. [Sędzia Kornel](@/w/sedzia-kornel.md) then ran into the ring and started counting, but Buckna put his leg on the bottom rope, breaking the count.
 * Moments later, Matt Buckna executed another Spear, this time hitting Dziedzic as intended and winning the match.
 * As Matt celebrated his victory, Aron Wake "miraculously" rose from the wheelchair, entered the ring, removed the cast from his arm and clobbered Buckna with it. He then grabbed the Championship belt and promptly returned to his seat.
-* Felix Schweizer then came out of the backstage, snatched the title from Wake's hands and returned it to its rightful ower, while the angered Aron was helplessly flailing about in the wheelchair, kept from running Felix over by a bodyboard.
+* Felix Schweizer then came out of the backstage, snatched the title from Wake's hands and returned it to its rightful ower, while the angered Aron was helplessly flailing about in the wheelchair, kept from running Felix over by a bodyguard.
 
 ## References
 
