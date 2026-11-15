@@ -91,7 +91,7 @@ In January 2024 Alex Brave (then named S. Rafał) made his international debut a
     {{ music(spot='1wQPcfKUzpzrf6gcVqQh04')}}
     {{ music(apple='1485061326?i=1485061330')}}
    - "Path" by Apocalyptica
-    {{ org_badge(orgs=['ptw']) }} (2025-present, as part of Royal Rebels) <br>
+    {{ org_badge(orgs=['ptw']) }} (2025-present, as part of [Royal Rebels](@/tt/royal-rebels.md) <br>
     {{ music(yt='m9xqO9kKqyk')}}
     {{ music(spot='6CD2UMJyPuN5P1UWHCFXmd')}}
     {{ music(apple='1646530800?i=1646530876')}}
