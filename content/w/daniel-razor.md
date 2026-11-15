@@ -42,6 +42,10 @@ After successfully defending his Championship in three open challenges, his reig
 
 After losing his Championship to Lopez, Daniel got involved in a heated rivalry against the former fan-favourite Lopez. His rival, however, refused to grant him the rematch right away. Instead, Daniel was put in a series of vicious "trials". This included challenges such as a Battle Royal with a bounty on Razor's head at [World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md), a Submission Match against Gabriel Grip at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), and a Gauntlet Match at [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md). Daniel managed to overcome the odds, scoring his rematch for the [Underground Championship](@/c/ptw-underground-championship.md) in a Last Man Standing Match at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md). Daniel ultimately lost to Nano Lopez, and dropped his pursuit of the Underground Championship.
 
+#### Feud with Fabian
+
+Shortly after his feud with Lopez, Razor got involved in a feud against [Fabian](@/w/fabian.md), which started officially at [Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md) after Daniel ruined Fabian's festival. At [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) Razor was defeated by Fabian, but their rivalry proceeded, as both of them recruited a Tag Team partners. Fabian teamed up with Pierre, and Razor called up his Lucky 8 rookie - [Kalom](@/w/kalom.md). They faced each other at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) where Razor's team emerged victorious.
+
 ## Other media
 
 In late September 2025, Bytom's official city website posted a short [news piece][wrestler-from-bytom] about Daniel (in Polish), simply titled "Wrestler from Bytom".
