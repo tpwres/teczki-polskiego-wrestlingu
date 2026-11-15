@@ -9,7 +9,7 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Disco Pablo is a Polish wrestler known for his appearances in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024.
+Disco Pablo is a Polish wrestler known for his appearances in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024, and from 2026 onwards.
 
 ## Basic info
 
