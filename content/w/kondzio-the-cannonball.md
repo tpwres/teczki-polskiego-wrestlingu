@@ -39,7 +39,11 @@ At [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) hostage Kondzio has been use
 ## In wrestling
 
 * Entrance music:
-  -
+  - "Blue Monday" by Orgy
+    {{ org_badge(orgs=['ppw', 'frpw']) }} (2026-; as part of Boro & Muti) <br>
+    {{ music(yt='-8gVmD39AmI')}}
+    {{ music(spot='5267gVdYWrLoz6ClOhlqmE')}}
+    {{ music(apple='1702174321?i=1702176808')}}
 
-[kondzio-porwanie]: https://www.instagram.com/reel/Dd6)
-[kondzio-ucieczka]:
+[kondzio-porwanie]: https://www.instagram.com/reel/Dd6
+[kondzio-ucieczka]: https://www.instagram.com/reels/DerwhjsqTnm/
