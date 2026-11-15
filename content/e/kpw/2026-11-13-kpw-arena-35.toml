@@ -48,7 +48,7 @@
 
 4010 = { path = "juz-nie-adept-tylko-szymon-dragan.webp", caption = "[Szymon Dragan's](@/w/szymon-dragan.md) entrance.", source = "M3n747" }
 4020 = { path = "czekaj-to-bylo-w-lewo-czy-w-prawo-bo-nie-pamietam.webp", caption = "Erik Asmus tries to unscrew [Szymon Dragan's](@/w/szymon-dragan.md) head.", source = "M3n747" }
-4030 = { path = "z-cyklu-zdjec-zrobionych-sekunde-przed-katastrofa.webp", caption = "Szymon Dragan about to experience the weight of material existence, metaphorical and otherwise.", source = "M3n747" }
+4030 = { path = "z-cyklu-zdjec-zrobionych-sekunde-przed-katastrofa.webp", caption = "Szymon Dragan about to experience the weight of material existence, metaphorically and otherwise.", source = "M3n747" }
 4040 = { path = "wynik-malo-zaskakujacy-ale-bardzo-niechciany.webp", caption = "Erik Asmus wins.", source = "M3n747" }
 
 5010 = { path = ".webp", caption = ".", source = "M3n747" }
