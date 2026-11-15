@@ -31,21 +31,16 @@
 2070 = { path = "tomczak-z-ukulele-to-jak-jon-arbuckle-z-akordeonem.webp", caption = "[Tomczak](@/w/tomczak.md) has a ukulele and is not afraid to use it on [Greg](@/w/greg.md).", source = "M3n747" }
 2080 = { path = "czy-slyszysz-szum-jesionu.webp", caption = "Tomczak pushed a baseball bat into Greg's ear.", source = "M3n747" }
 2090 = { path = "skoro-horror-mecz-to-go-powinien-kijem-kendo-do-ringu-przyszpilic.webp", caption = "Tomczak attempts to pin Greg.", source = "M3n747" }
-2100 = { path = ".webp", caption = ".", source = "M3n747" }
-2110 = { path = ".webp", caption = ".", source = "M3n747" }
-2120 = { path = ".webp", caption = ".", source = "M3n747" }
-2130 = { path = ".webp", caption = ".", source = "M3n747" }
-2140 = { path = ".webp", caption = ".", source = "M3n747" }
-2150 = { path = ".webp", caption = ".", source = "M3n747" }
-2160 = { path = ".webp", caption = ".", source = "M3n747" }
-2170 = { path = ".webp", caption = ".", source = "M3n747" }
-2180 = { path = ".webp", caption = ".", source = "M3n747" }
-2190 = { path = ".webp", caption = ".", source = "M3n747" }
-
-
-
+2100 = { path = "gdzie-idzie-nie-widzi-ze-zakaz-jest.webp", caption = "Greg about to clobber Tomczak with a road sign.", source = "M3n747" }
+2110 = { path = "stary-model-widac-zlacza-kompozytowe-i-dwa-euro-scarty.webp", caption = "Tomczak with a TV that just so happened to be under the ring.", source = "M3n747" }
+2120 = { path = "wspolczuje-plecom-tomczaka-w-tym-momencie.webp", caption = "Greg attempts to squeeze the breath out of Tomczak.", source = "M3n747" }
+2130 = { path = "przylozyl-poteznie-piescia-ponizej-pasa.webp", caption = "[Tomczak](@/w/tomczak.md) low-blows Greg.", source = "M3n747" }
+2140 = { path = "no-i-gitara.webp", caption = "[Tomczak](@/w/tomczak.md) defeats Greg, although [Krystian Czekaj](@/w/krystian-czekaj.md) appears to question his methods.", source = "M3n747" }
 
 3010 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
 4010 = { path = ".webp", caption = ".", source = "M3n747" }
 5010 = { path = ".webp", caption = ".", source = "M3n747" }
 6010 = { path = ".webp", caption = ".", source = "M3n747" }
