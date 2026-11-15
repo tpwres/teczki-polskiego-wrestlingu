@@ -8,14 +8,14 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Lider, also known as Black Joker, is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He had also previously worked for the Głuchołazy-based backyard federation [Polish Xtreme Wrestling](@/o/pxw.md).
+Lider, also known as Black Joker, is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md). He had also previously worked for the Głuchołazy-based backyard federation [Polish Xtreme Wrestling](@/o/pxw.md). He also made appearance for [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
-* Years active: 2011-2013, 2016-2017
+* Years active: 2011-2013, 2016-2017; 2026
 * Gimmicks/nicknames:
   - Black Joker {{ org_badge(orgs=['pxw']) }}
-  - Lider {{ org_badge(orgs=['mzw']) }}
+  - Lider {{ org_badge(orgs=['mzw', 'low']) }}
 * Trained by:
   - MZW Academy (2016-2017)
 
@@ -29,10 +29,18 @@ Black Joker made his backyard debut in [Polish Xtreme Wrestling](@/o/pxw.md) in 
 
 After the revival of wrestling in the Głuchołazy area, Black Joker - now under the ringname "Lider" - joined [Maniac Zone Wrestling](@/o/mzw.md) in their early days. He made his debut in November 2016 at [MZW Revolution](@/e/mzw/2016-11-05-mzw-revolution.md), where he faced and lost to, [Siwy](@/w/szymon-siwiec.md) via DQ. Lider made two more appearances, including a match against [Prince Victor](@/w/vic-golden.md) at [Beatdown II](@/e/mzw/2017-02-18-mzw-beatdown-2.md) being his last one, before ending his short stint in MZW and eventually retiring from wrestling altogether.
 
+### Legacy of Wrestling (2026)
+
+After [Shadow's](@/w/shadow.md) victory over [Zefir](@/o/zefir.md) at [LoW's](@/o/low.md) show [What's in the Box?](@/e/low/2026-10-24-low-7.md) he was attacked with a Superkick from a mysterious figure posing for an audience member, who told him to "be careful what he wished for" before being removed from the ring by the staff. This unexpected interruption was caused by a Lider, whom he named in an interview with [Center of Wrestling](@/o/cow.md) as somebody he'd like to have his final match with.
+
+### Return to Maniac Zone Wrestling (2026)
+
+After Lider's attack at Legacy of Wrestling, it was confirmed, that in his last match in career Shadow will face his childhood friend - Lider. 
+
 ## In wrestling
 
 * Finisher:
-  - Superkick (2011-2017)
+  - _Cracked jaw_ (Superkick) (2011-2017; 2026)
 
 ## Championships and accomplishments
 
