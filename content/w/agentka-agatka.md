@@ -57,7 +57,7 @@ After leaving Rodzina, Agatka fully turned face and focused on going against the
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. She defeated [Gloria G Szek](@/w/gloria-g-szek.md) in a Singles Match. 
+Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. She defeated [Gloria G Szek](@/w/gloria-g-szek.md) in a Singles Match. Later on, she made her appearances on numerous FRPW shows both in Singles and Tag Team competition.
 
 ## In wrestling
 
@@ -70,7 +70,7 @@ Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/
     - [Oskar Alexander](@/w/oskar-alexander.md) (2024-2026)
     - [Vic Golden](@/w/vic-golden.md) (2025-2026)
 * Managed by:
-    - [Oskar Alexander](@/w/oskar-alexander.md) (2025-)
+    - [Oskar Alexander](@/w/oskar-alexander.md) (2025)
 * Entrance music:
   - "Co Mi Panie Dasz" by Bajm
     {{ org_badge(orgs=['ppw', 'frpw']) }} (2025-) <br>
@@ -83,7 +83,7 @@ Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/
     {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
     {{ music(apple='1485632394?i=1485632668')}}
   - "What Do You Want From Me" by Pink Floyd
-    {{ org_badge(orgs=['ppw']) }} (2025-2026, both solo, and when managing [Oskar Alexander](@/w/oskar-alexander.md) )) <br>
+    {{ org_badge(orgs=['ppw']) }} (2025-2026, both solo, and as part of [Rodzina](@/tt/rodzina.md) )) <br>
     {{ music(yt='A8i7248HqEY') }}
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
