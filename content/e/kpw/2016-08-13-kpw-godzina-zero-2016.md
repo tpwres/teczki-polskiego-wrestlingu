@@ -33,7 +33,7 @@ The venue for this event was the [Hall of Sports](@/v/gdynskie-centrum-sportu.md
   - '[Damian Lambert](@/w/damian-lambert.md)'
   - '[Peter Pannache](@/w/peter-pannache.md)'
   - s: Three Way Match
-- - '[Sawicki](@/w/sawicki.md)'
+- - '[Sawicki](@/w/schwarzmann.md)'
   - '[Elliott Jordan](@/w/elliott-jordan.md)'
 - - '[Ron Corvus](@/w/ron-corvus.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md) w/ [Krzysztof Zasada](@/w/krzysztof-zasada.md)'
@@ -55,10 +55,10 @@ The venue for this event was the [Hall of Sports](@/v/gdynskie-centrum-sportu.md
 
 ### Highlights
 
-* [Rosetti](@/w/rosetti.md) distracts Jordan, and [Sawicki](@/w/sawicki.md) low blows him from behind.
+* [Rosetti](@/w/rosetti.md) distracts Jordan, and [Sawicki](@/w/schwarzmann.md) low blows him from behind.
 * [Piękny Kawaler](@/w/piekny-kawaler.md) enters the ring with his entire stable [Kawaleria](@/tt/kawaleria.md) dressed in dark robes and holding flaming torches.
 * After [Kamil Aleksander](@/w/kamil-aleksander.md) scored the second pin to even the score, Kawaleria tried to interfere, but [Kaszub](@/w/kaszub.md) and [Robert Star](@/w/robert-star.md) came into the ring and stopped them.
-* Then [Rosetti](@/w/rosetti.md) and [Sawicki](@/w/sawicki.md) arrived to even the odds. The rest of the locker room followed, and a huge brawl broke out. Referee unsuccessfully tried to throw them out, later threatening to stop the match, and to disqualify Kawaler.
+* Then [Rosetti](@/w/rosetti.md) and [Sawicki](@/w/schwarzmann.md) arrived to even the odds. The rest of the locker room followed, and a huge brawl broke out. Referee unsuccessfully tried to throw them out, later threatening to stop the match, and to disqualify Kawaler.
 * After Robert Star lost to Jon Ryan, a young child in the audience was visibly upset. The crowd started chanting "Pociesz dziecko!" (_Comfort the child!_), prompting Star to give the boy his aviator glasses. (Sitting in front of the boy is young [Chemik](@/w/chemik.md), who would join the KPW school around a year later.)
 
 ## References

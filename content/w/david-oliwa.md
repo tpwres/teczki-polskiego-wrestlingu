@@ -31,7 +31,7 @@ David Oliwa made his in-ring debut as a rookie in [Do Or Die Wrestling](@/o/ddw.
 
 #### Debut 
 
-After DDW folded, David immediately joined [Kombat Pro Wrestling](@/o/kpw.md), DDW's successor organization. He debuted at their show at [Gdynia Game Festival](@/e/kpw/2015-12-11-kpw-ggf.md) facing [Boski Ostrowski](@/w/ostrowski.md). He was portrayed as babyface throughout most of his early career, facing wrestlers such as [Gracjan Korpo](@/w/gracjan-korpo.md) and [Sawicki](@/w/sawicki.md). 
+After DDW folded, David immediately joined [Kombat Pro Wrestling](@/o/kpw.md), DDW's successor organization. He debuted at their show at [Gdynia Game Festival](@/e/kpw/2015-12-11-kpw-ggf.md) facing [Boski Ostrowski](@/w/ostrowski.md). He was portrayed as babyface throughout most of his early career, facing wrestlers such as [Gracjan Korpo](@/w/gracjan-korpo.md) and [Sawicki](@/w/schwarzmann.md). 
 
 #### Teaming with Ostrowski
 

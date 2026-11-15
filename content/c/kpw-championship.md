@@ -134,7 +134,7 @@ Two days later, Robert Star was fired from KPW for breaking the terms of his agr
   - '[Kamil Aleksander](@/w/kamil-aleksander.md)'
   - '[Peter Pannache](@/w/peter-pannache.md)'
   - '[Ron Corvus](@/w/ron-corvus.md)'
-  - '[Sawicki](@/w/sawicki.md)'
+  - '[Sawicki](@/w/schwarzmann.md)'
   - s: Six Way Elimination Match
     en: '[KPW Arena 14: Następny Poziom](@/e/kpw/2019-06-15-kpw-arena-14.md)'
     ed: 2019-06-15

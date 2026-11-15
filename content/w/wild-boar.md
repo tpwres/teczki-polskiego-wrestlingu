@@ -23,7 +23,7 @@ Wild Boar is a Welsh pro wrestler, best known for his run in NXT UK with his tag
 
 ### Kombat Pro Wrestling (2017-2020)
 
-Wild Boar made his debut on Polish soil back in August 2017, where he faced the regining [KPW Champion](@/c/kpw-championship.md) [Piękny Kawaler](@/w/piekny-kawaler.md) in a Singles Match, but he was unsuccesfull in winning that bout. He made his return to Poland in 2019, when he and [Primate](@/w/primate.md) won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) from [Sawicki](@/w/sawicki.md) and [Rosetti](@/w/rosetti.md), but due to the COVID-19 pandemic they were unable to defend the titles for the most part of their title reign. When the pandemic finally ended, Wild Boar was not able to defend his championship due to an injury, so he and Primate were forced to vacate their titles.
+Wild Boar made his debut on Polish soil back in August 2017, where he faced the regining [KPW Champion](@/c/kpw-championship.md) [Piękny Kawaler](@/w/piekny-kawaler.md) in a Singles Match, but he was unsuccesfull in winning that bout. He made his return to Poland in 2019, when he and [Primate](@/w/primate.md) won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) from [Sawicki](@/w/schwarzmann.md) and [Rosetti](@/w/rosetti.md), but due to the COVID-19 pandemic they were unable to defend the titles for the most part of their title reign. When the pandemic finally ended, Wild Boar was not able to defend his championship due to an injury, so he and Primate were forced to vacate their titles.
 
 ## In wrestling
 

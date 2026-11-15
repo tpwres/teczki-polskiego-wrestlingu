@@ -60,7 +60,7 @@ has_video = true
   - 'Jordan Wolff'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
-  - '[Sawicki](@/w/sawicki.md)'
+  - '[Sawicki](@/w/schwarzmann.md)'
   - s: Battle Royal
 - - '[_🇵🇱_ Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[_🇮🇹_ El G](@/w/el-g.md)'
