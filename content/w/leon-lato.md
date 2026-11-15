@@ -35,9 +35,9 @@ At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Leon fac
 
 Leon debuted for [PpW](@/o/ppw.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) where he was booked for a Tag Team Match, partnering with [Antoni Ocean](@/w/antoni-ocean.md) against [Sambor](@/w/sambor.md) & [Marcelito](@/w/marcelito.md). He is the second active KPW wrestler to appear at a PpW show, following [Filip Fux](@/w/filip-fux.md) (who also worked at the same event).
 
-### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Lato made his first appearance for [FRPW](@/o/frpw.md) at their [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he was one of the entrants in the HeelTurn Invitational Tournament. Two events later, in [Warka](@/e/frpw/2026-10-18-frpw-warka.md), he defeated [Olgierd](@/w/olgierd.md) in the tournament finals, winning the HeelTurn trophy.
+Lato made his first appearance for [FRPW](@/o/frpw.md) at their [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he was one of the entrants in the HeelTurn Invitational Tournament. Two events later, in [Warka](@/e/frpw/2026-10-18-frpw-warka.md), he defeated [Olgierd](@/w/olgierd.md) in the tournament finals, winning the HeelTurn trophy. During the said match he suffered a shoulder injury which sidelined him from competition for a few months, what he announced at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md)
 
 ## International wrestling appearances 
 
