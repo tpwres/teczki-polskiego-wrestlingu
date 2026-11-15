@@ -43,6 +43,10 @@ Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at thei
 
 Antoni Ocean made his debut for [Legacy of Wrestling](@/o/low.md) at their [What's In The Box?](@/e/low/2026-10-24-low-7.md) show in October 2026, when he teamed up with [Markus Paskal](@/w/markus-paskal.md) to face [Biuro Prasowe](@/tt/biuro-prasowe.md).
 
+## International wrestling appearances
+
+From 2026 Antoni started making occassional appearances abroad, most notably at Dojo Shows for Dresden-based Pro Wrestling School.
+
 ## In wrestling
 
 * Finishers:
