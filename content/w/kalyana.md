@@ -46,6 +46,11 @@ From August 2026 onwards Kalyana started making ocassional appearances abroad. M
     {{ music(spot='6LoQHIo74tOzQ8EsLEkhgF')}}
     {{ music(apple='1444865503?i=1444865505')}}
 
+## Championships and accomplishments
+
+* [PpW Ewenement](@/o/ppw.md):
+  - Queen Jadwiga's Battle Royal (2026)
+
 ## Internet presence
 
 * [Kalyana's Instagram profile](https://www.instagram.com/iamkalyana_)
