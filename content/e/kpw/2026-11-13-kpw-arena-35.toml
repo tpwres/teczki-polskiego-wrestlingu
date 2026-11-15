@@ -24,13 +24,13 @@
 
 2010 = { path = "czekaj-greg.webp", caption = "[Greg's](@/w/greg.md) entrance. In the background stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
 2020 = { path = "ale-wielka-wykalaczka.webp", caption = "A kendo stick.", source = "M3n747" }
-2030 = { path = ".webp", caption = ".", source = "M3n747" }
-2040 = { path = ".webp", caption = ".", source = "M3n747" }
-2050 = { path = ".webp", caption = ".", source = "M3n747" }
-2060 = { path = ".webp", caption = ".", source = "M3n747" }
-2070 = { path = ".webp", caption = ".", source = "M3n747" }
-2080 = { path = ".webp", caption = ".", source = "M3n747" }
-2090 = { path = ".webp", caption = ".", source = "M3n747" }
+2030 = { path = "najpierw-kijkiem-zadam-bol-potem-krzeslem-zadam-smierc.webp", caption = "[Greg](@/w/greg.md) chooses his weapon based on the volume of audience applause.", source = "M3n747" }
+2040 = { path = "skoczyc-z-trzeciej-liny-to-nie-takie-hop-siup.webp", caption = "Greg attacks Tomczak with the kendo stick, jumping from the top rope…", source = "M3n747" }
+2050 = { path = "lancuch-przyczynowo-skutkowy.webp", caption = "…but unimpressed Tomczak responds with a swing of the steel chain.", source = "M3n747" }
+2060 = { path = "niby-dwie-swietlowki-ma-a-tak-ciemno-jest-ze-go-ledwo-widac.webp", caption = "Greg jumps from the ladder, about to hit Tomczak's back with a couple of light tubes.", source = "M3n747" }
+2070 = { path = "tomczak-z-ukulele-to-jak-jon-arbuckle-z-akordeonem.webp", caption = "[Tomczak](@/w/tomczak.md) has a ukulele and is not afraid to use it on [Greg](@/w/greg.md).", source = "M3n747" }
+2080 = { path = "czy-slyszysz-szum-jesionu.webp", caption = "Tomczak pushed a baseball bat into Greg's ear.", source = "M3n747" }
+2090 = { path = "skoro-horror-mecz-to-go-powinien-kijem-kendo-do-ringu-przyszpilic.webp", caption = "Tomczak attempts to pin Greg.", source = "M3n747" }
 2100 = { path = ".webp", caption = ".", source = "M3n747" }
 2110 = { path = ".webp", caption = ".", source = "M3n747" }
 2120 = { path = ".webp", caption = ".", source = "M3n747" }
