@@ -13,7 +13,7 @@ Kamil Aleksander is a semi-retired Polish wrestler best known for his time in [D
 
 ## Basic info
 
-* Years active: 2005-2019; 2026-
+* Years active: 2005-2019; 2026
 * Gimmicks/nicknames:
   - The Seraphim {{ org_badge(orgs=['piwg']) }}
   - Kamil Manuszewski {{ org_badge(orgs=['ddw']) }}
@@ -33,7 +33,7 @@ Once Kamil made his transfer to DDW, he quickly debuted in the federation at the
 
 After a short series of defeats in 2013, Kamil got back on track during the tournament for the vacated DDW International Championship at [All Or Nothing II](@/e/ddw/2014-08-17-ddw-all-or-nothing-2.md) in August 2014, where he defeated Klarys, [Ron Corvus](@/w/ron-corvus.md), and finally [Renegade](@/w/renegade.md) to become the second DDW International Champion in history. Kamil Aleksander held the title up until DDW's closure after [Baltikon](@/e/ddw/2015-07-24-ddw-baltikon.md) in July 2015, which marks the end of his reign, lasting about 341 days.
 
-### Kombat Pro Wrestling (2015-2019; 2026-)
+### Kombat Pro Wrestling (2015-2019; 2026)
 
 #### First run and retirement
 
@@ -43,9 +43,9 @@ After that victory Kamil spent most of 2018 and 2019 in championship pursuits, t
 
 Kamil Aleksander fought his last match in KPW at [KPW Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md) where he was defeated by Reinbakh. After that he seemingly retired from in-ring activites and focused solely on coaching.
 
-#### Return
+#### Return and proper retirement
 
-Over six years later, Kamil Aleksander made a surprise appearance at [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) where he announced his return to the ring. Markus Paskal, KPW's newest debutant at the time, introduced Kamil as his mentor and tag team partner in a match against [Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md).
+Over six years later, Kamil Aleksander made a surprise appearance at [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) where he announced his return to the ring. [Markus Paskal](@/w/markus-paskal.md), KPW's newest debutant at the time, introduced Kamil as his mentor and tag team partner in a match against [Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md). After a few matches, Kamil challenged his protigee - Markus - for a Career vs Career Match at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md). Kamil ultimately lost the match, which marked the last test for Paskal and officially the last match in Kamil's career. 
 
 ## International wrestling appearances 
 
