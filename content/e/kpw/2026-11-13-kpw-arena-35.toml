@@ -37,7 +37,14 @@
 2130 = { path = "przylozyl-poteznie-piescia-ponizej-pasa.webp", caption = "[Tomczak](@/w/tomczak.md) low-blows Greg.", source = "M3n747" }
 2140 = { path = "no-i-gitara.webp", caption = "[Tomczak](@/w/tomczak.md) defeats Greg, although [Krystian Czekaj](@/w/krystian-czekaj.md) appears to question his methods.", source = "M3n747" }
 
-3010 = { path = ".webp", caption = ".", source = "M3n747" }
+3010 = { path = "rytualy-jakies.webp", caption = "Four robed figures surround Greg…", source = "M3n747" }
+3020 = { path = "bracia-zakonu-sw-wpierdzielu.webp", caption = "…and administer a beatdown…", source = "M3n747" }
+3030 = { path = "konkurs-mody-mnisiej.webp", caption = "…before striking a pose…", source = "M3n747" }
+3040 = { path = "vier-deutsche-moenche.webp", caption = "…and revealing themselves as Erik Asmus, Veit Müller (front), [Hans Schulte](@/w/hans-schulte.md) (back) and Friedrich Pohlmann.", source = "M3n747" }
+3050 = { path = "zeksternalizowana-flagellacja.webp", caption = "Erik Asmus, Friedrich Pohlmann and [Veit Müller](@/w/veit-mueller.md) hold Greg, as [Hans Schulte](@/w/hans-schulte.md) whips him with a leather belt.", source = "M3n747" }
+3060 = { path = "a-tera-zrobimy-raiden-wins.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) is about to zap Greg's nethers with a taser…", source = "M3n747" }
+3070 = { path = "oliwa-na-niemcow-wplywa.webp", caption = "…but [David Oliwa](@/w/david-oliwa.md) make a surprise save.", source = "M3n747" }
+3080 = { path = "i-co-z-tego-ze-znam-niemiecki-tlumacz-im.webp", caption = "[David Oliwa](@/w/david-oliwa.md) tells the Germans how it is, while Krystian Czekaj translates.", source = "M3n747" }
 
 
 
