@@ -28,6 +28,21 @@ El G is an Italian wrestler best known for his appearances in [Prime Time Wrestl
 
 El G made his first appearance in Poland working for [Prime Time Wrestling](@/o/ptw.md) at their show [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md). El G took part in the International Showcase Match which was won by Lucia Lee. From that point on he started making occasional appearances for the federation, mostly working as a villainous enhancement talent.
 
+Later on, as he started to make more regular appearances, El G shifted towards babyface persona. He regularly teamed up teamed up with fellow Italian [Conte](@/w/conte.md) as part of "First Class" Tag Team, as they embraced more comedic personas highly influenced by Mario & Luigi from "Super Mario" video game franchise. 
+
+## In wrestling
+
+* Finishers:
+  - _G-DDT_ (Escalera Tornado DDT) (2026-)
+  - _G-aneuver_ (Abdominal Leg Scissors O'Connor Roll) (2026)
+
+* Entrance music:
+  - "Lights Out" by Royal Blood
+    {{ org_badge(orgs=['ptw']) }} (2026-)<br>
+    {{ music(yt='ZSznpyG9CHY')}}
+    {{ music(spot='3mkmTUcZtQxuKpyM44lGj6')}}
+    {{ music(apple='1222707104?i=1222707128')}}
+
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
