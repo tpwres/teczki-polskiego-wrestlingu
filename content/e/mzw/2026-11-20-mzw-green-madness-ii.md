@@ -31,8 +31,8 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
   - nc: upcoming
 - - '[Shadow](@/w/shadow.md)'
   - '[Lider](@/w/lider.md)'
-- nc: upcoming
-  s: "Shadow's Final Match"
+  - nc: upcoming
+    s: "Shadow's Final Match"
 - - '[Oskar Alexander](@/w/oskar-alexander.md) & Stefan'
   - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - s: Tag Team Match
