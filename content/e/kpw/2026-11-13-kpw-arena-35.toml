@@ -51,20 +51,15 @@
 4030 = { path = "z-cyklu-zdjec-zrobionych-sekunde-przed-katastrofa.webp", caption = "Szymon Dragan about to experience the weight of material existence, metaphorically and otherwise.", source = "M3n747" }
 4040 = { path = "wynik-malo-zaskakujacy-ale-bardzo-niechciany.webp", caption = "Erik Asmus wins.", source = "M3n747" }
 
-5010 = { path = ".webp", caption = ".", source = "M3n747" }
-5020 = { path = ".webp", caption = ".", source = "M3n747" }
-5030 = { path = ".webp", caption = ".", source = "M3n747" }
-5040 = { path = ".webp", caption = ".", source = "M3n747" }
-5050 = { path = ".webp", caption = ".", source = "M3n747" }
-5060 = { path = ".webp", caption = ".", source = "M3n747" }
-5070 = { path = ".webp", caption = ".", source = "M3n747" }
-5080 = { path = ".webp", caption = ".", source = "M3n747" }
-5090 = { path = ".webp", caption = ".", source = "M3n747" }
-5100 = { path = ".webp", caption = ".", source = "M3n747" }
-5110 = { path = ".webp", caption = ".", source = "M3n747" }
-5120 = { path = ".webp", caption = ".", source = "M3n747" }
-5130 = { path = ".webp", caption = ".", source = "M3n747" }
-5140 = { path = ".webp", caption = ".", source = "M3n747" }
+5010 = { path = "sam-della-valle.webp", caption = "[Sam Della Valle](@/w/sam-rogers.md).", source = "M3n747" }
+5020 = { path = "uprzejma-wymiana-opinii.webp", caption = "Eryk Lesak exchanges pleasantries with the fans.", source = "M3n747" }
+5030 = { path = "nowe-gacie-stary-pas.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) in his new ring gear.", source = "M3n747" }
+5040 = { path = "nie-nie-tak-wyglada-piesc-zobacz.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) has [Sam Della Valle](@/w/sam-rogers.md) in a Chokehold.", source = "M3n747" }
+5050 = { path = "trzeci-lesak.webp", caption = "Lesak jumps from the top rope. To the left stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+5060 = { path = "krystian-nie-umieraj.webp", caption = "[Sam Della Valle](@/w/sam-rogers.md) just accidentally knocked out Krystian Czekaj. In the background [Eryk Lesak](@/w/eryk-lesak.md) is looking to cheat.", source = "M3n747" }
+5070 = { path = "znany-takze-jako-worek-ziemniakow-carry.webp.webp", caption = "Eryk Lesak with Krystian Czekaj in a Sleepy Kitten Carry.", source = "M3n747" }
+5080 = { path = "marcelito-w-kpw-nie-bylo-a-i-tak-zgasil-sedziemu-swiatlo.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md), still groggy from the hit, awards the victory to [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
+5090 = { path = "ech-no-i-znowu-wzial-i-wygral-no.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) victorious.", source = "M3n747" }
 
 6010 = { path = ".webp", caption = ".", source = "M3n747" }
 7010 = { path = ".webp", caption = ".", source = "M3n747" }
