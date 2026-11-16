@@ -51,12 +51,12 @@ At [PpW x Wixapol: Wrestling Rave Na Basenie](@/e/ppw/2026-08-15-ppw-wixapol.md)
 
 On April 27th, a women's match at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) was announced. Martynka, now with an added "Szeku" nickname (after the [manufacturer][szek] of her outfit), would make her singles debut against [Agentka Agatka](@/w/agentka-agatka.md). This marked the first women's match between two Polish performers in over six years, since [Bianca](@/w/bianca.md) vs [Diana Rega](@/w/diana-strong.md) at [KPW Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md). Gloria followed up by wrestling at the promotion's [first fully independent show](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md), teaming up with [Goblin](@/w/goblin.md) against [Agentka Agatka](@/w/agentka-agatka.md) and [Gabriel Queen](@/w/gabriel-queen.md), although to no avail. Later that year she was announced for a variety of matches at [FRPW's Autumn tour](@/e/frpw-wrestling-w-twoim-miescie.md).
 
-At FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Gloria worked as a heel. She managed [Jakub](@/w/jakub.md), seemingly referencing a villainous stable active in the German wrestling scene known as "Kolektyw". She continued her role as Kolektyw's member by teaming up with [Olgierd](@/w/olgierd.md) to face [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md) at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md). After Kolektyw's victory Gloria challenged Kalyana for a match at [FRPW's show in Krasnystaw](@/e/frpw/2026-11-28-frpw-krasnystaw.md) with #1 Contendership for wXw Academy Championship on the line. 
+At FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Gloria worked as a heel. She managed [Jakub](@/w/jakub.md), seemingly referencing a villainous stable active in the German wrestling scene known as "Kolektyw" (_The Collective_). She continued her role as Kolektyw's member by teaming up with [Olgierd](@/w/olgierd.md) to face [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md) at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md). After Kolektyw's victory, Gloria challenged Kalyana for a match at [FRPW's show in Krasnystaw](@/e/frpw/2026-11-28-frpw-krasnystaw.md) with the #1 Contendership for wXw Academy Championship on the line. 
 
 ## In wrestling
 
 * Finishers:
-  - Fireman's carry takeover (2026-)
+  - Fireman's Carry Takeover (2026-)
 * Tag Teams and Stables:
   - Kolektyw (2026-)
 * Entrance music:
@@ -81,9 +81,11 @@ At FRPW's [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Gloria worked a
 ## Internet presence
 
 #### As Gloria
+
 * [Gloria's official Instagram](https://www.instagram.com/gloria_g_szek/)
 
 #### Istota Wrestlingu
+
 * [IstotaWrestlingu][istota] on YouTube
 * [istotawrestlingu](https://www.instagram.com/istotawrestlingu/) on Instagram
 * [Istota's Official Facebook profile](https://www.facebook.com/profile.php?id=61565897124134)
