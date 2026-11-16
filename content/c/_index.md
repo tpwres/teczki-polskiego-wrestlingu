@@ -27,7 +27,7 @@ template = "index.html"
 
 | Years active | Name |
 |--:|---|
-| 2019-2026 | {{ org_badge(org='mcw') }} [MCW Championship](@/c/mcw-championship.md) |
+| 2019-2024 | {{ org_badge(org='mcw') }} [MCW Championship](@/c/mcw-championship.md) |
 
 ## Retired
 
