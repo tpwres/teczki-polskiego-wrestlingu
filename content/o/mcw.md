@@ -35,7 +35,7 @@ Nonetheless, the promotion ran a series of instructional videos on their YouTube
 Their activity on social media, however, is also infrequent, outside of YouTube shorts, which have been on the rise in 2024.
 
 The roster was never big, but some of their former trainees and wrestlers were recruited by Prime Time Wrestling.
-Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md), [Marcelito](@/w/marcelito.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Sinister](@/w/sinister.md), who wrestled for MCW as David Sirch.
+Notable names to come out of MCW were [Syriusz Dziedzic](@/w/dziedzic.md), [Disco Pablo](@/w/disco-pablo.md), [Marcelito](@/w/marcelito.md), [Miyagi Shida](@/w/miyagi-shida.md), [Sinister](@/w/sinister.md) (who wrestled for MCW as David Sirch) and [Kalom](@/w/kalom.md).
 
 In addition to the events listed below, MCW also held two undated demonstrations of wrestling techniques, without the ring, in Siemianowice Śląskie.
 
