@@ -28,7 +28,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 * The next day saw the announcement of a match for the [PTW Championship](@/c/ptw-championship.md) between [Spartan](@/w/spartan.md) and [Nano Lopez](@/w/nano-lopez.md).
 * The day after that, on 18.03.2026, PTW announced a new tag team consisting of [CJ Klakson](@/w/cj-klakson.md) & [Bart Petro](@/w/bart-petro.md), to take on [Polski Niedźwiedź](@/w/polski-niedzwiedz.md) & [Misiek](@/w/misiek.md).
 * On 19.03.2026 PTW announced the tag team of [El G](@/w/el-g.md) and [Conte](@/w/conte.md).
-* On 23.03.2025 [Alex Brave](@/w/alex-brave.md) was announced to face [Sawicki](@/w/sawicki.md).
+* On 23.03.2025 [Alex Brave](@/w/alex-brave.md) was announced to face [Sawicki](@/w/schwarzmann.md).
 * Two days later PTW announced another Brave Show, hosted by [Alex Brave](@/w/alex-brave.md), in which [Spartan](@/w/spartan.md) and [Vincent Caravaggio](@/w/vincent-caravaggio.md) will sign a contract for the [PTW Championship](@/c/ptw-championship.md) match.
 
 ## Card
@@ -40,7 +40,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
 - - '[Baron Wolfgang Storm](@/w/baron-wolfgang-storm.md)'
   - '[Boguś](@/w/bogus.md)'
 - - '[Alex Brave](@/w/alex-brave.md)'
-  - '[Sawicki](@/w/sawicki.md)'
+  - '[Sawicki](@/w/schwarzmann.md)'
 - - '[Fabian](@/w/fabian.md) w/ Dominique VaDique'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
 - - '[Proroctwo](@/tt/proroctwo.md): [Whiteblade](@/w/whiteblade.md) & [Damian Lambert](@/w/damian-lambert.md)'

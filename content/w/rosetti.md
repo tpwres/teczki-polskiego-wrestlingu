@@ -37,7 +37,7 @@ Initially performing as a solo wrestler, Rosetti debuted at [KPW Arena 1](@/e/kp
 
 #### Teaming with Sawicki and KPW Tag Team Champion
 
-Rosetti later teamed up with [Sawicki](@/w/sawicki.md), while at the same time joining [Piękny Kawaler](@/w/piekny-kawaler.md) in his stable called [Kawaleria](@/tt/kawaleria.md). In November 2018 Sawicki and Rosetti won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md). Eventually, however, they lost the title at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) to The Hunt ([Primate](@/w/primate.md) & Wild Boar). Rosetti blamed Sawicki for the loss and, in a fit or anger, attacked him with a chair after the match. The onslaught was so brutal that Sawicki was never seen in KPW again (in reality, he left for [Prime Time Wrestling](@/o/ptw.md) where he trained, but never performed). This incident would end up earning him the nickname "Sadysta z Łodzi" (_The Sadist from [Łódź][boat-city]_), first heard in his promo for [Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md).
+Rosetti later teamed up with [Sawicki](@/w/schwarzmann.md), while at the same time joining [Piękny Kawaler](@/w/piekny-kawaler.md) in his stable called [Kawaleria](@/tt/kawaleria.md). In November 2018 Sawicki and Rosetti won the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) at [Arena 11](@/e/kpw/2018-11-03-kpw-arena-11.md). Eventually, however, they lost the title at [Arena 16](@/e/kpw/2020-02-01-kpw-arena-16.md) to The Hunt ([Primate](@/w/primate.md) & Wild Boar). Rosetti blamed Sawicki for the loss and, in a fit or anger, attacked him with a chair after the match. The onslaught was so brutal that Sawicki was never seen in KPW again (in reality, he left for [Prime Time Wrestling](@/o/ptw.md) where he trained, but never performed). This incident would end up earning him the nickname "Sadysta z Łodzi" (_The Sadist from [Łódź][boat-city]_), first heard in his promo for [Arena 20](@/e/kpw/2022-12-16-kpw-arena-20.md).
 
 #### Joining Gałąź Gregoriańska and KPW OldTown Champion
 
@@ -75,7 +75,7 @@ On 10.11.2025 [Legacy](@/o/low.md) announced Rosetti as a guest commentator at t
   - [Gałąź Gregoriańska](@/tt/galaz-gregorianska.md) (2022-2024)
 * Entrance music:
   - "Pieceful" by The World I Know
-    {{ org_badge(orgs=['kpw']) }} (2017-2020; 2023), in tag team with [Sawicki](@/w/sawicki.md) and later solo) <br>
+    {{ org_badge(orgs=['kpw']) }} (2017-2020; 2023), in tag team with [Sawicki](@/w/schwarzmann.md) and later solo) <br>
     {{ music(yt='cHMlcuuqWG8')}}
     {{ music(spot='1UwAYJiTW0w0teCDzBvnTs')}}
     {{ music(apple='1447820618?i=1447820619')}}
@@ -94,8 +94,8 @@ On 10.11.2025 [Legacy](@/o/low.md) announced Rosetti as a guest commentator at t
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW OldTown Championship](@/c/kpw-old-town-championship.md) (1 time)
-  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Sawicki](@/w/sawicki.md)
-  - KPW Tag Team Championship Tournament (2018) - with [Sawicki](@/w/sawicki.md)
+  - [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md) (1 time; inaugural) - with [Sawicki](@/w/schwarzmann.md)
+  - KPW Tag Team Championship Tournament (2018) - with [Sawicki](@/w/schwarzmann.md)
   - Championship Contract Battle Royal (2022)
   
 ## Internet presence

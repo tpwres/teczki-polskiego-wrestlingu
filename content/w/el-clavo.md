@@ -23,4 +23,4 @@ El Clavo (_The Nail_) is a masked luchador working for [Prime Time Wrestling](@/
 
 ### Prime Time Wrestling (2026-)
 
-El Clavo debuted at [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md) in a match against [Sawicki](@/w/sawicki.md). Afterwards he turned towards tag team wrestling, partnering with various workers.
+El Clavo debuted at [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md) in a match against [Sawicki](@/w/schwarzmann.md). Afterwards he turned towards tag team wrestling, partnering with various workers.

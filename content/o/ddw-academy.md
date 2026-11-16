@@ -50,7 +50,7 @@ _Listed in alphabetical order:_
 - [Rider](@/w/asmund.md)
 - [Robert Star](@/w/robert-star.md)
 - [Victor Rosetti](@/w/rosetti.md)
-- [Sawicki](@/w/sawicki.md)
+- [Sawicki](@/w/schwarzmann.md)
 - [Straceniec](@/w/shadow.md)
 
 ## History
