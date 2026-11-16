@@ -14,7 +14,8 @@ Conte is an Italian wrestler, known to Polish audiences from his work at [Prime 
 
 * Years active: 2022-present
 * Gimmicks/nicknames:
-  - Conte / Conte McStevenson {{ org_badge(orgs=['ptw']) }}
+  - Conte {{ org_badge(orgs=['ptw']) }}
+  - Conte McStevenson {{ org_badge(orgs=['ptw']) }}
 * Trained by:
   - ICW Academy
 
@@ -22,12 +23,12 @@ Conte is an Italian wrestler, known to Polish audiences from his work at [Prime 
 
 ### Prime Time Wrestling (2025-present)
 
-Conte made his debut on Polish soil on April 12th, 2025 when he worked for [Prime Time Wrestling](@/o/ptw.md) at [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md) show. From that point on he started making sporadic appearances for PTW, while mostly being associated with fellow Italian [El G](@/w/el-g.md) as part of "First Class". Working mainly as comedy character they often portrayed themselves as Mario & Luigi from videogame franchise "Super Mario", while sometimes being managed by _rookie_ Martusia as their manager.
+Conte made his debut on Polish soil on April 12th, 2025 when he worked for [Prime Time Wrestling](@/o/ptw.md) at [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md). From that point on he started making sporadic appearances for PTW, while mostly being associated with fellow Italian [El G](@/w/el-g.md) as part of "First Class". Working mainly as comedy characters, they often portrayed themselves as Mario & Luigi from the _Super Mario Bros._ videogame franchise, while sometimes being accompanied by adeptka Martusia as their manager.
 
 ## In wrestling
 
 * Finishers:
-  - _Sipario_ (Lifting double underhook facebuster) (2026-)
+  - _Sipario_ (Lifting Double Underhook Facebuster) (2026-)
 * Tag Teams and Stables:
   - First Class (2025-)
 * Managers:

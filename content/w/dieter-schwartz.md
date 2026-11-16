@@ -31,13 +31,12 @@ In July 2025 Dieter made his debut in [Legacy of Wrestling](@/o/low.md) at their
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Dieter debuted in [FRPW](@/o/frpw.md) at the [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), in a match against [Jacob Crane](@/w/jacob-crane.md). The bout ended in a time limit draw, which led to a rematch at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) in a "Word of Honour" stipulation. Dieter won this match, but after being confronted by Jacob, the duo agreed on finally settling down their rivalry in a No Ropes Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md).
+Dieter debuted for [FRPW](@/o/frpw.md) at the [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), in a match against [Jacob Crane](@/w/jacob-crane.md). The bout ended in a time limit draw, which led to a rematch at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) in a "Word of Honour" stipulation. Dieter won this match, but after being confronted by Jacob, the duo agreed on finally settling their rivalry in a No Ropes Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md).
 
 ## In wrestling
 
 * Finishers:
   - Full Nelson Slam (2018-)
-
 * Entrance music:
   - "Dieter Schwartz Theme" by Independent Artist
     {{ org_badge(orgs=['low', 'frpw']) }} (2025)<br>

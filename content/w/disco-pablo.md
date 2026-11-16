@@ -65,7 +65,7 @@ At [Four The Glory](@/e/low/2025-12-20-low-4.md) Disco Pablo defeated [Tony Shee
 
 ### Return to Prime Time Wrestling (2026-)
 
-Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Disco Pablo returned to PTW at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) as a commentator, at the same show he also got into quarell with reigning [PTW Underground Champion](@/c/ptw-underground-championship.md) - [Nano Lopez](@/w/nano-lopez.md) - which led to announcement of their Title Match at [Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md)
+Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Disco Pablo returned to PTW at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) as a commentator. At the same show he also got into a quarell with the reigning [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md), which led to the announcement of their title match at [Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md).
 
 ## In wrestling
 

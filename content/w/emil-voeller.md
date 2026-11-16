@@ -27,7 +27,7 @@ Emil Völler debuted in Poland at [PpW Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wj
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Emil made his first appearance for FRPW at [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md). At [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) Emil made a successful defence of his wXw Academy Championship against [Goblin](@/w/goblin.md).
+Emil made his first appearance for FRPW at [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md). At [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) Emil successfully defended his wXw Academy Championship against [Goblin](@/w/goblin.md).
 
 ## In wrestling
 

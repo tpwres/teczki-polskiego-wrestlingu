@@ -33,7 +33,7 @@ The heel stable [Zmowa](@/tt/zmowa.md), represented by [Mister Z](@/w/mister-z.m
 
 ### Rodzina
 
-The stable consists of five people - [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) and [Isnorr](@/w/isnorr.md) - all of whom are recognised as Champions. However, since winning the titles at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), Vic and Oskar have been the only ones to defend them, and during Rodzina's second run the situation remained unchanged.
+The stable consists of five people - [Vic Golden](@/w/vic-golden.md), [Oskar Alexander](@/w/oskar-alexander.md), [Filip Fux](@/w/filip-fux.md), [Robert Star](@/w/robert-star.md) and [Isnorr](@/w/isnorr.md) - all of whom are recognised as Champions. However, since winning the titles at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md), Vic and Oskar have been the only ones to defend them. During Rodzina's second run only Oskar and Vic were considered Champions.
 
 ## Maniac Zone Wrestling
 
