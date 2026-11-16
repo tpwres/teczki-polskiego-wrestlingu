@@ -2,6 +2,7 @@
 title = "Schwarzmann"
 template = "talent_page.html"
 authors = ["Sewi The Referee", "M3n747"]
+aliases = ["/w/sawicki"]
 [extra]
 toclevel = 2
 skip_event_gallery = true

@@ -21,6 +21,7 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
 * On 30.10.2026 MZW announced a Tag Team Match in which [Oskar Alexander](@/w/oskar-alexander.md) & Stefan will go against [Boro](@/w/boro.md) & [Mutant](@/w/mutant.md). This will be the official debut of Stefan, who first appeared as a rookie at the [previous show](@/e/mzw/2026-06-20-mzw-forever-2.md).
 * On 9.11.2026 MZW made an announcement of a Four-Way Match for the [MZW Championship](@/c/mzw-championship.md) #1 Contendership between [Jakub](@/w/jakub.md), [Marcelito](@/w/marcelito.md), [Max Speed](@/w/max-speed.md) and [Bartosz Plata](@/w/plata.md). The title is formally still in the hands of [Marco Hammers](@/w/marco-hammers.md), although he'd retired from in-ring competition due to a neck injury.
 * On 13.11.2026 [Sambor](@/w/sambor.md) was announced to have a match against [Boguś](@/w/bogus.md), debuting in MZW after being release from [Prime Time Wrestling](@/o/ptw.md) around two months prior.
+* At [Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md) [Shadow](@/w/shadow.md) was attacked after his match by a mysterious figure posing for an audience member, who told him to "be careful what he wished for". This person turned out to be a former MZW wrestler [Lider](@/w/lider.md), named by Shadow in an [interview][szedo-interwju] with [Center of Wrestling](@/o/cow.md) as somebody he'd like to have his final match with. On 15.11.2026 this match was officially announced.
 
 ## Predicted card
 
@@ -29,8 +30,9 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
   - '[Matt Buckna](@/w/matt-buckna.md)'
   - nc: upcoming
 - - '[Shadow](@/w/shadow.md)'
-  - '???'
+  - '[Lider](@/w/lider.md)'
   - nc: upcoming
+    s: "Shadow's Final Match"
 - - '[Oskar Alexander](@/w/oskar-alexander.md) & Stefan'
   - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
   - s: Tag Team Match
@@ -55,3 +57,5 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465053)
 * [Facebook post announcing the event](https://www.facebook.com/ManiacZoneWrestling/posts/pfbid033ke4WvBWyxM6jnjE5RQ48qWK5Zh4XP5K27j5VehPAHJ3X2tpu3wxZy3w8hZMhMa8l)
+
+[szedo-interwju]: https://www.youtube.com/watch?v=rAZoDbu2UbM

@@ -47,7 +47,7 @@ This stripped him of the championship, which was left vacant. However, at the sh
 
 Robert's next match for KPW was at [Godzina Zero 2019](@/e/kpw/2019-08-17-kpw-godzina-zero-2019.md), against Piękny Kawaler. This bout was both for the KPW Championship, and for the careers of both men, with a Last Man Standing stipulation. When Robert defeated Kawaler, the latter initially accepted his opponent's handshake and lifted Robert's arm in a victory pose, only to land a surprise kick seconds later. With the help of other babyfaces, Robert regained control and together they struck a victory pose with Kawaler literally under Robert's heel.
 
-Robert's last appearance in KPW took place at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md) where he protected [Sawicki](@/w/sawicki.md) from [Rosetti](@/w/rosetti.md), who attacked his tag team partner after their defeat. Following that show Robert left the federation, vacating the KPW Championship.
+Robert's last appearance in KPW took place at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md) where he protected [Sawicki](@/w/schwarzmann.md) from [Rosetti](@/w/rosetti.md), who attacked his tag team partner after their defeat. Following that show Robert left the federation, vacating the KPW Championship.
 
 In 2018 Robert competed in his first match abroad: at the French Ligue Nationale de Catch's event in Commercy. He went against the French wrestler Scott Rider in a singles match, and also against a team including Scott Rider and Ron Corvus in an eight-man tag team match.
 

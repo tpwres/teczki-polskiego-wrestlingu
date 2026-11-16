@@ -50,7 +50,7 @@ In the show's closing moments, Chemik appeared behind a pulpit, and, speaking in
 * Leśny (2013-2017)
 * [Kaszub](@/w/kaszub.md) (2017-2018)
 * [Alisa](@/w/alisa.md) (2018-2019)
-* [Sawicki](@/w/sawicki.md), [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (2016-2019)
+* [Sawicki](@/w/schwarzmann.md), [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (2016-2019)
 * [Rosetti](@/w/rosetti.md), [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (2016-2019)
 * [Robert Star](@/w/robert-star.md) (2018-2019, as part of a storyline)
 * [Adam Bravo](@/w/adam-bravo.md) (2018, single storyline appearance)

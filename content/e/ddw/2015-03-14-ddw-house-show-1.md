@@ -22,7 +22,7 @@ manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
   - '[Kasandra](@/w/kasandra.md)'
 - - '[GREG](@/w/greg.md)'
   - '[adept Rex Torpeda](@/w/krystian-malinowski.md)'
-  - '[_rookie_ Sawicki](@/w/sawicki.md)'
+  - '[_rookie_ Sawicki](@/w/schwarzmann.md)'
   - '[_rookie_ Damian Lambert](@/w/damian-lambert.md)'
   - 'adept Artur Dzwończak'
   - '[Victor Rosetti](@/w/rosetti.md)'
@@ -49,7 +49,7 @@ manifest = "@/e/ddw/2015-03-14-ddw-house-show-1-gallery.toml"
 
 {% inline_fig(path="2015-03-14-ddw-house-show-1-battle-royal-1.jpg") %}
 Left to right: \
-[_rookie_ Sawicki](@/w/sawicki.md) (in the left corner) \
+[_rookie_ Sawicki](@/w/schwarzmann.md) (in the left corner) \
 [adept Rex Torpeda](@/w/krystian-malinowski.md) (kicking _rookie_ Sawicki) \
 [Greg](@/w/greg.md) (behind adept Rex Torpeda, in white T-shirt) \
 [_rookie_ Damian Lambert](@/w/damian-lambert.md) (being thrown out by Greg) \

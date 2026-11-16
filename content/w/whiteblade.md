@@ -50,7 +50,7 @@ At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current) - with [Schwarzmann](@/w/sawicki.md)
+  - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time; current) - with [Schwarzmann](@/w/schwarzmann.md)
 
 ## Internet presence
 

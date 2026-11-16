@@ -34,7 +34,7 @@ has_video = true
 - - '[Mateusz Kakareko](@/w/mateusz-kakareko.md)'
   - '[Gracjan Korpo](@/w/gracjan-korpo.md)'
 - - 'Team Aleksander: [David Oliwa](@/w/david-oliwa.md) & [Kamil Aleksander](@/w/kamil-aleksander.md) & [Krzysztof Zasada](@/w/krzysztof-zasada.md) & [Peter Pannache](@/w/peter-pannache.md)'
-  - 'Team Greg: [Adam Bravo](@/w/adam-bravo.md) & [Greg](@/w/greg.md) & [Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)'
+  - 'Team Greg: [Adam Bravo](@/w/adam-bravo.md) & [Greg](@/w/greg.md) & [Sawicki](@/w/schwarzmann.md) & [Victor Rosetti](@/w/rosetti.md)'
   - s: Eight Man Tag Team Elimination Match
 - - '[Piękny Kawaler](@/w/piekny-kawaler.md)(c)'
   - '[Robert Star](@/w/robert-star.md)'
@@ -56,7 +56,7 @@ Attendance: about 300
 * Greg "christened" members of the Kawaleria stable by spitting water on them. This would later become part of his character.
 * [Kamil Aleksander's](@/w/kamil-aleksander.md) mother was present, and Kamil gave her a rose for Mother's Day (May 26th in Poland)
 * Zasada was eliminated first, then [Kamil Aleksander](@/w/kamil-aleksander.md). With the balance now favouring Team Greg, [Adam Bravo](@/w/adam-bravo.md) pulls out a betrayal by laying down for a pin, showing his middle fingers to Kawaleria.
-* Pannache eliminated [Rosetti](@/w/rosetti.md), but ultimately Dawid had to face Greg and [Sawicki](@/w/sawicki.md) alone.
+* Pannache eliminated [Rosetti](@/w/rosetti.md), but ultimately Dawid had to face Greg and [Sawicki](@/w/schwarzmann.md) alone.
 * Kawaler delays the match with a very long entry in his new gear, preceded by a body double decoy in his previous attire. Greg would copy this years later during [Godzina Zero 2023](@/e/kpw/2023-08-18-kpw-godzina-zero-2023.md).
 * [Bianca](@/w/bianca.md) interrupted the opening bell with her music. Grabbed the mic to present a counter to Kawaler's blackmail photos: some of her own, depicting his private parties. These showed him and Greg in a naughty position, both wearing skirts. The audience laughed at the fuming, embarassed heels. Bianca forced both to swear an oath to never again try blackmailing her.
 * Lumberjacks ensured that Kawaler couldn't flee the ring easily, as is his tactic. Same for Robert, who was also roughed up each time. Random group brawls ensued.

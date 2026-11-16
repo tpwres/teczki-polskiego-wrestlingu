@@ -23,7 +23,7 @@ has_video = true
 * The next day saw the announcement of [Vincent Caravaggio](@/w/vincent-caravaggio.md) & [Alex Brave](@/w/alex-brave.md) vs Davide Adami & Luke Astaroth for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md).
 * On 6.12.2025 PTW posted an image teasing the "spectacular return" of someone, who was with PTW "from the very beginning".
 * On 7.12.2025 PTW announced a Christmas Hardcore Match between [Daniel Razor](@/w/daniel-razor.md) vs Jay, an Irish wrestler mainly associated with [Over The Top Wrestling][over-the-top]. This will be his Polish debut.
-* On 9.12.2025 PTW announced [Sawicki](@/w/sawicki.md) vs [Damian Lambert](@/w/damian-lambert.md).
+* On 9.12.2025 PTW announced [Sawicki](@/w/schwarzmann.md) vs [Damian Lambert](@/w/damian-lambert.md).
 
 ## Card
 
@@ -44,7 +44,7 @@ has_video = true
   - '[Blaze](@/w/blaze.md) & [Bart Petro](@/w/bart-petro.md)'
   - s: Triple Threat Tag Team Match
 - - '[Damian Lambert](@/w/damian-lambert.md)'
-  - '[Sawicki](@/w/sawicki.md)'
+  - '[Sawicki](@/w/schwarzmann.md)'
 - - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: 'Charity T-shirt auction'
 - - '[Remo](@/w/remo.md)'
