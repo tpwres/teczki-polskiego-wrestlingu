@@ -41,6 +41,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
   - '???'
   - '???'
   - s: 'Zmowa Prospects Gauntlet Match'
+    nc: upcoming
 {% end %}
 
 ### Highlights
