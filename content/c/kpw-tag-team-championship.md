@@ -17,7 +17,7 @@ The KPW Tag Team Championship is the Tag Team division championship of [Kombat P
 
 ## Statistics
 
-* First champions: [Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)
+* First champions: [Sawicki](@/w/schwarzmann.md) & [Victor Rosetti](@/w/rosetti.md)
 * Most reigns: N/A
 * Longest reign: The Hunt: Primate & Wild Boar (959 days)
 * Shortest reign: [Die Ordnung](@/tt/die-ordnung.md): [Hans Schulte](@/w/hans-schulte.md) & [Veit Müller](@/w/veit-mueller.md) (335 days)
@@ -38,7 +38,7 @@ The plates are made of acrylic, with silver and black laminate giving the plates
 #### First round
 
 {% free_card() %}
-- - '[Rosetti](@/w/rosetti.md) & [Sawicki](@/w/sawicki.md)'
+- - '[Rosetti](@/w/rosetti.md) & [Sawicki](@/w/schwarzmann.md)'
   - '[Kamil Aleksander](@/w/kamil-aleksander.md) & [Peter Pannache](@/w/peter-pannache.md)'
   - s: Tag Team Match
     en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
@@ -68,7 +68,7 @@ The plates are made of acrylic, with silver and black laminate giving the plates
   - s: Tag Team Match
     en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
     ed: 2018-11-03
-- - '[Rosetti](@/w/rosetti.md) & [Sawicki](@/w/sawicki.md)'
+- - '[Rosetti](@/w/rosetti.md) & [Sawicki](@/w/schwarzmann.md)'
   - '[Piękny Kawaler](@/w/piekny-kawaler.md) & [Robert Star](@/w/robert-star.md)'
   - s: Tag Team Match
     r: DQ
@@ -79,7 +79,7 @@ The plates are made of acrylic, with silver and black laminate giving the plates
 #### Finals
 
 {% free_card() %}
-- - "[Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)"
+- - "[Sawicki](@/w/schwarzmann.md) & [Victor Rosetti](@/w/rosetti.md)"
   - "Boska Oliwa: [David Oliwa](@/w/david-oliwa.md) & [Boski Ostrowski](@/w/ostrowski.md)"
   - s: Tag Team Match
     en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
@@ -89,7 +89,7 @@ The plates are made of acrylic, with silver and black laminate giving the plates
 ### Champions #1: Sawicki & Victor Rosetti
 
 {% free_card() %}
-- - "[Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md)"
+- - "[Sawicki](@/w/schwarzmann.md) & [Victor Rosetti](@/w/rosetti.md)"
   - "Boska Oliwa: [David Oliwa](@/w/david-oliwa.md) & [Boski Ostrowski](@/w/ostrowski.md)"
   - s: Tag Team Match
     en: '[KPW Arena 11: Podwójne Zagrożenie](@/e/kpw/2018-11-03-kpw-arena-11.md)'
@@ -117,7 +117,7 @@ The plates are made of acrylic, with silver and black laminate giving the plates
 
 {% free_card() %}
 - - "[The Hunt](@/tt/the-hunt.md): [Primate](@/w/primate.md) & [Wild Boar](@/w/wild-boar.md)"
-  - "[Sawicki](@/w/sawicki.md) & [Victor Rosetti](@/w/rosetti.md) (c)"
+  - "[Sawicki](@/w/schwarzmann.md) & [Victor Rosetti](@/w/rosetti.md) (c)"
   - s: Tag Team Match
     en: '[KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md)'
     ed: 2020-02-01

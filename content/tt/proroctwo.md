@@ -7,7 +7,7 @@ toclevel = 3
 orgs = ["ptw"]
 +++
 
-Proroctwo (lit. "The Prophecy") are a Polish villainous group active in [Prime Time Wrestling](@/o/ptw.md), initially founded by [Damian Lambert](@/w/damian-lambert.md) and currently consisting of [Whiteblade](@/w/whiteblade.md), [Schwarzmann](@/w/sawicki.md), [Syriusz Dziedzic](@/w/dziedzic.md) and Valentina Vex.
+Proroctwo (lit. "The Prophecy") are a Polish villainous group active in [Prime Time Wrestling](@/o/ptw.md), initially founded by [Damian Lambert](@/w/damian-lambert.md) and currently consisting of [Whiteblade](@/w/whiteblade.md), [Schwarzmann](@/w/schwarzmann.md), [Syriusz Dziedzic](@/w/dziedzic.md) and Valentina Vex.
 
 ## History
 
@@ -23,11 +23,11 @@ Some time after [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-mor
 
 #### Tag Team
 
-At [Krew Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), [Sawicki](@/w/sawicki.md) helped Whiteblade in defeating [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), seemingly joining Proroctwo.
+At [Krew Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), [Sawicki](@/w/schwarzmann.md) helped Whiteblade in defeating [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), seemingly joining Proroctwo.
 
 At [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md), Sawicki returned to PTW. Appearing together with Whiteblade as part of Proroctwo, he debuted a new persona, wearing white fur robe, paint covering half of his face and new music (Rammstein's "Engel"). Before the scheduled match, he gave the audience his "confession" declaring that he threw away his weak old self, promised to stop speaking forever and announced the debut of his new, scary and strong name. Sawicki mentioned that [Prorok Lambert](@/w/damian-lambert.md) had been a false prophet, but the prophecy was intact and the end of the world was still coming.
 
-Afterwards, [Whiteblade](@/w/whiteblade.md) and [Sawicki](@/w/sawicki.md) took on and defeated a tag team of [El Hijo del G](@/w/el-g.md) & [El Clavo](@/w/el-clavo.md). 
+Afterwards, [Whiteblade](@/w/whiteblade.md) and [Sawicki](@/w/schwarzmann.md) took on and defeated a tag team of [El Hijo del G](@/w/el-g.md) & [El Clavo](@/w/el-clavo.md). 
 At [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md) the duo won the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) #1 Contendership.
 
 #### Group
@@ -41,7 +41,7 @@ After brutalizing Miyagi Shida with multiple Swanton Bombs from Whiteblade, they
 ## Members
 
 * [Whiteblade](@/w/whiteblade.md) (2026-) - The Psycho
-* [Schwarzmann](@/w/sawicki.md) (2026-) - The Bear
+* [Schwarzmann](@/w/schwarzmann.md) (2026-) - The Bear
 * [Syriusz Dziedzic](@/w/dziedzic.md) (2026-) The Prodigal Son
 * Valentina Vex / adeptka Paula (2026-) - The Femme Fatale
 

@@ -252,7 +252,7 @@ In a [Twitch stream](https://www.twitch.tv/videos/2180575222) on June 25th, Paw�
 
 2026 came with some additional exits. Both [Bart Petro](@/w/bart-petro.md) and [Damian Adler](@/w/damian-adler.md) made their final PTW appearances in short succession and left PTW quietly. Petro departed after [PTW: Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) only to quickly resurface in FRPW, whereas Adler is yet to return to competition (as of September 2026).
 
-[Damian Lambert](@/w/damian-lambert.md) also quietly exited PTW some time between his final appearance at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), and [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) where [Sawicki](@/w/sawicki.md) took over Proroctwo and confirmed the exit of "false prophet Lambert". 
+[Damian Lambert](@/w/damian-lambert.md) also quietly exited PTW some time between his final appearance at [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md), and [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) where [Sawicki](@/w/schwarzmann.md) took over Proroctwo and confirmed the exit of "false prophet Lambert". 
 
 On 1.09.2026 PTW published an [official announcement][pawlowski-wyszedl] stating that the promotion had terminated the contract with its founder, [Arkadiusz Pawłowski](@/w/pan-pawlowski.md). Two days later chairman [Łukasz Okoński](@/w/lukasz-okonski.md) posted a [video][i-nie-wroci] confirming this decision, pointing out that the process happened amicably. 
 Another departure this year was [Boguś](@/w/bogus.md), fired just after main eventing [Droga Wojownika](e/ptw/2026-09-19-ptw-droga-wojownika).

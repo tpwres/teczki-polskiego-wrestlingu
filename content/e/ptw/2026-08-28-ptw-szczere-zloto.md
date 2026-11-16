@@ -27,7 +27,7 @@ has_video = false
 * A few hours later PTW announced a [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) match betwen the reigning Champions [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and the German duo Skyfall (Mike Solaris & Evan Eclipse). Mike Solaris previously worked at [Wiosenna Bijatyka](@/e/ptw/2025-03-15-ptw-wiosenna-bijatyka.md).
 * [Whiteblade](@/w/whiteblade.md) was announced for the Gold Rush Rumble on 21.08.2026.
 * [Alex Brave](@/w/alex-brave.md), the day after.
-* [Sawicki](@/w/sawicki.md) on 23.08.2026.
+* [Sawicki](@/w/schwarzmann.md) on 23.08.2026.
 * On 26.08.2026 PTW posted an image of the Lucky 8 contestants, including [Kalom](@/w/kalom.md). The winner of the competition will sign the contract with the promotion and earn a spot in the Gold Rush Rumble.
 
 ## Card
@@ -71,7 +71,7 @@ has_video = false
   - '[Boguś](@/w/bogus.md)'
   - '[Whiteblade](@/w/whiteblade.md)'
   - '[Alex Brave](@/w/alex-brave.md)'
-  - '[Sawicki](@/w/sawicki.md)'
+  - '[Sawicki](@/w/schwarzmann.md)'
   - '[Blaze](@/w/blaze.md)'
   - '[El Clavo](@/w/el-clavo.md)'
   - 'Nikki Steel'
@@ -117,7 +117,7 @@ has_video = false
 10. [Kalom](@/w/kalom.md)
 11. Pierre
 12. [Karol "Iskra" Górski](@/w/iskra.md)
-13. [Sawicki](@/w/sawicki.md)
+13. [Sawicki](@/w/schwarzmann.md)
 14. [Sigma Boy xD](@/w/sigma-boy.md)
 15. [CJ Klakson](@/w/cj-klakson.md)
 16. [Misiek](@/w/misiek.md)

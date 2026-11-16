@@ -28,7 +28,7 @@ In 2020 the COVID-19 pandemic hit, and Poland implemented severe restrictions. T
 
 [Prime Time Wrestling](@/o/ptw.md) launched in 2021, headed by the controversial [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 Pawłowski was also part of the team of DDW veterans that founded KPW, and later served as their host and ring announcer until [2019](@/e/kpw/2019-06-15-kpw-arena-14.md).
-During and after the hiatus KPW lost several of their headliners who chose to join the new organization: [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md), [Sawicki](@/w/sawicki.md) and [Gracjan Korpo](@/w/gracjan-korpo.md), as well as the newcomer [Diana](@/w/diana-strong.md).
+During and after the hiatus KPW lost several of their headliners who chose to join the new organization: [Robert Star](@/w/robert-star.md), [Peter Pannache](@/w/peter-pannache.md), [Sawicki](@/w/schwarzmann.md) and [Gracjan Korpo](@/w/gracjan-korpo.md), as well as the newcomer [Diana](@/w/diana-strong.md).
 
 ### 2023: TV deal and FightBox
 

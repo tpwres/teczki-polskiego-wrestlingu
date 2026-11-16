@@ -23,11 +23,11 @@ has_video = false
 * Later the same day came the announcement of [CJ Klakson](@/w/cj-klakson.md) vs Damian Miller.
 * On 14.11.2026 the match between Conte and Whiteblade was changed to a Tag Team Match between First Class ([El G](@/w/el-g.md) & [Conte](@/w/conte.md)) and [Proroctwo](@/tt/proroctwo.md) ([Syriusz Dziedzic](@/w/dziedzic.md) & [Whiteblade](@/w/whiteblade.md)).
 * A few hours later [Kalom](@/w/kalom.md) vs Pierre was announced.
+* On 15.11.2026 the Championship match between Spartan and Caravaggio was officially confirmed. This will be Caravaggio's second attempt at the title, following his loss to Spartan at [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md).
 
 ## Predicted card
 
 {% card(predicted=true) %}
-
 - - '["Starboy" Nano Lopez](@/w/nano-lopez.md)(c)'
   - '[Disco Pablo](@/w/disco-pablo.md)'
   - c: '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
