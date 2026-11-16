@@ -1,7 +1,7 @@
 +++
 title = "PpW Skok Na Kraków"
 template = "event_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Szymon Iwulski", "Krzysztof Zych"]
 aliases = ["/e/ppw/2026-11-21-ppw-krakow"]
 [taxonomies]
 chronology = ["ppw"]
@@ -13,7 +13,7 @@ has_video = false
 [extra.gallery]
 +++
 
-Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in {{ map_pin(v="Stk47 Warehouse") }}Stk47 Warehouse in Kraków. This will be the first PpW show to be held in the city. Based on the "heist" naming, the official graphics are made to resemble covers from [Grand Theft Auto](https://en.wikipedia.org/wiki/Grand_Theft_Auto) series, including the iconic Pricedown font, and elements of the game UI: a weapon icon (foldable chair) in the top left corner, date and wanted level stars in the top right.
+Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in {{ map_pin(v="Stk47 Warehouse") }}Stk47 Warehouse in Kraków. This will be the first PpW show to be held in the city. Based on the "heist" naming, the official graphics are made to resemble covers from [Grand Theft Auto][gta] series, including the iconic Pricedown font, and elements of the game UI: a weapon icon (foldable chair) in the top left corner, date and wanted level stars in the top right.
 
 ## Build-up
 
