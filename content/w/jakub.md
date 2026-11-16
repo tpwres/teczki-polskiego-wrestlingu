@@ -123,11 +123,11 @@ Jakub's role as a grey eminence wasn't restricted solely to Zmowa, as he tried t
 On November 20th, 2024 [Legacy of Wrestling](@/o/low.md) announced that Axel Fox would replace [Wiktor Longman](@/w/wiktor-longman.md) in the main event of [their first show](@/e/low/2024-12-01-low-1.md).
 During the match against the [PpW Champion](@/c/ppw-championship.md) [Gustav Gryffin](@/w/gustav-gryffin.md), Axel was initially declared the winner, but due to a rope break which went unnoticed by [Referee Seweryn](@/w/sedzia-seweryn.md) during the count, [Sinister](@/w/sinister.md) intervened with [Arkadiusz Paterek](@/w/arek-paterek.md) and Legacy's Mister Chairman, to immediately restart the match. This resulted in Fox's loss by technical submission, much to his despair.
 
-#### LoW European Champion
+#### Legacy of Wrestling European Champion
 
 At [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md) Fox redeemed himself by winning against Gabriel Queen in a Road to the Title Match, putting him in a contender position for the upcoming Legacy Championship. At [the next show](@/e/low/2025-07-11-low-3.md) he won a Singles Match against [Dieter Schwartz](@/w/dieter-schwartz.md). His long road for his first career title came to an end at [Legacy's fourth show](@/e/low/2025-12-20-low-4.md), when he won a Six-Way Elimination Match to become the inaugural [Legacy European Champion](@/c/low-european-championship.md). Immediately afterwards Axel turned on the public, adopting his "Jakub" persona and started a reign of terror over Legacy of Wrestling.
 
-In his first title defence Jakub defeated [Filip Fux](@/w/filip-fux.md) in a No-DQ Match that took place at [Open Season](@/e/low/2026-05-24-low-5.md). His second title defence was against Trent Seven at [Enter The Dragon](@/e/low/2026-07-10-low-6.md). After the match, it was clear that his next opponent would be [Max Speed](@/w/max-speed.md). The match took place at [What's in the Box?](@/e/low/2026-10-24-low-7.md) in October 2026. Jakub finally lost his title to Max in said match, ending inaugural championship reign at 308 days.
+In his first title defence Jakub defeated [Filip Fux](@/w/filip-fux.md) in a No-DQ Match that took place at [Open Season](@/e/low/2026-05-24-low-5.md). His second title defence was against Trent Seven at [Enter The Dragon](@/e/low/2026-07-10-low-6.md). After that match it was clear that his next opponent would be [Max Speed](@/w/max-speed.md). The match against Speed took place at [What's in the Box?](@/e/low/2026-10-24-low-7.md) in October 2026. Jakub finally lost his title to Max, ending his inaugural championship reign after 308 days.
 
 ### Return to Maniac Zone Wrestling (2026-present)
 
