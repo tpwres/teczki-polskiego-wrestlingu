@@ -54,15 +54,20 @@ Mutant made his first appearance in [Maniac Zone Wrestling](@/o/mzw.md) at [MZW 
   - F-5 (2025-)
 * Entrance music:
   - "Wilki Dwa" by Luxtorpeda
-    {{ org_badge(orgs=['kpw']) }} (2019-2020)<br>
+    {{ org_badge(orgs=['kpw']) }} (2019-2020) <br>
     {{ music(yt='SV0IPygRsW4')}}
     {{ music(spot='6HtFpYx3yZo9nJNumfn7Ts')}}
     {{ music(apple='1543261324?i=1543261748')}}
   - "Beast" by The Hustle Standard
-    {{ org_badge(orgs=['ptw', 'ppw']) }} (2021-2024; 2025-)<br>
+    {{ org_badge(orgs=['ptw', 'ppw']) }} (2021-2024; 2025-) <br>
     {{ music(yt='p2ZljzdGPUg')}}
     {{ music(spot='0WKY4nRJgz3GUG7IqkTgUH')}}
     {{ music(apple='1440836832?i=1440836838')}}
+  - "Blue Monday" by Orgy
+    {{ org_badge(orgs=['ppw', 'low', 'frpw']) }} (2026-; with [Boro](@/w/boro.md))<br>
+    {{ music(yt='-8gVmD39AmI')}}
+    {{ music(spot='5267gVdYWrLoz6ClOhlqmE')}}
+    {{ music(apple='1702174321?i=1702176808')}}
 
 ## Internet presence
   - [Mutant's Instagram](https://www.instagram.com/mutant_wrestler)
