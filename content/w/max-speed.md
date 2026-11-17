@@ -12,7 +12,7 @@ country = ["PL"]
 2 = { path = "max-farewell.webp", caption = "Max's farewell Instagram post, where he thanks several current and former PTW personalities. Later edited to mention Legacy of Wrestling.", source = "Instagram @max.speed.wrestler", skip_art = true}
 +++
 
-Max Speed is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md). He currently works for [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Max Speed is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -59,15 +59,26 @@ The following week Max posted a farewell message on his social media, thanking s
 
 Max made a surprise debut in Legacy of Wrestling at their [third show](@/e/low/2025-07-11-low-3.md), as [Marco Hammers's](@/w/marco-hammers.md) mystery opponent. Introduced by [Wiktor](@/w/wiktor-longman.md) as another familiar face, he received chants of "Welcome Home" (_Witaj w domu_) from the audience. He went on to win the match by DQ, when Marco hit him with a chair in full view of the referee. Thanks to his victory he advanced in the Road to the Title Tournament, earning the spot in a Six-Man Elimination Match for the inaugural [Legacy of Wrestling European Championship](@/c/low-european-championship.md), in which he was unable to secure a victory.
 
+After defeating [Chemik](@/w/chemik.md) at [Open Season](@/e/low/2026-05-24-low-5.md), Max Speed was intervied by Wiktor Longman. Interview quickly escalated into animosities and Speed challenged Wiktor to a match at [Enter The Dragon](@/e/low/2026-07-10-low-6.md). With his acting Chairman authority, he immediately made the match official. After an arduous fight, Max Speed managed to defeat Wiktor Longman. Wiktor praised Speed for finally proving his worth by overcoming him, alluding to Speed's debut match against Longman at [PTW Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md), which Max lost by DQ. By beating his great rival and friend Max also send Wiktor to an in-ring retirement.
+Later the same night Max challenged [Jakub](@/w/jakub.md) for his LoW European Championship. Jakub reluctantly agreed only to finally prove, that Max is only an obedient walk-behinder.
+
+The match between Jakub and Max took place at [What's in the Box?](@/e/low/2026-10-24-low-7.md) where Max finally defeated reigning champion. His reign lasted only a few minutes, as Chemik - owner of #1 Contender Opportunity Briefcase - attacked him during his championship celebraiton and successfully cashed-in his contract, leaving devastaded Speed behind.
+
 ### Maniac Zone Wrestling (2025-present)
 
-Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announced Max Speed would debut for their federation at [MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md), facing [Febus 'The Wolf'](@/w/apollo-anderson.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) in a Triple Threat Match.
+Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announced Max Speed would debut for their federation at [MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md), facing [Febus 'The Wolf'](@/w/apollo-anderson.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) in a Triple Threat Match. Later on, in March 2026, he unsucesfully challenged [Jakub](@/w/jakub.md) for his [LoW European Championship](@/w/low-european-championship.md) at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md). 
 
 ### PpW Ewenement Wrestling (2025-present)
 
-#### Various appearances
+#### Various storylines
 
 Max Speed made his unannounced debut for [PpW](@/o/ppw.md) in the pre-show of [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), where he faced [Bartosz Plata](@/w/plata.md) and rookie Antek in a Triple Threat Match. Later on he managed to win 10,000&nbsp;PLN in a Battle Royal at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md). 
+
+At [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) Max challenged reigning [PpW Champion](@/c/ppw-championship.md) for a match at [Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), in which he lost to Olgierd in champion's favourite Dog Collar Match. He also teamed up with [Leon Lato](@/w/leon-lato.md) to challenge [Rodzina](@/tt/rodzina.md) for [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) at [Wixapol](@/e/ppw/2026-08-15-ppw-wixapol.md).
+
+## Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Max debuted for [FRPW](@/o/frpw.md) at their [first Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in which he teamed up with [Bartosz Plata](@/w/plata.md) against [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md). From that point on Max started making regular appearances for FRPW, mainly working in Mixed Tag Team Matches with [Kalyana](@/w/kalyana.md).
 
 ## International wrestling appearances
 
@@ -77,9 +88,10 @@ From 2024 onwards Max started taking international bookings. His debut outside o
 
 * Finishers:
   - _I am speed_ (Codebreaker) (2023-)
+  - Spear (2025-)
 * Entrance music:
   - "Bangarang (Remix)" by Skrillex
-    {{ org_badge(orgs=['ptw', 'low', 'ppw', 'mzw']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw', 'low', 'ppw', 'mzw', 'frpw']) }} (2023-) <br>
     {{ music(yt='YJVmu6yttiw')}}
     {{ music(spot='6VRhkROS2SZHGlp0pxndbJ')}}
     {{ music(apple='491596645?i=491596647')}}
