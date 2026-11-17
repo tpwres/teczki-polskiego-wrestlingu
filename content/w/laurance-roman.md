@@ -46,6 +46,13 @@ Roman worked for [FRPW](@/o/frpw.md) at their show in [Siedlce](@/e/frpw/2026-10
     {{ music(spot='6holGuk1jKHTdWyWBOZi8l')}}
     {{ music(apple='1440842682?i=1440843049')}}
 
+## Championships and accomplishments
+
+#### International wrestling accomplishments
+
+* Pro Wrestling Illustrated:
+  - #113 on 2024 [PWI's][pwi-250] 250 list
+
 ## Internet presence
 
 * [@laurance_roman on Instagram](https://www.instagram.com/laurance_roman)
@@ -53,3 +60,5 @@ Roman worked for [FRPW](@/o/frpw.md) at their show in [Siedlce](@/e/frpw/2026-10
 ## References
 
 * [Cagematch profile page](https://www.cagematch.net/?id=2&nr=14937)
+
+[pwi-250]: https://en.wikipedia.org/wiki/Pro_Wrestling_Illustrated
