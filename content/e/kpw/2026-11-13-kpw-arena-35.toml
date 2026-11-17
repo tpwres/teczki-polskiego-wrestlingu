@@ -70,5 +70,11 @@
 6070 = { path = "az-sie-prosi-o-komentarz-historyczno-polityczny-ale-moze-lepiej-nie.webp", caption = "Friedrich Pohlmann keeps attacking Oliwa's appendage.", source = "M3n747" }
 6080 = { path = "one-down-many-more-to-go.webp", caption = "[David Oliwa](@/w/david-oliwa.md) wins.", source = "M3n747" }
 
-7010 = { path = ".webp", caption = ".", source = "M3n747" }
+7010 = { path = "po-ubraniu-widac-ze-wcale-mu-nie-lepiej.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) addresses the audience.", source = "M3n747" }
+7020 = { path = "normalny-prezes-w-normalnych-butach.webp", caption = "[Rosetti](@/w/rosetti.md) confronts [Krystian Malinowski](@/w/krystian-malinowski.md).", source = "M3n747" }
+7030 = { path = "pojdz-w-me-ramiona.webp", caption = "[Rosetti](@/w/rosetti.md) ridicules [Krystian Malinowski's](@/w/krystian-malinowski.md) request for a hug.", source = "M3n747" }
+7040 = { path = "szybciej-sie-kloccie-bo-sie-zaraz-moj-serial-zaczyna.webp", caption = "A security member ready to remove somebody from the ring.", source = "M3n747" }
+7050 = { path = "zupelnie-przypadkiem-na-nastepnej-gali-legacy-sinister-bedzie-mial-nowa-laske.webp", caption = "Rosetti takes over as the new Chairman of KPW.", source = "M3n747" }
+
+
 8010 = { path = ".webp", caption = ".", source = "M3n747" }
