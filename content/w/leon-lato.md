@@ -38,7 +38,7 @@ Leon debuted for [PpW](@/o/ppw.md) at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
 Lato made his first appearance for [FRPW](@/o/frpw.md) at their [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he was one of the entrants in the HeelTurn Invitational Tournament. Two events later, in [Warka](@/e/frpw/2026-10-18-frpw-warka.md), he defeated [Olgierd](@/w/olgierd.md) in the tournament finals, winning the HeelTurn trophy. 
-During that match he suffered a shoulder injury, which sidelined him from competition for a few months. Leon shared this info with the fans at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md)
+During that match he suffered a shoulder injury, which sidelined him from competition for a few months. Leon shared this info with the fans at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md).
 
 ## International wrestling appearances 
 
