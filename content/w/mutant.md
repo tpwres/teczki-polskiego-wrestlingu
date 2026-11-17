@@ -9,11 +9,11 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Michał "Mutant" Świątkowski is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md). Previously, he worked for [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md) (as Daniel Boza).
+Michał "Mutant" Świątkowski is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md), [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) and [Maniac Zone Wrestling](@/o/mzw.md). Previously, he worked for [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md) (as Daniel Boza).
 
 ## Basic Info
 
-* Years active: 2019-2024
+* Years active: 2019-2024; 2026-present
 * Gimmicks/nicknames:
   - Daniel Boza {{ org_badge(org='kpw') }}
   - Michał "Mutant" Świątkowski {{ org_badge(org='ptw')}}
@@ -39,11 +39,15 @@ At or after REVOLUCJA, Mutant went on hiatus and disappeared from PTW for nearly
 
 This marked his last appearance in PTW, as he publicly [announced his departure](@/a/ptw-exits.md) from the federation in June 2024. From then on he was often active on social media, teasing either a return to KPW, or debuting for [PpW](@/o/ppw.md). The former never came to be, and the latter not until the end of the following year.
 
-### PpW Ewenement Wrestling (2025-)
+### PpW Ewenement Wrestling (2025-present)
 
 Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), where he competed in a 10,000&nbsp;PLN Battle Royal with no success. A month later, at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), he appeared in another multi-man match, this time a six-man Bring Your Weapons match, with several of the same opponents. Just two weeks later, he had his first singles match in PpW against [Biesiad Strong](@/w/biesiad.md).
 
-### Maniac Zone Wrestling (2026-)
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Mutant made his first appearance for [FRPW](@/o/frpw.md) at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) where he teamed up with Boro against [Bartosz Plata](@/w/plata.md) and [Max Speed](@/w/max-speed.md). From that point on he started making regular appearances for FRPW, mostly in a Tag Team with Boro.
+
+### Maniac Zone Wrestling (2026-present)
 
 Mutant made his first appearance in [Maniac Zone Wrestling](@/o/mzw.md) at [MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md), in a Three-Way Match with [Disco Pablo](@/w/disco-pablo.md) and [Bartosz Plata](@/w/plata.md).
 
