@@ -22,4 +22,4 @@ Krzysztof Skwarczyński is a host and ring announcer currently working for [Prim
 
 Krzysztof made his debut for [Prime Time Wrestling](@/o/ptw.md) back at their first show [REVOLUCJA](@/e/ptw/2021-10-09-ptw-1-revolucja.md), where he served as a Panel Host during the show. 
 
-He returned to PTW in late 2024, where he took over [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) position as the Host and Ring Announcer following Pawłowski's heel turn. He remained in said position for the time being, also ocassionally working as commentator.
+He returned to PTW in late 2024, where he took over [Arkadiusz Pawłowski's](@/w/pan-pawlowski.md) position as the Host and Ring Announcer following Pawłowski's heel turn. He currently remains in that position, ocassionally also working as a commentator.
