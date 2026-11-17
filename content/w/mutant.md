@@ -43,6 +43,14 @@ This marked his last appearance in PTW, as he publicly [announced his departure]
 
 Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), where he competed in a 10,000&nbsp;PLN Battle Royal with no success. A month later, at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md), he appeared in another multi-man match, this time a six-man Bring Your Weapons match, with several of the same opponents. Just two weeks later, he had his first singles match in PpW against [Biesiad Strong](@/w/biesiad.md).
 
+#### Boro & Muti
+
+Shortly after his arrival in PpW [Boro](@/w/boro.md) laid his eyes on Mutant, whom he taken to affectionately calling "Muti", and intensly tried to recruit into his unnamed group. Mutant - due to Boro's questionable attitude towards him - strongly declined his courtship which led to them facing off in a Tables Match at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), which Boro ultimately won after striking Mutant with a passionate kiss. By winning the match Boro forcefully recruited Mutant as his "Enforcer". Despite the rough start the duo quickly bonded, as both of them learned to understand each other passions: Boro's attraction to women, and Mutant's attraction to gardening tools. 
+
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) team of Boro & Muti got their first championship opportunity, as they were scheduled to face [Bad Trip](@/tt/bad-trip.md) in a Match for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). However, it was revealed that Boro & Muti would face [Rodzina](@/tt/rodzina.md) for vacated titles, as [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) were forced to drop their gold due to Gustav's injury. Despite their effort Boro and Mutant lost to Rodzina. This led to a rivalry against the stable led by [Vic Golden](@/w/vic-golden.md). At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Boro & Muti defeated [Filip Fux](@/w/filip-fux.md) and [Isnorr](@/w/isnorr.md) in non-title match, and later intervened in Rodzina vs [The Hardcors](@/tt/the-hardcors.md) title match, allowing the latter to win the titles from the team of Vic Golden and [Oskar Alexander](@/w/oskar-alexander.md).
+
+In revenge for intervening in their match, Rodzina's patriarch Vic Golden ordered Oskar and Filip to abduct Mutant. Mutant happened to avoid the beatdown and kidnapping, as he went to anwser nature's call at just the right moment. Instead, the violent goon duo decided to [abduct Boro & Muti's manager][kondzio-porwanie] - [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md).
+
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
 Mutant made his first appearance for [FRPW](@/o/frpw.md) at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) where he teamed up with Boro against [Bartosz Plata](@/w/plata.md) and [Max Speed](@/w/max-speed.md). From that point on he started making regular appearances for FRPW, mostly in a Tag Team with Boro.
@@ -75,3 +83,5 @@ Mutant made his first appearance in [Maniac Zone Wrestling](@/o/mzw.md) at [MZW 
 
 ## Internet presence
   - [Mutant's Instagram](https://www.instagram.com/mutant_wrestler)
+
+[kondzio-porwanie]: https://www.instagram.com/reel/Dd62Vb1Kn4b/
