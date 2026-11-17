@@ -31,15 +31,14 @@ At [PTW: Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) it was first announce
 
 In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md) for the inaugural BestYa Women's Championship. At the same show, it was announced that [PTW Women's Championship](@/c/ptw-womens-championship.md) tournament is off the books, and the title was added to the stakes of Moné vs Strong. Moné won in a competitive main event to capture both championships.
 
-During her run with PTW Women's Championship Mercedes often presented PTW title during All Elite Wrestling programming among many other championships, as at the time she became the first wrestler in nearly 30 years to hold 11 championships simultaneously, what she embraced by adopting nickname "Último Moné".
+During her run with the PTW Women's Championship Mercedes often presented the title during All Elite Wrestling programming, alongside many other belts. At the time she became the first wrestler in nearly 30 years to hold 11 championships simultaneously, which she embraced by adopting the nickname "Último Moné".
 
-Diana got her rematch after over eight months. At [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md) Mercedes finally lost PTW Women's Championship to Diana, after Polish wrestler turned heel during said match. This ended Moné's reign with Polish championship after 245 days.
+Diana got her rematch after over eight months. At [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md) Mercedes finally lost THE PTW Women's Championship to Diana, after the Polish wrestler turned heel during the match. This ended Moné's reign with the Polish Championship after 245 days.
 
 ## In wrestling
 
 * Finishers:
   - _Statement Maker_ (Bridging crossface) (2025-2026)
-
 * Entrance music:
   - "CEO" by Mercedes Moné
     {{ org_badge(org='ptw') }} (2025) <br>

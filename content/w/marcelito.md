@@ -86,7 +86,7 @@ In October 2024 Marcelito performed at [Maniac Zone Wrestling](@/o/mzw.md) show 
 
 On 14th of August 2024 Marcelito was one of the wrestlers starring in the trailer for a new Polish wrestling federation - [Legacy of Wrestling](@/o/low.md).
 
-In November 2024 it was announced that he would face MZW owner and legend [Shadow](@/w/shadow.md) at [LoW's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer. At their [second show](@/e/low/2025-04-06-low-2.md) he faced another Polish wrestling scene veteran - [David Oliwa](@/w/david-oliwa.md) - in another unsuccessful bout. At [Four the Glory](@/e/low/2025-12-20-low-4.md) he was defeated by [Boro](@/w/boro.md). At [What's in the Box?](@/e/low/2026-10-24-low-7.md) he was defeated by [Bartosz Plata](@/w/plata.md).
+In November 2024 it was announced that he would face the MZW owner and Polish wrestling legend [Shadow](@/w/shadow.md) at [Legacy's first show](@/e/low/2024-12-01-low-1.md). Marcelito lost the match to the MZW high-flyer. At their [second show](@/e/low/2025-04-06-low-2.md) he faced another Polish wrestling scene veteran - [David Oliwa](@/w/david-oliwa.md) - in another unsuccessful bout. At [Four the Glory](@/e/low/2025-12-20-low-4.md) he was defeated by [Boro](@/w/boro.md), and at [What's in the Box?](@/e/low/2026-10-24-low-7.md) he lost to [Bartosz Plata](@/w/plata.md).
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026)
 
@@ -94,7 +94,7 @@ Marcelito made his debut for [FRPW](@/o/frpw.md) at [Ewenement Dojo Showcase](@/
 
 ## International wrestling appearances
 
-In 2022 and 2023 Marcelito made a handful of appearances for Austrian promotions Rings of Europe and PTW:WWA, the latter of which was owned by fellow PTW wrestler [Krampus](@/w/krampus.md). He also worked for Budapest Dojo, wXw Academy and Pro Wrestling Roma.
+In 2022 and 2023 Marcelito made a handful of appearances for Austrian promotions Rings of Europe and PTW:WWA, the latter of which was owned by a fellow PTW wrestler, [Krampus](@/w/krampus.md). He also worked for Budapest Dojo, wXw Academy and Pro Wrestling Roma.
 
 ## In wrestling
 
