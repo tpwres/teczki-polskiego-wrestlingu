@@ -61,6 +61,14 @@
 5080 = { path = "marcelito-w-kpw-nie-bylo-a-i-tak-zgasil-sedziemu-swiatlo.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md), still groggy from the hit, awards the victory to [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
 5090 = { path = "ech-no-i-znowu-wzial-i-wygral-no.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) victorious.", source = "M3n747" }
 
-6010 = { path = ".webp", caption = ".", source = "M3n747" }
+6010 = { path = "nie-jestem-pewien-ale-to-chyba-niemiec.webp", caption = "Friedrich Pohlmann.", source = "M3n747" }
+6020 = { path = "ej-on-nawet-ma-tatuaz-wrony-na-gombrowiczowskiej-lydce.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and Friedrich Pohlmann face off.", source = "M3n747" }
+6030 = { path = "pohlmann-sie-oliwie-nie-wyslizgnie.webp", caption = "[David Oliwa](@/w/david-oliwa.md) has Pohlmann in a headlock.", source = "M3n747" }
+6040 = { path = "taki-bardziej-hardcoreowy-twister.webp", caption = "Pohlmann abuses [David Oliwa's](@/w/david-oliwa.md) injured leg.", source = "M3n747" }
+6050 = { path = "disarming-and-dislegging.webp", caption = "Friedrich Pohlmann removes Oliwa's leg brace.", source = "M3n747" }
+6060 = { path = "max-rockatansky-mial-podobna.webp", caption = "Close-up of Oliwa's brace.", source = "M3n747" }
+6070 = { path = "az-sie-prosi-o-komentarz-historyczno-polityczny-ale-moze-lepiej-nie.webp", caption = "Friedrich Pohlmann keeps attacking Oliwa's appendage.", source = "M3n747" }
+6080 = { path = "one-down-many-more-to-go.webp", caption = "[David Oliwa](@/w/david-oliwa.md) wins.", source = "M3n747" }
+
 7010 = { path = ".webp", caption = ".", source = "M3n747" }
 8010 = { path = ".webp", caption = ".", source = "M3n747" }
