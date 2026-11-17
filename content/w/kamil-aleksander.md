@@ -45,7 +45,7 @@ Kamil Aleksander fought his last match in KPW at [KPW Godzina Zero 2019](@/e/kpw
 
 #### Return and proper retirement
 
-Over six years later, Kamil Aleksander made a surprise appearance at [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) where he announced his return to the ring. [Markus Paskal](@/w/markus-paskal.md), KPW's newest debutant at the time, introduced Kamil as his mentor and tag team partner in a match against [Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md). After a few matches, Kamil challenged his protégé  - Markus - for a Career vs Career Match at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md). Kamil ultimately lost the match, which marked the last test for Paskal and officially the last match in Kamil's career. 
+Over six years later, Kamil Aleksander made a surprise appearance at [KPW Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md) where he announced his return to the ring. [Markus Paskal](@/w/markus-paskal.md), KPW's newest debutant at the time, introduced Kamil as his mentor and tag team partner in a match against [Chemik](@/w/chemik.md) and [Eryk Lesak](@/w/eryk-lesak.md) at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md). After a few matches, Kamil challenged his protégé for a Career vs Career Match at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md). Markus won against his mentor, which marked both his last test, and officially the final match in Kamil's career, punctuated by him leaving his boots in the ring. 
 
 ## International wrestling appearances 
 
