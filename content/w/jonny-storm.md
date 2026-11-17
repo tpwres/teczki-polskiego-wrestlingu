@@ -29,7 +29,7 @@ Jonny got involved in a short storyline with Axel Fox in July 2023, where he ret
 
 Jonny Storm returned to Poland at [Gold Rush](@/e/ptw/2024-02-03-ptw-5-gold-rush.md) in February 2024, where he was one of the contenders in a Gold Rush Rumble Match to determine the inaugural [PTW Champion](@/c/ptw-championship.md). His last recorded match in Poland took place at [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md), where he fought against Matt Sydal and Aigle Blanc in a Triple Threat Match.
 
-Jonny made yet another appearance for PTW during their [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md) event in April 2026 where he lost to [Nano Lopez](@/w/nano-lopez.md) in a Singles Match for [PTW Underground Championship](@/c/ptw-underground-championship.md).
+Jonny made yet another appearance for PTW during their [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md) event in April 2026 where he lost to [Nano Lopez](@/w/nano-lopez.md) in a Singles Match for the [PTW Underground Championship](@/c/ptw-underground-championship.md).
 
 ## In wrestling
 
