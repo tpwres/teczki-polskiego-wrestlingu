@@ -66,7 +66,7 @@ The match between Jakub and Max took place at [What's in the Box?](@/e/low/2026-
 
 ### Maniac Zone Wrestling (2025-present)
 
-Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announced Max Speed would debut for their federation at [MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md), facing [Febus 'The Wolf'](@/w/apollo-anderson.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) in a Triple Threat Match. Later on, in March 2026, he unsucesfully challenged [Jakub](@/w/jakub.md) for his [LoW European Championship](@/w/low-european-championship.md) at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md). 
+Two months later, in September 2025, [Maniac Zone Wrestling](@/o/mzw.md) announced Max Speed would debut for their federation at [MZW Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md), facing [Febus 'The Wolf'](@/w/apollo-anderson.md) and [Gustav Gryffin](@/w/gustav-gryffin.md) in a Triple Threat Match. Later on, in March 2026, he unsucesfully challenged [Jakub](@/w/jakub.md) for his [Legacy of Wrestling European Championship](@/c/low-european-championship.md) at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md). 
 
 ### PpW Ewenement Wrestling (2025-present)
 
