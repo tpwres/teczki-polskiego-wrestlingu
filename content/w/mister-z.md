@@ -122,7 +122,7 @@ Mister Z made his first appearance for [FRPW](@/o/frpw.md) at their first [Ewene
 
 ## International wrestling appearances
 
-In August 2023 Mister Z made a singular international appearance during Passion Pro Wreslting show in Hungary. He also took part in [PpW's excursion to Japan](@/a/ppw-hardcore-friday-the-13th-tokyo) in May 2026.
+In August 2023 Mister Z made a singular international appearance during Passion Pro Wreslting show in Hungary. He also took part in [PpW's excursion to Japan](@/a/ppw-hardcore-friday-the-13th-tokyo.md) in May 2026.
 
 ## In wrestling
 
