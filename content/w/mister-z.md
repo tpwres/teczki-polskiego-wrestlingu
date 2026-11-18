@@ -13,7 +13,7 @@ country = ["PL"]
 3 = { path = "kid-z.jpg", caption = "Young Mister Z at [Neomania III](@/e/ppw/2013-07-12-ppw-neomania-iii.md).", source = "Official PpW YouTube." }
 +++
 
-Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](@/o/ppw.md), where he is the promoter. He also made a few appearances in both [Maniac Zone Wrestling](@/o/mzw.md), and [Dream Factory Wrestling](@/o/dfw.md).
+Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](@/o/ppw.md), where he is the promoter. He also made a few appearances in [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
@@ -28,7 +28,7 @@ Mister Z is a Polish wrestler best known for his appearances in [PpW Ewenement](
   - Scarecrow {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
   - PpW Dojo
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-2026)
 
 ## Professional wrestling career
 
@@ -92,11 +92,17 @@ In retaliation, Mister Z arranged the main event of [Surowy Klimat](@/e/ppw/2025
 Fox was bitter over having to stick his neck out for Goblin's nemesis instead of going for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). Axel no-showed at the beginning of the match, which granted a huge advantage to Zmowa.
 Later, during a critical moment of the match, he was seemingly about to tag in for the beaten-up Goblin, only to betray his old friend which granted Zmowa another victory, as well as a new member.
 
-#### New, better Zmowa
+#### New, "better" Zmowa
 
 After Fox joined Mister Z's stable, Zmowa managed to hold off their position as the most dominant faction in PpW. Mister Z quickly declared that he and his allies - Marco Hammers and Axel Fox - would represent Zmowa in the pursuit of the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md), and would join the newly crowned [PpW Champion](@/c/ppw-championship.md) Olgierd as the dominating force in both solo and Tag Team division of PpW.
 
-His plan concluded sucessfully, as at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) in February 2026 he teamed up with Jakub - formerly known as Axel Fox - to win the Triple Threat Tag Team Tables Elimination Match to crown all members of Zmowa as the inaugural PpW Tag Team Champions.
+His plan concluded sucessfully, as at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa-na-dwa.md) in February 2026 he teamed up with Jakub - formerly known as Axel Fox - to win the Triple Threat Tag Team Tables Elimination Match to crown all members of Zmowa as the inaugural PpW Tag Team Champions. After a few months of domination, a tragedy struck Zmowa at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). Jakub and Marco lost Tag Team Titles to [Bad Trip](@/tt/bad-trip.md), Olgierd lost PpW Championship to [Gabriel Queen](@/w/gabriel-queen.md) - who used his #1 Contender Contract he won the same night - and Mister Z himself lost to [Jacob Crane](@/w/jacob-crane.md) via submission. Devastating loses quickly turned the vibes inside of the stable sour. 
+
+It became apparent that Jakub rapidly gained a lot of influence over Mister Z, which resulted in Olgierd losing his "top dog" position in Zmowa. This led to a number of conflicts inside the group, resolved mostly through violence against one another. At [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md) Olgierd defeated Jakub in a #1 Contendership Match for the PpW Championship, which was refereed by Mister Z. However, the Hooligan blew it in a match against Gabriel Queen at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md). This led to further conflicts, when Jakub effectively sidelined Olgierd from a match against Nick Schreier and Laurance Roman at [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) to test out a new Zmowa prospect [Maverick](@/w/maverick.md) (who was later blamed, rejected and beaten up after suffering defeat in that match). Jakub's shenanigans in Zmowa finally concluded at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) where Jakub and Mister Z intervened in a Triple Threat Match Olgierd was part of, which cost him victory. This drove furious Olgierd into finally turning his back on Zmowa and walking away, leaving only Z and Jakub in the group.
+
+#### Feud with Olgierd
+
+At [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) Mister Z faced his former ally Olgierd in a PpW Rules Match. He won the said match after brutally attacking Olgierd's valet and girlfriend [Rozalia Nyx](@/w/rozalia-nyx.md) and hitting Olgierd with a low blow. This didn't ended their feud, as at [Hardcore Saturday](@/e/ppw/2026-11-07-ppw-hardcore-saturday.md) Mister Z apologised for often treating Olgierd like a brainless brute to do his dirty work. Trying to get Olgierd to re-join Zmowa, he offered a title match for the PpW Championship. Olgierd declined, stating that it wasn't on top of his mind. Faced with this, Zet gave him an ultimatum: either Olgierd accepts, or he's fired from PpW forever. Olgierd called the bluff, saying that Zet's words doesn't mean anything to him and simply walk away, demanding a match against Zmowa's leader.
 
 ### Dream Factory Wrestling (2017)
 
@@ -108,20 +114,26 @@ In September 2023 Mister Z made his debut in [Maniac Zone Wrestling](@/o/mzw.md)
 
 He made his return to MZW in March 2025, where he faced Kubes at [Forever](@/e/mzw/2025-03-29-mzw-forever.md). He lost the match due to disqualification after a low blow. Later that night he returned to observe the main event match for [MZW Championship](@/c/mzw-championship.md), confirming his aspirations to win that championship soon. He confirmed that by winning a Fatal 4-Way Ladder Tournament Final Match for the PpW/MZW Championship opportunity briefcase, which happened at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md).
 
+At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) after [Gustav's](@/w/gustav-gryffin.md) victory in a title match against [Tony Sheen](@/w/riverman.md), members of Zmowa came out of the backstage and attacked the new Champion. Mister Z then tried to cash-in his contract briefcase, only for the referee to point out that the briefcase was empty. [Marco Hammers](@/w/marco-hammers.md) then pulled out the contract from his trunks and stated that it belonged to the entire Zmowa, and he wanted to fight for the title. Mister Z agreed and allowed his teammate to become next MZW Champion.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026)
+
+Mister Z made his first appearance for [FRPW](@/o/frpw.md) at their first [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he was confronted by [Jacob Crane](@/w/jacob-crane.md) for a match, that would took place at [PpW's](@/o/ppw.md) [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). Later on - in July - he faced [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) in a Tag Team Match as part of Zmowa.
+
 ## International wrestling appearances
 
-In August 2023 Mister Z made a singular international appearance during Passion Pro Wreslting show in Hungary.
+In August 2023 Mister Z made a singular international appearance during Passion Pro Wreslting show in Hungary. He also took part in [PpW's excursion to Japan](@/a/ppw-hardcore-friday-the-13th-tokyo) in May 2026.
 
 ## In wrestling
 
-* Finishers
+* Finishers:
+  - Disrespect Moonsault (2023-)
+  - Powerbomb (2024-)
   - Fisherman drop (2010-2019)
   - Frog splash
   - Electric chair driver (2020-2021)
   - Curb stomp (2022)
   - Single Leg Dropkick (2023)
-  - Disrespect Moonsault (2023-)
-  - Powerbomb (2024-)
 * Tag Teams and stables:
   - [Zmowa](@/tt/zmowa.md) (2024-)
 * Entrance music:
@@ -152,7 +164,7 @@ In August 2023 Mister Z made a singular international appearance during Passion 
     {{ music(spot='6CnNh8EX2Rbu3647wu9CG7')}}
     {{ music(apple='1577219021?i=1577219022')}}
    - "HUNDRED JOINTS" by Pharmacist & Cloudymane
-    {{ org_badge(orgs=['ppw']) }} (2025-present, as part of [Zmowa](@/tt/zmowa.md)) <br>
+    {{ org_badge(orgs=['ppw']) }} (2025-, as part of [Zmowa](@/tt/zmowa.md)) <br>
     {{ music(yt='7cXmA6CiW-g')}}
     {{ music(spot='1PR9gXYxwjpAGYR6xXUpV7')}}
     {{ music(apple='1606979069?i=1606979070')}}
