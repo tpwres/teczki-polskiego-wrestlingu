@@ -44,7 +44,7 @@ After losing his Championship to Lopez, Daniel got involved in a heated rivalry 
 
 #### Feud with Fabian
 
-Shortly after his feud with Lopez Razor got involved in a feud against [Fabian](@/w/fabian.md), which started officially at [Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md) after Daniel ruined Fabian's festival. At [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) Razor was defeated by Fabian, but their rivalry proceeded as both of them recruited Tag Team partners. Fabian teamed up with Pierre, and Razor called up his Lucky 8 rookie - [Kalom](@/w/kalom.md). They faced each other at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) where Razor's team emerged victorious.
+Shortly after his feud with Lopez, Razor got involved in a feud against [Fabian](@/w/fabian.md), which started officially at [Dziedzictwo](@/e/ptw/2026-06-27-ptw-dziedzictwo.md) after Daniel ruined Fabian's festival. At [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) Razor lost to Fabian. Their rivalry moved to the tag division, as both recruited Tag Team partners: Fabian teamed up with Pierre, and Razor called up his Lucky 8 rookie - [Kalom](@/w/kalom.md). They faced each other at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) where Razor's team emerged victorious.
 
 ## Other media
 

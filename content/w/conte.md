@@ -23,7 +23,7 @@ Conte is an Italian wrestler, known to Polish audiences from his work at [Prime 
 
 ### Prime Time Wrestling (2025-present)
 
-Conte made his debut on Polish soil on April 12th, 2025 when he worked for [Prime Time Wrestling](@/o/ptw.md) at [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md). From that point on he started making sporadic appearances for PTW, while mostly being associated with fellow Italian [El G](@/w/el-g.md) as part of "First Class". Working mainly as comedy characters, they often portrayed themselves as Mario & Luigi from the _Super Mario Bros._ videogame franchise, while sometimes being accompanied by adeptka Martusia as their manager.
+Conte's Polish debut happened on April 12th 2025, when he worked for [Prime Time Wrestling](@/o/ptw.md) at [Prezes vs Prezes](@/e/ptw/2025-04-12-ptw-prezes-vs-prezes.md). From that point on he started making occasional appearances for PTW, associating with fellow Italian [El G](@/w/el-g.md) as part of "First Class". Working mainly as comedy characters, they often portrayed themselves as Mario & Luigi from the _Super Mario Bros._ videogame franchise, while sometimes accompanied by adeptka Martusia (sometimes playing Princess Peach) as their manager.
 
 ## In wrestling
 

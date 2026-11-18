@@ -108,7 +108,7 @@ Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026)
 
-Gabriel made his debut for [FPRW](@/o/frpw.md) at their [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) where he teamed up with [Agentka Agatka](@/w/agentka-agatka.md) to face [Goblin](@/w/goblin.md) and [Gloria G Szek](@/w/gloria-g-szek.md) in a Mixed Tag Team Match.
+Gabriel made his debut for [FPRW](@/o/frpw.md) at their [second Dojo Showcase](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) where he teamed up with [Agentka Agatka](@/w/agentka-agatka.md) to face [Goblin](@/w/goblin.md) and [Gloria G Szek](@/w/gloria-g-szek.md) in a Mixed Tag Team Match.
 
 ## International wrestling appearances
 

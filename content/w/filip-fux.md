@@ -67,11 +67,11 @@ At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander]
 
 #### Feud with Boro & Muti and The Hardcors
 
-After securing the Tag Team titles for Rodzina, Filip focused on helping the "A-Team" of Oskar and Vic in keeping their grip on the Championship. However, at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) the team of Filip and [Isnorr](@/w/isnorr.md) failed to defeat Boro & Muti, and they were unable to stop their opponents from intervening in a PpW Tag Team Championship Match between Oskar and Vic against [The Hardcors](@/tt/the-hardcors.md), which cost Rodzina their titles. In revenge, Vic ordered Oskar and Filip to kidnap the dangerous [Mutant](@/w/mutant.md). The plan failed, as they [mistakenly kidnapped][kondzio-porwanie] Boro & Muti's manager: [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md). Nevertheless, Kondzio's kidnapping turned out to be a valid asset at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), where a disruption caused by Filip with Kondzio held as hostage allowed Rodzina to win the Tag Team Titles for the second time.
+After securing the Tag Team titles for Rodzina, Filip focused on helping the "A-Team" of Oskar and Vic in keeping their grip on the Championship. However, at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) the team of Filip and [Isnorr](@/w/isnorr.md) failed to defeat [Boro](@/w/boro.md) & [Muti](@/w/mutant.md), and were unable to stop their opponents from intervening in a PpW Tag Team Championship Match between Oskar and Vic against [The Hardcors](@/tt/the-hardcors.md), which cost Rodzina their titles. In revenge, Vic ordered Oskar and Filip to kidnap the dangerous Mutant. The plan failed, as they [mistakenly kidnapped][kondzio-porwanie] Boro & Muti's manager: [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md). Nevertheless, Kondzio's kidnapping turned out to be a valid asset at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), where a disruption caused by Filip with Kondzio held as hostage allowed Rodzina to recapture the Tag Team Titles, becoming two-time champions.
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Filip made his first appearance for [FRPW](@/o/frpw.md) at their [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md), where he teamed up with a fellow Rodzina member, [Robert Star](@/w/robert-star.md).
+Filip made his first appearance for [FRPW](@/o/frpw.md) at their [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md), where he teamed up with fellow Rodzina member, [Robert Star](@/w/robert-star.md).
 
 ## International wrestling appearances 
 

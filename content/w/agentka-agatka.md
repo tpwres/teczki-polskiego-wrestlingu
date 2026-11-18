@@ -57,7 +57,7 @@ After leaving Rodzina, Agatka fully turned face and focused on going against the
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. She defeated [Gloria G Szek](@/w/gloria-g-szek.md) in a Singles Match. Later on, she made worked numerous FRPW shows both in Singles and Tag Team competition.
+Agentka Agatka made her debut for [FRPW](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. She defeated [Gloria G Szek](@/w/gloria-g-szek.md) in a Singles Match. Later on, she worked numerous FRPW shows both in Singles and Tag Team competition.
 
 ## In wrestling
 

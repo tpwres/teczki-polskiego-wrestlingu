@@ -33,7 +33,7 @@ In her PTW debut, Moné was set to challenge [Diana Strong](@/w/diana-strong.md)
 
 During her run with the PTW Women's Championship Mercedes often presented the title during All Elite Wrestling programming, alongside many other belts. At the time she became the first wrestler in nearly 30 years to hold 11 championships simultaneously, which she embraced by adopting the nickname "Último Moné".
 
-Diana got her rematch after over eight months. At [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md) Mercedes finally lost THE PTW Women's Championship to Diana, after the Polish wrestler turned heel during the match. This ended Moné's reign with the Polish Championship after 245 days.
+Diana got her rematch after over eight months. At [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md) Mercedes finally lost the PTW Women's Championship to Diana, after the Polish wrestler turned heel during the match. This ended Moné's reign with the Polish Championship after 245 days.
 
 ## In wrestling
 

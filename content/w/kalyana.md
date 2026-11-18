@@ -23,9 +23,9 @@ Kalyana is a Ukrainian wrestler best known for working with [Fundacja Rozwoju Po
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Kalyana began training with [Ewenement Dojo/Warszawska Szkoła Wrestlingu](@/o/dojo.md) in the early 2026. She made her first in-ring appearance at [Ewenement Dojo Showcase 2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) in an Intergender Mixed Tag Team Match. She followed her initial attempt with additional appearances for FRPW at the following shows, where she mainly worked in a Tag Team division - often being paired with [Max Speed](@/w/max-speed.md). 
+Kalyana began training with [Ewenement Dojo/Warszawska Szkoła Wrestlingu](@/o/dojo.md) in the early 2026. Her in-ring debut happened at [Ewenement Dojo Showcase 2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) in an Intergender Mixed Tag Team Match. She followed her initial attempt with more appearances for FRPW at the following shows, working mainly in the Tag Team division, most often pairing with [Max Speed](@/w/max-speed.md). 
 
-At [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) she and Speed were defeated by Kolektyw: [Olgierd](@/w/olgierd.md) nad [Gloria](@/w/gloria-g-szek.md). After the match Kalyana challenged Gloria to a Singles Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md), with the winner becoming #1 Contender for the wXw Academy Championship. 
+At [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) she and Speed lost to Kolektyw: [Olgierd](@/w/olgierd.md) and [Gloria](@/w/gloria-g-szek.md). After the match Kalyana challenged Gloria to a Singles Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md), with the winner becoming #1 Contender for the wXw Academy Championship. 
 
 ### PpW Ewenement Wrestling (2026-present)
 

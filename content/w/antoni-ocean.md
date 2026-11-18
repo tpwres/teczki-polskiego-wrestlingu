@@ -37,11 +37,11 @@ At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Ocean won a Triple T
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he took part in the Next Big Thing Battle Royale Match. 
+Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he took part in the _Next Big Thing_ Battle Royale Match. 
 
 ### Legacy of Wrestling (2026-present)
 
-Antoni Ocean made his debut for [Legacy of Wrestling](@/o/low.md) at their [What's In The Box?](@/e/low/2026-10-24-low-7.md) show in October 2026, when he teamed up with [Markus Paskal](@/w/markus-paskal.md) to face [Biuro Prasowe](@/tt/biuro-prasowe.md).
+Antoni Ocean debuted for [Legacy of Wrestling](@/o/low.md) at their [What's In The Box?](@/e/low/2026-10-24-low-7.md) show in October 2026, teaming up with [Markus Paskal](@/w/markus-paskal.md) against [Biuro Prasowe](@/tt/biuro-prasowe.md).
 
 ## International wrestling appearances
 

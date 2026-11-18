@@ -72,7 +72,7 @@ In May 2026 Jacob, along with [Goblin](@/w/goblin.md) and [Gustav Gryffin](@/w/g
 
 #### Feud with Dieter Schwartz
 
-At [FRPW's show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Jacob faced [Dieter Schwartz](@/w/dieter-schwartz.md) in a Singles Match, which ended via time limit draw. At [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) the duo faced each other in a Word of Honour Match that - contrary to its name - was won by Dieter dishonourably. This led to Jacob challenging Dieter for one last fight: a No Ropes Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md).
+At [FRPW's show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Jacob faced [Dieter Schwartz](@/w/dieter-schwartz.md) in a Singles Match, which ended via time limit draw. At [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) the duo faced each other in a Word of Honour Match that - contrary to its name - was won by Dieter dishonourably, with an illegal rope assist. This led to Jacob challenging Dieter for one last fight: a No Ropes Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md).
 
 ## International wrestling appearances
 

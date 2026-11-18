@@ -9,7 +9,7 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Disco Pablo is a Polish wrestler known for his appearances in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024, and from 2026 onwards.
+Disco Pablo is a Polish wrestler known for his appearances in [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md) between 2021 and 2024, and again since 2026.
 
 ## Basic info
 
@@ -65,7 +65,7 @@ At [Four The Glory](@/e/low/2025-12-20-low-4.md) Disco Pablo defeated [Tony Shee
 
 ### Return to Prime Time Wrestling (2026-)
 
-Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Disco Pablo returned to PTW at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) as a commentator. At the same show he also got into a quarell with the reigning [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md), which led to the announcement of their title match at [Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md).
+Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Disco Pablo returned to PTW at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) as a commentator. At the same show he also got into an argument with the reigning [PTW Underground Champion](@/c/ptw-underground-championship.md) [Nano Lopez](@/w/nano-lopez.md), which led to the announcement of their title match at [Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md).
 
 ## In wrestling
 

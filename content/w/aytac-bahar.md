@@ -21,7 +21,7 @@ Aytaç debuted in Poland working for Warsaw-based federation [PpW](@/o/ppw.md) i
 
 He returned to PpW almost one year later at [Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md) as part of Baklava Club. He and [Joshua Amaru](@/w/joshua-amaru.md) faced - and lost to - [Pure Gold](@/tt/pure-gold.md). 
 
-In 2026 Bahar and Amaru faced [Bad Trip](@/tt/bad-trip.md) in a [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Match at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md), but lost.
+In 2026 Bahar and Amaru faced [Bad Trip](@/tt/bad-trip.md) in a [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) Match at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md), in a losing effort.
 
 ## In Wrestling
 

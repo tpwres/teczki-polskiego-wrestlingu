@@ -23,15 +23,15 @@ Dieter Schwartz is a German wrestler best known for his appearances in [Maniac Z
 
 ### Maniac Zone Wrestling (2018-present)
 
-Dieter Schwartz (then known as Deti Black) made his first appearance in Poland in 2018 while working for [Maniac Zone Wrestling](@/o/mzw.md), where he defeated [Apollo Anderson](@/w/apollo-anderson.md) at [Project 2](@/e/mzw/2018-12-08-mzw-project-2-four.md). From that point on he sporadically showed up at various MZW shows through the years.
+Dieter Schwartz (then known as Deti Black) made his first appearance in Poland in 2018 for [Maniac Zone Wrestling](@/o/mzw.md), where he defeated [Apollo Anderson](@/w/apollo-anderson.md) at [Project 2](@/e/mzw/2018-12-08-mzw-project-2-four.md). Since then, he popped up at various MZW shows through the years.
 
 ### Legacy of Wrestling (2025)
 
-In July 2025 Dieter made his debut in [Legacy of Wrestling](@/o/low.md) at their [third show](@/e/low/2025-07-11-low-3.md), where he was defeated by [Axel Fox](@/w/jakub.md).
+In July 2025 Dieter made his debut in [Legacy of Wrestling](@/o/low.md) at their [third show](@/e/low/2025-07-11-low-3.md), losing to [Axel Fox](@/w/jakub.md).
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Dieter debuted for [FRPW](@/o/frpw.md) at the [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), in a match against [Jacob Crane](@/w/jacob-crane.md). The bout ended in a time limit draw, which led to a rematch at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) in a "Word of Honour" stipulation. Dieter won this match, but after being confronted by Jacob, the duo agreed on finally settling their rivalry in a No Ropes Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md).
+Dieter debuted for [FRPW](@/o/frpw.md) at the [show in Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), in a match against [Jacob Crane](@/w/jacob-crane.md). The bout ended in a time limit draw, which led to a rematch at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) in a "Word of Honour" stipulation. Dieter won this match with an illegal rope assist. This angered Jacob who confronted him after the match, and forced Dieter to finally settle their rivalry in a No Ropes Match at [Zimny Świat](@/e/frpw/2026-12-06-frpw-zimny-swiat.md).
 
 ## In wrestling
 
