@@ -22,13 +22,17 @@ Adept Mikołaj "SKS" is a Polish wrestler working for [Fundacja Rozwoju Polskieg
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Mikołaj made his debut for [FRPW](@/o/frpw.md) at federation's very first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. He portrayed himself as happy-go-lucky persona with basketball-themed gimmick. In his first appearance he challenged [Olgierd](@/w/olgierd.md), which resulted in his defeat via submission. At [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) he won Rumble match. Besides that, he was often involved in Kids in-ring training session during the intermission during some of FRPW shows.
+Mikołaj made his debut for [FRPW](@/o/frpw.md) at the federation's very first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. He portrayed himself as happy-go-lucky persona with a basketball-themed gimmick. In his first appearance he challenged [Olgierd](@/w/olgierd.md), which resulted in his defeat via a submission. At [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) he won the Rumble Match. Besides that, he was often involved in kids' in-ring training sessions during intermissions of some of FRPW shows.
 
 ## In wrestling
 
 * Entrance music:
-  "Space Jam" by Quad City DJ's
-   "Pinky Ring" by UGK
+  - "Space Jam" by Quad City DJ's
+    {{ org_badge(orgs=['frpw']) }} (2026-) <br>
+    {{ music(yt='gO3cFz53vs8')}}
+    {{ music(spot='683hRieVmYdAhVA1DkjSAk')}}
+    {{ music(apple=1170755018?i=1170755174')}}
+  - "Pinky Ring" by UGK
     {{ org_badge(orgs=['frpw']) }} (2026-) <br>
     {{ music(yt='J9FImc2LOr8')}}
     {{ music(spot='683hRieVmYdAhVA1DkjSAk')}}
