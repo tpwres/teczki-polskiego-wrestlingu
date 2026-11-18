@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "gabriel-queen.jpg", caption = "Gabriel Queen in the ring at [PpW Ewenement Haze](@/e/ppw/2024-04-20-ppw-ewenement-haze.md).", source = "M3n747" }
 +++
 
-Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenement](@/o/ppw.md), [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
+Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenement](@/o/ppw.md), [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md), [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md).
 
 ## Basic info
 
@@ -23,6 +23,7 @@ Gabriel Queen is a Polish wrestler best known for his appearances in [PpW Ewenem
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2023)
+  - Pro Wrestling School Dresden 
 
 ## Professional wrestling career
 
@@ -104,6 +105,10 @@ After dealing with old foes came the time for friends. While Queen defeated Jaco
 Gabriel joined [Legacy of Wrestling](@/o/low.md), appearing at their [first show](@/e/low/2024-12-01-low-1.md), where he has defeated fellow [Greens](@/tt/zieloni.md) member [Aron Wake](@/w/aron-wake.md).
 At their second show he challenged Axel Fox in a Road To The Title Match, but lost. This forced him to plea with LoW's management for one more chance to pursue the upcoming Legacy Championship.
 Permission was granted after he managed to defeat Oskar Alexander and [Filip Fux](@/w/filip-fux.md) in a Triple Threat Match at [Legacy vol. 3](@/e/low/2025-07-11-low-3.md). At the [fourth show](@/e/low/2025-12-20-low-4.md) he took part in the Six-Man Match for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md), but was eliminated halfway through the fight.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026)
+
+Gabriel made his debut for [FPRW](@/o/frpw.md) at their [second Dojo Showcase](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) where he teamed up with [Agentka Agatka](@/w/agentka-agatka.md) to face [Goblin](@/w/goblin.md) and [Gloria G Szek](@/w/gloria-g-szek.md) in a Mixed Tag Team Match.
 
 ## International wrestling appearances
 

@@ -73,9 +73,10 @@ Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Dzied
 ## In wrestling
 
 * Finishers:
-  - _Rumbling_ (Spinning Heel Kick) (2021-2026)
+  - _Rumbling_ (Spinning Heel Kick) (2021-)
 * Tag Teams and stables:
   - [Sinister Kingdom](@/tt/sinister-kingdom.md) (2023-2024)
+  - [Proroctwo](@/tt/proroctwo.md) (2026-)
 * Entrance music:
   - "Popular Monster" by Falling In Reverse
     {{ org_badge(orgs=['ptw', 'mzw', 'low']) }} (2021-2026)<br>
@@ -83,12 +84,12 @@ Following the termination of [Arkadiusz Pawłowski](@/w/pan-pawlowski.md), Dzied
     {{ music(spot='4GssB27iJeqmfGxS94Tfij')}}
     {{ music(apple='1487801236?i=1487801237')}}
   - "GladWeHaveAnUnderstanding" by Bones
-    {{ org_badge(orgs=['ptw']) }} (2023-2024 - as part of Sinister Kingdom, for group entrances)<br>
+    {{ org_badge(orgs=['ptw']) }} (2023-2024 - as part of [Sinister Kingdom](@/tt/sinister-kingdom.md))<br>
     {{ music(yt='dPGxYXWhCzM')}}
     {{ music(spot='2usCaVDg2fBLm0p27rbY7B')}}
     {{ music(apple='1447553826?i=1447553830')}}
   - "Puppet" by Stain the Canvas, Get Scared
-    {{ org_badge(orgs=['ptw']) }} (2023-2024 - as part of Sinister Kingdom)<br>
+    {{ org_badge(orgs=['ptw']) }} (2023-2024 - as part of [Sinister Kingdom](@/tt/sinister-kingdom.md))<br>
     {{ music(yt='z94b88wZzI4')}}
     {{ music(spot='7fFp5wxVb3oJxthl73J1pT')}}
     {{ music(apple='1692990296?i=1692990301')}}

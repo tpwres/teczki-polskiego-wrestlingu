@@ -24,6 +24,11 @@ Flex Skywalker is an Austrian wrestler, known to Polish audiences from his work 
 
 Flex Skywalker made his Polish debut in [Prime Time Wrestling](@/o/ptw.md), in July 2025 at [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) where he lost to [Spartan](@/w/spartan.md). From that point on he started making semi-regular appearances for the Polish promotion as enhancement talent.
 
+## In wrestling
+
+* Finishers:
+  - Double Underhook DDT (2025-)
+
 ## Internet presence
 
 * [Flex's Instagram profile](https://www.instagram.com/flex_skywlkr/)

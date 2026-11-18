@@ -1,7 +1,7 @@
 +++
 title = 'Kalom'
 template = "talent_page.html"
-authors = ["M3n747", "Szymon Iwulski"]
+authors = ["M3n747", "Szymon Iwulski", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -39,7 +39,7 @@ In 2026, while still the MCW Champion, Kalom resurfaced as one of the rookies in
     {{ music(spot='2302lUwfZ4S4dVyPOCDFnQ')}}
     {{ music(apple='1540219914?i=1540219923')}}
   - "Jekyll and Hyde" by Five Finger Death Punch
-    {{ org_badge(orgs=['mcw']) }} (2024) <br>
+    {{ org_badge(orgs=['mcw', 'ptw']) }} (2024; 2026-) <br>
     {{ music(yt='HCBPmxiVMKk')}}
     {{ music(spot='6efSwlK3LOlWOeKK9xlUKF')}}
     {{ music(apple='1242694203?i=1242694334')}}

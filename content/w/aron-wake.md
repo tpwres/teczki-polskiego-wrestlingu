@@ -63,7 +63,7 @@ In October 2024 Aron worked at [MZW No Time To Die](@/e/mzw/2024-10-12-mzw-no-ti
 
 At [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md) in June 2025 Aron suffered another serious injury in his career, breaking his left arm by landing on the apron in a failed ladder dive spot. The injury benched him for the forseeable future.
 
-### Legacy of Wrestling (2024-present)
+### Legacy of Wrestling (2024-2025)
 
 During the build-up for [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md) it was announced that Aron would participate in a match against an opponent from the first match in his career, [Gabriel Queen](@/w/gabriel-queen.md) (back then working as Nathan Cross). Aron, now working as a babyface, lost to Queen.
 

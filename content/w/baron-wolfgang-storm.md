@@ -35,6 +35,11 @@ As Baron Wolfgang Storm, with a new look and character, he debuted for Prime Tim
 
 His last appearance to date was at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) where he took part in a Trios Match as part of the International Team against Team Polska ([CJ Klakson](@/w/cj-klakson.md), [Bart Petro](@/w/bart-petro.md) & [Boguś](@/w/bogus.md)). After his defeat in that match he teased the continuation of his programme with Boguś, however it never led to anything as Wolfgang had not appeared at the following PTW shows. Instead, he changed his ringname to Morodan Zorev and continued to work at the Ukrainian wrestling scene.
 
+## In wrestling
+
+* Finishers:
+  - Ripcord Forearm Smash (2025-2026)
+
 ## Internet presence
 
 * [wolfgang_storm on Instagram](https://www.instagram.com/morodanzorev/)

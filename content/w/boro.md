@@ -130,6 +130,11 @@ At [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) Boro introduc
     {{ music(yt='SfDiHin4JEo')}}
     {{ music(spot='7gA5NWojLZRn8DYQ9HXE7x')}}
     {{ music(apple='268522887?i=268523132')}}
+  - "Blue Monday" by Orgy
+    {{ org_badge(orgs=['ppw', 'low', 'frpw']) }} (2026-; with [Mutant](@/w/mutant.md)) <br>
+    {{ music(yt='-8gVmD39AmI')}}
+    {{ music(spot='5267gVdYWrLoz6ClOhlqmE')}}
+    {{ music(apple='1702174321?i=1702176808')}}
     
 ## Championships and accomplishments
 

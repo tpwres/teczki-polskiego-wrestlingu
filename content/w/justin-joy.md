@@ -77,7 +77,7 @@ Justin made his first international appearance in 2014 during a Next Step Wrestl
 ## In wrestling
 
 * Finishers:
-  - _Drop of Joy_ (Diving Elbow Drop) (2014-2023)
+  - _Drop of Joy_ (Diving Elbow Drop) (2014-)
   - Running Knee Strike
   - Blue Thunder Bomb
 * Tag Teams and stables:
@@ -85,7 +85,7 @@ Justin made his first international appearance in 2014 during a Next Step Wrestl
   - FoxJoy (2023), with [Axel Fox](@/w/jakub.md)
 * Entrance music:
   - "Boyfriend" by ISSUES
-    {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }} (2014-2023; 2025) <br>
+    {{ org_badge(orgs=['mzw', 'ptw', 'ppw']) }} (2014-) <br>
     {{ music(yt='xB0I-FuXRwA')}}
     {{ music(spot='0lFAOPungtUxEmEG4l6uoU')}}
     {{ music(apple='1526164995?i=1526165004')}}

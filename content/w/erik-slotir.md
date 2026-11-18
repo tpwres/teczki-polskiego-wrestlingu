@@ -20,7 +20,7 @@ Erik Šlotíř is a Czech professional wrestler from Ołomuniec, best known for 
 
 ## Basic info
 
-* Years active: 2023-present
+* Years active: 2023-2026
 * Gimmicks/nicknames:
   - "The Hidden Gem" Erik Šlotíř {{ org_badge(orgs=['ptw', 'low'])}}
   - Krecik {{ org_badge(orgs=['ptw', 'low'])}} (given by fans)
