@@ -13,7 +13,7 @@ country = ["PL"]
 3 = { path = "olgierd-z-pasem-na-low4.webp", caption = "Olgierd with the [PpW Championship](@/c/ppw-championship.md) at [Legacy of Wrestling: Four the Glory](@/e/low/2025-12-20-low-4.md).", source = "M3n747" }
 +++
 
-Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md).
+Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md), [Maniac Zone Wrestling](@/o/mzw.md),  [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) and [Kombat Pro Wrestling](@/o/kpw.md). He also worked for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -26,7 +26,7 @@ Olgierd - previously known as Krueger, Hades and El Ogre - is a Polish wrestler 
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
   - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
 
 ## Professional wrestling career
 
@@ -101,37 +101,56 @@ With Biesiad out of the picture, Olgierd foucsed on recovery before his PpW titl
 
 In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) which, thanks to the [Freebird Rule](@/a/freebird-rule.md), also meant that Olgierd became a _de facto_ double champion, despite not participating in any of the qualifying matches for the Tag Team titles.
 
-### Leaving Zmowa
+#### Leaving Zmowa
 
-At [Chaos na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd clashed with [Mister Z](@/w/mister-z.md), who derided the bald hooligan for losing his match against [Leon Lato](@/w/leon-lato.md) and [Max Speed](@/w/max-speed.md). Fed up with the abuse, Olgierd abruptly quit Zmowa.
+After a few months of domination, a tragedy struck Zmowa at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). Jakub and Marco lost their Tag Team Titles to [Bad Trip](@/tt/bad-trip.md), Mister Z himself lost to [Jacob Crane](@/w/jacob-crane.md) via a submission and Olgierd himself lost the PpW Championship to [Gabriel Queen](@/w/gabriel-queen.md) - who used his #1 Contender Contract he'd won earlier that night. The devastating loses quickly turned the vibes inside the stable sour.
+
+It became apparent that Jakub rapidly gained a lot of influence over Mister Z, which resulted in Olgierd losing his "top dog" position in Zmowa. This led to a number of conflicts inside the group, resolved mostly through violence against one another. At [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md) Olgierd defeated Jakub in a #1 Contendership Match for the PpW Championship, which was refereed by Mister Z. However, the Hooligan blew it in a match against Gabriel Queen at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md). This led to further conflicts, when Jakub effectively sidelined Olgierd from a match against Nick Schreier and [Laurance Roman](@/w/laurance-roman.md) at [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) to test out a new Zmowa prospect [Maverick](@/w/maverick.md). Jakub's shenanigans in Zmowa finally concluded at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), where Jakub and Mister Z intervened in a Triple Threat Match Olgierd was part of, which cost him victory. This drove furious Olgierd into finally turning his back on Zmowa and walking away, leaving only Z and Jakub in the group.
+
+#### Feud with Mister Z
+
+At [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) Olgierd - now seemingly working as face - challenged his former leader Mister Z in a PpW Rules Match. The Wrestling Hooligan lost that match after Zet brutally attacked Olgierd's valet and girlfriend [Rozalia Nyx](@/w/rozalia-nyx.md), and struck Olgierd with a low blow. This didn't end their feud, as at [Hardcore Saturday](@/e/ppw/2026-11-07-ppw-hardcore-saturday.md) Mister Z apologised for often treating Olgierd like a brainless brute to do his dirty work. Trying to get Olgierd to re-join Zmowa, he offered a title match for the PpW Championship. Olgierd declined, stating that it wasn't on his mind. Faced with this, Zet gave him an ultimatum: either Olgierd accepts, or he's fired from PpW forever. Olgierd called the bluff, saying that Zet's words don't mean anything to him and simply walked away, demanding a match against Zmowa's leader.
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
 In October 2024 Olgierd, alongside [Sewi](@/w/sedzia-seweryn.md) and [Aron Wake](@/w/aron-wake.md), returned to [Maniac Zone Wrestling](@/o/mzw.md) at their show [No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked the first time since 2021 when members of ["The Greens"](@/tt/zieloni.md) made their appearance at an MZW show. At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md) Legia Łysych defeated [Syriusz Dziedzic](@/w/dziedzic.md) and [Jędruś Bułecka](@/w/jedrus-bulecka.md) in a Tag Team Match. 
 
-At [Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) Olgierd defeated [Marcelito](@/w/marcelito.md), while his partner Marco was defeated by Shadow earlier that night. This led to a natural rivalry between Legia Łysych and Shadow & Marcelito, resulting in a post-match brawl and a Tag Team Match set to take place at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md).
+At [Zjedz Mu Łeb](@/e/mzw/2025-09-27-mzw-zjedz-mu-leb.md) Olgierd defeated [Marcelito](@/w/marcelito.md), while his partner Marco was defeated by Shadow earlier that night. This led to a natural rivalry between Legia Łysych and Shadow & Marcelito, resulting in a post-match brawl and a Tag Team Match set to take place at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md), which they won. Later the same night Olgierd accompanied his tag team partner and fellow [Zmowa](@/w/zmowa.md) member Marco Hammers during his cash-in of Zet's contract for [MZW Champiopnship](@/c/mzw-championship.md)
 
 ### Legacy of Wrestling (2024-present)
 
 In November 2024 it was announced that Olgierd would face [Biesiad Strong](@/w/biesiad.md) in a "PpW Rules Match" at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md). He was defeated by Biesiad in that match. He intervened in a match between his partner Marco Hammers and [Filip Fux](@/w/filip-fux.md) later the same night, which led to Legia Łysych vs [Bracia Fux](@/tt/bracia-fux.md) at [LoW vol.2](@/e/low/2025-04-06-low-2.md), in which they were defeated by the reigning and defending [KPW Tag Team Champions](@/c/kpw-tag-team-championship.md). At [Four the Glory](@/e/low/2025-12-20-low-4.md) Olgierd defeated his old coach and rival [Shadow](@/w/shadow.md) in a Non-Title Match during his first fight as the PpW Champion.
 
+At [What's in the Box?](@/e/low/2026-10-24-low-7.md) Olgierd was presented as [Boro's](@/w/boro.md) mystery Tag Team partner, as they challenged the team of [Chemik](@/w/chemik.md) and [Oskar Haller](@/w/oskar-haller.md).
+
 ### Kombat Pro Wrestling (2026-present)
 
 In June 2026 Olgierd was booked for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) in a match against [Filip Fux](@/w/filip-fux.md), thus becoming the first Polish wrestler to work for all active (as of 2026) Polish pro federations: [PpW](@/o/ppw.md), [MZW](@/o/mzw.md), [PTW](@/o/ptw.md), [Legacy](@/o/low.md) and [KPW](@/o/kpw.md).
 
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Olgierd made his first appearance for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their first [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he defeated rookie [Mikołaj SKS](@/w/mikolaj-sks.md). From that point on Olgierd started making regular appearances for federation.
+
+He was one of the contenders in HeelTurn Invitational 26' Tournament, where he got right to the final after defeating [Oskar Alexander](@/w/oskar-alexander.md) and [Bartosz Plata](@/w/plata.md). In the final he faced - and lost to - [Leon Lato](@/w/leon-lato.md). 
+
+After the tournament ended, Olgierd appeared at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) as member of villainous stable initially founded at German scene called "Kolektyw". He teamed up with [Gloria](@/w/gloria-g-szek.md) against team of [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md).
+
 ## International wrestling appearances
 
-From 2024 onwards Olgierd began to take bookings at the European independent circuit. He started making rather regular appearances in Austria, Hungary and Germany, sometimes working with his Legia Łysych partner, Marco Hammers.
+From 2024 onwards Olgierd began to take bookings at the European independent circuit. He started making rather regular appearances in Austria, Hungary and Germany, sometimes working with his Legia Łysych partner, Marco Hammers. Later on he, along with fellow Polish wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) and [Jakub](@/w/jakub.md) formed a villainous stable active at German wrestling scene known as Kolektyw.
 
 ## In wrestling
 
 * Finishers:
-  - Swinging Reverse STO (2016-2020)
   - "Żyleta" / Tombstone Piledriver (2016; 2025-)
   - _Braindead_ (Running Cartwheel Headbutt) (2021-)
+  - Swinging Reverse STO (2016-2020)
 * Tag Teams and stables:
-  - [Legia Łysych](@/tt/legia-lysych.md) (2023-)
+  - [Legia Łysych](@/tt/legia-lysych.md) (2023-2026)
   - [Zmowa](@/tt/zmowa.md) (2024-2026)
+  - Kolektyw (2026-)
+* Managers:
+  - [Rozalia Nyx](@/w/rozalia-nyx.md) (2026-)
 * Entrance music:
   - "Początek końca" by Słoń/Mikser feat. Tomasz Struszczyk
     {{ org_badge(orgs=['mzw', 'ppw']) }} (2019-2021, as Hades and Krueger)<br>
@@ -166,11 +185,14 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(yt='Z74dj3D-pnU')}}
     {{ music(spot='2IwJ2kGjBFkF9jKvA80yuK')}}
     {{ music(apple='1816721490?i=1816721635')}}
-  - Mix: "Slasher" by Słoń/Mixer / "Sen o Warszawie" by Czesław Niemen (2026-present) <br>
-    {{ org_badge(org='ppw') }}
+  - Mix: "Slasher" by Słoń/Mixer / "Sen o Warszawie" by Czesław Niemen <br>
+    {{ org_badge(org='ppw') }} (2026-)
     {{ music(yt='_c5r3CytgYU')}}
     {{ music(spot='5EJ924cwMXVXeFV7ryXsWf')}}
     {{ music(apple='1858893007?i=1858893388')}}
+  - "Kolektyw Theme" by Independent Artist <br>
+    {{ org_badge(org='frpw') }} (2026-, as part of Kolektyw)
+  
 
 ## Championships and accomplishments
 
