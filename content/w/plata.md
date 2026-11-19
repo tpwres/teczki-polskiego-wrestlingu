@@ -9,14 +9,14 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), trained by [Ewenement Dojo](@/o/dojo.md). He also works for [Legacy of Wrestling](@/o/low.md).
+Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Legacy of Wrestling](@/o/low.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
 * Years active: 2024-present
 * Gimmicks/nicknames:
   - adept Bartosz {{ org_badge(orgs=['ppw']) }} (January-April 2025)
-  - Bartosz Plata {{ org_badge(orgs=['ppw', 'low', 'frpw']) }} (April 2025-)
+  - Bartosz Plata {{ org_badge(orgs=['ppw', 'low', 'mzw', 'frpw']) }} (April 2025-)
 * Trained by:
   - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
  
