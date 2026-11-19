@@ -12,7 +12,7 @@ country = ["PL"]
 1 = { path = "oskar-alexander.webp", caption = "Oskar Alexander at [FRPW Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).", source = "Krzysztof Zych"}
 +++
 
-Oskar Alexander is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
+Oskar Alexander is a Polish wrestler best known for his time in [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Legacy of Wrestling](@/o/low.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
@@ -50,7 +50,7 @@ At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Oskar took part 
 
 After his defeat in a Qualifying Match against Vic's nemesis Gabriel Queen at [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md), Oskar got into a conflict with [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) by disrespecting him. Dobroniak wanted to teach Oskar a lesson by facing his "mother" Agatka in a Custodity of Oskar Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). This match however quickly evolved into a Tornado Tag Team Match between Agencja and Stanisław & [Johnny Blade](@/w/johnny-blade.md). Thanks to the intervention of the newest Rodzina member, [Robert Star](@/w/robert-star.md), they managed to score a victory. Later that night Agatka and Oskar also intervened in both Robert and Vic's matches to help them win, but they were unsucessful on both occasions.
 
-#### Tag Team Championship Pursuit
+#### PpW Tag Team Champion
 
 While Rodzina members were occupied with their Singles opportunites, Oskar focused on chasing the first gold - the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) - for his group. He managed to secure a spot in the finals at [Surowy Klimat](@/e/ppw/2025-11-08-ppw-surowy-klimat.md) with his "Father" Vic. However, his Tag Team experiment with poorly motivated Gabriel Queen at [Najlepsza Gala w Mieście [Hardcore Edition]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md) failed to prevent [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) from entering the tournament finals as the third team. 
 
@@ -65,13 +65,17 @@ During Oskar's indisposition caused by an injury suffered at an MZW show, Rodzin
 Alexander made his [MZW](@/o/mzw.md) debut at [Green Madness](@/e/mzw/2025-06-28-mzw-green-madness.md), thus becoming the first [Ewenement Dojo](@/o/dojo.md) graduate to debut outside of PpW.
 Taking part in a tournament for a championship contract briefcase, he was set to face [Shadow](@/w/shadow.md). He cut a lengthy promo on his way to the ring, insulting the city of Wrocław, the audience and Shadow himself. Before managing to go on the offensive, however, he was quickly rolled up for a pin and lost the match in a matter of seconds.
 
-At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Oskar faced fellow [Ewenement Dojo](@/o/dojo.md) graduate [Bartosz Plata](@/w/plata.md) in a Singles Match. Despite his victory, it was revealed that during the match he suffered an injury, which sidelined him for a couple of months.
+At [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) Oskar faced fellow [Ewenement Dojo](@/o/dojo.md) graduate [Bartosz Plata](@/w/plata.md) in a Singles Match. Despite his victory, it was revealed that during the match he suffered an injury, which sidelined him for a couple of months. 
 
 ### Legacy of Wrestling (2025)
 
 #### Road to the title
 
 Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md) in a _Road to the Title_ triple threat match against [Gabriel Queen](@/w/gabriel-queen.md) and [Filip Fux](@/w/filip-fux.md). Ultimately, he failed to qualify in the tournament, with Queen emerging the winner.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Oskar worked with [FRPW](@/o/frpw.md) from [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) onwards. In his first match for federation he was defeated by [Leon Lato](@/w/leon-lato.md). From [Wrestling w Twoim Mieście: Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Oskar started working as babyface. He lost to [Olgierd](@/w/olgierd.md) in a first round of HeelTurn Invitational 26' Tournament.
 
 ## In wrestling
 
@@ -87,12 +91,12 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
   - [Agentka Agatka](@/w/agentka-agatka.md) (2024-2026)
 * Entrance Music:
   - "Zacznij od Bacha" by Zbigniew Wodecki
-    {{ org_badge(org='ppw') }} (2024-2025) <br>
+    {{ org_badge(org='ppw', 'frpw') }} (2024-2025; 2026-) <br>
     {{ music(yt='rDQHzGpwQNk')}}
     {{ music(spot='4Wm4rtJTkXIGOIWrEvTtzN')}}
     {{ music(apple='1485632394?i=1485632668')}}
   - "What Do You Want From Me" by Pink Floyd
-    {{ org_badge(orgs=['ppw', 'low', 'mzw']) }} (2025-) <br>
+    {{ org_badge(orgs=['ppw', 'low', 'mzw']) }} (2025-; both solo and as part of [Rodzina](@/tt/rodzina.md)) <br>
     {{ music(yt='A8i7248HqEY') }}
     {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
     {{ music(apple='1065976549?i=1065976566') }}
