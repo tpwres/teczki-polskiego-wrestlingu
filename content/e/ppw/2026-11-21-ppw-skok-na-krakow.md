@@ -21,6 +21,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 * On 22.10.2026 PpW published a [video][jk-mutant] in which [Mutant](@/w/mutant.md), angered by [Rodzina](@/tt/rodzina.md) [kidnapping][kondzia-podarli] his friend [Kondzio the Cannonball](@/w/kondzio-the-cannonball.md), promised to punish the stable. He chose to start with [Isnorr](@/w/isnorr.md), whom he challenged to an Ultraviolent Match. The fight was officially confirmed on 23.10.2026.
 * At [Hardcore Saturday](@/e/ppw/2026-11-07-ppw-hardcore-saturday.md) [Max Speed](@/w/max-speed.md) and [Goblin](@/w/goblin.md) both submitted [Emil Völler](@/w/emil-voeller.md) at the same time, thus sharing the victory. On 12.11.2026 PpW announced a match between the two winners, to act as a tie breaker.
 * At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd unexpectedly left [Zmowa](@/tt/zmowa.md), angering [Mister Z](@/w/mister-z.md). The leader of the stable decided to punish the bald hooligan, which included putting him in a Zmowa Prospects Gauntlet Match against three potential candidates for [Zmowa](@/tt/zmowa.md) (similar to what [Gustav Gryffin](@/w/gustav-gryffin.md) faced at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md)). The fight was announced on 14.11.2026.
+* On 19.11.2026 PpW announced a women's Tag Team Match, Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md) vs [Gloria](@/w/gloria-g-szek.md) & [Monster High Suzie](@/w/monster-high-suzie.md). 
 
 ## Predicted card
 
@@ -41,6 +42,10 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
   - '???'
   - '???'
   - s: 'Zmowa Prospects Gauntlet Match'
+    nc: upcoming
+- - 'Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Gloria](@/w/gloria-g-szek.md) & [Monster High Suzie](@/w/monster-high-suzie.md)'
+  - s: Tag Team Match
     nc: upcoming
 {% end %}
 
