@@ -53,4 +53,9 @@ In December 2025 Tony Sheen made his debut for [Legacy of Wrestling](@/o/low.md)
     {{ org_badge(orgs=['ppw'] )}} (2026-) <br>
     {{ music(yt='JeQ6JKM8b84')}}
 
+## Championships and accomplishments
+
+* [Maniac Zone Wrestling](@/o/mzw.md):
+  - [MZW Championship](@/c/mzw-championship.md) (1 time; current)
+
 [bm4]:https://www.youtube.com/watch?v=AcBIUr_-LqA

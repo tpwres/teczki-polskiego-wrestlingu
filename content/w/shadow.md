@@ -105,14 +105,14 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 * Entrance music:
   - "From Ashes of Sin" by EndeverafteR
     {{ org_badge(org='pxw') }} (2011) <br>
-    {{ music(yt='CQYh0ZnDN1s')}}
-    {{ music(spot='1BTpL8k7DytUPa2sNYs53P')}}
-    {{ music(apple='1440836302?i=1440836472')}}
-  - "Iron Head" by Rob Zombie feat. Ozzy Osbourne
-    {{ org_badge(orgs=['mzw', 'ppw', 'low']) }} (2014-present) <br>
     {{ music(yt='jxJZOjsEk7w')}}
     {{ music(spot='2oM03msN5mBulMKJ4VG6gQ')}}
     {{ music(apple='1443514567?i=1443514877')}}
+  - "Iron Head" by Rob Zombie feat. Ozzy Osbourne
+    {{ org_badge(orgs=['mzw', 'ppw', 'low']) }} (2014-present) <br>
+    {{ music(yt='CQYh0ZnDN1s')}}
+    {{ music(spot='1BTpL8k7DytUPa2sNYs53P')}}
+    {{ music(apple='1440836302?i=1440836472')}}
 
 ## Championships and accomplishments
 

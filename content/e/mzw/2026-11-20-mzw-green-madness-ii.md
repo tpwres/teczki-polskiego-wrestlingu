@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up to [a show from 2025](@/e/mzw/2025-06-28-mzw-green-madness.md). It is set to return to [Bakara Community Centre](@/v/bakara.md).
+MZW Green Madness II was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up to [a show from 2025](@/e/mzw/2025-06-28-mzw-green-madness.md), held in [Bakara Community Centre](@/v/bakara.md).
 
 ## Build-up
 
@@ -24,36 +24,35 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
 * At [Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md) [Shadow](@/w/shadow.md) was attacked after his match by a mysterious figure posing for an audience member, who told him to "be careful what he wished for". This person turned out to be a former MZW wrestler [Lider](@/w/lider.md), named by Shadow in an [interview][szedo-interwju] with [Center of Wrestling](@/o/cow.md) as somebody he'd like to have his final match with. On 15.11.2026 this match was officially announced.
 * On 18.11.2026 MZW announced a 2 Out of 3 Falls No-DQ Match for the [MZW Championship](@/c/mzw-championship.md) between ["The Riverman" Tony Sheen](@/w/riverman.md) and [Disco Pablo](@/w/disco-pablo.md), with [Marco Hammers](@/w/marco-hammers.md) as the Special Guest Referee. Tony had previously faced Marco for the title at [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md), with no success.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Matt Buckna](@/w/matt-buckna.md)'
-  - nc: upcoming
-- - '[Shadow](@/w/shadow.md)'
-  - '[Lider](@/w/lider.md)'
-  - nc: upcoming
-    s: "Shadow's Final Match"
-- - '[Oskar Alexander](@/w/oskar-alexander.md) & Stefan'
-  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[Jakub](@/w/jakub.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Jakub](@/w/jakub.md)'
   - '[Marcelito](@/w/marcelito.md)'
-  - '[Max Speed](@/w/max-speed.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: '#1 Contendership Four-Way Match'
-    nc: upcoming
+- - '[Shadow](@/w/shadow.md)'
+  - '[Lider](@/w/lider.md)'
+    s: "Shadow's Final Match"
+- - '[Shadow](@/w/shadow.md)'
+  - '[Lider](@/w/lider.md)'
+  - g: 'Shadow says a heartfelt goodbye to the fans.'
 - - '[Sambor](@/w/sambor.md)'
   - '[Boguś](@/w/bogus.md)'
-  - nc: upcoming
-- - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '["The Riverman" Tony Sheen](@/w/riverman.md)'
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md) & Stefan'
+  - s: Tag Team Match
+- - '["The Riverman" Tony Sheen](@/w/riverman.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: '2 Out of 3 Falls No-DQ Match'
-    nc: upcoming
 - credits:
+    Ring announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md), [Tomasz Warchoł](@/w/tomasz-warchol.md)'
+    Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Michał](@/w/sedzia-michal.md)'
     Special Guest Referee: '[Marco Hammers](@/w/marco-hammers.md)'
 {% end %}
 
