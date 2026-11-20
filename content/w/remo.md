@@ -40,7 +40,7 @@ In November 2025, after over a year of silence, Remo [published a post][remo] on
   - TKO (2021-2024)
 * Entrance music:
   - "Lone Wolf" by Judas Priest
-    {{ org_badge(orgs=['ptw']) }} (2021-2024) <br>
+    {{ org_badge(orgs=['ptw']) }} (2021-2024; 2025) <br>
     {{ music(yt='_TvBZ1eM0p8') }}
     {{ music(spot='/0LLrDYfS9umDFiPOlh3pqP') }}
     {{ music(apple='1325585022?i=1325585365') }}
