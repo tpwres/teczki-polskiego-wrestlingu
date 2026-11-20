@@ -24,7 +24,7 @@ Red Scorpion is an Italian wrestler best known for his time in [Kombat Pro Wrest
 
 ## Professional wrestling career
 
-### Kombat Pro Wrestling (2023-present)
+### Kombat Pro Wrestling (2022-2024)
 
 Red Scorpion made his debut for [Kombat Pro Wrestling](@/o/kpw.md) in March 2022 at [KPW Arena 18: Powrót Do Przyszłości](@/e/kpw/2022-03-18-kpw-arena-18.md), where he defeated [Darius](@/w/darius.md) and [Zefir](@/w/zefir.md) in a Triple Threat Match.
 
@@ -33,14 +33,14 @@ He returned over a year later and gained a title shot on a [KPW Championship](@/
 ## In wrestling
 
 * Finshers:
-  - _Scorpion Driver_ (Falcon Arrow) (2023-)
-  - _Scorpion Red Lock_ (Sharpshooter) (2024-)
+  - _Scorpion Driver_ (Falcon Arrow) (2023-2024)
+  - _Scorpion Red Lock_ (Sharpshooter) (2024)
 * Entrance music:
   - "Red Scorpion Theme" by Independent Contractor
     {{ org_badge(orgs=['kpw']) }} (2023) <br>
     {{ music(yt='POsCRXqZf4A')}}
   - "Red Scorpion Theme 2024" by Independent Contractor
-    {{ org_badge(orgs=['kpw']) }} (2024-) <br>
+    {{ org_badge(orgs=['kpw']) }} (2024) <br>
     {{ music(yt='1pU9gaxn5gY')}}
 
 ## Championships and accomplishments
