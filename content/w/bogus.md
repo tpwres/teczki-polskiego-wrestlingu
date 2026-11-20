@@ -39,7 +39,7 @@ Shortly after Droga Wojownika, on September 22nd, 2026, Boguś announced that he
 
 ### Maniac Zone Wrestling (2026-)
 
-Two month after being released from PTW, Boguś was announced for a match against [Sambor](@/w/sambor.md) at [MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md).
+Two months after being released from PTW, Boguś was announced for a match against [Sambor](@/w/sambor.md) at [MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md).
 
 ## In wrestling
 

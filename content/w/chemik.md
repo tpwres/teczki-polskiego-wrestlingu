@@ -68,7 +68,11 @@ On 2.11.2024, Chemik [issued an open challenge][yt-chemik-challenge] for his [KP
 
 At the [second Legacy show](@/e/low/2025-04-06-low-2.md) Chemik intervened during Greg's entrance to his scheduled match against [Vic Golden](@/w/vic-golden.md). As he was attacking Greg, [Robert Star](@/w/robert-star.md) unexpectedly entered the fray. Acting Chairman [Wiktor Longman](@/w/wiktor-longman.md) then turned the match into a Tag Team Match of Chemik & Vic vs Greg & Star, which was won by the latter team, as Chemik ran away from the ring during the finish.
 
-At [Enter The Dragon](@/e/low/2026-07-10-low-6.md) Chemik took part in the Dragon Gauntlet Match for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md) opportunity briefcase, which he won by defeating [Sam Della Vale](@/w/sam-rogers.md), [Boro](@/w/boro.md), [Markus Paskal](@/w/markus-paskal.md), [Filip Fux](@/w/filip-fux.md) and [Oskar Haller](@/w/oskar-haller.md).
+#### Legacy of Wrestling European Champion
+
+At [Enter The Dragon](@/e/low/2026-07-10-low-6.md) Chemik took part in the Dragon Gauntlet Match for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md) opportunity briefcase, which he won by defeating [Sam Della Vale](@/w/sam-rogers.md), [Boro](@/w/boro.md), [Markus Paskal](@/w/markus-paskal.md), [Filip Fux](@/w/filip-fux.md) and [Oskar Haller](@/w/oskar-haller.md). 
+
+Chemik cashed in the briefcase at [What's in the Box?](@/e/low/2026-10-24-low-7.md) on October 24th, 2026. He defeated the newly-crowned Champion [Max Speed](@/w/max-speed.md), minutes after his victory.
 
 ## International wrestling appearances 
 

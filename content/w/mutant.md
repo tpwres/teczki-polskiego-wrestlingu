@@ -70,7 +70,7 @@ Mutant made his first appearance in [Maniac Zone Wrestling](@/o/mzw.md) at [MZW 
   - Boro & Muti (2026-)
 * Entrance music:
   - "Wilki Dwa" by Luxtorpeda
-    {{ org_badge(orgs=['kpw']) }} (2019-2020)<br>
+    {{ org_badge(orgs=['kpw']) }} (2019-2020) <br>
     {{ music(yt='SV0IPygRsW4')}}
     {{ music(spot='6HtFpYx3yZo9nJNumfn7Ts')}}
     {{ music(apple='1543261324?i=1543261748')}}

@@ -52,6 +52,8 @@ This led to a Spartan vs Puncher match being not only for the [PTW Championship]
 
 ## In wrestling
 
+* Finishers:
+  - _Prezes Elbow_ (2025-)
 * Entrance music:
   - "Rich Bitch" by Die Antwoord
     {{ org_badge(orgs=['ptw']) }} (2024) <br>

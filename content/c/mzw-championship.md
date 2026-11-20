@@ -296,3 +296,18 @@ The reign was cut short by the management's decision on 25.03.2026 when [Matt Bu
     en: '[MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md)'
     ed: 2026-06-20
 {% end %}
+
+**TOTAL:** 237 days
+
+Marco was forced to vacate the title due to a career-ending injury.
+
+### Champion #11: ?
+
+{% free_card() %}
+- - '[Disco Pablo](@/w/disco-pablo.md)'
+  - '["The Riverman" Tony Sheen](@/w/riverman.md)'
+  - s: '2 Out of 3 Falls No-DQ Match'
+    en: '[MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)'
+    ed: 2026-11-20
+    nc: upcoming
+{% end %}

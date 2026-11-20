@@ -12,7 +12,7 @@ Karol "Iskra" Górski is a Polish wrestler and referee best known for his appear
 
 ## Basic info
 
-* Years active: 2016-2024
+* Years active: 2016-2024; 2026-present
 * Gimmicks/nicknames:
   - Karol "Iskra" Górski {{ org_badge(orgs=['ptw']) }}
   - Sędzia Karol Górski {{ org_badge(orgs=['kpw']) }}
@@ -32,7 +32,7 @@ Karol "Iskra" (_Spark_) Górski made his debut in [Prime Time Wrestling](@/o/ptw
 
 After that Iskra continued his career in PTW by making rather irregural appearances at Underground shows in the role of an enhancement talent, losing all of his matches to wrestlers such as [Puncher](@/w/puncher.md), [Sinister](@/w/sinister.md) and [Wiktor Longman](@/w/wiktor-longman.md). In mid-2022 he aligned himself with another enhancement talent, [Marcelito](@/w/marcelito.md), and formed a tag team called The Bright Lights. However, their losing streak had continued up until The Bright Lights' loss to Pure Gold ([Gabriel Queen](@/w/gabriel-queen.md) and [Vic Golden](@/w/vic-golden.md)), after which Iskra turned on Marcelito. This led to his only victory at [Underground 13](@/e/ptw/2023-03-26-ptw-underground-13.md). In the meantime he also formed a rivalry with his and Marcelito's friend, [Diana Strong](@/w/diana-strong.md), which resulted in their match at [Underground 16](@/e/ptw/2023-07-30-ptw-underground-16.md). Besides the victory over Marcelito, Iskra continued to serve as a heel enhancement talent for babyfaces up until [Underground 21](@/e/ptw/2024-04-13-ptw-underground-21.md). Afterwards, he quietly [left PTW](@/a/ptw-exits.md) and seemingly ended his career, as he never made another wrestling appearance and his wrestling social media have remained inactive since.
 
-Iskra made a surprise return at [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md), where he took part in the [Gold Rush Rumble Match](@/a/ptw-gold-rush-rumble.md).
+Iskra made a surprise return at [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md), where he took part in the [Gold Rush Rumble Match](@/a/ptw-gold-rush-rumble.md). At [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) he lost to [El G](@/w/el-g.md) in the first round of the Golden Ticket Tournament Elimination Match.
 
 ## In wrestling
 
@@ -46,6 +46,11 @@ Iskra made a surprise return at [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-
        {{ music(yt='-VF4ObZEM8w')}}
        {{ music(spot='2mvi7qtDNLuh25oOcHVEOk')}}
        {{ music(apple='1485045627?i=1485045877')}}
+  - "TYLKO DIAMENTY SĄ NA ZAWSZE" by Chivas
+    {{ org_badge(orgs=['ptw']) }} (2026-) <br>
+       {{ music(yt='r-YlPbZYm98')}}
+       {{ music(spot='1vIZbigAbXGswst2r3a60E')}}
+       {{ music(apple='1886084511?i=1886084941')}}
 
 ## Internet presence
 

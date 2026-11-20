@@ -37,7 +37,15 @@ At [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md) Ocean won a Triple T
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he took part in the Next Big Thing Battle Royale Match.
+Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he took part in the _Next Big Thing_ Battle Royale Match. 
+
+### Legacy of Wrestling (2026-present)
+
+Antoni Ocean debuted for [Legacy of Wrestling](@/o/low.md) at their [What's In The Box?](@/e/low/2026-10-24-low-7.md) show in October 2026, teaming up with [Markus Paskal](@/w/markus-paskal.md) against [Biuro Prasowe](@/tt/biuro-prasowe.md).
+
+## International wrestling appearances
+
+From 2026 Antoni started making occassional appearances abroad, most notably at Dojo Shows for Dresden-based Pro Wrestling School.
 
 ## In wrestling
 
@@ -51,7 +59,7 @@ Antoni Ocean joined [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at thei
     {{ music(spot='76hfruVvmfQbw0eYn1nmeC')}}
     {{ music(apple='1440867688?i=1440867865')}}
   - "Rockafeller Skank" by Fatboy Slim
-    {{ org_badge(orgs=['ppw']) }} (2026-) <br>
+    {{ org_badge(orgs=['ppw', 'frpw', 'low']) }} (2026-) <br>
     {{ music(yt='FMrIy9zm7QY')}}
     {{ music(spot='5AgCO3dc2kuSicCsw09YCA')}}
     {{ music(apple='1439718666?i=1439718668')}}

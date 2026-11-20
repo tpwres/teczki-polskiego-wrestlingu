@@ -72,7 +72,7 @@ From [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md
 
 Isnorr made a surprise return at [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md), where he participated in the 25 Typa 25 Broni Battle Royal but was eliminated towards the end of the bout. He then promptly followed up by facing [Filip Fux](@/w/filip-fux.md) and [Antoni Ocean](@/w/antoni-ocean.md) in a Three Way Match at [Jeszcze Jedno](@/e/ppw/2026-04-11-ppw-jeszcze-jedno.md), vying for a spot in the Ladder Match at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). After he and [Gabriel Queen](@/w/gabriel-queen.md) lost to the Rodzina/Zmowa alliance at [Hardcore Na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), [Vic Golden](@/w/vic-golden.md) handed Isnorr [Rodzina's](@/tt/rodzina.md) armband, giving him time to decide on joining. At [Ledwo Legalne 6](@?e/ppw/2026-05-16-ppw-ledwo-legalne-6.md) Isnorr made his decision by laying out his tag team partner [Agentka Agatka](@/w/agentka-agatka.md) and celebrating with members of Rodzina, thus joining the stable.
 
-At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Isnorr was recognised as a full Champion alongside every member of Rodzina. During that time he never actually defended Tag Team Championship, as he focused mostly on teaming up with [Filip Fux](@/w/filip-fux.md) in non-championship matches.
+At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Isnorr was recognised as a full Champion alongside every member of Rodzina, although he never actually defended Tag Team Championship, focusing instead on teaming up with [Filip Fux](@/w/filip-fux.md) in non-championship matches, as well as helping the stable in their high-stakes matches.
 
 ## In wrestling
 
@@ -91,6 +91,11 @@ At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander]
     {{ music(yt='p1AAVsoDnVo')}}
     {{ music(spot='4Y7FW4KF1L8SdPorm3rFBQ')}}
     {{ music(apple='1410929179?i=1410938192')}}
+  - "What Do You Want From Me" by Pink Floyd
+    {{ org_badge(orgs=['ppw']) }} (2026-; as part of [Rodzina](@/tt/rodzina.md) <br>
+    {{ music(yt='A8i7248HqEY') }}
+    {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
+    {{ music(apple='1065976549?i=1065976566') }}
 
 ## Championships and accomplishments
 
@@ -98,7 +103,7 @@ At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander]
   - [DFW Championship](@/c/dfw-championship.md) (1 time; final)
 * [PpW Ewenement Wrestling](@/o/ppw.md):
   - [PpW European Ultriaviolent Champion](@/c/ppw-european-ultraviolent-championship.md) (1 time)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - as part of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as part of [Rodzina](@/tt/rodzina.md)
 
 ## References
 

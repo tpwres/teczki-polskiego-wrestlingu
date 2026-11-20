@@ -135,7 +135,7 @@ In February 2026 PpW announced that Gustav Gryffin would be part of their excuri
     {{ music(spot='4WKfmxi5gWUs4MkYiMcln7')}}
     {{ music(apple='1688771428')}}
   - "Memphis Doom" by Kordhell
-    {{ org_badge(orgs=['ppw', 'mzw', 'low']) }} (2024-present) <br>
+    {{ org_badge(orgs=['ppw', 'mzw', 'low', 'frpw']) }} (2024-present) <br>
     {{ music(yt='cJuO985zF8E')}}
     {{ music(spot='0dlz0KoaIE9zaFZNT4XvXn')}}
     {{ music(apple='1591104080?i=1591104084')}}

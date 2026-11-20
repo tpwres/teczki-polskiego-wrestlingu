@@ -33,7 +33,7 @@ In December 2024 Jakub Linde made his debut in the newly-created federation [Leg
 ## In wrestling
 
 * Finishers:
-  - Powerbomb (2024-)
+  - Powerbomb (2024)
 * Tag Teams and stables:
   - [Zmowa](@/tt/zmowa.md) (2024)
 * Wrestlers managed:

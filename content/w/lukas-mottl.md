@@ -40,6 +40,8 @@ Team Visegrad - represented by Lukáš Mottl and Johan Otto, due to Oliwa and Sk
 
 * Finishers:
   - Cutter (2016-2018)
+* Tag Teams and stables:
+  - [Team Visegrad](@/tt/team-visegrad.md) (2026-)
 
 ## Championships and accomplishments
 
