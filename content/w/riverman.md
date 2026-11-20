@@ -36,6 +36,10 @@ In 2024, he made his in-ring debut for the promotion at [No Time To Die](@/e/mzw
 
 At [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md), Sheen faced [Disco Pablo](@/w/disco-pablo.md), scoring a win thanks to distraction from [Taras](@/w/taras.md).
 
+#### MZW Champion (2026-)
+
+[Marco Hammers](@/w/marco-hammers.md), the [MZW Champion](@/c/mzw-championship.md), was forced to vacate his title due to a career-ending neck injury. At [Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md) Sheen faced [Disco Pablo](@/w/disco-pablo.md) in a 2 Out of 3 Falls No-DQ Match, winning the gold. 
+
 ### PpW Ewenement (2025-)
 
 At [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Tony made his PpW debut as one of the competitors in the Zmowa Recruitment Gauntlet Match, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) and was quickly defeated by him. From that point on he starded making occassional appearances, mostly as enhancement talent.
