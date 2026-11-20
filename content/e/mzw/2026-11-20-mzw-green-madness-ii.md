@@ -28,7 +28,7 @@ MZW Green Madness II was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a fo
 
 {% card() %}
 - - '[Olgierd](@/w/olgierd.md)'
-  - '[Matt Buckna](@/w/matt-buckna.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Jakub](@/w/jakub.md)'
   - '[Marcelito](@/w/marcelito.md)'
@@ -37,7 +37,7 @@ MZW Green Madness II was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a fo
     s: '#1 Contendership Four-Way Match'
 - - '[Shadow](@/w/shadow.md)'
   - '[Lider](@/w/lider.md)'
-    s: "Shadow's Final Match"
+  - s: "Shadow's Final Match"
 - - '[Shadow](@/w/shadow.md)'
   - '[Lider](@/w/lider.md)'
   - g: 'Shadow says a heartfelt goodbye to the fans.'
