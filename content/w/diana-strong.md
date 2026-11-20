@@ -89,7 +89,7 @@ In November 2026 Diana rose to #124 in the Pro Wrestling Illustrated top 250 wom
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Big League Wrestling][cm-blw]:
   - [BLW Women's Championship][cm-blw-wc] (1 time)
 * 🇫🇮 [Slam Wrestling Entertainment][cm-slam]:
-  - [SLAM Women's Championship][cm-slam-wc] (1 time)
+  - [SLAM Women's Championship][cm-slam-wc] (2 times)
 
 ## References
 
