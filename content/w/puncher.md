@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "owczy-ped-en.jpg", caption = 'Unofficial English version of the "Herd Instinct" comic.'}
 +++
 
-Dawid "Puncher" Seńko is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md).
+Dawid "Puncher" Seńko is a Polish retired wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
@@ -80,6 +80,8 @@ After Pawłowski turned villain, Puncher joined his ranks as his top protégé. 
 
 The faction ruled PTW until it finally came to an end after their first slip-up. At [Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md) Puncher teamed up with Arkadiusz Pawłowski in a Three Stages of Hell against Łukasz Okoński. Despite Puncher's easy victory in the first stage, Pawłowski managed to cost Nietykalni another two stages, which granted Okoński's ally Spartan one more shot at Puncher's PTW Championship. Puncher vs Spartan All Or Nothing Match at [Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md) became the match not only for the title, but also for the ownership of PTW. Despite multiple shenenigans and tricks pulled off by Puncher's manager Pan Pawłowski, the match finally ended with Spartan standing tall over defeated Puncher, thus ending his 679 days long reign and Pawłowski's run as the Chairman. Subsequently Puncher disappeared from PTW programming, yet to make his return.
 
+In a [Q&A interview][qa-okon] with [Łukasz Okoński](@/w/lukasz-okonski.md) which took place on November 4th, 2026 PTW Chairman confirmed, that for the time being Puncher is considered retired.
+
 ## International wrestling appearances
 
 From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promotions such as Austrian Wrestling World Austria, Italian BestYa Wrestling (where he won their Championship) and in Rings of Europe.
@@ -111,3 +113,5 @@ From 2024 onwards Puncher made a handful of appearances in PTW-affiliated promot
 
 ## References
 * [Puncher's Instagram](https://www.instagram.com/ptwpuncher/)
+
+[qa-okon]: https://www.youtube.com/watch?v=baHX-sh_-T8
