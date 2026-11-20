@@ -23,6 +23,7 @@ MZW Green Madness II was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a fo
 * On 13.11.2026 [Sambor](@/w/sambor.md) was announced to have a match against [Boguś](@/w/bogus.md), debuting in MZW after being release from [Prime Time Wrestling](@/o/ptw.md) around two months prior.
 * At [Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md) [Shadow](@/w/shadow.md) was attacked after his match by a mysterious figure posing for an audience member, who told him to "be careful what he wished for". This person turned out to be a former MZW wrestler [Lider](@/w/lider.md), named by Shadow in an [interview][szedo-interwju] with [Center of Wrestling](@/o/cow.md) as somebody he'd like to have his final match with. On 15.11.2026 this match was officially announced.
 * On 18.11.2026 MZW announced a 2 Out of 3 Falls No-DQ Match for the [MZW Championship](@/c/mzw-championship.md) between ["The Riverman" Tony Sheen](@/w/riverman.md) and [Disco Pablo](@/w/disco-pablo.md), with [Marco Hammers](@/w/marco-hammers.md) as the Special Guest Referee. Tony had previously faced Marco for the title at [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md), with no success.
+* The day before the show, on 19.11.2026, MZW informed that Matt Buckna had once again sustained an injury preventing him from appearing at the show. Fighting Olgierd in his stead will be [Antoni Ocean](@/w/antoni-ocean.md).
 
 ## Card
 
