@@ -8,7 +8,7 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Remo is a Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md).
+Remo is a retired Polish wrestler best known for his time in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
