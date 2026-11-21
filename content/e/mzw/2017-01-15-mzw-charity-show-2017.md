@@ -25,7 +25,7 @@ Attendance: estimated about 300
   - '[Shadow](@/w/shadow.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Szymon Siwiec](@/w/szymon-siwiec.md)'
   - s: 'Six Man Tag Team Elimination Match'
 - - '[Lider](@/w/lider.md)'
-  - '??? & ???'
+  - '[adept Szczepan](@/w/apollo-anderson.md) & adept AJ Polak'
   - s: 'Two On One Handicap Match'
 - - '[Storm Riders](@/tt/storm-riders.md): [Red Thunder](@/w/red-thunder.md) & [Blue Thunder](@/w/blue-thunder.md) w/ Columbus'
   - '[Zbójnicy](@/tt/zbojnicy.md): [Jędruś Bułecka](@/w/jedrus-bulecka.md) & [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md)'
