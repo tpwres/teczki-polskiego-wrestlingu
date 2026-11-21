@@ -14,7 +14,7 @@ country = ["PL"]
 4 = { path = "shadou-w-cieniu-emerytury.webp", caption = "Shadow's post announcing his retirement and final appearances.", source = "shadowiseverywhere @ Instagram" }
 +++
 
-Shadow is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he occasionally works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
+Shadow is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he occasionally worked for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
 * Years active: 2011-2026
