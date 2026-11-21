@@ -18,7 +18,6 @@ Nearly 1.5 years later, as the space on the original tube was becoming increasin
 
 ## Signatures on the original tube
 
-The tube was signed by the following people:
 - [Adam Wong](@/w/adam-wong.md)
 - [Arek Paterek](@/w/arek-paterek.md)
 - [Aron Wake](@/w/aron-wake.md)
@@ -82,7 +81,11 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Adrian Zgórski](@/w/adrian-zgorski.md)
 - [Agentka Agatka](@/w/agentka-agatka.md) (first to sign the second tube)
 - [Antoni Ocean](@/w/antoni-ocean.md)
+- [Balik](@/w/lukasz-balinski.md)
+- [Bartosz Plata](@/w/plata.md)
 - [Boro](@/w/boro.md)
+- [Chris Hunter](@/w/chris-hunter.md)
+- [CJ Klakson](@/w/cj-klakson.md)
 - [Gloria G Szek](@/w/gloria-g-szek.md)
 - [Hexia](@/w/hexia.md)
 - [Istociarz](@/w/istociarz.md)
@@ -90,14 +93,21 @@ When asked for a signature, [Chemik](@/w/chemik.md) refused, stating he doesn't 
 - [Kamil Aleksander](@/w/kamil-aleksander.md)
 - [Karyna](@/w/karyna.md)
 - [Krzysztof Foryst](@/w/krzysztof-zasada.md)
+- [Lider](@/w/lider.md)
 - [Marcelito](@/w/marcelito.md)
 - [Markus Paskal](@/w/markus-paskal.md)
 - [Max Speed](@/w/max-speed.md)
 - [Mutant](@/w/mutant.md)
 - [Oskar Haller](@/w/oskar-haller.md)
+- [PJ Blake](@/w/pj-blake.md)
 - [ShowOff](@/w/piotr-malecki.md)
 - [Sędzia Alan Bieńkowski](@/w/sedzia-alan.md)
+- [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md)
+- [Sędzia Michał](@/w/sedzia-michal.md)
+- Stefan
+- [Szymon Dragan](@/w/szymon-dragan.md)
 - [Taras](@/w/taras.md)
+- [Tomasz Warchoł](@/w/tomasz-warchol.md)
 - [Tony Sheen](@/w/riverman.md) (signed as "Riverman")
 - [Vic Golden](@/w/vic-golden.md)
 - [Zefir](@/w/zefir.md)
