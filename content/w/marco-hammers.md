@@ -145,7 +145,7 @@ Marco started taking international bookings in 2022. That year he made a few app
   - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time; inaugural) - with [Mister Z](@/w/mister-z.md), [Jakub](@/w/jakub.md) and [Olgierd](@/w/olgierd.md)
   - PpW Tag Team Championship Tournament (2026)
 * [Maniac Zone Wrestling](@/o/mzw.md):
-  - [MZW Championship](@/c/mzw-championship.md) (1 time; current)
+  - [MZW Championship](@/c/mzw-championship.md) (1 time)
 
 ## Internet presence
 

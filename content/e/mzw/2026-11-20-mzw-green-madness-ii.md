@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up to [a show from 2025](@/e/mzw/2025-06-28-mzw-green-madness.md). It is set to return to [Bakara Community Centre](@/v/bakara.md).
+MZW Green Madness II was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a follow-up to [a show from 2025](@/e/mzw/2025-06-28-mzw-green-madness.md), held in [Bakara Community Centre](@/v/bakara.md).
 
 ## Build-up
 
@@ -23,43 +23,50 @@ MZW Green Madness II is an upcoming show by [Maniac Zone Wrestling](@/o/mzw.md),
 * On 13.11.2026 [Sambor](@/w/sambor.md) was announced to have a match against [Boguś](@/w/bogus.md), debuting in MZW after being release from [Prime Time Wrestling](@/o/ptw.md) around two months prior.
 * At [Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md) [Shadow](@/w/shadow.md) was attacked after his match by a mysterious figure posing for an audience member, who told him to "be careful what he wished for". This person turned out to be a former MZW wrestler [Lider](@/w/lider.md), named by Shadow in an [interview][szedo-interwju] with [Center of Wrestling](@/o/cow.md) as somebody he'd like to have his final match with. On 15.11.2026 this match was officially announced.
 * On 18.11.2026 MZW announced a 2 Out of 3 Falls No-DQ Match for the [MZW Championship](@/c/mzw-championship.md) between ["The Riverman" Tony Sheen](@/w/riverman.md) and [Disco Pablo](@/w/disco-pablo.md), with [Marco Hammers](@/w/marco-hammers.md) as the Special Guest Referee. Tony had previously faced Marco for the title at [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md), with no success.
+* The day before the show, on 19.11.2026, MZW informed that Matt Buckna had once again sustained an injury preventing him from appearing at the show. Fighting Olgierd in his stead will be [Antoni Ocean](@/w/antoni-ocean.md).
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
 - - '[Olgierd](@/w/olgierd.md)'
-  - '[Matt Buckna](@/w/matt-buckna.md)'
-  - nc: upcoming
-- - '[Shadow](@/w/shadow.md)'
-  - '[Lider](@/w/lider.md)'
-  - nc: upcoming
-    s: "Shadow's Final Match"
-- - '[Oskar Alexander](@/w/oskar-alexander.md) & Stefan'
-  - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[Jakub](@/w/jakub.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Jakub](@/w/jakub.md)'
   - '[Marcelito](@/w/marcelito.md)'
-  - '[Max Speed](@/w/max-speed.md)'
   - '[Bartosz Plata](@/w/plata.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: '#1 Contendership Four-Way Match'
-    nc: upcoming
+- - '[Shadow](@/w/shadow.md)'
+  - '[Lider](@/w/lider.md)'
+  - s: "Shadow's Final Match"
+- - '[Shadow](@/w/shadow.md)'
+  - '[Lider](@/w/lider.md)'
+  - g: 'Shadow says a heartfelt goodbye to the fans.'
 - - '[Sambor](@/w/sambor.md)'
   - '[Boguś](@/w/bogus.md)'
-  - nc: upcoming
-- - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '["The Riverman" Tony Sheen](@/w/riverman.md)'
+- - '[Boro](@/w/boro.md) & [Mutant](@/w/mutant.md)'
+  - '[Oskar Alexander](@/w/oskar-alexander.md) & Stefan'
+  - s: Tag Team Match
+- - '["The Riverman" Tony Sheen](@/w/riverman.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
   - c: '[MZW Championship](@/c/mzw-championship.md)'
     s: '2 Out of 3 Falls No-DQ Match'
-    nc: upcoming
 - credits:
+    Ring announcer: '[Adrian Zgórski](@/w/adrian-zgorski.md), [Tomasz Warchoł](@/w/tomasz-warchol.md)'
+    Referee: '[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Michał](@/w/sedzia-michal.md)'
     Special Guest Referee: '[Marco Hammers](@/w/marco-hammers.md)'
 {% end %}
 
 ### Highlights
 
-* TBD
+* This event saw the return of [Tomasz Warchoł](@/w/tomasz-warchol.md) as a co-ring announcer. He was last seen at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
+* [Bartosz Plata](@/w/plata.md), a heel in [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md) after he turned on his friends at [Enter the Dragon](@/e/low/2026-07-10-low-6.md), received major babyface pop.
+* After his fight with [Lider](@/w/lider.md), [Shadow](@/w/shadow.md) cut a heartfelt promo thanking the fans for their support over the past 16 years. Lider then took the microphone and, breaking kayfabe, thanked Shadow personally.
+* Despite both being in the same heel tag team, [Oskar Alexander](@/w/oskar-alexander.md) got heat, but Stefan received major babyface pop. This changed somewhat during the match, but he was still cheered by the audience after the fight.
+* [Disco Pablo](@/w/disco-pablo.md) produced [Tony Sheen's](@/w/riverman.md) inflatable dolphin from under the ring. Urged by the fans, he introduced its snout into Riverman's behind.
+* The Special Guest Referee [Marco Hammers](@/w/marco-hammers.md), impartial at first, clearly took Pablo's side later on, which angered Sheen.
+* Bartosz Plata interfered in the match, prompting Marco to briefly revert to a wrestling role and disposing of him.
+* After the main event, [Max Speed](@/w/max-speed.md) came out and confronted Tony, setting up their Championship match at the upcoming show.
 
 ## References
 

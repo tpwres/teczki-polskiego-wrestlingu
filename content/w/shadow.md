@@ -14,10 +14,10 @@ country = ["PL"]
 4 = { path = "shadou-w-cieniu-emerytury.webp", caption = "Shadow's post announcing his retirement and final appearances.", source = "shadowiseverywhere @ Instagram" }
 +++
 
-Shadow is a Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he occasionally works for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
+Shadow is a retired Polish wrestler best known for his time in [Maniac Zone Wrestling](@/o/mzw.md), where he is also the owner and head booker. Besides that, he occasionally worked for [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md). Early in his career he was also active in [Polish Xtreme Wrestling](@/o/pxw.md) and, briefly, in [Do Or Die Wrestling](@/o/ddw.md).
 
 ## Basic info
-* Years active: 2011-present
+* Years active: 2011-2026
 * Gimmicks/nicknames:
   - Terry Shadow {{ org_badge(org='pxw') }}
   - Straceniec {{ org_badge(org='ddw') }}
@@ -37,7 +37,7 @@ Shadow started out as a backyard wrestler for [Polish Xtreme Wrestling](@/o/pxw.
 2013 was the year when Terry Shadow left PXW to start professional training with [Do or Die Wrestling](@/o/ddw.md) in Rzeszów, joining their roster as Straceniec (_The Condemned_). However, he only had two fights: at [DDW #8](@/e/ddw/2013-08-17-ddw-8.md) and [DDW #9](@/e/ddw/2013-10-25-ddw-9.md).
 Dissatisfied with [Don Roid's](@/w/don-roid.md) way of running the promotion, Shadow left along with [Jędruś Bułecka](@/w/jedrus-bulecka.md), [Justin Joy](@/w/justin-joy.md) and [Rider](@/w/asmund.md) in order to start a new federation on his own terms.
 
-### Maniac Zone Wrestling (2013-present)
+### Maniac Zone Wrestling (2013-2026)
 
 #### Głuchołazy Era
 
@@ -59,18 +59,20 @@ Due to COVID-19 restrictions, MZW was forced to temporarily halt their operation
 
 After the COVID pandemic, Shadow continued to run Maniac Zone Wrestling events as both the promoter and an in-ring performer, albeit with a rather irregular schedule. He also continued as the head coach of PAW, which moved operations to Kępno.
 
-### PpW Ewenement  (2023-present)
+### PpW Ewenement  (2023-2026)
 
 In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation.
 He cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md). In 2025 he also made another appearance in Wrocław during [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
 
-### Legacy of Wrestling (2024-present)
+### Legacy of Wrestling (2024-2026)
 
 In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), and faced [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md). He returned for the [second show](@/e/low/2025-04-06-low-2.md) to take part in the Fatal Five-Way Match, albeit unsuccessfully.
 
 ### Retirement (2026)
 
 On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from in-ring action due to a chronic hip injury sustained in a fight three or four years prior (according to an [interview][w-cieniu-krowy] for [Center of Wrestling](@/o/cow.md)). Before ending his career as an active wrestler, he decided to make final three appearances in three promotions most important to him: Eastside Revolution Wrestling, Legacy of Wrestling, and lastly in Maniac Zone Wrestling. At [Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md) Shadow faced and defeated [Zefir](@/w/zefir.md), marking the only time he shared the ring with an active [KPW](@/o/kpw.md) wrestler. After the match Shadow was attacked by [Lider](@/w/lider.md), setting up his final match at [MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md).
+
+The two clashed at the show, with Shadow emerging victorious from his final confrontation. After the fight Shadow cut a heartfelt promo, thanking the fans for supporting him over the past 16 years. Lider then took the microphone and, breaking kayfabe, thanked Shadow personally.
 
 {% free_card() %}
 - - 'Danil Mamedov(c)'
@@ -87,7 +89,6 @@ On 2.09.2026 Shadow posted to Instagram stating that he decided to retire from i
   - '[Lider](@/w/lider.md)'
   - en: '[MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)'
     ed: 2026-11-20
-    nc: upcoming
     s: "Shadow's Final Match"
 {% end %}
 
@@ -105,14 +106,14 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 * Entrance music:
   - "From Ashes of Sin" by EndeverafteR
     {{ org_badge(org='pxw') }} (2011) <br>
-    {{ music(yt='CQYh0ZnDN1s')}}
-    {{ music(spot='1BTpL8k7DytUPa2sNYs53P')}}
-    {{ music(apple='1440836302?i=1440836472')}}
-  - "Iron Head" by Rob Zombie feat. Ozzy Osbourne
-    {{ org_badge(orgs=['mzw', 'ppw', 'low']) }} (2014-present) <br>
     {{ music(yt='jxJZOjsEk7w')}}
     {{ music(spot='2oM03msN5mBulMKJ4VG6gQ')}}
     {{ music(apple='1443514567?i=1443514877')}}
+  - "Iron Head" by Rob Zombie feat. Ozzy Osbourne
+    {{ org_badge(orgs=['mzw', 'ppw', 'low']) }} (2014-2026) <br>
+    {{ music(yt='CQYh0ZnDN1s')}}
+    {{ music(spot='1BTpL8k7DytUPa2sNYs53P')}}
+    {{ music(apple='1440836302?i=1440836472')}}
 
 ## Championships and accomplishments
 
