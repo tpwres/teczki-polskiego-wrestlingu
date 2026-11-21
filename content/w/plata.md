@@ -9,14 +9,14 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), trained by [Ewenement Dojo](@/o/dojo.md). He also works for [Legacy of Wrestling](@/o/low.md).
+Bartosz Plata is a wrestler working for [PpW Ewenement Wrestling](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Legacy of Wrestling](@/o/low.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
 * Years active: 2024-present
 * Gimmicks/nicknames:
   - adept Bartosz {{ org_badge(orgs=['ppw']) }} (January-April 2025)
-  - Bartosz Plata {{ org_badge(orgs=['ppw', 'low', 'frpw']) }} (April 2025-)
+  - Bartosz Plata {{ org_badge(orgs=['ppw', 'low', 'mzw', 'frpw']) }} (April 2025-)
 * Trained by:
   - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-)
  
@@ -44,15 +44,35 @@ The third challenge took place during [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-
 
 Plata made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Legacy of Wrestling vol.3](@/e/low/2025-07-11-low-3.md), teaming up with [Syriusz Dziedzic](@/w/dziedzic.md) and [Sambor](@/w/sambor.md) in a losing effort against the team of [Olgierd](@/w/olgierd.md), [Chemik](@/w/chemik.md) and [Gustav Gryffin](@/w/gustav-gryffin.md). He thus became the second [Ewenement Dojo](@/o/dojo.md) graduate to debut outside of [PpW](@/o/ppw.md).
 
+#### Joining Biuro Prasowe
+
+At [Enter The Dragon](@/e/low/2026-07-10-low-6.md), [Disco Pablo](@/w/disco-pablo.md) and [Marcelito](@/w/marcelito.md) - an enemies of villainous [Biuro Prasowe](@/tt/biuro-prasowe.md) - were joined by Bartosz Plata for scheduled Six-Man Tag Team Match. Once the babyfaces pointed out that the Biuro is one man short, [Arek Paterek](@/w/arek-paterek.md) - leader of Biuro Prasowe - asserted that they always have "a full alphabet of plans" and that "it is already three-vs-three". Before they could process that, Plata unzipped his longsleeve, revealing a Biuro Prasowe T-shirt underneath, and jumped his former friends, which led to [Sambor](@/w/sambor.md) joining the babyface team to even the odds. Despite that, Biuro Prasowe still overpowered Pablo's team. At [What's in the Box?](@/e/low/2026-10-24-low-7.md) Plata defeated Marcelito.
+
+### Maniac Zone Wrestling (2026-present)
+
+Plata debuted for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md), where [Oskar Alexander](@/w/oskar-alexander.md) called for an opponent to answer his open challenge Bartosz Plata, who at that moment worked at the show as member of the security team, removed his uniform to reveal wrestling gear underneath, and stepped into the ring to face Oskar in a match, that the ultimately lost.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Bartosz Plata made his first appearance for [FRPW](@/o/frpw.md) at their first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), where he teamed up with [Max Speed](@/w/max-speed.md) to face [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md). From that point on Plata started making regular appearances for FRPW. He was one of contestants in HeelTurn Invitational 26' Tournament, when he advanced in Round 1 after defeating [Tomczak](@/w/tomczak.md), but lost to [Olgierd](@/w/olgierd.md) in Semi-Finals.
+
+At [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) he teamed up with fellow [Biuro Prasowe](@/tt/biuro-prasowe.md) member [Tony Sheen](@/w/riverman.md) in a match against Boro and Quentin Carter. After the match all of the contestants were attacked by newly established PSY.CHO stable. Bartosz's "brother" [Sawo](@/w/sawo.md) was one of the members of staff who tried to stop [Tomczak](@/w/tomczak.md) and [Stowarzysz](@/w/stowarzysz.md), but he was also violently beaten, which led to announcement of Sawo & Plata versus PSY.CHO at [Wrestling w Twoim Mieście: Krasnystaw](@/e/frpw/2026-11-28-frpw-krasnystaw.md).
+
 ## In wrestling
 
 * Finishers:
   - Burning Lariat (2025-)
-
+* Tag Teams and Stables:
+  - Biuro Prasowe (2026-)
 * Entrance music:
   - "Yakuza 0 Intro" by Yakuza Sound Team
-    {{ org_badge(orgs=['ppw', 'low']) }} (2024-) <br>
+    {{ org_badge(orgs=['ppw', 'low', 'mzw', 'frpw']) }} (2024-) <br>
     {{ music(yt='zxrXgtSL2Rk')}}
+ - "Broken" by Mother Tongue
+    {{ org_badge(orgs=['low', 'frpw']) }} (2026-, as member of [Biuro Prasowe](@/tt/biuro-prasowe.md)) <br>
+    {{ music(yt='NqtbSCjMGKM')}}
+    {{ music(spot='7Ez3wgurWkC43ZLZhJCBgf')}}
+    {{ music(apple='320260598?i=320260598')}}
 
 ## Internet presence
 

@@ -8,7 +8,7 @@ toclevel = 2
 country = ["ENGLAND"]
 +++
 
-Primate is an English wrestler best known for his NXT UK run. In Poland he mainly wrestled for [Kombat Pro Wrestling](@/o/kpw.md). He also made a one-time appearance in [Prime Time Wrestling](@/o/ptw.md).
+Primate is a retired English wrestler best known for his NXT UK run. In Poland he mainly wrestled for [Kombat Pro Wrestling](@/o/kpw.md). He also made a one-time appearance in [Prime Time Wrestling](@/o/ptw.md).
 
 ## Basic info
 
