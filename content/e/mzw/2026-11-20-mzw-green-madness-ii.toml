@@ -9,17 +9,18 @@
 
 0110 = { path = "strzalka.webp", caption = "This way to the event.", source = "M3n747" }
 0120 = { path = "tutaj-bedzie-sie-dzialo.webp", caption = "The ring before the show.", source = "M3n747" }
+0130 = { path = "dwa-pokolenia-zapowiadaczy.webp", caption = "[Tomasz Warchoł](@/w/tomasz-warchol.md) and [Adrian Zgórski](@/w/adrian-zgorski.md) open the show.", source = "M3n747" }
 
-1010 = { path = ".webp", caption = ".", source = "M3n747" }
-1020 = { path = ".webp", caption = ".", source = "M3n747" }
-1030 = { path = ".webp", caption = ".", source = "M3n747" }
-1040 = { path = ".webp", caption = ".", source = "M3n747" }
-1050 = { path = ".webp", caption = ".", source = "M3n747" }
-1060 = { path = ".webp", caption = ".", source = "M3n747" }
-1070 = { path = ".webp", caption = ".", source = "M3n747" }
-1080 = { path = ".webp", caption = ".", source = "M3n747" }
-1090 = { path = ".webp", caption = ".", source = "M3n747" }
-1100 = { path = ".webp", caption = ".", source = "M3n747" }
+1010 = { path = "gul-gul-gul.webp", caption = "Olgierd partakes of his customary beverage.", source = "M3n747" }
+1020 = { path = "olgierd-poleca-wyroby-tekstylne.webp", caption = "[Olgierd](@/w/olgierd.md) shows off his customary scarf.", source = "M3n747" }
+1030 = { path = "antoni-duzy-akwen-wodny.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md) makes the first impression on the local audience.", source = "M3n747" }
+1040 = { path = "preludium-do-przemocy-fizycznej.webp", caption = "Left to right: [Antoni Ocean](@/w/antoni-ocean.md), [Sędzia Michał](@/w/sedzia-michal.md), [Adrian Zgórski](@/w/adrian-zgorski.md) and [Olgierd](@/w/olgierd.md).", source = "M3n747" }
+1050 = { path = "jeszcze-wiecej-oceanu.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md).", source = "M3n747" }
+1060 = { path = "zejdz-ze-mnie-lysy-brutalu.webp", caption = "Antoni Ocean catapults Olgierd into stratosphere (or thereabouts).", source = "M3n747" }
+1070 = { path = "olgierding.webp", caption = "Antoni Ocean catches an Olgierd-shaped wave…", source = "M3n747" }
+1080 = { path = "wywaling.webp", caption = "…but soon wipes out.", source = "M3n747" }
+1090 = { path = "osobliwy-pin-no-ale.webp", caption = "[Olgierd](@/w/olgierd.md) pins Antoni Ocean in a rather unusual manner.", source = "M3n747" }
+1100 = { path = "lysy-dominator-zdominowal.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) present the winner of the match: [Olgierd](@/w/olgierd.md).", source = "M3n747" }
 
 
 
