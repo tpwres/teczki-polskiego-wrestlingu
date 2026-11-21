@@ -89,7 +89,6 @@ The two clashed at the show, with Shadow emerging victorious from his final conf
   - '[Lider](@/w/lider.md)'
   - en: '[MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)'
     ed: 2026-11-20
-    nc: upcoming
     s: "Shadow's Final Match"
 {% end %}
 
