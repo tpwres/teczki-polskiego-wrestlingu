@@ -157,6 +157,8 @@ Translations, explanations and pronunciations are provided. Additionally, since 
   {% ipa(tts="Papież Polak") %}pˈapʲɛʃ pˈɔlak{% end %}
 * _Polski lis_ - "Polish fox": [Axel Fox](@/w/jakub.md). \
   {% ipa(tts="Polski lis") %}pˈɔlski lˈis{% end %}
+* _Rybojebca_ - "Fish fucker": [Tony Sheen](@/w/riverman.md), in his Riverman gimmick. \
+  {% ipa(tts="Rybojebca") %}rˌɨbɔjˈɛpt͡sa{% end %} 🌶️🌶️
 * _Sadzić! Palić! Zalegalizować!_ - "Plant it, smoke it, legalize it", a pro-marijuana chant, likely in reference to [a song][wyp3] by Wzgórze Ya-Pa-3. Used against [Tony Sk1n](@/w/tony-sk1n.md), who is straight-edge. \
   {% ipa(tts="Sadzić! Palić! Zalegalizować!") %}sˈad͡ʑit͡ɕ! pˈalit͡ɕ! zˌalɛɡˌalizˈɔvat͡ɕ!{% end %}
 * _Siła przyjaźni_ - "Power of friendship": originally [Rafi](@/w/rafi.md), referencing his early gimmick in [PTW](@/o/ptw.md). Later used more widely, to cheer on any displays of friendship in the ring. \
