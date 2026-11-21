@@ -33,6 +33,8 @@ After the revival of wrestling in the Głuchołazy area, Black Joker - now under
 
 In late September 2026 in an [interview][szedo-interwju] with [Center of Wrestling](@/o/cow.md) [Shadow](@/w/shadow.md) - who at that point was mere two matches away from retirement - named Lider as the person he'd like to have his final fight with. At [Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md) Lider, posing for an audience member, unexpectedly attacked Shadow with a Superkick following his match against [Zefir](@/w/zefir.md), telling him to "be careful what he wished for". Three weeks later MZW made an announcement that Lider would indeed be Shadow's final opponent, in a match to be held at [MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md).
 
+The two clashed at the show, with Shadow emerging victorious from his final confrontation. After the fight Shadow cut a heartfelt promo, thanking the fans; Lider then took the microphone and, breaking kayfabe, thanked Shadow personally.
+
 ## In wrestling
 
 * Finisher:
