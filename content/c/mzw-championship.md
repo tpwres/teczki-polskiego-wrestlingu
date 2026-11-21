@@ -301,13 +301,12 @@ The reign was cut short by the management's decision on 25.03.2026 when [Matt Bu
 
 Marco was forced to vacate the title due to a career-ending injury.
 
-### Champion #11: ?
+### Champion #11: Tony Sheen
 
 {% free_card() %}
-- - '[Disco Pablo](@/w/disco-pablo.md)'
-  - '["The Riverman" Tony Sheen](@/w/riverman.md)'
+- - '["The Riverman" Tony Sheen](@/w/riverman.md)'
+  - '[Disco Pablo](@/w/disco-pablo.md)'
   - s: '2 Out of 3 Falls No-DQ Match'
     en: '[MZW Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md)'
     ed: 2026-11-20
-    nc: upcoming
 {% end %}
