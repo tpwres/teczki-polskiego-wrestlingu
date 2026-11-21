@@ -22,6 +22,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 * At [Hardcore Saturday](@/e/ppw/2026-11-07-ppw-hardcore-saturday.md) [Max Speed](@/w/max-speed.md) and [Goblin](@/w/goblin.md) both submitted [Emil Völler](@/w/emil-voeller.md) at the same time, thus sharing the victory. On 12.11.2026 PpW announced a match between the two winners, to act as a tie breaker.
 * At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Olgierd unexpectedly left [Zmowa](@/tt/zmowa.md), angering [Mister Z](@/w/mister-z.md). The leader of the stable decided to punish the bald hooligan, which included putting him in a Zmowa Prospects Gauntlet Match against three potential candidates for [Zmowa](@/tt/zmowa.md) (similar to what [Gustav Gryffin](@/w/gustav-gryffin.md) faced at [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md)). The fight was announced on 14.11.2026.
 * On 18.11.2026 PpW announced a Dochodzeniówka Match between [The Hardcors](@/tt/the-hardcors.md) ([Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)) + [Boro](@/w/boro.md), and [Rodzina](@/tt/rodzina.md) ([Robert Star](@/w/robert-star.md), [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md)). The stipulation, roughly translated to _Join-in Match_, is a 3-vs-3 fight that starts with two people in the ring, who are then asymmetrically joined by the remaining wrestlers from each team, one at a time, at regular intervals.
+* On 19.11.2026 PpW released a GTA-themed [Instagram reel][tt-mission] featuring Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md), who both receive a mission popup. Wandering through the area, they encounter a mission start marker. Walking into it they spawn [Gloria](@/w/gloria-g-szek.md), who then confronts them - it seems all of them have a mission to "win the Tag Team Match in Kraków". When Agatka & Julia point out she has no partner, Gloria finds a random car, and performs the hijack action, pulling out [Monster High Suzie](@/w/monster-high-suzie.md). The two pairs were soon confirmed for a Tag Team Match on Saturday.
 
 ## Predicted card
 
@@ -43,6 +44,10 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
   - '???'
   - s: 'Zmowa Prospects Gauntlet Match'
     nc: upcoming
+- - 'Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md)'
+  - '[Gloria](@/w/gloria-g-szek.md) & [Monster High Suzie](@/w/monster-high-suzie.md)'
+  - s: Tag Team Match
+    nc: upcoming
 - - '[The Hardcors](@/tt/the-hardcors.md): [Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md) + [Boro](@/w/boro.md)'
   - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
   - s: 'Dochodzeniówka Match'
@@ -61,3 +66,4 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 [kondzia-podarli]: https://www.facebook.com/reel/1598933008914969
 [jk-mutant]: https://www.facebook.com/reel/3281177715386075
 [gta]: https://en.wikipedia.org/wiki/Grand_Theft_Auto
+[tt-mission]: https://www.instagram.com/ppw_hw/reel/Df7km5-qbzC/
