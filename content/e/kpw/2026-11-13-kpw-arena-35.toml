@@ -6,3 +6,90 @@
 0005 = { path = "3-vs-3.webp", caption = "Image announcing [Chemik](@/w/chemik.md) & [Filip Fux](@/w/filip-fux.md) & Nico Narciso vs [Oskar Haller](@/w/oskar-haller.md) & [Michał Fux](@/w/michal-fux.md) & [Olgierd](@/w/olgierd.md).", source = "Official KPW Facebook" }
 0006 = { path = "on-sam-vallnie-lesaka.webp", caption = "Image announcing [Eryk Lesak](@/w/eryk-lesak.md) vs [Sam Della Valle](@/w/sam-rogers.md).", source = "Official KPW Facebook" }
 0007 = { path = "frank-gorshin-vs-cory-michael-smith.webp", caption = "Image announcing ??? vs ???.", source = "Official KPW Facebook" }
+
+0110 = { path = "jeszcze-nie-ma-ale-niedlugo-bedzie.webp", caption = "The ring before the show.", source = "M3n747" }
+0120 = { path = "fani-zefira-lubia-slone-paluszki.webp", caption = "Zefir Ultras on the right…", source = "M3n747" }
+0130 = { path = "fani-markusa-paskala-nie-lubia-slonych-paluszkow.webp", caption = "…Markus Paskal supporters on the left.", source = "M3n747" }
+0140 = { path = "kinga-posrodku-ringa.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) opens the show.", source = "M3n747" }
+
+1010 = { path = "zdjecie-markusa-paskala-na-tle-zdjecia-markusa-paskala.webp", caption = "[Markus Paskal's](@/w/markus-paskal.md) entrance.", source = "M3n747" }
+1020 = { path = "zefirefir.webp", caption = "[Zefir's](@/w/zefir.md) entrance.", source = "M3n747" }
+1030 = { path = "reverse-po-ojcowsku-przez-kolano.webp", caption = "[Zefir](@/w/zefir.md) hits Markus Paskal with a Backbreaker.", source = "M3n747" }
+1040 = { path = "nie-mam-pojecia-jak-to-sie-nazywa-ale-wyglada-na-bolesne-dla-nich-obu.webp", caption = "[Markus Paskal](@/w/markus-paskal.md) attempts to submit [Zefir](@/w/zefir.md).", source = "M3n747" }
+1050 = { path = "weirdlock.webp", caption = "Markus Paskal has Zefir in a leglock.", source = "M3n747" }
+1060 = { path = "wrestlerze-siadz-pod-mym-piwem-a-odpoczni-sobie.webp", caption = "Markus Paskal bumps into a random fan.", source = "M3n747" }
+1080 = { path = "zefir-zawsze-mi-troche-przypominal-meprona-z-kajtka-i-koka-w-kosmosie.webp", caption = "[Zefir](@/w/zefir.md) rejoices after a particularly effective attack.", source = "M3n747" }
+1090 = { path = "swanton-niewypal.webp", caption = "Zefir's Swanton Bomb misses Markus Paskal.", source = "M3n747" }
+1100 = { path = "jeden-placze-a-drugi-sie-smieje.webp", caption = "Zefir is crestfallen, while Markus Paskal celebrates with his family, friends and fans.", source = "M3n747" }
+
+2010 = { path = "czekaj-greg.webp", caption = "[Greg's](@/w/greg.md) entrance. In the background stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+2020 = { path = "ale-wielka-wykalaczka.webp", caption = "A kendo stick.", source = "M3n747" }
+2030 = { path = "najpierw-kijkiem-zadam-bol-potem-krzeslem-zadam-smierc.webp", caption = "[Greg](@/w/greg.md) chooses his weapon based on the volume of audience applause.", source = "M3n747" }
+2040 = { path = "skoczyc-z-trzeciej-liny-to-nie-takie-hop-siup.webp", caption = "Greg attacks Tomczak with the kendo stick, jumping from the top rope…", source = "M3n747" }
+2050 = { path = "lancuch-przyczynowo-skutkowy.webp", caption = "…but unimpressed Tomczak responds with a swing of the steel chain.", source = "M3n747" }
+2060 = { path = "niby-dwie-swietlowki-ma-a-tak-ciemno-jest-ze-go-ledwo-widac.webp", caption = "Greg jumps from the ladder, about to hit Tomczak's back with a couple of light tubes.", source = "M3n747" }
+2070 = { path = "tomczak-z-ukulele-to-jak-jon-arbuckle-z-akordeonem.webp", caption = "[Tomczak](@/w/tomczak.md) has a ukulele and is not afraid to use it on [Greg](@/w/greg.md).", source = "M3n747" }
+2080 = { path = "czy-slyszysz-szum-jesionu.webp", caption = "Tomczak pushed a baseball bat into Greg's ear.", source = "M3n747" }
+2090 = { path = "skoro-horror-mecz-to-go-powinien-kijem-kendo-do-ringu-przyszpilic.webp", caption = "Tomczak attempts to pin Greg.", source = "M3n747" }
+2100 = { path = "gdzie-idzie-nie-widzi-ze-zakaz-jest.webp", caption = "Greg about to clobber Tomczak with a road sign.", source = "M3n747" }
+2110 = { path = "stary-model-widac-zlacza-kompozytowe-i-dwa-euro-scarty.webp", caption = "Tomczak with a TV that just so happened to be under the ring.", source = "M3n747" }
+2120 = { path = "wspolczuje-plecom-tomczaka-w-tym-momencie.webp", caption = "Greg attempts to squeeze the breath out of Tomczak.", source = "M3n747" }
+2130 = { path = "przylozyl-poteznie-piescia-ponizej-pasa.webp", caption = "[Tomczak](@/w/tomczak.md) low-blows Greg.", source = "M3n747" }
+2140 = { path = "no-i-gitara.webp", caption = "[Tomczak](@/w/tomczak.md) defeats Greg, although [Krystian Czekaj](@/w/krystian-czekaj.md) appears to question his methods.", source = "M3n747" }
+
+3010 = { path = "rytualy-jakies.webp", caption = "Four robed figures surround Greg…", source = "M3n747" }
+3020 = { path = "bracia-zakonu-sw-wpierdzielu.webp", caption = "…and administer a beatdown…", source = "M3n747" }
+3030 = { path = "konkurs-mody-mnisiej.webp", caption = "…before striking a pose…", source = "M3n747" }
+3040 = { path = "vier-deutsche-moenche.webp", caption = "…and revealing themselves as Erik Asmus, Veit Müller (front), [Hans Schulte](@/w/hans-schulte.md) (back) and Friedrich Pohlmann.", source = "M3n747" }
+3050 = { path = "zeksternalizowana-flagellacja.webp", caption = "Erik Asmus, Friedrich Pohlmann and [Veit Müller](@/w/veit-mueller.md) hold Greg, as [Hans Schulte](@/w/hans-schulte.md) whips him with a leather belt.", source = "M3n747" }
+3060 = { path = "a-tera-zrobimy-raiden-wins.webp", caption = "[Hans Schulte](@/w/hans-schulte.md) is about to zap Greg's nethers with a taser…", source = "M3n747" }
+3070 = { path = "oliwa-na-niemcow-wplywa.webp", caption = "…but [David Oliwa](@/w/david-oliwa.md) make a surprise save.", source = "M3n747" }
+3080 = { path = "i-co-z-tego-ze-znam-niemiecki-tlumacz-im.webp", caption = "[David Oliwa](@/w/david-oliwa.md) tells the Germans how it is, while Krystian Czekaj translates.", source = "M3n747" }
+
+4010 = { path = "juz-nie-adept-tylko-szymon-dragan.webp", caption = "[Szymon Dragan's](@/w/szymon-dragan.md) entrance.", source = "M3n747" }
+4020 = { path = "czekaj-to-bylo-w-lewo-czy-w-prawo-bo-nie-pamietam.webp", caption = "Erik Asmus tries to unscrew [Szymon Dragan's](@/w/szymon-dragan.md) head.", source = "M3n747" }
+4030 = { path = "z-cyklu-zdjec-zrobionych-sekunde-przed-katastrofa.webp", caption = "Szymon Dragan about to experience the weight of material existence, metaphorically and otherwise.", source = "M3n747" }
+4040 = { path = "wynik-malo-zaskakujacy-ale-bardzo-niechciany.webp", caption = "Erik Asmus wins.", source = "M3n747" }
+
+5010 = { path = "sam-della-valle.webp", caption = "[Sam Della Valle](@/w/sam-rogers.md).", source = "M3n747" }
+5020 = { path = "uprzejma-wymiana-opinii.webp", caption = "Eryk Lesak exchanges pleasantries with the fans.", source = "M3n747" }
+5030 = { path = "nowe-gacie-stary-pas.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) in his new ring gear.", source = "M3n747" }
+5040 = { path = "nie-nie-tak-wyglada-piesc-zobacz.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) has [Sam Della Valle](@/w/sam-rogers.md) in a Chokehold.", source = "M3n747" }
+5050 = { path = "trzeci-lesak.webp", caption = "Lesak jumps from the top rope. To the left stands [Krystian Czekaj](@/w/krystian-czekaj.md).", source = "M3n747" }
+5060 = { path = "krystian-nie-umieraj.webp", caption = "[Sam Della Valle](@/w/sam-rogers.md) just accidentally knocked out Krystian Czekaj. In the background [Eryk Lesak](@/w/eryk-lesak.md) is looking to cheat.", source = "M3n747" }
+5070 = { path = "znany-takze-jako-worek-ziemniakow-carry.webp", caption = "Eryk Lesak with Krystian Czekaj in a Sleepy Kitten Carry.", source = "M3n747" }
+5080 = { path = "marcelito-w-kpw-nie-bylo-a-i-tak-zgasil-sedziemu-swiatlo.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md), still groggy from the hit, awards the victory to [Eryk Lesak](@/w/eryk-lesak.md).", source = "M3n747" }
+5090 = { path = "ech-no-i-znowu-wzial-i-wygral-no.webp", caption = "[Eryk Lesak](@/w/eryk-lesak.md) victorious.", source = "M3n747" }
+
+6010 = { path = "nie-jestem-pewien-ale-to-chyba-niemiec.webp", caption = "Friedrich Pohlmann.", source = "M3n747" }
+6020 = { path = "ej-on-nawet-ma-tatuaz-wrony-na-gombrowiczowskiej-lydce.webp", caption = "[David Oliwa](@/w/david-oliwa.md) and Friedrich Pohlmann face off.", source = "M3n747" }
+6030 = { path = "pohlmann-sie-oliwie-nie-wyslizgnie.webp", caption = "[David Oliwa](@/w/david-oliwa.md) has Pohlmann in a headlock.", source = "M3n747" }
+6040 = { path = "taki-bardziej-hardcoreowy-twister.webp", caption = "Pohlmann abuses [David Oliwa's](@/w/david-oliwa.md) injured leg.", source = "M3n747" }
+6050 = { path = "disarming-and-dislegging.webp", caption = "Friedrich Pohlmann removes Oliwa's leg brace.", source = "M3n747" }
+6060 = { path = "max-rockatansky-mial-podobna.webp", caption = "Close-up of Oliwa's brace.", source = "M3n747" }
+6070 = { path = "az-sie-prosi-o-komentarz-historyczno-polityczny-ale-moze-lepiej-nie.webp", caption = "Friedrich Pohlmann keeps attacking Oliwa's appendage.", source = "M3n747" }
+6080 = { path = "one-down-many-more-to-go.webp", caption = "[David Oliwa](@/w/david-oliwa.md) wins.", source = "M3n747" }
+
+7010 = { path = "po-ubraniu-widac-ze-wcale-mu-nie-lepiej.webp", caption = "[Krystian Malinowski](@/w/krystian-malinowski.md) addresses the audience.", source = "M3n747" }
+7020 = { path = "normalny-prezes-w-normalnych-butach.webp", caption = "[Rosetti](@/w/rosetti.md) confronts [Krystian Malinowski](@/w/krystian-malinowski.md).", source = "M3n747" }
+7030 = { path = "pojdz-w-me-ramiona.webp", caption = "[Rosetti](@/w/rosetti.md) ridicules [Krystian Malinowski's](@/w/krystian-malinowski.md) request for a hug.", source = "M3n747" }
+7040 = { path = "szybciej-sie-kloccie-bo-sie-zaraz-moj-serial-zaczyna.webp", caption = "A security member ready to remove somebody from the ring.", source = "M3n747" }
+7050 = { path = "zupelnie-przypadkiem-na-nastepnej-gali-legacy-sinister-bedzie-mial-nowa-laske.webp", caption = "Rosetti takes over as the new Chairman of KPW.", source = "M3n747" }
+
+8010 = { path = "szalik-czyscic-chemicznie.webp", caption = "[Chemik's](@/w/chemik.md) entrance.", source = "M3n747" }
+8020 = { path = "czyli-po-naszemu-mikolaj-kwiatkowski.webp", caption = "Nico Narciso's entrance.", source = "M3n747" }
+8030 = { path = "zdejmuj-koszulke-nie-zaslugujesz.webp", caption = "[Filip Fux's](@/w/filip-fux.md) entrance.", source = "M3n747" }
+8040 = { path = "dobry-rocznik.webp", caption = "[Olgierd's](@/w/olgierd.md) entrance.", source = "M3n747" }
+8050 = { path = "patrzcie-jakie-mam-lapy.webp", caption = "[Michał Fux's](@/w/michal-fux.md) entrance. In the back stands [Oskar Haller](@/w/oskar-haller.md), holding his [title](@/c/kpw-tag-team-championship.md).", source = "M3n747" }
+8060 = { path = "ej-jak-juz-tam-jestes-to-wez-mnie-za-uchem-podrap-bo-ja-chwilowo-nie-dosiegam.webp", caption = "Michał Fux attempts to escape Nico Narciso's headlock.", source = "M3n747" }
+8070 = { path = "co-dwie-banie-to-nie-jedna.webp", caption = "[Michał Fux](@/w/michal-fux.md) and Olgierd about to hit a Double Headbutt on Nico Narciso.", source = "M3n747" }
+8080 = { path = "kto-jest-lysy-a-komu-jest-lyso.webp", caption = "Olgierd manhandles Chemik.", source = "M3n747" }
+8090 = { path = "tyle-lat-minelo-a-my-ciagle-nie-wiemy-jak-robi-krokodyl.webp", caption = "[Oskar Haller](@/w/oskar-haller.md) prepared to hit Chemik with his own Crocodile Roll.", source = "M3n747" }
+8100 = { path = "no-wez-sie-w-garsc-czlowieku.webp", caption = "Oskar Haller struggles out of Nico Narciso's hold, Olgierd observes the action and [Michał Fux](@/w/michal-fux.md) is eager to tag in.", source = "M3n747" }
+8110 = { path = "orgia-lysosci.webp", caption = "Olgierd pins Chemik.", source = "M3n747" }
+8120 = { path = "klaniam-sie-szanownym-panstwu.webp", caption = "Michał Fux outside the ring.", source = "M3n747" }
+8130 = { path = "brother-will-punch-brother-spilling-blood-across-the-ring.webp", caption = "[Michał Fux](@/w/michal-fux.md) swings a punch at [Filip Fux](@/w/filip-fux.md).", source = "M3n747" }
+8140 = { path = "michal-wygral-szkieleta-powiesili.webp", caption = "[Krystian Czekaj](@/w/krystian-czekaj.md) awards the victory to [Michał Fux](@/w/michal-fux.md), as [Filip Fux](@/w/filip-fux.md) lies dizzy on the mat.", source = "M3n747" }
+8150 = { path = "przyjazn-miedzy-federacjami.webp", caption = "[Oskar Haller](@/w/oskar-haller.md), [Michał Fux](@/w/michal-fux.md) and [Olgierd](@/w/olgierd.md) celebrate their success.", source = "M3n747" }
+8160 = { path = "niezly-jajcarz.webp", caption = "[Olgierd](@/w/olgierd.md) adds unique value to Chemik's merchandise, which Oskar Haller and Michał Fux are happy to point out.", source = "M3n747" }
+8170 = { path = "jak-zamkne-oczy-to-moze-znikna.webp", caption = "[Kinga Miotke](@/w/kinga-miotke.md) closes the show.", source = "M3n747" }
