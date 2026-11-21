@@ -60,7 +60,13 @@ MZW Green Madness II was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a fo
 ### Highlights
 
 * This event saw the return of [Tomasz Warchoł](@/w/tomasz-warchoł.md) as a co-ring announcer. He was last seen at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
-* 
+* [Bartosz Plata](@/w/plata.md), a heel in [PpW Ewenement Wrestling](@/o/ppw.md) and [Legacy of Wrestling](@/o/low.md) after he turned on his friends at [Enter the Dragon](@/e/low/2026-07-10-low-6.md), received major babyface pop.
+* After his fight with [Lider](@/w/lider.md), [Shadow](@/w/shadow.md) cut a heartfelt promo thanking the fans for their support over the past 16 years. Lider then took the microphone and, breaking kayfabe, thanked Shadow personally.
+* Despite both being in the same heel tag team, [Oskar Alexander](@/w/oskar-alexander.md) got heat, but Stefan received major babyface pop. This changed somewhat during the match, but he was still cheered by the audience after the fight.
+* [Disco Pablo](@/w/disco-pablo.md) produced [Tony Sheen's](@/w/riverman.md) inflatable dolphin from under the ring. Urged by the fans, he introduced its snout into Riverman's behind.
+* The Special Guest Referee [Marco Hammers](@/w/marco-hammers.md), impartial at first, clearly took Pablo's side later on, which angered Sheen.
+* Bartosz Plata interfered in the match, prompting Marco to briefly revert to a wrestling role and disposing of him.
+* After the main event, [Max Speed](@/w/max-speed.md) came out and confronted Tony, setting up their Championship match at the upcoming show.
 
 ## References
 
