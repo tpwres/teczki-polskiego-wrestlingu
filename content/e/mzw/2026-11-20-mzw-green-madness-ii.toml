@@ -6,3 +6,36 @@
 0006 = { path = "lider-pograzy-sie-w-cieniu.webp", caption = "Image announcing [Shadow](@/w/shadow.md) vs [Lider](@/w/lider.md).", source = "Official MZW Facebook" }
 0007 = { path = "sheeblo.webp", caption = "Image announcing [Tony Sheen](@/w/riverman.md) vs [Disco Pablo](@/w/disco-pablo.md).", source = "Official MZW Facebook" }
 0008 = { path = "pewnie-nikt-nie-zakuma-nawiazania-ale-where-the-hell-is-matt.webp", caption = "Image announcing [Antoni Ocean](@/w/antoni-ocean.md) taking over from Matt Buckna in the match with [Olgierd](@/w/olgierd.md).", source = "Official MZW Facebook" }
+
+0110 = { path = "strzalka.webp", caption = "This way to the event.", source = "M3n747" }
+0120 = { path = "tutaj-bedzie-sie-dzialo.webp", caption = "The ring before the show.", source = "M3n747" }
+
+1010 = { path = ".webp", caption = ".", source = "M3n747" }
+1020 = { path = ".webp", caption = ".", source = "M3n747" }
+1030 = { path = ".webp", caption = ".", source = "M3n747" }
+1040 = { path = ".webp", caption = ".", source = "M3n747" }
+1050 = { path = ".webp", caption = ".", source = "M3n747" }
+1060 = { path = ".webp", caption = ".", source = "M3n747" }
+1070 = { path = ".webp", caption = ".", source = "M3n747" }
+1080 = { path = ".webp", caption = ".", source = "M3n747" }
+1090 = { path = ".webp", caption = ".", source = "M3n747" }
+1100 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+1020 = { path = ".webp", caption = ".", source = "M3n747" }
+1030 = { path = ".webp", caption = ".", source = "M3n747" }
+1040 = { path = ".webp", caption = ".", source = "M3n747" }
+1050 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+2010 = { path = ".webp", caption = ".", source = "M3n747" }
+3010 = { path = ".webp", caption = ".", source = "M3n747" }
+4010 = { path = ".webp", caption = ".", source = "M3n747" }
+5010 = { path = ".webp", caption = ".", source = "M3n747" }
+6010 = { path = ".webp", caption = ".", source = "M3n747" }
+7010 = { path = ".webp", caption = ".", source = "M3n747" }
