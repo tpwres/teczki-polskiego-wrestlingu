@@ -59,7 +59,8 @@ MZW Green Madness II was a show by [Maniac Zone Wrestling](@/o/mzw.md), and a fo
 
 ### Highlights
 
-* TBD
+* This event saw the return of [Tomasz Warchoł](@/w/tomasz-warchoł.md) as a co-ring announcer. He was last seen at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md).
+* 
 
 ## References
 

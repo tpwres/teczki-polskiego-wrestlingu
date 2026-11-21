@@ -14,7 +14,7 @@ Tomasz Warchoł is a pro wrestling host, announcer, commentator and ring crew me
 
 ## Basic info
 
-* Years active: 2014-2019; 2024
+* Years active: 2014-2019; 2024-2026
 * Gimmicks/nicknames:
   - Tomasz Warchoł {{ org_badge(orgs=['mzw']) }}
 
@@ -32,6 +32,6 @@ Tomasz Warchoł officially retired from his ring announcing role at [MZW Project
 
 Tomasz Warchoł didn't appear in any role in MZW or any other federation. However, he was still partialy active on social media during his break from wrestling, often engaging in conversations regarding the Polish wrestling scene.
 
-### Return to Maniac Zone Wrestling (2024-2025)
+### Sporadic appearances (2024-2026)
 
-Tomasz made a one-off appearance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md) after nearly five years of absence. He hosted a contest where fans could win MZW T-shirts and other merchandise.
+Tomasz made only a handful of appearances in the later years. At [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), after nearly five years of absence, he hosted a contest where fans could win MZW T-shirts and other merchandise; likewise at [MZW Forever](@/e/mzw/2025-03-29-mzw-forever.md). At [Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md) he helped [Adrian Zgórski](@/w/adrian-zgorski.md) open the show.
