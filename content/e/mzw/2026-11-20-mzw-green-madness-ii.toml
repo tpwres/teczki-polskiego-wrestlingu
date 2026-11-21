@@ -36,6 +36,26 @@
 2120 = { path = "top-ropelito.webp", caption = "[Marcelito](@/w/marcelito.md) about to jump at Jakub from the top rope.", source = "M3n747" }
 2130 = { path = "prosze-panstwa-ten-pan-wygral.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) declares [Max Speed](@/w/max-speed.md) the winner of the match.", source = "M3n747" }
 
+3010 = { path = "o-prosze-tutaj-mam-glowe.webp", caption = "[Lider's](@/w/lider.md) back in MZW.", source = "M3n747" }
+3020 = { path = "ostatni-taki-widok.webp", caption = "[Shadow](@/w/shadow.md) enters the ring one last time.", source = "M3n747" }
+3030 = { path = "jak-za-dawnych-dobrych-lat.webp", caption = "[Lider](@/w/lider.md) and [Shadow](@/w/shadow.md) face each other.", source = "M3n747" }
+3040 = { path = "shadowplex.webp", caption = "Lider suplexes Shadow.", source = "M3n747" }
+3050 = { path = "munsolt.webp", caption = "Shadow executes a Moonsault onto Lider.", source = "M3n747" }
+3060 = { path = "czokhold.webp", caption = "[Lider](@/w/lider.md) has [Shadow](@/w/shadow.md) in a chokehold.", source = "M3n747" }
+3070 = { path = "powietrzny-twarzochwyt.webp", caption = "Shadow demonstrates an Inverted Facelock Neckbreaker Slam on Lider.", source = "M3n747" }
+3080 = { path = "polezymy-odpoczniemy-pomyslimy-o-zyciu.webp", caption = "[Shadow](@/w/shadow.md) and [Lider](@/w/lider.md) share a mattress outside the ring.", source = "M3n747" }
+3090 = { path = "jeszcze-raz-dla-pewnosci.webp", caption = "Shadow hits Lider with another Moonsault, for good measure.", source = "M3n747" }
+3100 = { path = "bedzie-trzy.webp", caption = "[Shadow](@/w/shadow.md) pins Lider, as [Sędzia Seweryn](@/w/sedzia-seweryn.md) is about to count to three.", source = "M3n747" }
+3110 = { path = "zmeczony-po-meczu.webp", caption = "Victorious [Shadow](@/w/shadow.md) addresses the audience.", source = "M3n747" }
+3120 = { path = "shadow-dziekuje-fanom.webp", caption = "Shadow bows before the fans…", source = "M3n747" }
+3130 = { path = "shadow-dziekuje-kolegom.webp", caption = "…and before fellow wrestlers.", source = "M3n747" }
+3140 = { path = "koledzy-dziekuja-shadowowi.webp", caption = "The entire locker room came out to give Shadow a round of applause.", source = "M3n747" }
+3150 = { path = "niby-sie-nie-lubili-a-sie-lubia.webp", caption = "Shadow and Lider hug.", source = "M3n747" }
+3160 = { path = "emocje-wypisane-na-masce.webp", caption = "[Lider](@/w/lider.md) says thank you to [Shadow](@/w/shadow.md).", source = "M3n747" }
+3170 = { path = "tutaj-mam-uszy.webp", caption = "Per [Lider's](@/w/lider.md) request, everybody makes a noise [Shadow](@/w/shadow.md) isn't ever going to forget.", source = "M3n747" }
+3180 = { path = "pozegnanie-z-ringiem.webp", caption = "[Shadow](@/w/shadow.md) says goodbye to the ring.", source = "M3n747" }
+3190 = { path = "przytulasek.webp", caption = "Shadow hugs a fan.", source = "M3n747" }
+3200 = { path = "trzeba-wiedziec-kiedy-ze-sceny-zejsc-niepokonanym.webp", caption = "[Shadow](@/w/shadow.md) makes his final bow.", source = "M3n747" }
 
 
 
@@ -43,7 +63,6 @@
 
 
 
-3010 = { path = ".webp", caption = ".", source = "M3n747" }
 4010 = { path = ".webp", caption = ".", source = "M3n747" }
 5010 = { path = ".webp", caption = ".", source = "M3n747" }
 6010 = { path = ".webp", caption = ".", source = "M3n747" }
