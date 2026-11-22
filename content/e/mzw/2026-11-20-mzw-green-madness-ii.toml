@@ -76,11 +76,49 @@
 6050 = { path = "jak-w-tym-nie-ma-podtekstow-to-ja-nie-wiem-gdzie-sa.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) struggles to slip out of [Boro's](@/w/boro.md) hold.", source = "M3n747" }
 6060 = { path = "sedzia-niby-bezstronny-ale-wyraznie-zadowolony-z-wyniku.webp", caption = "[Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) declared winners by [Sędzia Michał](@/w/sedzia-michal.md), while [Oskar Alexander](@/w/oskar-alexander.md) lies defeated.", source = "M3n747" }
 
-
-
-
-
 7010 = { path = ".webp", caption = ".", source = "M3n747" }
+7020 = { path = ".webp", caption = ".", source = "M3n747" }
+7030 = { path = ".webp", caption = ".", source = "M3n747" }
+7040 = { path = ".webp", caption = ".", source = "M3n747" }
+7050 = { path = ".webp", caption = ".", source = "M3n747" }
+7060 = { path = ".webp", caption = ".", source = "M3n747" }
+7070 = { path = ".webp", caption = ".", source = "M3n747" }
+7080 = { path = ".webp", caption = ".", source = "M3n747" }
+7090 = { path = ".webp", caption = ".", source = "M3n747" }
+7100 = { path = ".webp", caption = ".", source = "M3n747" }
+7110 = { path = ".webp", caption = ".", source = "M3n747" }
+7120 = { path = ".webp", caption = ".", source = "M3n747" }
+7130 = { path = ".webp", caption = ".", source = "M3n747" }
+7140 = { path = ".webp", caption = ".", source = "M3n747" }
+7150 = { path = ".webp", caption = ".", source = "M3n747" }
+7160 = { path = ".webp", caption = ".", source = "M3n747" }
+7170 = { path = ".webp", caption = ".", source = "M3n747" }
+7180 = { path = ".webp", caption = ".", source = "M3n747" }
+7190 = { path = ".webp", caption = ".", source = "M3n747" }
+7200 = { path = ".webp", caption = ".", source = "M3n747" }
+7210 = { path = ".webp", caption = ".", source = "M3n747" }
+7220 = { path = ".webp", caption = ".", source = "M3n747" }
+7230 = { path = ".webp", caption = ".", source = "M3n747" }
+7240 = { path = ".webp", caption = ".", source = "M3n747" }
+7250 = { path = ".webp", caption = ".", source = "M3n747" }
+7260 = { path = ".webp", caption = ".", source = "M3n747" }
+7270 = { path = ".webp", caption = ".", source = "M3n747" }
+7280 = { path = ".webp", caption = ".", source = "M3n747" }
+7290 = { path = ".webp", caption = ".", source = "M3n747" }
+7300 = { path = ".webp", caption = ".", source = "M3n747" }
+7310 = { path = ".webp", caption = ".", source = "M3n747" }
+7320 = { path = ".webp", caption = ".", source = "M3n747" }
+7330 = { path = ".webp", caption = ".", source = "M3n747" }
+7340 = { path = ".webp", caption = ".", source = "M3n747" }
+7350 = { path = ".webp", caption = ".", source = "M3n747" }
+7360 = { path = ".webp", caption = ".", source = "M3n747" }
+7370 = { path = ".webp", caption = ".", source = "M3n747" }
+
+8010 = { path = "shadow-w-formacie-a4.webp", caption = "A printed thank-you from Shadow to the fans, left on the seats before the show.", source = "M3n747" }
+
+
+
+
 
 
 
