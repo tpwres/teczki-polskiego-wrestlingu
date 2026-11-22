@@ -76,10 +76,10 @@
 6050 = { path = "jak-w-tym-nie-ma-podtekstow-to-ja-nie-wiem-gdzie-sa.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) struggles to slip out of [Boro's](@/w/boro.md) hold.", source = "M3n747" }
 6060 = { path = "sedzia-niby-bezstronny-ale-wyraznie-zadowolony-z-wyniku.webp", caption = "[Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) declared winners by [Sędzia Michał](@/w/sedzia-michal.md), while [Oskar Alexander](@/w/oskar-alexander.md) lies defeated.", source = "M3n747" }
 
-7010 = { path = "marco-robi-jak-rafiki-w-krolu-lwie.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) presents the [MZW Championship](@/c/mzw-championship.md). On the left stands [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+7010 = { path = "marco-robi-jak-rafiki-w-krolu-lwie.webp", caption = "[Referee Marco Hammers](@/w/marco-hammers.md) presents the [MZW Championship](@/c/mzw-championship.md). On the left stands [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
 7020 = { path = "kiedys-zawijano-ryby-w-gazety.webp", caption = "[Tony Sheen](@/w/riverman.md).", source = "M3n747" }
 7030 = { path = "ladny-kontrast-niebieskiego-na-zielonym-tle.webp", caption = "[Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
-7040 = { path = "a-czy-macie-moze-niebieski.webp", caption = "[Marco Hammers](@/w/marco-hammers.md) presents the [MZW Championship](@/c/mzw-championship.md) to Disco Pablo, as [Tony Sheen](@/w/riverman.md) waits for the fight to begin.", source = "M3n747" }
+7040 = { path = "a-czy-macie-moze-niebieski.webp", caption = "[Referee Marco Hammers](@/w/marco-hammers.md) presents the [MZW Championship](@/c/mzw-championship.md) to Disco Pablo, as [Tony Sheen](@/w/riverman.md) waits for the fight to begin.", source = "M3n747" }
 7050 = { path = "salatka-rybna-a-la-pablo.webp", caption = "Disco Pablo grates Tony Sheen's face on some metal element of unknown function.", source = "M3n747" }
 7060 = { path = "ucieknie-po-niej-z-akwarium.webp", caption = "Tony Sheen pulls a ladder from under the ring.", source = "M3n747" }
 7070 = { path = "pablo-uwalnia-orke.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) produces an inflatable dolphin.", source = "M3n747" }
@@ -95,33 +95,13 @@
 7170 = { path = "alegoria-procesu-zawieszajacego-windowsy.webp", caption = "Tony Sheen chokes [Disco Pablo](@/w/disco-pablo.md) with the belt.", source = "M3n747" }
 7180 = { path = "dzien-dobry-sprzedaje-skladane-krzesla.webp", caption = "Tony Sheen argues with [Referee Marco Hammers](@/w/marco-hammers.md) for siding with Disco Pablo, who waits with a steel chair in hands.", source = "M3n747" }
 7190 = { path = "plaf.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) throws the chair at Tony Sheen.", source = "M3n747" }
-7200 = { path = "biuro-platowe.webp", caption = "[Bartosz Plata](@/w/plata.md) arrives to help [Tony Sheen](@/w/riverman.md), but Marco Hammers will have none of that. In the background [Disco Pablo](@/w/disco-pablo.md) reaches for the kendo stick.", source = "M3n747" }
-7210 = { path = "ryby-sie-zwykle-oglusza-kamieniem-ale-krzeslem-tez-moze-byc.webp", caption = "Tony Sheen, punished by his unsavoury actions by Marco Hammers.", source = "M3n747" }
+7200 = { path = "biuro-platowe.webp", caption = "[Bartosz Plata](@/w/plata.md) arrives to help [Tony Sheen](@/w/riverman.md), but Referee Marco Hammers will have none of that. In the background [Disco Pablo](@/w/disco-pablo.md) reaches for the kendo stick.", source = "M3n747" }
+7210 = { path = "ryby-sie-zwykle-oglusza-kamieniem-ale-krzeslem-tez-moze-byc.webp", caption = "Tony Sheen, punished by his unsavoury actions by Referee Marco Hammers.", source = "M3n747" }
 7220 = { path = "what-remains-of-edith-finchs-chair.webp", caption = "The mangled remains of a heavily-used steel chair.", source = "M3n747" }
 7230 = { path = "lupne-nim-o-ring-i-zwyciestwo-mam-w-sieci.webp", caption = "Tony Sheen about to hit Disco Pablo with a Powerbomb.", source = "M3n747" }
 7240 = { path = "skoro-ja-leze-i-krzeslo-tez-lezy-to-czy-ja-jestem-krzeslem.webp", caption = "Defeated [Disco Pablo](@/w/disco-pablo.md) on the floor, the chair lying behind him.", source = "M3n747" }
-7250 = { path = ".webp", caption = ".", source = "M3n747" }
-7260 = { path = ".webp", caption = ".", source = "M3n747" }
-7270 = { path = ".webp", caption = ".", source = "M3n747" }
-7280 = { path = ".webp", caption = ".", source = "M3n747" }
-7290 = { path = ".webp", caption = ".", source = "M3n747" }
-7300 = { path = ".webp", caption = ".", source = "M3n747" }
-7310 = { path = ".webp", caption = ".", source = "M3n747" }
+7250 = { path = "trudno-potem-ja-bardzo-dokladnie-umyje.webp", caption = "[Referee Marco Hammers](@/w/marco-hammers.md) begrudgingly shakes Tony Sheen's hand. To the left stands [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+7260 = { path = "and-newstety.webp", caption = "[Referee Marco Hammers](@/w/marco-hammers.md) raises the hand of victorious [Tony Sheen](@/w/riverman.md).", source = "M3n747" }
+7270 = { path = "nastepnym-razem-bedzie-moj.webp", caption = "[Max Speed](@/w/max-speed.md) remindins Sheen who his first challenger is going to be.", source = "M3n747" }
 
 8010 = { path = "shadow-w-formacie-a4.webp", caption = "A printed thank-you from Shadow to the fans, left on the seats before the show.", source = "M3n747" }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
