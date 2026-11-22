@@ -14,7 +14,7 @@ Schwarzmann is a Polish wrestler best known for his tenure in [Kombat Pro Wrestl
 
 ## Basic info
 
-* Years active: 2015-2020, 2025
+* Years active: 2015-2020, 2025-present
 * Gimmicks/nicknames:
   - Sawicki {{ org_badge(orgs=['ddw', 'kpw', 'ptw']) }}
   - Schwarzmann {{ org_badge(orgs=['ptw']) }}
@@ -35,16 +35,20 @@ After DDW transformed into [Kombat Pro Wrestling](@/o/kpw.md), Sawicki stayed in
 
 After Sawicki & Rosetti's defeat at [KPW Arena 16: Polowanie](@/e/kpw/2020-02-01-kpw-arena-16.md), Rosetti turned on his long-time tag team partner and attacked him with a chair. This marks Sawicki's last appearance in KPW, as he left the federation to join the [brand-new project](@/o/ptw.md) started by [Arkadiusz Pawłowski](@/w/pan-pawlowski.md).
 
-### Prime Time Wrestling (2021, 2025-)
+### Prime Time Wrestling (2021, 2025-present)
 
 Sawicki was seen at training sessions in [PTW Academy](@/o/ptw-academy.md) back when [Prime Time Wrestling](@/o/ptw.md) was preparing to launch. He also advertised the federation on his social media channels. 
 
 After almost four years of silence it was announced that he would make his PTW debut in the [Gold Rush Rumble 2](@/a/ptw-gold-rush-rumble.md) at [Złoto Dla Zuchwałych](@/e/ptw/2025-06-28-ptw-zloto-dla-zuchwalych.md). Prior to this announcement he was widely believed to have retired from pro wrestling. Although he didn't win the match, he continued making appearances for the federation.
 
+#### Proroctwo
+
+At [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md) Sawicki intervened in a match between [Whiteblade](@/w/whiteblade.md) and [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), when he handcuffed Niedźwiedź's partner [Misiek](@/w/misiek.md) to prevent him from helping Niedźwiedź. This allowed Whiteblade to secure a win which granted Sawicki a place in [Proroctwo](@/tt/proroctwo.md). At [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) Sawicki debuted a new persona, wearing white fur robe, paint covering half of his face and new music (Rammstein's "Engel"). Before the scheduled match, he gave the audience his "confession" declaring that he threw away his weak old self, promised to stop speaking forever and announced the debut of his new, scary and strong name. Sawicki mentioned that [Prorok Lambert](@/w/damian-lambert.md) had been a false prophet, but the prophecy was intact and the end of the world was still coming. Proroctwo managed to win #1 Contendership for [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in a match against [Royal Rebels](@/tt/royal-rebels.md) at [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md). Finally, Whiteblade and Sawicki - now called Schwarzmann - won the Tag Team gold at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) after Proroctwo was aided by returing [Dziedzic](@/w/dziedzic.md) and treacherous adeptka Paula.
+
 ## In wrestling
 
 * Finishers:
-  - _Sawicki Bomb_ (Chokebomb) (2016-2020)
+  - _Sawicki Bomb_ (Chokebomb) (2016-2020; 2025-)
 * Tag Teams and stables:
   - [Sawicki & Rosetti](@/tt/sawicki-rosetti.md) (2017-2020)
   - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
