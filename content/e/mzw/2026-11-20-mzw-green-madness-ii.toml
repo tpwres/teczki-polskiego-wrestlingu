@@ -69,12 +69,12 @@
 5060 = { path = "publika-chyba-nie-docenia-zwyciestwa-sambora.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) presents the victor of the match, [Sambor](@/w/sambor.md).", source = "M3n747" }
 5070 = { path = "pasuje-mu-do-butow-i-w-ogole-dobrze-lezy.webp", caption = "[Sambor](@/w/sambor.md) rubs his victory in Boguś's face. Or back, as it were.", source = "M3n747" }
 
-6010 = { path = ".webp", caption = ".", source = "M3n747" }
-6020 = { path = ".webp", caption = ".", source = "M3n747" }
-6030 = { path = ".webp", caption = ".", source = "M3n747" }
-6040 = { path = ".webp", caption = ".", source = "M3n747" }
-6050 = { path = ".webp", caption = ".", source = "M3n747" }
-6060 = { path = ".webp", caption = ".", source = "M3n747" }
+6010 = { path = "niezly-kawal-chlopa-i-stefan-tez-sie-niezle-prezentuje.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) and Stefan's entrance.", source = "M3n747" }
+6020 = { path = "shawn-michaels-na-miare-naszych-mozliwosci.webp", caption = "Stefan and [Oskar Alexander](@/w/oskar-alexander.md) pose for the audience.", source = "M3n747" }
+6030 = { path = "i-wlasnie-dlatego-nie-nalezy-zostawiac-pustych-miejsc-w-pierwszych-rzedach.webp", caption = "Oskar Alexander sits among the common people.", source = "M3n747" }
+6040 = { path = "ale-szlafroczek-serio-bardzo-spoko.webp", caption = "[Boro](@/w/boro.md) and [Mutant's](@/w/mutant.md) entrance.", source = "M3n747" }
+6050 = { path = "jak-w-tym-nie-ma-podtekstow-to-ja-nie-wiem-gdzie-sa.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) struggles to slip out of [Boro's](@/w/boro.md) hold.", source = "M3n747" }
+6060 = { path = "sedzia-niby-bezstronny-ale-wyraznie-zadowolony-z-wyniku.webp", caption = "[Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) declared winners by [Sędzia Michał](@/w/sedzia-michal.md), while [Oskar Alexander](@/w/oskar-alexander.md) lies defeated.", source = "M3n747" }
 
 
 
