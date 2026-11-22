@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "sambor.webp", caption = "Sambor at [FRPW Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md).", source = "Krzysztof Zych"}
 +++
 
-Sambor is a Polish wrestler best known from his appearances in [Prime Time Wresling](@/o/ptw.md), as well as [PpW Ewenement](@/o/ppw.md). He also wrestled for [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
+Sambor is a Polish wrestler best known from his appearances in [Prime Time Wresling](@/o/ptw.md), [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Legacy of Wrestling](@/o/low.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
@@ -38,6 +38,8 @@ Plans were cut short, however, as both Sambor and Rusałka decided to [leave the
 
 After an absence of five months, Sambor made his return to MZW, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) for the [PpW Championship](@/c/ppw-championship.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), resulting in a defeat by submission.
 
+At [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md) Sambor unsucessfully competed for [LoW European Championship](@/c/low-european-championship.md) against [Boro](@/w/boro.md) and reigning champion [Jakub](@/w/jakub.md).
+
 ### PpW Ewenement (2024-present)
 
 Sambor debuted in [PpW Ewenement](@/o/ppw.md) at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md) where, along with [Aron Wake](@/w/aron-wake.md) and [Marcelito](@/w/marcelito.md) - he lost to [Oskar Alexander](@/w/oskar-alexander.md). At PpW he adopted a more heelish persona, and appeared without his manager - Rusałka.
@@ -48,11 +50,19 @@ At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Sambor took part
 
 #### Rivalry with luchadors and injury
 
-At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Sambor took on Hungarian luchador Wonder Haze in a Singles Match. He managed to win that bout, but after the show it was revealed that their rivalry was not yet finished. He alligned himself with Marcelito to face Wonder Haze and [Sentinel](@/w/sentinel.md) in a Lucha Rules Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). During said match Sambor suffered a serious knee injury, which sidelined him from competing until January 2026, when he returned at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md).
+At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Sambor took on Hungarian luchador Wonder Haze in a Singles Match. He managed to win that bout, but after the show it was revealed that their rivalry was not yet finished. He alligned himself with Marcelito to face Wonder Haze and [Sentinel](@/w/sentinel.md) in a Lucha Rules Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). During said match Sambor suffered a serious knee injury, which sidelined him from competing until January 2026, when he returned at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md). From that point on Sambor started making ocassional appearances for PpW throughout 2026.
 
 ### Legacy of Wrestling (2024-present)
 
 Sambor appeared at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024-12-01-low-1.md), accepting [Chemik's](@/w/chemik.md) Open Challenge for the [KPW OldTown Championship](@/c/kpw-old-town-championship.md), in a match that also included [Dziedzic](@/w/dziedzic.md). At both [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-low-3.md) Legacy shows he was a part of multi-men matches, but he failed to win either of them.
+
+#### Feud with Disco Pablo
+
+At [Open Season](@/e/low/2026-05-24-low-5.md) Sambor entered Four Way Elimination Match where he was eliminated by his ally: [Disco Pablo](@/w/disco-pablo.md). Despite that, when Pablo alongside [Marcelito](@/w/marcelito.md) were set up to fight [Biuro Prasowe](@/tt/biuro-prasowe.md) at [Enter The Dragon](@/e/low/2026-07-10-low-6.md) Sambor helped the duo when they were double crossed by [Bartosz Plata](@/w/plata.md). Despite Sambor's help, the trio lost against Biuro Prasowe. After the match Sambor blamed Pablo for this defeat and his recent series of losses, turning on his friend. As a result, Pablo demanded a match against the Slavic warrior to which he agreed, but on the condition that the choice of the stipulation will be his. Pablo picked Extreme Rules Match, and it took place at [What's in the Box?](@/e/low/2026-10-24-low-7.md), where Sambor defeated his former friend.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Sambor made his debut for [FRPW](@/o/frpw.md) at federation's [first dojo showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he teamed up with [Marcelito](@/w/marcelito.md) to face [Bad Trip](@/w/bad-trip.md). Later on, he also made appearance at FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he teamed up with Sara Shade to face [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md).
 
 ## International wrestling appearances 
 
@@ -66,8 +76,13 @@ From 2024 onwards Sambor started making appearances at the European independent 
 * Managers:
   - Rusałka (2023-2025)
 * Entrance music:
+  - "The End of All We Know" by Bleed From Within
+    {{ org_badge(orgs=['mzw', 'low', 'ppw']) }} (2026-) <br>
+    {{ music(yt='mrtizXF1dpM')}}
+    {{ music(spot='68ae1LwQdpHhYwPrz7rTdl')}}
+    {{ music(apple='1502459061?i=1502459265')}}
   - "Wojownik" by Żywiołak
-    {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low']) }} (2023-) <br>
+    {{ org_badge(orgs=['ptw', 'mzw', 'ppw', 'low', 'frpw']) }} (2023-2026) <br>
     {{ music(yt='uF-arRQVJiI')}}
     {{ music(spot='5h3apYEHb3oMccznGIhO42')}}
     {{ music(apple='640336030?i=640336040')}}
@@ -79,8 +94,8 @@ From 2024 onwards Sambor started making appearances at the European independent 
 
 ## Internet presence
 
-* [Sambor](https://www.facebook.com/profile.php?id=61554496142568) on Facebook
-* [sambor_wrestler](https://www.instagram.com/sambor_wrestler) on Instagram
+* [Sambor's Facebook profile](https://www.facebook.com/profile.php?id=61554496142568)
+* [Sambor's Instagram profile](https://www.instagram.com/sambor_wrestler)
 
 ## References
 
