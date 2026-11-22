@@ -58,6 +58,10 @@ Thanks to the pandemic-induced break in MZW's schedule, Olgierd was able to retu
 The former Hades joined the newly created [Prime Time Wrestling](@/o/ptw.md) soon after leaving MZW, and continued his training with them.
 He debuted at [PTW Underground 13](@/e/ptw/2023-03-26-ptw-underground-13.md), facing the veteran [Robert Star](@/w/robert-star.md), adopting the gimmick of Olgierd, a hard-headed hooligan ready to fight anybody at a moment's notice.
 
+#### Run as El Ogre
+
+Before making an official debut, Olgierd debuted as masked luchador named "El Ogre". It took place at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md), where he took part in PTW Contract Battle Royale. Even after his debut in unmasked hooligan persona, Olgierd made a few appearances as masked babyface luchador, mostly as an enhancement talent.
+
 #### Formation of Legia Łysych
 
 This new character was quickly paired with [Marco Hammers](@/w/marco-hammers.md), and a valet/kayfabe girlfriend Karyna, into a team named "Legia Łysych" (roughly _Legion of the Bald_, but heavily leaning into Polish football fan scene - Legia is the name of Warsaw's football team).
