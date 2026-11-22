@@ -62,7 +62,7 @@ At [Open Season](@/e/low/2026-05-24-low-5.md) Sambor entered Four Way Eliminatio
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Sambor made his debut for [FRPW](@/o/frpw.md) at federation's [first dojo showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he teamed up with [Marcelito](@/w/marcelito.md) to face [Bad Trip](@/w/bad-trip.md). Later on, he also made appearance at FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he teamed up with Sara Shade to face [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md).
+Sambor made his debut for [FRPW](@/o/frpw.md) at federation's [first dojo showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he teamed up with [Marcelito](@/w/marcelito.md) to face [Bad Trip](@/tt/bad-trip.md). Later on, he also made appearance at FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he teamed up with Sara Shade to face [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md).
 
 ## International wrestling appearances 
 
