@@ -32,6 +32,10 @@ After training with wXw for a few years, Damian moved to [Prime Time Wrestling](
 
 Adler quietly [left PTW](@/a/ptw-exits.md) on 6.07.2026.
 
+### PpW Ewenement Wrestling
+
+Adler made a surprise debut for [PpW](@/o/ppw.md) in November 2026 at [Skok Na Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md), where he took part in a Four-Way Match, but lost.
+
 ## In wrestling
 
 * Signature move:

@@ -14,6 +14,7 @@ has_video = false
 +++
 
 Skok Na Kraków (_The Kraków Heist_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), their first in Kraków. It was held in {{ map_pin(v="Stk47 Warehouse") }}Stk47 Warehouse, a self-described "techno warehouse", music venue in the Zabłocie district.
+
 Based on the "heist" naming, the official graphics resembled covers from [Grand Theft Auto][gta] series, including the iconic Pricedown font, and elements of the game UI: a weapon icon (foldable chair) in the top left corner, date and wanted level stars in the top right. 
 
 ## Build-up
@@ -47,7 +48,7 @@ Based on the "heist" naming, the official graphics resembled covers from [Grand 
   - s: 'Zmowa Prospects Handicap Tag Team Match'
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Mister Z](@/w/mister-z.md)'
-  - g: Post-match beatdown, Zet chooses stakes for their upcoming 1v1 match.
+  - g: Post-match beatdown, Zet chooses stakes for their upcoming 1-vs-1 match.
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '["Fox" Jakub](@/w/jakub.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
@@ -62,13 +63,13 @@ Based on the "heist" naming, the official graphics resembled covers from [Grand 
 
 ### Highlights
 
-* Max and Goblin pinned each other by falling down next to one another, one arm on their opponent's chest. The referee did a normal three-count, and declared a tie, confirmed by ring announcer Michael HT. After the match, both unhappy, they tried to resolve the situation with a quick round of rock-paper-scissors, but both picked rock to tie again.
-* For Damian Adler this was an unannounced debut in PpW. The crowd was initially surprised and unfriendly, chanting ["Kim ty jesteś"](@/a/polish-wrestling-chants.md#intros) (_Who are you?_). Adler previously worked with [PTW](@/o/ptw.md) until July 2026.
-* In the four-way match, a recurring theme was Bartosz Plata being unable to re-enter the ring, always bumped or kicked at the moment of entry.
-* All three members of Rodzina entered as champions: Vic & Oskar the [Tag Team Champions](@/c/ppw-tag-team-championship.md), and Robert with his Danish DPW Heavyweight Championship.
-* The six-man Dochodzeniówka match started with Boro vs Oskar. Next to enter was Robert Star, followed by Johnny Blade. Finally, Vic Golden and Biesiad last, which was also when the referee stepped into the ring and the match properly began.
-* Olgierd's opponents walked out at the same time, as a single team rather than one by one in a Gauntlet, and Olgierd fought all three working as a tag team. Petro and Oskar wore their usual gear, while Sambor used his street clothes rather than the Slavic Warrior attire, similar to his match against Disco Pablo [the month before](@/e/low/2026-10-24-low-7.md), also in Kraków, his hometown.
-* Olgierd was able to win thanks to an intervention by Rozalia, who attacked Sambor and ran away backstage, followed by him. This let the Hooligan pin Petro for a three-count.
+* [Max](@/w/max-speed.md) and [Goblin](@/w/goblin.md) pinned each other by falling down next to one another, one arm on their opponent's chest. The referee did a normal three-count and declared a tie, confirmed by ring announcer [Michael HT](@/w/michael-ht.md). After the match, both unhappy, they tried to resolve the situation with a quick round of rock-paper-scissors, but both picked rock to tie again.
+* For [Damian Adler](@/w/damian-adler.md) this was an unannounced debut in PpW. The crowd was initially surprised and unfriendly, chanting ["Kim ty jesteś"](@/a/polish-wrestling-chants.md#intros) (_Who are you?_). Adler had previously worked for [PTW](@/o/ptw.md) until July 2026.
+* In the four-way match, a running joke was [Bartosz Plata](@/w/plata.md) being unable to re-enter the ring, always bumped or kicked at the moment of entry.
+* All three members of [Rodzina](@/tt/rodzina.md) entered as champions:[Vic](@/w/vic-golden.md) & [Oskar](@/w/oskar-alexander.md) the [Tag Team Champions](@/c/ppw-tag-team-championship.md), and [Robert](@/w/robert-star.md) with his Danish DPW Heavyweight Championship.
+* The six-man Dochodzeniówka match started with [Boro](@/w/boro.md) vs Oskar. Next to enter was Robert Star, followed by [Johnny Blade](@/w/johnny-blade.md). Finally, Vic Golden and [Biesiad Strong](@/w/biesiad.md) last, which was also when the referee stepped into the ring and the match properly began.
+* [Olgierd's](@/w/olgierd.md) opponents walked out at the same time, as a single team rather than one by one as expected from a Gauntlet, and Olgierd fought all three working as a tag team. [Petro](@/w/bart-petro.md) and Oskar wore their usual gear, while [Sambor](@/w/sambor.md) used his street clothes rather than the Slavic Warrior attire, similar to his match against [Disco Pablo](@/w/disco-pablo.md) [the month before](@/e/low/2026-10-24-low-7.md) - also in Kraków, his hometown.
+* Olgierd was able to win thanks to an intervention by [Rozalia](@/w/rozalia-nyx.md), who attacked Sambor and ran away backstage, followed by him. This let the Hooligan pin Petro for a three-count.
 
 ## References
 
