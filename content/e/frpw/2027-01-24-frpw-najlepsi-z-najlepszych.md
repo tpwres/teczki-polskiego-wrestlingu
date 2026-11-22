@@ -17,9 +17,16 @@ Najlepsi Z Najlepszych (_Best of the Best_) is an upcoming show by [Fundacja Roz
 
 ## Build-up
 
-* TBD
+* The first entrant in the Najlepsi Z Najlepszych tournament is [Emil Völler](@/w/emil-voeller.md), revealed on 22.11.2026.
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Emil Völler](@/w/emil-voeller.md)'
+  - '???'
+  - s: Najlepsi Z Najlepszych Tournament
+    nc: upcoming
+{% end %}
 
 ### Highlights
 
