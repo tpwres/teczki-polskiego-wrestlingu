@@ -24,34 +24,32 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 * On 18.11.2026 PpW announced a Dochodzeniówka Match between [The Hardcors](@/tt/the-hardcors.md) ([Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)) + [Boro](@/w/boro.md), and [Rodzina](@/tt/rodzina.md) ([Robert Star](@/w/robert-star.md), [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md)). The stipulation, roughly translated to _Join-in Match_, is a 3-vs-3 fight that starts with two people in the ring, who are then asymmetrically joined by the remaining wrestlers from each team, one at a time, at regular intervals.
 * On 19.11.2026 PpW released a GTA-themed [Instagram reel][tt-mission] featuring Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md), who both receive a mission popup. Wandering through the area, they encounter a mission start marker. Walking into it they spawn [Gloria](@/w/gloria-g-szek.md), who then confronts them - it seems all of them have a mission to "win the Tag Team Match in Kraków". When Agatka & Julia point out she has no partner, Gloria finds a random car, and performs the hijack action, pulling out [Monster High Suzie](@/w/monster-high-suzie.md). The two pairs were soon confirmed for a Tag Team Match on Saturday.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - nc: Double Pin Draw
+- - '[Bartosz Plata](@/w/plata.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - '[Damian Adler](@/w/damian-adler.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - s: Four-Way Match
+- - '[Gloria](@/w/gloria-g-szek.md) & [Monster High Suzie](@/w/monster-high-suzie.md)'
+  - 'Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md)'
+  - s: Tag Team Match
+- - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md) + [Boro](@/w/boro.md)'
+  - s: 'Dochodzeniówka Match'
+- - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
+  - '[Sambor](@/w/sambor.md) & [Bart Petro](@/w/bart-petro.md) & [Oskar Haller](@/w/oskar-haller.md)'
+  - s: 'Zmowa Prospects Handicap Tag Team Match'
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
   - '[Jakub](@/w/jakub.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
 - - '[Jebany Kurwa Mutant](@/w/mutant.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: Ultraviolent Match
-    nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Goblin](@/w/goblin.md)'
-  - nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)'
-  - '???'
-  - '???'
-  - '???'
-  - s: 'Zmowa Prospects Gauntlet Match'
-    nc: upcoming
-- - 'Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Gloria](@/w/gloria-g-szek.md) & [Monster High Suzie](@/w/monster-high-suzie.md)'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[The Hardcors](@/tt/the-hardcors.md): [Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md) + [Boro](@/w/boro.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - s: 'Dochodzeniówka Match'
-    nc: upcoming
 {% end %}
 
 ### Highlights
