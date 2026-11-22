@@ -10,7 +10,7 @@ venue = ["2kola"]
 city = "Warszawa"
 toclevel = 2
 has_video = true
-collapse_gallery = false
+collapse_gallery = true
 [extra.gallery]
 +++
 
