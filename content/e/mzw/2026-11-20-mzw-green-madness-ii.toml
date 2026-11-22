@@ -95,11 +95,11 @@
 7170 = { path = "alegoria-procesu-zawieszajacego-windowsy.webp", caption = "Tony Sheen chokes [Disco Pablo](@/w/disco-pablo.md) with the belt.", source = "M3n747" }
 7180 = { path = "dzien-dobry-sprzedaje-skladane-krzesla.webp", caption = "Tony Sheen argues with [Referee Marco Hammers](@/w/marco-hammers.md) for siding with Disco Pablo, who waits with a steel chair in hands.", source = "M3n747" }
 7190 = { path = "plaf.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) throws the chair at Tony Sheen.", source = "M3n747" }
-7200 = { path = ".webp", caption = ".", source = "M3n747" }
-7210 = { path = ".webp", caption = ".", source = "M3n747" }
-7220 = { path = ".webp", caption = ".", source = "M3n747" }
-7230 = { path = ".webp", caption = ".", source = "M3n747" }
-7240 = { path = ".webp", caption = ".", source = "M3n747" }
+7200 = { path = "biuro-platowe.webp", caption = "[Bartosz Plata](@/w/plata.md) arrives to help [Tony Sheen](@/w/riverman.md), but Marco Hammers will have none of that. In the background [Disco Pablo](@/w/disco-pablo.md) reaches for the kendo stick.", source = "M3n747" }
+7210 = { path = "ryby-sie-zwykle-oglusza-kamieniem-ale-krzeslem-tez-moze-byc.webp", caption = "Tony Sheen, punished by his unsavoury actions by Marco Hammers.", source = "M3n747" }
+7220 = { path = "what-remains-of-edith-finchs-chair.webp", caption = "The mangled remains of a heavily-used steel chair.", source = "M3n747" }
+7230 = { path = "lupne-nim-o-ring-i-zwyciestwo-mam-w-sieci.webp", caption = "Tony Sheen about to hit Disco Pablo with a Powerbomb.", source = "M3n747" }
+7240 = { path = "skoro-ja-leze-i-krzeslo-tez-lezy-to-czy-ja-jestem-krzeslem.webp", caption = "Defeated [Disco Pablo](@/w/disco-pablo.md) on the floor, the chair lying behind him.", source = "M3n747" }
 7250 = { path = ".webp", caption = ".", source = "M3n747" }
 7260 = { path = ".webp", caption = ".", source = "M3n747" }
 7270 = { path = ".webp", caption = ".", source = "M3n747" }
@@ -107,12 +107,6 @@
 7290 = { path = ".webp", caption = ".", source = "M3n747" }
 7300 = { path = ".webp", caption = ".", source = "M3n747" }
 7310 = { path = ".webp", caption = ".", source = "M3n747" }
-7320 = { path = ".webp", caption = ".", source = "M3n747" }
-7330 = { path = ".webp", caption = ".", source = "M3n747" }
-7340 = { path = ".webp", caption = ".", source = "M3n747" }
-7350 = { path = ".webp", caption = ".", source = "M3n747" }
-7360 = { path = ".webp", caption = ".", source = "M3n747" }
-7370 = { path = ".webp", caption = ".", source = "M3n747" }
 
 8010 = { path = "shadow-w-formacie-a4.webp", caption = "A printed thank-you from Shadow to the fans, left on the seats before the show.", source = "M3n747" }
 
