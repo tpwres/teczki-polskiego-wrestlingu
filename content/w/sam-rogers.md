@@ -8,7 +8,7 @@ toclevel = 2
 country = ["IT"]
 +++
 
-Sam Rogers, also known as Sam Della Vale, is an Italian wrestler best known for a few appearances in [Prime Time Wrestling](@/o/ptw.md).
+Sam Rogers, also known as Sam Della Vale, is an Italian wrestler best known for a few appearances in [Prime Time Wrestling](@/o/ptw.md), [Legacy of Wrestling](@/o/low.md) and [Kombat Pro Wrestling](@/o/kpw.md).
 
 ## Basic info
 
@@ -40,7 +40,7 @@ Sam debuted in [Kombat Pro Wrestling](@/o/kpw.md) at [Arena 35](@/e/kpw/2026-11-
   - Clothesline From Hell (2023-2024)
 * Entrance music:
   - "Bello e Impossibile" (Remix) by Gianna Nannini
-    {{ org_badge(orgs=['ptw']) }} (2023-2024) <br>
+    {{ org_badge(orgs=['ptw', 'low']) }} (2023-) <br>
     {{ music(yt='03P23dbatok')}}
     {{ music(spot='3dZHWv3IsAQLzAr7FLJoJA')}}
     {{ music(apple='340120309?i=340120331')}}
