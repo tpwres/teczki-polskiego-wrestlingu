@@ -57,13 +57,34 @@
 3190 = { path = "przytulasek.webp", caption = "Shadow hugs a fan.", source = "M3n747" }
 3200 = { path = "trzeba-wiedziec-kiedy-ze-sceny-zejsc-niepokonanym.webp", caption = "[Shadow](@/w/shadow.md) makes his final bow.", source = "M3n747" }
 
+3980 = { path = "mozna-by-zlosliwie-uznac-to-zdjecie-za-subtelna-wrzute-ze-strony-adiego.webp", caption = "A photo of [Lider](@/w/lider.md), [Adrian Zgórski](@/w/adrian-zgorski.md) and [Shadow](@/w/shadow.md) posing for another photo during the break.", source = "M3n747" }
+3990 = { path = "adi-zawyza-poziom.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md)	announces the nearing end of the break.", source = "M3n747" }
+
+4010 = { path = "wtowarzystwiebor.webp", caption = "[Sambor](@/w/sambor.md), announced by [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+4020 = { path = "boguslaw.webp", caption = "[Boguś](@/w/bogus.md), with [Sambor](@/w/sambor.md) and Adrian Zgórski in the background.", source = "M3n747" }
+4030 = { path = "miesnie-miesniami-ale-przewage-ma-ten-z-krotkimi-wlosami.webp", caption = "Boguś and Sambor lock up.", source = "M3n747" }
+4040 = { path = "zupelnie-jak-kano-vs-sonya-w-mk-1995.webp", caption = "Sambor overpowers Boguś.", source = "M3n747" }
+4050 = { path = "sambor-zje-bogusia.webp", caption = "[Sambor](@/w/sambor.md) stalks [Boguś](@/w/bogus.md).", source = "M3n747" }
+4060 = { path = "publika-chyba-nie-docenia-zwyciestwa-sambora.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) presents the victor of the match, [Sambor](@/w/sambor.md).", source = "M3n747" }
+4070 = { path = "pasuje-mu-do-butow-i-w-ogole-dobrze-lezy.webp", caption = "[Sambor](@/w/sambor.md) rubs his victory in Boguś's face. Or back, as it were.", source = "M3n747" }
 
 
 
 
 
 
-4010 = { path = ".webp", caption = ".", source = "M3n747" }
 5010 = { path = ".webp", caption = ".", source = "M3n747" }
 6010 = { path = ".webp", caption = ".", source = "M3n747" }
 7010 = { path = ".webp", caption = ".", source = "M3n747" }
+
+
+
+
+
+
+
+
+
+
+
+
