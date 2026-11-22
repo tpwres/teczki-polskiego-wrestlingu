@@ -50,6 +50,10 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 - - '[Jebany Kurwa Mutant](@/w/mutant.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: Ultraviolent Match
+- credits:
+    Host, Ring announcer: "[Michael HT](@/w/michael-ht.md)"
+    Referees: "[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)"
+    Commentary: "[Istociarz](@/w/istociarz.md)"
 {% end %}
 
 ### Highlights
