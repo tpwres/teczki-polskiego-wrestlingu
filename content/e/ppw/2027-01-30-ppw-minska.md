@@ -23,13 +23,16 @@ PpW @ Mińska (provisional title) is an upcoming wrestling event by [PpW Eweneme
 {% card(predicted=true) %}
 - - '[Olgierd](@/w/olgierd.md)'
   - '[Mister Z](@/w/mister-z.md)'
+  - nc: upcoming
 - - ???
   - ???
   - ???
   - ???
   - s: Ustawka Match
+    nc: upcoming
 - - '[Goblin](@/w/goblin.md)'
   - '[Max Speed](@/w/max-speed.md)'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
