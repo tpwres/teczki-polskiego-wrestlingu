@@ -13,7 +13,8 @@ has_video = false
 [extra.gallery]
 +++
 
-Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in {{ map_pin(v="Stk47 Warehouse") }}Stk47 Warehouse in Kraków. This will be the first PpW show to be held in the city. Based on the "heist" naming, the official graphics are made to resemble covers from [Grand Theft Auto][gta] series, including the iconic Pricedown font, and elements of the game UI: a weapon icon (foldable chair) in the top left corner, date and wanted level stars in the top right.
+Skok Na Kraków (_The Kraków Heist_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), their first in Kraków. It was held in {{ map_pin(v="Stk47 Warehouse") }}Stk47 Warehouse, a self-described "techno warehouse", music venue in the Zabłocie district.
+Based on the "heist" naming, the official graphics resembled covers from [Grand Theft Auto][gta] series, including the iconic Pricedown font, and elements of the game UI: a weapon icon (foldable chair) in the top left corner, date and wanted level stars in the top right. 
 
 ## Build-up
 
@@ -29,7 +30,7 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 {% card() %}
 - - '[Max Speed](@/w/max-speed.md)'
   - '[Goblin](@/w/goblin.md)'
-  - nc: Double Pin Draw
+  - nc: Double Pinfall
 - - '[Bartosz Plata](@/w/plata.md)'
   - '[Marcelito](@/w/marcelito.md)'
   - '[Damian Adler](@/w/damian-adler.md)'
@@ -44,8 +45,11 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 - - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
   - '[Sambor](@/w/sambor.md) & [Bart Petro](@/w/bart-petro.md) & [Oskar Haller](@/w/oskar-haller.md)'
   - s: 'Zmowa Prospects Handicap Tag Team Match'
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - g: Post-match beatdown, Zet chooses stakes for their upcoming 1v1 match.
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
-  - '[Jakub](@/w/jakub.md)'
+  - '["Fox" Jakub](@/w/jakub.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
 - - '[Jebany Kurwa Mutant](@/w/mutant.md)'
   - '[Isnorr](@/w/isnorr.md)'
@@ -58,12 +62,20 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 
 ### Highlights
 
-* TBD
+* Max and Goblin pinned each other by falling down next to one another, one arm on their opponent's chest. The referee did a normal three-count, and declared a tie, confirmed by ring announcer Michael HT. After the match, both unhappy, they tried to resolve the situation with a quick round of rock-paper-scissors, but both picked rock to tie again.
+* For Damian Adler this was an unannounced debut in PpW. The crowd was initially surprised and unfriendly, chanting ["Kim ty jesteś"](@/a/polish-wrestling-chants.md#intros) (_Who are you?_). Adler previously worked with [PTW](@/o/ptw.md) until July 2026.
+* In the four-way match, a recurring theme was Bartosz Plata being unable to re-enter the ring, always bumped or kicked at the moment of entry.
+* All three members of Rodzina entered as champions: Vic & Oskar the [Tag Team Champions](@/c/ppw-tag-team-championship.md), and Robert with his Danish DPW Heavyweight Championship.
+* The six-man Dochodzeniówka match started with Boro vs Oskar. Next to enter was Robert Star, followed by Johnny Blade. Finally, Vic Golden and Biesiad last, which was also when the referee stepped into the ring and the match properly began.
+* Olgierd's opponents walked out at the same time, as a single team rather than one by one in a Gauntlet, and Olgierd fought all three working as a tag team. Petro and Oskar wore their usual gear, while Sambor used his street clothes rather than the Slavic Warrior attire, similar to his match against Disco Pablo [the month before](@/e/low/2026-10-24-low-7.md), also in Kraków, his hometown.
+* Olgierd was able to win thanks to an intervention by Rozalia, who attacked Sambor and ran away backstage, followed by him. This let the Hooligan pin Petro for a three-count.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465061)
+* [Instagram reel with the results](https://www.instagram.com/ppw_hw/reel/DgDWMJzKUG7/)
 * [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
+* [STK47's homepage](https://www.stk47.com/)
 
 [kondzia-podarli]: https://www.facebook.com/reel/1598933008914969
 [jk-mutant]: https://www.facebook.com/reel/3281177715386075
