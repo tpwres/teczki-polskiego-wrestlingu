@@ -16,9 +16,21 @@ PpW @ Mińska (provisional title) is an upcoming wrestling event by [PpW Eweneme
 
 ## Build-up
 
-* TBD
+* The event was announced during [Skok Na Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md), both in challenges issued by competitors, and directly by host [Michael HT](@/w/michael-ht.md).
 
-{{ skip_card() }}
+## Predicted card
+
+{% card(predicted=true) %}
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+- - ???
+  - ???
+  - ???
+  - ???
+  - s: Ustawka Match
+- - '[Goblin](@/w/goblin.md)'
+  - '[Max Speed](@/w/max-speed.md)'
+{% end %}
 
 ### Highlights
 
