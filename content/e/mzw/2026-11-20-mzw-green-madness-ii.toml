@@ -46,34 +46,40 @@
 3080 = { path = "polezymy-odpoczniemy-pomyslimy-o-zyciu.webp", caption = "[Shadow](@/w/shadow.md) and [Lider](@/w/lider.md) share a mattress outside the ring.", source = "M3n747" }
 3090 = { path = "jeszcze-raz-dla-pewnosci.webp", caption = "Shadow hits Lider with another Moonsault, for good measure.", source = "M3n747" }
 3100 = { path = "bedzie-trzy.webp", caption = "[Shadow](@/w/shadow.md) pins Lider, as [Sędzia Seweryn](@/w/sedzia-seweryn.md) is about to count to three.", source = "M3n747" }
-3110 = { path = "zmeczony-po-meczu.webp", caption = "Victorious [Shadow](@/w/shadow.md) addresses the audience.", source = "M3n747" }
-3120 = { path = "shadow-dziekuje-fanom.webp", caption = "Shadow bows before the fans…", source = "M3n747" }
-3130 = { path = "shadow-dziekuje-kolegom.webp", caption = "…and before fellow wrestlers.", source = "M3n747" }
-3140 = { path = "koledzy-dziekuja-shadowowi.webp", caption = "The entire locker room came out to give Shadow a round of applause.", source = "M3n747" }
-3150 = { path = "niby-sie-nie-lubili-a-sie-lubia.webp", caption = "Shadow and Lider hug.", source = "M3n747" }
-3160 = { path = "emocje-wypisane-na-masce.webp", caption = "[Lider](@/w/lider.md) says thank you to [Shadow](@/w/shadow.md).", source = "M3n747" }
-3170 = { path = "tutaj-mam-uszy.webp", caption = "Per [Lider's](@/w/lider.md) request, everybody makes a noise [Shadow](@/w/shadow.md) isn't ever going to forget.", source = "M3n747" }
-3180 = { path = "pozegnanie-z-ringiem.webp", caption = "[Shadow](@/w/shadow.md) says goodbye to the ring.", source = "M3n747" }
-3190 = { path = "przytulasek.webp", caption = "Shadow hugs a fan.", source = "M3n747" }
-3200 = { path = "trzeba-wiedziec-kiedy-ze-sceny-zejsc-niepokonanym.webp", caption = "[Shadow](@/w/shadow.md) makes his final bow.", source = "M3n747" }
 
-3980 = { path = "mozna-by-zlosliwie-uznac-to-zdjecie-za-subtelna-wrzute-ze-strony-adiego.webp", caption = "A photo of [Lider](@/w/lider.md), [Adrian Zgórski](@/w/adrian-zgorski.md) and [Shadow](@/w/shadow.md) posing for another photo during the break.", source = "M3n747" }
-3990 = { path = "adi-zawyza-poziom.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md)	announces the nearing end of the break.", source = "M3n747" }
+4010 = { path = "zmeczony-po-meczu.webp", caption = "Victorious [Shadow](@/w/shadow.md) addresses the audience.", source = "M3n747" }
+4020 = { path = "shadow-dziekuje-fanom.webp", caption = "Shadow bows before the fans…", source = "M3n747" }
+4030 = { path = "shadow-dziekuje-kolegom.webp", caption = "…and before fellow wrestlers.", source = "M3n747" }
+4040 = { path = "koledzy-dziekuja-shadowowi.webp", caption = "The entire locker room came out to give Shadow a round of applause.", source = "M3n747" }
+4050 = { path = "niby-sie-nie-lubili-a-sie-lubia.webp", caption = "Shadow and Lider hug.", source = "M3n747" }
+4060 = { path = "emocje-wypisane-na-masce.webp", caption = "[Lider](@/w/lider.md) says thank you to [Shadow](@/w/shadow.md).", source = "M3n747" }
+4070 = { path = "tutaj-mam-uszy.webp", caption = "Per [Lider's](@/w/lider.md) request, everybody makes a noise [Shadow](@/w/shadow.md) isn't ever going to forget.", source = "M3n747" }
+4080 = { path = "pozegnanie-z-ringiem.webp", caption = "[Shadow](@/w/shadow.md) says goodbye to the ring.", source = "M3n747" }
+4090 = { path = "przytulasek.webp", caption = "Shadow hugs a fan.", source = "M3n747" }
+4100 = { path = "trzeba-wiedziec-kiedy-ze-sceny-zejsc-niepokonanym.webp", caption = "[Shadow](@/w/shadow.md) makes his final bow.", source = "M3n747" }
 
-4010 = { path = "wtowarzystwiebor.webp", caption = "[Sambor](@/w/sambor.md), announced by [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
-4020 = { path = "boguslaw.webp", caption = "[Boguś](@/w/bogus.md), with [Sambor](@/w/sambor.md) and Adrian Zgórski in the background.", source = "M3n747" }
-4030 = { path = "miesnie-miesniami-ale-przewage-ma-ten-z-krotkimi-wlosami.webp", caption = "Boguś and Sambor lock up.", source = "M3n747" }
-4040 = { path = "zupelnie-jak-kano-vs-sonya-w-mk-1995.webp", caption = "Sambor overpowers Boguś.", source = "M3n747" }
-4050 = { path = "sambor-zje-bogusia.webp", caption = "[Sambor](@/w/sambor.md) stalks [Boguś](@/w/bogus.md).", source = "M3n747" }
-4060 = { path = "publika-chyba-nie-docenia-zwyciestwa-sambora.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) presents the victor of the match, [Sambor](@/w/sambor.md).", source = "M3n747" }
-4070 = { path = "pasuje-mu-do-butow-i-w-ogole-dobrze-lezy.webp", caption = "[Sambor](@/w/sambor.md) rubs his victory in Boguś's face. Or back, as it were.", source = "M3n747" }
+4980 = { path = "mozna-by-zlosliwie-uznac-to-zdjecie-za-subtelna-wrzute-ze-strony-adiego.webp", caption = "A photo of [Lider](@/w/lider.md), [Adrian Zgórski](@/w/adrian-zgorski.md) and [Shadow](@/w/shadow.md) posing for another photo during the break.", source = "M3n747" }
+4990 = { path = "adi-zawyza-poziom.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md)	announces the nearing end of the break.", source = "M3n747" }
+
+5010 = { path = "wtowarzystwiebor.webp", caption = "[Sambor](@/w/sambor.md), announced by [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+5020 = { path = "boguslaw.webp", caption = "[Boguś](@/w/bogus.md), with [Sambor](@/w/sambor.md) and Adrian Zgórski in the background.", source = "M3n747" }
+5030 = { path = "miesnie-miesniami-ale-przewage-ma-ten-z-krotkimi-wlosami.webp", caption = "Boguś and Sambor lock up.", source = "M3n747" }
+5040 = { path = "zupelnie-jak-kano-vs-sonya-w-mk-1995.webp", caption = "Sambor overpowers Boguś.", source = "M3n747" }
+5050 = { path = "sambor-zje-bogusia.webp", caption = "[Sambor](@/w/sambor.md) stalks [Boguś](@/w/bogus.md).", source = "M3n747" }
+5060 = { path = "publika-chyba-nie-docenia-zwyciestwa-sambora.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) presents the victor of the match, [Sambor](@/w/sambor.md).", source = "M3n747" }
+5070 = { path = "pasuje-mu-do-butow-i-w-ogole-dobrze-lezy.webp", caption = "[Sambor](@/w/sambor.md) rubs his victory in Boguś's face. Or back, as it were.", source = "M3n747" }
+
+6010 = { path = ".webp", caption = ".", source = "M3n747" }
+6020 = { path = ".webp", caption = ".", source = "M3n747" }
+6030 = { path = ".webp", caption = ".", source = "M3n747" }
+6040 = { path = ".webp", caption = ".", source = "M3n747" }
+6050 = { path = ".webp", caption = ".", source = "M3n747" }
+6060 = { path = ".webp", caption = ".", source = "M3n747" }
 
 
 
 
 
-
-5010 = { path = ".webp", caption = ".", source = "M3n747" }
 6010 = { path = ".webp", caption = ".", source = "M3n747" }
 7010 = { path = ".webp", caption = ".", source = "M3n747" }
 
