@@ -56,7 +56,8 @@ has_video = false
     s: 'Do trzech razy sztuka'
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
-    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
+    Referees: '???'
+    Special Guest Referee: '???'
     Commentary: '[Krystian "Resivny" Smoleń](@/w/resivny.md), [Alex Brave](@/w/alex-brave.md)'
     Chairman: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 {% end %}
