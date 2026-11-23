@@ -25,7 +25,7 @@ Sędzia Alan debuted on [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), where he
 
 ### Legacy of Wrestling (2026-present)
 
-Sędzia Alan made his first appearance for [Legacy of Wrestling](@/o/low.md) at [What's in the Box?](@/e/low/2026-10-24-low-7.md), where he shared his duties with [Sędzia Sewi](@/w/referee-seweryn.md).
+Sędzia Alan made his first appearance for [Legacy of Wrestling](@/o/low.md) at [What's in the Box?](@/e/low/2026-10-24-low-7.md), where he shared his duties with [Sędzia Sewi](@/w/sedzia-seweryn.md).
 
 ## Internet presence
 
