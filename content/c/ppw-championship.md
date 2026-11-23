@@ -340,12 +340,11 @@ Immediately after Biesiad won the title match at Ledwo Legalne IV, Mister Z gran
     en: '[PpW Brutality](@/e/ppw/2026-10-10-ppw-brutality.md)'
     ed: 2026-10-10
 - - 'Gabriel Queen(c)'
-  - '[Jakub](@/w/jakub.md)'
+  - '["Fox" Jakub](@/w/jakub.md)'
   - s: Singles Match
     en: '[PpW: Skok na Kraków](@/e/ppw/2026-11-21-ppw-skok-na-krakow.md)'
     ed: 2026-11-21
-    nc: upcoming
-- - '??? (c)'
+- - 'Gabriel Queen(c)'
   - '[Laurance Roman](@/w/lee-rogers.md)'
   - s: Singles Match
     en: '[PpW: Duch Świąt, Smak Krwi 2](@/e/ppw/2026-12-05-ppw-duch-swiat-smak-krwi-2.md)'

@@ -13,7 +13,9 @@ has_video = false
 [extra.gallery]
 +++
 
-Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wrestling](@/o/ppw.md), set to take place in {{ map_pin(v="Stk47 Warehouse") }}Stk47 Warehouse in Kraków. This will be the first PpW show to be held in the city. Based on the "heist" naming, the official graphics are made to resemble covers from [Grand Theft Auto][gta] series, including the iconic Pricedown font, and elements of the game UI: a weapon icon (foldable chair) in the top left corner, date and wanted level stars in the top right.
+Skok Na Kraków (_The Kraków Heist_) was an event by [PpW Ewenement Wrestling](@/o/ppw.md), their first in Kraków. It was held in {{ map_pin(v="Stk47 Warehouse") }}Stk47 Warehouse, a self-described "techno warehouse", music venue in the Zabłocie district.
+
+Based on the "heist" naming, the official graphics resembled covers from [Grand Theft Auto][gta] series, including the iconic Pricedown font, and elements of the game UI: a weapon icon (foldable chair) in the top left corner, date and wanted level stars in the top right. 
 
 ## Build-up
 
@@ -24,44 +26,57 @@ Skok Na Kraków (_The Kraków Heist_) is an upcoming event by [PpW Ewenement Wre
 * On 18.11.2026 PpW announced a Dochodzeniówka Match between [The Hardcors](@/tt/the-hardcors.md) ([Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md)) + [Boro](@/w/boro.md), and [Rodzina](@/tt/rodzina.md) ([Robert Star](@/w/robert-star.md), [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md)). The stipulation, roughly translated to _Join-in Match_, is a 3-vs-3 fight that starts with two people in the ring, who are then asymmetrically joined by the remaining wrestlers from each team, one at a time, at regular intervals.
 * On 19.11.2026 PpW released a GTA-themed [Instagram reel][tt-mission] featuring Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md), who both receive a mission popup. Wandering through the area, they encounter a mission start marker. Walking into it they spawn [Gloria](@/w/gloria-g-szek.md), who then confronts them - it seems all of them have a mission to "win the Tag Team Match in Kraków". When Agatka & Julia point out she has no partner, Gloria finds a random car, and performs the hijack action, pulling out [Monster High Suzie](@/w/monster-high-suzie.md). The two pairs were soon confirmed for a Tag Team Match on Saturday.
 
-## Predicted card
+## Card
 
-{% card(predicted=true) %}
+{% card() %}
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Goblin](@/w/goblin.md)'
+  - nc: Double Pinfall
+- - '[Bartosz Plata](@/w/plata.md)'
+  - '[Marcelito](@/w/marcelito.md)'
+  - '[Damian Adler](@/w/damian-adler.md)'
+  - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - s: Four-Way Match
+- - '[Gloria](@/w/gloria-g-szek.md) & [Monster High Suzie](@/w/monster-high-suzie.md)'
+  - 'Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md)'
+  - s: Tag Team Match
+- - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
+  - '[The Hardcors](@/tt/the-hardcors.md): [Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md) + [Boro](@/w/boro.md)'
+  - s: 'Dochodzeniówka Match'
+- - '[Olgierd](@/w/olgierd.md) w/ [Rozalia Nyx](@/w/rozalia-nyx.md)'
+  - '[Sambor](@/w/sambor.md) & [Bart Petro](@/w/bart-petro.md) & [Oskar Haller](@/w/oskar-haller.md)'
+  - s: 'Zmowa Prospects Handicap Tag Team Match'
+- - '[Olgierd](@/w/olgierd.md)'
+  - '[Mister Z](@/w/mister-z.md)'
+  - g: Post-match beatdown, Zet chooses stakes for their upcoming 1-vs-1 match.
 - - '[Gabriel Queen](@/w/gabriel-queen.md)(c)'
-  - '[Jakub](@/w/jakub.md)'
+  - '["Fox" Jakub](@/w/jakub.md)'
   - c: '[PpW Championship](@/c/ppw-championship.md)'
-    nc: upcoming
 - - '[Jebany Kurwa Mutant](@/w/mutant.md)'
   - '[Isnorr](@/w/isnorr.md)'
   - s: Ultraviolent Match
-    nc: upcoming
-- - '[Max Speed](@/w/max-speed.md)'
-  - '[Goblin](@/w/goblin.md)'
-  - nc: upcoming
-- - '[Olgierd](@/w/olgierd.md)'
-  - '???'
-  - '???'
-  - '???'
-  - s: 'Zmowa Prospects Gauntlet Match'
-    nc: upcoming
-- - 'Julia Rave & [Agentka Agatka](@/w/agentka-agatka.md)'
-  - '[Gloria](@/w/gloria-g-szek.md) & [Monster High Suzie](@/w/monster-high-suzie.md)'
-  - s: Tag Team Match
-    nc: upcoming
-- - '[The Hardcors](@/tt/the-hardcors.md): [Johnny Blade](@/w/johnny-blade.md) & [Biesiad Strong](@/w/biesiad.md) + [Boro](@/w/boro.md)'
-  - '[Rodzina](@/tt/rodzina.md): [Robert Star](@/w/robert-star.md) & [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
-  - s: 'Dochodzeniówka Match'
-    nc: upcoming
+- credits:
+    Host, Ring announcer: "[Michael HT](@/w/michael-ht.md)"
+    Referees: "[Sędzia Seweryn](@/w/sedzia-seweryn.md), [Sędzia Karol](@/w/sedzia-karol-gorski.md)"
+    Commentary: "[Istociarz](@/w/istociarz.md)"
 {% end %}
 
 ### Highlights
 
-* TBD
+* [Max](@/w/max-speed.md) and [Goblin](@/w/goblin.md) pinned each other by falling down next to one another, one arm on their opponent's chest. The referee did a normal three-count and declared a tie, confirmed by ring announcer [Michael HT](@/w/michael-ht.md). After the match, both unhappy, they tried to resolve the situation with a quick round of rock-paper-scissors, but both picked rock to tie again.
+* For [Damian Adler](@/w/damian-adler.md) this was an unannounced debut in PpW. The crowd was initially surprised and unfriendly, chanting ["Kim ty jesteś"](@/a/polish-wrestling-chants.md#intros) (_Who are you?_). Adler had previously worked for [PTW](@/o/ptw.md) until July 2026.
+* In the four-way match, a running joke was [Bartosz Plata](@/w/plata.md) being unable to re-enter the ring, always bumped or kicked at the moment of entry.
+* All three members of [Rodzina](@/tt/rodzina.md) entered as champions:[Vic](@/w/vic-golden.md) & [Oskar](@/w/oskar-alexander.md) the [Tag Team Champions](@/c/ppw-tag-team-championship.md), and [Robert](@/w/robert-star.md) with his Danish DPW Heavyweight Championship.
+* The six-man Dochodzeniówka match started with [Boro](@/w/boro.md) vs Oskar. Next to enter was Robert Star, followed by [Johnny Blade](@/w/johnny-blade.md). Finally, Vic Golden and [Biesiad Strong](@/w/biesiad.md) last, which was also when the referee stepped into the ring and the match properly began.
+* [Olgierd's](@/w/olgierd.md) opponents walked out at the same time, as a single team rather than one by one as expected from a Gauntlet, and Olgierd fought all three working as a tag team. [Petro](@/w/bart-petro.md) and Oskar wore their usual gear, while [Sambor](@/w/sambor.md) used his street clothes rather than the Slavic Warrior attire, similar to his match against [Disco Pablo](@/w/disco-pablo.md) [the month before](@/e/low/2026-10-24-low-7.md) - also in Kraków, his hometown.
+* Olgierd was able to win thanks to an intervention by [Rozalia](@/w/rozalia-nyx.md), who attacked Sambor and ran away backstage, followed by him. This let the Hooligan pin Petro for a three-count.
 
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/r/?id=1&nr=465061)
+* [Instagram reel with the results](https://www.instagram.com/ppw_hw/reel/DgDWMJzKUG7/)
 * [Official Facebook post announcing the event](https://www.facebook.com/OficjalnePPW/posts/pfbid02PWydDGCyPiCLy1kqQ5pjGyPPBAR8WndbydjjVj16KKGYuNcdQoo1caFAHMFtFanul)
+* [STK47's homepage](https://www.stk47.com/)
 
 [kondzia-podarli]: https://www.facebook.com/reel/1598933008914969
 [jk-mutant]: https://www.facebook.com/reel/3281177715386075
