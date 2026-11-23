@@ -40,7 +40,11 @@ During the final moments of [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md) P
 
 After fixing his relationship with his father, Sigma joined Team Okoński and continued his feud with Nietykalni. Team Okoński faced them in an Elimination Tag Team Match at [Haloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md), where Team Okoński lost both the match and further championship opportunity for Spartan due to [Nano Lopez's](@/w/nano-lopez.md) betrayal of Team Okoński. 
 
-Starting with [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) in July 2025, Sigma Boy joined forces with [Miyagi Shida](@/w/miyagi-shida.md)) to form a new Tag Team called "[Miyagi Sigma](@/tt/miyagi-sigma.md)". They immediately tried to compete against [Royal Rebels](@/tt/royal-rebels.md) - part of [Pawłowski's](@/w/pan-pawlowski.md) [Nietykalni](@/tt/nietykalni.md) - for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md). 
+#### Miyagi Sigma
+
+Starting with [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md) in July 2025, Sigma Boy joined forces with [Miyagi Shida](@/w/miyagi-shida.md)) to form a new Tag Team called "[Miyagi Sigma](@/tt/miyagi-sigma.md)". They immediately tried to compete against [Royal Rebels](@/tt/royal-rebels.md) - part of [Pawłowski's](@/w/pan-pawlowski.md) [Nietykalni](@/tt/nietykalni.md) - for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), but at [Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) they were unsuccessful. A few months later, at [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md), the duo got back on track as they managed to defeat Synowie Lasu in a match for the #1 Contender spot. A rematch against Royal Rebels, in the form of Ladder Match, took place at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), where Shida and Sigma finally won the Tag Team Championship. 
+
+From that point on hte duo managed to successfully defend the Championship throughout most of 2026. They defeated teams such as Exodus, Skyfall and Manto Band. At [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) they were finally defeated by [Proroctwo](@/tt/proroctwo.md) after an intervention of returning [Dziedzic](@/w/dziedzic.md) and a heel turn of Sigma's former rookie, Paula, who also joined Proroctwo. 
 
 ## International wrestling appearances
 
@@ -49,6 +53,7 @@ As part of the new working relationship between PTW and the Austrian promotion R
 ## In wrestling
 
 * Finishers:
+  - _Skibidi Frog Splash_ (Frog Splash) (2026-)
   - _Sigma Destroyer_ (Canadian destroyer) (2025-)
 * Tag Teams and stables:
   - [Miyagi Sigma](@/tt/miyagi-sigma.md) (2025-)
@@ -68,7 +73,7 @@ As part of the new working relationship between PTW and the Austrian promotion R
 
 ## Internet presence
 
-* [Instagram](https://www.instagram.com/sigmaboy_ptw/)
+* [Sigma's Instagram profile](https://www.instagram.com/sigmaboy_ptw/)
 
 ## References
 
