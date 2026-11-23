@@ -258,8 +258,8 @@ One noteworthy deal between PTW and a bigger promotion was an agreement with Imp
 
 {% championship() %}
 - - '[PTW Championship](@/c/ptw-championship.md)'
-  - '[Spartan](@/w/spartan.md)'
-  - Defeated [Puncher](@/w/puncher.md) at [PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - Defeated [Spartan](@/w/spartan.md) at [PTW: Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md).
 - - '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
   - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/schwarzmann.md)'
   - >
