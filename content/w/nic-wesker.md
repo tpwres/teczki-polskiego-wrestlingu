@@ -20,7 +20,7 @@ Nic Wesker is an Austrian wrestler, known to Polish audiences from his work at [
 
 ### Prime Time Wrestling (2025-present)
 
-Nic made his debut in Poland at [PTW's](@/o/ptw.md) show [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) in July 2025. In his debut he took part in a Five-Man International Showcase Match. From that point on Nic started making occassional appearances for PTW, working mostly as villainous enhancement talent in his "Virus Host" persona highly influenced by "Resident Evil" video game franchise.
+Nic made his debut in Poland at [PTW's](@/o/ptw.md) show [Nietykalni](@/e/ptw/2025-07-19-ptw-nietykalni.md) in July 2025. In his debut he took part in a Five-Man International Showcase Match. From that point on Nic started making occassional appearances for PTW, working mostly as villainous enhancement talent in his "Virus Host" persona highly influenced by the ["Resident Evil"][re] video game franchise.
 
 ## In wrestling
 
@@ -30,3 +30,5 @@ Nic made his debut in Poland at [PTW's](@/o/ptw.md) show [Nietykalni](@/e/ptw/20
 ## Internet presence
 
 * [Wesker's Instagram profile](https://www.instagram.com/nic_wskr/)
+
+[re]: https://en.wikipedia.org/wiki/Resident_Evil
