@@ -6,3 +6,102 @@
 0006 = { path = "lider-pograzy-sie-w-cieniu.webp", caption = "Image announcing [Shadow](@/w/shadow.md) vs [Lider](@/w/lider.md).", source = "Official MZW Facebook" }
 0007 = { path = "sheeblo.webp", caption = "Image announcing [Tony Sheen](@/w/riverman.md) vs [Disco Pablo](@/w/disco-pablo.md).", source = "Official MZW Facebook" }
 0008 = { path = "pewnie-nikt-nie-zakuma-nawiazania-ale-where-the-hell-is-matt.webp", caption = "Image announcing [Antoni Ocean](@/w/antoni-ocean.md) taking over from Matt Buckna in the match with [Olgierd](@/w/olgierd.md).", source = "Official MZW Facebook" }
+
+0110 = { path = "strzalka.webp", caption = "This way to the event.", source = "M3n747" }
+0120 = { path = "tutaj-bedzie-sie-dzialo.webp", caption = "The ring before the show.", source = "M3n747" }
+0130 = { path = "dwa-pokolenia-zapowiadaczy.webp", caption = "[Tomasz Warchoł](@/w/tomasz-warchol.md) and [Adrian Zgórski](@/w/adrian-zgorski.md) open the show.", source = "M3n747" }
+
+1010 = { path = "gul-gul-gul.webp", caption = "Olgierd partakes of his customary beverage.", source = "M3n747" }
+1020 = { path = "olgierd-poleca-wyroby-tekstylne.webp", caption = "[Olgierd](@/w/olgierd.md) shows off his customary scarf.", source = "M3n747" }
+1030 = { path = "antoni-duzy-akwen-wodny.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md) makes the first impression on the local audience.", source = "M3n747" }
+1040 = { path = "preludium-do-przemocy-fizycznej.webp", caption = "Left to right: [Antoni Ocean](@/w/antoni-ocean.md), [Sędzia Michał](@/w/sedzia-michal.md), [Adrian Zgórski](@/w/adrian-zgorski.md) and [Olgierd](@/w/olgierd.md).", source = "M3n747" }
+1050 = { path = "jeszcze-wiecej-oceanu.webp", caption = "[Antoni Ocean](@/w/antoni-ocean.md).", source = "M3n747" }
+1060 = { path = "zejdz-ze-mnie-lysy-brutalu.webp", caption = "Antoni Ocean catapults Olgierd into stratosphere (or thereabouts).", source = "M3n747" }
+1070 = { path = "olgierding.webp", caption = "Antoni Ocean catches an Olgierd-shaped wave…", source = "M3n747" }
+1080 = { path = "wywaling.webp", caption = "…but soon wipes out.", source = "M3n747" }
+1090 = { path = "osobliwy-pin-no-ale.webp", caption = "[Olgierd](@/w/olgierd.md) pins Antoni Ocean in a rather unusual manner.", source = "M3n747" }
+1100 = { path = "lysy-dominator-zdominowal.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) present the winner of the match: [Olgierd](@/w/olgierd.md).", source = "M3n747" }
+
+2010 = { path = "moi-renart.webp", caption = "[Jakub](@/w/jakub.md).", source = "M3n747" }
+2020 = { path = "bartosz-plata-w-wyprasowanej-koszulce.webp", caption = "[Bartosz Plata](@/w/plata.md).", source = "M3n747" }
+2030 = { path = "bardzo-spoko-wentylatorek.webp", caption = "[Max Speed](@/w/max-speed.md).", source = "M3n747" }
+2040 = { path = "lampka-tez-niczego-sobie.webp", caption = "[Marcelito](@/w/marcelito.md).", source = "M3n747" }
+2050 = { path = "bartoszplatyzm-stosowany.webp", caption = "[Bartosz Plata](@/w/plata.md) intensifies.", source = "M3n747" }
+2060 = { path = "kolko-wzajemnej-wrestlingacji.webp", caption = "Marcelito, Bartosz Plata, Max Speed and Jakub hold hands and are merry (allegedly).", source = "M3n747" }
+2070 = { path = "rudy-juz-kombinuje.webp", caption = "Jakub breaks the impasse.", source = "M3n747" }
+2080 = { path = "kolko-graniaste.webp", caption = "Bartosz Plata, Marcelito, Max Speed and [Jakub](@/w/jakub.md) find themselves at a stalemate again.", source = "M3n747" }
+2090 = { path = "now-thats-just-silly.webp", caption = "Same, only weirder.", source = "M3n747" }
+2100 = { path = "splatali-placie-figla.webp", caption = "Max Speed and Marcelito team up for a Double Suplex on Bartosz Plata.", source = "M3n747" }
+2110 = { path = "jestesmy-w-przeciwnych-druzynach-ale-niewazne-bijemy-ich.webp", caption = "[Bartosz Plata](@/w/plata.md) and [Marcelito](@/w/marcelito.md) about to attack Max Speed and Jakub.", source = "M3n747" }
+2120 = { path = "top-ropelito.webp", caption = "[Marcelito](@/w/marcelito.md) about to jump at Jakub from the top rope.", source = "M3n747" }
+2130 = { path = "prosze-panstwa-ten-pan-wygral.webp", caption = "[Sędzia Seweryn](@/w/sedzia-seweryn.md) declares [Max Speed](@/w/max-speed.md) the winner of the match.", source = "M3n747" }
+
+3010 = { path = "o-prosze-tutaj-mam-glowe.webp", caption = "[Lider's](@/w/lider.md) back in MZW.", source = "M3n747" }
+3020 = { path = "ostatni-taki-widok.webp", caption = "[Shadow](@/w/shadow.md) enters the ring one last time.", source = "M3n747" }
+3030 = { path = "jak-za-dawnych-dobrych-lat.webp", caption = "[Lider](@/w/lider.md) and [Shadow](@/w/shadow.md) face each other.", source = "M3n747" }
+3040 = { path = "shadowplex.webp", caption = "Lider suplexes Shadow.", source = "M3n747" }
+3050 = { path = "munsolt.webp", caption = "Shadow executes a Moonsault onto Lider.", source = "M3n747" }
+3060 = { path = "czokhold.webp", caption = "[Lider](@/w/lider.md) has [Shadow](@/w/shadow.md) in a chokehold.", source = "M3n747" }
+3070 = { path = "powietrzny-twarzochwyt.webp", caption = "Shadow demonstrates an Inverted Facelock Neckbreaker Slam on Lider.", source = "M3n747" }
+3080 = { path = "polezymy-odpoczniemy-pomyslimy-o-zyciu.webp", caption = "[Shadow](@/w/shadow.md) and [Lider](@/w/lider.md) share a mattress outside the ring.", source = "M3n747" }
+3090 = { path = "jeszcze-raz-dla-pewnosci.webp", caption = "Shadow hits Lider with another Moonsault, for good measure.", source = "M3n747" }
+3100 = { path = "bedzie-trzy.webp", caption = "[Shadow](@/w/shadow.md) pins Lider, as [Sędzia Seweryn](@/w/sedzia-seweryn.md) is about to count to three.", source = "M3n747" }
+
+4010 = { path = "zmeczony-po-meczu.webp", caption = "Victorious [Shadow](@/w/shadow.md) addresses the audience.", source = "M3n747" }
+4020 = { path = "shadow-dziekuje-fanom.webp", caption = "Shadow bows before the fans…", source = "M3n747" }
+4030 = { path = "shadow-dziekuje-kolegom.webp", caption = "…and before fellow wrestlers.", source = "M3n747" }
+4040 = { path = "koledzy-dziekuja-shadowowi.webp", caption = "The entire locker room came out to give Shadow a round of applause.", source = "M3n747" }
+4050 = { path = "niby-sie-nie-lubili-a-sie-lubia.webp", caption = "Shadow and Lider hug.", source = "M3n747" }
+4060 = { path = "emocje-wypisane-na-masce.webp", caption = "[Lider](@/w/lider.md) says thank you to [Shadow](@/w/shadow.md).", source = "M3n747" }
+4070 = { path = "tutaj-mam-uszy.webp", caption = "Per [Lider's](@/w/lider.md) request, everybody makes a noise [Shadow](@/w/shadow.md) isn't ever going to forget.", source = "M3n747" }
+4080 = { path = "pozegnanie-z-ringiem.webp", caption = "[Shadow](@/w/shadow.md) says goodbye to the ring.", source = "M3n747" }
+4090 = { path = "przytulasek.webp", caption = "Shadow hugs a fan.", source = "M3n747" }
+4100 = { path = "trzeba-wiedziec-kiedy-ze-sceny-zejsc-niepokonanym.webp", caption = "[Shadow](@/w/shadow.md) makes his final bow.", source = "M3n747" }
+
+4980 = { path = "mozna-by-zlosliwie-uznac-to-zdjecie-za-subtelna-wrzute-ze-strony-adiego.webp", caption = "A photo of [Lider](@/w/lider.md), [Adrian Zgórski](@/w/adrian-zgorski.md) and [Shadow](@/w/shadow.md) posing for another photo during the break.", source = "M3n747" }
+4990 = { path = "adi-zawyza-poziom.webp", caption = "[Adrian Zgórski](@/w/adrian-zgorski.md)	announces the nearing end of the break.", source = "M3n747" }
+
+5010 = { path = "wtowarzystwiebor.webp", caption = "[Sambor](@/w/sambor.md), announced by [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+5020 = { path = "boguslaw.webp", caption = "[Boguś](@/w/bogus.md), with [Sambor](@/w/sambor.md) and Adrian Zgórski in the background.", source = "M3n747" }
+5030 = { path = "miesnie-miesniami-ale-przewage-ma-ten-z-krotkimi-wlosami.webp", caption = "Boguś and Sambor lock up.", source = "M3n747" }
+5040 = { path = "zupelnie-jak-kano-vs-sonya-w-mk-1995.webp", caption = "Sambor overpowers Boguś.", source = "M3n747" }
+5050 = { path = "sambor-zje-bogusia.webp", caption = "[Sambor](@/w/sambor.md) stalks [Boguś](@/w/bogus.md).", source = "M3n747" }
+5060 = { path = "publika-chyba-nie-docenia-zwyciestwa-sambora.webp", caption = "[Sędzia Michał](@/w/sedzia-michal.md) presents the victor of the match, [Sambor](@/w/sambor.md).", source = "M3n747" }
+5070 = { path = "pasuje-mu-do-butow-i-w-ogole-dobrze-lezy.webp", caption = "[Sambor](@/w/sambor.md) rubs his victory in Boguś's face. Or back, as it were.", source = "M3n747" }
+
+6010 = { path = "niezly-kawal-chlopa-i-stefan-tez-sie-niezle-prezentuje.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) and Stefan's entrance.", source = "M3n747" }
+6020 = { path = "shawn-michaels-na-miare-naszych-mozliwosci.webp", caption = "Stefan and [Oskar Alexander](@/w/oskar-alexander.md) pose for the audience.", source = "M3n747" }
+6030 = { path = "i-wlasnie-dlatego-nie-nalezy-zostawiac-pustych-miejsc-w-pierwszych-rzedach.webp", caption = "Oskar Alexander sits among the common people.", source = "M3n747" }
+6040 = { path = "ale-szlafroczek-serio-bardzo-spoko.webp", caption = "[Boro](@/w/boro.md) and [Mutant's](@/w/mutant.md) entrance.", source = "M3n747" }
+6050 = { path = "jak-w-tym-nie-ma-podtekstow-to-ja-nie-wiem-gdzie-sa.webp", caption = "[Oskar Alexander](@/w/oskar-alexander.md) struggles to slip out of [Boro's](@/w/boro.md) hold.", source = "M3n747" }
+6060 = { path = "sedzia-niby-bezstronny-ale-wyraznie-zadowolony-z-wyniku.webp", caption = "[Boro](@/w/boro.md) and [Mutant](@/w/mutant.md) declared winners by [Sędzia Michał](@/w/sedzia-michal.md), while [Oskar Alexander](@/w/oskar-alexander.md) lies defeated.", source = "M3n747" }
+
+7010 = { path = "marco-robi-jak-rafiki-w-krolu-lwie.webp", caption = "[Referee Marco Hammers](@/w/marco-hammers.md) presents the [MZW Championship](@/c/mzw-championship.md). On the left stands [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+7020 = { path = "kiedys-zawijano-ryby-w-gazety.webp", caption = "[Tony Sheen](@/w/riverman.md).", source = "M3n747" }
+7030 = { path = "ladny-kontrast-niebieskiego-na-zielonym-tle.webp", caption = "[Disco Pablo](@/w/disco-pablo.md).", source = "M3n747" }
+7040 = { path = "a-czy-macie-moze-niebieski.webp", caption = "[Referee Marco Hammers](@/w/marco-hammers.md) presents the [MZW Championship](@/c/mzw-championship.md) to Disco Pablo, as [Tony Sheen](@/w/riverman.md) waits for the fight to begin.", source = "M3n747" }
+7050 = { path = "salatka-rybna-a-la-pablo.webp", caption = "Disco Pablo grates Tony Sheen's face on some metal element of unknown function.", source = "M3n747" }
+7060 = { path = "ucieknie-po-niej-z-akwarium.webp", caption = "Tony Sheen pulls a ladder from under the ring.", source = "M3n747" }
+7070 = { path = "pablo-uwalnia-orke.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) produces an inflatable dolphin.", source = "M3n747" }
+7080 = { path = "to-by-byla-osobliwa-walka.webp", caption = "Image announcing Ladder vs Dolphin.", source = "M3n747" }
+7090 = { path = "co-powie-ryba.webp", caption = "[Tony Sheen](@/w/riverman.md) with the dolphin.", source = "M3n747" }
+7100 = { path = "drabina-pablowa.webp", caption = "Disco Pablo charges with the ladder.", source = "M3n747" }
+7110 = { path = "zemsta-delfina.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) performs Poland's first Fish Oil Check.", source = "M3n747" }
+7120 = { path = "pozwol-ze-was-sobie-przedstawie.webp", caption = "Disco Pablo catapults [Tony Sheen](@/w/riverman.md)…", source = "M3n747" }
+7130 = { path = "tony-drabina-drabina-tony.webp", caption = "…face-first into the ladder.", source = "M3n747" }
+7140 = { path = "pin-wspomagany.webp", caption = "Tony Sheen pins Disco Pablo with the help of the ladder.", source = "M3n747" }
+7150 = { path = "zamienil-sheenek-delfina-na-kijek.webp", caption = "Tony Sheen torments Disco Pablo with the kendo stick.", source = "M3n747" }
+7160 = { path = "moze-nie-mistrzowski-ale-zawsze-pas.webp", caption = "[Tony Sheen](@/w/riverman.md) about to lash Disco Pablo with a leather belt.", source = "M3n747" }
+7170 = { path = "alegoria-procesu-zawieszajacego-windowsy.webp", caption = "Tony Sheen chokes [Disco Pablo](@/w/disco-pablo.md) with the belt.", source = "M3n747" }
+7180 = { path = "dzien-dobry-sprzedaje-skladane-krzesla.webp", caption = "Tony Sheen argues with [Referee Marco Hammers](@/w/marco-hammers.md) for siding with Disco Pablo, who waits with a steel chair in hands.", source = "M3n747" }
+7190 = { path = "plaf.webp", caption = "[Disco Pablo](@/w/disco-pablo.md) throws the chair at Tony Sheen.", source = "M3n747" }
+7200 = { path = "biuro-platowe.webp", caption = "[Bartosz Plata](@/w/plata.md) arrives to help [Tony Sheen](@/w/riverman.md), but Referee Marco Hammers will have none of that. In the background [Disco Pablo](@/w/disco-pablo.md) reaches for the kendo stick.", source = "M3n747" }
+7210 = { path = "ryby-sie-zwykle-oglusza-kamieniem-ale-krzeslem-tez-moze-byc.webp", caption = "Tony Sheen, punished by his unsavoury actions by Referee Marco Hammers.", source = "M3n747" }
+7220 = { path = "what-remains-of-edith-finchs-chair.webp", caption = "The mangled remains of a heavily-used steel chair.", source = "M3n747" }
+7230 = { path = "lupne-nim-o-ring-i-zwyciestwo-mam-w-sieci.webp", caption = "Tony Sheen about to hit Disco Pablo with a Powerbomb.", source = "M3n747" }
+7240 = { path = "skoro-ja-leze-i-krzeslo-tez-lezy-to-czy-ja-jestem-krzeslem.webp", caption = "Defeated [Disco Pablo](@/w/disco-pablo.md) on the floor, the chair lying behind him.", source = "M3n747" }
+7250 = { path = "trudno-potem-ja-bardzo-dokladnie-umyje.webp", caption = "[Referee Marco Hammers](@/w/marco-hammers.md) begrudgingly shakes Tony Sheen's hand. To the left stands [Adrian Zgórski](@/w/adrian-zgorski.md).", source = "M3n747" }
+7260 = { path = "and-newstety.webp", caption = "[Referee Marco Hammers](@/w/marco-hammers.md) raises the hand of victorious [Tony Sheen](@/w/riverman.md).", source = "M3n747" }
+7270 = { path = "nastepnym-razem-bedzie-moj.webp", caption = "[Max Speed](@/w/max-speed.md) remindins Sheen who his first challenger is going to be.", source = "M3n747" }
+
+8010 = { path = "shadow-w-formacie-a4.webp", caption = "A printed thank-you from Shadow to the fans, left on the seats before the show.", source = "M3n747" }
