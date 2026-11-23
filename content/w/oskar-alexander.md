@@ -75,7 +75,7 @@ Alexander made his [Legacy of Wrestling](@/o/low.md) debut at [Legacy of Wrestli
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Oskar worked with [FRPW](@/o/frpw.md) from [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) onwards. In his first match for federation he was defeated by [Leon Lato](@/w/leon-lato.md). From [Wrestling w Twoim Mieście: Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Oskar started working as babyface. He lost to [Olgierd](@/w/olgierd.md) in a first round of HeelTurn Invitational 26' Tournament.
+Oskar worked with [FRPW](@/o/frpw.md) from [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) onwards. In his first match for the federation he was defeated by [Leon Lato](@/w/leon-lato.md). From [Wrestling w Twoim Mieście: Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) Oskar started working as a babyface. He lost to [Olgierd](@/w/olgierd.md) in a first round of HeelTurn Invitational '26 Tournament.
 
 ## In wrestling
 
