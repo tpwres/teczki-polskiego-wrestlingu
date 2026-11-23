@@ -26,13 +26,13 @@ Monster High Suzie is a wrestler best known for working with [Fundacja Rozwoju P
 
 Suzie began training with [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) in 2025. She made her first in-ring appearance at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in the Next Big Thing Battle Royal and then [Dojo Showcase 2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md).
 
-Starting from [Wrestling w Twoim Mieście: Warka](@/e/frpw/2026-10-18-frpw-warka.md) Suzie alligned herself with two horror-themed powerhouses of FRPW: [Tomczak](@/w/tomczak.md) and [Stowarzysz](@/w/stowarzysz.md) to form PSY.CHO - a villainous team where she usurped a "handler" role for both of aforementioned wrestlers. The trio made their first joint statement by destroying [Boro](@/w/boro.md), Quentin Carter, [Tony Sheen](@/w/riverman.md), [Bartosz Plata](@/w/plata.md), [Sawo](@/w/sawo.md) and some of staff members after a Tag Team match at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md).
+Starting with [Wrestling w Twoim Mieście: Warka](@/e/frpw/2026-10-18-frpw-warka.md) Suzie alligned herself with two horror-themed powerhouses of FRPW: [Tomczak](@/w/tomczak.md) and [Stowarzysz](@/w/stowarzysz.md) to form PSY.CHO - a villainous team where she usurped a "handler" role for both of the wrestlers. The trio made their first joint statement by destroying [Boro](@/w/boro.md), Quentin Carter, [Tony Sheen](@/w/riverman.md), [Bartosz Plata](@/w/plata.md), [Sawo](@/w/sawo.md) and some of the staff members after a Tag Team match at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md).
 
 ### PpW Ewenement (2026-)
 
 Suzie started her PpW career by working numerous matches at [More Brutal Than Metal 2](@/e/ppw/2026-06-04-ppw-mystic-more-brutal-than-metal.md) in June 2026.
 
-She made her first official solo match - dropping the rookie moniker - at [Hardcore Saturday](@/e/ppw/2026-11-07-ppw-hardcore-saturday.md), against [Agentka Agatka](@/w/agentka-agatka.md), where she lost to more experienced foe, just to attack her during post-match celebration, just to be chased off by Julia Rave.
+She made her first official solo match - dropping the rookie moniker - at [Hardcore Saturday](@/e/ppw/2026-11-07-ppw-hardcore-saturday.md) against [Agentka Agatka](@/w/agentka-agatka.md). She lost to the more experienced opponent just to attack her during post-match celebration, but was chased away by Julia Rave.
 
 ## In wrestling
 
