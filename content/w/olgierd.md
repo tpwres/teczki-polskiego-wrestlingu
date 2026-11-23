@@ -60,7 +60,7 @@ He debuted at [PTW Underground 13](@/e/ptw/2023-03-26-ptw-underground-13.md), fa
 
 #### Run as El Ogre
 
-Before making an official debut, Olgierd debuted as masked luchador named "El Ogre". It took place at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md), where he took part in PTW Contract Battle Royale. Even after his debut in unmasked hooligan persona, Olgierd made a few appearances as masked babyface luchador, mostly as an enhancement talent.
+Before making an official debut, Olgierd debuted as a masked luchador named "El Ogre". It took place at [Underground 9](@/e/ptw/2022-10-30-ptw-underground-9.md), where he took part in a PTW Contract Battle Royale. Even after his debut in the unmasked hooligan persona, Olgierd made a few appearances as the masked babyface luchador, mostly as an enhancement talent.
 
 #### Formation of Legia Łysych
 
@@ -107,7 +107,7 @@ In the meantime, the rest of Zmowa managed to win the inaugural [PpW Tag Team Ch
 
 #### Leaving Zmowa
 
-After a few months of domination, a tragedy struck Zmowa at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). Jakub and Marco lost their Tag Team Titles to [Bad Trip](@/tt/bad-trip.md), Mister Z himself lost to [Jacob Crane](@/w/jacob-crane.md) via a submission and Olgierd himself lost the PpW Championship to [Gabriel Queen](@/w/gabriel-queen.md) - who used his #1 Contender Contract he'd won earlier that night. The devastating loses quickly turned the vibes inside the stable sour.
+After a few months of domination, a tragedy struck Zmowa at [Ledwo Legalne 6](@/e/ppw/2026-05-16-ppw-ledwo-legalne-6.md). Jakub and Marco lost their Tag Team Titles to [Bad Trip](@/tt/bad-trip.md), Mister Z himself lost to [Jacob Crane](@/w/jacob-crane.md) via a submission and Olgierd himself lost the [PpW Championship](@/c/ppw-championship.md) to [Gabriel Queen](@/w/gabriel-queen.md) - who used his #1 Contender Contract he'd won earlier that night. The devastating loses quickly turned the vibes inside the stable sour.
 
 It became apparent that Jakub rapidly gained a lot of influence over Mister Z, which resulted in Olgierd losing his "top dog" position in Zmowa. This led to a number of conflicts inside the group, resolved mostly through violence against one another. At [Lecimy Dalej](@/e/ppw/2026-05-30-ppw-lecimy-dalej.md) Olgierd defeated Jakub in a #1 Contendership Match for the PpW Championship, which was refereed by Mister Z. However, the Hooligan blew it in a match against Gabriel Queen at [Inicjatywa Wrestling](@/e/ppw/2026-06-13-ppw-inicjatywa-wrestling.md). This led to further conflicts, when Jakub effectively sidelined Olgierd from a match against Nick Schreier and [Laurance Roman](@/w/laurance-roman.md) at [Hardcore Friday: Żeby Było Ci Dobrze](@/e/ppw/2026-09-04-ppw-hardcore-friday.md) to test out a new Zmowa prospect [Maverick](@/w/maverick.md). Jakub's shenanigans in Zmowa finally concluded at [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md), where Jakub and Mister Z intervened in a Triple Threat Match Olgierd was part of, which cost him victory. This drove furious Olgierd into finally turning his back on Zmowa and walking away, leaving only Z and Jakub in the group.
 
@@ -133,15 +133,15 @@ In June 2026 Olgierd was booked for [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.m
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Olgierd made his first appearance for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their first [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he defeated rookie [Mikołaj SKS](@/w/mikolaj-sks.md). From that point on Olgierd started making regular appearances for federation.
+Olgierd made his first appearance for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at their first [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he defeated [rookie Mikołaj SKS](@/w/mikolaj-sks.md). From that point on Olgierd started making regular appearances for the federation.
 
-He was one of the contenders in HeelTurn Invitational 26' Tournament, where he got right to the final after defeating [Oskar Alexander](@/w/oskar-alexander.md) and [Bartosz Plata](@/w/plata.md). In the final he faced - and lost to - [Leon Lato](@/w/leon-lato.md). 
+He was one of the contenders in the HeelTurn Invitational '26 Tournament, where he advanced right to the finals after defeating [Oskar Alexander](@/w/oskar-alexander.md) and [Bartosz Plata](@/w/plata.md). In the finals he faced - and lost to - [Leon Lato](@/w/leon-lato.md). 
 
-After the tournament ended, Olgierd appeared at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) as member of villainous stable initially founded at German scene called "Kolektyw". He teamed up with [Gloria](@/w/gloria-g-szek.md) against team of [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md).
+After the tournament ended, Olgierd appeared at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) as a member of a villainous stable initially founded at the German scene, called "Kolektyw" (_The Collective_). He teamed up with [Gloria](@/w/gloria-g-szek.md) against the team of [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md).
 
 ## International wrestling appearances
 
-From 2024 onwards Olgierd began to take bookings at the European independent circuit. He started making rather regular appearances in Austria, Hungary and Germany, sometimes working with his Legia Łysych partner, Marco Hammers. Later on he, along with fellow Polish wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) and [Jakub](@/w/jakub.md) formed a villainous stable active at German wrestling scene known as Kolektyw.
+From 2024 onwards Olgierd began to take bookings at the European independent circuit. He started making rather regular appearances in Austria, Hungary and Germany, sometimes working with his Legia Łysych partner, [Marco Hammers](@/w/marco-hammers.md). Later on he, along with fellow Polish wrestlers such as [Gustav Gryffin](@/w/gustav-gryffin.md) and [Jakub](@/w/jakub.md), formed a villainous stable active at the German wrestling scene, known as Kolektyw.
 
 ## In wrestling
 
@@ -196,7 +196,6 @@ From 2024 onwards Olgierd began to take bookings at the European independent cir
     {{ music(apple='1858893007?i=1858893388')}}
   - "Kolektyw Theme" by Independent Artist <br>
     {{ org_badge(org='frpw') }} (2026-, as part of Kolektyw)
-  
 
 ## Championships and accomplishments
 
