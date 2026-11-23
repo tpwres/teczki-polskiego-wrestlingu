@@ -103,6 +103,16 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
   - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
   - [Rodzina](@/tt/rodzina.md) (2025-)
 * Entrance music:
+  - "Nigdy nie ulegnę" by Kuba Jurzyk, Accantus Live Band
+    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
+    {{ music(yt='hXksAsBNeaA')}}
+    {{ music(spot='6rlkPZLlQHcVyGfPjtOfIC')}}
+    {{ music(apple='1498895749?i=1498895750')}}
+  - "Supersonic" by Oasis
+    {{ org_badge(orgs=['ppw']) }} (2026-) <br>
+    {{ music(yt='BJKpUH2kJQg')}}
+    {{ music(spot='1ARsfVEoLWiJaikVJtvjDu')}}
+    {{ music(apple='1739844637?i=1739844640')}}
   - "Party All Day" by Steel Panther
     {{ org_badge(orgs=['kpw']) }} (2015-2019) <br>
     {{ music(yt='N3mKVmpol20')}}
@@ -116,11 +126,6 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
   - "Stallion" by Secret Metal
     {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-2025) <br>
     {{ music(yt='LHTdgdTwons')}}
-  - "Nigdy nie ulegnę" by Kuba Jurzyk, Accantus Live Band
-    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
-    {{ music(yt='hXksAsBNeaA')}}
-    {{ music(spot='6rlkPZLlQHcVyGfPjtOfIC')}}
-    {{ music(apple='1498895749?i=1498895750')}}
   - "What Do You Want From Me" by Pink Floyd
     {{ org_badge(orgs=['ppw', 'frpw']) }} (2025-; as part of [Rodzina](@/tt/rodzina.md) <br>
     {{ music(yt='A8i7248HqEY') }}
