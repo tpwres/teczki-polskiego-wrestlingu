@@ -64,7 +64,7 @@ In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przes
 
 ### Legacy of Wrestling (2025)
 
-In 2025 Karol made two appearances for [Legacy of Wrestling](@/o/low.md), working on LoW's [second show](@/e/low/2025-04-06-low-2.md), as well as at [Four The Glory](@/e/low/2025-12-20-low-4.md). At both ocassions he was working along [Seweryn](@/w/referee-seweryn.md).
+In 2025 Karol made two appearances for [Legacy of Wrestling](@/o/low.md), working on LoW's [second show](@/e/low/2025-04-06-low-2.md), as well as at [Four The Glory](@/e/low/2025-12-20-low-4.md). At both ocassions he was working along [Seweryn](@/w/sedzia-seweryn.md).
 
 ## In wrestling
 
