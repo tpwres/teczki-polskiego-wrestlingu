@@ -59,14 +59,16 @@ Due to COVID-19 restrictions, MZW was forced to temporarily halt their operation
 
 After the COVID pandemic, Shadow continued to run Maniac Zone Wrestling events as both the promoter and an in-ring performer, albeit with a rather irregular schedule. He also continued as the head coach of PAW, which moved operations to Kępno.
 
-### PpW Ewenement  (2023-2026)
+At [Forever](@/e/mzw/2025-03-29-mzw-forever.md) Shadow unsucessfully competed for MZW Championship against [Aron Wake](@/w/aron-wake.md) and reigning champion [Matt Buckna](@/w/matt-buckna.md). Later on he also tried to compete for MZW/PpW Championship Opportunity Briefcase, but he was unsucessful. He also teamed up with [Marcelito](@/w/marcelito.md) in an unsucessful attempt to defeat [Legia Łysych](@/tt/legia-lysych.md) at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md). 
+
+### PpW Ewenement  (2023-2025)
 
 In late 2023 Shadow made history by co-organizing a joint show [MZW+PpW: Żadnych Granic](@/e/mzw/2023-09-23-mzw_ppw-zadnych-granic.md) with [PpW](@/o/ppw.md), thereby finally acknowledging them as a professional federation.
 He cemented that by making his PpW debut a couple of months later at [PpW Miasto Bezprawia](@/e/ppw/2024-02-10-ppw-miasto-bezprawia.md). In 2025 he also made another appearance in Wrocław during [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md).
 
 ### Legacy of Wrestling (2024-2026)
 
-In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), and faced [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md). He returned for the [second show](@/e/low/2025-04-06-low-2.md) to take part in the Fatal Five-Way Match, albeit unsuccessfully.
+In December 2024 Shadow was announced as one of the stars of the newly-founded federation called [Legacy of Wrestling](@/o/low.md), and faced [Marcelito](@/w/marcelito.md) at their [inaugural show](@/e/low/2024-12-01-low-1.md). He returned for the [second show](@/e/low/2025-04-06-low-2.md) to take part in the Fatal Five-Way Match, albeit unsuccessfully. In total, he made four appearances for LoW, with his last being a victorious match against [Zefir](@/w/zefir.md) at [What's in the Box?](@/e/low/2026-10-24-low-7.md).
 
 ### Retirement (2026)
 
@@ -99,7 +101,8 @@ In addition to performing in Poland, Shadow has also wrestled for several intern
 ## In wrestling
 
 * Finishers:
-  - Phoenix 450 Splash (2011-ca. 2022/23); dropped following a hip injury
+  - Moonsault (2024-2026)
+  - Phoenix 450 Splash (2011-2023)
   - Inverted Facelock Neckbreaker Slam (2011); used as signature thereafter
 * Managers:
   - Shadows Moonlight (2019)
