@@ -57,14 +57,15 @@ has_video = false
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
     Referees: '???'
-    Special Guest Referee: '???'
+    Special Guest Referee: 'Gwiezdny Marek'
     Commentary: '[Krystian "Resivny" Smoleń](@/w/resivny.md), [Alex Brave](@/w/alex-brave.md)'
     Chairman: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
 {% end %}
 
 ### Notes
 
-* [Kalom](@/w/kalom.md) and Pierre were both counted out while outside the ring.
+* Gwiezdny Marek was the Special Guest Referee during [Kalom](@/w/kalom.md) vs Pierre.
+* Kalom and Pierre were both counted out while outside the ring.
 
 ## References
 
