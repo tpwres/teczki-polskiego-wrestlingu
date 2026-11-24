@@ -32,13 +32,19 @@ Zefir usually fights solo, although a few times he formed a tag team with [Leon 
 
 Until [Godzina Zero 2024](@/e/kpw/2024-09-07-kpw-godzina-zero-2024.md) he and [Michał Fux](@/w/michal-fux.md) were the only two KPW wrestlers who never missed a show since their debuts, but this streak was broken when Zefir sustained an injury that forced him to sit out [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md). During his few years in KPW he managed to achieve a solid midcard position within the company.
 
+#### KPW Champion and firing
+
 At [KPW Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md) Zefir defeated [Hans Schulte](@/w/hans-schulte.md), becoming the new [KPW Champion](@/c/kpw-championship.md). After his victory he took a microphone and spoke for the very first time, declaring simply "I did it!" Later, at [Arena XXX](@/e/kpw/2025-11-14-kpw-arena-xxx.md), Zefir cut a couple of lengthy promos.
 
 During the closing segment of Arena XXX - the celebration of KPW's 10th anniversary - [Krystian Malinowski](@/w/krystian-malinowski.md), who'd convinced himself that it was the masked luchador who'd attacked him at [Arena 26](@/e/kpw/2024-11-15-kpw-arena-26.md), fired Zefir from KPW and stripped him of his title. Zefir was therefore absent at the following show, but at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) a court trial was held to determine his guilt or lack thereof, which ended with Zefir being cleared of the assault charges. By [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) the masked luchador was fully reinstated and given a match against [Iestyn Rees](@/w/iestyn-rees.md).
 
+#### Championship pursuit
+
+At [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) started his long climb back on top of KPW by winning KPW Championship Four-Way Contendership Match, but at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) he lost in a Title Match against fellow contender [Greg](@/w/greg.md) and reigning champion [Iestyn Rees](@/w/iestyn-rees.md).
+
 ### Legacy of Wrestling (2026-present)
 
-Zefir debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Boro](@/w/boro.md).
+Zefir debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Boro](@/w/boro.md). At [Enter The Dragon](@/e/low/2026-07-10-low-6.md) he was submitted by [Jacob Crane](@/w/jacob-crane.md), and at [What's in the Box?](@/e/low/2026-10-24-low-7.md) he faced [Shadow](@/w/shadow.md) in one of his retirement tour matches.
 
 ## In wrestling
 
@@ -47,26 +53,26 @@ Zefir debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/202
 * Tag teams and stables:
   - [Leon Lato](@/w/leon-lato.md) (2023)
 * Entrance music:
+   - "Everywhere I Go" by ONLAP
+    {{ org_badge(orgs=['kpw', 'low']) }} (2023-present) <br>
+    {{ music(yt='4R8EDBkjcZQ')}}
+    {{ music(spot='3yjOB5krqe1CDyUksMCsUR')}}
+    {{ music(apple='1690724986?i=1690725170')}}
+ - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid
+    {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md)) <br>
+    {{ music(yt='a1jMUiSR4Gg')}}
+    {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
+    {{ music(apple='1523997493?i=1523997494')}}
+- "Happy Xmas (War Is Over)" by Shinedown
+    {{ org_badge(orgs=['kpw']) }} (2022) <br>
+    {{ music(yt='lhAxVhrMt_U')}}
+    {{ music(spot='4RT2cdLuHfobI0JdqW7V1W')}}
+    {{ music(apple='206345554?i=206345556')}}
   - "Monsters" by Shinedown
     {{ org_badge(orgs=['kpw']) }} (2021-2023) <br>
     {{ music(yt='EzsCb7ZwlQ0')}}
     {{ music(spot='1qAuIPMALdFtGv2Ymjy5l0')}}
     {{ music(apple='1352572887?i=1352572895')}}
-  - "Happy Xmas (War Is Over)" by Shinedown
-    {{ org_badge(orgs=['kpw']) }} (2022) <br>
-    {{ music(yt='lhAxVhrMt_U')}}
-    {{ music(spot='4RT2cdLuHfobI0JdqW7V1W')}}
-    {{ music(apple='206345554?i=206345556')}}
-  - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid
-    {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md)) <br>
-    {{ music(yt='a1jMUiSR4Gg')}}
-    {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
-    {{ music(apple='1523997493?i=1523997494')}}
-  - "Everywhere I Go" by ONLAP
-    {{ org_badge(orgs=['kpw']) }} (2023-present) <br>
-    {{ music(yt='4R8EDBkjcZQ')}}
-    {{ music(spot='3yjOB5krqe1CDyUksMCsUR')}}
-    {{ music(apple='1690724986?i=1690725170')}}
 
 ## Championships and accomplishments
 
@@ -75,8 +81,8 @@ Zefir debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/202
 
 ## Internet presence
 
-* [@zefirluchador on Instagram](https://www.instagram.com/zefirluchador/)
-* [ZefirLuchador on Facebook](https://www.facebook.com/zefirluchador/)
+* [Zefir's Instagram profile](https://www.instagram.com/zefirluchador/)
+* [Zefir's Facebook profile](https://www.facebook.com/zefirluchador/)
 
 ## References
 
