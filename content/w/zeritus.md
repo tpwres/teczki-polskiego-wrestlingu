@@ -8,13 +8,13 @@ toclevel = 2
 country = ["DE"]
 +++
 
-Zeritus is a wrestler from Germany, who performs mostly on his homeland scene, but is known for making occasional appearances in [Maniac Zone Wrestling](@/o/mzw.md).
+Zeritus is a wrestler from Germany, who performs mostly on his homeland scene, but is known for making occasional appearances in [Maniac Zone Wrestling](@/o/mzw.md) and [PpW Ewenement](@/o/ppw.md).
 
 ## Basic info
 
 * Years active: 2014-present
 * Gimmicks/nicknames:
-  - Zeritus {{ org_badge(orgs=['mzw']) }}
+  - Zeritus {{ org_badge(orgs=['mzw', 'ppw']) }}
 * Trained by:
   - Next Step Wrestling School
 
@@ -29,6 +29,10 @@ After the COVID-19 pandemic he returned once more for [MZW Game ON](@/e/mzw/2023
 
 Zeritus was able to perform for MZW mostly due to friendly relations between MZW and Dresden-based German federations such as Next Step Wrestling.
 Besides his ventures in Poland, Zeritus is mostly known for his appearances in German and other Central-European federations, such as wXw, TAW, Passion Pro and others.
+
+### PpW Ewenement (2026)
+
+In May 2026 Zeritus made his first appearance for [PpW Ewenement](@/o/ppw.md), where he teamed up with [Maverick](@/w/maverick.md) against [Boro](@/w/boro.md) and [Mutant](@/w/mutant.md).
 
 ## In wrestling
 
