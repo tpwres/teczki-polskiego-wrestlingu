@@ -10,7 +10,7 @@ hide_events = true
 chrono_root = ["ppwf"]
 +++
 
-Polish Pro-Wrestling Federation was an unsucessful semi-professional wrestling project active from late 1999/early 2000, until 2003. 
+Polish Pro-Wrestling Federation was an unsuccessful semi-professional wrestling project active from late 1999/early 2000, until 2003. 
 
 ## History
 

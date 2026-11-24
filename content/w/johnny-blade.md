@@ -67,7 +67,7 @@ At the next show, [Ewenement Haze][haze], Johnny made himself the special guest 
 #### Feud with Isnorr
 
 At [Ale Grzeje][grzeje] Johnny set up his first title defence against the Ultraviolent specialist of [Zmowa](@/tt/zmowa.md): Isnorr, who had been feuding with Blade in the past, citing his hatred towards "backyard guys" as the main reason to take Blade down. Johnny was able to score a victory over Isnorr. At [Hardcore Friday X4][hfx4] Johnny hosted an Insane Wheel of Fortune Gauntlet Invitational Match, where Isnorr reappeared and defeated the host.
-He later confirmed his ambitions for a rematch and scored another victory over Blade and his partner [Samson](@/w/samson.md) in a match where he partnered with [Gustav Gryffin](@/w/gustav-gryffin.md) at [Hardcore Friday 2][hf2]. The official rematch took part at [Co Za Noc][cozanoc], and this time Johnny Blade was unable to sucessfully defend his championship against Isnorr.
+He later confirmed his ambitions for a rematch and scored another victory over Blade and his partner [Samson](@/w/samson.md) in a match where he partnered with [Gustav Gryffin](@/w/gustav-gryffin.md) at [Hardcore Friday 2][hf2]. The official rematch took part at [Co Za Noc][cozanoc], and this time Johnny Blade was unable to successfully defend his championship against Isnorr.
 
 #### Feud with Mister Z
 
