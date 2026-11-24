@@ -45,11 +45,11 @@ Before [No Time To Die 2](@/e/mzw/2026-06-20-mzw-forever-2.md), [MZW Champion](@
 
 During the build-up to [MZW Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md) Tony challenged Marco Hammers to an MZW Championship match, claiming Marco only managed to win the title because his opponent, Gustav Gryffin, was severely weakened after the fight with Sheen. Sheen was once again defeated, but after his loss he returned to the ring and hit Marco with a steel chair to the back. He then followed it by dropping Marco onto the ring's exposed layer of plywood. Sheen took a microphone and declared he would continue to haunt Marco for as long as needed to get another title shot. Then he snatched the Championship and posed with it over the prone Hammers, making an emphatic statement. Soon after it was confirmed that Marco's neck injury was legitimate, and that he would have to retire from wrestling. 
 
-#### MZW Champion (2026-)
+#### MZW Champion 
 
 [Marco Hammers](@/w/marco-hammers.md), the [MZW Champion](@/c/mzw-championship.md), was forced to vacate his title due to a career-ending neck injury. At [Green Madness II](@/e/mzw/2026-11-20-mzw-green-madness-ii.md) Sheen faced [Disco Pablo](@/w/disco-pablo.md) in a 2 Out of 3 Falls No-DQ Match (in which Marco was the Special Guest Referee), winning the gold. 
 
-### PpW Ewenement (2025-)
+### PpW Ewenement (2025-present)
 
 At [Wjazd Na Rewir](@/e/ppw/2025-10-24-ppw-wjazd-na-rewir.md) Tony made his PpW debut as one of the competitors in the Zmowa Recruitment Gauntlet Match, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) and was quickly defeated by him. From that point on he starded making occassional appearances, mostly as enhancement talent.
 
