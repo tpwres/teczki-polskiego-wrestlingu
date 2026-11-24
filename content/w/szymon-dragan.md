@@ -15,9 +15,9 @@ Szymon Dragan is a wrestler best known for his work for [Kombat Pro Wrestling](@
 
 * Years active: 2025-present
 * Gimmicks/nicknames:
-  - Adept Dwa {{ org_badge(orgs=['kpw']) }}
-  - Szymon Kurczab {{ org_badge(orgs=['ppw', 'frpw']) }}
-  - Szymon Dragan {{ org_badge(orgs=['kpw']) }}
+  - Adept Dwa {{ org_badge(orgs=['kpw']) }} (2025-2026)
+  - Szymon Kurczab {{ org_badge(orgs=['ppw', 'frpw']) }} (2026)
+  - Szymon Dragan {{ org_badge(orgs=['kpw']) }} (2026-)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
 
