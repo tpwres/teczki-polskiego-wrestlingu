@@ -142,7 +142,7 @@ NOTE: At the beginning of the title reign Mister Z [confirmed][zet-potwierdza] t
 
 The titles were vacated at [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) due to Gustav Gryffin's injury forcing him on a prolonged hiatus.
 
-### Champions #3: Rodzina: Vic Golden & Oskar Alexander (1st run)
+### Champions #3: Rodzina: Vic Golden, Oskar Alexander, Filip Fux, Robert Star, Isnorr
 
 {% free_card() %}
 - - '[Rodzina](@/tt/rodzina.md): [Vic Golden](@/w/vic-golden.md) & [Oskar Alexander](@/w/oskar-alexander.md)'
