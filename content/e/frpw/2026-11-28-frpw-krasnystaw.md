@@ -52,7 +52,7 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
     nc: upcoming
 - - '[Antoni Ocean](@/w/antoni-ocean.md)'
   - '[Markus Paskal](@/w/markus-paskal.md)'
-    nc: upcoming
+  - nc: upcoming
 {% end %}
 
 ### Highlights
