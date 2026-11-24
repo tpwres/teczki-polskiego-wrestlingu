@@ -38,7 +38,7 @@ Plans were cut short, however, as both Sambor and Rusałka decided to [leave the
 
 After an absence of five months, Sambor made his return to MZW, where he faced [Gustav Gryffin](@/w/gustav-gryffin.md) for the [PpW Championship](@/c/ppw-championship.md) at [No Time To Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), resulting in a defeat by submission.
 
-At [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md) Sambor unsucessfully competed for [LoW European Championship](@/c/low-european-championship.md) against [Boro](@/w/boro.md) and reigning champion [Jakub](@/w/jakub.md).
+At [Forever 2](@/e/mzw/2026-06-20-mzw-forever-2.md) Sambor unsuccessfully competed for the [Legacy of Wrestling European Championship](@/c/low-european-championship.md) against [Boro](@/w/boro.md) and the reigning Champion [Jakub](@/w/jakub.md).
 
 ### PpW Ewenement (2024-present)
 
@@ -50,7 +50,7 @@ At [Ostatnia Prosta](@/e/ppw/2025-04-30-ppw-ostatnia-prosta.md) Sambor took part
 
 #### Rivalry with luchadors and injury
 
-At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Sambor took on Hungarian luchador Wonder Haze in a Singles Match. He managed to win that bout, but after the show it was revealed that their rivalry was not yet finished. He alligned himself with Marcelito to face Wonder Haze and [Sentinel](@/w/sentinel.md) in a Lucha Rules Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). During said match Sambor suffered a serious knee injury, which sidelined him from competing until January 2026, when he returned at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md). From that point on Sambor started making ocassional appearances for PpW throughout 2026.
+At [Hardcore Friday Turniej TypeShit](@/e/ppw/2025-08-15-ppw-hardcore-friday-turniej-typeshit.md) Sambor took on Hungarian luchador Wonder Haze in a Singles Match. He managed to win that bout, but after the show it was revealed that their rivalry was not yet finished. Sambor alligned himself with Marcelito to face Wonder Haze and [Sentinel](@/w/sentinel.md) in a Lucha Rules Match at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md). During that match Sambor suffered a serious knee injury which sidelined him from competing until January 2026, when he returned at [Najlepsza Gala w Mieście \[Hardcore Edition\]](@/e/ppw/2026-01-16-ppw-najlepsza-gala-w-miescie-hardcore-edition.md). From that point on Sambor started making occasional appearances for PpW throughout 2026.
 
 ### Legacy of Wrestling (2024-present)
 
@@ -58,7 +58,7 @@ Sambor appeared at [Legacy of Wrestling's](@/o/low.md) [first show](@/e/low/2024
 
 #### Feud with Disco Pablo
 
-At [Open Season](@/e/low/2026-05-24-low-5.md) Sambor entered Four Way Elimination Match where he was eliminated by his ally: [Disco Pablo](@/w/disco-pablo.md). Despite that, when Pablo alongside [Marcelito](@/w/marcelito.md) were set up to fight [Biuro Prasowe](@/tt/biuro-prasowe.md) at [Enter The Dragon](@/e/low/2026-07-10-low-6.md) Sambor helped the duo when they were double crossed by [Bartosz Plata](@/w/plata.md). Despite Sambor's help, the trio lost against Biuro Prasowe. After the match Sambor blamed Pablo for this defeat and his recent series of losses, turning on his friend. As a result, Pablo demanded a match against the Slavic warrior to which he agreed, but on the condition that the choice of the stipulation will be his. Pablo picked Extreme Rules Match, and it took place at [What's in the Box?](@/e/low/2026-10-24-low-7.md), where Sambor defeated his former friend.
+At [Open Season](@/e/low/2026-05-24-low-5.md) Sambor entered a Four Way Elimination Match where he was eliminated by his ally, [Disco Pablo](@/w/disco-pablo.md). Despite that, when Pablo and [Marcelito](@/w/marcelito.md) were set up to fight [Biuro Prasowe](@/tt/biuro-prasowe.md) at [Enter The Dragon](@/e/low/2026-07-10-low-6.md), Sambor helped the duo when they were double crossed by [Bartosz Plata](@/w/plata.md). Despite Sambor's help, the trio lost. After the match Sambor blamed Pablo for this defeat and his recent series of losses, turning on his friend. As a result, Pablo demanded a match against the Slavic warrior, to which he agreed but on the condition that the choice of the stipulation would be his. Pablo choese the Extreme Rules Match, and it took place at [What's in the Box?](@/e/low/2026-10-24-low-7.md), where Sambor defeated his former friend.
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 

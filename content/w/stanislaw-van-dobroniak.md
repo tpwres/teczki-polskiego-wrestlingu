@@ -52,9 +52,9 @@ Before [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) Dobroniak po
 
 In their match at the show, Zombie Johnny was different from his regular persona, mostly shambling slowly towards Dobroniak, trying to eat his brain, and no-selling many of his attacks. Eventually, Dobroniak was able to tie Johnny down with a length of barbed wire and dunk him in a bathtub filled with non-alcoholic beer, which quickly cured the zombie state. While nominally it was Dobroniak who won the match, the newly restored Johnny celebrated the victory with him and the fans.
 
-#### Ocassional appearances
+#### Occasional appearances
 
-Throughout second half of 2025 and most of 2026 Stanisław has been making ocassional appearances for PpW. He mostly worked as babyface, ofter alligning himself with [The Hardcors](@/tt/the-hardcors.md) as their "Honorary Member" in a matches against [Rodzina](@/tt/rodzina.md). 
+Throughout the second half of 2025 and most of 2026 Stanisław made only occasional appearances for PpW. He mostly worked as a babyface, ofter alligning himself with [The Hardcors](@/tt/the-hardcors.md) as their "Honorary Member" in matches against [Rodzina](@/tt/rodzina.md). 
 
 ## Other media
 

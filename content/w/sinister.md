@@ -61,7 +61,7 @@ The former mentor of Syriusz tanked the whole match, first by avoiding the fight
 Finally Sinister performed a "Judas kiss" and hit Dziedzic in the groin, thus getting himself disqualified and handing Syriusz the win.
 At the [third show](@/e/low/2025-07-11-low-3.md) Sinister once again tried to torment Dziedzic by interfering in his Six-Man Tag Team Match and handing him a weapon, but Dziedzic declined his offer, which resulted in him being defeated by his opponents.
 
-At [Open Season](@/e/low/2026-05-24-low-5.md) Sinister came out after Dziedzic's match and berated him for losing once again. Dziedzic challenged his former master to a match at Ryucon to which Sinister agreed, but only under the condition that if he wins, Dziedzic will once again join him. Dziedzic countered with a stipulation of his own: if he wins, Sinister must quit Legacy forever. At [Enter the Dragon](@/e/low/2026-07-10-low-6.md) Dziedzic managed to beat Sinister in a Falls Count Anywhere Match. He won, thus securing his freedom and ending Sinister's career.
+At [Open Season](@/e/low/2026-05-24-low-5.md) Sinister came out after Dziedzic's match and berated him for losing once again. Dziedzic challenged his former master to a match at Ryucon to which Sinister agreed, but only under the condition that if he wins, Dziedzic would once again join him. Dziedzic countered with a stipulation of his own: if he won, Sinister must quit Legacy forever. At [Enter the Dragon](@/e/low/2026-07-10-low-6.md) Dziedzic managed to beat Sinister in a Falls Count Anywhere Match. He won, thus securing his freedom and ending Sinister's career.
 
 ## In wrestling
 

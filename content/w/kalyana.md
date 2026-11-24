@@ -33,7 +33,7 @@ Kalyana made her debut at [PpW x Wixapol](@/e/ppw/2026-08-15-ppw-wixapol.md) sho
 
 ## International wrestling appearances
 
-From August 2026 onwards Kalyana started making ocassional appearances abroad, most notably working at Dresden Wrestling School dojo shows.
+From August 2026 onwards Kalyana started making occasional appearances abroad, most notably working at Dresden Wrestling School dojo shows.
 
 ## In wrestling
 
