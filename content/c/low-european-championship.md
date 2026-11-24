@@ -18,10 +18,13 @@ Legacy's [second](@/e/low/2025-04-06-low-2.md) and [third](@/e/low/2025-07-11-lo
 ## Statistics
 
 * First champion: [Jakub](@/w/jakub.md)
-* Most reigns: Jakub (1)
-* Longest reign: Jakub (1+ days)
+* Most reigns: Jakub, [Chemik](@/w/chemik.md), [Max Speed](@/w/max-speed.md) (1)
+* Longest reign: Jakub (308 days)
+* Shortest reign: Max Speed (<1 day)
 * Oldest champion: Jakub (27 years, 177 days)
-* Heaviest champion: Jakub (80&nbsp;kg)
+* Youngest champion: Max Speed (25 years, 45 days)
+* Heaviest champion: Chemik (88&nbsp;kg)
+* Lightest champion: Jakub (80&nbsp;kg)
 
 ## History
 
@@ -121,8 +124,8 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
   - s: Singles Match
     en: '[Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md)'
     ed: 2026-07-10
-- - 'Jakub(c)'
-  - '[Max Speed](@/w/max-speed.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - 'Jakub(c)'
   - s: Singles Match
     en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
     ed: 2026-10-24
