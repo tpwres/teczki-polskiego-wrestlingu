@@ -88,6 +88,11 @@ In August 2023 Referee Seweryn made history as the first Polish referee to work 
 * Finishers:
   - _Twist of Sew_ (Twist of Fate) (2025-)
 * Entrance music:
+  - "Armed & Dangerous" by King Von
+    {{ org_badge(orgs=['ppw']) }} (2026) <br>
+    {{ music(yt='tBKYI3-3lMg')}}
+    {{ music(spot='2297mxrYLBAC4XkhXs39If')}}
+    {{ music(apple='1536950463?i=1536950464')}}
   - "Waza" by HEWRA
     {{ org_badge(orgs=['ppw']) }} (2025, as a member of The Referees) <br>
     {{ music(yt='LMayWdD7Oac?t=42')}}
