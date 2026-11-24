@@ -48,7 +48,7 @@ Royal Rebels finally lost their Tag Team Championship against [Miyagi Sigma](@/t
 
 #### PTW Champion
 
-At [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) Vincent won 20-Man Gold Rush Rumble Match which made him #1 Contender for [PTW Championship](@/c/ptw-championship.md) held by [Spartan](@/w/spartan.md)
+At [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) Vincent won 20-Man Gold Rush Rumble Match which made him #1 Contender for [PTW Championship](@/c/ptw-championship.md) held by [Spartan](@/w/spartan.md), who turned against [Łukasz Okoński](@/w/lukasz-okonski.md) the [show before](@/e/ptw/2026-07-18-ptw-slepa-furia.md). At [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md), during contract signing moderated by Okoński, Spartan and Caravaggio started a war of words. Caravaggio established the reasons why he needed to save PTW, thus fully confirming his face turn. Both competitors were bickering which stipulation was more fitting for their final face-off. Spartan postulated a Street Fight due to its brutality, while Caravaggio was in favor of a Submission Match as the most decisive finish. Okoński ignored their pleas, reminded of his authority and decided on a stipulation of his own: whoever beats the opponent three times, wins the Championship. Finally, at [Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md) Vincent managed to defeat Spartan to become third PTW Champion in history.
 
 ## International wrestling appearances
 
