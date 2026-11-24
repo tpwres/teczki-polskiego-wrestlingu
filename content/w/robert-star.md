@@ -75,8 +75,8 @@ Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the U
 In 2025 Robert returned once more during the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). 
 At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he managed to win the Six-Man #1 Contender Ladder Match for the [PpW Championship](@/c/ppw-championship.md). The match was set up to take place at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), however before it took place, Star intervened in a Tornado Tag Team Match between [Rodzina](@/tt/rodzina.md) members ([Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md). He helped Oskar and Agatka win, revealing himself as the newest member of Rodzina which was teased by the faction leader, [Vic Golden](@/w/vic-golden.md), during the build-up to the show.
 
-Robert himself was unable to win his match against the defending champion [Goblin](@/w/goblin.md), even though Rodzina once again tried to help their fellow member to gain advantage. From that point on Robert spent most of 2026 making part-time appearances on PpW's bigger shows, where he mostly worked alongside fellow Rodzina members such as [Filip Fux](@/w/filip-fux.md). 
-At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Robert was recognised as a full Champion alongside every member of Rodzina during group's first title reign.
+Robert himself was unable to win his match against the defending Champion [Goblin](@/w/goblin.md), even though Rodzina once again tried to help their fellow member to gain advantage. From that point on Robert spent most of 2026 making part-time appearances on PpW's bigger shows, where he mostly worked alongside fellow Rodzina members such as [Filip Fux](@/w/filip-fux.md). 
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Robert was recognised as a full Champion alongside every member of Rodzina during group's first title reign.
 
 At [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) Robert succesfully defended his DPW Heavweight Championship against [Shigehiro Irie](@/w/shigehiro-irie.md).
 
@@ -86,7 +86,7 @@ Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show]
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Robert made his first appearances for [FRPW](@/o/frpw.md) during federation's tour to [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and [Warka](@/e/frpw/2026-10-18-frpw-warka.md), where he worked with [Filp Fux](@/w/filip-fux.md) in few Tag Team matches.
+Robert made his first appearances for [FRPW](@/o/frpw.md) during federation's tour to [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and [Warka](@/e/frpw/2026-10-18-frpw-warka.md), where he worked with [Filp Fux](@/w/filip-fux.md) in a few Tag Team matches.
 
 ## International wrestling appearances
 

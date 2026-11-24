@@ -36,11 +36,11 @@ At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) [Chemik](@/w
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In late April 2026, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), making his [FRPW](@/o/frpw.md) in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md).  From that point on Oskar started making regular appearances for FRPW.
+In late April 2026, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), making his [FRPW](@/o/frpw.md) debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md). From that point on Oskar started making regular appearances for FRPW.
 
 ### Legacy of Wrestling (2026-present)
 
-Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), where he faced [Marco Hammers](@/w/marco-hammers.md). He quickly got involved in storyline conflict with Polish wrestling influencer Patryk "Patrykos" Domke, spanning social media and Legacy shows. The storyline concluded at [Enter The Dragon](@/e/low/2026-07-10-low-6.md) where Haller aired his grievances against Patrykos and his fans, even citing some comments from that online feud. The two started to brawl, which turned into a ground and pound, where Oskar gained the upper hand, until Marco came to make the save.
+Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), where he faced [Marco Hammers](@/w/marco-hammers.md). He quickly got involved in a storyline conflict with Polish wrestling influencer Patryk "Patrykos" Domke, spanning social media and Legacy shows. The storyline concluded at [Enter The Dragon](@/e/low/2026-07-10-low-6.md) where Haller aired his grievances against Patrykos and his fans, even citing some comments from the online feud. The two started to brawl, which turned into a ground and pound with Oskar gaining the upper hand, until Marco came to make the save.
 
 At [What's in the Box?](@/e/low/2026-10-24-low-7.md) Haller and [Chemik](@/w/chemik.md) faced [Boro](@/w/boro.md) and [Olgierd](@/w/olgierd.md) in a Tag Team Match.
 
@@ -52,7 +52,6 @@ Oskar Haller made his debut for [PpW Ewenement](@/o/ppw.md) at [Brutality](@/e/p
 
 * Finishers:
  - _Big Ending_ (2025-)
-
 * Entrance music:
   - "Dutty" by PΦrch
     {{ org_badge(orgs=['kpw', 'low', 'frpw', 'ppw']) }} (2025-) <br>
