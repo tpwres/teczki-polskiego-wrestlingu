@@ -55,7 +55,7 @@ The Fux Brothers versus Legia Łysych Match eventually happened at [Legacy of Wr
 
 #### Singles Competition
 
-At Legacy's [third show](@/e/low/2025-07-11-low-3.md) Filip unsucessfully challenged [Gabriel Queen](@/w/gabriel-queen.md) and [Oskar Alexander](@/w/oskar-alexander.md) in a Road to the Title Triple Threat Match. However, he got his another opportunity for a Championship at [Open Season](@/e/low/2026-05-24-low-5.md) where he faced [LoW European Champion](@/c/low-european-championship.md) [Jakub](@/w/jakub.md) in his first - and successful - title defence.
+At Legacy's [third show](@/e/low/2025-07-11-low-3.md) Filip unsuccessfully challenged [Gabriel Queen](@/w/gabriel-queen.md) and [Oskar Alexander](@/w/oskar-alexander.md) in a Road to the Title Triple Threat Match. However, he got his another opportunity for a Championship at [Open Season](@/e/low/2026-05-24-low-5.md) where he faced [LoW European Champion](@/c/low-european-championship.md) [Jakub](@/w/jakub.md) in his first - and successful - title defence.
 
 ### PpW Ewenement Wrestling (2026-present)
 
