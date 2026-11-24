@@ -42,7 +42,7 @@ Just before the show, the odds for 6-man match were firmly favoring the babyface
 
 ### Maniac Zone Wrestling (2026)
 
-Arek made his first appearance for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) in March 2026. He appeared as [Tony Sheen's](@/w/riverman.md) manager officially acknowleding Biuro Prasowe in MZW. After putting Tony in a Main Event for vacated [MZW Championship](@/c/mzw-championship.md) against [Gustav Gryffin](@/w/gustav-gryffin.md) he tried to intervene in a match, but despite his efforts Tony was unsucessful in winning the championship.
+Arek made his first appearance for [Maniac Zone Wrestling](@/o/mzw.md) at [No Time To Die 2](@/e/mzw/2026-03-28-mzw-no-time-to-die-2.md) in March 2026. He appeared as [Tony Sheen's](@/w/riverman.md) manager officially acknowleding Biuro Prasowe in MZW. After putting Tony in a Main Event for vacated [MZW Championship](@/c/mzw-championship.md) against [Gustav Gryffin](@/w/gustav-gryffin.md) he tried to intervene in a match, but despite his efforts Tony was unsuccessful in winning the championship.
 
 ### Kombat Pro Wrestling (2026)
 
