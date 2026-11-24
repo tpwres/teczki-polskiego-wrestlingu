@@ -23,6 +23,7 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
 * On 3.11.2026 the promotion announced a Tag Team Match between PSY.CHO ([Tomczak](@/w/tomczak.md) & [Stowarzysz](@/w/stowarzysz.md)) and Bracia Puro (_The Puro Brothers_, [Bartosz Plata](@/w/plata.md) & [adept Sawo](@/w/sawo.md)).
 * In a [video][cos-tam-ze-beda-sie-bic] published on 12.11.2026 [Kalyana](@/w/kalyana.md) confronted [Emil Völler](@/w/emil-voeller.md) and challenged him to a match for his wXw Academy Championship, before being cut off by [Gloria](@/w/gloria-g-szek.md) who felt she was more deserving of that match. As a result, the two women agreed to a fight to determine which one of them would face Völler for the title. The match was officially confirmed the next day.
 * On 17.11.2026 FRPW announced [Goblin](@/w/goblin.md) vs [Jakub](@/w/jakub.md) in the first in a series of qualifying matches for the FRPW Championship tournament, to be held at [Najlepsi Z Najlepszych](@/e/frpw/2027-01-24-frpw-najlepsi-z-najlepszych.md).
+* On 24.11.2026 came the announcement of [Antoni Ocean](@/w/antoni-ocean.md) vs [Markus Paskal](@/w/markus-paskal.md).
 
 ## Predicted card
 
@@ -49,6 +50,9 @@ The fourth show in the "Wrestling w Twoim Mieście" (_Wrestling in Your City_) s
   - '[Jakub](@/w/jakub.md)'
   - s: Najlepsi Z Najlepszych Qualifying Match
     nc: upcoming
+- - '[Antoni Ocean](@/w/antoni-ocean.md)'
+  - '[Markus Paskal](@/w/markus-paskal.md)'
+  - nc: upcoming
 {% end %}
 
 ### Highlights
