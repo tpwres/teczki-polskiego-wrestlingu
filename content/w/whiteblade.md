@@ -1,7 +1,7 @@
 +++
 title = "Whiteblade"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -34,7 +34,11 @@ Dropper first appeared as a rookie at [All About the Moné](@/e/ptw/2025-07-27-p
 
 After their loss at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) Drop & Bump broke up. [Damian Lambert](@/w/damian-lambert.md) interfered in a post-match altercation between the two. Driving Bumper away, he offered Dropper a lucha mask but was refused. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
 
-At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself as _The Prophet_. He prophesized the end of the world and promised to save everyone - just like he had saved a person so lost that even his name was Dropper. Now renamed Whiteblade, he made a full entrance wearing a lucha mask gifted by Lambert complete with a new, black and white gear.
+At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself as _The Prophet_. He prophesized the end of the world and promised to save everyone - just like he had saved a person so lost that even his name was Dropper. Now renamed Whiteblade, he made a full entrance wearing a lucha mask gifted by Lambert complete with a new, black and white gear. His alliance with Lambert didn't last long, as _The Prophet_ left PTW soon after [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md). 
+
+#### Proroctwo
+
+Whiteblade's solitude was quickly ended at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md), where [Sawicki](@/w/schwartzmann.md) intervened in a match between Whitebladeand [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), when he handcuffed Niedźwiedź's partner [Misiek](@/w/misiek.md) to prevent him from helping Niedźwiedź. This allowed Whiteblade to secure a win which granted Sawicki a place in [Proroctwo](@/tt/proroctwo.md). At [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) Sawicki mentioned that [Prorok Lambert](@/w/damian-lambert.md) had been a false prophet, but the prophecy was intact and the end of the world was still coming. Proroctwo managed to win #1 Contendership for [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in a match against [Royal Rebels](@/tt/royal-rebels.md) at [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md). Finally, Whiteblade and Sawicki - now called Schwarzmann - won the Tag Team gold at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) after Proroctwo was aided by returing [Dziedzic](@/w/dziedzic.md) and treacherous adeptka Paula.
 
 ## In wrestling
 
