@@ -11,7 +11,7 @@ country = ["PL"]
 1 = { path = "vic-golden.webp", caption = "Vic Golden at [PpW Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md).", source = "Official PpW VOD" }
 +++
 
-Vic Golden is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md). He also made numerous appearances in [Prime Time Wrestling](@/o/ptw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and on the Polish backyard scene.
+Vic Golden is a Polish wrestler currently performing in [PpW Ewenement](@/o/ppw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md). He also made numerous appearances in [Prime Time Wrestling](@/o/ptw.md), [Maniac Zone Wrestling](@/o/mzw.md), [Dream Factory Wrestling](@/o/dfw.md) and on the Polish backyard scene.
 
 ## Basic info
 
@@ -140,6 +140,10 @@ At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Gustav Gryffin](@/w/
 
 Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling vol.2](@/e/low/2025-04-06-low-2.md). What was announced as a singles match between him and [Greg](@/w/greg.md) turned into a tag team match when the unannounced [Chemik](@/w/chemik.md) jumped Greg, who was then aided by [Robert Star](@/w/robert-star.md). The babyface duo won, with Greg pinning Vic.
 
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Vic made his debut for [FRPW](@/o/frpw.md) at [Wrestling w Twoim Mieście: Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md), where he teamed up with [Markus Paskal](@/w/markus-paskal.md) to face [Laurance Roman](@/w/laurance-roman.md) and [Stowarzysz](@/w/stowarzysz.md) in a Tag Team Match.
+
 ## In wrestling
 
 * Finishers:
@@ -151,6 +155,16 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
   - [Pure Gold](@/tt/pure-gold.md) (2022-2025)
   - [Rodzina](@/tt/rodzina.md) (2025-)
 * Entrance music:
+  - "Hi Fi" by Wanda i Banda
+    {{ org_badge(orgs=['low', 'ppw']) }} (2025-)
+    {{ music(yt='INGAIJiMCnE')}}
+    {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
+    {{ music(apple='1791001676?i=1791001922')}}
+  - "What Do You Want From Me" by Pink Floyd
+    {{ org_badge(orgs=['ppw']) }} (2025-, as part of [Rodzina](@/tt/rodzina.md)) <br>
+    {{ music(yt='A8i7248HqEY') }}
+    {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
+    {{ music(apple='1065976549?i=1065976566') }}
   - "Witness" by Mindless Self Indulgence
     {{ org_badge(orgs=['mzw', 'ddw']) }} (2015-2021) <br>
     {{ music(yt='wvl092QgTJU')}}
@@ -166,11 +180,6 @@ Vic Golden made his [Legacy](@/o/low.md) debut as a heel at [Legacy of Wrestling
     {{ music(yt='ZSGC3g-EWbw')}}
     {{ music(spot='3T6DY7gUqGCcHG6HON54Ex')}}
     {{ music(apple='1440632617?i=1440633345')}}
-  - "Hi Fi" by Wanda i Banda
-    {{ org_badge(orgs=['low', 'ppw']) }} (2025-)
-    {{ music(yt='INGAIJiMCnE')}}
-    {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
-    {{ music(apple='1791001676?i=1791001922')}}
 
 ## Championships and accomplishments
 
