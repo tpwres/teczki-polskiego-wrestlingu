@@ -24,13 +24,13 @@ Whiteblade is a wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Professional wrestling career
 
-### Prime Time Wrestling (2025-)
+### Prime Time Wrestling (2025-present)
 
-#### Dropper (2025-2026)
+#### Dropper 
 
 Dropper first appeared as a rookie at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), alongside rookies [Bumper](@/w/fabian.md) and [Boguś](@/w/bogus.md) in a Handicap Match against [Dawid "Puncher" Seńko](@/w/puncher.md) for the [PTW Championship](@/c/ptw-championship.md) and the BestYa Championship. He later made his official debut at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md). Over next months, he appeared both as a singles competitor and in a tag team with [Bumper](@/w/fabian.md), collectively known as Drop & Bump.
 
-#### Transformation into Whiteblade (2026-)
+#### Transformation into Whiteblade 
 
 After their loss at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) Drop & Bump broke up. [Damian Lambert](@/w/damian-lambert.md) interfered in a post-match altercation between the two. Driving Bumper away, he offered Dropper a lucha mask but was refused. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
 
@@ -38,11 +38,13 @@ At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself
 
 ## In wrestling
 
+* Finishers:
+  - _Skyblade_ (Swanton Bomb) (2025-)
 * Tag Teams and stables:
   - [Proroctwo](@/tt/proroctwo.md) (2026-)
 * Entrance music:
   - "Choke" by I Prevail
-    {{ org_badge(orgs=['ptw']) }} (as Whiteblade, 2026-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2026-) <br>
     {{ music(yt='kINkBXS_YZY')}}
     {{ music(spot='7jm63qwHLmemNcMzORjwfi')}}
     {{ music(apple='1629105882?i=1629105882')}}
