@@ -156,7 +156,7 @@ Vic made his debut for [FRPW](@/o/frpw.md) at [Wrestling w Twoim Mieście: Siedl
   - [Rodzina](@/tt/rodzina.md) (2025-)
 * Entrance music:
   - "Hi Fi" by Wanda i Banda
-    {{ org_badge(orgs=['low', 'ppw']) }} (2025-)
+    {{ org_badge(orgs=['low', 'ppw', 'frpw']) }} (2025-)
     {{ music(yt='INGAIJiMCnE')}}
     {{ music(spot='6wH3gh2QYQfoEZxjnpWH2d')}}
     {{ music(apple='1791001676?i=1791001922')}}
