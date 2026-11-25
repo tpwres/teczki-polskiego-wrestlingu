@@ -13,17 +13,17 @@ country = ["PL"]
 3 = { path = "hardcore-referee-koszulka.jpg", caption = "Facebook post announcing Kornel's T-shirts for sale at [Co Za Noc](@/e/ppw/2024-10-26-ppw-co-za-noc.md).", source = "Kornel's Facebook profile" }
 +++
 
-Sędzia Kornel is a Polish wrestling referee best known for his time in [PpW Ewenement](@/o/ppw.md). He also appeared in [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
+Sędzia Kornel is a currently-inactive Polish wrestling referee best known for his time in [PpW Ewenement](@/o/ppw.md). He also appeared in [Maniac Zone Wrestling](@/o/mzw.md) and [Legacy of Wrestling](@/o/low.md).
 
 ## Basic info
 
-* Years active: 2022-present
+* Years active: 2022-2026
 * Gimmicks/nicknames:
   - Sędzia Kornel {{ org_badge(orgs=['ppw', 'mzw', 'low']) }}
   - Kapitan Kornel {{ org_badge(orgs=['ppw']) }} (non-canon shows)
   - Ignacio {{ org_badge(orgs=['ppw']) }} (non-canon shows)
 * Trained by:
-  - [Ewenement Dojo](@/o/dojo.md) (2024-)
+  - [Ewenement Dojo](@/o/dojo.md) (2024-2026)
 
 ## Professional wrestling career
 
@@ -52,7 +52,7 @@ After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), members of [Zm
 
 #### 2026 hiatus
 
-Following [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Kornel stepped down from his position of PpW official due to non-wrestling related reasons and relocation to United Kingdom.
+Following [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Kornel stepped down from his position as a PpW official due to non-wrestling related reasons, and relocation to the United Kingdom.
 
 ### Maniac Zone Wrestling (2023, 2025)
 
