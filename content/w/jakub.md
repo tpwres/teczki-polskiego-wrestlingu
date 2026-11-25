@@ -215,7 +215,7 @@ From around 2022 onwards Axel become one of the most active Polish pro wrestlers
 
 ## Internet presence
 
-* [Axel's Instagram profile](https://www.instagram.com/axelfox.jakub)
+* [Axel's Instagram profile](https://www.instagram.com/foxjakub.af/)
 
 ## References
 
