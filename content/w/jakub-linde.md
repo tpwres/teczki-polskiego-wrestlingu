@@ -42,4 +42,4 @@ In December 2024 Jakub Linde made his debut in the newly-created federation [Leg
 
 ## Internet presence
 
-* [jakub.linde](https://www.instagram.com/jakub.linde/) on Instagram
+* [Jakub's Instagram](https://www.instagram.com/jakub.linde/)
