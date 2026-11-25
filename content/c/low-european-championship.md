@@ -136,11 +136,11 @@ Overall, the Legacy of Wrestling European Championship is heavily inspired in sh
 ### Champion #2: Max Speed
 
 {% free_card() %}
-- - '[Max Speed](@/w/max-speed.md)(c)'
-  - '[Jakub](@/w/jakub.md)'
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Jakub](@/w/jakub.md)(c)'
   - s: Singles Match
     en: "[Legacy of Wrestling: What's in the Box?](@/e/low/2026-10-24-low-7.md)"
-    ed: 2026-07-24
+    ed: 2026-10-24
 - - '[Chemik](@/w/chemik.md)'
   - 'Max Speed(c)'
   - s: 'Contract Cash-In'
