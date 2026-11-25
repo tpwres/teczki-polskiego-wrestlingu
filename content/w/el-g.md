@@ -50,7 +50,7 @@ Later on, as he started to make more regular appearances, El G shifted towards a
 
 ## Internet presence
 
-* [El G's Instagram](https://www.instagram.com/emanuel_el_g_wrestler)
+* [El G's Instagram](https://www.instagram.com/emanuel_el_g_wrestling/)
 
 ## References
 

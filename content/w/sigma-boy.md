@@ -68,7 +68,7 @@ As part of the new working relationship between PTW and the Austrian promotion R
 
 ## Internet presence
 
-* [Instagram](https://www.instagram.com/sigmaboy_ptw/)
+* [Sigma's Instagram](https://www.instagram.com/sigmaboyxd_ptw/)
 
 ## References
 
