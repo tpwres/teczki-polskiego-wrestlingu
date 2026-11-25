@@ -77,4 +77,4 @@ In 2024 Samson, along with [Axel Fox](@/w/jakub.md) and other Polish talent, tra
 ## Internet presence
 
 * [Samson's Facebook profile](https://www.facebook.com/Samsontgg/) 
-* [Samson's Instagram](https://instagram.com/tg.samson)
+* [Samson's Instagram](https://www.instagram.com/samson_pw/)
