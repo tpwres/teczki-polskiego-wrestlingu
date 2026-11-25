@@ -70,7 +70,7 @@ At [Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md) Wiktor L
 ## Internet presence
 
 * [Wiktor's Facebook profile](https://www.facebook.com/WiktorLongman)
-* [Wiktor's Instagram](https://www.instagram.com/longman_pw)
+* [Wiktor's Instagram](https://www.instagram.com/wiktor.dlugaj/)
 
 ## References
 

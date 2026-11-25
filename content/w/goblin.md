@@ -151,7 +151,7 @@ In February 2026 PpW announced that Goblin would be part of their excurion to Ja
 
 ## Internet presence
 
-* [Goblin's Instagram](https://www.instagram.com/acid_messiah_goblin)
+* [Goblin's Instagram](https://www.instagram.com/goblinturnedheel/)
 
 ## References
 

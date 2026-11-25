@@ -43,7 +43,7 @@ Dieter debuted for [FRPW](@/o/frpw.md) at the [show in Siedlce](@/e/frpw/2026-10
 
 ## Instagram presence
 
-* [Dieter's Instagram](https://www.instagram.com/deti712)
+* [Dieter's Instagram](https://www.instagram.com/dieter.schwartz.catch/)
 
 ## References
 

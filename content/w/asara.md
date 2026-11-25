@@ -41,7 +41,7 @@ Asara debuted for [FRPW](@/o/frpw.md) at [Na Słowo Honoru](@/e/frpw/2026-11-08-
 
 ## Internet presence
 
-* [Asara's Instagram](https://www.instagram.com/leco105_asara)
+* [Asara's Instagram](https://www.instagram.com/asara_wrestling/)
 
 ## References
 
