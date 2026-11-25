@@ -29,7 +29,7 @@ Shigehiro Irie made a single appearance at [KPW Arena 21: Stara Szkoła](@/e/kpw
 
 ### PpW Ewenement Wrestling (2025-present)
 
-Shigehiro debuted for PpW at [Duch Świąt, Śmak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), defeating [Gustav Gryffin](@/w/gustav-gryffin.md). In the early 2026 he worked [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) PpW held in Tokio, before returning to Poland over half a year later at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), where he was defeated by [Robert Star](@/w/robert-star.md) in a Singles Match for DPW Championship.
+Shigehiro debuted for PpW at [Duch Świąt, Śmak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), defeating [Gustav Gryffin](@/w/gustav-gryffin.md). In the early 2026 he worked [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) PpW held in Tokio, before returning to Poland over half a year later at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), where he was defeated by [Robert Star](@/w/robert-star.md) in a Singles Match for the DPW Championship.
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 

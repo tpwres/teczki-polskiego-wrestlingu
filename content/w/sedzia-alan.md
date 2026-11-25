@@ -15,13 +15,13 @@ Sędzia Alan is a Polish wrestling referee working for [Kombat Pro Wrestling](@/
 
 * Years active: 2026-
 * Gimmicks/nicknames:
-  - Sędzia Alan {{ org_badge(orgs=['kpw']) }}
+  - Sędzia Alan {{ org_badge(orgs=['kpw', 'low']) }}
  
 ## Professional wrestling career
 
 ### Kombat Pro Wrestling (2026-present)
 
-Sędzia Alan debuted on [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), where he shared duties with [Krystian Czekaj](@/w/krystian-czekaj.md). The two referees took turns officiating shows for a few month, until [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), which was Alan's first solo effort. From that point on Alan started appearaing as KPW's main referee, with Krystian Czekaj making his appearances more in part-time fashion.
+Sędzia Alan debuted at [Arena 31](@/e/kpw/2026-01-16-kpw-arena-31.md), where he shared duties with [Krystian Czekaj](@/w/krystian-czekaj.md). The two referees took turns officiating shows for a few months until [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md), which was Alan's first solo effort. From that point on Alan started working as KPW's main referee, with Krystian Czekaj's appearances becoming more part-time.
 
 ### Legacy of Wrestling (2026-present)
 

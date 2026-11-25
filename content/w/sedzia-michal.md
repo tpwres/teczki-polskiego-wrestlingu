@@ -14,7 +14,7 @@ Sędzia Michał is a Polish wrestling referee best known from his time in [Mania
 
 * Years active: 2019-2021; 2025-present
 * Gimmicks/nicknames:
-  - Sędzia Michał {{ org_badge(orgs=['mzw']) }}
+  - Sędzia Michał {{ org_badge(orgs=['mzw', 'low', 'frpw']) }}
 * Trained by:
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
 
@@ -32,7 +32,7 @@ Sędzia Michał made a surprise return in 2025, when he worked at [Zjedz Mu Łeb
 
 ### Legacy of Wrestling (2026-present)
 
-Michał made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), he also worked for LoW at [Enter The Dragon](@/e/low/2026-07-10-low-6.md).
+Michał made his first appearance for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md). He also worked at [Enter The Dragon](@/e/low/2026-07-10-low-6.md).
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 

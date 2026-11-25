@@ -52,7 +52,7 @@ After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), members of [Zm
 
 #### 2026 hiatus
 
-Following [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Kornel stepped down from his position as a PpW official due to non-wrestling related reasons, and relocation to the United Kingdom.
+Following [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Kornel stepped down from his position as a PpW official due to personal reasons, and relocated to the United Kingdom.
 
 ### Maniac Zone Wrestling (2023, 2025)
 

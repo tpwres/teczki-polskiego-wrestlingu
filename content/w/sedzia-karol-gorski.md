@@ -18,7 +18,7 @@ Sędzia Karol Górski, also known as Charlie Grayson and Madman Charlie, is a Po
 * Nicknames:
   - Charlie Grayson and later Charlie in {{ org_badge(org='dfw') }}
   - Madman Charlie in {{ org_badge(org='mzw') }} and briefly {{ org_badge(org='ppw') }}
-  - Sędzia Karol Górski in {{ org_badge(org='ppw') }}, after becoming a referee
+  - Sędzia Karol Górski in {{ org_badge(orgs='ppw', 'low') }}, after becoming a referee
 * Trained by:
   - MZW Academy (2017)
   - [Polska Akademia Wrestlingu](@/o/paw.md) (2017-2021)
@@ -64,7 +64,7 @@ In a post-match interview at [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przes
 
 ### Legacy of Wrestling (2025)
 
-In 2025 Karol made two appearances for [Legacy of Wrestling](@/o/low.md), working on Legacy's [second show](@/e/low/2025-04-06-low-2.md), as well as at [Four The Glory](@/e/low/2025-12-20-low-4.md). On both occasions he worked alongside [Seweryn](@/w/sedzia-seweryn.md).
+In 2025 Karol made two appearances for [Legacy of Wrestling](@/o/low.md), working at Legacy's [second show](@/e/low/2025-04-06-low-2.md) an at [Four The Glory](@/e/low/2025-12-20-low-4.md). On both occasions he worked alongside [Seweryn](@/w/sedzia-seweryn.md).
 
 ## In wrestling
 

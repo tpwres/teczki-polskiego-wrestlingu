@@ -69,19 +69,19 @@ At [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) Sewi enter
 
 ### Return to Maniac Zone Wrestling (2024-present)
 
-On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years. From that point on Sewi made his appearances for majority of MZW shows.
+On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years. From that point on Sewi appeared at most of MZW shows.
 
 ### Legacy of Wrestling (2024-present)
 
-During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/sedzia-karol-gorski.md). He remained in position of senior referee in the following, with the second referee spot being occupied by Referee Karol, [Michał](@/w/sedzia-michal.md), [Kornel](@/w/sedzia-kornel.md) and [Alan](@/w/sedzia-alan.md) rotationally.
+During the build-up to the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/sedzia-karol-gorski.md). He remained in the position of the senior referee at the following shows, with the second referee spot being occupied by Referees Karol, [Michał](@/w/sedzia-michal.md), [Kornel](@/w/sedzia-kornel.md) and [Alan](@/w/sedzia-alan.md), in rotation.
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Sewi joined [FRPW](@/o/frpw.md) right from the start of the federation. Similarly to other federations, he bacame the senior referee. During FRPW's first shows he was splitting his duties with Karol Górski, Kornel and Michał. From [Wrestling w Twoim Mieście: Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) onwards he started introducing trainees from [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - Alan and Lora - as junior referees. 
+Sewi joined [FRPW](@/o/frpw.md) right from the start of the federation. Similarly to other promotions, he became the senior referee. During FRPW's first shows he would split his duties with Karol Górski, Kornel and Michał. From [Wrestling w Twoim Mieście: Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) onwards he started introducing trainees from [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - Alan (no relation to [KPW's Alan](@/w/sedzia-alan.md)) and Lora - as junior referees. 
 
 ## International wrestling appearances
 
-In August 2023 Referee Seweryn made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show, WrestleClash 25, in August 2023. Later on he also worked at a PTW:WWA show in January 2024, and in Budapest for BP Dojo show later that year.
+In August 2023 Referee Seweryn made history as the first Polish referee to work in a foreign promotion, making his international debut in Austria at a Rings of Europe show, WrestleClash 25, in August 2023. Later on he also worked at a PTW:WWA show in January 2024, and in Budapest for BP Dojo show later that year.
 
 ## In wrestling
 
