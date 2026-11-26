@@ -10,7 +10,7 @@ country = ["ES"]
 
 Newt Nova is a Spanish wrestler best known for his work in [Prime Time Wrestling](@/o/ptw.md).
 
-## Basic info 
+## Basic info
 
 * Years active: 2021-present
 * Gimmicks/nicknames:
@@ -29,10 +29,10 @@ Nova debuted at [Walczymy Dla Fundacji](@/e/ptw/2024-09-29-ptw-walczymy-dla-fund
 
 ## Internet presence
 
-* [Newt's Twitter/X](https://x.com/NewtNovaWrest) 
+* [Newt's Twitter/X](https://x.com/NewtNovaWrest)
 * [Newt's Instagram](https://www.instagram.com/newtnova/)
-* [Newt's TikTok](https://www.tiktok.com/@jjorrge_) 
-* [Newt's YouTube](https://www.youtube.com/@NewtNova999) 
+* [Newt's TikTok](https://www.tiktok.com/@jjorrge_)
+* [Newt's YouTube](https://www.youtube.com/@NewtNova999)
 
 ## References
 

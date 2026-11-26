@@ -17,12 +17,12 @@ Adept Mikołaj "SKS" is a Polish wrestler working for [Fundacja Rozwoju Polskieg
   - adept Mikołaj "SKS" {{ org_badge(orgs=['frpw', 'ppw']) }} (2026-)
 * Trained by:
   - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (202?-)
- 
+
 ## Professional wrestling career
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Mikołaj made his debut for [FRPW](@/o/frpw.md) at the federation's very first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. He portrayed himself as happy-go-lucky persona with a basketball-themed gimmick. In his first appearance he challenged [Olgierd](@/w/olgierd.md), which resulted in his defeat via a submission. At [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) he won the Rumble Match. Besides that, he was often involved in kids' in-ring training sessions during intermissions of some of FRPW shows.
+Mikołaj made his debut for [FRPW](@/o/frpw.md) at the federation's very first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. He portrayed himself as happy-go-lucky persona with a basketball-themed gimmick. In his first appearance he challenged [Olgierd](@/w/olgierd.md), losing quickly via submission. At [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) he won the Rumble Match. Besides that, he was often involved in kids' in-ring training sessions during intermissions at several FRPW shows.
 
 ## In wrestling
 
