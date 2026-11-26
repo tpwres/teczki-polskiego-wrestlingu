@@ -21,7 +21,7 @@ The KPW Championship is the main title belt of [Kombat Pro Wrestling](@/o/kpw.md
 * Most reigns: [Robert Star](@/w/robert-star.md) (2)
 * Longest reign: Robert Star (2nd) (677 days)
 * Shortest reign: Robert Star (1st) (32 days)
-* Heaviest champion: [Ron Corvus](@/w/ron-corvus.md) (102&nbsp;kg)
+* Heaviest champion: [Iestyn Rees](@/w/iestyn-rees.md) (114&nbsp;kg)
 * Lightest champion: Piękny Kawaler (79&nbsp;kg)
 
 ## Belt design
