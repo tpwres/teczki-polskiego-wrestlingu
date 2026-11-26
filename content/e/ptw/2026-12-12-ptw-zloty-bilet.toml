@@ -1,0 +1,17 @@
+[01]
+path = "zloty-plakat.webp"
+caption = """\
+    Official poster featuring on the sides,
+    top: [Fabian](@/w/fabian.md), [Daniel Razor](@/w/daniel-razor.md); 
+    middle: [Whiteblade](@/w/whiteblade.md), [Sigma Boy xD](@/w/sigma-boy.md);
+    bottom: [El G](@/w/el-g.md), [Alex Brave](@/w/alex-brave.md).
+    Pictured in the middle, top to bottom:
+    [Łukasz Okoński](@/w/lukasz-okonski.md);
+    [Krystian Smoleń](@/w/resivny.md);
+    [Nano Lopez](@/w/nano-lopez.md);
+    Valentina Vex;
+    [Misiek](@/w/misiek.md), [Syriusz Dziedzic](@/w/dziedzic.md);
+    [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), [Vincent Caravaggio](@/w/vincent-caravaggio.md), Gwiezdny Marek;
+    Pierre, [Kalom](@/w/kalom.md).
+    """
+source = "Official PTW Facebook"
