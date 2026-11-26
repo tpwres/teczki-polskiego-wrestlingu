@@ -27,4 +27,4 @@ has_video = false
 
 ## References
 
-* [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwzlotybilet-9763)
+* TBD
