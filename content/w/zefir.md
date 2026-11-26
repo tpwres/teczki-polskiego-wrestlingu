@@ -40,11 +40,11 @@ During the closing segment of Arena XXX - the celebration of KPW's 10th annivers
 
 #### Championship pursuit
 
-At [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) started his long climb back on top of KPW by winning KPW Championship Four-Way Contendership Match, but at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) he lost in a Title Match against fellow contender [Greg](@/w/greg.md) and reigning champion [Iestyn Rees](@/w/iestyn-rees.md).
+At [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) Zefir started his long climb back to the top of KPW by winning the KPW Championship Four-Way Contendership Match, but at [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) he lost in a Title Match against fellow contender [Greg](@/w/greg.md) and the reigning Champion [Iestyn Rees](@/w/iestyn-rees.md).
 
 ### Legacy of Wrestling (2026-present)
 
-Zefir debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Boro](@/w/boro.md). At [Enter The Dragon](@/e/low/2026-07-10-low-6.md) he was submitted by [Jacob Crane](@/w/jacob-crane.md), and at [What's in the Box?](@/e/low/2026-10-24-low-7.md) he faced [Shadow](@/w/shadow.md) in one of his retirement tour matches.
+Zefir debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), in a match against [Boro](@/w/boro.md). At [Enter The Dragon](@/e/low/2026-07-10-low-6.md) he lost by submission to [Jacob Crane](@/w/jacob-crane.md), and at [What's in the Box?](@/e/low/2026-10-24-low-7.md) he faced [Shadow](@/w/shadow.md) in his penultimate retirement tour match.
 
 ## In wrestling
 
@@ -53,26 +53,26 @@ Zefir debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/202
 * Tag teams and stables:
   - [Leon Lato](@/w/leon-lato.md) (2023)
 * Entrance music:
-   - "Everywhere I Go" by ONLAP
-    {{ org_badge(orgs=['kpw', 'low']) }} (2023-present) <br>
-    {{ music(yt='4R8EDBkjcZQ')}}
-    {{ music(spot='3yjOB5krqe1CDyUksMCsUR')}}
-    {{ music(apple='1690724986?i=1690725170')}}
- - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid
-    {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md)) <br>
-    {{ music(yt='a1jMUiSR4Gg')}}
-    {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
-    {{ music(apple='1523997493?i=1523997494')}}
-- "Happy Xmas (War Is Over)" by Shinedown
-    {{ org_badge(orgs=['kpw']) }} (2022) <br>
-    {{ music(yt='lhAxVhrMt_U')}}
-    {{ music(spot='4RT2cdLuHfobI0JdqW7V1W')}}
-    {{ music(apple='206345554?i=206345556')}}
   - "Monsters" by Shinedown
     {{ org_badge(orgs=['kpw']) }} (2021-2023) <br>
     {{ music(yt='EzsCb7ZwlQ0')}}
     {{ music(spot='1qAuIPMALdFtGv2Ymjy5l0')}}
     {{ music(apple='1352572887?i=1352572895')}}
+ - "Happy Xmas (War Is Over)" by Shinedown
+    {{ org_badge(orgs=['kpw']) }} (2022) <br>
+    {{ music(yt='lhAxVhrMt_U')}}
+    {{ music(spot='4RT2cdLuHfobI0JdqW7V1W')}}
+    {{ music(apple='206345554?i=206345556')}}
+  - "Neo-Tokyo (Dance With the Dead remix)" by Scandroid
+    {{ org_badge(orgs=['kpw']) }} (2023, in tag team with [Leon Lato](@/w/leon-lato.md)) <br>
+    {{ music(yt='a1jMUiSR4Gg')}}
+    {{ music(spot='44K1GCbNLf1NHlCaLaYONk')}}
+    {{ music(apple='1523997493?i=1523997494')}}
+  - "Everywhere I Go" by ONLAP
+    {{ org_badge(orgs=['kpw', 'low']) }} (2023-present) <br>
+    {{ music(yt='4R8EDBkjcZQ')}}
+    {{ music(spot='3yjOB5krqe1CDyUksMCsUR')}}
+    {{ music(apple='1690724986?i=1690725170')}}
 
 ## Championships and accomplishments
 

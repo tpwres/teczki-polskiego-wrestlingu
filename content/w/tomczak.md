@@ -31,7 +31,7 @@ Initially working security detail, he made his first in-ring appearance as [Chem
 
 #### Various storylines
 
-Throughout first half of 2026 Tomczak tried to get himself into title picture: At [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) Tomczak unsucesfully tried to win #1 Contendership for [KPW Championship](@/c/kpw-championship.md) in a Triple Threat Match against [Michał Fux](@/w/michal-fux.md) and victorious [Greg](@/w/greg.md). At [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) he defeated [Oskar Haller](@/w/oskar-haller.md) in Contendership Qualifying Match for Fatal Four Way, which ultimately took place at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) but once again, Tomczak was not the winner. At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) he was defeated by [Leon Lato](@/w/leon-lato.md) in a Dog Collar Match.
+Throughout the first half of 2026 Tomczak tried to get himself into the title picture: at [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) he unsuccesfully tried to win #1 Contendership for the [KPW Championship](@/c/kpw-championship.md) in a Triple Threat Match against [Michał Fux](@/w/michal-fux.md) and [Greg](@/w/greg.md). At [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md) he defeated [Oskar Haller](@/w/oskar-haller.md) in a Contendership Qualifying Match for a Fatal Four Way, which ultimately took place at [Arena 34](@/e/kpw/2026-06-26-kpw-arena-34.md) but once again, Tomczak was not the winner. At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) he was defeated by [Leon Lato](@/w/leon-lato.md) in a Dog Collar Match.
 
 ### PpW Ewenement Wrestling (2026-present)
 
@@ -39,9 +39,9 @@ Tomczak made a surprise debut for PpW at [Dwa Na Dwa](@/e/ppw/2026-02-28-ppw-dwa
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-#### HeelTurn Invitational 26' and formation of PSY.CHO
+#### HeelTurn Invitational '26 and formation of PSY.CHO
 
-Tomczak made his debut for [FRPW](@/o/frpw.md) at federation's first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. Later, he was announced as one of the contestants in HeelTurn Invitational 26' Tournament, where he was eliminated in first round by [Bartosz Plata](@/w/plata.md). Starting from FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) he started appearaing with [Monster High Suzie](@/w/monster-high-suzie.md) as his manager. This marked the start of new villainous group in FRPW called PSY.CHO, as they were quickly joined by [Stowarzysz](@/w/stowarzysz.md) and debuted at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) by attacking [Boro](@/w/boro.md), Quentin Carter, [Biuro Prasowe](@/tt/biuro-prasowe.md) and staff workers in a post-match beatdown.
+Tomczak made his debut for [FRPW](@/o/frpw.md) at the federation's first [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026. Later, he was announced as one of the contestants in the HeelTurn Invitational '26 Tournament, where he was eliminated in the first round by [Bartosz Plata](@/w/plata.md). Starting with FRPW's show in [Siedlce](@/e/frpw/2026-10-03-frpw-siedlce.md) he began to appear with [Monster High Suzie](@/w/monster-high-suzie.md) as his manager. This marked the start of a new villainous group in FRPW called PSY.CHO, as they were quickly joined by [Stowarzysz](@/w/stowarzysz.md) and debuted at [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md) by attacking [Boro](@/w/boro.md), Quentin Carter, [Biuro Prasowe](@/tt/biuro-prasowe.md) and staff workers in a post-match beatdown.
 
 ## International wrestling appearances
 
@@ -72,4 +72,4 @@ In November 2025 Finnish federation SLAM Wrestling Entertainment [announced][suo
 
 * [Tomczak's Instagram profiel](https://www.instagram.com/tomczakwrestler)
 
-[suomi]: https://www.facebook.com/events/24849976687948662?post_id=25375949885351337&view=permalink
+[suomi]: https://www.facebook.com/events/24849976687948662?post_id=25375949885351337
