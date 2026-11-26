@@ -1,5 +1,5 @@
 +++
-title = "PTW: Wszystko Albo Nic"
+title = "PTW: Nowe Rozdanie"
 template = "event_page.html"
 authors = ["M3n747"]
 [taxonomies]
@@ -12,7 +12,7 @@ has_video = false
 [extra.gallery]
 +++
 
-"Wszystko Albo Nic" (_All Or Nothing_) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
+"Nowe Rozdanie" (_The New Deal_, in the sense of playing cards) is an upcoming show by [Prime Time Wrestling](@/o/ptw.md).
 
 ## Build-up
 
@@ -26,4 +26,4 @@ has_video = false
 
 ## References
 
-* [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwwszystkoalbonic-9763)
+* [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwnowerozdanie-10389)
