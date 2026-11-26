@@ -21,6 +21,7 @@ has_video = false
 * In the closing moments of [Na Słowo Honoru](@/e/frpw/2026-11-08-frpw-na-slowo-honoru.md), Jacob Crane lashed out at Dieter Schwartz for disrespecting the rules of their match and cheating to get the win. He demanded a rematch _in Breslau_.
 * The rematch was officially announced on 10.11.2026. Since Dieter defeated Crane unfairly, using ring ropes to his advantage, this fight will be a No Ropes Match - the first such bout in the history of Polish professional wrestling. (Note that [PpW](@/o/ppw.md) held a [ropeless show](@/e/ppw/2015-05-01-ppw-ropeless.md) during their backyard era.)
 * 16.11.2026 saw the announcement of [Boro](@/w/boro.md) & [Muti](@/w/mutant.md) vs The Grind ([Laurance Roman](@/w/laurance-roman.md) & Nick Schreier).
+* On 25.11.2026 announced a match between [Max Speed](@/w/max-speed.md) and [Maverick](@/w/maverick.md), the winner of which will qualify to the Best of the Best tournament at [Najlepsi Z Najlepszych](@/e/frpw/2027-01-24-frpw-najlepsi-z-najlepszych.md).
 
 ## Predicted card
 
@@ -36,6 +37,10 @@ has_video = false
 - - '[Boro](@/w/boro.md) & [Muti](@/w/mutant.md)'
   - 'The Grind: [Laurance Roman](@/w/laurance-roman.md) & Nick Schreier'
   - s: Tag Team Match
+    nc: upcoming
+- - '[Max Speed](@/w/max-speed.md)'
+  - '[Maverick](@/w/maverick.md)'
+  - s: 'Najlepsi Z Najlepszych Qualifying Match'
     nc: upcoming
 {% end %}
 
