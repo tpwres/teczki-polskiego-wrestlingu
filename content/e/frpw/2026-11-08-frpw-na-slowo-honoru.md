@@ -87,8 +87,8 @@ collapse_gallery = false
 ## References
 
 * [Cagematch event page](https://www.cagematch.net/?id=1&nr=467291)
-* [Video: three full matches](https://www.youtube.com/watch?v=NzYBN64E0Fg)
-* [Video: four full matches](https://www.youtube.com/watch?v=303D2UQ9UqA)
+* [Video: full show, part 1](https://www.youtube.com/watch?v=NzYBN64E0Fg)
+* [Video: full show, part 2](https://www.youtube.com/watch?v=303D2UQ9UqA)
 
 [roh-pure]: https://en.wikipedia.org/wiki/ROH_Pure_Championship#Pure_wrestling_rules
 [emil-wxw]: https://www.facebook.com/reel/4489317678013890
