@@ -20,14 +20,14 @@ This was a show by [Backyard Wrestling Division](@/o/bwd.md). The exact number o
   - 'Miś w Masce'
   - nc: '?'
 - - 'ManowaR'
-  - 'KAT (BWD)'
+  - '[KAT (BWD)](@/w/kat-bwd.md)'
   - nc: '?'
-- - 'Kid Crusher'
-  - 'KAT (BWD)'
+- - '[Kid Crusher](@/w/kid-crusher.md)'
+  - '[KAT (BWD)](@/w/kat-bwd.md)'
   - nc: '?'
 - - 'Vamp'
-  - 'KAT (BWD)'
-  - 'Kid Crusher'
+  - '[KAT (BWD)](@/w/kat-bwd.md)'
+  - '[Kid Crusher](@/w/kid-crusher.md)'
   - 'ManowaR'
   - 'Mr. Oko'
   - 'Miś w Masce'
@@ -39,9 +39,9 @@ This was a show by [Backyard Wrestling Division](@/o/bwd.md). The exact number o
 
 ### Notes
 
-* The BWD website announced the day and the month, but the year was only discerned from the date a later comment by Kid Crusher, posted to the BWD guestbook.
+* The BWD website announced the day and the month, but the year was only discerned from the date a later comment by [Kid Crusher](@/w/kid-crusher.md), posted to the BWD guestbook.
 * The provisional card was announced alongside the date. The comment by Kid Crusher corrected one of the items on the card, meaning others might be incorrect as well.
-* A comment by Crusher says "as far as I know there was a show yesterday, and according to what I remember, I'm the one who fought KAT" (_o ile wiem to wczoraj byla gala i wedlug tego co pamietam to ja walczylem z katem_).
+* A comment by Crusher says "as far as I know there was a show yesterday, and according to what I remember, I'm the one who fought [KAT](@/w/kat-bwd.md)" (_o ile wiem to wczoraj byla gala i wedlug tego co pamietam to ja walczylem z katem_).
 * The initial announcement said there could be other people in the Royal Rumble. Whether or not there were, is unknown.
 
 ## References

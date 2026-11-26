@@ -38,7 +38,7 @@ has_video = true
 - - '[Bart Petro](@/w/bart-petro.md)'
   - '[Boguś](@/w/bogus.md)'
 - - '[Damian Adler](@/w/damian-adler.md)'
-  - 'Piotrek z publiczności'
+  - '[Piotrek z publiczności](@/w/pierre.md)'
   - n: 'Piotrek was a "random" fan from the audience.'
 - - '[Whiteblade](@/w/whiteblade.md)'
   - '[CJ Klakson](@/w/cj-klakson.md)'

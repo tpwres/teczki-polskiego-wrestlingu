@@ -23,7 +23,7 @@ has_video = false
 * On 13.11.2026 the match between Nano Lopez and Disco Pablo was officially confirmed and upgraded to a [PTW Underground Championship](@/c/ptw-underground-championship.md) Match.
 * Later the same day came the announcement of [CJ Klakson](@/w/cj-klakson.md) vs Damian Miller.
 * On 14.11.2026 the match between Conte and Whiteblade was changed to a Tag Team Match between First Class ([El G](@/w/el-g.md) & [Conte](@/w/conte.md)) and [Proroctwo](@/tt/proroctwo.md) ([Syriusz Dziedzic](@/w/dziedzic.md) & [Whiteblade](@/w/whiteblade.md)). To some confusion, it was announced that any member of the winning team is eligible to Golden Ticket ladder match entry, though El G already won his at the previous show.
-* A few hours later [Kalom](@/w/kalom.md) vs Pierre was announced.
+* A few hours later [Kalom](@/w/kalom.md) vs [Pierre](@/w/pierre.md) was announced.
 * On 15.11.2026 the Championship match between Spartan and Caravaggio was officially confirmed. This will be Caravaggio's second attempt at the title, following his loss to Spartan at [Koloseum](@/e/ptw/2026-04-18-ptw-koloseum.md).
 
 ## Predicted card
@@ -50,7 +50,7 @@ has_video = false
   - 'Damian Miller'
   - nc: upcoming
 - - '[Kalom](@/w/kalom.md)'
-  - 'Pierre'
+  - '[Pierre](@/w/pierre.md)'
   - nc: upcoming
 {% end %}
 

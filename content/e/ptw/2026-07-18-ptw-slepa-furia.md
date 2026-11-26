@@ -36,9 +36,9 @@ has_video = true
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: Pawłowski makes his return as a ring announcer.
 - - '[Boguś](@/w/bogus.md)'
-  - '[Fabian](@/w/fabian.md) w/ Dominique VaDique'
+  - '[Fabian](@/w/fabian.md) w/ [Dominique VaDique](@/w/dominique-vadique.md)'
 - - '[Fabian](@/w/fabian.md)'
-  - 'Dominique VaDique'
+  - '[Dominique VaDique](@/w/dominique-vadique.md)'
   - g: 'Fabian fires VaDique, VaDique fires Fabian.'
 - - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
   - '[Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'

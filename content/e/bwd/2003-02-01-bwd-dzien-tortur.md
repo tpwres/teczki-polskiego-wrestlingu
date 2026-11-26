@@ -19,18 +19,18 @@ Dzień Tortur (_Torture Day_) was the first show by [Backyard Wrestling Division
 ## Card
 
 {% card() %}
-- - 'Kid Crusher'
+- - '[Kid Crusher](@/w/kid-crusher.md)'
   - 'Vamp'
   - nc: '?'
-- - 'KAT (BWD)'
-  - 'Kid Crusher'
+- - '[KAT (BWD)](@/w/kat-bwd.md)'
+  - '[Kid Crusher](@/w/kid-crusher.md)'
   - nc: '?'
 - - 'Vamp'
-  - 'KAT (BWD)'
+  - '[KAT (BWD)](@/w/kat-bwd.md)'
   - nc: '?'
-- - 'Kid Crusher'
+- - '[Kid Crusher](@/w/kid-crusher.md)'
   - 'Vamp'
-  - 'KAT (BWD)'
+  - '[KAT (BWD)](@/w/kat-bwd.md)'
   - s: Three-Way Elimination Match
     c: 'HWD Championship'
     nc: '?'
