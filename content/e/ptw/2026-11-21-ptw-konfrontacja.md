@@ -54,7 +54,7 @@ has_video = false
   - 'First Class: [El G](@/w/el-g.md) & [Conte](@/w/conte.md) w/ Martusia'
   - s: 'Golden Ticket Tournament Elimination Tag Team Match, Round 2'
 - - '[Proroctwo](@/tt/proroctwo.md): [Syriusz Dziedzic](@/w/dziedzic.md) & [Whiteblade](@/w/whiteblade.md) w/ Valentina Vex'
-   - g: 'Proroctwo chooses Whiteblade as their representative in Golden Ticket ladder match'
+  - g: 'Proroctwo chooses Whiteblade as their representative in Golden Ticket ladder match'
 - - 'Damian Miller'
   - '[CJ Klakson](@/w/cj-klakson.md)'
 - - 'Synowie Lasu: [Misiek](@/w/misiek.md) & [Polski Niedźwiedź](@/w/polski-niedzwiedz.md)'
