@@ -9,21 +9,21 @@ toclevel = 2
 country = ["PL"]
 +++
 
-Szymon Dragan is a wrestler best known for his work for [Kombat Pro Wrestling](@/o/kpw.md).
+Szymon Dragan is a wrestler best known for his work for [Kombat Pro Wrestling](@/o/kpw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
 * Years active: 2025-present
 * Gimmicks/nicknames:
-  - Adept Dwa {{ org_badge(orgs=['kpw']) }}
-  - Szymon Kurczab {{ org_badge(orgs=['ppw', 'frpw']) }}
-  - Szymon Dragan {{ org_badge(orgs=['kpw']) }}
+  - Adept Dwa {{ org_badge(orgs=['kpw']) }} (2025-2026)
+  - Szymon Kurczab {{ org_badge(orgs=['ppw', 'frpw']) }} (2026)
+  - Szymon Dragan {{ org_badge(orgs=['kpw']) }} (2026-)
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
 
 ## Professional wrestling career
 
-### Kombat Pro Wrestling (2025-)
+### Kombat Pro Wrestling (2025-present)
 
 #### Debut and earning contract
 
@@ -31,7 +31,7 @@ Although he hadn't have an official debut yet, Adept Dwa had a few fights at KPW
 
 At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) Adept Dwa defeated his fellow rookies [Trzy](@/w/adept-trzy.md) and Cztery in a Triple Threat Match with a KPW Championship Contract on the line. Later that night he also participated in a Championship Contract Battle Royal while still being called "Adept Dwa". It wasn't until his match for [Arena 35](@/e/kpw/2026-11-13-kpw-arena-35.md) was announced that his ring name was made public: Szymon Dragan.
 
-### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
 On May 3rd, 2026 Adept Dwa - working under his real-life name Szymon Kurczab - made his debut outiside of KPW at the [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) first event, [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md). His debut was in a match against [Jakub](@/w/jakub.md).
 
@@ -48,4 +48,4 @@ On May 3rd, 2026 Adept Dwa - working under his real-life name Szymon Kurczab - m
 
 ## Internet presence
 
-* [Szymon's Instagram](https://www.instagram.com/szymonkurczab/)
+* [Szymon's Instagram profile](https://www.instagram.com/szymonkurczab/)

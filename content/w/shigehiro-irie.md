@@ -15,6 +15,11 @@ Shigehiro Irie is a Japanese wrestler, known to Polish audiences from his appear
 * Years active: 2008-
 * Gimmicks/nicknames:
   - Shigehiro Irie {{ org_badge(orgs=['kpw', 'ppw', 'frpw']) }} (2023-)
+* Trained by:
+  -	Kengo Takai
+  -	Billy Ken Kid
+  -	Super Demekin
+  -	Sanshiro Takagi
 
 ## Professional wrestling career
 
@@ -22,13 +27,18 @@ Shigehiro Irie is a Japanese wrestler, known to Polish audiences from his appear
 
 Shigehiro Irie made a single appearance at [KPW Arena 21: Stara Szkoła](@/e/kpw/2023-02-24-kpw-arena-21.md), where he unsuccessfully challenged [Greg](@/w/greg.md) for his [KPW Championship](@/c/kpw-championship.md).
 
-### PpW Ewenement Wrestling (2025-)
+### PpW Ewenement Wrestling (2025-present)
 
-Shigehiro debuted for PpW at [Duch Świąt, Śmak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), defeating [Gustav Gryffin](@/w/gustav-gryffin.md). In the early 2026 he worked [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) PpW held in Tokio, before returning to Poland over half a year later at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md).
+Shigehiro debuted for PpW at [Duch Świąt, Śmak Krwi](@/e/ppw/2025-12-06-ppw-duch-swiat-smak-krwi.md), defeating [Gustav Gryffin](@/w/gustav-gryffin.md). In the early 2026 he worked [two](@/a/ppw-polska-gurom.md) [shows](@/a/ppw-hardcore-friday-the-13th-tokyo.md) PpW held in Tokio, before returning to Poland over half a year later at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md), where he was defeated by [Robert Star](@/w/robert-star.md) in a Singles Match for the DPW Championship.
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
 
-Shortly after his second PpW appearance, Irie went on to work two shows on [FRPW's tour of Eastern Poland](@/e/frpw-wrestling-w-twoim-miescie.md), in [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and [Warka](@/e/frpw/2026-10-18-frpw-warka.md).
+Shortly after his second PpW appearance, Irie went on to work two shows on [FRPW's tour of Eastern Poland](@/e/frpw-wrestling-w-twoim-miescie.md), in [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and [Warka](@/e/frpw/2026-10-18-frpw-warka.md). In Lublin he was defeated by [Jacob Crane](@/w/jacob-crane.md), and at Warka he teamed up with Akane Fujita to defeat [Max Speed](@/w/max-speed.md) and [Kalyana](@/w/kalyana.md).
+
+## In wrestling
+
+* Finishers:
+  - Frog Splash (2026-)
 
 ## Internet presence
 

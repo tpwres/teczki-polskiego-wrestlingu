@@ -11,18 +11,18 @@ country = ["PL"]
 1 = { path = "Sewi_2024.webp", caption = "Sędzia Seweryn at a PpW show in 2024.", source = "Official PpW website" }
 +++
 
-Sędzia Seweryn (known as Sewi The Referee) is a Polish wrestling referee active on the Polish wrestling scene. He is best known for his time in [PpW Ewenement](@/o/ppw.md), as well as [Legacy of Wrestling](@/o/low.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked as a senior referee in [Prime Time Wrestling](@/o/ptw.md) from 2022 to 2024.
+Sędzia Seweryn (known as Sewi The Referee) is a Polish wrestling referee active on the Polish wrestling scene. He is best known for his time in [PpW Ewenement](@/o/ppw.md), as well as [Legacy of Wrestling](@/o/low.md), [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) and [Maniac Zone Wrestling](@/o/mzw.md). He also worked as a senior referee in [Prime Time Wrestling](@/o/ptw.md) from 2022 to 2024.
 
 ## Basic info
 
 * Years active: 2018-present
 * Nicknames/Gimmicks:
   - Ring Rat {{ org_badge(org='mzw') }}
-  - Sewi the Ref {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low']) }}
+  - Sędzia Seweryn / Sędzia Sewi {{ org_badge(orgs=['mzw', 'ptw', 'ppw', 'low', 'frpw']) }}
 * Trained by:
-  - [Polska Akademia Wrestlingu](@/o/paw.md) 2018-2021
-  - [PTW Academy](@/o/ptw-academy.md) 2021-2024
-  - [Ewenement Dojo](@/o/dojo.md) 2024-present
+  - [Polska Akademia Wrestlingu](@/o/paw.md) (2018-2021)
+  - [PTW Academy](@/o/ptw-academy.md) (2021-2024)
+  - [Ewenement Dojo / Warszawska Szkoła Wrestlingu](@/o/dojo.md) (2024-present)
 
 ## Professional wrestling career
 
@@ -65,31 +65,42 @@ After [Gruba Przesada](@/e/ppw/2025-01-25-ppw-gruba-przesada.md), members of [Zm
 
 While maintaining PpW as his main promotion, Sewi continued his sporadic appearances on the international circuit.
 
+At [Teraz Albo Nigdy 2](@/e/ppw/2026-03-21-ppw-teraz-albo-nigdy-2.md) Sewi entered 25 Typa 25 Broni Rumble Match.
+
 ### Return to Maniac Zone Wrestling (2024-present)
 
-On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years.
+On October 12th, 2024, he also made an appearance at [MZW No Time to Die](@/e/mzw/2024-10-12-mzw-no-time-to-die.md), which marked his return to [MZW](@/o/mzw.md) after over three years. From that point on Sewi appeared at most of MZW shows.
 
 ### Legacy of Wrestling (2024-present)
 
-During the build-up for the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/sedzia-karol-gorski.md).
+During the build-up to the [first show](@/e/low/2024-12-01-low-1.md) it was unofficially confirmed that Sewi the Referee would be one of the main referees for the newly-founded [Legacy of Wrestling](@/o/low.md). He indeed made an appearance there, being the sole referee at the event. During the [second show](@/e/low/2025-04-06-low-2.md) he was joined by his colleague [Karol Górski](@/w/sedzia-karol-gorski.md). He remained in the position of the senior referee at the following shows, with the second referee spot being occupied by Referees Karol, [Michał](@/w/sedzia-michal.md), [Kornel](@/w/sedzia-kornel.md) and [Alan](@/w/sedzia-alan.md), in rotation.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Sewi joined [FRPW](@/o/frpw.md) right from the start of the federation. Similarly to other promotions, he became the senior referee. During FRPW's first shows he would split his duties with Karol Górski, Kornel and Michał. From [Wrestling w Twoim Mieście: Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) onwards he started introducing trainees from [Warszawska Szkoła Wrestlingu](@/o/dojo.md) - Alan (no relation to [KPW's Alan](@/w/sedzia-alan.md)) and Lora - as junior referees. 
 
 ## International wrestling appearances
 
-In August 2023 Referee Seweryn made history as the first Polish referee to work in a foreign promotion, making his international debut at an Austrian Rings of Europe show, WrestleClash 25, in August 2023. Later on he also worked at a PTW:WWA show in January 2024, and in Budapest for BP Dojo show later that year.
+In August 2023 Referee Seweryn made history as the first Polish referee to work in a foreign promotion, making his international debut in Austria at a Rings of Europe show, WrestleClash 25, in August 2023. Later on he also worked at a PTW:WWA show in January 2024, and in Budapest for BP Dojo show later that year.
 
 ## In wrestling
 
 * Finishers:
   - _Twist of Sew_ (Twist of Fate) (2025-)
 * Entrance music:
+  - "Armed & Dangerous" by King Von
+    {{ org_badge(orgs=['ppw']) }} (2026) <br>
+    {{ music(yt='tBKYI3-3lMg')}}
+    {{ music(spot='2297mxrYLBAC4XkhXs39If')}}
+    {{ music(apple='1536950463?i=1536950464')}}
+  - "Waza" by HEWRA
+    {{ org_badge(orgs=['ppw']) }} (2025, as a member of The Referees) <br>
+    {{ music(yt='LMayWdD7Oac?t=42')}}
   - "Over and Over and Over" by Jack White
     {{ org_badge(orgs=['mzw']) }} (2020, as Ring Rat) <br>
     {{ music(yt='ShCRN3tFy80')}}
     {{ music(spot='13CKjk6hRuF2XzY4N3xw4m')}}
     {{ music(apple='1337879490?i=1337879981')}}
-  - "Waza" by HEWRA
-    {{ org_badge(orgs=['ppw']) }} (2025-, as a member of The Referees) <br>
-    {{ music(yt='LMayWdD7Oac?t=42')}}
 
 ## Championships and accomplishments
 
@@ -100,4 +111,4 @@ In August 2023 Referee Seweryn made history as the first Polish referee to work 
 ## Internet presence
 
 * [Sewi's Facebook profile](https://www.facebook.com/people/Sewi-The-Referee/100089237194283/)
-* [Sewi's Instagram](https://www.instagram.com/sewi_the_ref/)
+* [Sewi's Instagram profile](https://www.instagram.com/sewi_the_ref/)

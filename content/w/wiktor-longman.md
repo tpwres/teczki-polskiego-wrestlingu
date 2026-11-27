@@ -57,12 +57,12 @@ At [Legacy of Wrestling: Enter the Dragon](@/e/low/2026-07-10-low-6.md) Wiktor L
 ## In wrestling
 
 * Finishers:
-  - _At Your Service_ (F5) (2022-2024)
+  - _At Your Service_ (F5) (2022-2024; 2026)
 * Tag Teams and stables:
   - [Zmowa](@/tt/zmowa.md) (2024) - associate
 * Entrance music:
   - Such a Whore (Stellular Remix) by JVLA
-    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2022-) <br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'low']) }} (2022-2026) <br>
     {{ music(yt='8fFOtGETlrU')}}
     {{ music(spot='6A25J9As7towpxovYryAWr')}}
     {{ music(apple='1518033969?i=1518033971')}}

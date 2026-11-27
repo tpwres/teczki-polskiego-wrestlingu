@@ -43,11 +43,13 @@ At [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.
 
 Despite multiple shenenigans and tricks pulled off by Puncher's manager Pan Pawłowski, the match finally ended with Spartan standing tall over defeated Puncher, thus ending his 679 days long reign and Pawłowski's run as the Chairman. In addition, Spartan won the PTW: WWA Championship.
 
+#### Turning on Okoński
+
 After months of defending the PTW Championship, Spartan felt discarded by Okoński, whose loyal soldier he once was. The Chairman reinstating Pawłowski into the federation was the final straw and at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) Spartan turned heel.
 
 In the closing segment of the show, he made an unnanounced entrance and took the mic, proceeding to blame Okoński for using him as his soldier and later completely ignoring him, to the point of rehiring former villain Pawłowski without any notice. He slapped Okoński, slammed Skwarczyński onto the mat and got his hands on Pawłowski. Members of the roster unsuccesfully entered to stop Spartan's rampage, in the following order: [Sigma Boy xD](@/w/sigma-boy.md), [Miyagi Shida](@/w/miyagi-shida.md) and [Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md). Then [Misiek](@/w/misiek.md) entered to face off against Spartan, who finally left the ring. After a brief consultation with the Chairman, Pawłowski announced that Misiek would challenge Spartan for the [PTW Championship](@/c/ptw-championship.md) at the very next show.
 
-At [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md), Spartan vacated the PTW: WWA Championship, deeming it unworthy of his time. He retained the PTW Championship against Misiek, later joining commentary for the Gold Rush Rumble and eventually confronting the winner and his next contender - [Vincent Caravaggio](@/w/vincent-caravaggio.md).
+At [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md), Spartan vacated the PTW: WWA Championship, deeming it unworthy of his time. He retained the PTW Championship against Misiek, later joining commentary for the Gold Rush Rumble and eventually confronting the winner and his next contender - [Vincent Caravaggio](@/w/vincent-caravaggio.md). The duo met each other for contract signing at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md) where it was announced that they would face each other in a "Do trzech razy sztuka" match (_Third time's the charm_; basically a Best Out of Five Match). Spartan ultimately lost his Championship to Caravaggio.
 
 ## International wrestling appearances
 
@@ -63,13 +65,15 @@ In addition to his work in Poland, Spartan also made a few appearances on the Hu
     {{ music(yt='ppF8MYxnFy8')}}
     {{ music(spot='4K6HcWgBi3mfbzpmsUK5sU')}}
     {{ music(apple='1654286940?i=1654286941')}}
-  - "Spartan Theme" by an unknown artist
-    {{ org_badge(orgs=['ptw']) }} (2024-) <br>
+  - "Spartan Theme" by AI
+    {{ org_badge(orgs=['ptw']) }} (2024-2026) <br>
+  - "Spartan Heel Theme" by AI
+    {{ org_badge(orgs=['ptw']) }} (2026-)
 
 ## Championships and accomplishments
 
 * [Prime Time Wrestling](@/o/ptw.md):
-  - [PTW Championship](@/c/ptw-championship.md) (1 time; current)
+  - [PTW Championship](@/c/ptw-championship.md) (1 time)
   - PTW: WWA Championship (1 time)
   - [PTW Awards](@/a/ptw-awards.md) (2 times):
     * Finisher of the Year (2025)

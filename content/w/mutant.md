@@ -9,11 +9,11 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Michał "Mutant" Świątkowski is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md), [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) and [Maniac Zone Wrestling](@/o/mzw.md). Previously, he worked for [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md) (as Daniel Boza).
+Michał "Mutant" Świątkowski is a Polish wrestler currently working for [PpW Ewenement](@/o/ppw.md), [Maniac Zone Wrestling](@/o/mzw.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md). Previously, he worked for [Prime Time Wrestling](@/o/ptw.md) and [Kombat Pro Wrestling](@/o/kpw.md) (as Daniel Boza).
 
 ## Basic Info
 
-* Years active: 2019-2024; 2026-present
+* Years active: 2019-present
 * Gimmicks/nicknames:
   - Daniel Boza {{ org_badge(org='kpw') }}
   - Michał "Mutant" Świątkowski {{ org_badge(org='ptw')}}
@@ -45,18 +45,17 @@ Mutant made a surprise debut appearance at [Duch Świąt, Smak Krwi](@/e/ppw/202
 
 #### Boro & Muti
 
-Shortly after his arrival in PpW [Boro](@/w/boro.md) laid his eyes on Mutant, whom he taken to affectionately calling "Muti", and intensely tried to recruit into his unnamed group.
-Mutant - due to Boro's questionable attitude towards him - strongly declined his courtship which led to them facing off in a Tables Match at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), which Boro ultimately won after striking Mutant with a passionate kiss.
-By winning this match Boro forcefully recruited Mutant as his "Enforcer". Despite the rough start the duo quickly bonded, as both of them learned to understand each other passions: Boro's attraction to women, and Mutant's attraction to gardening tools. 
+Shortly after his arrival in PpW Mutant was spotted by [Boro](@/w/boro.md), who intensely tried to recruit him into his unnamed group. Mutant - due to Boro's questionable attitude towards him - strongly declined his courtship which led to them facing off in a Tables Match at [Hardcore na Hucie](@/e/ppw/2026-04-25-ppw-hardcore-na-hucie.md), which Boro ultimately won after striking Mutant with a passionate kiss. By winning the match Boro forcefully recruited Mutant as his "Enforcer". Despite the rough start the duo quickly bonded, as both of them learned to understand each other passions: Boro's attraction to women, and Mutant's attraction to gardening tools.
 
-At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) team of Boro & Muti got their first championship opportunity, as they were scheduled to face [Bad Trip](@/tt/bad-trip.md) in a Match for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). However, the plans were changed: Boro & Muti would face [Rodzina](@/tt/rodzina.md) for vacated titles, as [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) were forced to drop their gold due to Gustav's injury.
-Despite their effort, Boro and Mutant lost to Rodzina. This led to a rivalry against the stable. At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Boro & Muti defeated [Filip Fux](@/w/filip-fux.md) and [Isnorr](@/w/isnorr.md) in non-title match, and later intervened in Rodzina vs [The Hardcors](@/tt/the-hardcors.md) title match, allowing the latter to win the titles from the team of [Vic Golden](@/w/vic-golden.md) and [Oskar Alexander](@/w/oskar-alexander.md).
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) the team of Boro & Muti got their first championship opportunity, as they were scheduled to face [Bad Trip](@/tt/bad-trip.md) in a Match for the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md). However, it was revealed that Boro & Muti would instead fight [Rodzina](@/tt/rodzina.md) for the vacated titles, as [Gustav Gryffin](@/w/gustav-gryffin.md) and [Goblin](@/w/goblin.md) were forced to drop their gold due to Gustav's injury. Despite their effort Boro and Mutant lost to Rodzina. This led to a rivalry against the stable led by [Vic Golden](@/w/vic-golden.md). At [Chaos Na Rewirach](@/e/ppw/2026-09-26-ppw-chaos-na-rewirach.md) Boro & Muti defeated [Filip Fux](@/w/filip-fux.md) and [Isnorr](@/w/isnorr.md) in non-title match, and later intervened in Rodzina vs [The Hardcors](@/tt/the-hardcors.md) title match, allowing the latter to win the titles from the team of Vic Golden and [Oskar Alexander](@/w/oskar-alexander.md).
 
-In revenge for intervening in their match, Rodzina's patriarch Vic ordered Oskar and Filip to abduct Mutant. Mutant happened to avoid the beatdown and kidnapping, as he went to anwser nature's call at just the right moment. Instead, the violent goon duo decided to [abduct Boro & Muti's manager][kondzio-porwanie] - [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md).
+In revenge for intervening in their match, Rodzina's patriarch Vic Golden ordered Oskar and Filip to abduct Mutant. Mutant happened to avoid the beatdown and kidnapping, as he went to answer nature's call at just the right moment. Instead, the violent goon duo decided to [abduct Boro & Muti's manager][kondzio-porwanie] - [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md). This proved to be Mutant's weak spot, as during a TLC Match at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) the hostage Kondzio has been used as bait to lure Mutant and Boro away from winning the Tag Team Championship.
 
 ### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-Mutant made his first appearance for [FRPW](@/o/frpw.md) at [Ewenement Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) where he teamed up with Boro against [Bartosz Plata](@/w/plata.md) and [Max Speed](@/w/max-speed.md). From that point on he started making regular appearances for FRPW, usually in a Tag Team with Boro.
+Mutant made his first appearance for [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md) at the federation's [first show](@/e/dojo/2026-05-03-dojo_frpw-showcase.md) in May 2026, where he and Boro faced [Max Speed](@/w/max-speed.md) and [Bartosz Plata](@/w/plata.md) in a Tag Team Match.
+
+At [Dojo Showcase #2](@/e/frpw/2026-07-19-frpw-dojo-showcase-2.md) Muti and Boro introduced the newest member of his group: a person of short stature called [Kondzio The Cannonball](@/w/kondzio-the-cannonball.md), who became team's manager. The group then faced [Zmowa](@/tt/zmowa.md) in a victorious Tag Team Match. From that point on Mutant appeared at numerous FRPW show - mostly working alongside Boro.
 
 ### Maniac Zone Wrestling (2026-present)
 
@@ -67,6 +66,8 @@ Mutant made his first appearance in [Maniac Zone Wrestling](@/o/mzw.md) at [MZW 
 * Finishers:
   - Spinning Kick To Kneeling Opponent (2021-2024)
   - F-5 (2025-)
+* Tag Teams and stables:
+  - Boro & Muti (2026-)
 * Entrance music:
   - "Wilki Dwa" by Luxtorpeda
     {{ org_badge(orgs=['kpw']) }} (2019-2020) <br>
@@ -74,17 +75,21 @@ Mutant made his first appearance in [Maniac Zone Wrestling](@/o/mzw.md) at [MZW 
     {{ music(spot='6HtFpYx3yZo9nJNumfn7Ts')}}
     {{ music(apple='1543261324?i=1543261748')}}
   - "Beast" by The Hustle Standard
-    {{ org_badge(orgs=['ptw', 'ppw']) }} (2021-2024; 2025-) <br>
+    {{ org_badge(orgs=['ptw', 'ppw', 'frpw', 'mzw']) }} (2021-2024; 2025-)<br>
     {{ music(yt='p2ZljzdGPUg')}}
     {{ music(spot='0WKY4nRJgz3GUG7IqkTgUH')}}
     {{ music(apple='1440836832?i=1440836838')}}
   - "Blue Monday" by Orgy
-    {{ org_badge(orgs=['ppw', 'low', 'frpw']) }} (2026-; with [Boro](@/w/boro.md))<br>
+    {{ org_badge(orgs=['ppw','frpw']) }} (2026-; in a Tag Team with [Boro](@/w/boro.md)) <br>
     {{ music(yt='-8gVmD39AmI')}}
     {{ music(spot='5267gVdYWrLoz6ClOhlqmE')}}
     {{ music(apple='1702174321?i=1702176808')}}
 
 ## Internet presence
   - [Mutant's Instagram](https://www.instagram.com/mutant_wrestler)
+
+## References
+
+* [Cagematch profile page](https://www.cagematch.net/?id=2&nr=33505)
 
 [kondzio-porwanie]: https://www.instagram.com/reel/Dd62Vb1Kn4b/

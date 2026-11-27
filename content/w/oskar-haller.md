@@ -1,7 +1,7 @@
 +++
 title = "Oskar Haller"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 aliases = ["/w/rookie-one"]
 [extra]
 toclevel = 2
@@ -10,41 +10,54 @@ skip_event_gallery = true
 country = ["PL"]
 +++
 
-Oskar Haller is a wrestler working for [Kombat Pro Wrestling](@/o/kpw.md). He also made appearances at [PpW](@/o/ppw.md), [Legacy](@/o/low.md) and [FRPW](@/o/frpw.md).
+Oskar Haller is a Polsih wrestler working for [Kombat Pro Wrestling](@/o/kpw.md), [PpW Ewenement](@/o/ppw.md), [Legacy of Wrestling](@/o/low.md) and [Fundacja Rozwoju Polskiego Wrestlingu](@/o/frpw.md).
 
 ## Basic info
 
-* Years active: 2025-
+* Years active: 2025-present
 * Gimmicks/nicknames:
   - Adept Jeden {{ org_badge(orgs=['kpw']) }}
-  - Oskar Fux {{ org_badge(orgs=['kpw']) }}
+  - Oskar Fux {{ org_badge(orgs=['kpw']) }} (non-canon shows)
   - Oskar Haller {{ org_badge(orgs=['kpw', 'ppw', 'low', 'frpw']) }}
 * Trained by:
   - [Szkoła Wrestlingu KPW](@/o/szkola-kpw.md) (202?-)
 
 ## Professional wrestling career
 
-### Kombat Pro Wrestling (2025-)
+### Kombat Pro Wrestling (2025-present)
 
 Adept Jeden ("Rookie One") made his first appearance at [Godzina Zero 2025](@/e/kpw/2025-08-22-kpw-godzina-zero-2025.md), where he faced [Tomczak](@/w/tomczak.md) in a 3-on-1 Handicap Match, alongside [Adept Dwa](@/w/szymon-dragan.md) and [Adept Trzy](@/w/adept-trzy.md). The fan-given name "Adept Jeden" originated at this event, as the rookies weren't individually introduced.
 
 Adept Jeden also appeared as Oskar Fux at two side shows, in [Kadzidło](@/e/kpw/2025-09-06-kpw-kadzidlo.md) and [Trzebień](@/e/kpw/2025-09-13-kpw-talon-smackdown.md), where he took the place of [Filip Fux](@/w/filip-fux.md) and [Michał Fux](@/w/michal-fux.md) respectively. At [Arena 32](@/e/kpw/2026-03-13-kpw-arena-32.md) Adept Jeden defeated Guido Buriani earning his place in the KPW roster, as well as his proper ring name: Oskar Haller. His first match as a full-time member of KPW took place a month later at [Arena 33](@/e/kpw/2026-04-24-kpw-arena-33.md), where he faced his nemesis [Tomczak](@/w/tomczak.md), but lost.
 
-#### Tag Team Champion
+#### KPW Tag Team Champion
 
 At [Godzina Zero 2026](@/e/kpw/2026-09-11-kpw-godzina-zero-2026.md) [Chemik](@/w/chemik.md) was booked to fase [Team Visegrad](@/tt/team-visegrad.md) ([Lukáš Mottl](@/w/lukas-mottl.md) & Johan Otto) for the [KPW Tag Team Championship](@/c/kpw-tag-team-championship.md), but didn't have a partner. When the time came, he was still by himself and ready for an uneven fight, when Oskar Haller unexpectedly appeared to team up with him. Despite not getting along, the duo won the titles.
 
-### PpW Ewenemenet Wrestling (2026-)
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
 
-In late April, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), making his PpW debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md). He later appeared at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) in the pre-show match.
+In late April 2026, Oskar was announced to appear at [Dojo Showcase](@/e/dojo/2026-05-03-dojo_frpw-showcase.md), making his [FRPW](@/o/frpw.md) debut in a Battle Royal that also included his KPW colleagues [Markus Paskal](@/w/markus-paskal.md) and [Tomczak](@/w/tomczak.md). From that point on Oskar started making regular appearances for FRPW.
 
-### Legacy of Wrestling (2026-)
+### Legacy of Wrestling (2026-present)
 
-Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), where he faced [Marco Hammers](@/w/marco-hammers.md). He quickly got involved in storyline conflict with Polish wrestling influencer Patryk "Patrykos" Domke, spanning social media and Legacy shows.
+Haller debuted for [Legacy of Wrestling](@/o/low.md) at [Open Season](@/e/low/2026-05-24-low-5.md), where he faced [Marco Hammers](@/w/marco-hammers.md). He quickly got involved in a storyline conflict with Polish wrestling influencer Patryk "Patrykos" Domke, spanning social media and Legacy shows. The storyline concluded at [Enter The Dragon](@/e/low/2026-07-10-low-6.md) where Haller aired his grievances against Patrykos and his fans, even citing some comments from the online feud. The two started to brawl, which turned into a ground and pound with Oskar gaining the upper hand, until Marco came to make the save.
 
-### Fundacja Rozwoju Polskiego Wrestlingu (2026-)
+At [What's in the Box?](@/e/low/2026-10-24-low-7.md) Haller and [Chemik](@/w/chemik.md) faced [Boro](@/w/boro.md) and [Olgierd](@/w/olgierd.md) in a Tag Team Match.
 
-Haller debuted for FRPW at the [show in Lublin](@/e/frpw/2026-10-17-frpw-lublin.md), teaming with [another Oskar](@/w/oskar-alexander.md).
+### PpW Ewenemenet Wrestling (2026-present)
+
+Oskar Haller made his debut for [PpW Ewenement](@/o/ppw.md) at [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) in the pre-show match.
+
+## In wrestling
+
+* Finishers:
+ - _Big Ending_ (2025-)
+* Entrance music:
+  - "Dutty" by PΦrch
+    {{ org_badge(orgs=['kpw', 'low', 'frpw', 'ppw']) }} (2025-) <br>
+    {{ music(yt='3uVCQFxSaIw')}}
+    {{ music(spot='64BxxcJxLHRdW0u6y0OdKn')}}
+    {{ music(apple='1535882854?i=1535883491')}}
 
 ## Championships and accomplishments
 

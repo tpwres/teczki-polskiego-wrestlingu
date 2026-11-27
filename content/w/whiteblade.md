@@ -1,7 +1,7 @@
 +++
 title = "Whiteblade"
 template = "talent_page.html"
-authors = ["M3n747"]
+authors = ["M3n747", "Sewi The Referee"]
 [extra]
 toclevel = 2
 [taxonomies]
@@ -24,25 +24,31 @@ Whiteblade is a wrestler working for [Prime Time Wrestling](@/o/ptw.md).
 
 ## Professional wrestling career
 
-### Prime Time Wrestling (2025-)
+### Prime Time Wrestling (2025-present)
 
-#### Dropper (2025-2026)
+#### Dropper 
 
 Dropper first appeared as a rookie at [All About the Moné](@/e/ptw/2025-07-27-ptw-all-about-the-mone.md), alongside rookies [Bumper](@/w/fabian.md) and [Boguś](@/w/bogus.md) in a Handicap Match against [Dawid "Puncher" Seńko](@/w/puncher.md) for the [PTW Championship](@/c/ptw-championship.md) and the BestYa Championship. He later made his official debut at [Halloweenowa Rozpierducha](@/e/ptw/2025-10-25-ptw-halloweenowa-rozpierducha.md). Over next months, he appeared both as a singles competitor and in a tag team with [Bumper](@/w/fabian.md), collectively known as Drop & Bump.
 
-#### Transformation into Whiteblade (2026-)
+#### Transformation into Whiteblade 
 
 After their loss at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) Drop & Bump broke up. [Damian Lambert](@/w/damian-lambert.md) interfered in a post-match altercation between the two. Driving Bumper away, he offered Dropper a lucha mask but was refused. Not accepting Dropper's rejection, Lambert laid him out with a German Suplex, forced the mask onto his head and carried Dropper out of the arena.
 
-At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself as _The Prophet_. He prophesized the end of the world and promised to save everyone - just like he had saved a person so lost that even his name was Dropper. Now renamed Whiteblade, he made a full entrance wearing a lucha mask gifted by Lambert complete with a new, black and white gear.
+At the [next show](@/e/ptw/2026-02-21-ptw-world-cup.md) Lambert revealed himself as _The Prophet_. He prophesized the end of the world and promised to save everyone - just like he had saved a person so lost that even his name was Dropper. Now renamed Whiteblade, he made a full entrance wearing a lucha mask gifted by Lambert, complete with a new, black and white gear. His alliance with Lambert didn't last long, as _The Prophet_ left PTW soon after [More Moné, More Problems](@/e/ptw/2026-03-29-ptw-more-mone-more-problems.md). 
+
+#### Proroctwo
+
+Whiteblade's solitude was quickly ended at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md). [Sawicki](@/w/schwarzmann.md) intervened in a match between Whiteblade and [Polski Niedźwiedź](@/w/polski-niedzwiedz.md), handcuffing Niedźwiedź's partner [Misiek](@/w/misiek.md) to prevent him from helping Niedźwiedź. This allowed Whiteblade to secure a win which granted Sawicki a place in [Proroctwo](@/tt/proroctwo.md). At [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) Sawicki mentioned that [Prorok Lambert](@/w/damian-lambert.md) had been a false prophet, but the prophecy was true and the end of the world was still coming. Proroctwo managed to win #1 Contendership for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) in a match against [Royal Rebels](@/tt/royal-rebels.md) at [Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md). Finally, Whiteblade and Sawicki - now called Schwarzmann - won the Tag Team gold at [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md), after Proroctwo was aided by the returing [Dziedzic](@/w/dziedzic.md) and the treacherous adeptka Paula.
 
 ## In wrestling
 
+* Finishers:
+  - _Skyblade_ (Swanton Bomb) (2025-)
 * Tag Teams and stables:
   - [Proroctwo](@/tt/proroctwo.md) (2026-)
 * Entrance music:
   - "Choke" by I Prevail
-    {{ org_badge(orgs=['ptw']) }} (as Whiteblade, 2026-) <br>
+    {{ org_badge(orgs=['ptw']) }} (2026-) <br>
     {{ music(yt='kINkBXS_YZY')}}
     {{ music(spot='7jm63qwHLmemNcMzORjwfi')}}
     {{ music(apple='1629105882?i=1629105882')}}

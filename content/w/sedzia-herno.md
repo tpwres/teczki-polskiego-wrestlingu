@@ -30,6 +30,10 @@ After [Total Blast From The Past](@/e/ptw/2024-05-11-ptw-6.md) Prime Time Wrestl
 
 After [Pan Pawłowski](@/w/pan-pawlowski.md) turned heel, Herno and Klaudiusz got into a conflict with their boss. They were backed by chairman [Łukasz Okoński](@/w/lukasz-okonski.md), but despite that they lived in constant fear of being fired from the company. They were especially bullied by [Royal Rebels](@/tt/royal-rebels.md) - members of Pawłowski's stable [Nietykalni](@/tt/nietykalni.md) - which resulted in Herno and Klaudiusz announcing an initiative called "Chroń Śląskie Zebry" (_Protect the Silesian Zebras_). Finally they faced Royal Rebels at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), in a Tag Team Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md), but despite their efforts they were bullied into submission. 
 
+#### Feud with Herno
+
+In July 2026 Herno started a feud with [Sędzia Herno](@/w/adam-goldschmidt.md), after Adam accused him of battery during his talk-show, "Godzina z Goldschmidtem" (_An Hour with Goldschmidt_). Later it was revealed that Adam provoked him by defaming Herno, his relation with [Łukasz Okoński](@/w/lukasz-okonski.md) and even with his father. Due to the fact that both sides aren't wrestlers, the feud proliferated mostly on social media and during ringside altercations.
+
 ## Internet presence 
 
 * [Herno's Instagram](https://www.instagram.com/herno_ptw)

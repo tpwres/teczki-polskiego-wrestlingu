@@ -75,13 +75,18 @@ Robert faced another "Prime Time Transfer" - [Samson](@/w/samson.md) - for the U
 In 2025 Robert returned once more during the 20 Typa 20 Broni Match at [Teraz Albo Nigdy](@/e/ppw/2025-03-15-ppw-teraz-albo-nigdy.md). 
 At [Ledwo Legalne 5](@/e/ppw/2025-06-07-ppw-ledwo-legalne-5.md) he managed to win the Six-Man #1 Contender Ladder Match for the [PpW Championship](@/c/ppw-championship.md). The match was set up to take place at [Mistrzowskie Rozdanie 2](@/e/ppw/2025-09-20-ppw-mistrzowskie-rozdanie-2.md), however before it took place, Star intervened in a Tornado Tag Team Match between [Rodzina](@/tt/rodzina.md) members ([Agentka Agatka](@/w/agentka-agatka.md) & [Oskar Alexander](@/w/oskar-alexander.md)) and [Stanisław Van Dobroniak](@/w/stanislaw-van-dobroniak.md) & [Johnny Blade](@/w/johnny-blade.md). He helped Oskar and Agatka win, revealing himself as the newest member of Rodzina which was teased by the faction leader, [Vic Golden](@/w/vic-golden.md), during the build-up to the show.
 
-Robert himself was unable to win his match against the defending champion [Goblin](@/w/goblin.md), even though Rodzina once again tried to help their fellow member to gain advantage.
+Robert himself was unable to win his match against the defending Champion [Goblin](@/w/goblin.md), even though Rodzina once again tried to help their fellow member to gain advantage. From that point on Robert spent most of 2026 making part-time appearances on PpW's bigger shows, where he mostly worked alongside fellow Rodzina members such as [Filip Fux](@/w/filip-fux.md). 
+At [Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Robert was recognised as a full Champion alongside every member of Rodzina during group's first title reign.
 
-At [PpW Nü Wrestling](@/e/ppw/2026-07-04-ppw-nu-wrestling.md) [Oskar Alexander](@/w/oskar-alexander.md) & [Vic Golden](@/w/vic-golden.md) won the [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) vacated by [Bad Trip](@/tt/bad-trip.md) earlier at the same show. In accordance with the [Freebird Rule](@/a/freebird-rule.md), however, Robert was recognised as a full Champion alongside every member of Rodzina.
+At [Brutality](@/e/ppw/2026-10-10-ppw-brutality.md) Robert succesfully defended his DPW Heavweight Championship against [Shigehiro Irie](@/w/shigehiro-irie.md).
 
 ### Legacy of Wrestling (2025)
 
 Robert was announced as a special guest for [Legacy's](@/o/low.md) [second show](@/e/low/2025-04-06-low-2.md). He observed the first few matches sitting at the bar, close to the ring. In the fourth match, [Greg](@/w/greg.md) was scheduled to face [Vic Golden](@/w/vic-golden.md), but [Chemik](@/w/chemik.md) jumped Greg during his entrance routine. When Acting Chairman [Longman](@/w/wiktor-longman.md) forced Chemik to return to the backstage, Robert came out, in full ring gear and helped Greg, by attacking Chemik. The singles match was quickly turned into a Tag Team Match, where Robert joined his longtime KPW rival Greg against Chemik and Vic.
+
+### Fundacja Rozwoju Polskiego Wrestlingu (2026-present)
+
+Robert made his first appearances for [FRPW](@/o/frpw.md) during federation's tour to [Lublin](@/e/frpw/2026-10-17-frpw-lublin.md) and [Warka](@/e/frpw/2026-10-18-frpw-warka.md), where he worked with [Filp Fux](@/w/filip-fux.md) in a few Tag Team matches.
 
 ## International wrestling appearances
 
@@ -98,6 +103,16 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
   - [Kawaleria](@/tt/kawaleria.md) (2018-2019)
   - [Rodzina](@/tt/rodzina.md) (2025-)
 * Entrance music:
+  - "Nigdy nie ulegnę" by Kuba Jurzyk, Accantus Live Band
+    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
+    {{ music(yt='hXksAsBNeaA')}}
+    {{ music(spot='6rlkPZLlQHcVyGfPjtOfIC')}}
+    {{ music(apple='1498895749?i=1498895750')}}
+  - "Supersonic" by Oasis
+    {{ org_badge(orgs=['ppw']) }} (2026-) <br>
+    {{ music(yt='BJKpUH2kJQg')}}
+    {{ music(spot='1ARsfVEoLWiJaikVJtvjDu')}}
+    {{ music(apple='1739844637?i=1739844640')}}
   - "Party All Day" by Steel Panther
     {{ org_badge(orgs=['kpw']) }} (2015-2019) <br>
     {{ music(yt='N3mKVmpol20')}}
@@ -111,18 +126,18 @@ During his career he became the BODYSLAM Tag Team Champion (with [Hunyadi Tamas]
   - "Stallion" by Secret Metal
     {{ org_badge(orgs=['ptw', 'ppw']) }} (2023-2025) <br>
     {{ music(yt='LHTdgdTwons')}}
-  - "Nigdy nie ulegnę" by Kuba Jurzyk, Accantus Live Band
-    {{ org_badge(orgs=['ppw', 'low']) }} (2025-) <br>
-    {{ music(yt='hXksAsBNeaA')}}
-    {{ music(spot='6rlkPZLlQHcVyGfPjtOfIC')}}
-    {{ music(apple='1498895749?i=1498895750')}}
+  - "What Do You Want From Me" by Pink Floyd
+    {{ org_badge(orgs=['ppw', 'frpw']) }} (2025-; as part of [Rodzina](@/tt/rodzina.md) <br>
+    {{ music(yt='A8i7248HqEY') }}
+    {{ music(spot='3Tsh9pjiJ5cvmuiZALdgVz')}}
+    {{ music(apple='1065976549?i=1065976566') }}
 
 ## Championships and accomplishments
 
 * [Kombat Pro Wrestling](@/o/kpw.md):
   - [KPW Championship](@/c/kpw-championship.md) (2 times)
 * [PpW Ewenement Wrestling](@/o/ppw.md)
-  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (2 times; current) - as part of [Rodzina](@/tt/rodzina.md)
+  - [PpW Tag Team Championship](@/c/ppw-tag-team-championship.md) (1 time) - as part of [Rodzina](@/tt/rodzina.md)
 
 #### International wrestling accomplishments
 

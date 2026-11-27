@@ -42,11 +42,22 @@ Later on, Caravaggio took part in a Championship Tournament for the inaugural [P
 At [Dzień Dziecka](@/e/ptw/2025-05-31-ptw-dzien-dziecka.md) Pawłowski expressed his gratitude to both Caravaggio and Alex Brave, praising them for their actions at Prezes vs Prezes.
 He formed a tag team of Brave and Caravaggio, naming them [Royal Rebels](@/tt/royal-rebels.md), and introduced them into the new Pawłowski-centered faction called [Nietykalni](@/tt/nietykalni.md) (_The Untouchables_), consisting of all of them and Puncher.
 They were given the opportunity to face [L'Orda](@/tt/l-orda.md) at the same show. Brave and Vincent managed to score a victory, becoming the new [PTW Tag Team Champions](@/c/ptw-tag-team-championship.md).
-From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łukasz Okoński and his allies: [Spartan](@/w/spartan.md) and referees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md), who tried to stand their ground at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), but were bullied into submission by Royal Rebels.
+From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łukasz Okoński and his allies: [Spartan](@/w/spartan.md) and referees [Klaudiusz](@/w/sedzia-klaudiusz.md) and [Herno](@/w/sedzia-herno.md), who tried to stand their ground at [Apokalipsa](@/e/ptw/2025-08-30-ptw-apokalipsa.md), but were bullied into submission by Royal Rebels. 
+
+Royal Rebels finally lost their Tag Team Championship against [Miyagi Sigma](@/tt/miyagi-sigma.md) at [Krew, Pot i Łzy](@/e/ptw/2026-05-23-ptw-krew-pot-i-lzy.md). 
+
+#### PTW Champion
+
+At [Szczere Złoto](@/e/ptw/2026-08-28-ptw-szczere-zloto.md) Vincent won the 20-Man Gold Rush Rumble Match which made him the #1 Contender for the [PTW Championship](@/c/ptw-championship.md) held by [Spartan](@/w/spartan.md), who turned against [Łukasz Okoński](@/w/lukasz-okonski.md) [the show before](@/e/ptw/2026-07-18-ptw-slepa-furia.md). At [Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md), during contract signing moderated by Okoński, Spartan and Caravaggio started a war of words. Caravaggio established the reasons why he needed to save PTW, thus fully confirming his face turn. Both competitors were bickering which stipulation was more fitting for their final face-off. Spartan postulated a Street Fight due to its brutality, while Caravaggio was in favor of a Submission Match as the most decisive finish. Okoński ignored their pleas, reminded them of his authority and decided on a stipulation of his own: whoever beats the opponent three times, wins the Championship. Finally at [Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md) Vincent managed to defeat Spartan to become the third PTW Champion.
+
+## International wrestling appearances
+
+Starting with 2024, Vincent made a few appearances abroad. Most notably, he worked in PTW:WWA - [PTW's](@/o/ptw.md) short-lived "sister promotion" owned by [Krampus](@/w/krampus.md), where he made his first appearance outside of PTW in October 2024.
 
 ## In wrestling
 
 * Finishers:
+  - _Szlachecka Szarża_ (Skull Crushing Finale) (2026-)
   - Ankle Lock (2024-)
   - Wine Mist (2024-)
 * Tag Teams and stables:
@@ -59,17 +70,18 @@ From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łuk
     {{ music(spot='1Hk6rYH2TKLURvqgKwTGXc')}}
     {{ music(apple='284259361?i=284259442')}}
   - "Path" by Apocalyptica
-    {{ org_badge(orgs=['ptw']) }} (2025-present, as part of Royal Rebels) <br>
+    {{ org_badge(orgs=['ptw']) }} (2025-, as part of Royal Rebels) <br>
     {{ music(yt='m9xqO9kKqyk')}}
     {{ music(spot='6CD2UMJyPuN5P1UWHCFXmd')}}
     {{ music(apple='1646530800?i=1646530876')}}
 
 ## Championships and accomplishments
 
-* [Prime Time Wrestling](@/o/ptw.md):  
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Championship](@/c/ptw-championship.md) (1 time)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Alex Brave](@/w/alex-brave.md))
-  - [PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (2025)
   - [Gold Rush Rumble](@/a/ptw-gold-rush-rumble.md) (2026)
+  - [PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (2025) 
   - [PTW Awards](@/a/ptw-awards.md) (4 times):
     * Newcomer of the Year (2024)
     * Progress of the Year (2025)
