@@ -17,9 +17,9 @@ The PTW Championship is a professional wrestling championship created and promot
 ## Statistics
 
 * First champion: [Puncher](@/w/puncher.md)
-* Most reigns: Puncher (1) / Spartan (1)
+* Most reigns: N/A
 * Longest reign: Puncher (679 days)
-* Shortest reign: [Spartan](@/w/spartan.md) (1+ days)
+* Shortest reign: [Vincent Caravaggio](@/w/vincent-caravaggio.md) (1+ days)
 * Youngest champion: Puncher (27 years, 298 days)
 * Heaviest champion: Puncher (102&nbsp;kg)
 * Lightest champion: Spartan (98&nbsp;kg)
@@ -184,12 +184,23 @@ The central plate shows a large globe, with a black rim and "Prime Time Wrestlin
   - s: Singles Match
     en: '[PTW: Droga Wojownika](@/e/ptw/2026-09-19-ptw-droga-wojownika.md)'
     ed: 2026-09-19
-- - 'Spartan(c)'
-  - 'Vincent Caravaggio'
+- - 'Vincent Caravaggio'
+  - 'Spartan(c)'
   - s: Singles Match
     en: '[PTW: Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md)'
     ed: 2026-11-21
-    nc: upcoming
+{% end %}
+
+**TOTAL:** 343 days.
+
+### Champion #3: Vincent Caravaggio
+
+{% free_card() %}
+- - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - '[Spartan](@/w/spartan.md)(c)'
+  - s: Singles Match
+    en: '[PTW: Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md)'
+    ed: 2026-11-21
 {% end %}
 
 [duży-złoty-pas]: https://en.wikipedia.org/wiki/Big_Gold_Belt

@@ -258,12 +258,12 @@ One noteworthy deal between PTW and a bigger promotion was an agreement with Imp
 
 {% championship() %}
 - - '[PTW Championship](@/c/ptw-championship.md)'
-  - '[Spartan](@/w/spartan.md)'
-  - Defeated [Puncher](@/w/puncher.md) at [PTW Świąt Nie Będzie](@/e/ptw/2025-12-13-ptw-swiat-nie-bedzie.md).
+  - '[Vincent Caravaggio](@/w/vincent-caravaggio.md)'
+  - 'Defeated [Spartan](@/w/spartan.md) at [PTW: Konfrontacja](@/e/ptw/2026-11-21-ptw-konfrontacja.md).'
 - - '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
   - 'Proroctwo: [Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/schwarzmann.md)'
   - >
-    Defeated [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) at  [PTW: Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md).
+    Defeated [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) at [PTW: Duch Przeszłości](@/e/ptw/2026-10-31-ptw-duch-przeszlosci.md).
 - - '[PTW Underground Championship](@/c/ptw-underground-championship.md)'
   - '["Starboy" Nano Lopez](@/w/nano-lopez.md)'
   - 'Defeated [Daniel Razor](@/w/daniel-razor.md) at [PTW Totalna Anihilacja](@/e/ptw/2025-11-15-ptw-totalna-anihilacja.md).'

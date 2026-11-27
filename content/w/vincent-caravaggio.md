@@ -66,7 +66,8 @@ From that point onwards, Nietykalni ruled over PTW, constantly feuding with Łuk
 
 ## Championships and accomplishments
 
-* [Prime Time Wrestling](@/o/ptw.md):  
+* [Prime Time Wrestling](@/o/ptw.md):
+  - [PTW Championship](@/c/ptw-championship.md) (1 time; current)
   - [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) (1 time, with [Alex Brave](@/w/alex-brave.md))
   - [PTW World Cup](@/e/ptw/2026-02-21-ptw-world-cup.md) (2025)
   - [Gold Rush Rumble](@/a/ptw-gold-rush-rumble.md) (2026)
