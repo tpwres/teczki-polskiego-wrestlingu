@@ -1,7 +1,7 @@
 +++
 title = "PpW Prawo Ulicy"
 template = "event_page.html"
-authors = ["Krzysztof Zych"]
+authors = ["Krzysztof Zych", "M3n747"]
 aliases = ["/e/ppw/2027-01-30-ppw-minska"]
 [taxonomies]
 chronology = ["ppw"]
