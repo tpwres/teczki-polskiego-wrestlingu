@@ -47,7 +47,7 @@ has_video = false
 - - '[Arkadiusz "Pan" Pawłowski"](@/w/pan-pawlowski.md)'
   - '[Kalom](@/w/kalom.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)'
-  - 'Pierre'
+  - '[Pierre](@/w/pierre.md)'
   - '[Fabian](@/w/fabian.md)'
   - 'Gwiezdny Marek'
   - '[Miyagi Shida](@/w/miyagi-shida.md)'
@@ -76,7 +76,7 @@ has_video = false
   - '[El Clavo](@/w/el-clavo.md)'
   - 'Nikki Steel'
   - '[Kalom](@/w/kalom.md)'
-  - 'Pierre'
+  - '[Pierre](@/w/pierre.md)'
   - '[Karol "Iskra" Górski](@/w/iskra.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
   - '[Misiek](@/w/misiek.md)'
@@ -96,7 +96,7 @@ has_video = false
 ### Highlights
 
 * Before the Championship match, [Spartan](@/w/spartan.md) took the mic for a brief promo. He further established his heel turn and declared the PTW: WWA Championship worthless, throwing it away and telling Pawłowski to "give it to some German, Austrian or Spaniard", as he "doesn't give a shit any more". He further declared his intent to stay the [PTW Champion](@/c/ptw-championship.md) forever.
-* At the show, the results of The Lucky 8 contest that happened over previous weeks on social media, were revealed. All the rookies and their mentors entered the ring dressed fancily and each was told their place in their final ranking, along with some pep talk from Pawłowski. The reveal continued until the final three, where it turned out to be a draw. [Kalom](@/w/kalom.md), Pierre and Gwiezdny Marek were all drafted into the roster and earned their spots in Gold Rush Rumble match.
+* At the show, the results of The Lucky 8 contest that happened over previous weeks on social media, were revealed. All the rookies and their mentors entered the ring dressed fancily and each was told their place in their final ranking, along with some pep talk from Pawłowski. The reveal continued until the final three, where it turned out to be a draw. [Kalom](@/w/kalom.md), [Pierre](@/w/pierre.md) and Gwiezdny Marek were all drafted into the roster and earned their spots in Gold Rush Rumble match.
 * After the winner reveal, the mystery man from the previous show made his entrance and introduced himself as Damian Miller. After a rambling heel promo, he decided to face one of the rookies, choosing the smallest one who ranked last in the contest - Filip, ironically calling him "the toughest-looking one". This resulted in an impromptu squash match.
 * Post-match, Miller continued to punish Filip, but showing unusual compassion, Vincent Caravaggio made the save and checked on beaten Filip before leaving the ring.
 * Nikki Steel, a Munich-based female wrestler, debuted in the Gold Rush Rumble Match.
@@ -115,7 +115,7 @@ has_video = false
 8. Nikki Steel
 9. [Vincent Caravaggio](@/w/vincent-caravaggio.md)
 10. [Kalom](@/w/kalom.md)
-11. Pierre
+11. [Pierre](@/w/pierre.md)
 12. [Karol "Iskra" Górski](@/w/iskra.md)
 13. [Sawicki](@/w/schwarzmann.md)
 14. [Sigma Boy xD](@/w/sigma-boy.md)

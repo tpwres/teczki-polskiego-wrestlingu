@@ -41,7 +41,7 @@ Initially, PTW [announced][nowe-gale] a show named "Nowa Fala" (_New Wave_) book
   - '[Boguś](@/w/bogus.md)'
 - - '[Alex Brave](@/w/alex-brave.md)'
   - '[Sawicki](@/w/schwarzmann.md)'
-- - '[Fabian](@/w/fabian.md) w/ Dominique VaDique'
+- - '[Fabian](@/w/fabian.md) w/ [Dominique VaDique](@/w/dominique-vadique.md)'
   - '[Sigma Boy xD](@/w/sigma-boy.md)'
 - - '[Proroctwo](@/tt/proroctwo.md): [Whiteblade](@/w/whiteblade.md) & [Damian Lambert](@/w/damian-lambert.md)'
   - 'First Class: [El G](@/w/el-g.md) & [Conte](@/w/conte.md)'

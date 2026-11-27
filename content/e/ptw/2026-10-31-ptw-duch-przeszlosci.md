@@ -16,9 +16,9 @@ has_video = true
 
 ## Build-up
 
-* On 6.10.2026 PTW published a [video][spooky-european-perch] of [Łukasz Okoński](@/w/lukasz-okonski.md) revealing some information about the upcoming show. In it, he teased a "real ghost of the past" at the commentary table, divulged a Horror Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) between [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and [Proroctwo](@/tt/proroctwo.md) ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/schwarzmann.md)), disclosed a Golden Ticket Elimination Match with contenders still to be named (the winner of which will be able to face any opponent at any time) and revealed that the feud between [Fabian](@/w/fabian.md) and [Daniel Razor](@/w/daniel-razor.md) now includes [Kalom](@/w/kalom.md) and Pierre who got tangled in the rivalry.
+* On 6.10.2026 PTW published a [video][spooky-european-perch] of [Łukasz Okoński](@/w/lukasz-okonski.md) revealing some information about the upcoming show. In it, he teased a "real ghost of the past" at the commentary table, divulged a Horror Match for the [PTW Tag Team Championship](@/c/ptw-tag-team-championship.md) between [Miyagi Sigma](@/tt/miyagi-sigma.md) ([Miyagi Shida](@/w/miyagi-shida.md) & [Sigma Boy xD](@/w/sigma-boy.md)) and [Proroctwo](@/tt/proroctwo.md) ([Whiteblade](@/w/whiteblade.md) & [Sawicki](@/w/schwarzmann.md)), disclosed a Golden Ticket Elimination Match with contenders still to be named (the winner of which will be able to face any opponent at any time) and revealed that the feud between [Fabian](@/w/fabian.md) and [Daniel Razor](@/w/daniel-razor.md) now includes [Kalom](@/w/kalom.md) and [Pierre](@/w/pierre.md) who got tangled in the rivalry.
 * In a [video][komora-maszyny-losujacej-jest-pusta] posted on 12.10.2026 [Łukasz Okoński](@/w/lukasz-okonski.md), assisted by [Sędzia Herno](@/w/sedzia-herno.md), drew four random names of wrestlers to participate in the first round of the Golden Ticket Tournament: [CJ Klakson](@/w/cj-klakson.md), [Iskra](@/w/iskra.md), [Alex Brave](@/w/alex-brave.md) and [El G](@/w/el-g.md).
-* Pierre & [Fabian](@/w/fabian.md) vs [Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md) was officially announced on 13.10.2026.
+* [Pierre](@/w/pierre.md) & [Fabian](@/w/fabian.md) vs [Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md) was officially announced on 13.10.2026.
 * Brave's involvement in the Golden Ticket Elimination Match was officially confirmed on 15.10.2026.
 * On 18.10.2026 PTW announced a Three-Way Match between Damian Miller, Gwiezdny Marek and [Polski Niedźwiedź](@/w/polski-niedzwiedz.md).
 * Brave was followed by [Iskra](@/w/iskra.md) and [CJ Klakson's](@/w/cj-klakson.md) announcements on 19.10.2026.
@@ -46,7 +46,7 @@ has_video = true
   - '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
   - g: '[PTW Championship](@/c/ptw-championship.md) Match contract signing.'
 - - '[Daniel Razor](@/w/daniel-razor.md) & [Kalom](@/w/kalom.md)'
-  - '[Fabian](@/w/fabian.md) & Pierre'
+  - '[Fabian](@/w/fabian.md) & [Pierre](@/w/pierre.md)'
   - s: Tag Team Match
 - - '[El G](@/w/el-g.md); Księżniczka Martusia'
   - '[Iskra](@/w/iskra.md)'

@@ -31,7 +31,7 @@ After their loss at [PTW: Odrodzenie](@/e/ptw/2026-01-31-ptw-odrodzenie.md) the 
 
 #### Transformation into Fabian and cooperation with VaDique
 
-Over the following weeks, Bumper went through a transformation, shared on his social media. Starting with a _Confession_ video, where he aired his grievances about his losing streak, and gained the attention of a new figure in PTW's universe - a talent agent Dominique VaDique, self-proclaimed leader of _Le VaDique Brand_. Rejecting the name Bumper, she referred to him as "Fabian", apparently his real name. At her behest, Bumper/Fabian's transformation began. The following weeks saw him sharing videos of attending fashion shows and theatre plays, gradually changing his look into a more posh one and embracing the "Fabian" identity. This included changing his Instagram handle to _@fabian_ptw_, and declaring that his ring name was now Fabian - which he pronounced (and over-emphasised) as /fa'bjɔ̃/. Fabian's cooperation with Dominique lasted rather briefly, as after just a few appearances Fabian lost to [Boguś](@/w/bogus.md) at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) and the duo effectively, and bitterly, fired each other.
+Over the following weeks, Bumper went through a transformation, shared on his social media. Starting with a _Confession_ video, where he aired his grievances about his losing streak, and gained the attention of a new figure in PTW's universe - a talent agent [Dominique VaDique](@/w/dominique-vadique.md), self-proclaimed leader of _Le VaDique Brand_. Rejecting the name Bumper, she referred to him as "Fabian", apparently his real name. At her behest, Bumper/Fabian's transformation began. The following weeks saw him sharing videos of attending fashion shows and theatre plays, gradually changing his look into a more posh one and embracing the "Fabian" identity. This included changing his Instagram handle to _@fabian_ptw_, and declaring that his ring name was now Fabian - which he pronounced (and over-emphasised) as /fa'bjɔ̃/. Fabian's cooperation with Dominique lasted rather briefly, as after just a few appearances Fabian lost to [Boguś](@/w/bogus.md) at [Ślepa Furia](@/e/ptw/2026-07-18-ptw-slepa-furia.md) and the duo effectively, and bitterly, fired each other.
 
 #### Feud with Kalom and Razor
 
@@ -53,5 +53,4 @@ Shortly after parting ways with Dominique, Fabian took part in PTW's Lucky 8 pro
 
 ## Internet presence
 
-* [Bumper's Instagram](https://www.instagram.com/bump_ptw/)
-* [Dominique VaDique's Instagram](https://www.instagram.com/dvadique/)
+* [Fabian's Instagram](https://www.instagram.com/fabian_ptw/)

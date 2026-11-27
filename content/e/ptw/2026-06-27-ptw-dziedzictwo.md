@@ -56,7 +56,7 @@ has_video = true
   - c: '[PTW Tag Team Championship](@/c/ptw-tag-team-championship.md)'
     s: Tag Team Match
 - - '[Fabian](@/w/fabian.md)'
-  - 'Dominique VaDique'
+  - '[Dominique VaDique](@/w/dominique-vadique.md)'
   - '[Daniel Razor](@/w/daniel-razor.md)'
   - g: Fabian Festival.
 - - '[Damian Adler](@/w/damian-adler.md) & Red Jack'
@@ -89,7 +89,7 @@ has_video = true
 * Notably, this was a contest of two video game universes, as Wesker wore ring gear with the [Umbrella Corporation][parasol] logo from the Resident Evil series.
 * [Alex Brave](@/w/alex-brave.md) was announced without the _Showtime_ prefix this time, but kept that gimmick for his match. [Klakson](@/w/cj-klakson.md) won with a backslide into a pin combination.
 * [Miyagi Sigma](@/tt/miyagi-sigma.md) retained in a fairly short match against Exodus.
-* After a break, Fabian Festival started. The ring was decorated with balloons, serpentine streamers and a table with three statuettes on it. Dominique VaDique introduced Fabian and they proceed with presenting _Golden Fabian_ awards. It turned out, however, that none of the invited guests made it to the Festival. Fabian ran each of them down and they proceed to list the _Golden Fabian_ winners.
+* After a break, Fabian Festival started. The ring was decorated with balloons, serpentine streamers and a table with three statuettes on it. [Dominique VaDique](@/w/dominique-vadique.md) introduced Fabian and they proceed with presenting _Golden Fabian_ awards. It turned out, however, that none of the invited guests made it to the Festival. Fabian ran each of them down and they proceed to list the _Golden Fabian_ winners.
   - Best looking wrestler: Fabian
   - Best match in history: Fabian
   - Best wrestler in history: Fabian

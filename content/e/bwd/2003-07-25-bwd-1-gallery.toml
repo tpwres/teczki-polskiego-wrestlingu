@@ -1,6 +1,6 @@
 01 = { path = "vamp-vita.jpg", caption = "Vampirro opens the show.", source = "WrestleFans forum" }
-02 = { path = "kat.jpg", caption = "KAT.", source = "WrestleFans forum" }
-03 = { path = "kid-crusher.jpg", caption = "Kid Crusher.", source = "WrestleFans forum" }
+02 = { path = "kat.jpg", caption = "[KAT](@/w/kat-bwd.md).", source = "WrestleFans forum" }
+03 = { path = "kid-crusher.jpg", caption = "[Kid Crusher](@/w/kid-crusher.md).", source = "WrestleFans forum" }
 04 = { path = "bush.jpg", caption = "The bush that served as the Gorilla Position.", source = "WrestleFans forum" }
 11 = { path = "obbo-biegnie.jpg", caption = "Obbo's entrance.", source = "WrestleFans forum" }
 12 = { path = "kat-i-obbo.jpg", caption = "KAT and Obbo shake hands.", source = "WrestleFans forum" }
