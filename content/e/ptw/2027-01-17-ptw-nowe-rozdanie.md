@@ -26,4 +26,4 @@ has_video = false
 
 ## References
 
-* [Event at the ticketing website](https://stage24.pl/wydarzenia/ptwnowerozdanie-10389)
+* TBD
