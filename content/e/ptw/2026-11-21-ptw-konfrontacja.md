@@ -65,7 +65,7 @@ has_video = false
     s: 'Do trzech razy sztuka (Three out of Five Falls match)'
 - credits:
     Host, ring announcer: '[Krzysztof Skwarczyński](@/w/krzysztof-skwarczynski.md)'
-    Referees: '???'
+    Referees: '[Sędzia Klaudiusz](@/w/sedzia-klaudiusz.md), [Sędzia Herno](@/w/sedzia-herno.md)'
     Special Guest Referee: 'Sędzia Marek'
     Commentary: '[Krystian "Resivny" Smoleń](@/w/resivny.md), [Alex Brave](@/w/alex-brave.md)'
     Chairman: '[Łukasz "Prezes" Okoński](@/w/lukasz-okonski.md)'
